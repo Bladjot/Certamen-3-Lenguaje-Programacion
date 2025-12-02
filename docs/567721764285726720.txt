@@ -1,0 +1,7 @@
+567721764285726720
+Southwest
+@SouthwestAir Can you link the article where it says the routes and what times the routes are likely to be? Like TUL-DAL 1:00PM - 7 None
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 08:26:31 -0800
+location: USA

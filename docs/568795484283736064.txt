@@ -1,0 +1,7 @@
+568795484283736064
+Virgin America
+@VirginAmerica missed my flight. How does standby work?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 07:33:05 -0800
+location: California 92705

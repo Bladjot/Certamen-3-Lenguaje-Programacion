@@ -1,0 +1,7 @@
+569841047456460800
+United
+@united never ever again will I be Flight Booking Problems a flight with United or any affiliate if there is a chance to get on a United flight
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 04:47:47 -0800
+location: ÜT: 50.97861,-114.000116

@@ -1,0 +1,7 @@
+568505615208693761
+Southwest
+@SouthwestAir thanks for the b day concert I watched them all (and noticed the fist bump/high five at the end of the "rock" version)
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 12:21:15 -0800
+location: SEA

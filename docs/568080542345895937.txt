@@ -1,0 +1,7 @@
+568080542345895937
+Delta
+It's on me, @JetBlue! That's not what you said last night, though... :(
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 08:12:10 -0800
+location: NYC | CT

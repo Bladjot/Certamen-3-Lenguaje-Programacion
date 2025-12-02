@@ -1,0 +1,7 @@
+569944281512685570
+American
+@AmericanAir FYI...call stilling getting dropped.  After an hour of continuous dialing. Attempted to Cancelled Flight online but not able to. HELP!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:38:00 -0800
+location: nan

@@ -1,0 +1,7 @@
+568386094875738113
+US Airways
+@USAirways plz plz plz hold 4438 to EYW. The 810 PHL &gt;CLT is sooo Late Flight. Gonna miss the connection for @jabevan221 's 40th #GTH239
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 04:26:19 -0800
+location: Old City Philly

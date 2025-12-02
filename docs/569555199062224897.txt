@@ -1,0 +1,7 @@
+569555199062224897
+Southwest
+@SouthwestAir Totally ruined my birthday weekend by Cancelled Flighting my flights for no reason and offer no points, drink, transport. #nolove #cali
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 09:51:55 -0800
+location: nan

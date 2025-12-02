@@ -1,0 +1,7 @@
+569622243526909952
+American
+@AmericanAir Are you kidding? You don't think I've done that?? I've called dozens of times &amp; it tells me to call back &amp; hangs up.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:18:20 -0800
+location: Dallas, TX

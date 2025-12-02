@@ -1,0 +1,7 @@
+569360352594546688
+US Airways
+@USAirways As a member of the news media, the awful service of the last few days won't go unnoticed.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 20:57:40 -0800
+location: nan

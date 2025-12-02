@@ -1,0 +1,7 @@
+569932833709527041
+American
+@AmericanAir your team rebooked my Cancelled Flightled AA flight on a different airline. New airline has no such Flight Booking Problems. Flight is this evening.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 10:52:31 -0800
+location: Toronto

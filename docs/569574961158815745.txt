@@ -1,0 +1,7 @@
+569574961158815745
+Virgin America
+@VirginAmerica my drivers license is expired by a little over a month. Can I fly Friday morning using my expired license?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 11:10:27 -0800
+location: nan

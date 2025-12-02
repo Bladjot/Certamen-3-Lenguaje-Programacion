@@ -1,0 +1,7 @@
+570222625621831680
+Southwest
+@SouthwestAir- Wife's RR pts expired a few days ago, were planning on Flight Booking Problems trip today. Anything you can do for us? On a tight budget...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 06:04:02 -0800
+location: Chicago

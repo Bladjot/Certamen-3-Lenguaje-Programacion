@@ -1,0 +1,7 @@
+568525573175136256
+Southwest
+@southwestair *any site*?   gmail, facebook, etc.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 13:40:33 -0800
+location: Tampa Bay (Chicago native)

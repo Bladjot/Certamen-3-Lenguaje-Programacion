@@ -1,0 +1,7 @@
+569876015834484736
+American
+@AmericanAir although there was a 6 hour delay every single staff member from the ticket desk to the admirals club in was as sweet as pie
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 07:06:44 -0800
+location: Los Angeles

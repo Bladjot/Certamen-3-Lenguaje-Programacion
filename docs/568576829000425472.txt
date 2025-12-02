@@ -1,0 +1,7 @@
+568576829000425472
+Virgin America
+@VirginAmerica Applied for Status Match on Feb 1. Got confirmation email same day. Still no news though. You guys have dropped ball Late Flightly 😥
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 17:04:14 -0800
+location: Northern Virginia

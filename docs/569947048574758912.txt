@@ -1,0 +1,7 @@
+569947048574758912
+US Airways
+@USAirways thanks but the bags are only 10% of what went wrong. 22 hours from DCA to SAN when there were no weather issues is not acceptable
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 11:49:00 -0800
+location: VA

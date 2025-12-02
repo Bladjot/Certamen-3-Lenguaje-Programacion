@@ -1,0 +1,7 @@
+567770621451702273
+Southwest
+@SouthwestAir right but the point was that my kids don't fly often, but I do. I bought four round trip tickets from DtW to PHX so I'm....
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 11:40:39 -0800
+location: Michigan

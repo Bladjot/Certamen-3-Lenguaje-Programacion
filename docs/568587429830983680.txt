@@ -1,0 +1,7 @@
+568587429830983680
+Delta
+@JetBlue took forever for catering to get to my flight, now are very delayed. So ticked off right now.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 17:46:21 -0800
+location: ✈️FL/NJ/NYC

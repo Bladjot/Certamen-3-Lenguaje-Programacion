@@ -1,0 +1,7 @@
+569616836884619264
+United
+@united heard about the voucher/miles credit for Cancelled Flighting my international flight yesterday, but I didn't get an email.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 13:56:51 -0800
+location: nan

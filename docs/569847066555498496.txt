@@ -1,0 +1,7 @@
+569847066555498496
+Delta
+@jetblue as courtesy to Mosaic members or anyone, a request for water should be attended promptly. Daniel in flight 1557, should know better
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 05:11:42 -0800
+location: nan

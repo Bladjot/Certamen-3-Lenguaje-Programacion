@@ -1,0 +1,7 @@
+567767269120688128
+Virgin America
+@virginamerica Any way to change from Main Cabin to Main Cabin Select (on same flight) without paying a change fee penalty?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 11:27:20 -0800
+location: Charlottesville, VA

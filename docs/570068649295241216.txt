@@ -1,0 +1,7 @@
+570068649295241216
+American
+.@AmericanAir Hopefully it's all fixed. They've got a new aircraft for us- just waiting to board.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 19:52:12 -0800
+location: Washington, DC via Wisconsin

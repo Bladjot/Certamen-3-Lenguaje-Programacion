@@ -1,0 +1,7 @@
+569435866902302720
+Delta
+@JetBlue thanks for getting us to NYC -JFK really safely. :-) But srsly? How long does it take to get our checked bags? #eternity #5amMisery
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 01:57:44 -0800
+location: new york city

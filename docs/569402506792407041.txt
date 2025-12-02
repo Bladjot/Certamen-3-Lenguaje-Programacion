@@ -1,0 +1,7 @@
+569402506792407041
+United
+@united where is our luggage
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 23:45:11 -0800
+location: Southern California and Hawaii

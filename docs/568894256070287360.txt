@@ -1,0 +1,7 @@
+568894256070287360
+United
+@united FYI, went through this on similar flight last week.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 14:05:34 -0800
+location: Austin, TX

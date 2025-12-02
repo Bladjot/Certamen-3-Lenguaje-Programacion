@@ -1,0 +1,7 @@
+569641805073031168
+United
+@united yes was trying to upgrade my seat. Now there are no available spots
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:36:04 -0800
+location: Earth

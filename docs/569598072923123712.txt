@@ -1,0 +1,7 @@
+569598072923123712
+United
+@united you left my bag in Houston last night. It's freezing cold in Memphis. Any idea on when I will see it? Off again tomorrow.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 12:42:17 -0800
+location: Melbourne, Australia

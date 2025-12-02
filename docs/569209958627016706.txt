@@ -1,0 +1,7 @@
+569209958627016706
+United
+@united Hello United. You should take care of your call center in Mexico City Office. Terrible attitude from the lady who was helping me.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 11:00:04 -0800
+location: nan

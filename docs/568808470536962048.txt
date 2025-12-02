@@ -1,0 +1,7 @@
+568808470536962048
+United
+@united @upgrd I guess the Kit Kat looks tasty... not going near that "sandwich."
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 08:24:41 -0800
+location: New York, New York

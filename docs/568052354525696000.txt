@@ -1,0 +1,7 @@
+568052354525696000
+Southwest
+@SouthwestAir when will you be accepting reservations past August 7?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 06:20:09 -0800
+location: Memphis, TN

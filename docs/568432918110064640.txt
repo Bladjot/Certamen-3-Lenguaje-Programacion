@@ -1,0 +1,7 @@
+568432918110064640
+United
+@united the flt TO ORD is correct.  Per my DM- it is the flight from ORD to CVG I was charged for incorrectly
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 07:32:23 -0800
+location: nan

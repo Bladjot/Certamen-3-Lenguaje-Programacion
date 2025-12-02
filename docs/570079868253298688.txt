@@ -1,0 +1,7 @@
+570079868253298688
+United
+@united tried calling too, but w/25 min phn wait means we'd miss options anyway
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 20:36:46 -0800
+location: WX report for 41 Mile, Hwy 50

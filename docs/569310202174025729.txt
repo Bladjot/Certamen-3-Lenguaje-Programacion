@@ -1,0 +1,7 @@
+569310202174025729
+Delta
+@JetBlue Are we able to change to an Even More Space seat after we've checked in online? Have a flight tmrw and can't seem to change my seat
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 17:38:24 -0800
+location: Massachusetts

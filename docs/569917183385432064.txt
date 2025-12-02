@@ -1,0 +1,7 @@
+569917183385432064
+American
+@AmericanAir literally just stopped allowing people to wait in line for customer service. Incredible. From worst to no customer service.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:50:19 -0800
+location: nan

@@ -1,0 +1,7 @@
+570253196213383168
+Southwest
+@SouthwestAir INSANE traffic in LA. Trying to call you all to re schedule flight but been on phone for 20 minutes and nothing.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 08:05:31 -0800
+location: San Juan, Brooklyn, LA

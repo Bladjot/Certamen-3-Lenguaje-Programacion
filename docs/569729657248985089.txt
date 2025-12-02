@@ -1,0 +1,7 @@
+569729657248985089
+American
+@AmericanAir  I was told it would be emailed to me, but I haven't received anything yet. How can I follow-up?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 21:25:10 -0800
+location: nan

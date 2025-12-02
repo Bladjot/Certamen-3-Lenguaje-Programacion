@@ -1,0 +1,7 @@
+570187100710002689
+American
+@AmericanAir so I have to call back at 9 since the department is closed. This has to be the biggest bunch of bull!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 03:42:53 -0800
+location: McKinney TX

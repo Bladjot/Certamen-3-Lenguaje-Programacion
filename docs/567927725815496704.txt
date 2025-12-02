@@ -1,0 +1,7 @@
+567927725815496704
+United
+@united why couldn't you have changed the tire of my delayed UA1127 flight when it arrived instead of waiting until boarding?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 22:04:56 -0800
+location: San Francisco, CA

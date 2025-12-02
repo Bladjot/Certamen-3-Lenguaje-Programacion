@@ -1,0 +1,7 @@
+568853687130390528
+Southwest
+@SouthwestAir I have the DM from @SouthwestVerity if needed
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 11:24:22 -0800
+location: WORLDWIDE

@@ -1,0 +1,7 @@
+569497791623512065
+Delta
+@JetBlue ok we got as far as Atlantic City due to JFK being closed. Can you get us to HPN or LGA?? Please?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 06:03:48 -0800
+location: Larchmont, New York

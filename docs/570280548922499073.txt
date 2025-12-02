@@ -1,0 +1,7 @@
+570280548922499073
+United
+@United well sitting on the ground 'on time' but waiting for a gate....again #tiredofthis
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 09:54:12 -0800
+location: nan

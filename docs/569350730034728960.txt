@@ -1,0 +1,7 @@
+569350730034728960
+Southwest
+@SouthwestAir u texted that my flight from Denver to SD tmrw is Cancelled Flightled? Been on hold for an hour trying to get help. Any other flights?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 20:19:26 -0800
+location: San Diego

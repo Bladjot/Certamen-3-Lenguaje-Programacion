@@ -1,0 +1,7 @@
+568875453773168640
+US Airways
+@USAirways look @Delta has made the right call on CHO. Please evaluate. http://t.co/3KhGjoFgpX
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 12:50:52 -0800
+location: nan

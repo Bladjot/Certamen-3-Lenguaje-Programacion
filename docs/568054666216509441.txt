@@ -1,0 +1,7 @@
+568054666216509441
+Southwest
+@SouthwestAir 2 bags fly free!  So what's with all the carry-on's? #packingayak @BrianReganComic
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 06:29:21 -0800
+location: Zephyrhills, Florida

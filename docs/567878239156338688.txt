@@ -1,0 +1,7 @@
+567878239156338688
+Southwest
+@SouthwestAir thanks!! We will see what happens!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 18:48:17 -0800
+location: nan

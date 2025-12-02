@@ -1,0 +1,7 @@
+569890695902662657
+American
+@AmericanAir I understand that. But 14 hours Late Flightr, I still haven't heard a word! How can you plan your week with no zero information!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 08:05:04 -0800
+location: nan

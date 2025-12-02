@@ -1,0 +1,7 @@
+569673346864037888
+American
+@AmericanAir yes, for tomorrow at 9 am. But I have to work though 😒 I'm really mad about the situation
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 17:41:24 -0800
+location: Guatemala.

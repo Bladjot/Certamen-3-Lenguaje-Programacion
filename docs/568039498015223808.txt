@@ -1,0 +1,7 @@
+568039498015223808
+US Airways
+@USAirways why aren't twitter and reservations connected? What do people want? Reservations, duh?!?!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 05:29:04 -0800
+location: nan

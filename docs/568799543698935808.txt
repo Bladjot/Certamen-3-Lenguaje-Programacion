@@ -1,0 +1,7 @@
+568799543698935808
+Delta
+@JetBlue gr8 #Mint crew on #flight 123 to #LAX they're #Mintalicious #TrueBlueLove #ShelleyandMarcRock #travel #air
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 07:49:13 -0800
+location: New York, NY

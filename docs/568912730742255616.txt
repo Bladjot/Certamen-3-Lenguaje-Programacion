@@ -1,0 +1,7 @@
+568912730742255616
+US Airways
+@USAirways technical issues = inefficient computer triage system. Personality/ compassion of operators = not. Sad example of sad company.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 15:18:59 -0800
+location: Philly

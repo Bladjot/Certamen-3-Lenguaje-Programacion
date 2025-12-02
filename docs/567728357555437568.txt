@@ -1,0 +1,7 @@
+567728357555437568
+Delta
+@JetBlue no, I am fine to fly! Haha, they come at random, with the hemophilia, but what if i need extra assistance
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 08:52:42 -0800
+location: Logan International Airport

@@ -1,0 +1,7 @@
+569987992858836992
+American
+@AmericanAir How do I place it on hold and complete payment? I don't see any way to do that from my reservations page.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 14:31:42 -0800
+location: Michigan, US

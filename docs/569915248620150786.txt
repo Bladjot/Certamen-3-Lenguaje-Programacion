@@ -1,0 +1,7 @@
+569915248620150786
+American
+@AmericanAir Will my us air points now be combined with yours?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 09:42:38 -0800
+location: Could be Anywhere

@@ -1,0 +1,7 @@
+569632519387099137
+Delta
+@JetBlue Token $75.00 Goodwill Voucher for passengers stuck on flight 136 from Phoenix today. 3 hour mark. How about a $27,000 per passenger
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 14:59:10 -0800
+location: Long Island - Arizona

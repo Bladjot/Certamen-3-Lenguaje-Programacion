@@ -1,0 +1,7 @@
+569613113718218752
+Southwest
+@SouthwestAir your "complimentary" hotel vouchers are BS! $79 a night for the crappiest hotel ever! I wouldn't wish this on my worst enemy!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 13:42:03 -0800
+location: nan

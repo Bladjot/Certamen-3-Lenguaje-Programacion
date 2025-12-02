@@ -1,0 +1,7 @@
+569219928957394944
+United
+@united employees are the angriest, angst-iest group of people anywhere (except for Tasha at check-in at IAH.) @dad_or_alive
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 11:39:41 -0800
+location: Washington, DC

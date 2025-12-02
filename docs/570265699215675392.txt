@@ -1,0 +1,7 @@
+570265699215675392
+US Airways
+@USAirways an award travel ticket but cannot since it is under a different last name. I simply need to change it
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 08:55:12 -0800
+location: nan

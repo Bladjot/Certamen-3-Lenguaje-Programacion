@@ -1,0 +1,7 @@
+569397984519016448
+Southwest
+@SouthwestAir  Cancelled Flighted Sunday 9:50AM flight to Dallas..next flight out is Tuesday afternoon. Stranded. #BS #GetMeOuttaHere #SouthwestSucks
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 23:27:13 -0800
+location: nan

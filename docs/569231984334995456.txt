@@ -1,0 +1,7 @@
+569231984334995456
+United
+@united nope. Called, lost the seating preference I paid for, and here I still sit. We'll see what happens w/ my flight Late Flightr.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 12:27:35 -0800
+location: nan

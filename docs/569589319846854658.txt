@@ -1,0 +1,7 @@
+569589319846854658
+United
+@united I missed my connection already. Then I missed the next flight they put me on.  Now I'm going to LAX instead of Hawaii.  :(
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 12:07:30 -0800
+location: nan

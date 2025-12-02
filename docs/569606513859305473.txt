@@ -1,0 +1,7 @@
+569606513859305473
+American
+@americanair Seattle check-in. 1 desk servicing full service line. 2 desks servicing priority. Full srvc wait 30+ minutes. Customer svc fail
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:15:50 -0800
+location: nan

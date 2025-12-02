@@ -1,0 +1,7 @@
+568566729992847360
+United
+@united I will give it a couple more weeks. Thank you.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 16:24:06 -0800
+location: Nicaragua

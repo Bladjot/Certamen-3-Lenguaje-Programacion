@@ -1,0 +1,7 @@
+568958074230190080
+Southwest
+@SouthwestAir @JasonWhitely flt 947 Emer stop in Albuquer for a heart condition, crew was awesome, pilot was Maverick on the divert.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 18:19:10 -0800
+location: nan

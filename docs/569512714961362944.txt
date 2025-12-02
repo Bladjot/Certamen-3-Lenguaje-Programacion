@@ -1,0 +1,7 @@
+569512714961362944
+United
+@united : flight delayed by 24 hours, lost my wallet, have no money to eat or sleep yet your representatives will not help.#unitedsucks
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 07:03:06 -0800
+location: nan

@@ -1,0 +1,7 @@
+569307917712805889
+Delta
+@JetBlue If you "follow" me, I will be able to DM you.  Thanks.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 17:29:19 -0800
+location: nan

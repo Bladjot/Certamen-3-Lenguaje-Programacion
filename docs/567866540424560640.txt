@@ -1,0 +1,7 @@
+567866540424560640
+US Airways
+@USAirways on hold for 1:23. All because they won't let me use a companion voucher online http://t.co/DPhQRgkdoA
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 18:01:48 -0800
+location: nan

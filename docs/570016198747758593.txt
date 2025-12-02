@@ -1,0 +1,7 @@
+570016198747758593
+United
+@united Thank you for responding so quickly with a helpful tool! @dustyob
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 16:23:46 -0800
+location: Houston, TX

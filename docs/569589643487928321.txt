@@ -1,0 +1,7 @@
+569589643487928321
+American
+@AmericanAir Flight 236 was great. Fantastic cabin crew. A+ landing. #thankyou #JFK http://t.co/dRW08djHAI
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 12:08:48 -0800
+location: East Coast

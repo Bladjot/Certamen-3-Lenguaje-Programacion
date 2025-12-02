@@ -1,0 +1,7 @@
+568545534056787968
+Delta
+@JetBlue you service agents at MCO are great, but their are not enough of them working right now!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 14:59:53 -0800
+location: Tonawanda NY

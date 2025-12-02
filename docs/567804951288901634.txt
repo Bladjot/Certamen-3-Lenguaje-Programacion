@@ -1,0 +1,7 @@
+567804951288901634
+United
+@united here I was thinking how I could say so many nice things after getting upgraded, but then you delayed my flight... It's ok!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 13:57:04 -0800
+location: Denver, CO

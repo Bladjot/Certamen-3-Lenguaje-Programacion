@@ -1,0 +1,7 @@
+570041376005443585
+American
+@AmericanAir needs an entire customer service overhaul @Delta would never treat its customers with anything less that A1 service
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 18:03:49 -0800
+location: Miami

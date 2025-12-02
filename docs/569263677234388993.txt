@@ -1,0 +1,7 @@
+569263677234388993
+US Airways
+@USAirways what about AA miles for USAir flights booked through American?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 14:33:31 -0800
+location: nan

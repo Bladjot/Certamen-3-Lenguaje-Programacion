@@ -1,0 +1,7 @@
+569815061440679937
+US Airways
+@USAirways as the employee responsible for social media content, yes u probably do care however the actions from last night say otherwise
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 03:04:31 -0800
+location: nan

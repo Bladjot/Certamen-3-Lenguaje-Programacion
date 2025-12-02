@@ -1,0 +1,7 @@
+569628172842479616
+Delta
+@JetBlue sadly, no! I have the app, but it also is experiencing difficulties. The flight information boards are keeping me updated.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 14:41:54 -0800
+location: Chicago

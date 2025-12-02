@@ -1,0 +1,7 @@
+569643301332258817
+American
+@AmericanAir I've been trying to call to cxl a reservation for tomorrow, due to needing surgery this week - cannot get through?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:42:01 -0800
+location: Chicago, IL

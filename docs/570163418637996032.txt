@@ -1,0 +1,7 @@
+570163418637996032
+American
+@AmericanAir already did- reply was "sorry. we believe this to be fair." as a journalist writing an article on my trip i will include this
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 02:08:46 -0800
+location: nan

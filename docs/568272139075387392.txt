@@ -1,0 +1,7 @@
+568272139075387392
+US Airways
+@USAirways Unfortunately I doubt that the consistently subpar service will improve with the @AmericanAir merger. #USAirways
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 20:53:30 -0800
+location: I'm a 917 girl.

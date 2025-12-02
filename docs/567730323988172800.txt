@@ -1,0 +1,7 @@
+567730323988172800
+US Airways
+@USAirways will do. Hoping for a voucher for a future flight #Optimistic
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 09:00:31 -0800
+location: Pittsburgh, Pa

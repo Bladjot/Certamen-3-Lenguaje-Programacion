@@ -1,0 +1,7 @@
+569596793941401601
+American
+@AmericanAir don't you guys have an email address? Just put me on the next available flight from ohare
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:37:12 -0800
+location: nan

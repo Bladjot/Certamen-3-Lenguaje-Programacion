@@ -1,0 +1,7 @@
+569648753357037569
+Delta
+@JetBlue no m'good. Just get me home
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:03:41 -0800
+location: Boston

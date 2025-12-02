@@ -1,0 +1,7 @@
+568449223730925571
+US Airways
+@USAirways will these prices be honored? Ive waited this 1 1/2 hours on hold to make sure I can still get the prices I originally started
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 08:37:10 -0800
+location: Denver

@@ -1,0 +1,8 @@
+569236251129163777
+Virgin America
+@VirginAmerica your mobile site is broken, shows 
+"{{header.elevateUser.numOfPointsAvailable || '0' | number}} Points", won't let me checkin
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 12:44:32 -0800
+location: Silicon Valley, California

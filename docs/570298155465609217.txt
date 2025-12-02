@@ -1,0 +1,7 @@
+570298155465609217
+Southwest
+@SouthwestAir can y'all develop Ding for a chrome/Firefox browser extension? That would be swell
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:04:10 -0800
+location: San Antonio, TX

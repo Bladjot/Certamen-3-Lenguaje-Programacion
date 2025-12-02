@@ -1,0 +1,7 @@
+568750153315676160
+US Airways
+@USAirways on flight 1839 waiting for weight and balance info for the past 30 minutes!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 04:32:58 -0800
+location: nan

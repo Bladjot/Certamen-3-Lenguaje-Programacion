@@ -1,0 +1,7 @@
+568427870055305216
+Delta
+@JetBlue thank you will do!! You guy are awesome!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 07:12:19 -0800
+location: nan

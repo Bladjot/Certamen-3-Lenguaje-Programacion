@@ -1,0 +1,7 @@
+568769775515635712
+Delta
+@JetBlue I waited in line all that time to be told by a crewmember that there's no update until 9:30 #3HrDelay #disappointed
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 05:50:56 -0800
+location: The Eastside of the Far Side

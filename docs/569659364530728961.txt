@@ -1,0 +1,7 @@
+569659364530728961
+American
+@AmericanAir ah if only we could get through. We've tried for over 2 hrs. Can we call @united?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 16:45:50 -0800
+location: Miami

@@ -1,0 +1,7 @@
+568890062286385153
+Virgin America
+👍👍✈️✈️💗 When are you guys going to start flying to Paris? @VirginAmerica: @LizaUtter You're welcome.”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 13:48:54 -0800
+location: Malibu, CA

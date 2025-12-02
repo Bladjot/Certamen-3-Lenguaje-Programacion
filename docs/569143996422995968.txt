@@ -1,0 +1,7 @@
+569143996422995968
+Southwest
+@SouthwestAir - i needed refund on my Cancelled Flightled flights this morning and had been on hold for more than an hour X 3. what to do?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 06:37:57 -0800
+location: 43.012983,-78.724003

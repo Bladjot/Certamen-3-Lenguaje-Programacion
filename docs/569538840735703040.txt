@@ -1,0 +1,7 @@
+569538840735703040
+Delta
+@JetBlue Thanks for the THIRD gate change http://t.co/UfBdr5AxeO
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 08:46:55 -0800
+location: New York City

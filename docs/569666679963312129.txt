@@ -1,0 +1,7 @@
+569666679963312129
+United
+@united Missed KTM flight due to ur Cancelled Flightlation. Mike supervisor disgusting.  Now day Late Flight. No apology or upgrade offer to LHR from ORD???
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 17:14:55 -0800
+location: Stavromula Beta

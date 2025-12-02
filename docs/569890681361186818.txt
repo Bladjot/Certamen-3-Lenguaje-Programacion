@@ -1,0 +1,7 @@
+569890681361186818
+United
+@united. Is it reasonable to wait 45 mins for the bag you made me check because the flight staff couldn't police the overhead bins?
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 08:05:01 -0800
+location: nan

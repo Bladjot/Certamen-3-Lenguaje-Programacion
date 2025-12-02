@@ -1,0 +1,7 @@
+569635077623148545
+United
+@united Poor cabin luggage service on UA1266 to BOS, I was forced to check in even when there was empty space for bags in the overhead!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 15:09:20 -0800
+location: Cambridge, MA

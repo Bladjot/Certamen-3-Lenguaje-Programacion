@@ -1,0 +1,7 @@
+569613284455948289
+Southwest
+@SouthwestAir I will be calling someone on Monday in customer relations. Very disappointed in how I was treated by customer service!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:42:44 -0800
+location: nan

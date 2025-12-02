@@ -1,0 +1,7 @@
+570151995472027649
+US Airways
+@USAirways it's not like I'm trying to leave earlier just for fun. I don't want to get stuck in DC if we have bad weather in RDU.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 01:23:23 -0800
+location: Durham, NC

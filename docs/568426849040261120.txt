@@ -1,0 +1,7 @@
+568426849040261120
+United
+@united why do I have to request refund? Why charge twice in first place?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 07:08:16 -0800
+location: New York

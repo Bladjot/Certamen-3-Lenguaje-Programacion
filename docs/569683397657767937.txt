@@ -1,0 +1,7 @@
+569683397657767937
+American
+@AmericanAir thanks. Bummer. Poor planning on my part. I assume the card in Passbook won't work either?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:21:20 -0800
+location: Seattle, WA / 36,000 feet

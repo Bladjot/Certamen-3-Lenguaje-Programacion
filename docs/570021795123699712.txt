@@ -1,0 +1,7 @@
+570021795123699712
+American
+@AmericanAir why would it take that long? My credit card company says the card hasn't been charged yet. Should it take 5 days for this?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 16:46:01 -0800
+location: Ft. Lauderdale

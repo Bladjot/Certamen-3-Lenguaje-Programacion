@@ -1,0 +1,7 @@
+569948353003446274
+Delta
+@JetBlue i hate the internet lol
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:54:11 -0800
+location: Tallahassee, FL

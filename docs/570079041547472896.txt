@@ -1,0 +1,7 @@
+570079041547472896
+United
+@united Yo yo yo stuck on the tarmac for over 2 hours at @fly2ohare ... Going to miss my ride at @flypdx help please! #HelpImStuck #United
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 20:33:29 -0800
+location: nan

@@ -1,0 +1,7 @@
+569786249508048896
+Delta
+Happy for SFO, but hopefully you'll add PDX soon “@JetBlue We added two new destinations (FLL and SFO) from Las Vegas in the last year!”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 01:10:02 -0800
+location: Las Vegas

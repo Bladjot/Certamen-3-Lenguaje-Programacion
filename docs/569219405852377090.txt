@@ -1,0 +1,7 @@
+569219405852377090
+US Airways
+@USAirways had baggage lost last night, no call from us airways and no bags and nobody answering phone #badcustomersrvice #whereismybag
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 11:37:36 -0800
+location: charlotte, north carolina

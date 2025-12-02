@@ -1,0 +1,7 @@
+570192546367975424
+American
+@AmericanAir Your customer relations dept has one-way e-mail. How is not allowing responses helpful?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 04:04:31 -0800
+location: Wichita, Kansas

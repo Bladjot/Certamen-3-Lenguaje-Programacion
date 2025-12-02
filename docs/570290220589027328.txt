@@ -1,0 +1,7 @@
+570290220589027328
+American
+@AmericanAir spent $8 for the choppiest feed of "Whiplash" ever. #americanairlinesfail #iwantmymoneyback
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 10:32:38 -0800
+location: Los Angeles, CA

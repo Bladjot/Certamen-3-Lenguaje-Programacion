@@ -1,0 +1,7 @@
+569967938607972352
+Southwest
+@SouthwestAir hi guys, do you have a general enquires email address please? Thanks David.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:12:00 -0800
+location: London UK & USA

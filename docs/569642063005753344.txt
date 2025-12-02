@@ -1,0 +1,7 @@
+569642063005753344
+United
+@united been good 15yr "friendly skies" relationship. 2day agent told me I'm "only Canadian" and thus not good enough for military preboard
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 15:37:05 -0800
+location: Canada

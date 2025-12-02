@@ -1,0 +1,7 @@
+567793186698190848
+US Airways
+@USAirways was rebooked but sucked big time. Crappy layover. Customer service very sub-par.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 13:10:19 -0800
+location: nan

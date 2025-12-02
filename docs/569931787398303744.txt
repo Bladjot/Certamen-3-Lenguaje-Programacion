@@ -1,0 +1,7 @@
+569931787398303744
+American
+@AmericanAir THANK YOU FOR ALL THE HELP!  :P You guys are the best.  #americanairlines #americanair
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:48:21 -0800
+location: ÜT: 37.77581,-122.419796

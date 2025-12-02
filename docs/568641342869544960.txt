@@ -1,0 +1,7 @@
+568641342869544960
+Delta
+@JetBlue you don't remember our date Monday night back to NYC? #heartbroken
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 21:20:35 -0800
+location: manhattan.

@@ -1,0 +1,7 @@
+569683780593545218
+Southwest
+@SouthwestAir why does the customer service have rather inconsistent information
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:22:52 -0800
+location: Las Vegas, NV

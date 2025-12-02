@@ -1,0 +1,7 @@
+567886422826307585
+Southwest
+@SouthwestAir My luggage has still not been found. Luggage is not scanned until final destination. So no way of knowing where it is!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 19:20:48 -0800
+location: nan

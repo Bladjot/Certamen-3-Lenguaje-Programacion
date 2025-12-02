@@ -1,0 +1,7 @@
+569559433887526913
+United
+@united doesn't purchasing ticket with a united card give me priority boarding ?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 10:08:45 -0800
+location: nan

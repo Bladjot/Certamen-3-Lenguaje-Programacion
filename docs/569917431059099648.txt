@@ -1,0 +1,7 @@
+569917431059099648
+US Airways
+@USAirways is there a # or a time bracket I can call to fix this problem?I've been attempting to fix this contact information issue for days
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:51:18 -0800
+location: NYC // LI

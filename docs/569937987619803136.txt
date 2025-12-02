@@ -1,0 +1,7 @@
+569937987619803136
+American
+@AmericanAir, that's not the point. Say its $1300 at the counter when I clearly see $500 on your site? AA agent was @ a loss 4 words, too
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 11:12:59 -0800
+location: Bennington, NE

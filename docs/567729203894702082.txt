@@ -1,0 +1,7 @@
+567729203894702082
+Southwest
+@SouthwestAir I've been on hold for an hour now. 59:57 as I type this. Ridiculous! All I need is the link to the chart that has routes, time
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 08:56:04 -0800
+location: USA

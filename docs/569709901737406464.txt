@@ -1,0 +1,7 @@
+569709901737406464
+US Airways
+@USAirways I'm tired of paying for luggage &amp; less than stellar customer service @AmericanAir. #notafanofyourmerger
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:06:39 -0800
+location: nan

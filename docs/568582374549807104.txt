@@ -1,0 +1,7 @@
+568582374549807104
+Southwest
+@SouthwestAir why can't you help me after you made mistake and dropped my early bird check in on your end?  Where is the LUV?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 17:26:16 -0800
+location: nan

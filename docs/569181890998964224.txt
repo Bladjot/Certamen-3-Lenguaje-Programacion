@@ -1,0 +1,7 @@
+569181890998964224
+Southwest
+@SouthwestAir been on hold for 20 mins to Cancelled Flight my reservation. Can you assist?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 09:08:32 -0800
+location: nan

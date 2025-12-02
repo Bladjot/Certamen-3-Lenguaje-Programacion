@@ -1,0 +1,7 @@
+569526164575924225
+US Airways
+@USAirways please thank Mellie at CAE, Tammy in baggage claim at CLT 4 #excellent customer service 2day, BUT I have a complaint.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 07:56:33 -0800
+location: nan

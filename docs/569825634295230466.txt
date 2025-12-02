@@ -1,0 +1,7 @@
+569825634295230466
+American
+@AmericanAir I've been doing this all night. Can someone please help? I need my flt fixed. Please???
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 03:46:32 -0800
+location: Plano, Texas

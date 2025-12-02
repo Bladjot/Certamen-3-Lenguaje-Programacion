@@ -1,0 +1,7 @@
+570265609122029568
+US Airways
+@USAirways Hi! On my dividend miles account I accidentally listed my newly married name as opposed to my legal name. I am trying to book
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:54:50 -0800
+location: nan

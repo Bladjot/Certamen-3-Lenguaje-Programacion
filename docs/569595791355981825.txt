@@ -1,0 +1,7 @@
+569595791355981825
+American
+@AmericanAir Nah, just horrible dining options outside of club. Luckily Manuel in the Admirals can make a Bloody Mary.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 12:33:13 -0800
+location: Old City Philly

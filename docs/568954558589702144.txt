@@ -1,0 +1,7 @@
+568954558589702144
+US Airways
+@USAirways I will send an email with details Late Flightr. Thank you for responding.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 18:05:12 -0800
+location: Pittsburgh, PA

@@ -1,0 +1,7 @@
+569994090147909632
+American
+@AmericanAir No worries at all. Y’all have a good one!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 14:55:55 -0800
+location: birmingham, usa

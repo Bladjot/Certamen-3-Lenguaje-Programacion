@@ -1,0 +1,7 @@
+569541545029804034
+Delta
+@JetBlue waiting at HPN on plane more than an hour since landing b/c of no gate, please get us off this plane!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 08:57:40 -0800
+location: New York, NY

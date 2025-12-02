@@ -1,0 +1,7 @@
+568042869505654784
+Southwest
+@SouthwestAir when will you have flights for October 2015 available?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 05:42:28 -0800
+location: nan

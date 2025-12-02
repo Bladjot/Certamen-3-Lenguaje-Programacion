@@ -1,0 +1,7 @@
+570244388175130625
+American
+@AmericanAir the communications seems to be an issue too, no?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 07:30:31 -0800
+location: Washington, DC

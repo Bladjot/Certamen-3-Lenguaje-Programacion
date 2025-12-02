@@ -1,0 +1,7 @@
+569633643821441024
+Delta
+@JetBlue last flight was Cancelled Flightled, then it was 2 hours to change a light bulb, now sitting here waiting for maintenance. Unreal.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 15:03:38 -0800
+location: nan

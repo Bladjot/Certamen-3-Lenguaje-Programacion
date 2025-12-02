@@ -1,0 +1,7 @@
+570092677196181507
+American
+@AmericanAir glad that you WANTED to help me, but you didn't. Have an agent call me before I rant about shitty service every day
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 21:27:40 -0800
+location: nan

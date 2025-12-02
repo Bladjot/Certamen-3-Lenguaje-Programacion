@@ -1,0 +1,7 @@
+569925111475793921
+Delta
+“@JetBlue: Our fleet's on fleek. http://t.co/PULp4i0w96” smh
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:21:49 -0800
+location: the road less traveled.

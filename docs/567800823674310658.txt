@@ -1,0 +1,7 @@
+567800823674310658
+United
+@united can't believe United can't find someone to just simply check a seat back for a missing passport. Loved United but debating choice
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 13:40:40 -0800
+location: nan

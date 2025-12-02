@@ -1,0 +1,7 @@
+568186350219821057
+Delta
+@JetBlue need flight to ATH from PDX. Do you coordinate with other airlines?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 15:12:36 -0800
+location: nan

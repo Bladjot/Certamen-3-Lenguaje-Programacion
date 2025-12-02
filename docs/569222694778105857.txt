@@ -1,0 +1,7 @@
+569222694778105857
+Delta
+@JetBlue thank you! I'm excited to fly with you for the first time.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 11:50:40 -0800
+location: nan

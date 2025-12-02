@@ -1,0 +1,7 @@
+568456844429160448
+United
+@united There is only one club at LAX  - in terminal 7 across from gate 71
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 09:07:27 -0800
+location: nan

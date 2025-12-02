@@ -1,0 +1,7 @@
+567754096272224256
+Southwest
+@SouthwestAir Happily! But you need to follow me in order for me to DM you
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 10:34:59 -0800
+location: ÜT: 32.259172,-110.788252

@@ -1,0 +1,7 @@
+569716670689902592
+US Airways
+@USAirways Looking for some help to recover an item I left on an airplane this evening
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 20:33:33 -0800
+location: Rhode Island

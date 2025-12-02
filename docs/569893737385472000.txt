@@ -1,0 +1,7 @@
+569893737385472000
+Delta
+@JetBlue expanding!  http://t.co/Kk6EixifP5  #Nantucket #Aviation
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 08:17:09 -0800
+location: Chicago IL

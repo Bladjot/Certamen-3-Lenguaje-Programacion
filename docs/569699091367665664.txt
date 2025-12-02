@@ -1,0 +1,7 @@
+569699091367665664
+American
+@AmericanAir I need to speak to a REAL PERSON. My flight was Cancelled Flightled with no explanation, and I've been on hold for more than 3 hours.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 19:23:42 -0800
+location: nan

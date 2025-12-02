@@ -1,0 +1,7 @@
+569644070470963201
+American
+@AmericanAir been a very long day in Philly...12:13pm flt to ORD Cancelled Flighted with NO notice, no message, no email.  NOT NICE FOR WE PLATINUMS.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 15:45:04 -0800
+location: Chicago

@@ -1,0 +1,7 @@
+569273375954243584
+Southwest
+@SouthwestAir I had to switch airlines and eat the difference (which was not insubstantial) and Cancelled Flight all plans for sat &amp; sun :(
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 15:12:04 -0800
+location: St. Louis

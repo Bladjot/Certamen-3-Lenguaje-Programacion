@@ -1,0 +1,7 @@
+567735337246806016
+US Airways
+@USAirways Just contaced EYEWITNESS NEWS about the ripoff the Cancelled Flighted now they want me to pay
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 09:20:27 -0800
+location: nan

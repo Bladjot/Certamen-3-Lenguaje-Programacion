@@ -1,0 +1,7 @@
+569539111222190081
+Delta
+@JetBlue when will the system be up and running?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 08:48:00 -0800
+location: nan

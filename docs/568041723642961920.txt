@@ -1,0 +1,7 @@
+568041723642961920
+Southwest
+@SouthwestAir thanks for getting me back to Nashville. Big thanks to the pilots on the 6:15 out of Baltimore. Flying in snow landing on ice.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 05:37:55 -0800
+location: Nashville, TN

@@ -1,0 +1,7 @@
+570295637708816384
+US Airways
+@USAirways ur "response" was: my "inconvenience was of no matter." U wanted me sit for 3 xtra nights in the city w/out comp! #donotflyusair
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 10:54:10 -0800
+location: nan

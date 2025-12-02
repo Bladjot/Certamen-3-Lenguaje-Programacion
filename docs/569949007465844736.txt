@@ -1,0 +1,7 @@
+569949007465844736
+US Airways
+@USAirways US 728/Feb 21 Hour 6 on plane when US Airways representative Kim Y enters deteriorating picture. Unhelpful with no assurances.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:56:47 -0800
+location: nan

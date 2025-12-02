@@ -1,0 +1,7 @@
+568034773156933632
+Southwest
+@southwestair Hi, how do I add a flight to my account? Just created it
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 05:10:18 -0800
+location: Washington, D.C.

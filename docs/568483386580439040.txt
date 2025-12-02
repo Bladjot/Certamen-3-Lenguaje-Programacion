@@ -1,0 +1,7 @@
+568483386580439040
+Southwest
+@SouthwestAir do you have a pair of tickets to the @Imaginedragons show in Atlanta?! I'd love to go! #DestinationDragons
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 10:52:55 -0800
+location: nan

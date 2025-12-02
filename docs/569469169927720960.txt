@@ -1,0 +1,7 @@
+569469169927720960
+US Airways
+@USAirways once again your company actualy put people in weird situations.Your hostel voucher was fake.Snow is ok but no lies please
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 04:10:04 -0800
+location: Bruxelle-Paris-Marseille-(BPM)

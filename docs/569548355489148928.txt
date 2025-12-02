@@ -1,0 +1,7 @@
+569548355489148928
+US Airways
+@USAirways just informed of three hour delay. Pick up the phone and get me on another flight!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 09:24:44 -0800
+location: nan

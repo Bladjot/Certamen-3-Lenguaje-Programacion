@@ -1,0 +1,7 @@
+570293142257311744
+Southwest
+.@SouthwestAir she needs a wheelchair at the gate for sure. What options does she have?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:44:15 -0800
+location: New York, NY

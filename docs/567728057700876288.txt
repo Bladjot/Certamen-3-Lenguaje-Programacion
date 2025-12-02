@@ -1,0 +1,7 @@
+567728057700876288
+US Airways
+@USAirways no we haven't because we've been in the same line at the service desk for an 1hr and 1/2 now in the same spot.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-17 08:51:31 -0800
+location: nan

@@ -1,0 +1,7 @@
+567755891714174976
+US Airways
+@USAirways customer service at its finest
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 10:42:07 -0800
+location: East Coast

@@ -1,0 +1,7 @@
+570298027103162368
+United
+@united no I don't, but I'm sure United have my info on its system.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:03:39 -0800
+location: USA

@@ -1,0 +1,7 @@
+569671435309809664
+Delta
+@JetBlue thanks for the quick response! Fingers crossed the plane gets here then
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:33:48 -0800
+location: New York City

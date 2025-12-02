@@ -1,0 +1,7 @@
+570295290063925249
+US Airways
+@USAirways question, friend flight got Cancelled Flightled. How can he book be flight? Leaving CHS to Philly to Germany
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:52:47 -0800
+location: Charleston/Houston

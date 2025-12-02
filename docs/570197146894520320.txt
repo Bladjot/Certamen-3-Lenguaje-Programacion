@@ -1,0 +1,7 @@
+570197146894520320
+Delta
+@JetBlue Hi there, any rough idea of when January 2016 flights will be made available?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 04:22:48 -0800
+location: nan

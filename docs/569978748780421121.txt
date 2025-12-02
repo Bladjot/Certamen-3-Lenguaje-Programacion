@@ -1,0 +1,7 @@
+569978748780421121
+Southwest
+@SouthwestAir What can we do to bring you back to Jackson, MS?! We miss you terribly around here. These other airlines are horrible!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 13:54:58 -0800
+location: nan

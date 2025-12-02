@@ -1,0 +1,7 @@
+567899010045988865
+United
+@united again, you said to go take the time to go there, knowing what the issue was, and knowing you won’t fix it.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 20:10:49 -0800
+location: Washington DC

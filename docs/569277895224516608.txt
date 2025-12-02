@@ -1,0 +1,7 @@
+569277895224516608
+US Airways
+@USAirways but only for certain flights from CLT-NYC. The notion that you can't rebook customers for 48 hours is absurd.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 15:30:01 -0800
+location: nan

@@ -1,0 +1,7 @@
+569174820308590592
+US Airways
+@USAirways why cant Sapphire members reach anyone on the phone?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 08:40:26 -0800
+location: nan

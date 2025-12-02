@@ -1,0 +1,7 @@
+569259515398504449
+Southwest
+@SouthwestAir change your hold music, going on hour 3 and i'm about to loose it
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 14:16:59 -0800
+location: New Orleans

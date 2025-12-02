@@ -1,0 +1,7 @@
+568356849189150721
+US Airways
+@USAirways I received a brochure in the mail touting all the benefits of the advantage card with usa now merged...baggage included
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 02:30:07 -0800
+location: nan

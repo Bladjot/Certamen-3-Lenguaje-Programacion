@@ -1,0 +1,7 @@
+568006084360863745
+US Airways
+@USAirways I've been on hold for one hour and four minutes for your reservations line. How can you possibly do business this way?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 03:16:18 -0800
+location: Up In The Air

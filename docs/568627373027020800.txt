@@ -1,0 +1,7 @@
+568627373027020800
+US Airways
+@USAirways now the freezing bus is just doing circles?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 20:25:04 -0800
+location: DC

@@ -1,0 +1,7 @@
+569337230935724032
+US Airways
+@USAirways understood. It simply feels as if the staff is not being entirely truthful about the situation.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 19:25:48 -0800
+location: nan

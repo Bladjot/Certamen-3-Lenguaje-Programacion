@@ -1,0 +1,7 @@
+568434065067491328
+United
+@united I need you to get my cousin to PDX, she's on 2 days of travel now and we've had to hire other sitters til she arrives, thx for that
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 07:36:56 -0800
+location: Portland, OR

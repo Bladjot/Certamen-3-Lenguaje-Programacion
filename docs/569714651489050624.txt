@@ -1,0 +1,7 @@
+569714651489050624
+Southwest
+@SouthwestAir luggage delivery between 1-4am? Really? After I was told by midnight multiple times? Why lie? Crazy and bad business.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 20:25:32 -0800
+location: Aurora, OH

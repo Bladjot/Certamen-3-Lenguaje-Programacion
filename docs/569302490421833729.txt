@@ -1,0 +1,7 @@
+569302490421833729
+United
+@united Nope! I'm on UA 174 that was supposed to leave at 6:47 but are still at the gate. Apparently we are about to pull back and de-ice.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 17:07:45 -0800
+location: nan

@@ -1,0 +1,7 @@
+569438531686424577
+United
+@united of course I would like hepl! Are you kidding me? That's the ONLY reason I've been on hold for the past 5 hours!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 02:08:20 -0800
+location: nan

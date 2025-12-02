@@ -1,0 +1,7 @@
+569915529496027136
+United
+@united shes been rescheduled for today, but with the frigid cold, being a possible reason for "maintenance" it could be the same issue 2day
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 09:43:45 -0800
+location: Grand Rapids

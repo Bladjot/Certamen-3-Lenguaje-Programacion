@@ -1,0 +1,7 @@
+569268155383717889
+US Airways
+@USAirways you're right it's not fun. Especially when I don't have much of a choice. Lol. #curvygirltravels
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 14:51:19 -0800
+location: Los Angeles

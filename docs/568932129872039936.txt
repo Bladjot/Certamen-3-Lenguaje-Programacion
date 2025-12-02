@@ -1,0 +1,7 @@
+568932129872039936
+Delta
+@JetBlue Airways Corporation Insider Trading Update - Rock Hill Daily http://t.co/vvzkSMFKVw
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 16:36:04 -0800
+location: USA

@@ -1,0 +1,7 @@
+568841522646552576
+Southwest
+@SouthwestAir's CEO Kelly draws record crowd to @BWI_Airport Business Partnership breakfast http://t.co/hrvuKtpvn1 http://t.co/MY3dnVBZAZ
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 10:36:02 -0800
+location: Glen Burnie

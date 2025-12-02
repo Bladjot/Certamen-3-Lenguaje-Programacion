@@ -1,0 +1,7 @@
+569867719874650112
+Delta
+@JetBlue great to see the RedSox plane and your reminder you ❤️NY side by side at JFK #catsanddogslivingtogether http://t.co/KFUyYoKUFv
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 06:33:46 -0800
+location: NYC/Austin

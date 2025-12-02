@@ -1,0 +1,7 @@
+568086068328681473
+Virgin America
+@VirginAmerica Nice to see you expanding in Texas but don't forget about us here in #SanDiego. I would love to see more flights out of here!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 08:34:07 -0800
+location: San Marcos, CA

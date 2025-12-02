@@ -1,0 +1,7 @@
+569524522291892226
+US Airways
+@USAirways i ve been told that you get a percentage on every plastic bottle that is sold around yout departure section...turn up the heat
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 07:50:02 -0800
+location: Bruxelle-Paris-Marseille-(BPM)

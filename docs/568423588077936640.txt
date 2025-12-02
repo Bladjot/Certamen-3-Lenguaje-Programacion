@@ -1,0 +1,7 @@
+568423588077936640
+US Airways
+@USAirways thanks for slowing the inbound plane down so that we didn't need to worry about 4438 EYW being Late Flight. Great holz ahead. Cheers! 😀
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 06:55:18 -0800
+location: Old City Philly

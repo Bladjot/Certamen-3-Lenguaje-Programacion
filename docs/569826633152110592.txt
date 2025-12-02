@@ -1,0 +1,7 @@
+569826633152110592
+American
+@AmericanAir its now 17 days since I contacted customer relations... #surf #fail #BaggageDrama http://t.co/CS1673hrqQ
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 03:50:30 -0800
+location: London, UK

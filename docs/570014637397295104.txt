@@ -1,0 +1,7 @@
+570014637397295104
+American
+@AmericanAir I waited on hold for two hours, only to have my call. Really unreliable.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 16:17:34 -0800
+location: nan

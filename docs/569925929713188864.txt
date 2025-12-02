@@ -1,0 +1,7 @@
+569925929713188864
+Delta
+@JetBlue lmfao, i love it
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:25:05 -0800
+location: RVA-804\757

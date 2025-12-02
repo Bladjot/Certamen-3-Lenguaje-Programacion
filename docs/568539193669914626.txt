@@ -1,0 +1,7 @@
+568539193669914626
+Southwest
+@SouthwestAir truly the best in #customerservice.  If something goes wrong, no matter how big or small the issue was, they fix it. Thank you
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 14:34:41 -0800
+location: US

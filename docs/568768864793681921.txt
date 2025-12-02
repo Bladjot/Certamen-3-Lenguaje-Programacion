@@ -1,0 +1,7 @@
+568768864793681921
+US Airways
+@USAirways First class no snack basket was catered so drinks only No preflight drink or coathanging 1st drink service 50 min after take off
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 05:47:19 -0800
+location: Haverford, PA & Wilton Manors

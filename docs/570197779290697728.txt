@@ -1,0 +1,7 @@
+570197779290697728
+American
+@AmericanAir. Had my flight changed from US Airways to you, now I can't get two seats together. Can you help?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 04:25:19 -0800
+location: nan

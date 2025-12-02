@@ -1,0 +1,7 @@
+567769879759962112
+Delta
+@JetBlue I will. I love flying with you all. Great service.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 11:37:42 -0800
+location: Portland, OR

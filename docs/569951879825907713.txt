@@ -1,0 +1,7 @@
+569951879825907713
+Southwest
+@SouthwestAir Your Terry is our hero! Got my husband back thru security to retrieve cellphone left on plane in Austin. Terry #85832 U Rock!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 12:08:12 -0800
+location: WashingtonDC

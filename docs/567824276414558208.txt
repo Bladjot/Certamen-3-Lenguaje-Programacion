@@ -1,0 +1,7 @@
+567824276414558208
+United
+@united  eventually.  You should approach bags like @AlaskaAir  they get it.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 15:13:51 -0800
+location: nan

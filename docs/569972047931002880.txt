@@ -1,0 +1,7 @@
+569972047931002880
+American
+@AmericanAir boarding in 2mins YAY!!!!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:28:20 -0800
+location: Turks and Caicos Islands

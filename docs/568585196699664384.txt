@@ -1,0 +1,7 @@
+568585196699664384
+Virgin America
+@VirginAmerica Just trying to book tickets to NYC and facing super fun broken styling. Don't worry, I'll keep trying :)
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 17:37:29 -0800
+location: San Francisco

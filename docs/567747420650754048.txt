@@ -1,0 +1,7 @@
+567747420650754048
+US Airways
+@USAirways I believe you. But in all seriousness, what's an acceptable time I should have this expense on my name that wasn't my fault....
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 10:08:27 -0800
+location: nan

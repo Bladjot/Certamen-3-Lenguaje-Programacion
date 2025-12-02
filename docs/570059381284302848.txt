@@ -1,0 +1,7 @@
+570059381284302848
+Southwest
+@SouthwestAir here is my conf #F8NEQM. My flight was delayed for 3 hours while my friend waited for me on her bday. Please follow up.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 19:15:22 -0800
+location: Los Angeles

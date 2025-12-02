@@ -1,0 +1,7 @@
+568836728716333056
+United
+@united I'm familiar with the procedure. It wouldn't be the first time #UnitedAirlines lost one of my bags. #unhappytraveler
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 10:16:59 -0800
+location: Red Bank, NJ

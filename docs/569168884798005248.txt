@@ -1,0 +1,7 @@
+569168884798005248
+United
+@united Was just hung up on by customer service after waiting 30 min on hold...guess that vacation's not happening? Website wasn't working.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 08:16:51 -0800
+location: nan

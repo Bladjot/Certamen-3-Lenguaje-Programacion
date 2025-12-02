@@ -1,0 +1,7 @@
+569649125525983233
+US Airways
+@USAirways #555PHLtoSLC this is happening now.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:05:09 -0800
+location: Philadelphia

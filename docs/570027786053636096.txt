@@ -1,0 +1,7 @@
+570027786053636096
+Southwest
+@SouthwestAir Should be a way to give voice to customers who pay for services that are not satisfactorily delivered. #justsayin
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 17:09:49 -0800
+location: Brooklyn NY

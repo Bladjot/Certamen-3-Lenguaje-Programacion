@@ -1,0 +1,7 @@
+569538002025779200
+Delta
+@JetBlue 795 to Austin
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 08:43:35 -0800
+location: austin

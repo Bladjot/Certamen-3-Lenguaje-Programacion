@@ -1,0 +1,7 @@
+568761693997674496
+Delta
+@JetBlue Denver-Boston 2/10 flight 994  and Boston-Denver 2/15 flight 493 (both planes!) visible snack crumbs on seats on all upon boarding
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 05:18:49 -0800
+location: nan

@@ -1,0 +1,7 @@
+567617486703853568
+United
+@united I tried 2 DM it would not go thru... not sure why
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 01:32:09 -0800
+location: New Jersey

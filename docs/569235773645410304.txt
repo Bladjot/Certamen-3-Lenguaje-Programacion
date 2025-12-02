@@ -1,0 +1,7 @@
+569235773645410304
+Delta
+@JetBlue quick ? Why is a person traveling w  a mosaic not get the green tag? Doesn't make sense I end up waitin 4 my sons bag anyway :/
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 12:42:38 -0800
+location: nan

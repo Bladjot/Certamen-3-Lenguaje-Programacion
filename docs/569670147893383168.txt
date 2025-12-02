@@ -1,0 +1,7 @@
+569670147893383168
+American
+@AmericanAir Been trying to call all day, get hung up on every time. Your guys are horrible!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:28:41 -0800
+location: nan

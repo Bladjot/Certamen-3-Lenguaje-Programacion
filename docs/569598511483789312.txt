@@ -1,0 +1,7 @@
+569598511483789312
+Southwest
+@SouthwestAir  Wish you allowed http://t.co/0pDNtGBXC6 to access you site for awards tracking.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:44:02 -0800
+location: USA

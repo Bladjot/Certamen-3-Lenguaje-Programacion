@@ -1,0 +1,13 @@
+568303933774532608
+United
+@united : Unhappy with United's service?
+
+Read Ralph Nader's open letter to UAL's CEO.
+
+Leave a comment or RT.
+
+http://t.co/O0745APIau
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 22:59:51 -0800
+location: Chicago Illinois Crime.Inc

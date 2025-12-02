@@ -1,0 +1,7 @@
+568017128286261248
+United
+@united is the biggest joke of a company,I will never fly with them again! 3 days now waiting for my bag, they don't even know where it is!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 04:00:11 -0800
+location: nan

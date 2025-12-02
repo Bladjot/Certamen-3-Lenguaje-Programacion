@@ -1,0 +1,7 @@
+567847163465764864
+Delta
+Always been a @JetBlue fan but maybe next time I'll fly @VirginAmerica for real customer service.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 16:44:48 -0800
+location: New York, New York

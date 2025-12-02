@@ -1,0 +1,7 @@
+567926839630557184
+US Airways
+@USAirways Worst experience ever. Unable 2 help over phone and told at last min cabin crew unavailable for flight. Never again #USAirways
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 22:01:24 -0800
+location: nan

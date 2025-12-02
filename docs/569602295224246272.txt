@@ -1,0 +1,7 @@
+569602295224246272
+American
+@AmericanAir I have looked and I was told it was in Guatemala last night. No record of anywhere today. I need my clothing for work tomorrow.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 12:59:04 -0800
+location: nan

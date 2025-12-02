@@ -1,0 +1,7 @@
+569483493236969473
+Delta
+@JetBlue  I see my flight from Boston to Pitts is ok from this afternoon. Did you have any delays for the morning flight?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 05:06:59 -0800
+location: nan

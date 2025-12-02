@@ -1,0 +1,7 @@
+568589732520665089
+Southwest
+@SouthwestAir you know I ❤️you but trying my patience - had easier cheaper ways from TPA to PDX but stuck w u. Turned my 3 hrs in MCI to 6
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 17:55:30 -0800
+location: nan

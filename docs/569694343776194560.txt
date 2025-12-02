@@ -1,0 +1,7 @@
+569694343776194560
+Southwest
+@SouthwestAir luv my companion pass!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 19:04:50 -0800
+location: Brentwood, Tennesse, USA

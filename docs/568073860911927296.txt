@@ -1,0 +1,7 @@
+568073860911927296
+US Airways
+@USAirways My flight was delayed and rerouted, and not so much as a "sorry for your inconvenience" from the check-in agent? #notimpressed
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 07:45:37 -0800
+location: London

@@ -1,0 +1,7 @@
+567921295473512448
+US Airways
+@USAirways not even on your dime and free tickets.  #worsttraveldayever
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 21:39:22 -0800
+location: salt lake city, utah

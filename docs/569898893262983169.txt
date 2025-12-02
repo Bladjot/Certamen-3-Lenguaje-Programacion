@@ -1,0 +1,7 @@
+569898893262983169
+American
+@AmericanAir Thank you, but I'll be Cancelled Flighting my return flight, as I've already rebooked with another airline so I can get home today.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 08:37:39 -0800
+location: Los Angeles

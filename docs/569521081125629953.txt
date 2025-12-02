@@ -1,0 +1,7 @@
+569521081125629953
+United
+@united Found flight after 2.5 hrs. How am I offered a $200 flight voucher 12 hrs before, lose my seat out of neglect, then get nothing?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:36:21 -0800
+location: 43206

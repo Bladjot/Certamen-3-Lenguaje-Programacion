@@ -1,0 +1,7 @@
+569618014141751298
+Delta
+@JetBlue 5 hours delayed now in hour increments?  Really?  &amp; as Mosaic I still have to pay $25 to use lounge during this waste of a Sunday?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:01:32 -0800
+location: New York / Bahamas

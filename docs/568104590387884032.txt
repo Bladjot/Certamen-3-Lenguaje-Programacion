@@ -1,0 +1,7 @@
+568104590387884032
+US Airways
+@USAirways Spoke on the phone 3 or 4 times, but no resolution. I'm still waiting to get my money back but now prices are jacked up
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 09:47:43 -0800
+location: nan

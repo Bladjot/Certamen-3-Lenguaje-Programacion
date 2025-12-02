@@ -1,0 +1,7 @@
+567772565956222976
+Delta
+@JetBlue @KyleJudah new stroller. The travel credit doesn't help cover the cost of a new stroller. Your crew ruined it and therefore should
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-17 11:48:23 -0800
+location: Boston, MA

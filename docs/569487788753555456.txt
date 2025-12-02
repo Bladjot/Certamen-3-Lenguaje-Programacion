@@ -1,0 +1,7 @@
+569487788753555456
+Southwest
+@SouthwestAir Great flight yesterday from MSY to AUS!! Thank you for such great safety,service and beautiful skies!! http://t.co/X1EqYAHfvZ
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 05:24:04 -0800
+location: nola/beantown

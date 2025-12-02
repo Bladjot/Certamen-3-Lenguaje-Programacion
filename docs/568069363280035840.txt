@@ -1,0 +1,7 @@
+568069363280035840
+US Airways
+@USAirways I've been on hold with your Divident Miles service desk for 45 minutes, and that's after being hung up on the first time.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 07:27:45 -0800
+location: nan

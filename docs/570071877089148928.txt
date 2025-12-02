@@ -1,0 +1,7 @@
+570071877089148928
+American
+@AmericanAir Can I use an SWU on an Finnair codeshare of an American operated flight (JFK-MAN)?  Thanks in advance for the help!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 20:05:01 -0800
+location: nan

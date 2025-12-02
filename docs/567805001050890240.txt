@@ -1,0 +1,7 @@
+567805001050890240
+United
+@united JT the issue is with missed connections early gate closings and zero concern from customer service
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 13:57:16 -0800
+location: Ontario, Canada

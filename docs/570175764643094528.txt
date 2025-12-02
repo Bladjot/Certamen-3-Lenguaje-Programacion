@@ -1,0 +1,7 @@
+570175764643094528
+American
+@AmericanAir needs to get their shit together. 2 counter people &amp; a massive line. People need to catch their flights! http://t.co/4MQFMxeBXt
+sentiment: negative
+negativereason: longlines
+created: 2015-02-24 02:57:50 -0800
+location: nan

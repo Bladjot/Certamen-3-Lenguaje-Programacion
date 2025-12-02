@@ -1,0 +1,7 @@
+570237440616570880
+Delta
+“@JetBlue: Our fleet's on fleek. http://t.co/clu5pdPrHP” :(
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 07:02:54 -0800
+location: COMPTON/AZ

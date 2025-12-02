@@ -1,0 +1,7 @@
+569958295919730688
+American
+@AmericanAir Considering it was past midnight, I hung up and called again to receive another service call.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:33:41 -0800
+location: nan

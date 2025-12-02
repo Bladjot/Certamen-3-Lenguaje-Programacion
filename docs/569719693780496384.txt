@@ -1,0 +1,7 @@
+569719693780496384
+American
+@AmericanAir Weather was not involved.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 20:45:34 -0800
+location: Portland, OR

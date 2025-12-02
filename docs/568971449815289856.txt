@@ -1,0 +1,7 @@
+568971449815289856
+Southwest
+@SouthwestAir my father was kind enough to offer to pay for a hotel, but I can't use this coupon if he pays from FL. no help?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 19:12:19 -0800
+location: Philadelphia, PA

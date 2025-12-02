@@ -1,0 +1,7 @@
+569970518381744128
+US Airways
+@USAirways you are supposed to be in the business of belong customers; not humiliating them
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:22:15 -0800
+location: nan

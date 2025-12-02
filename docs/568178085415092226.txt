@@ -1,0 +1,7 @@
+568178085415092226
+US Airways
+@USAirways just lost a faithful customer.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 14:39:46 -0800
+location: Connecticut/Vegas

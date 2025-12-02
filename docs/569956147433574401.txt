@@ -1,0 +1,7 @@
+569956147433574401
+US Airways
+@USAirways @AmericanAir shout out to Diane at EYW for helping get us home today instead of tomorrow (even if a little Late Flight!)
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 12:25:09 -0800
+location: nan

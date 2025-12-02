@@ -1,0 +1,7 @@
+568039503602065408
+United
+@united how on earth could you close the united club in Atlanta? What a major #fail at an airport of this size
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 05:29:05 -0800
+location: New York, NY

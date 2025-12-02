@@ -1,0 +1,7 @@
+568045397408661504
+Delta
+@JetBlue Lekvhg want to see what the cost would be to change to the 430 flight
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 05:52:31 -0800
+location: Merrick

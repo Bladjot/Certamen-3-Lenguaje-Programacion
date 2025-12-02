@@ -1,0 +1,7 @@
+567760872739975168
+Southwest
+@SouthwestAir thanks, got put on the am flight tomorrow.  Don't have much faith it'll get off the ground tomorrow though.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 11:01:55 -0800
+location: nan

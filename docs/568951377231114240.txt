@@ -1,0 +1,7 @@
+568951377231114240
+United
+@united landing in Chicago - saw it once we were already airborne.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 17:52:33 -0800
+location: Evanston, IL

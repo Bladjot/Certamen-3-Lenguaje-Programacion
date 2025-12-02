@@ -1,0 +1,7 @@
+569875783096741888
+United
+@United to operated #B767-300ER from #Newark to #Zurich @ZRH_airport replacing B767-400ER between 6MAY-23SEP instead till 23OCT #avgeek
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:05:49 -0800
+location: Abu Dhabi

@@ -1,0 +1,7 @@
+568132209330098177
+Southwest
+@SouthwestAir Times change, I guess. http://t.co/osox9h7fWY
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 11:37:28 -0800
+location: nan

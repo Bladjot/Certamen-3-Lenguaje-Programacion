@@ -1,0 +1,7 @@
+569672055471210496
+Southwest
+@SouthwestAir yes please.my son lives in NJ.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:36:16 -0800
+location: nan

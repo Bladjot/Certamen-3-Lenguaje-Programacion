@@ -1,0 +1,7 @@
+568252997886545920
+United
+@united then watched my connecting flight in DEN pull away from the gate only to pull into THE SAME gate. #SlapInTheFace
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 19:37:26 -0800
+location: Houston, TX

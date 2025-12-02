@@ -1,0 +1,7 @@
+569223492987723778
+US Airways
+@USAirways 4+ hour hold, finally Cancelled Flighted ticket! sticking to @delta @Expedia who allow easy online Cancelled Flights/refunds! http://t.co/RKVCZBpdCE
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 11:53:51 -0800
+location: nan

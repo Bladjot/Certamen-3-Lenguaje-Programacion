@@ -1,0 +1,7 @@
+569696666611261440
+US Airways
+@usairways @usair   idiots took our plane &amp; gave it to someone else. Fudgers!!!! Flight 799 from Philly to Orlando
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 19:14:04 -0800
+location: nan

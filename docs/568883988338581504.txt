@@ -1,0 +1,7 @@
+568883988338581504
+Southwest
+@SouthwestAir needs 2 make me whole Used my tkt back n PHX due 2 rude SNA agent Jacquie Plitt flew @USAirways 2 CABO http://t.co/QxWW1p09a0
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 13:24:46 -0800
+location: Scottsdale, AZ

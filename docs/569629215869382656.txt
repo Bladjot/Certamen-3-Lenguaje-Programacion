@@ -1,0 +1,7 @@
+569629215869382656
+American
+@AmericanAir you have such a confusing web site/complicated ordering process. This is why I typically fly @SouthwestAir.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 14:46:02 -0800
+location: San Marcos, Texas

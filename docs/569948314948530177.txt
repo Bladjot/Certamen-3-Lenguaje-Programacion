@@ -1,0 +1,7 @@
+569948314948530177
+American
+@AmericanAir well you spelled my name wrong.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:54:02 -0800
+location: nan

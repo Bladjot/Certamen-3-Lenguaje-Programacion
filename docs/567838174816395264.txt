@@ -1,0 +1,7 @@
+567838174816395264
+Southwest
+@SouthwestAir Not your finest moment in Boston right now!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 16:09:05 -0800
+location: nan

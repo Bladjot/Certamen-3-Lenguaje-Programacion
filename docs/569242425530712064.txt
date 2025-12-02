@@ -1,0 +1,7 @@
+569242425530712064
+US Airways
+@USAirways looking forward to waiting on hold for 9 hrs to reschedule my flight.  Bunch of idiots work for this airline.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 13:09:04 -0800
+location: CT, USA

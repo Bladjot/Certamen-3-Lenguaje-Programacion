@@ -1,0 +1,7 @@
+569827699243544576
+American
+@AmericanAir Have been trying to reach American Airlines since last evening to Cancelled Flight flights. WORST CUSTOMER SERVICE EVER! What now???
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 03:54:45 -0800
+location: Amityville, NY

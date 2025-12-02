@@ -1,0 +1,7 @@
+567742238562975745
+Delta
+@JetBlue Been dealing with a Cancelled Flightled flight since last night &amp; was booked to a 6:15 flight,wouldve at least liked to see Ella perform lol
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 09:47:52 -0800
+location: Puerto Rico

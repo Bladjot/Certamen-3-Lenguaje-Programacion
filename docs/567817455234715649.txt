@@ -1,0 +1,7 @@
+567817455234715649
+Southwest
+@SouthwestAir Any plans to make the southwest app for Android not crappy?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 14:46:45 -0800
+location: Tucson, AZ

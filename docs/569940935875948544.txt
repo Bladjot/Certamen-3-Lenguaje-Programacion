@@ -1,0 +1,7 @@
+569940935875948544
+American
+@AmericanAir All of the nicest people in the world work at Admiral's clubs. Gladys in San Juan es mi Amiga
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 11:24:42 -0800
+location: Chicago

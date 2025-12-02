@@ -1,0 +1,7 @@
+567783113309585409
+Southwest
+@SouthwestAir Having some trouble checking in. Can you please add me so I can DM you
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 12:30:17 -0800
+location: CO to CA

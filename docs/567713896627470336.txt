@@ -1,0 +1,7 @@
+567713896627470336
+United
+@united Broken entertainment system on my 8 hour NYC flight, terrible cabin crew service and online complaint form won't work #hopeless
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 07:55:15 -0800
+location: Portsmouth, UK

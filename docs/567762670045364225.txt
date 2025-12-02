@@ -1,0 +1,7 @@
+567762670045364225
+US Airways
+@USAirways Waiting for my luggage on flight 1923. Is there a delay?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 11:09:03 -0800
+location: Detroit, MI

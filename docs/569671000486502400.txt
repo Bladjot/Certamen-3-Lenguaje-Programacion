@@ -1,0 +1,7 @@
+569671000486502400
+Delta
+@JetBlue Thank you. Fingers crossed.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:32:05 -0800
+location: New York

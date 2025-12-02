@@ -1,0 +1,7 @@
+570237762063831040
+Southwest
+@SouthwestAir thanks to Ella-Mae at LAS counter for going above and beyond to help us get back to ABQ after our flight was Cancelled Flightled!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 07:04:11 -0800
+location: Albuquerque, NM

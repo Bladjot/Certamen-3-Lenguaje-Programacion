@@ -1,0 +1,7 @@
+569307978798645248
+Delta
+@JetBlue what are the chances of one of your flights leaving at 6am out of Newark nj being Cancelled Flightled tomorrow?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 17:29:34 -0800
+location: New Jersey

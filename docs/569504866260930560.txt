@@ -1,0 +1,7 @@
+569504866260930560
+US Airways
+@USAirways Flight Cancelled Flightled due to "weather conditions" in arrival city. Uh...I don't think so.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 06:31:55 -0800
+location: US of A

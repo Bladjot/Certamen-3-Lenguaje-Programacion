@@ -1,0 +1,7 @@
+567758248481415170
+Delta
+@JetBlue @roxydigital Good. I want extra peanuts on my flight then. lol. #JVMChat
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 10:51:29 -0800
+location: Jersey City, NJ

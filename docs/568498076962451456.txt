@@ -1,0 +1,7 @@
+568498076962451456
+Southwest
+@SouthwestAir @saianel You could have just said "We don't know"
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 11:51:18 -0800
+location: nan

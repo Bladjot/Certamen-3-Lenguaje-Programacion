@@ -1,0 +1,7 @@
+569960665827258368
+American
+@AmericanAir Well, you guys are totally kicking a million pounds of ass. Bar none, the best SM team in the airline industry in my opinion.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 12:43:06 -0800
+location: New York, NY

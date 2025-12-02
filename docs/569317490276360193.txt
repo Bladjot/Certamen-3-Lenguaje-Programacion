@@ -1,0 +1,7 @@
+569317490276360193
+US Airways
+@USAirways Hey. I hve Cancelled Flightled flght &amp; on hold for 30 min nw 4 rebook. Website not working. Can u give me some insight if I DM conf #?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 18:07:21 -0800
+location: Halifax, Nova Scotia, Canada

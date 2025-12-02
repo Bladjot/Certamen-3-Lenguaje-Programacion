@@ -1,0 +1,7 @@
+569836433931808768
+American
+@AmericanAir spent hour+ trying to check after to use military ID for luggage then messed up boarding pass &amp; forced into line again.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 04:29:27 -0800
+location: nan

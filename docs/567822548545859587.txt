@@ -1,0 +1,7 @@
+567822548545859587
+United
+@united well perhaps you could highlight where that is stated.  We travel between Canada &amp; USA on United with only Nexus
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 15:06:59 -0800
+location: nan

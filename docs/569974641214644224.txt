@@ -1,0 +1,7 @@
+569974641214644224
+American
+@AmericanAir #AmericanAirlines on approach to mex.... http://t.co/se57dmjHiW
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:38:38 -0800
+location: Washington, D.C.

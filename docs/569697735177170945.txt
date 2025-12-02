@@ -1,0 +1,7 @@
+569697735177170945
+American
+@AmericanAir your gate agents at DFW gate B16 are pathetic tonight.  Terrible communication, stories changing and apathetic
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 19:18:19 -0800
+location: Bloomington, IL

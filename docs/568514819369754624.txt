@@ -1,0 +1,7 @@
+568514819369754624
+Southwest
+@SouthwestAir almost bumped me off my flight to HRL when I was 20 minutes early then your staff was rude when I asked what was the problem?
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-19 12:57:50 -0800
+location: New Orleans, Louisiana

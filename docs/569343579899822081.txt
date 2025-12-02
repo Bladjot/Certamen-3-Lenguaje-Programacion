@@ -1,0 +1,7 @@
+569343579899822081
+Southwest
+@SouthwestAir can you speed up your flight from AZ to Omaha? I need to see muh boy ✈️
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 19:51:01 -0800
+location: from the middle of america

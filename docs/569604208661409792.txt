@@ -1,0 +1,7 @@
+569604208661409792
+Delta
+@JetBlue You left 175 PEOPLE on a hot plane with no ventilation for over an hour and a half and then had to bus them to JFK because of ....
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 13:06:40 -0800
+location: Long Island - Arizona

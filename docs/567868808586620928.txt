@@ -1,0 +1,7 @@
+567868808586620928
+United
+@united @annricord $856.81 the cost of one of the round trip tickets.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 18:10:49 -0800
+location: Canmore

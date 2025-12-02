@@ -1,0 +1,7 @@
+567822848878968832
+United
+@united wanted to, but you Cancelled Flightled my tickets.... They were too special i guess even for united.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 15:08:11 -0800
+location: nan

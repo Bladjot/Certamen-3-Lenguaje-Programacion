@@ -1,0 +1,7 @@
+567818961716387840
+US Airways
+@USAirways And really, it's a middle initial versus middle name. All else the same. Not spending my time on your computer issues.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 14:52:44 -0800
+location: Here, There and Everywhere

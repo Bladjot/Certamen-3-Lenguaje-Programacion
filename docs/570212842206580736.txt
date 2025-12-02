@@ -1,0 +1,7 @@
+570212842206580736
+American
+@AmericanAir I lost my (basket) ballbag on your plane
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 05:25:10 -0800
+location: Middle earth

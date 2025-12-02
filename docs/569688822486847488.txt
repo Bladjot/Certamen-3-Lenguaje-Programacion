@@ -1,0 +1,7 @@
+569688822486847488
+American
+@AmericanAir on plane for JFK-&gt;SFO, been sitting here for 1.5 hours waiting for push crew, how is this acceptable?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:42:54 -0800
+location: Washington, DC

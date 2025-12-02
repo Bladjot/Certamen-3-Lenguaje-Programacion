@@ -1,0 +1,7 @@
+568977167410802688
+US Airways
+@USAirways Website won't let me change online even though airline issued travel advisory, now on hold for 50 minutes. Help.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 19:35:02 -0800
+location: nan

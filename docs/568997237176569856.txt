@@ -1,0 +1,7 @@
+568997237176569856
+US Airways
+@USAirways ah, and I was only given one shuttle voucher, so if I do ever get back to the airport you'll be getting the bill
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 20:54:47 -0800
+location: Asheville, NC

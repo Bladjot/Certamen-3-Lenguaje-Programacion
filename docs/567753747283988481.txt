@@ -1,0 +1,7 @@
+567753747283988481
+Southwest
+@SouthwestAir and currently as im bringing my 3 year old to the bathroom I'm being rushed by the flight attendant.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 10:33:36 -0800
+location: Las Vegas, NV

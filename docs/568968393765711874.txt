@@ -1,0 +1,7 @@
+568968393765711874
+US Airways
+@USAirways transferred 4x pleeeeeeeease help!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 19:00:10 -0800
+location: nan

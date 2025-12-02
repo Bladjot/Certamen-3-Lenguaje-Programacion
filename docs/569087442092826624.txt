@@ -1,0 +1,7 @@
+569087442092826624
+Delta
+@JetBlue by any chance do u offer fresh guacamole on your flights
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 02:53:13 -0800
+location: ravioli

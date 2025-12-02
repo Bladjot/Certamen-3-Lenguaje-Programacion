@@ -1,0 +1,7 @@
+569268455314219008
+Delta
+@JetBlue Counting on your flight 989 to get to DC!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 14:52:30 -0800
+location: Harvard Professor & MD

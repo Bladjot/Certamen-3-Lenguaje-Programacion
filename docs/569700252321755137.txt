@@ -1,0 +1,7 @@
+569700252321755137
+American
+@AmericanAir I just checked the app and it said my flight had been moved back a day? No explanations why. No answer on the 800 number.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:28:19 -0800
+location: Omaha

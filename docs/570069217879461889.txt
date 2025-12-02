@@ -1,0 +1,7 @@
+570069217879461889
+American
+@AmericanAir yikes.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 19:54:27 -0800
+location: nan

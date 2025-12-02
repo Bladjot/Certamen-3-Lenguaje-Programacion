@@ -1,0 +1,7 @@
+569770867841839104
+American
+@AmericanAir yes we did make it home. But by no means am I happy. I've always chosen AA as my 1st choice when flying, I'm rethinking that...
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 00:08:55 -0800
+location: nan

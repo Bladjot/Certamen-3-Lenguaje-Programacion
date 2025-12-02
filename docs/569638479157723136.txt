@@ -1,0 +1,7 @@
+569638479157723136
+US Airways
+@USAirways So any ideas when the IT Geeks will plug in the servers so 639 can be on its way to PHX?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:22:51 -0800
+location: nan

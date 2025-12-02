@@ -1,0 +1,7 @@
+569793460414189568
+American
+@AmericanAir @emeyerson @ggreenwald Don't wait on a bag. Go to Walmart and get what you need for tomorrow morning.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 01:38:41 -0800
+location: San Antonio, Texas

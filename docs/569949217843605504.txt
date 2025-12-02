@@ -1,0 +1,7 @@
+569949217843605504
+Delta
+Brands: Stop this shit. No, stop. RT @JetBlue Our fleet's on fleek. http://t.co/sKEbqKtxvX
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 11:57:37 -0800
+location: Kansas City/Milwaukee

@@ -1,0 +1,7 @@
+569165654848204800
+Southwest
+@SouthwestAir  @TheEllenShow @Imaginedragons  @kdepetro313 .what a great first night. #DestinationDragons http://t.co/N3LrFo4UaY
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 08:04:01 -0800
+location: Rhode Island ,Mass,CT

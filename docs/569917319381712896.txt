@@ -1,0 +1,7 @@
+569917319381712896
+American
+@AmericanAir you need to have a look at your handling of flight 106 and 104. Company of yours size should have protocols in place to help
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 09:50:52 -0800
+location: lydham shropshire uk

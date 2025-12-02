@@ -1,0 +1,7 @@
+570254579578720256
+American
+@AmericanAir if i want to change my flight due to weather conditions in Dallas this weekend, i should be able to cover change fee with miles
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:11:01 -0800
+location: nan

@@ -1,0 +1,7 @@
+568856987632603136
+Southwest
+@SouthwestAir you guys rock! So easy, quick, and affordable to change my flight. #bestairlineever #neverchange
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 11:37:29 -0800
+location: Washington, DC

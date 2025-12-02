@@ -1,0 +1,7 @@
+569583725408870401
+US Airways
+@USAirways waiting all day at ATL since flight this am Cancelled Flightled. 1 standby told no seats and group of 15 shows up Late Flight and gets on to PHL
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 11:45:17 -0800
+location: nan

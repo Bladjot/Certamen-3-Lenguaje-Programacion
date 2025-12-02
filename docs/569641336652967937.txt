@@ -1,0 +1,7 @@
+569641336652967937
+American
+@AmericanAir a guy try right...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:34:12 -0800
+location: Reading MA

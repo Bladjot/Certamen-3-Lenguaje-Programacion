@@ -1,0 +1,7 @@
+568144896852299776
+United
+@united my cats flight was delayed 1+hour  she will be arriving to Hawaii after 5 &amp; I won't be able to pick her up until tomorrow 😭
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 12:27:53 -0800
+location: Oahu, Hi

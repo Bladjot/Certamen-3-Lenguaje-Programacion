@@ -1,0 +1,7 @@
+568128399035772928
+US Airways
+@USAirways a $100 @Samsonite - totaled. Not happy. Not at all.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 11:22:20 -0800
+location: Fort Wayne, IN

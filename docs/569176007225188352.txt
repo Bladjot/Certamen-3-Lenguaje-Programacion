@@ -1,0 +1,7 @@
+569176007225188352
+Southwest
+@SouthwestAir - you can do better than having someone on hold for over an hr http://t.co/FxNv618B1A
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 08:45:09 -0800
+location: Denver Co

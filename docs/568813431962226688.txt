@@ -1,0 +1,7 @@
+568813431962226688
+United
+@united I hope you have a solution or insurance to cover this issue
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 08:44:24 -0800
+location: nan

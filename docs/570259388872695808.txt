@@ -1,0 +1,7 @@
+570259388872695808
+US Airways
+@USAirways how much is it to check golf clubs on a flight. They might be oversized
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:30:07 -0800
+location: nan

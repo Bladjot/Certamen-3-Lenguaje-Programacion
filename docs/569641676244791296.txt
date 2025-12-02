@@ -1,0 +1,7 @@
+569641676244791296
+American
+@AmericanAir why don't you have driver service to get employees to work in bad weather like hospitals etc #badmgmt #AmericanAirlines
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 15:35:33 -0800
+location: nan

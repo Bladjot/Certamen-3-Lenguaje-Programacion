@@ -1,0 +1,7 @@
+570016770708283392
+American
+@AmericanAir any ways to get through the 50 minute wait to book a flight?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 16:26:03 -0800
+location: Cleveland, OH

@@ -1,0 +1,7 @@
+568858361011154944
+United
+@united refreshes my browser right before checkout.error load message. Ticket price increased $358 in a matter of sec. DoUNotWantMyBusiness?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 11:42:56 -0800
+location: nan

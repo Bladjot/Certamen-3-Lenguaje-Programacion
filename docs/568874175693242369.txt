@@ -1,0 +1,7 @@
+568874175693242369
+US Airways
+@USAirways if I have Dividend Miles credit card &amp; I used it to book my flight is one bag free?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 12:45:47 -0800
+location: Syracuse

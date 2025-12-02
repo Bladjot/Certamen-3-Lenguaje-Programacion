@@ -1,0 +1,7 @@
+569980358206361601
+American
+@AmericanAir thanks - I miss my dog and this delay is costing me a lot of money.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 14:01:21 -0800
+location: Present

@@ -1,0 +1,7 @@
+569934460617039872
+American
+@AmericanAir @MattThomasNews When did American Airlines start flying to and from Siberia? Wait, this is the USA? Oy!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:58:58 -0800
+location: ✡ Los Angeles ✡

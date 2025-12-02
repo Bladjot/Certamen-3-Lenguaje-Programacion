@@ -1,0 +1,7 @@
+569874944282234880
+US Airways
+@USAirways thx for delayed checkin on noon flt to mia then forcing me to take Late Flightr flts which were delayed. Cincy to Miami in 13 hrs! #fast
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 07:02:29 -0800
+location: Terrace Park OH

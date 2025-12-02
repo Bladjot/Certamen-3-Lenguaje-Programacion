@@ -1,0 +1,7 @@
+570080863720878081
+United
+@united why would they make me share a room?
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 20:40:44 -0800
+location: Ottawa, Canada

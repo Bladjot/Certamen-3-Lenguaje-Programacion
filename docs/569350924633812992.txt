@@ -1,0 +1,7 @@
+569350924633812992
+United
+@united 30 of us on flight 1750 trying to get to tel aviv that is trying to take off right now with out us so cruel. Next flight is 350pm
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 20:20:13 -0800
+location: San Francisco, CA

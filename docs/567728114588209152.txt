@@ -1,0 +1,7 @@
+567728114588209152
+Southwest
+@SouthwestAir trying to fly out of Nashville tomorrow. How is it looking?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 08:51:45 -0800
+location: Nashville, TN

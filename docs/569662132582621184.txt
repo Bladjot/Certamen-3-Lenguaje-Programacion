@@ -1,0 +1,7 @@
+569662132582621184
+United
+@united Hey so many time changes for UA 1534. We going tonight or what? MIA - EWR
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:56:50 -0800
+location: Brooklyn, NY

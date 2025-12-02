@@ -1,0 +1,7 @@
+569942656522047490
+US Airways
+@USAirways can I speak to a human with some compassion? I wrote an email to discuss my experience and received a generic "sorry" email back
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:31:32 -0800
+location: Baltimore, MD

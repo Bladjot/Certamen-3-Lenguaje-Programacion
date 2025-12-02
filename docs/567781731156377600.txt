@@ -1,0 +1,7 @@
+567781731156377600
+Southwest
+@SouthwestAir my flight was Cancelled Flightled Monday.  Just looking to Cancelled Flight and credit my card.  That's all.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 12:24:48 -0800
+location: USA

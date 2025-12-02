@@ -1,0 +1,7 @@
+569633166031511552
+Delta
+@JetBlue I think it's safe to say that after 25 years of loyal #JetBlue flying we are officially DONE. #Byebyejetblue
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 15:01:44 -0800
+location: nan

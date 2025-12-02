@@ -1,0 +1,7 @@
+569590208095768576
+Southwest
+@SouthwestAir is having a party in the atl terminal. #letitgo http://t.co/qxTeqZm3yz
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:11:02 -0800
+location: CA & MI

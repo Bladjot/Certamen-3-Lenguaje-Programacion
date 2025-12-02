@@ -1,0 +1,7 @@
+569626683139104768
+US Airways
+@USAirways @AmericanAir Just got off Int. Flight #799. Your Intentionally rude staff made for a horrible 8hr+ flight on an unsuitable plane.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 14:35:59 -0800
+location: Phoenix, AZ

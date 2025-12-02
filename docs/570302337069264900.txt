@@ -1,0 +1,7 @@
+570302337069264900
+Southwest
+@SouthwestAir Been on hold 34 min so far trying to book seat for my infant. Price increased $42 in meantime. What do I do?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 11:20:47 -0800
+location: Chicago, IL

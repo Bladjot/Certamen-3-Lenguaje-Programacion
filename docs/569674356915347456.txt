@@ -1,0 +1,7 @@
+569674356915347456
+Delta
+@JetBlue being told JFK had a 5 hour delay this AM which is reason for my delay now. It can't be that hard to notify with 12 hours notice
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:45:25 -0800
+location: nan

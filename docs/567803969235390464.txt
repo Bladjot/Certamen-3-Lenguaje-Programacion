@@ -1,0 +1,7 @@
+567803969235390464
+Southwest
+@southwestair TREMENDOUS job. Atlanta Airport saw SW celebrate Mardi Gras. Another reason I'm nuts for you guys! http://t.co/8WBzOrRn3C
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 13:53:10 -0800
+location: http://goo.gl/eZTfG

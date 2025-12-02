@@ -1,0 +1,7 @@
+569923934054805504
+Delta
+“@JetBlue: Our fleet's on fleek. http://t.co/kVXs1lCqLp” @alynewton new fav airline
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:17:09 -0800
+location: KΔ. Boston.

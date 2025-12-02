@@ -1,0 +1,7 @@
+569766956062134272
+Southwest
+@SouthwestAir you know what'd be beyond awesome? A pair of tickets to the @Imaginedragons show in ATL. A girl can dream #DestinationDragons
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 23:53:22 -0800
+location: Georgia

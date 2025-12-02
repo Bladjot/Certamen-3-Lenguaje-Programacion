@@ -1,0 +1,7 @@
+567768450471587840
+US Airways
+@USAirways the phone number the gate gave me doesn't work either. What is your customer service phone number?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 11:32:01 -0800
+location: nan

@@ -1,0 +1,7 @@
+569693592597323776
+American
+@AmericanAir I understand. I'm feeling cranky. I called AA's bag tracker number and heard "your bag has not been located." 😩
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 19:01:51 -0800
+location: SNY in NYC.

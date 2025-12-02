@@ -1,0 +1,7 @@
+569937806518169600
+United
+@united Woke up to notification- flight moved 1.5 hrs early. Barely made flight then 3 hrs layover in SFO - wanted to hop on earlier option
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 11:12:16 -0800
+location: PDX

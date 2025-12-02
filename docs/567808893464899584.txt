@@ -1,0 +1,7 @@
+567808893464899584
+US Airways
+@USAirways if ur going 2 charge $20 for wi-fi make sure it works. #Brutal #DialUp b a 100 by the time things load. #TheEnd #GoodDay
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 14:12:44 -0800
+location: Jupiter, FL

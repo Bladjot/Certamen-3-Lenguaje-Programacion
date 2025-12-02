@@ -1,0 +1,7 @@
+569978876861902848
+Southwest
+@SouthwestAir ruined my Sunday. 3+ hours of delays out of DIA, now my bags are at the wrong airport. $35 to deliver them? Insult to injury.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 13:55:28 -0800
+location: San Francisco, CA

@@ -1,0 +1,7 @@
+569797465416683521
+Delta
+@JetBlue is so sloooooow today
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 01:54:36 -0800
+location: Puerto Rico

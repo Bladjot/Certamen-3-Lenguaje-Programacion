@@ -1,0 +1,7 @@
+568143054856712192
+US Airways
+@USAirways you can't even track my bag to see where it is. It's like it's disappeared.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 12:20:34 -0800
+location: nan

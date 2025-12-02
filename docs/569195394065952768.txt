@@ -1,0 +1,7 @@
+569195394065952768
+Delta
+@JetBlue Cancelled Flighted 😢
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 10:02:11 -0800
+location: nan

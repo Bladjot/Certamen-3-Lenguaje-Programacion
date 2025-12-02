@@ -1,0 +1,7 @@
+569684565838553088
+American
+@AmericanAir their flights into Buffalo as well -- You were the only flight Cancelled Flightled!!!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 18:25:59 -0800
+location: St. Catharines

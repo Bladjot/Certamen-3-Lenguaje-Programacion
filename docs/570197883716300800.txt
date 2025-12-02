@@ -1,0 +1,7 @@
+570197883716300800
+US Airways
+@USAirways Flight 830 CLT to Phl. I was 1st on list.Someone else got spot. Rude employee in coach. Wouldt give ID. Said he was cute red head
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 04:25:43 -0800
+location: nan

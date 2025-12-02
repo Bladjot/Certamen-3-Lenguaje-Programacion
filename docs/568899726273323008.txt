@@ -1,0 +1,7 @@
+568899726273323008
+US Airways
+@USAirways It's a debit card, but I am a Dividend member.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 14:27:19 -0800
+location: nan

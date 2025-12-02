@@ -1,0 +1,7 @@
+569966909019398144
+United
+@united Does customer care have email or a phone rep that I can speak with? We had so many issues they can't be placed in 2000 characters?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:07:55 -0800
+location: Grand Rapids

@@ -1,0 +1,7 @@
+569320594400874497
+United
+@united what a nightmare!!  Both sides of my flights are a disaster!  At Houston getting attitude cuz I was sent to ticket counter
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 18:19:41 -0800
+location: #Westford #marketing

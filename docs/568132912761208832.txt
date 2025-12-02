@@ -1,0 +1,7 @@
+568132912761208832
+Delta
+@JetBlue When I checked yesterday it looked like it did. Did something change?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 11:40:16 -0800
+location: Boston, MA

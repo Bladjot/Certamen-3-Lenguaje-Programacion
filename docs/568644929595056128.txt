@@ -1,0 +1,7 @@
+568644929595056128
+Southwest
+@SouthwestAir so for an extra luggage, it cost $75????
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 21:34:50 -0800
+location: Merica

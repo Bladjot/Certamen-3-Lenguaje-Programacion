@@ -1,0 +1,7 @@
+568634467587264512
+US Airways
+@USAirways that's incorrect. Four people, last flight of the night, with our bags. #horriblecustomerservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 20:53:16 -0800
+location: 11 W Boston St Chandler, AZ

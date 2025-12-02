@@ -1,0 +1,7 @@
+567801343861092352
+Delta
+@JetBlue I know where you guys jet! LOL, but if you love me so much, help a brother out :) Hot weather, great nightlife, 2-3 hour flight
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 13:42:44 -0800
+location: NYC | CT

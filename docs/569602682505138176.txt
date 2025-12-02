@@ -1,0 +1,7 @@
+569602682505138176
+American
+@AmericanAir Flight Cancelled Flighted and rebooked but agent made a mistake and booked wrong date! Been trying to get through via phone for hours!!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 13:00:36 -0800
+location: nan

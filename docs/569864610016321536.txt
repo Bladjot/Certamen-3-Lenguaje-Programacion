@@ -1,0 +1,7 @@
+569864610016321536
+American
+@AmericanAir Filed a PIR with an agent at Indianapolis airport. Unable to pull up information online on your site. Have DMed details.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:21:25 -0800
+location: Indianapolis, IN

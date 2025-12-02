@@ -1,0 +1,7 @@
+567818765888557056
+Southwest
+@SouthwestAir @Matt_e_Boss how long did you have to hold? We waited 35 minutes and gave up
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 14:51:58 -0800
+location: Sunrise Beach, MO

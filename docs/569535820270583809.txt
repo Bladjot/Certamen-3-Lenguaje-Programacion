@@ -1,0 +1,7 @@
+569535820270583809
+US Airways
+@usairways sadly they've tried that and airport agents…no flights so they're stranded at PHL. No chance of a hotel for them?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 08:34:55 -0800
+location: A galaxy far far away

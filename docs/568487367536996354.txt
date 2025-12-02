@@ -1,0 +1,7 @@
+568487367536996354
+US Airways
+@USAirways understood and I am sympathetic. How do I get my $100 back? I shouldn't have to pay especially if YOU switched my flight.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 11:08:45 -0800
+location: nan

@@ -1,0 +1,7 @@
+568593538520231936
+US Airways
+@USAirways I guess they only respond to compliments. Sorry, can't think@of even ONE.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 18:10:38 -0800
+location: nan

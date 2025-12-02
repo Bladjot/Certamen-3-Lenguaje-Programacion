@@ -1,0 +1,7 @@
+568911099740839936
+Southwest
+@SouthwestAir = easy and pleasant. @united = difficult and stressful. Learned my lesson.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 15:12:30 -0800
+location: Highlands Ranch, CO

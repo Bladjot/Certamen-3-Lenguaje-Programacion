@@ -1,0 +1,7 @@
+569858507341606912
+United
+@united No, thanks. I'm sick of your company's lousy excuse for customer service. I'm never flying United again.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 05:57:10 -0800
+location: San Jose, CA

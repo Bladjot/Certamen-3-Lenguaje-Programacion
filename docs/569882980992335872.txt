@@ -1,0 +1,7 @@
+569882980992335872
+US Airways
+@USAirways @AmericanAir 3 hours on hold got rebooked on a new flight yesterday. I asked for a new itinerary/confirmation email to be sent
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:34:25 -0800
+location: BK

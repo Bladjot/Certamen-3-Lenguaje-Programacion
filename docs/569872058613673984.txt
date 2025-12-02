@@ -1,0 +1,7 @@
+569872058613673984
+Virgin America
+@VirginAmerica Have a great week 🌞✈
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 06:51:01 -0800
+location: nan

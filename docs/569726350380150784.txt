@@ -1,0 +1,7 @@
+569726350380150784
+US Airways
+@USAirways had mom sit for 3 hours waiting for a flight they ultimately Cancelled Flighted to give her a Tuesday morning flight...no compensation. Ugh
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 21:12:01 -0800
+location: nan

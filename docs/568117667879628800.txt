@@ -1,0 +1,7 @@
+568117667879628800
+United
+@united your overall experience of flying is not friendly
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 10:39:41 -0800
+location: Belle Mead, NJ

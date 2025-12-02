@@ -1,0 +1,7 @@
+569996897009717248
+United
+@united has the WORST customer svcs! This Kevin rep at call center must be investigated. My baggage's lost and there's no help but argument!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 15:07:04 -0800
+location: San Francisco, California, USA

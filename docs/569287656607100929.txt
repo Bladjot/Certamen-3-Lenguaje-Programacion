@@ -1,0 +1,7 @@
+569287656607100929
+United
+@united fire yr rep who refused to put me on a flight that I had a boarding pass and seat on. Full explanation and her name in complaint.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 16:08:48 -0800
+location: Portland, Oregon

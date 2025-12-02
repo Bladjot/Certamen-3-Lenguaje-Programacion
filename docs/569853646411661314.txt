@@ -1,0 +1,7 @@
+569853646411661314
+United
+.@united You may "dislike delays" but I paid you .We had an agreement that I paid you and you got me to my destination at a certain time.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 05:37:51 -0800
+location: nan

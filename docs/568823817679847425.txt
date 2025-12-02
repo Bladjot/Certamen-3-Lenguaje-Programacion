@@ -1,0 +1,7 @@
+568823817679847425
+US Airways
+@USAirways that website does not give correct info said my bag was in Miami was in key west the entire time..I got the run around for 2 days
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 09:25:41 -0800
+location: nan

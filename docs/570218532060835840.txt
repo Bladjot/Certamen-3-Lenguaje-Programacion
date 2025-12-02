@@ -1,0 +1,7 @@
+570218532060835840
+American
+@AmericanAir The Wichita Falls Airport is the worst, will never fly in or out again.  Unknowledgeable staff.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 05:47:46 -0800
+location: nan

@@ -1,0 +1,7 @@
+570264682541522944
+American
+@AmericanAir Is there a way to add my AA number to an itinerary that doesn't involve sitting on hold for 1.5 hours?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 08:51:09 -0800
+location: nan

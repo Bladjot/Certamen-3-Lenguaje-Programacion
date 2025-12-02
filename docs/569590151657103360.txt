@@ -1,0 +1,7 @@
+569590151657103360
+United
+@united I don't know what DM the confirmation number means.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:10:49 -0800
+location: nan

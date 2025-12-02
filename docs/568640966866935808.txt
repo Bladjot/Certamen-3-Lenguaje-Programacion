@@ -1,0 +1,7 @@
+568640966866935808
+US Airways
+@USAirways Why were we loaded onto the plane (4 hours Late Flight, mind you), made to sit for 40 minutes
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 21:19:05 -0800
+location: DC

@@ -1,0 +1,7 @@
+568934749571387392
+United
+@united Your "Loyalty Team" basically flipped me off via phone, but thanks. Maybe Google "loyalty" and get back to me? ^LOL
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 16:46:29 -0800
+location: Los Angeles, CA (via Philly)

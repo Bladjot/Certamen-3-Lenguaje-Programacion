@@ -1,0 +1,7 @@
+569097525690568704
+United
+@united lets do that can you email boarding pass?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 03:33:18 -0800
+location: Raleigh, NC

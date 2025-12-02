@@ -1,0 +1,7 @@
+570115339515592704
+American
+@AmericanAir I understand that but I'm hoping I can rectify this in advance. I would call but I am in AUH. I just need my one checked bag.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 22:57:43 -0800
+location: The Great State of TEXAS

@@ -1,0 +1,7 @@
+569368056855552001
+United
+@united Phone
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 21:28:17 -0800
+location: Wake Forest, NC

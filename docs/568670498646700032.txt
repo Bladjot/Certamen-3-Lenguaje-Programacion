@@ -1,0 +1,7 @@
+568670498646700032
+Delta
+@JetBlue the slowest boarding process I've ever experienced and rude customer service agents.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 23:16:26 -0800
+location: Tempe, AZ

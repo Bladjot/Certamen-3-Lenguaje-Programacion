@@ -1,0 +1,7 @@
+569970186431959040
+US Airways
+@USAirways citizen. I fly your airline constantly and am so offended.  Derrick Bussey. Now Im crying on this airplane because I'm so upset
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 13:20:56 -0800
+location: nan

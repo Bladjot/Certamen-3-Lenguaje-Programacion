@@ -1,0 +1,7 @@
+570210392539934721
+American
+@AmericanAir She was at gate on time though, they made her cry, and made a scene for 10 mins instead of boarding her. Plane still outside.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 05:15:26 -0800
+location: Toronto, Ontario, Canada

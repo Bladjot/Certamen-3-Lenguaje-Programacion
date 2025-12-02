@@ -1,0 +1,7 @@
+568155450824216578
+United
+@united yes of course I have.  Is this how you treat customer with no recourse?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 13:09:49 -0800
+location: columbus, oh

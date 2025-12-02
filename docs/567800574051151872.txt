@@ -1,0 +1,7 @@
+567800574051151872
+Southwest
+@SouthwestAir I never got a Cancelled Flightlation text from this morning either #bushleague or a number to call #weakservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 13:39:40 -0800
+location: Nashville Tennessee

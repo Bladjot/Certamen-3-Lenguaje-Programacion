@@ -1,0 +1,7 @@
+568906726906335234
+Southwest
+@SouthwestAir got it taken care of! thank you &lt;3
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 14:55:08 -0800
+location: 310

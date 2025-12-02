@@ -1,0 +1,7 @@
+569555455963471872
+US Airways
+@USAirways , I am embarrassed for us air and their inability to manage during weather delays.handling of # 4435 is an example
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 09:52:57 -0800
+location: nan

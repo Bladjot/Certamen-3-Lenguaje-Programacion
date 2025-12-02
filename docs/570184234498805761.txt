@@ -1,0 +1,7 @@
+570184234498805761
+American
+@AmericanAir @USAirways So who do I need to talk to to ensure the statement is sent to my bank so I can get the credit for the charges?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 03:31:29 -0800
+location: McKinney TX

@@ -1,0 +1,7 @@
+570176104541122561
+American
+@AmericanAir merged airlines do not work for FF programs. Very frustrating and the gate agents are to busy pouting to care. #AttitudeIssues
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 02:59:11 -0800
+location: Crestwood

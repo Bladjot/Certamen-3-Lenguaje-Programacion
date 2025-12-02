@@ -1,0 +1,7 @@
+569509520034156544
+US Airways
+@USAirways Thank you glad to be home. There were lots of delays with the plane and flight crew didn't show up. It was very frustrating.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 06:50:25 -0800
+location: nan

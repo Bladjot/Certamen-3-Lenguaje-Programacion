@@ -1,0 +1,7 @@
+569232480181489665
+United
+@united thank you for taking care of my mom and reFlight Booking Problems her flight in phl.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 12:29:33 -0800
+location: San Diego

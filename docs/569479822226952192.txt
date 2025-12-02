@@ -1,0 +1,7 @@
+569479822226952192
+US Airways
+@USAirways my flight got Cancelled Flightled to Charlotte. Been on hold for an hour, pls pick up!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 04:52:24 -0800
+location: nan

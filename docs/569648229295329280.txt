@@ -1,0 +1,7 @@
+569648229295329280
+Delta
+@JetBlue thanks for the response. We are hopeful.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 16:01:36 -0800
+location: nan

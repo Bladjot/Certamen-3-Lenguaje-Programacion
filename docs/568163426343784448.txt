@@ -1,0 +1,7 @@
+568163426343784448
+US Airways
+@USAirways @AmericanAir First Class all the way!!💺✈️ Headed to @portlandjetport http://t.co/kDMq0jps02
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 13:41:31 -0800
+location: #Supergabe - Central Maine

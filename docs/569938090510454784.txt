@@ -1,0 +1,9 @@
+569938090510454784
+Delta
+@JetBlue ....you haven't got me just yet
+
+Can a 1 way LAX-NYC cost me under 190?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:13:24 -0800
+location: nan

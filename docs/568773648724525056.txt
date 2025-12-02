@@ -1,0 +1,7 @@
+568773648724525056
+United
+@united in spite of flight delay great customer service provided by Janet and baggage employee Karen. You have 2 wonderful employees United.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 06:06:19 -0800
+location: nan

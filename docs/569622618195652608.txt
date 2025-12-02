@@ -1,0 +1,7 @@
+569622618195652608
+Delta
+@JetBlue Usually I have such a great experience with you guys? Very, very unhappy with you right now.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 14:19:49 -0800
+location: Chicago

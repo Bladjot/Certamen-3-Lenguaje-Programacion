@@ -1,0 +1,7 @@
+568153151636766721
+United
+@united Flight was overbooked! Was offered voucher to wait &amp; take another flight. Gate agent switched me over, retracted voucher offer.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 13:00:41 -0800
+location: nan

@@ -1,0 +1,7 @@
+569256471046823937
+United
+@united what, you forgot to tell them the flight was coming... Thanks for allowing me to miss my connection
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 14:04:53 -0800
+location: Bethlehem, PA

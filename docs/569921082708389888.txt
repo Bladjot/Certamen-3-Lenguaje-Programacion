@@ -1,0 +1,7 @@
+569921082708389888
+American
+@AmericanAir - I'd be happy to hold on the phone, but your phone system is not allowing that and simply hangs up.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:05:49 -0800
+location: nan

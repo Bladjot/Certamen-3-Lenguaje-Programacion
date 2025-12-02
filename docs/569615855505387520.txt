@@ -1,0 +1,7 @@
+569615855505387520
+American
+@AmericanAir how did my prime, ticketed seat get switched on AA 343?! Not sure what's going on here...
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 13:52:57 -0800
+location: Orange County, CA

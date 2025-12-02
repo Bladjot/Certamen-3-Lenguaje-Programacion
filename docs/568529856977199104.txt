@@ -1,0 +1,7 @@
+568529856977199104
+US Airways
+@USAirways thanks! Made it safely! http://t.co/KCqeBEej7S
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 13:57:35 -0800
+location: Hershey, PA

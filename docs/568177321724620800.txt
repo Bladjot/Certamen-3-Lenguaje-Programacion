@@ -1,0 +1,7 @@
+568177321724620800
+United
+@united I think you guys had a half full flight at 4 so you held our overbooked 3pm flight to fill the other one then Cancelled Flightled mine
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 14:36:44 -0800
+location: NJ

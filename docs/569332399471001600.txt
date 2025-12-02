@@ -1,0 +1,7 @@
+569332399471001600
+US Airways
+@USAirways so far no call back
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 19:06:36 -0800
+location: nan

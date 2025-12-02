@@ -1,0 +1,7 @@
+567930900731854848
+Delta
+@JetBlue Clients got ZERO, in 32 years career never thought this was possible.2 suitcases worth thousands of $$ in Italian clothing robbed.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 22:17:33 -0800
+location: Satellite Beach Fl.

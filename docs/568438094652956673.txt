@@ -1,0 +1,7 @@
+568438094652956673
+United
+@united I sent you a dm with my file reference number.. I just want to know if someone has located my bag even if it's not here yet.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 07:52:57 -0800
+location: ny

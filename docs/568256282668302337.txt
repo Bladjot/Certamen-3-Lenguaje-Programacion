@@ -1,0 +1,7 @@
+568256282668302337
+US Airways
+@USAirways got through on the phone. usair Cancelled Flightled her return flights because she missed a flight on her way out. they took care of it
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 19:50:30 -0800
+location: nan

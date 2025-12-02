@@ -1,0 +1,7 @@
+569813138910130176
+Southwest
+@SouthwestAir Flight 3744 (N284WN) departs @FlyTPA enroute to @PHXSkyHarbor http://t.co/Bd5tvr3Gcy
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 02:56:53 -0800
+location: Englewood, Florida

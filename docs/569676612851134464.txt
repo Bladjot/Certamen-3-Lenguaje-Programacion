@@ -1,0 +1,7 @@
+569676612851134464
+US Airways
+@USAirways what happens to frequent flyer miles earned once merger is complete with AA?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:54:23 -0800
+location: nan

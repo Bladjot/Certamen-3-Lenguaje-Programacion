@@ -1,0 +1,7 @@
+569551779752386560
+US Airways
+@USAirways over 2 hours and 14 minutes on hold and counting. Thanks for the help! #customerservice #brutal http://t.co/VsKXyAmnom
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 09:38:20 -0800
+location: Newark, DE

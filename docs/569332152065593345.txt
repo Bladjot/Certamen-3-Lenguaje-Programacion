@@ -1,0 +1,7 @@
+569332152065593345
+Southwest
+@SouthwestAir Kudos for adding #Passbook to your app! I LOVE IT!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 19:05:37 -0800
+location: Wilmington, North Carolina

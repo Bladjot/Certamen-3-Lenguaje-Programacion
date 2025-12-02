@@ -1,0 +1,7 @@
+568906461461393408
+Southwest
+@SouthwestAir not sure I can trust a statement with that many small numbers above words. http://t.co/o3sRL1hfho
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 14:54:04 -0800
+location: San Jose, CA

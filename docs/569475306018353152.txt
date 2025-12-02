@@ -1,0 +1,7 @@
+569475306018353152
+United
+@united Seat 14A, Flight UA895
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 04:34:27 -0800
+location: Seattle WA

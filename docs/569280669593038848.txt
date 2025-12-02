@@ -1,0 +1,7 @@
+569280669593038848
+United
+@united We've let you know how to help the millions of customers you've treated like garbage. It's no coincidence ur ranked WORST airline.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 15:41:03 -0800
+location: Boston, MA

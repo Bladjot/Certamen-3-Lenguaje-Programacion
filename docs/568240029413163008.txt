@@ -1,0 +1,7 @@
+568240029413163008
+United
+@united @VUSA_Australia I'm just an Aussie cowgirl lookin' for my cowboy. Take me to Fort Worth, Estelle says I'll find him there!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 18:45:55 -0800
+location: Sydney

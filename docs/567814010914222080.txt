@@ -1,0 +1,7 @@
+567814010914222080
+Delta
+@JetBlue - why does my TSA-pre work with every airline BUT you? I pay good money for that. Spent 30 mins on phone to fix to zero success.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 14:33:04 -0800
+location: nan

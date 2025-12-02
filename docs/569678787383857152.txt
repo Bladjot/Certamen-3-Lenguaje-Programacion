@@ -1,0 +1,7 @@
+569678787383857152
+Delta
+@JetBlue ill call in the morning. too upset right now.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 18:03:01 -0800
+location: indoors

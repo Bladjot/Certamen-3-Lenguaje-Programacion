@@ -1,0 +1,7 @@
+567595670463205376
+United
+@united I like delays less than you because I'm the one on the plane. Connect me with a voucher
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 00:05:27 -0800
+location: Portland, OR

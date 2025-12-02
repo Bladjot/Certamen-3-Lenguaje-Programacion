@@ -1,0 +1,7 @@
+569129269139537920
+United
+@united 132 characters does not cover my reasons I'm afraid
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 05:39:26 -0800
+location: nan

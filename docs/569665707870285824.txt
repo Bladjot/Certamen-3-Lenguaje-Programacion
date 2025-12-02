@@ -1,0 +1,7 @@
+569665707870285824
+American
+@AmericanAir delivered mom's delayed bag to the wrong place. 2 hrs on hold yesterday, &gt;1 hr today. Still no bag. #AA http://t.co/QKkJdFObOS
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 17:11:03 -0800
+location: nan

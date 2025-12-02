@@ -1,0 +1,7 @@
+568220464071356416
+Southwest
+@SouthwestAir So I am flying Chicago-LAX-PHX just to go spotting at LAX and PHX airports, then I am flying back to Chicago :)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 17:28:10 -0800
+location: Lake Buena Vista, Florida

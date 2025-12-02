@@ -1,0 +1,7 @@
+569873418075672576
+American
+@AmericanAir your call system is a fucking joke
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:56:25 -0800
+location: Texas Tech University USA

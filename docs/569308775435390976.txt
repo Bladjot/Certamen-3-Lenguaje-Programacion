@@ -1,0 +1,7 @@
+569308775435390976
+United
+@united Additionally, my husband paid for tv service &amp; it stopped working about halfway through the flight.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 17:32:43 -0800
+location: Milwaukee, WI

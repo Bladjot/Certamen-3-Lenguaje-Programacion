@@ -1,0 +1,8 @@
+569697662494121984
+Southwest
+@SouthwestAir thank you : 8UXZJ2
+Paid for early bird and sat in back
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 19:18:01 -0800
+location: nan

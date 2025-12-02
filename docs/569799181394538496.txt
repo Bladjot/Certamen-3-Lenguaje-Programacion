@@ -1,0 +1,7 @@
+569799181394538496
+American
+@AmericanAir airport to figure this out or can someone tell me now? Flight is from San Juan to San Diego
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 02:01:25 -0800
+location: San Diego

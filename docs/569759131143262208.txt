@@ -1,0 +1,7 @@
+569759131143262208
+US Airways
+@USAirways Please don't trivialize me.  This is a joke, not a slow day or slow experience
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 23:22:17 -0800
+location: Washington, D.C.

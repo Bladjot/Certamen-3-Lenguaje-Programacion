@@ -1,0 +1,7 @@
+569230983075115010
+Virgin America
+@VirginAmerica I was really looking forward to my flight. can you let me know when it will be rescheduled? #diehardvirgin
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 12:23:36 -0800
+location: New York, NY

@@ -1,0 +1,7 @@
+569625739231948800
+Virgin America
+@virginamerica you ROCK for making it so I can watch #Oscars on my flight!! #redcarpet #oscars #oscars2015
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 14:32:14 -0800
+location: nan

@@ -1,0 +1,7 @@
+570202097041305600
+American
+@AmericanAir @superyan I did not get any compensation after Cancelled Flighting my departure TWICE and made me missed my own wedding.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 04:42:28 -0800
+location: nan

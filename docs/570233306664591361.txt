@@ -1,0 +1,7 @@
+570233306664591361
+Delta
+@JetBlue @JetBlueCheeps My friend bought a ticket last night for one of these routes from you, and it cost way more. Can you help?”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 06:46:29 -0800
+location: Las Cruces, NM

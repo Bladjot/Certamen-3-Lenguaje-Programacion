@@ -1,0 +1,7 @@
+569977223198822400
+Southwest
+@SouthwestAir like kelsey said, really bad spot for locals. Do you know how long it takes to find parking then walking over to the bellagio?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 13:48:54 -0800
+location: nan

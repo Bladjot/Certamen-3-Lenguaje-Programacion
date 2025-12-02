@@ -1,0 +1,7 @@
+568075679008468992
+Southwest
+@SouthwestAir boarded plane only to be told to get off as it wasn't our plane. Now an hour delay. 😭😭
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 07:52:50 -0800
+location: nan

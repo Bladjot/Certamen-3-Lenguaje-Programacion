@@ -1,0 +1,7 @@
+567732284959113216
+United
+@united BTW is it true you have to remind flight staff after checking in even after indicating meal prefer on your reservation? +
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 09:08:19 -0800
+location: Bhutan

@@ -1,0 +1,7 @@
+569550487474712576
+Southwest
+@SouthwestAir yeah it happens. The PHX airport has extra long waits all spring long. Something locals know but tourist don't just FYI
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 09:33:12 -0800
+location: Phoenix, Az

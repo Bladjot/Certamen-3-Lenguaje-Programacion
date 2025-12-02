@@ -1,0 +1,7 @@
+569310717393944577
+United
+@united...lies lies lies....still sitting at the gate, have not moved an inch http://t.co/LulGnwEfFH
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 17:40:26 -0800
+location: Washington, DC

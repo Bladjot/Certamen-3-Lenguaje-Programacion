@@ -1,0 +1,7 @@
+569273298325864448
+United
+@united - any way to get a message to an international flight gate at EWR?      Road conditions are horrible trying to get to flight ...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 15:11:45 -0800
+location: Philly Burbs

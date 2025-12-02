@@ -1,0 +1,7 @@
+568558887290441728
+Delta
+@JetBlue :/ he was trying to take stuff from the under the seat in front of him and bugging out throughout the flight. Didn't feel safe.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 15:52:56 -0800
+location: nan

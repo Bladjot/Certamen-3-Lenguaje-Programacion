@@ -1,0 +1,8 @@
+569867364390449152
+United
+@united I would like to talk to a customer service agent about the service / non service I received on my last flight a a week or so a go.
+J
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:32:21 -0800
+location: nan

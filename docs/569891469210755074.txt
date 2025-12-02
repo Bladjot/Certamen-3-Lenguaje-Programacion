@@ -1,0 +1,7 @@
+569891469210755074
+Virgin America
+@VirginAmerica check out new music http://t.co/maRcnOCWzn
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 08:08:08 -0800
+location: Greater Los Angeles

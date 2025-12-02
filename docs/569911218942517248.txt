@@ -1,0 +1,7 @@
+569911218942517248
+Virgin America
+@VirginAmerica why is flight 345 redirected?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 09:26:37 -0800
+location: nan

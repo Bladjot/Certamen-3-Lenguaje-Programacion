@@ -1,0 +1,7 @@
+569668677731274752
+Southwest
+@SouthwestAir I (heart) my CP status. Sure would be nice to have though.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:22:51 -0800
+location: nan

@@ -1,0 +1,7 @@
+568380957012525057
+United
+@united no- we are boarding- but why can't your agents, on the phone, taking care of 1K travellers, link reservations?!?!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 04:05:54 -0800
+location: iPhone: 40.773155,-73.872490

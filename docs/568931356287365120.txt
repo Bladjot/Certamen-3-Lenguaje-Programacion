@@ -1,0 +1,7 @@
+568931356287365120
+United
+@united That was the problem.  We were being told the aircraft was on its way.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 16:33:00 -0800
+location: Elmira, NY

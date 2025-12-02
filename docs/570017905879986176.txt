@@ -1,0 +1,7 @@
+570017905879986176
+American
+@AmericanAir Cancelled Flightled two flights from Miami to Nashville yesterday and could not get me on a flight for 3-4 days. #Southwestairwasthere
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 16:30:33 -0800
+location: nan

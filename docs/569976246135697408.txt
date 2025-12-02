@@ -1,0 +1,7 @@
+569976246135697408
+Southwest
+“@SouthwestAir: Congrats to these fans who are seeing #DestinationDragons in L.A.! SLC, you're next! http://t.co/YcCITaeP3S” Thanks again SW
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:45:01 -0800
+location: Dodger Stadium | Disneyland

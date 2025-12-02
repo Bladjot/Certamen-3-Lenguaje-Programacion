@@ -1,0 +1,7 @@
+569768294648905728
+American
+@AmericanAir so the one time we upgrade to first class our luggage was open and now missing valuable items that can't be replaced. #upset
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 23:58:41 -0800
+location: nan

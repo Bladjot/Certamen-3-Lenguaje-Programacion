@@ -1,0 +1,7 @@
+569676336635236352
+American
+@AmericanAir @DAI_President Good luck at DFW this evening AA!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:53:17 -0800
+location: nan

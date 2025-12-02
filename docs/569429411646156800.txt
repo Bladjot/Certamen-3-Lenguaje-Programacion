@@ -1,0 +1,7 @@
+569429411646156800
+Virgin America
+@VirginAmerica to begin Dallas-Austin #flights in April - 88.9 KETR http://t.co/SSUVWwkyHH
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 01:32:05 -0800
+location: FL410

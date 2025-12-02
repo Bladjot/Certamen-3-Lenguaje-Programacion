@@ -1,0 +1,7 @@
+568796449863028736
+US Airways
+@USAirways now I am on flight to FLL, and told to take a train back to PBI to get my car. There are no trains to PBI!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 07:36:56 -0800
+location: West Palm

@@ -1,0 +1,7 @@
+570295174385016832
+American
+@AmericanAir I tried to book a rwrd and was told I couldnt. Bought tix on USAir (now AA-no choice) didn't bother to + AAdv# with this svc...
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 10:52:19 -0800
+location: Mexico City

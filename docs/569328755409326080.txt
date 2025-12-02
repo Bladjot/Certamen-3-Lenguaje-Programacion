@@ -1,0 +1,7 @@
+569328755409326080
+United
+@united cabin pressurization issues are pretty serious. Flight 1109 landed in Washington because of it. My head is pounding.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 18:52:07 -0800
+location: ORLANDO, FL

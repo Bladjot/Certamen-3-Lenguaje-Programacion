@@ -1,0 +1,7 @@
+569948507018129408
+American
+@AmericanAir you expect us to spend our hard earn $ to fly and make exceptions when you have extra call volume, however, you never make acpt
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:54:47 -0800
+location: 21.791267,-72.189674

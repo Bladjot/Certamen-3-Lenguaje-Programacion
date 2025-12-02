@@ -1,0 +1,7 @@
+568974096161234946
+Delta
+@JetBlue thank you so much for your effort
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 19:22:50 -0800
+location: new york

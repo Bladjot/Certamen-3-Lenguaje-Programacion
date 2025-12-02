@@ -1,0 +1,7 @@
+570043390773084160
+American
+@AmericanAir customer service (if you can call it that) refunded my money
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 18:11:49 -0800
+location: Brevard, NC

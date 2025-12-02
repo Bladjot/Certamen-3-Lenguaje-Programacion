@@ -1,0 +1,7 @@
+569952718707687424
+United
+@united Ok thank you, do you provide complimentary hotel accommodations since I'll have to stay overnight?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 12:11:32 -0800
+location: Kona coast/Boston/Milan

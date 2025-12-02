@@ -1,0 +1,7 @@
+567741655587905537
+Southwest
+@SouthwestAir @NotPghTimothy no exceptions for national awards?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:45:33 -0800
+location: Pittsburgh PA

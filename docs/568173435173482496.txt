@@ -1,0 +1,7 @@
+568173435173482496
+Southwest
+@SouthwestAir will do! #heart #flying
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 14:21:17 -0800
+location: nan

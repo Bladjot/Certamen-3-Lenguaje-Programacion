@@ -1,0 +1,7 @@
+570163662100549634
+United
+@united I've filed the claim but have no way of calling for updates. Is there another way to do this?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 02:09:44 -0800
+location: nan

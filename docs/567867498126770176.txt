@@ -1,0 +1,7 @@
+567867498126770176
+US Airways
+@USAirways Will do. I appreciate the response.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 18:05:36 -0800
+location: Nashville, Tennessee

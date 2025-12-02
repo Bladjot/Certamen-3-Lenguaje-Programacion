@@ -1,0 +1,7 @@
+567873801653997569
+Delta
+@JetBlue I don't know- no one would tell me where they were coming from - I would guess so as that's where we had all the changes to flights
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 18:30:39 -0800
+location: nan

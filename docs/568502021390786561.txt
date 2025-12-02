@@ -1,0 +1,7 @@
+568502021390786561
+Southwest
+@SouthwestAir reviewing your oversize policy. Hardcase golfbags are free if under weight. How do we add guitars and instruments to the list?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 12:06:58 -0800
+location: Los Angeles

@@ -1,0 +1,7 @@
+567778703959408641
+United
+@united no, it was 2 flight Cancelled Flightlations (one due to weather, one mechanical) paid own hotel, bag held in transfer. No voucher/compensation
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 12:12:46 -0800
+location: New York, NY

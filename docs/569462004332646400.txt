@@ -1,0 +1,7 @@
+569462004332646400
+Delta
+@JetBlue okay thank you! I'll check with them again!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 03:41:36 -0800
+location: Austin, TX

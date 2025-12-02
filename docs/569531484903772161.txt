@@ -1,0 +1,7 @@
+569531484903772161
+United
+@united It was 3387. But we helped you with the weight issue, took your vouchers, and hopped on a @Delta flight instead. #winwin
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 08:17:42 -0800
+location: Indianapolis, IN

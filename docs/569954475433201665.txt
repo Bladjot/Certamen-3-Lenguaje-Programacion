@@ -1,0 +1,7 @@
+569954475433201665
+Southwest
+@SouthwestAir how long do we have to be delayed after boarding before we get a free drink? #gettingthirsty
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 12:18:30 -0800
+location: Chicago

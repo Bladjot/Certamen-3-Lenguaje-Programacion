@@ -1,0 +1,7 @@
+569211553930743809
+Southwest
+@SouthwestAir Since when did it become ok for a passenger to save 3 rows of seats for people with a Late Flightr boarding position?how rude!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 11:06:24 -0800
+location: nan

@@ -1,0 +1,7 @@
+568588522069733376
+United
+@united my partner and I booked individual reservations for same flight. I have Pr. Silver -- can he share my premier privileges somehow?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 17:50:42 -0800
+location: San Jose, CA

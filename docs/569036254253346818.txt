@@ -1,0 +1,7 @@
+569036254253346818
+United
+@united  thank you for a great flight in gfc :) Cheers http://t.co/nvLnGLnMGN
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 23:29:49 -0800
+location: Tulsa, OK

@@ -1,0 +1,7 @@
+569936893166489600
+American
+@AmericanAir now you're sending a gate agent to talk to us? Joke of an airline. Thanks for ruining my vacation. #neverflyAAagain
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 11:08:38 -0800
+location: Chicago, IL

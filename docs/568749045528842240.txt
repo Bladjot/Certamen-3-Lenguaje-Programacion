@@ -1,0 +1,7 @@
+568749045528842240
+US Airways
+@USAirways thank you for refunding me on my baggage ! really appreciate it
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 04:28:33 -0800
+location: NJ 973 | NC 910

@@ -1,0 +1,7 @@
+568988757954678784
+United
+@united it most certainly was not.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 20:21:05 -0800
+location: Vail, CO

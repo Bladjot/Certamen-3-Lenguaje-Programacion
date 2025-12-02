@@ -1,0 +1,7 @@
+569612999415111680
+United
+@United is an airline where you pay extra to get a better seat but by the time you board your overbooked flight, there's no overhead space.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 13:41:36 -0800
+location: New York, NY

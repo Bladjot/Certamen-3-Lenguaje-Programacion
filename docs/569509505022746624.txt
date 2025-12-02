@@ -1,0 +1,7 @@
+569509505022746624
+US Airways
+@USAirways your people are kind and hardworking the infrastructure you have given them is horrid #massivefail #failphone #fail
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 06:50:21 -0800
+location: Winston-Salem, NC

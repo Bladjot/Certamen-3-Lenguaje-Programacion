@@ -1,0 +1,7 @@
+569343563244425216
+US Airways
+@USAirways how do I change flights . 3 hours is crazy please help
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 19:50:58 -0800
+location: NYC

@@ -1,0 +1,7 @@
+569917765676601344
+US Airways
+@USAirways Who intentionally buys a flight with a 10 hour layover?  And what kind of airline would charge $200 to fix it? Wow... #usairways
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:52:38 -0800
+location: New Orleans

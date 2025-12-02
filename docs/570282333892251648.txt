@@ -1,0 +1,7 @@
+570282333892251648
+Southwest
+@SouthwestAir tv stream means I get to spend my flight watching 1999 and 2011 Women's World Cup Finals. #throwback #bestflightever
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 10:01:18 -0800
+location: nan

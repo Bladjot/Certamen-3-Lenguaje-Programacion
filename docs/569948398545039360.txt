@@ -1,0 +1,7 @@
+569948398545039360
+American
+@AmericanAir hour and a half after landing bags are finally trickling off. http://t.co/4KbTzVjU3b
+sentiment: negative
+negativereason: longlines
+created: 2015-02-23 11:54:21 -0800
+location: Denver

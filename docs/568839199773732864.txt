@@ -1,0 +1,7 @@
+568839199773732864
+Southwest
+@SouthwestAir SEA to DEN. South Sound Volleyball team on its way! http://t.co/tN5cXCld6M
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 10:26:48 -0800
+location: nan

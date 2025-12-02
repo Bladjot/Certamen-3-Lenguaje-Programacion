@@ -1,0 +1,7 @@
+568789020890812416
+US Airways
+@USAirways call Gate D9 in CLT and get me on this flight
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 07:07:24 -0800
+location: QueenCity, USA

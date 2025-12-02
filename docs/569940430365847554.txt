@@ -1,0 +1,7 @@
+569940430365847554
+Southwest
+@SouthwestAir yeah they're somewhere. Hopefully getting them back today. Just frustrated tweeting.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 11:22:42 -0800
+location: Bloomington/San Francisco

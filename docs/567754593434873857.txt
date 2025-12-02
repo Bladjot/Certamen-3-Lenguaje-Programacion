@@ -1,0 +1,7 @@
+567754593434873857
+US Airways
+@USAirways please hold 3923! I can see it. Just can't get off my first plane quick enough
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 10:36:58 -0800
+location: Beavercreek Ohio

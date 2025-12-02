@@ -1,0 +1,7 @@
+568480654347935745
+Delta
+@JetBlue Why would you charge money to transfer points to someone?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 10:42:04 -0800
+location: Los Angeles, CA

@@ -1,0 +1,7 @@
+570242452092813312
+US Airways
+@USAirways hey!!  Yeah last time I got a phone call when flight was Cancelled Flightled from DCA to BOS
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 07:22:49 -0800
+location: Boston, MA

@@ -1,0 +1,7 @@
+570214660638511104
+United
+@united private jet would have been cool! Do does not work. I'll try again
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 05:32:23 -0800
+location: nan

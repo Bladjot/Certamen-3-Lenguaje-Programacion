@@ -1,0 +1,7 @@
+568460100970668032
+US Airways
+@USAirways 1917. Still sitting here. Feels badly handled.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 09:20:24 -0800
+location: U.S.

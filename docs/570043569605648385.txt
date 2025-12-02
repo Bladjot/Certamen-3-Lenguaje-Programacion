@@ -1,0 +1,7 @@
+570043569605648385
+US Airways
+@USAirways #FAILINGYOURCUSTOMER ONE BY ONE
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 18:12:32 -0800
+location: nan

@@ -1,0 +1,7 @@
+568997394345533440
+US Airways
+@USAirways but in the meantime I'll be sleeping on a park bench on dadeland st.  Thanks guys!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 20:55:24 -0800
+location: Asheville, NC

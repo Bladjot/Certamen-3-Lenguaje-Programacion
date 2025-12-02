@@ -1,0 +1,7 @@
+569672234949742592
+US Airways
+@USAirways Really a letter that says you will discuss serving drunks more drinks that doesn't help the current situation
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 17:36:59 -0800
+location: Belle MO

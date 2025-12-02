@@ -1,0 +1,7 @@
+570264306350227456
+US Airways
+@usairways Ok thank you…I call from Spain to US for seating assistance!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 08:49:40 -0800
+location: Barcelona

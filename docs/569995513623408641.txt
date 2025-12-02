@@ -1,0 +1,7 @@
+569995513623408641
+American
+@AmericanAir 3349, was supposed to be in little rock at 10am this morning.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 15:01:35 -0800
+location: nan

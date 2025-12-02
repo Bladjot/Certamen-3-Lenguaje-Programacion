@@ -1,0 +1,7 @@
+568894248457646080
+Delta
+Well lets see.  You could pay for my Negroni with bitcoin. @JetBlue
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 14:05:33 -0800
+location: planet earth

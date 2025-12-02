@@ -1,0 +1,7 @@
+569973683466272768
+United
+@united really?  Someone called in sick and then someone FORGOT to call a replacement?!  Now an hour Late Flight to take off. #theworst
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 13:34:50 -0800
+location: West Hollywood, CA

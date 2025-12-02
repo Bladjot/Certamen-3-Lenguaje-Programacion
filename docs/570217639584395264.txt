@@ -1,0 +1,7 @@
+570217639584395264
+US Airways
+@USAirways We're back at a gate. Opposite of wheels up. Im sure we'll get thete eventually. So thanks.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 05:44:14 -0800
+location: nan

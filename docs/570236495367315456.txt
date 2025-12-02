@@ -1,0 +1,7 @@
+570236495367315456
+US Airways
+@USAirways then drop your fee! $150 ($300RT!!!!) makes no sense; most EU airlines charge $0. @AirCanada charges a reasonable $50.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 06:59:09 -0800
+location: Atlanta, United States

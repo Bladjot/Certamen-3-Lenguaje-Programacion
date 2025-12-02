@@ -1,0 +1,7 @@
+568632394929958912
+Virgin America
+@VirginAmerica momma I made it! 😁😁😁
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 20:45:02 -0800
+location: Bay Area

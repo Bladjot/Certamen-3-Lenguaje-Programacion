@@ -1,0 +1,7 @@
+568590782640164865
+Southwest
+@SouthwestAir Paid for in flight wifi from Austin to San Diego - wasn't useable. :/ Possible to get a refund? Conf #8X7XVM
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 17:59:41 -0800
+location: Austin, TX

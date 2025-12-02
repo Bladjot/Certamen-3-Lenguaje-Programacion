@@ -1,0 +1,7 @@
+568092479452549120
+Southwest
+@SouthwestAir how does your pre boarding process work? Basically anyone who doesn't want to wait their turn can get a slip?
+sentiment: negative
+negativereason: longlines
+created: 2015-02-18 08:59:36 -0800
+location: Cleveland, Ohio

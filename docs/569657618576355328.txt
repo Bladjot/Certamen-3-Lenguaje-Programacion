@@ -1,0 +1,7 @@
+569657618576355328
+American
+@AmericanAir help us here !!! We are stuck here @jfk for more than 24hours! !we need to go home #flight919 #saveus
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 16:38:54 -0800
+location: Pocos de Caldas

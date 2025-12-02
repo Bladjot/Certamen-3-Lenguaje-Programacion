@@ -1,0 +1,7 @@
+569785074910154752
+United
+@united followed you and DM'd you
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 01:05:22 -0800
+location: nan

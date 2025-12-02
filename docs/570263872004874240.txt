@@ -1,0 +1,7 @@
+570263872004874240
+United
+@united the os isn't controlled by me but rather @VerizonWireless .  App is new.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:47:56 -0800
+location: nan

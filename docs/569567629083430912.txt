@@ -1,0 +1,7 @@
+569567629083430912
+US Airways
+@USAirways I've been on hold at the reservations desk for 3 hours. HELP!!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 10:41:19 -0800
+location: Dallas, TX

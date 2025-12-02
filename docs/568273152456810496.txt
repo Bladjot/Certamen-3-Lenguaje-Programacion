@@ -1,0 +1,7 @@
+568273152456810496
+Delta
+@JetBlue im flying with you from mi-boston and then icelandair to iceland, 8 hours between. can we check our bags all the way?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 20:57:32 -0800
+location: Hollywood

@@ -1,0 +1,7 @@
+569621808963395585
+American
+@AmericanAir but they refused to unload our luggage so we're stuck in below freezing weather w/o our cold weather clothes.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:16:36 -0800
+location: nan

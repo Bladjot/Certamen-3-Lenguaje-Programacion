@@ -1,0 +1,7 @@
+569947151339429889
+Delta
+Lmfaooo “@JetBlue: Our fleet's on fleek. http://t.co/1G9RnmYUQe”
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 11:49:24 -0800
+location: Friend Zone

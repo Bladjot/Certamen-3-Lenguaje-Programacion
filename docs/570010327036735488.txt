@@ -1,0 +1,7 @@
+570010327036735488
+American
+@AmericanAir I'll try to have a great week once I receive it 😩😭💔
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 16:00:26 -0800
+location: ☀️SoFla☀️

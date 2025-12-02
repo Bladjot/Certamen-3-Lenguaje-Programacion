@@ -1,0 +1,7 @@
+569547458520469505
+Delta
+@JetBlue no excuse though for 3 gate changes though.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 09:21:10 -0800
+location: New York City

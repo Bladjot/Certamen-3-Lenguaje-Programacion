@@ -1,0 +1,7 @@
+568157757406183424
+United
+@united UA6002 MLI-&gt;DEN. Will miss connection UA3530 DEN-&gt;YEG due to delay.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 13:18:59 -0800
+location: nan

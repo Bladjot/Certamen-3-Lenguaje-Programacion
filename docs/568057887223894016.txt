@@ -1,0 +1,7 @@
+568057887223894016
+Southwest
+@SouthwestAir In my letters to follow, I will be sure to include my Rewards Number, twitter handle, and email address.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 06:42:08 -0800
+location: Somewhere over the rainbow.

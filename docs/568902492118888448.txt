@@ -1,0 +1,7 @@
+568902492118888448
+United
+@united When are you coming back to @IFlyOAKland? You have a huge East Bay customer base due to SFO and *I* miss you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 14:38:18 -0800
+location: Oakland

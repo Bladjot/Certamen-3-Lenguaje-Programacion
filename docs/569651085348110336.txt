@@ -1,0 +1,7 @@
+569651085348110336
+US Airways
+@USAirways it's flt 4827 to ELM - still no gate and still have to make it thru customs
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 16:12:57 -0800
+location: ÜT: 42.076557,-76.770488

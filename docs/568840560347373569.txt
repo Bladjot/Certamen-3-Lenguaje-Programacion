@@ -1,0 +1,7 @@
+568840560347373569
+Virgin America
+@VirginAmerica would love to do more for virgin just like I do for @GoPro
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 10:32:12 -0800
+location: San Francisco

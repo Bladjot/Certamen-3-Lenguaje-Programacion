@@ -1,0 +1,7 @@
+569698589653344256
+Southwest
+@SouthwestAir may I have my Companion pass please.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 19:21:42 -0800
+location: Happy Valley, Oregon

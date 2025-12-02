@@ -1,0 +1,7 @@
+569748501342478336
+United
+@united SF crew lack a lot of customer service, LAX employees are a lot better. Wonder why...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 22:40:02 -0800
+location: nan

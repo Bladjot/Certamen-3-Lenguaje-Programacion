@@ -1,0 +1,7 @@
+568550726311346177
+Southwest
+@SouthwestAir Did yall get rid of the Austin to Cabo flights all together? There's zero non-stop in Aug and Sept
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 15:20:30 -0800
+location: Texas

@@ -1,0 +1,7 @@
+569736283326586880
+American
+@AmericanAir @Nashinmypants lmao this is so funny
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 21:51:29 -0800
+location: Glendale, Arizona

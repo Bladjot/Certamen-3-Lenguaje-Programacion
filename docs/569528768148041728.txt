@@ -1,0 +1,7 @@
+569528768148041728
+US Airways
+@USAirways any chance u can help our family rebook their flight that was Cancelled Flightled, #4487?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 08:06:54 -0800
+location: nan

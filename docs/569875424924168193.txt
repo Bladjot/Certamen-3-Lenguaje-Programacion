@@ -1,0 +1,7 @@
+569875424924168193
+United
+@united can I request a ticket change through twitter ?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:04:23 -0800
+location: nan

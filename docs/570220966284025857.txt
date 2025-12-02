@@ -1,0 +1,7 @@
+570220966284025857
+Southwest
+@SouthwestAir why is customer relations still not open....in Texas?!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 05:57:27 -0800
+location: Around...

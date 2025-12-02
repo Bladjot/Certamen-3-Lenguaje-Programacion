@@ -1,0 +1,7 @@
+569285269981167616
+Southwest
+@SouthwestAir My wife needs help. She is stranded in Chicago and can't get out until Monday. They won't find her bag because volume too high
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 15:59:19 -0800
+location: Lehigh Valley, PA

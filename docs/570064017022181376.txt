@@ -1,0 +1,7 @@
+570064017022181376
+US Airways
+@USAirways you are the actual worst.  You have zero respect for your passengers. I'm officially done flying with you.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 19:33:47 -0800
+location: nan

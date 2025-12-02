@@ -1,0 +1,7 @@
+569568079761403904
+Southwest
+@SouthwestAir -- any updates on flights getting Cancelled Flighted into DAL? I have a connecting flight there and hope it doesn't delay due to weather
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 10:43:06 -0800
+location: UTSA '13

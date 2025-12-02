@@ -1,0 +1,7 @@
+568962249177436160
+US Airways
+@USAirways talked to Supervisor Jeanine and she couldn't help me. 45 minutes of talking to her and nothing.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 18:35:45 -0800
+location: McKinney TX

@@ -1,0 +1,7 @@
+568034650477580289
+United
+@united leisure. Military personnel for safety reason R highly recommended to not travel in uniform
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 05:09:48 -0800
+location: Wherever the Army sends me

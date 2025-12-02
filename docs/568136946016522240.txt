@@ -1,0 +1,7 @@
+568136946016522240
+Virgin America
+@VirginAmerica how come you don't have an iPhone app? Still using and making me waste paper.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 11:56:18 -0800
+location: CT

@@ -1,0 +1,7 @@
+570288039454486529
+US Airways
+@USAirways: u didn't bother following up, we booked with @Delta.  @Delta understands cust srv: provided lunch 4 delays &amp; upgraded seats!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 10:23:58 -0800
+location: nan

@@ -1,0 +1,7 @@
+569930801577644034
+Southwest
+@SouthwestAir My bag was not shown LUV did not make it to PHL with me.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 10:44:26 -0800
+location: nan

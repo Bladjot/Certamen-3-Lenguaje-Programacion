@@ -1,0 +1,7 @@
+569908722778157056
+American
+@AmericanAir long mait. Repair wait at gate - Capt Said "paperwork formality"- forced to check bag rudely-returning CC reader doesn't work
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 09:16:42 -0800
+location: nan

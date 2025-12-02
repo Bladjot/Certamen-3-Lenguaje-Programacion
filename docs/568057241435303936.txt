@@ -1,0 +1,7 @@
+568057241435303936
+US Airways
+,@USAirways 2nd time this occurred in 3 weeks. I'm not patient. I have no choice.  #Antitrust issue
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 06:39:35 -0800
+location: Major metro area, USA

@@ -1,0 +1,7 @@
+567860775752208385
+US Airways
+@USAirways car services to and from the hotel, food, hotel cost bc of Cancelled Flightlations fall on the customer with last minute notifications
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 17:38:53 -0800
+location: Lexington

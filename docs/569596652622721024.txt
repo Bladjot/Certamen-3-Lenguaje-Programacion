@@ -1,0 +1,7 @@
+569596652622721024
+American
+@AmericanAir But Eagle is always Late Flight
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 12:36:39 -0800
+location: nan

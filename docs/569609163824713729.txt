@@ -1,0 +1,7 @@
+569609163824713729
+American
+@AmericanAir when is next lax JFK flight today
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 13:26:22 -0800
+location: nan

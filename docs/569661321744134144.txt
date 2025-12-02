@@ -1,0 +1,7 @@
+569661321744134144
+American
+@AmericanAir big surprise flight 2330 is delayed. Hopefully not for 6 hours like our flight here.  Thanks again for a sleepless night.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:53:37 -0800
+location: nan

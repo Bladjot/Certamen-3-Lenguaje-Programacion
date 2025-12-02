@@ -1,0 +1,7 @@
+570263448828780547
+American
+@AmericanAir great customer service thanks
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 08:46:15 -0800
+location: nan

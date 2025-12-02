@@ -1,0 +1,7 @@
+569253874445492225
+Delta
+@JetBlue what's the status of flight 1272 diverted to RIC?  When will it depart back for LGA?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 13:54:34 -0800
+location: nan

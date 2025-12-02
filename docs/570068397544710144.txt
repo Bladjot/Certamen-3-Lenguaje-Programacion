@@ -1,0 +1,7 @@
+570068397544710144
+American
+@AmericanAir I loved todays fight. But there was a bad draft on the airplane please add more air to air thanksm
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 19:51:11 -0800
+location: nan

@@ -1,0 +1,7 @@
+568416873211015168
+Delta
+@JetBlue  Brazil to volunteer teaching english &amp; spanish to Poor children so they have a skills to improve their chances of a better life.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 06:28:37 -0800
+location: Austin, Texas

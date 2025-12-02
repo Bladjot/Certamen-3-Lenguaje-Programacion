@@ -1,0 +1,7 @@
+568935636318552064
+US Airways
+@USAirways yes I did thank you! They did a great job turning the flight in jan !
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 16:50:00 -0800
+location: Orlando

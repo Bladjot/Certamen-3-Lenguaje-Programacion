@@ -1,0 +1,7 @@
+568996669167181824
+US Airways
+@USAirways at which point in told they have sold my voucher because I wasn't fast enough
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 20:52:32 -0800
+location: Asheville, NC

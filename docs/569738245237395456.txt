@@ -1,0 +1,7 @@
+569738245237395456
+United
+@united I just checked my united app and the most valuable use of this app has been removed. I can no longer see the status of my equipment?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 21:59:17 -0800
+location: nan

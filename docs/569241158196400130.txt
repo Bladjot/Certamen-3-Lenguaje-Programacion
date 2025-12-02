@@ -1,0 +1,7 @@
+569241158196400130
+US Airways
+@USAirways i have been trying ALL WEEK to book a multi city award trip (can't book online) I'm told to call back some other time. What?!?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 13:04:02 -0800
+location: Charlotte, NC

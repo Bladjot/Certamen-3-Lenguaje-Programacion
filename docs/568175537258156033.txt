@@ -1,0 +1,7 @@
+568175537258156033
+Delta
+@JetBlue is the worst. I have to postpone my trip and they can't accommodate guests like @SouthwestAir #NeverAgain
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 14:29:38 -0800
+location: Washington DC

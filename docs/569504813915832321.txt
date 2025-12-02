@@ -1,0 +1,7 @@
+569504813915832321
+US Airways
+@USAirways the plane i am on is having mechanical issues. Why cant i get off and get on a new flight? Now i have missed my connecting flight
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 06:31:43 -0800
+location: America

@@ -1,0 +1,7 @@
+570261977332731904
+Southwest
+@SouthwestAir frustrating indeed especially when no one knows what the issue is....
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 08:40:25 -0800
+location: nan

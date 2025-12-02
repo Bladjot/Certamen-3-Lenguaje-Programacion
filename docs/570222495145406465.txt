@@ -1,0 +1,7 @@
+570222495145406465
+American
+@AmericanAir when the pilot announces that the plane has been unused for 2 days and maintenance is dealing with another aircraft..
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 06:03:31 -0800
+location: iPhone: 37.621227,-122.386002

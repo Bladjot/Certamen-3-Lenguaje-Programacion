@@ -1,0 +1,7 @@
+567811913586876417
+United
+@united calling that number was useless. Heading to the airport now to pick up my bags. this whole situation seems like a real joke.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 14:24:44 -0800
+location: Conway, AR

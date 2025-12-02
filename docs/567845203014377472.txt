@@ -1,0 +1,7 @@
+567845203014377472
+Virgin America
+@VirginAmerica ...Please come to Minneapolis St. Paul!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 16:37:01 -0800
+location: nan

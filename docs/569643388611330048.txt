@@ -1,0 +1,7 @@
+569643388611330048
+American
+@AmericanAir @sa_craig no, not helped one bit. actually ended up driving home due to extreme disorganization and lack of communication.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:42:21 -0800
+location: College Station, TX

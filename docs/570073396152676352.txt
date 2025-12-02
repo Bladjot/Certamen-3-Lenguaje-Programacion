@@ -1,0 +1,7 @@
+570073396152676352
+American
+@AmericanAir what can AA do for a load of people about to board their 5th plane of a very long day when the first 4 were unserviceable
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 20:11:03 -0800
+location: nan

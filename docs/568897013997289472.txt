@@ -1,0 +1,7 @@
+568897013997289472
+Delta
+@JetBlue When will you release November flights for Flight Booking Problems?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 14:16:32 -0800
+location: nan

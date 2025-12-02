@@ -1,0 +1,7 @@
+568203438099529728
+Delta
+@JetBlue Flight is 100% full.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 16:20:31 -0800
+location: Boston, MA

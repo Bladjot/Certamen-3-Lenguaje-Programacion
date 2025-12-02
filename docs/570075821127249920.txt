@@ -1,0 +1,7 @@
+570075821127249920
+American
+@AmericanAir Late Flight again geez flt2417 #Late Flight #delays #typical
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 20:20:41 -0800
+location: nan

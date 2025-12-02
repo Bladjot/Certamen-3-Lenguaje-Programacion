@@ -1,0 +1,7 @@
+568106704866582528
+Southwest
+@SouthwestAir planning a family trip to Orlando in May and trying to figure out when to book to get the best rate. Any Suggestions?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 09:56:08 -0800
+location: Maryland and Washington D.C.

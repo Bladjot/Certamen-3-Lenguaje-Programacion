@@ -1,0 +1,7 @@
+569532924036407297
+US Airways
+@USAirways a member of your staff at PHL just gave us excellent customer care. Shame the same couldn't be said for the past 24 hours.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 08:23:25 -0800
+location: Blackpool

@@ -1,0 +1,7 @@
+569300959911768064
+United
+@united 6 minutes to boarding at b12 in Ord. No sign of gate agent. A little help?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 17:01:40 -0800
+location: nan

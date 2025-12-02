@@ -1,0 +1,7 @@
+569854995958509568
+American
+@AmericanAir Why did I have to stand at baggage claim for an hour waiting for a bag that you knew never made it on to the plane?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 05:43:13 -0800
+location: nan

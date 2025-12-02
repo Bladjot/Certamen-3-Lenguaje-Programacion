@@ -1,0 +1,7 @@
+569953475640995840
+American
+@AmericanAir That's good, I'd expect that but I can't get through on the phone to make any changes. Can I change it online?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 12:14:32 -0800
+location: Seattle, WA

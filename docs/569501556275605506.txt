@@ -1,0 +1,7 @@
+569501556275605506
+Delta
+@JetBlue done, thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 06:18:46 -0800
+location: Grimsby - UK

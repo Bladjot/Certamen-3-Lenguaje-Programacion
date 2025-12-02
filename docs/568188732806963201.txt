@@ -1,0 +1,7 @@
+568188732806963201
+Southwest
+@SouthwestAir where was the inclement weather? Other flights left DCA today and this plane appeared to be coming from AUS.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 15:22:04 -0800
+location: washington, dc

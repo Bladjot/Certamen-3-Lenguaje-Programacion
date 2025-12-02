@@ -1,0 +1,7 @@
+568844078730727424
+United
+@united I log in, view reservations, try view specific reservation &amp; takes me back to login page,
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 10:46:11 -0800
+location: Celebration, FL

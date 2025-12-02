@@ -1,0 +1,7 @@
+569236665950203904
+US Airways
+@timbennettg3 @USAirways Cancelled Flightled 4532 sch departure 8:38 am, wasn't snowing yet and other flights were still leaving #Fail
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 12:46:11 -0800
+location: washington, dc

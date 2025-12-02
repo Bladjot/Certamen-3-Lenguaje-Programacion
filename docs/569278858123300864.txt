@@ -1,0 +1,7 @@
+569278858123300864
+United
+@united I see. Thanks for explaining.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 15:33:51 -0800
+location: A Californian in London

@@ -1,0 +1,7 @@
+568769373122342912
+US Airways
+@USAirways yeah, the mark was like a mile back. Also we're an hour Late Flight. So thanks a ton for the great service today.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 05:49:20 -0800
+location: DC via Louisiana

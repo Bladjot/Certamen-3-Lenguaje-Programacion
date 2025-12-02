@@ -1,0 +1,7 @@
+569687163136315392
+American
+@AmericanAir yes. He's in the next flight
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:36:18 -0800
+location: nan

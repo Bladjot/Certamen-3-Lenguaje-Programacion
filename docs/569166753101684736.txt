@@ -1,0 +1,7 @@
+569166753101684736
+Southwest
+@SouthwestAir On hold waiting to make special accommodations for my mom who is traveling 1 hour and 24 minutes on hold.  Unacceptable!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 08:08:23 -0800
+location: nan

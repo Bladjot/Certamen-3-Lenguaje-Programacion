@@ -1,0 +1,7 @@
+567800771774001153
+US Airways
+@USAirways conf number FMJTYL delayed - any chance of getting an earlier flight fll to phx?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 13:40:27 -0800
+location: Boca Raton, FL

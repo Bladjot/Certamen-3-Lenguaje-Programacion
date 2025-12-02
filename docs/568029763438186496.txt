@@ -1,0 +1,7 @@
+568029763438186496
+Delta
+@JetBlue deal!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 04:50:23 -0800
+location: London

@@ -1,0 +1,7 @@
+569963097055604736
+Southwest
+@SouthwestAir Feeling very frustrated that I bought WIFI onboard and can't load an email.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 12:52:46 -0800
+location: nan

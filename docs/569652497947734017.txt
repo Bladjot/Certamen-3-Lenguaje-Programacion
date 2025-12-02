@@ -1,0 +1,7 @@
+569652497947734017
+Virgin America
+@VirginAmerica completely awesome experience last month BOS-LAS nonstop. Thanks for such an awesome flight and depart time. #VAbeatsJblue
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 16:18:33 -0800
+location: nan

@@ -1,0 +1,7 @@
+570261349172973569
+Southwest
+@SouthwestAir That was Chantilly, Paris, France.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:37:55 -0800
+location: Raleigh, NC

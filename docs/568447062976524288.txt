@@ -1,0 +1,7 @@
+568447062976524288
+US Airways
+@USAirways what's happening with 1217 Phl to LAX? Now 3 hr delay. Poor communication!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 08:28:35 -0800
+location: U.S.

@@ -1,0 +1,7 @@
+568454161962049536
+Delta
+@JetBlue What else could possibly take the place of coffee at that hour??Hope pilot wasn't relying on aircraft for caffeine. #needcoffee
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 08:56:48 -0800
+location: Amherst, NY

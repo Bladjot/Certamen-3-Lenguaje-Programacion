@@ -1,0 +1,7 @@
+569492208203776000
+US Airways
+@USAirways 8am flight to mco canld &amp; resch 1:30.If we opt for 8 am depart tom will us air allow cng return day from sat to sun w/o penalty?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 05:41:37 -0800
+location: nan

@@ -1,0 +1,7 @@
+570258435448688641
+US Airways
+@USAirways I've been on hold to rebook a Cancelled Flighted flight for over two hours. I know weather has a huge impact, but you should anticipate.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 08:26:20 -0800
+location: nan

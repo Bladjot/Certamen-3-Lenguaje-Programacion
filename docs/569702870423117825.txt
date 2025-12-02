@@ -1,0 +1,7 @@
+569702870423117825
+Delta
+@JetBlue - Fix your @#$&amp; jet bridges.  40 minute delay, 2nd gate...still waiting!  #jetblues http://t.co/ncB2oNcS9i
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 19:38:43 -0800
+location: nan

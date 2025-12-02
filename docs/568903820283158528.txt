@@ -1,0 +1,7 @@
+568903820283158528
+US Airways
+@usairways and @american please get my plane together before I go to Jetblue
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 14:43:35 -0800
+location: Stratosphere

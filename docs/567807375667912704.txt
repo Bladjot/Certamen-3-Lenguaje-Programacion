@@ -1,0 +1,7 @@
+567807375667912704
+Delta
+@jetblue any idea where the plane for flight 672 is coming from? I thought flight 305 from JFK but that wouldn't explain delay.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 14:06:42 -0800
+location: nan

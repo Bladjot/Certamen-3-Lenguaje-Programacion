@@ -1,0 +1,7 @@
+569646004254998528
+Delta
+@JetBlue why is flight 1106 delayed out to NY? Same problem?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:52:45 -0800
+location: Boston

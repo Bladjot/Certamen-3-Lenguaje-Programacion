@@ -1,0 +1,7 @@
+569969447764566016
+United
+@united how can you not put my bag on plane to Seattle. Flight 1212. Waiting  in line to talk to someone about my bag. Status should matter.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 13:18:00 -0800
+location: nan

@@ -1,0 +1,7 @@
+568107551553794049
+United
+@united Why does it take 4-6 weeks for a new MileagePlus Premier card to be sent out? #stillwaiting #doesntfeellikestatusyet
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 09:59:29 -0800
+location: San Francisco, CA

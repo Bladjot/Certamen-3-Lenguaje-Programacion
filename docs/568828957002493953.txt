@@ -1,0 +1,7 @@
+568828957002493953
+Delta
+@JetBlue flight booked! Heading out to California with the @WikiPearl team for  @NatProdExpo on March 6-8! Can't wait! #ExpoWest
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 09:46:06 -0800
+location: Boston, MA

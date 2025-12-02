@@ -1,0 +1,7 @@
+570091216013955073
+United
+@united Lost bag process is broken. Agent promised they'd call &amp; hold my bag when found. Now they're waking me at 3am w/ delivery. #fail
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 21:21:52 -0800
+location: Boulder, CO

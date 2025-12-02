@@ -1,0 +1,7 @@
+568053134439788546
+Virgin America
+@VirginAmerica please add more frequency to PDX Portland
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 06:23:15 -0800
+location: nan

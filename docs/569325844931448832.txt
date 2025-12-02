@@ -1,0 +1,7 @@
+569325844931448832
+US Airways
+@USAirways Never mind that you could have told the gate I was on my way - you could delay 10 mins but not 15?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 18:40:33 -0800
+location: nan

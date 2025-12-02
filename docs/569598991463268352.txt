@@ -1,0 +1,7 @@
+569598991463268352
+American
+@AmericanAir @yvonneokaka When do I get my personal response and apology for your crew's having forgotten to load baggage onto my flight?
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 12:45:56 -0800
+location: Pekin

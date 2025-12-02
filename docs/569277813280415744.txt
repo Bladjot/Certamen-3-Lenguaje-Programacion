@@ -1,0 +1,7 @@
+569277813280415744
+Southwest
+@SouthwestAir had to Cancelled Flight my flight because my Cavalli calves was interfering with the onboard equipment.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 15:29:42 -0800
+location: Maine

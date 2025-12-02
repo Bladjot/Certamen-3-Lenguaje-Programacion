@@ -1,0 +1,7 @@
+568215307170521088
+US Airways
+@USAirways @AmericanAir hey guys, due to some horrible customer service issues is there any way I can get a checked bag credit?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 17:07:40 -0800
+location: Sistine Chapel

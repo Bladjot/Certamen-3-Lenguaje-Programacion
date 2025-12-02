@@ -1,0 +1,7 @@
+568034808598810625
+US Airways
+@USAirways what do I push to rebook with that 800 number
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 05:10:26 -0800
+location: nan

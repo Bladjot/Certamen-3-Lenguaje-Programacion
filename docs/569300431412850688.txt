@@ -1,0 +1,7 @@
+569300431412850688
+United
+@united On flight 1220 right now...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 16:59:34 -0800
+location: Oxford, MS

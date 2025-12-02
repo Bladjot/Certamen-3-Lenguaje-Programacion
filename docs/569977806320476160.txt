@@ -1,0 +1,7 @@
+569977806320476160
+American
+@AmericanAir Can't help now as all seats have been taken.  There has to be a way to handle high volume of call days.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:51:13 -0800
+location: Las Vegas

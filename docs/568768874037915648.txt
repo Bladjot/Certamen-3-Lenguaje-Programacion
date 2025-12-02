@@ -1,0 +1,7 @@
+568768874037915648
+Southwest
+@SouthwestAir I would love to go to the #DestinationDragons @ImagineDragons show tomorrow in Utah at @VelourLive! I've been trying so hard.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 05:47:21 -0800
+location: In my mind

@@ -1,0 +1,7 @@
+570306423818723328
+American
+@AmericanAir is the new 9:45 time confirmed or it may get Cancelled Flightled? Traveling with kids, need to be certain. Thx
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:37:01 -0800
+location: New York

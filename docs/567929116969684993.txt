@@ -1,0 +1,7 @@
+567929116969684993
+US Airways
+@USAirways my luggage was delayed. I'm looking for compensation, since, you know, you charged me for it then forgot it...
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 22:10:27 -0800
+location: Pasadena, CA

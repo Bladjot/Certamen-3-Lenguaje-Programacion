@@ -1,0 +1,7 @@
+569275580543320064
+Delta
+@JetBlue lipstick on a pig still a pig. Ur new baggage claim @ SJU is a disaster. No chairs, 20 mins+ wait for baggage. #fail
+sentiment: negative
+negativereason: longlines
+created: 2015-02-21 15:20:49 -0800
+location: Wellesley, MA

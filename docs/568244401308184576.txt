@@ -1,0 +1,7 @@
+568244401308184576
+Delta
+@JetBlue Can you tell me which days you fly direct BUF - FLL and FLL - BUF?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 19:03:17 -0800
+location: Great Lakes

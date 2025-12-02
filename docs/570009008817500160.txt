@@ -1,0 +1,7 @@
+570009008817500160
+American
+@AmericanAir I bought a plane ticket 2 months ago and still haven't received my flight info and ticket in my email when it will come?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 15:55:12 -0800
+location: nan

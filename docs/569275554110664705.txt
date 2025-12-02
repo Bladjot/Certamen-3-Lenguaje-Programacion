@@ -1,0 +1,7 @@
+569275554110664705
+Delta
+@JetBlue no more than half an hour wait. It's unreal. Finally first bag coming out. SJU needs to work on this
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 15:20:43 -0800
+location: nan

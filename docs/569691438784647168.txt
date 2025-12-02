@@ -1,0 +1,7 @@
+569691438784647168
+US Airways
+@USAirways follow/dm please
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:53:18 -0800
+location: nan

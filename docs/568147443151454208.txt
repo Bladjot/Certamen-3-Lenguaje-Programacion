@@ -1,0 +1,7 @@
+568147443151454208
+Southwest
+@SouthwestAir if you guys fuck this up again  I will never forgive you
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 12:38:00 -0800
+location: nan

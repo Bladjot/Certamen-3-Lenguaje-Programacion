@@ -1,0 +1,7 @@
+569701189199089664
+American
+@AmericanAir My ex-boyfriend picks up my calls more than you do! #Cancelled Flightedflight #nocustomerservice #americanairlines #FAIL
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:32:02 -0800
+location: West Palm Beach

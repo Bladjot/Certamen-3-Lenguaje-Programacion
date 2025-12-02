@@ -1,0 +1,7 @@
+567829543723102208
+United
+@united so, not only were you Late Flight, you broke my luggage handle. You paying for a new one? http://t.co/nYVV1X3d67
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-17 15:34:47 -0800
+location: Washington DC

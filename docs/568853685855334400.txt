@@ -1,0 +1,7 @@
+568853685855334400
+Virgin America
+@VirginAmerica @VirginAtlantic I have just checked in flight to SFO from LAX &amp; been told as Atlantic Flying Club Gold I get no benefits?!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 11:24:22 -0800
+location: nan

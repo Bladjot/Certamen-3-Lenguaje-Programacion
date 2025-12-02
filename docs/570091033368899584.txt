@@ -1,0 +1,7 @@
+570091033368899584
+United
+@united unfortunately still on the Tarmac at @fly2ohare and definitely missing my ride from @flypdx #GonnaBeALongNight
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 21:21:08 -0800
+location: nan

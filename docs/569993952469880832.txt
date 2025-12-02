@@ -1,0 +1,7 @@
+569993952469880832
+United
+@united When will direct flights from Belfast Intl to Newark resume from their winter break? Thanks.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:55:22 -0800
+location: nan

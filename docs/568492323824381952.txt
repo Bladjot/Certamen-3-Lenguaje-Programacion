@@ -1,0 +1,7 @@
+568492323824381952
+US Airways
+@USAirways but you guys switched me and didn't inform me of the chathes
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 11:28:26 -0800
+location: nan

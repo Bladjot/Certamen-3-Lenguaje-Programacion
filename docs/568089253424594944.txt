@@ -1,0 +1,7 @@
+568089253424594944
+US Airways
+@USAirways how do you give stand by seats to ticketed passengers who you know have a connecting flight ?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 08:46:47 -0800
+location: nan

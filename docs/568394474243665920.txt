@@ -1,0 +1,7 @@
+568394474243665920
+Delta
+@JetBlue when are you going to get wifi on your planes?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 04:59:37 -0800
+location: Marblehead, MA

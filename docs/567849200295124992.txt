@@ -1,0 +1,7 @@
+567849200295124992
+Virgin America
+@VirginAmerica @JezzieGoldz club Virgin is bumping in New York http://t.co/HaQc7GDg7c
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 16:52:54 -0800
+location: Dallas, Texas

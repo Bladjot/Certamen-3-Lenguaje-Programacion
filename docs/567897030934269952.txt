@@ -1,0 +1,7 @@
+567897030934269952
+Delta
+@JetBlue flight 705. EWR to FLL
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 20:02:57 -0800
+location: nan

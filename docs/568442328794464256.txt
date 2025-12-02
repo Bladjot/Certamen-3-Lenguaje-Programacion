@@ -1,0 +1,7 @@
+568442328794464256
+Delta
+@JetBlue Awesome, thanks! I'll give a call Late Flightr today. Appreciate the help!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 08:09:46 -0800
+location: Chasing the dream

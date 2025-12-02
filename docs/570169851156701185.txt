@@ -1,0 +1,7 @@
+570169851156701185
+American
+@AmericanAir I'm trying to choose my seats but every time I go to the next flight I get system error
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 02:34:20 -0800
+location: Syd.

@@ -1,0 +1,7 @@
+567812841081688064
+United
+@united stuck here in IAH waiting on flight 253 to Honolulu for 7 hours due to maintenance issues. Could we have gotten a new plane!?!? Fail
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 14:28:25 -0800
+location: nan

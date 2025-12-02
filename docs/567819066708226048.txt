@@ -1,0 +1,7 @@
+567819066708226048
+United
+@united Classic
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 14:53:09 -0800
+location: nan

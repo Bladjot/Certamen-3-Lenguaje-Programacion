@@ -1,0 +1,7 @@
+570239546673238017
+US Airways
+@USAirways Been on hold for 40 minutes, calling because my flight is delayed.  This type of service in not acceptable.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 07:11:17 -0800
+location: nan

@@ -1,0 +1,7 @@
+570259131879309312
+United
+@united It was last night's 1235/ORD-LGA.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:29:06 -0800
+location: Above the B/D/N/Q/R/2/3/4/5

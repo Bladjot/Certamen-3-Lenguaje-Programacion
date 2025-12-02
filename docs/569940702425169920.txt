@@ -1,0 +1,7 @@
+569940702425169920
+Delta
+No. RT @JetBlue Our fleet's on fleek.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:23:47 -0800
+location: NYC

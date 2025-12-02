@@ -1,0 +1,7 @@
+569743891714347009
+United
+@united If you consider 50 mins for bags @ 10:00pm on a Sunday night "as fast as they can", you should reconsider what you think that means.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 22:21:43 -0800
+location: Los Angeles, CA

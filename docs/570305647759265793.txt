@@ -1,0 +1,7 @@
+570305647759265793
+Southwest
+@SouthwestAir Very frustrated for the loooooong wait time to speak to a live person!!! Cannot get boarding pass for flight tomorrow!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 11:33:56 -0800
+location: nan

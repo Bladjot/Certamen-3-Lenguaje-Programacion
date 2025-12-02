@@ -1,0 +1,7 @@
+569384007550394369
+Southwest
+@SouthwestAir I use to #LUV swa but after an hour and counting on hold, for a flight they Cancelled Flighted on me? #noluv
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 22:31:40 -0800
+location: San Diego CA

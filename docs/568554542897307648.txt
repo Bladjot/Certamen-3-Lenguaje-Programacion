@@ -1,0 +1,7 @@
+568554542897307648
+Delta
+@JetBlue Same exact flight too. Love JetBlue. Really want to fly with ya'll. But that's a little pricey for basic (not Mint). BOS to SFO.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 15:35:40 -0800
+location: nan

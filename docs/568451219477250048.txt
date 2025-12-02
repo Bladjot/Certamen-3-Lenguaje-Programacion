@@ -1,0 +1,7 @@
+568451219477250048
+US Airways
+@USAirways what's the issue with flight 4420 from jax being delayed tonight?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 08:45:06 -0800
+location: new yorker stranded in PA

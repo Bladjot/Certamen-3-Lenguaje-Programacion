@@ -1,0 +1,7 @@
+569381443257958401
+US Airways
+@USAirways download jeokoo the American app for air travelers
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 22:21:29 -0800
+location: Washington, DC.

@@ -1,0 +1,7 @@
+569439706339024896
+United
+@united you hung up on me again.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 02:13:00 -0800
+location: nan

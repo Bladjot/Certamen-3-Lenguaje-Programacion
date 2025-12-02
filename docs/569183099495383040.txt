@@ -1,0 +1,7 @@
+569183099495383040
+Southwest
+@SouthwestAir You guys are just being disrespectful at this point... learned my lesson about this airline
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 09:13:20 -0800
+location: nan

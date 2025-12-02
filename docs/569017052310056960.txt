@@ -1,0 +1,7 @@
+569017052310056960
+Southwest
+@SouthwestAir  If you'd love to see more girls get inspired about becoming pilots, RT our free Albuquerque event. http://t.co/rfXlV1kGDh
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 22:13:31 -0800
+location: Albuquerque, NM

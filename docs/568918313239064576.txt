@@ -1,0 +1,7 @@
+568918313239064576
+Southwest
+@SouthwestAir @JulGood1 she was traveling with me the one that got miscommunicated with
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 15:41:10 -0800
+location: nan

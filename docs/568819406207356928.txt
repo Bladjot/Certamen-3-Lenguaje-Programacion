@@ -1,0 +1,7 @@
+568819406207356928
+United
+@united will flight 5559 to YYC be providing free food when we are allowed back on board  after the "broken lightbulb"
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 09:08:09 -0800
+location: Calgary

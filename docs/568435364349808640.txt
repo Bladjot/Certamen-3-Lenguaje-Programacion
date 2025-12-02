@@ -1,0 +1,7 @@
+568435364349808640
+Delta
+@JetBlue Best airline name ever. Whenever I see it, I want to get on their plane to blue skies &amp; sea. (And they DELIVER on that promise)
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 07:42:06 -0800
+location: Washington, D.C.

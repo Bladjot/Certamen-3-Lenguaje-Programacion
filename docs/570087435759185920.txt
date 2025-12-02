@@ -1,0 +1,7 @@
+570087435759185920
+United
+@united good to know you will open the closed doors for "premier passengers" after safety briefings on delayed flights. #annoyed.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 21:06:51 -0800
+location: nan

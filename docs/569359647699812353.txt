@@ -1,0 +1,7 @@
+569359647699812353
+Southwest
+@SouthwestAir Thank you for your help Adam and to the awesome gate agents at B12 in LAS for getting us home!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 20:54:52 -0800
+location: Lockport, NY

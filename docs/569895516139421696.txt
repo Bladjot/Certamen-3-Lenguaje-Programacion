@@ -1,0 +1,7 @@
+569895516139421696
+American
+@AmericanAir @united and a complete lack of faith in your companies. It's really a shame that you think telling me "it's been a challenging"
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 08:24:13 -0800
+location: nan

@@ -1,0 +1,7 @@
+570250945281589248
+Southwest
+@SouthwestAir Adding RR number to a @Marriott stay is too hard. Won't take RR number at checkin/out and Marriott phone CS not helpful.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 07:56:34 -0800
+location: Raleigh, NC

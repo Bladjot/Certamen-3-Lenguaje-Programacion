@@ -1,0 +1,7 @@
+567737554087059457
+Southwest
+@SouthwestAir I noticed the rates increased a few days ago, or the promotion ended. Any idea when another promotion will be coming?? Thanks!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:29:15 -0800
+location: Chicago, IL

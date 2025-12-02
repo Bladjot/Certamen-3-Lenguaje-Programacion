@@ -1,0 +1,7 @@
+570208349339262976
+Southwest
+@SouthwestAir when and why was flight 4471 from MSP Cancelled Flighted this AM?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 05:07:19 -0800
+location: Minneapolis, MN

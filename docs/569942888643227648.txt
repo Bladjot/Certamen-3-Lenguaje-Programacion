@@ -1,0 +1,7 @@
+569942888643227648
+United
+@united Did you find out where it is? Thanks
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:32:28 -0800
+location: nan

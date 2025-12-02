@@ -1,0 +1,7 @@
+568476562376531969
+Virgin America
+@virginamerica Digging the swanky pink mood lighting during the flight from NYC to SFO.  Just needs a cabaret singer.  Think about it!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 10:25:48 -0800
+location: 3rd Planet from the Sun

@@ -1,0 +1,7 @@
+570191874151092225
+American
+@AmericanAir the motor that usually starts the engine is broke and @CVGairport ground crew failed to do it on time, per pilot #maintenance
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 04:01:51 -0800
+location: Waynesville, OHIO

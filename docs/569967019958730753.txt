@@ -1,0 +1,7 @@
+569967019958730753
+Virgin America
+@VirginAmerica everything was fine until you lost my bag
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 13:08:21 -0800
+location: New York + Panama

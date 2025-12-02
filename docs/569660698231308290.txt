@@ -1,0 +1,7 @@
+569660698231308290
+Southwest
+@SouthwestAir I have followed you. Awaiting your DM.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:51:08 -0800
+location: Salt Lake City

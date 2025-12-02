@@ -1,0 +1,7 @@
+568100858954522625
+United
+@united Designed to deter people from forgetting things or to provide more storage space? The article says the latter #unfriendlyskies
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 09:32:54 -0800
+location: NYC

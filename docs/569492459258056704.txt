@@ -1,0 +1,7 @@
+569492459258056704
+US Airways
+@USAirways seriously!!!  Flight Cancelled Flighted. Auto rebooked to Tuesday??? Then 3hr 26min on hold for nothing. Renting car. Want refund!!!!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 05:42:37 -0800
+location: New York State of Mind

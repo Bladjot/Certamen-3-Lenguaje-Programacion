@@ -1,0 +1,7 @@
+569936213760716801
+US Airways
+@USAirways anyone there to help? Still on hold...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:05:56 -0800
+location: Washington D.C.

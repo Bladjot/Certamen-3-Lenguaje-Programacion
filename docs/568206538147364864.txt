@@ -1,0 +1,7 @@
+568206538147364864
+United
+@united Hi guys. I submitted a request for ticket/hotel reimbursement for a delayed/over night stay coming back from the Dominican. Help?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 16:32:50 -0800
+location: Los Angeles, California

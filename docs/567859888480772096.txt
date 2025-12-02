@@ -1,0 +1,7 @@
+567859888480772096
+US Airways
+@USAirways bad weather shouldn't mean bad service
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 17:35:22 -0800
+location: Lexington

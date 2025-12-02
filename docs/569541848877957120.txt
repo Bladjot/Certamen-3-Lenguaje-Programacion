@@ -1,0 +1,7 @@
+569541848877957120
+United
+@united thanks for the effort. I can get the earliest. Though I will make a complaint for a refund as I am losing one business day tomorrow
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 08:58:53 -0800
+location: London

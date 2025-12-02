@@ -1,0 +1,7 @@
+569697267856187392
+US Airways
+@USAirways after 2 hrs of trying to reach real human, finally did and been on hold for 1:36 hrs for out of synch reservation.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:16:27 -0800
+location: nan

@@ -1,0 +1,7 @@
+568136806224379904
+Southwest
+@SouthwestAir JUST GAVE ME TICKETS TO SEE @Imaginedragons  AT @VelourLive ON SATURDAY. I CAN'T EVEN RIGHT NOW HAHA. THANK YOU!!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 11:55:44 -0800
+location: nan

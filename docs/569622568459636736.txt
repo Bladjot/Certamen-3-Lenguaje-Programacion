@@ -1,0 +1,7 @@
+569622568459636736
+American
+@AmericanAir I want to speak to a human being! !!  This is not an obscene request!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:19:38 -0800
+location: nan

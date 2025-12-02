@@ -1,0 +1,7 @@
+569488962324172801
+US Airways
+@USAirways on hold with 800-428-4322. Flight from DSM to DCA was Cancelled Flighted (4473). Know when it will fly?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 05:28:43 -0800
+location: Arlington, VA

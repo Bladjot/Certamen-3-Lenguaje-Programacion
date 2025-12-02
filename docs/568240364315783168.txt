@@ -1,0 +1,7 @@
+568240364315783168
+Virgin America
+@VirginAmerica Can I get some help with a support ticket? It's been 15 days.... Incident: 150202-000419 Thank you!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 18:47:14 -0800
+location: The other side

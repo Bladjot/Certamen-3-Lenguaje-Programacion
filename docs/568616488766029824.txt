@@ -1,0 +1,7 @@
+568616488766029824
+US Airways
+@USAirways the flight that I did not connect to was 1857.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 19:41:49 -0800
+location: nan

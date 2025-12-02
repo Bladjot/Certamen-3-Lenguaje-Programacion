@@ -1,0 +1,7 @@
+569598457809276928
+United
+@united ... frozen lines on flight, not continuing due to 'passenger comfort'? Not ok, sat on the plane as long as a flight to Vegas would !
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 12:43:49 -0800
+location: Ft Collins

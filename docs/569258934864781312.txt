@@ -1,0 +1,7 @@
+569258934864781312
+US Airways
+@USAirways Okee doke
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 14:14:41 -0800
+location: Flyover country

@@ -1,0 +1,7 @@
+569016660927123456
+US Airways
+@USAirways Congrats, you've just lost a customer for good. When I made a United weather change, free/5 min. You guys 2 hrs on hold &amp; $25.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 22:11:58 -0800
+location: nan

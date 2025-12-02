@@ -1,0 +1,7 @@
+567728698900488192
+Southwest
+@SouthwestAir sent
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 08:54:04 -0800
+location: Silicon Valley

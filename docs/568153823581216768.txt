@@ -1,0 +1,7 @@
+568153823581216768
+Delta
+@JetBlue yes, but it hurt my feelings to walk by MINT. A fella can dream. #happy4them
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 13:03:21 -0800
+location: New York City

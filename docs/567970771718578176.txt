@@ -1,0 +1,7 @@
+567970771718578176
+US Airways
+@USAirways why didn't you reroute BOS to JAX via DCA through CLT instead forcing an overnight @DCA #passengersLose
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 00:55:59 -0800
+location: nan

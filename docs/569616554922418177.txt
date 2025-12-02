@@ -1,0 +1,7 @@
+569616554922418177
+American
+@AmericanAir there was also not one single person at the counter answering questions for our plane full of confused people. No staff at all.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 13:55:44 -0800
+location: Chicago

@@ -1,0 +1,7 @@
+568498114300153856
+Delta
+@JetBlue Flight 69 (ha!) - one employee said they were reassigned another said they just left. I just want some warm weather!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-19 11:51:27 -0800
+location: Boston, MA

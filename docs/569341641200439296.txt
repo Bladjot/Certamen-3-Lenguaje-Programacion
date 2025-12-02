@@ -1,0 +1,7 @@
+569341641200439296
+Delta
+@JetBlue can we get a honest update on departure of flite 454. Been on plane with infant children
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 19:43:19 -0800
+location: nan

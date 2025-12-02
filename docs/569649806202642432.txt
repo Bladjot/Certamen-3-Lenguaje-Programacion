@@ -1,0 +1,7 @@
+569649806202642432
+United
+@united they had record of it being at Denver on the concourse prior to me gettin on the shuttle. I just want to confirm its location
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 16:07:52 -0800
+location: nan

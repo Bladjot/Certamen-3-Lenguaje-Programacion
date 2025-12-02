@@ -1,0 +1,7 @@
+570192452486889473
+Delta
+@JetBlue now out of A gates and into main terminal @ DCA. @NATCA members keeping watch from ATCT. #avgeek http://t.co/hPsiEaokwh
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 04:04:08 -0800
+location: KFDK

@@ -1,0 +1,7 @@
+568991695917834240
+Delta
+@JetBlue Late Flight again lost almost 3 hours of my bay area weekend not to mention two hours of unnecessary vacation time from work.  #flt348
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 20:32:46 -0800
+location: Long Beach

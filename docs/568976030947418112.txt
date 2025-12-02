@@ -1,0 +1,7 @@
+568976030947418112
+Southwest
+@SouthwestAir cool the plane you said is ours that just left the terminal for a diff city? She a cold betch for "flying the friendly skies"
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 19:30:31 -0800
+location: Los Angeles

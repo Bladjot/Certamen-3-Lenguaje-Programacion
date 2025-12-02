@@ -1,0 +1,7 @@
+569306524155310080
+Southwest
+@SouthwestAir @TMadCLE Flying with you in April, first time on southwest. Can't wait!!! Flew American airlines last time. Was meh.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 17:23:47 -0800
+location: nan

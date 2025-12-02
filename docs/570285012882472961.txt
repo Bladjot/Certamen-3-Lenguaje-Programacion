@@ -1,0 +1,7 @@
+570285012882472961
+Southwest
+@SouthwestAir have u seen any of the messages the past hour ?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 10:11:57 -0800
+location: nan

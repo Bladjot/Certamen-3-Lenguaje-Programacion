@@ -1,0 +1,7 @@
+568416602728890370
+US Airways
+@USAirways let's say it's directly correLate Flightd to the chance of a replacement case. I know which would cost the airline less!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 06:27:33 -0800
+location: West London, UK

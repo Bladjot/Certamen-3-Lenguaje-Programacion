@@ -1,0 +1,7 @@
+569489032100614144
+United
+@united I just sent to you.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 05:29:00 -0800
+location: Virginia, USA

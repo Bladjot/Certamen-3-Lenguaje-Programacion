@@ -1,0 +1,7 @@
+569889885651234816
+Southwest
+@SouthwestAir Password reset email is incredibly slow to arrive today. Checked spam folder, too. Web site says a few minutes, but 15? :|
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 08:01:51 -0800
+location: Redlands, CA

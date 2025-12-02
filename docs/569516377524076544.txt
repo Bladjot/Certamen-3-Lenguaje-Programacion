@@ -1,0 +1,7 @@
+569516377524076544
+Southwest
+@SouthwestAir I was never able to talk so someone so had to buy another new ticket. Will be calling shortly for refund.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:17:40 -0800
+location: Nashville, TN

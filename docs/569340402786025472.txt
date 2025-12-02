@@ -1,0 +1,7 @@
+569340402786025472
+US Airways
+@USAirways he waited over two hours on the phone, had to book and get to MI, family member very ill, time of the essence
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 19:38:24 -0800
+location: nan

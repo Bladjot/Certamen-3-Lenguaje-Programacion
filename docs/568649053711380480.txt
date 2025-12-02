@@ -1,0 +1,7 @@
+568649053711380480
+Delta
+@JetBlue - I look forward to getting this resolved. I will be in touch.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 21:51:14 -0800
+location: nan

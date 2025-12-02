@@ -1,0 +1,7 @@
+569526101669769217
+Southwest
+@SouthwestAir fyi the link in your baggage incident email redirects to a 404 on mobile. The link auto changes on mobile. Desktop works fine.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:56:18 -0800
+location: Seattle, WA

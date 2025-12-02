@@ -1,0 +1,7 @@
+568475039680434176
+United
+@united I'm a minor and freaking out bc I might not make my connecting flight to Hawaii so yes I'm frustrated
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 10:19:45 -0800
+location: nan

@@ -1,0 +1,7 @@
+569997258772455424
+American
+@AmericanAir what's done is done. Not much you can do at this point. Trip is already over.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 15:08:31 -0800
+location: Springfield, MO

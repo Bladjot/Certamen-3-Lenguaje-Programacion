@@ -1,0 +1,7 @@
+568562765654159361
+United
+@united what is the problem with your flights to ny today
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 16:08:21 -0800
+location: nan

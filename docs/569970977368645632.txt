@@ -1,0 +1,7 @@
+569970977368645632
+US Airways
+@USAirways thank you for putting me on a flight that will be leaving Late Flightr than the original flight I was booked on.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 13:24:05 -0800
+location: nan

@@ -1,0 +1,7 @@
+568083179023650818
+Virgin America
+@VirginAmerica kinda sucked my earphone jack didn't work on my flight. They may want to look into that for future passengers
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 08:22:39 -0800
+location: New York, NY

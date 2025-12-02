@@ -1,0 +1,7 @@
+569563297164480513
+US Airways
+@USAirways you should get better employees✌️
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 10:24:06 -0800
+location: nan

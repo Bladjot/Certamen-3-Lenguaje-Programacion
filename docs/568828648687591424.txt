@@ -1,0 +1,7 @@
+568828648687591424
+Virgin America
+@VirginAmerica weather delays &gt; next few weeks ;) #JFK #BOS #DCA
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 09:44:52 -0800
+location: nan

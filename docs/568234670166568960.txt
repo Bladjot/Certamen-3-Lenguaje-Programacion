@@ -1,0 +1,7 @@
+568234670166568960
+United
+@united yes I have
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 18:24:37 -0800
+location: ny

@@ -1,0 +1,7 @@
+568832931382366209
+United
+@united I believe just customer service. At last post he was at Narita in Tokyo. They sent him to a motel to rest. Said standby maybe 2days
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 10:01:53 -0800
+location: Atlanta, GA

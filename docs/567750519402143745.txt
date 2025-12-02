@@ -1,0 +1,7 @@
+567750519402143745
+Southwest
+@SouthwestAir yes. Thank you. Oct 25-oct 31
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 10:20:46 -0800
+location: Château d'If

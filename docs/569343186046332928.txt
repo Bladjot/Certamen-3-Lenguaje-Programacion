@@ -1,0 +1,7 @@
+569343186046332928
+United
+@United Can you increase the legroom? : How airlines compare http://t.co/diUfep8n2q via @CNNMoney
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 19:49:28 -0800
+location: Greater Seattle Area

@@ -1,0 +1,7 @@
+569723864252424193
+American
+@AmericanAir Toby hates you lol
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 21:02:08 -0800
+location: Lost boys, Neverland

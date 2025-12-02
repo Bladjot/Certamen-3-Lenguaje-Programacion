@@ -1,0 +1,7 @@
+568055279839023105
+Southwest
+@SouthwestAir We did not get a single answer from any Southwest personnel. After an hour's wait. No apologies, no explanation.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 06:31:47 -0800
+location: Somewhere over the rainbow.

@@ -1,0 +1,7 @@
+570073507465469952
+US Airways
+@USAirways - No live person to speak with all day at Dividend Miles, after they wrongfully took over 65,000 miles out of my account.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 20:11:30 -0800
+location: nan

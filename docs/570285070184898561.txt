@@ -1,0 +1,7 @@
+570285070184898561
+US Airways
+@USAirways I want to love you! 43 minutes on hold! Help me understand why I switched loyalty programs. http://t.co/cHGy5yrVka
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 10:12:10 -0800
+location: Austin, tx

@@ -1,0 +1,7 @@
+570045890750230529
+US Airways
+@USAirways hi, Im trying to speak with someone to book travel for a minor. The phone keeps disconnecting. Please advise. Website wont allow.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 18:21:45 -0800
+location: Columbia, South Carolina

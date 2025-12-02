@@ -1,0 +1,7 @@
+567739553251725312
+Southwest
+@SouthwestAir Twitter says I can't DM someone unless they follow me.  Can @SouthwestAir follows my twitter? thanks you.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-17 09:37:12 -0800
+location: nan

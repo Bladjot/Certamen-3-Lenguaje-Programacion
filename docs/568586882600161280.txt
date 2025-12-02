@@ -1,0 +1,7 @@
+568586882600161280
+Southwest
+@SouthwestAir, what do you know? Finally lined up like cattle to board my SW flight (after original departure time) #badcustomerservice
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 17:44:11 -0800
+location: nan

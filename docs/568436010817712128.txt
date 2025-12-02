@@ -1,0 +1,7 @@
+568436010817712128
+US Airways
+@USAirways yeah , I have been expecting The same for 3 hours
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 07:44:40 -0800
+location: Mexico, D.F.

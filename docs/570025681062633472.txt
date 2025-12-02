@@ -1,0 +1,7 @@
+570025681062633472
+American
+@AmericanAir the dinner and called me "hon". Not the service I would expect from 1st class.  #disappointed
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 17:01:27 -0800
+location: Seattle, WA

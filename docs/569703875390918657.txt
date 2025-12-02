@@ -1,0 +1,7 @@
+569703875390918657
+United
+@united airlines: you kidding? Bagage lost this morning from ny to Washington and still no trace? #badservice
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 19:42:43 -0800
+location: nan

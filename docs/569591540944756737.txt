@@ -1,0 +1,7 @@
+569591540944756737
+American
+@AmericanAir I need to be at work tomorrow at 8am, therefore that doesn't help.  Direct message faster than calling 800 number? #Backwards
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:16:20 -0800
+location: nan

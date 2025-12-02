@@ -1,0 +1,7 @@
+569652266006941698
+US Airways
+@USAirways A tweeted apology is not enough for delay fiasco. NONE for insult from gate agent is worse. Except for Mark N., all bad at CLT.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:17:38 -0800
+location: Washington, DC

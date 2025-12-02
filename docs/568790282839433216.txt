@@ -1,0 +1,7 @@
+568790282839433216
+US Airways
+@USAirways made it.. Never ran so fast in my life
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 07:12:25 -0800
+location: nan

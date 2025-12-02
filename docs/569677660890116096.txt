@@ -1,0 +1,7 @@
+569677660890116096
+American
+@AmericanAir I really want to get home. Tonight, preferably. Please stop delaying my plane 😢😕😦 #AmericanAirlines
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:58:33 -0800
+location: ATX

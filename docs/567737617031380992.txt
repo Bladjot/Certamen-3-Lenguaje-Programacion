@@ -1,0 +1,7 @@
+567737617031380992
+Southwest
+@SouthwestAir its all good. flight eventually took off, and landed safely. oh, and I got the free cup o wine. thx
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 09:29:30 -0800
+location: Philly

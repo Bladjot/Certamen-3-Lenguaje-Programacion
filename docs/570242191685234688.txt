@@ -1,0 +1,7 @@
+570242191685234688
+US Airways
+@USAirways You should be prepared for Weather. All I want to do is find out if I can take train to PHL to catch my connection.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 07:21:47 -0800
+location: nan

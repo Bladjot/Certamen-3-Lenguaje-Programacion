@@ -1,0 +1,7 @@
+570081206412431360
+US Airways
+@USAirways flight from Bhm delayed 5hrs! Connect flgt left us in clt at a motel
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 20:42:05 -0800
+location: nan

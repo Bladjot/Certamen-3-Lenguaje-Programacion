@@ -1,0 +1,7 @@
+568162054206435328
+Delta
+@JetBlue Airways Corporation Registers High Short Interest - Wall Street Pulse http://t.co/hXSnv7fbbh
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 13:36:04 -0800
+location: USA

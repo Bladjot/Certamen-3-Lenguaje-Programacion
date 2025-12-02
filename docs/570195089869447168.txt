@@ -1,0 +1,7 @@
+570195089869447168
+American
+Thanks, @chasefoster. Was just about to book a flight to UK using @AmericanAir, but after reading this exchange, there's no way. I've sent
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 04:14:37 -0800
+location: Metropolis

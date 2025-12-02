@@ -1,0 +1,7 @@
+570310600460525568
+US Airways
+@USAirways  is there a better time to call? My flight is on Friday and I need to change it. Worried I may be on hold until then.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 11:53:37 -0800
+location: nan

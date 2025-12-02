@@ -1,0 +1,7 @@
+568495877003857920
+United
+@united anyone awake? Paying for wifi on iPhone when need to be using it on laptop. Logout option for wifi in flight? Time is wasting!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 11:42:33 -0800
+location: nan

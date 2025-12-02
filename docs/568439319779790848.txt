@@ -1,0 +1,7 @@
+568439319779790848
+Southwest
+@SouthwestAir Incredibly frustrating. I emailed but still haven't received a response.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 07:57:49 -0800
+location: Chicago

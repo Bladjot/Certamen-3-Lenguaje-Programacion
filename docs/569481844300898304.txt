@@ -1,0 +1,7 @@
+569481844300898304
+US Airways
+@USAirways looks like you lost another customer  when you stranded @41CGQueen at CLT she vows never to fly with you again #smoothtransition
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 05:00:26 -0800
+location: nan

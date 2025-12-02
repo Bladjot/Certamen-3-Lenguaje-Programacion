@@ -1,0 +1,7 @@
+569593278636675072
+American
+@AmericanAir @Stone9956 Do you dislike delays when they're caused by YOUR crew forgetting to load bags &amp; lazy pilot wanting duty day to end?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 12:23:14 -0800
+location: Pekin

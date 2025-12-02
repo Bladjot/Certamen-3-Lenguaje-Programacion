@@ -1,0 +1,7 @@
+568633361595412481
+Virgin America
+@VirginAmerica @SSal thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 20:48:52 -0800
+location: Dutchess County, NY

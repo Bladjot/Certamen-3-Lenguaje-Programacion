@@ -1,0 +1,7 @@
+569815968194678784
+United
+@united Do you have a further update on the suitcase today please.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 03:08:08 -0800
+location: nan

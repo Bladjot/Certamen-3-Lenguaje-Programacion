@@ -1,0 +1,7 @@
+568538242380742656
+Delta
+😢😢 RT“@JetBlue: @Peaches275 Oh no! Unfortunately, the code must be entered at the time of purchase in order to qualify for the points.”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 14:30:54 -0800
+location: New Jet City

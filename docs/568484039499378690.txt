@@ -1,0 +1,7 @@
+568484039499378690
+Delta
+@JetBlue Alternatives?  You have absolutely no respect for loyal customers.  8 years.  No more.  I'm done.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 10:55:31 -0800
+location: Los Angeles, CA

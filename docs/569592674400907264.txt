@@ -1,0 +1,7 @@
+569592674400907264
+American
+@AmericanAir my flight out of TYR tomorrow was Cancelled Flighted due to weather. How long until a rebook?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 12:20:50 -0800
+location: Nashville TN

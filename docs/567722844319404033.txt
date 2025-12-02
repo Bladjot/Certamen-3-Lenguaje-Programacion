@@ -1,0 +1,7 @@
+567722844319404033
+Southwest
+@SouthwestAir trying to get through to cust relations. Is there another # to use?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 08:30:48 -0800
+location: Midlothian, Virginia

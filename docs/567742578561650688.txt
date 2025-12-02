@@ -1,0 +1,7 @@
+567742578561650688
+Virgin America
+@VirginAmerica just got on the 1pm in Newark home to LA. Your folks at EWR are incredible #letsgohome
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 09:49:13 -0800
+location: Los Angeles, CA

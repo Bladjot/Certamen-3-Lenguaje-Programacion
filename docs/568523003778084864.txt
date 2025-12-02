@@ -1,0 +1,7 @@
+568523003778084864
+US Airways
+.@USAirways I guess from now on I should take my chances &amp; keep the $50 for the courtesy free because it seems cabin is always full.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 13:30:21 -0800
+location: Midwest

@@ -1,0 +1,7 @@
+569980137346707456
+Southwest
+@SouthwestAir Why do you have to be 18 😭
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:00:29 -0800
+location: Las Vegas

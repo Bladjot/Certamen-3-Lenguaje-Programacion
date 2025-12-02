@@ -1,0 +1,7 @@
+569923761232850944
+Delta
+@JetBlue ...really?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:16:28 -0800
+location: Bangor, Maine, USA

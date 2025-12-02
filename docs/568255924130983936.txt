@@ -1,0 +1,7 @@
+568255924130983936
+US Airways
+@USAirways I have run out of patience.. We are sitting in a bus without air in front of plane and there is no communication from anyone40min
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 19:49:04 -0800
+location: New York City

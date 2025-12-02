@@ -1,0 +1,7 @@
+569645836109418496
+US Airways
+@USAirways stuck at the gate in Charlotte, NC waiting for "release papers" and a fix for a broken computer system.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 15:52:05 -0800
+location: nan

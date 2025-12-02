@@ -1,0 +1,7 @@
+568969600559226880
+Delta
+@JetBlue this is awful! flight out of jfk for our honeymoon is delayed AGAIN until 1225 AM, and we lost money on a hotel now! #delayforwhat?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 19:04:58 -0800
+location: Central Perk

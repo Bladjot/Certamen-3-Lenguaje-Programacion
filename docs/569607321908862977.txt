@@ -1,0 +1,7 @@
+569607321908862977
+American
+@AmericanAir flight was 2488 out of EWR STOP AT DALLAS THEN TO LA. I need to be in la tonight!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 13:19:02 -0800
+location: New Jersey

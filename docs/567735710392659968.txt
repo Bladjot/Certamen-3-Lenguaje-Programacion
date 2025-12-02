@@ -1,0 +1,7 @@
+567735710392659968
+United
+@united + UA has been rolling out improvements too, we think. Hoping they'll catch up soon? Meantime, ANA is our preference!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:21:56 -0800
+location: Bhutan

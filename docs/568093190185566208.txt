@@ -1,0 +1,7 @@
+568093190185566208
+Southwest
+“@SouthwestAir: @saysorrychris Can you follow back for a quick DM? ^SW”followed
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 09:02:25 -0800
+location: Everywhere But Never Scared

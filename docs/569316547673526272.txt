@@ -1,0 +1,7 @@
+569316547673526272
+United
+@united Thanks for the upgrade- please try to get my company to approve more business class travel.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 18:03:37 -0800
+location: Vancouver, WA

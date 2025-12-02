@@ -1,0 +1,7 @@
+567828603976597504
+Virgin America
+@VirginAmerica another perfect flight.   How come on your planes,  the sun visors can stay down?  Other carriers make you raise them?
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 15:31:03 -0800
+location: could be anywhere

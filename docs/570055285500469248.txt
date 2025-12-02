@@ -1,0 +1,7 @@
+570055285500469248
+United
+@united Soooo, it's been 15 days and you've offered no response. So I assume poor treatment by gate agents is the norm now?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 18:59:05 -0800
+location: iPhone: 42.734546,-84.483753

@@ -1,0 +1,7 @@
+569684654380486656
+United
+@united didn't realize my bag/ contents were wet until I got to my hotel. Sent my suit/shirts out to be dry cleaned. Mtgs start tomorrow.
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-22 18:26:20 -0800
+location: Hilo, HI

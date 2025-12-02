@@ -1,0 +1,7 @@
+568841631585021952
+United
+@united 3 times my flight has been delayed and I miss my next flight. This time you've lost my baggage. No clean clothes. $337 flight. Thx!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 10:36:28 -0800
+location: Austin, Texas

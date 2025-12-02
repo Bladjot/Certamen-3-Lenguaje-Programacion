@@ -1,0 +1,7 @@
+569942616617447424
+Southwest
+@SouthwestAir this is not a fair set up. I payed for a full seat. I should get access to a full seat. http://t.co/SbA0ARicyq
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 11:31:23 -0800
+location: nan

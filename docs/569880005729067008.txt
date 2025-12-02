@@ -1,0 +1,7 @@
+569880005729067008
+American
+@AmericanAir @RLDelahunty record l#oaaret got email we couldn't get rescheduled on another flight but don't know if flight is Cancelled Flightled
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 07:22:35 -0800
+location: New England

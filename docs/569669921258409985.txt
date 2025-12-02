@@ -1,0 +1,7 @@
+569669921258409985
+US Airways
+@USAirways so I guess you are ok with people being sexually assaulted on your flights nice customer service
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:27:47 -0800
+location: Belle MO

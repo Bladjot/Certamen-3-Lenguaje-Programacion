@@ -1,0 +1,7 @@
+568930740127326209
+US Airways
+@USAirways I know some folks have to use your airlines but doesn't customer service ever matter? I really hate to complain but it's brutal!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 16:30:33 -0800
+location: Denver, Colorado

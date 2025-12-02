@@ -1,0 +1,7 @@
+569659617699074048
+American
+@AmericanAir if this is how you guys work then i will never fly with you guys again.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:46:51 -0800
+location: KY

@@ -1,0 +1,7 @@
+569589955837628416
+Southwest
+@SouthwestAir  I heard a rumor flight 898 was Cancelled Flightled.  Is this true?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:10:02 -0800
+location: Texas

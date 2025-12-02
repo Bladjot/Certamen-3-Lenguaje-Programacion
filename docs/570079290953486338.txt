@@ -1,0 +1,7 @@
+570079290953486338
+American
+@AmericanAir Great, then tell me how you will fix it? @Suntimes @WSJ @latimes @nytimes #media #filmcrew #photography #cameragear
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-23 20:34:29 -0800
+location: Orlando, FL

@@ -1,0 +1,7 @@
+568959737544339456
+United
+@united truly the WORST day of flying I have ever experienced...
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 18:25:46 -0800
+location: Washington

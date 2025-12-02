@@ -1,0 +1,7 @@
+569704220472913920
+American
+@AmericanAir looking for status of flight 1388 schedule for 5:15 am tomorrow morning, thank you
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 19:44:05 -0800
+location: Dallas, Texas

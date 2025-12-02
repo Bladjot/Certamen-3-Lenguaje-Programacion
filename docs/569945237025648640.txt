@@ -1,0 +1,7 @@
+569945237025648640
+US Airways
+@USAirways US 728 Uh oh, no gate. Now truck will come to us.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-23 11:41:48 -0800
+location: nan

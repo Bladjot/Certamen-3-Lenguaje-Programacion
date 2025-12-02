@@ -1,0 +1,7 @@
+568195292803129345
+Virgin America
+@VirginAmerica this is too cool!  Never been on ur planes but now I will!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 15:48:09 -0800
+location: Austin, TX

@@ -1,0 +1,7 @@
+569689784517402625
+American
+@AmericanAir @Expedia are killing me. Over 3 hours to get NO human to help me.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:46:43 -0800
+location: Portland, Orygun

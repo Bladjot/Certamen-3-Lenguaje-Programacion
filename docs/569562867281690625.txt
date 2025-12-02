@@ -1,0 +1,7 @@
+569562867281690625
+Southwest
+@SouthwestAir safety back in Dallas!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 10:22:24 -0800
+location: Den10

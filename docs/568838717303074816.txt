@@ -1,0 +1,7 @@
+568838717303074816
+US Airways
+@USAirways flight is already over. I think the airline should just have the flight attendants actually emphasize that VAPE is still smoking
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 10:24:53 -0800
+location: Sunshine State

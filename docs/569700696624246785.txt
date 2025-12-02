@@ -1,0 +1,7 @@
+569700696624246785
+American
+@AmericanAir LTALJX, from DCA to OMA this morning. All of the staff that helped me fix my problem were so helpful. #goodthingscome #thanks
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 19:30:05 -0800
+location: nan

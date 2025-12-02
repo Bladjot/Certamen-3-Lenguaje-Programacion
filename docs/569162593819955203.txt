@@ -1,0 +1,7 @@
+569162593819955203
+US Airways
+@USAirways Easily the most ridiculous experience trying to spend money with your company.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 07:51:51 -0800
+location: Sequim, WA

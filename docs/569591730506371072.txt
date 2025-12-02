@@ -1,0 +1,7 @@
+569591730506371072
+American
+@AmericanAir guarantee no retribution? If so, I'd be glad to share.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:17:05 -0800
+location: 970 Colorado

@@ -1,0 +1,7 @@
+570245555064074240
+United
+@united What's going on with your website? I'm Flight Booking Problems three tickets today and I've been booted off the system umpteen times.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 07:35:09 -0800
+location: Summit, NJ

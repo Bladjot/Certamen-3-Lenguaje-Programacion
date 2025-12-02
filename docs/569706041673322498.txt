@@ -1,0 +1,7 @@
+569706041673322498
+US Airways
+@USAirways Have you issued a Memphis travel advisory for tomorrow? Winter weather coming through now.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 19:51:19 -0800
+location: nan

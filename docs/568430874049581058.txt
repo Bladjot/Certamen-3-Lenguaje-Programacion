@@ -1,0 +1,7 @@
+568430874049581058
+Delta
+@JetBlue better find a way to get me to Puerto Rico tomorrow morning besides charging us three times in cash what we originally paid
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 07:24:15 -0800
+location: nan

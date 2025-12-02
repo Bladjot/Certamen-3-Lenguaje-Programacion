@@ -1,0 +1,7 @@
+568459150444769281
+US Airways
+@USAirways  Lilly M in SJU check in is fabulous!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 09:16:37 -0800
+location: nan

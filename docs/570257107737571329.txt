@@ -1,0 +1,7 @@
+570257107737571329
+US Airways
+@USAirways I made it- thx.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 08:21:04 -0800
+location: Minneapolis, MN

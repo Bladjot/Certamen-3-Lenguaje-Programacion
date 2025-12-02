@@ -1,0 +1,7 @@
+570032636657311744
+American
+@AmericanAir the status on my itinerary says on request in red. What's that mean?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 17:29:05 -0800
+location: nan

@@ -1,0 +1,7 @@
+568973797262372866
+United
+@united where are our luggages? With a group and over 20 luggages are lost
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 19:21:38 -0800
+location: Lea Michele

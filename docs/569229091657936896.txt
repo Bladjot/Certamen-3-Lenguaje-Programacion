@@ -1,0 +1,7 @@
+569229091657936896
+Delta
+@JetBlue so yesterday a flight I wanted to Chicago was on sale within my points range and today it isn't. Any way you guys can still honor
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 12:16:05 -0800
+location: Mannahatta

@@ -1,0 +1,7 @@
+569353230007664640
+US Airways
+@USAirways it is an extreme inconvenience to make ppl check bags when there's a lot of overhead space left. You lie so you're not at fault
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 20:29:22 -0800
+location: nan

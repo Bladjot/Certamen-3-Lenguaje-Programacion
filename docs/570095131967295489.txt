@@ -1,0 +1,7 @@
+570095131967295489
+American
+@AmericanAir @BoeingAirplanes I really would love to experience first class on that plane,looks stunning!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 21:37:25 -0800
+location: WARNING: Explicit language

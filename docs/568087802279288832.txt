@@ -1,0 +1,7 @@
+568087802279288832
+Southwest
+@SouthwestAir  Southwest is currently awaiting government approval for this route. Do we know when it will be official?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 08:41:01 -0800
+location: Sacramento, CA

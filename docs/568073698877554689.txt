@@ -1,0 +1,7 @@
+568073698877554689
+US Airways
+@USAirways @AmericanAir 90 min delay thanks to "maintenance issues". Thanks for wasting a day.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 07:44:58 -0800
+location: Philadelphia, PA

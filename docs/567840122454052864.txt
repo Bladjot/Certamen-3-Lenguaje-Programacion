@@ -1,0 +1,7 @@
+567840122454052864
+US Airways
+@USAirways HA!  You're fun.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 16:16:49 -0800
+location: Charleston, SC

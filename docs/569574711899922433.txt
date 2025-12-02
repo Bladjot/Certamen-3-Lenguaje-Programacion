@@ -1,0 +1,7 @@
+569574711899922433
+Delta
+@JetBlue Start including PTO in your getaway packages and I'm all in
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 11:09:28 -0800
+location: Washington, D.C.

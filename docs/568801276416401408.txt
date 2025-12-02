@@ -1,0 +1,7 @@
+568801276416401408
+United
+@united gives Belfast a #Hug with the new unmissable #BusHug format #impact #busads #thinkbus @BelfastAirport http://t.co/AvbdstJUJS
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 07:56:06 -0800
+location: Northern Ireland

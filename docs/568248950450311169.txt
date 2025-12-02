@@ -1,0 +1,7 @@
+568248950450311169
+United
+@united how come the crew traveling on the flight gets a better seat and I get stuck checking my bag and the crews bag got on the flight.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 19:21:21 -0800
+location: nan

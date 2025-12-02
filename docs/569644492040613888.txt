@@ -1,0 +1,7 @@
+569644492040613888
+Southwest
+@SouthwestAir Weather keeps slowing us down. Not your fault. This is the 1st time a Southwest flight of mine was Late Flight so I can't complain :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 15:46:45 -0800
+location: nan

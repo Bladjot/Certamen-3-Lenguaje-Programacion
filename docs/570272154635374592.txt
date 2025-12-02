@@ -1,0 +1,7 @@
+570272154635374592
+US Airways
+@USAirways my bag is still lost and I can not get anyone on the phone to assist me and the tracking updates have stopped
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 09:20:51 -0800
+location: nan

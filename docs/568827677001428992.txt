@@ -1,0 +1,7 @@
+568827677001428992
+United
+@united Once again I am victim to the scam that is your SHIT Customer Service, this time the agent hung up on me WTF do you teach your staff
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 09:41:01 -0800
+location: Benice Veach, CA

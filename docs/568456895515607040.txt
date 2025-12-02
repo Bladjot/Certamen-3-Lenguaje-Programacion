@@ -1,0 +1,7 @@
+568456895515607040
+United
+@united Airlines is changing #mileageplus program March 1 http://t.co/4ojE523PTw
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 09:07:39 -0800
+location: nan

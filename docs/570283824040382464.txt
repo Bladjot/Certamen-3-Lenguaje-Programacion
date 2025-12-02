@@ -1,0 +1,7 @@
+570283824040382464
+Southwest
+@SouthwestAir round-trip tickets just arrived for our auction at the Post-Masters Invitational! Thanks Southwest! http://t.co/mRfBjtePef
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 10:07:13 -0800
+location: Lubbock, TX

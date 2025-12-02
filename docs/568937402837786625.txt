@@ -1,0 +1,7 @@
+568937402837786625
+Delta
+@JetBlue yes! Terra blue chips were my favorite. :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 16:57:01 -0800
+location: los angeles, ca

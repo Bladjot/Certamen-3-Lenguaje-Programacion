@@ -1,0 +1,7 @@
+569649006986407936
+United
+@united #LAX #sunrise UAL212 LAX-JFK
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:04:41 -0800
+location: nan

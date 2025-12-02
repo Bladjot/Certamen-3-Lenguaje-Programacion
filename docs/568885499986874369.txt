@@ -1,0 +1,7 @@
+568885499986874369
+Southwest
+@SouthwestAir go @franks105 go!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 13:30:47 -0800
+location: Washington DC via L.A.

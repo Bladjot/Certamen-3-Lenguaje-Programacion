@@ -1,0 +1,7 @@
+569683872046194688
+American
+@AmericanAir My friend needs some help on her flt (she's not on Twiiter), can I DM you her info?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:23:13 -0800
+location: San Diego, CA

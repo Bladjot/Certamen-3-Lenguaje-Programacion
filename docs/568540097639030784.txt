@@ -1,0 +1,7 @@
+568540097639030784
+Delta
+@JetBlue and of course that was supposed to say Logan, not login
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 14:38:16 -0800
+location: NOVA

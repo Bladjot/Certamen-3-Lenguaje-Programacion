@@ -1,0 +1,7 @@
+569642526065471488
+US Airways
+@USAirways 2nd February in a row- stranded us when we try to return from Cancun! No contact info- no way to rebook! #badcustomerservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:38:56 -0800
+location: Sacramento, CA 95864

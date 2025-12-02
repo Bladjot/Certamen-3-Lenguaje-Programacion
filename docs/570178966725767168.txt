@@ -1,0 +1,7 @@
+570178966725767168
+American
+@AmericanAir it isn't good enough. You need to provide a phone number. Other partners do. Should be investigated by @IATA @TheFAAOnline
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 03:10:33 -0800
+location: Manchester

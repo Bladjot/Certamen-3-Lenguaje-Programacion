@@ -1,0 +1,7 @@
+570021943899877377
+US Airways
+@USAirways not likely, flightaware says plane is still in Durango and hasn't departed.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 16:46:36 -0800
+location: nan

@@ -1,0 +1,7 @@
+567811428779868160
+Virgin America
+@VirginAmerica do you have an application for iOS? Was looking and only saw Virgin Mexico :( &lt;/3
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:22:48 -0800
+location: Los Angeles, CA

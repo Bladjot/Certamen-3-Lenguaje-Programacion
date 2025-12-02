@@ -1,0 +1,7 @@
+569159165626716160
+US Airways
+@USAirways now the 3rd issue with the plane is a fuel leak. They will let us know soon what they decide. #getmeoffthisplane #ineedabeer
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 07:38:14 -0800
+location: nan

@@ -1,0 +1,7 @@
+570173181727674368
+Delta
+@JetBlue no seat assignment 5 mins before a flight...line 20 people deep. Guess I'm sitting with the baggage? @MarinaDomine
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 02:47:34 -0800
+location: Fort Lauderdale, FL

@@ -1,0 +1,7 @@
+568808318560550912
+Delta
+@JetBlue I definitely will. Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 08:24:05 -0800
+location: Hoboken, NJ

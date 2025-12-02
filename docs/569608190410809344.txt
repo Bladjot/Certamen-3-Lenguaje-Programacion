@@ -1,0 +1,7 @@
+569608190410809344
+American
+@AmericanAir I would like a refund for this flight. They delayed the flight 5 times. I feel like you're making fun of us.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 13:22:30 -0800
+location: nan

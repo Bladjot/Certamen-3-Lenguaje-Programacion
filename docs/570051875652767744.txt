@@ -1,0 +1,7 @@
+570051875652767744
+United
+@united system failure again = bad trend.  Software projects are like flying an airplane; there's no such thing as an emergency takeoff.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 18:45:32 -0800
+location: nan

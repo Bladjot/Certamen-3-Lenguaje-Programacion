@@ -1,0 +1,7 @@
+568626857576407041
+US Airways
+@USAirways 3935. Sitting on a freezing bus because nobody is in the plane. What is up?
+sentiment: negative
+negativereason: longlines
+created: 2015-02-19 20:23:02 -0800
+location: DC

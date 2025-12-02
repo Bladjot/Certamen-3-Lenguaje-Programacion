@@ -1,0 +1,7 @@
+568775413192921088
+US Airways
+@USAirways this is a complete waste of my day. A trip to my for work has now turned into sitting on your planes all day. Ridiculous
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 06:13:20 -0800
+location: On a beach

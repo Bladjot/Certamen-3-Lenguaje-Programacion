@@ -1,0 +1,7 @@
+570004771496714241
+American
+@AmericanAir overbooked business class from Mia to uvf - after being in the correct seat we were moved back to economy on our special day
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 15:38:22 -0800
+location: Tampa, Florida

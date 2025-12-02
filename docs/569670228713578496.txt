@@ -1,0 +1,7 @@
+569670228713578496
+Delta
+@JetBlue you're taking me to New Orleans in two weeks so I'll picture that while I shiver #forevercold
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:29:01 -0800
+location: Boston, MA

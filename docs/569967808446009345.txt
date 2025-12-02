@@ -1,0 +1,7 @@
+569967808446009345
+US Airways
+@USAirways if you actually cared about what you did it would be one thing. Sounds like you don't like being told how lousy your service is.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:11:29 -0800
+location: Does it really matter

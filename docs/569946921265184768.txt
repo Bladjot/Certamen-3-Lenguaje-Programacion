@@ -1,0 +1,7 @@
+569946921265184768
+United
+@united Flight UA1270 is descending into farce and we haven't left EWR yet. Is this going to get any worse?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 11:48:29 -0800
+location: Brighton, UK

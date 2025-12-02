@@ -1,0 +1,7 @@
+568533876873633793
+Delta
+@JetBlue yes slc on 4/19
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 14:13:33 -0800
+location: Logan.Utah

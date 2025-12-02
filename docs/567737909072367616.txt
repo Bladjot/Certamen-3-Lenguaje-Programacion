@@ -1,0 +1,7 @@
+567737909072367616
+Delta
+@JetBlue Seems very likely.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 09:30:40 -0800
+location: NY, NY

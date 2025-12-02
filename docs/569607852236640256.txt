@@ -1,0 +1,7 @@
+569607852236640256
+Delta
+@JetBlue Good perspective. If only this safety concern had been expressed at some point before I arrived at the airport. #communicationiskey
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 13:21:09 -0800
+location: Brooklyn, NY

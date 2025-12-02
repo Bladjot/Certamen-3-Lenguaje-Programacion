@@ -1,0 +1,7 @@
+569626841046224896
+US Airways
+@USAirways i have been tryng to rsrv a flight over the phone over the past 4 days and keep getting an automated message to call back?!?!?!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:36:36 -0800
+location: Elmwood Park

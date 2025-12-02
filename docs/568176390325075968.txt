@@ -1,0 +1,7 @@
+568176390325075968
+Delta
+@JetBlue glad u happy I have my bag but as a traveler I entrusted u w/ my property &amp; u return it damaged &amp; that's the best answer u have?
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-18 14:33:02 -0800
+location: ÜT: 40.96513,-73.872957

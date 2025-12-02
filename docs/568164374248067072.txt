@@ -1,0 +1,7 @@
+568164374248067072
+United
+@united this may be the last time I fly your airline.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 13:45:17 -0800
+location: Mobile, AL.

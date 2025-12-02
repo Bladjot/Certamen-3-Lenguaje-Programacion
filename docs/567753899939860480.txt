@@ -1,0 +1,7 @@
+567753899939860480
+Southwest
+@SouthwestAir I will.make sure to tell everyone I know about this all around horrible experience. I will also post it on my business page.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 10:34:12 -0800
+location: Las Vegas, NV

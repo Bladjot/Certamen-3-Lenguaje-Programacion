@@ -1,0 +1,7 @@
+567734790108225536
+US Airways
+@USAirways They charged me for a flight they Cancelled Flightled, unbelievable and unheard of
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 09:18:16 -0800
+location: nan

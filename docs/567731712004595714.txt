@@ -1,0 +1,7 @@
+567731712004595714
+Southwest
+@SouthwestAir any chance of adding LAX-&gt;JFK direct any time in the future?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:06:02 -0800
+location: Lawrsh Ainjellush, CA

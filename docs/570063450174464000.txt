@@ -1,0 +1,7 @@
+570063450174464000
+United
+@united UA938 ORD-LHR.  bags are being loaded 30min Late Flight. Frigid air into cabin! Plane feels like falling apart! Upgrade long haul fleet!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 19:31:32 -0800
+location: Broad & Pattison

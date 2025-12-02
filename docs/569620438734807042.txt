@@ -1,0 +1,7 @@
+569620438734807042
+Southwest
+@SouthwestAir just sent it
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:11:10 -0800
+location: Boston, MA

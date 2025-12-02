@@ -1,0 +1,7 @@
+569605258621661184
+US Airways
+@USAirways Ann Marie at LGA is the best ticket agent ever! #excellentcustomerservice
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 13:10:51 -0800
+location: Mount Airy, NC

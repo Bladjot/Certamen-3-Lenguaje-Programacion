@@ -1,0 +1,7 @@
+570070044547403777
+American
+@AmericanAir doesn't care about customers, break your gear and tell u they can't do anything. @WSJ @latimes @chicagotribune #media #filmcrew
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 19:57:44 -0800
+location: Orlando, FL

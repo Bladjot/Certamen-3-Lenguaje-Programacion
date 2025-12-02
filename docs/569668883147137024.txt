@@ -1,0 +1,7 @@
+569668883147137024
+Southwest
+@SouthwestAir is service to Aruba being permanently discontinued in August?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:23:40 -0800
+location: nan

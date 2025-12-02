@@ -1,0 +1,7 @@
+568881148325007360
+US Airways
+@USAirways Yes, it was Sunday.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 13:13:29 -0800
+location: nan

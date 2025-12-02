@@ -1,0 +1,7 @@
+568413356492599296
+Southwest
+@SouthwestAir the new logo is going to look amazing on the airplanes
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 06:14:39 -0800
+location: dallas,texas

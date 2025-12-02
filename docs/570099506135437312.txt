@@ -1,0 +1,7 @@
+570099506135437312
+American
+@AmericanAir couldn't get anyone on the phone all day, the flight you rebooked had me missing a conference.We won't be on flt 1568 tomorrow.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 21:54:48 -0800
+location: New York, NY

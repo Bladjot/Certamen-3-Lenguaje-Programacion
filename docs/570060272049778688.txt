@@ -1,0 +1,7 @@
+570060272049778688
+US Airways
+@USAirways no i use to skyscanner and travel agency and i called u . You said you should call travel agency but
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 19:18:54 -0800
+location: nan

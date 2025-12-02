@@ -1,0 +1,7 @@
+568132619092795392
+United
+@united Held up for almost 45 minutes and then promised free movies and it didn't work and neither did the wifi that was paid for. Boo :(
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 11:39:06 -0800
+location: nan

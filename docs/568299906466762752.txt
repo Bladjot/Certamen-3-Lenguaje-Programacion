@@ -1,0 +1,7 @@
+568299906466762752
+Southwest
+@SouthwestAir Any chance the flight I just took can count for #3? I mean, I signed up with SW wifi in the air! 2/2
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 22:43:50 -0800
+location: Denver, CO

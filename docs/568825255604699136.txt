@@ -1,0 +1,7 @@
+568825255604699136
+Delta
+@JetBlue I can't wait to hear back from you regarding the internship opportunity! 😊
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 09:31:23 -0800
+location: nan

@@ -1,0 +1,7 @@
+567903480993558528
+US Airways
+@USAirways she just did but really how drunk does someone have to be before you stop serving them
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 20:28:35 -0800
+location: Belle MO

@@ -1,0 +1,7 @@
+569632828478136320
+US Airways
+@USAirways stuck on the ramp at DCA, US Air computer system crashed...everywhere.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 15:00:24 -0800
+location: nan

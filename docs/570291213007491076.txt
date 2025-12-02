@@ -1,0 +1,7 @@
+570291213007491076
+United
+@united I am trying to book awards for September and need flights on @aegeanairlines but they will not show even w/ many award seats availab
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 10:36:35 -0800
+location: nan

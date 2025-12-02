@@ -1,0 +1,7 @@
+569888244856455168
+United
+@united Please msg me a # for customer service. I will have an invoice for my dry cleaning but won't be able take wet clothes to the airport
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:55:20 -0800
+location: Hilo, HI

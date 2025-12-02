@@ -1,0 +1,7 @@
+569938864028012544
+American
+@AmericanAir thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 11:16:28 -0800
+location: Chile

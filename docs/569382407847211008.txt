@@ -1,0 +1,7 @@
+569382407847211008
+US Airways
+@USAirways more than an hour holding to change a flight on the phone now.. What's up with that???
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 22:25:19 -0800
+location: nan

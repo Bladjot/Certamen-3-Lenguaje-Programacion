@@ -1,0 +1,7 @@
+569588465593143297
+US Airways
+@USAirways What's the contact number for the corporate baggage office in Phoenix?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:04:07 -0800
+location: nan

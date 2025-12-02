@@ -1,0 +1,7 @@
+568457761366781952
+Southwest
+@SouthwestAir Yes I know that. Also noticed you offer A list boarding after A60. So your programs are too popular.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 09:11:06 -0800
+location: nan

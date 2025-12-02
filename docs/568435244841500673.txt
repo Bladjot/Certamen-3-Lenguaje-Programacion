@@ -1,0 +1,7 @@
+568435244841500673
+United
+@united have all 747-400s been updated with power outlets and seat-back TVs yet? Flying ORD to Tokyo-Narita on the 28th
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 07:41:38 -0800
+location: Chicago, IL

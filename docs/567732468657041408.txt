@@ -1,0 +1,7 @@
+567732468657041408
+United
+@united + that's the gist of what the flight attendant told her.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 09:09:03 -0800
+location: Bhutan

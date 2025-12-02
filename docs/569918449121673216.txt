@@ -1,0 +1,7 @@
+569918449121673216
+United
+@united Either is fine. However, plundering my hard-earned dollars is not fine.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 09:55:21 -0800
+location: Pittsburgh, PA

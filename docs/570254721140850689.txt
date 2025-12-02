@@ -1,0 +1,7 @@
+570254721140850689
+American
+@AmericanAir I'd love to take my seat, but it appears as though someone already has.  #disappointed #upgrademe #wtf http://t.co/9Gx5mMmubb
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 08:11:34 -0800
+location: nan

@@ -1,0 +1,7 @@
+569361107745263617
+Southwest
+@SouthwestAir what happend? Why did flight #668 get Cancelled Flighted for 2/22..I was on hold for over an hour and no help
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 21:00:40 -0800
+location: IN

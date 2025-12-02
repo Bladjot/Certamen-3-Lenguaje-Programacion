@@ -1,0 +1,7 @@
+569239293429833728
+United
+@united help? Invest more in your planes and your people and less in stock buybacks and executive pay. Maybe then you would not disappoint.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 12:56:38 -0800
+location: San Francisco

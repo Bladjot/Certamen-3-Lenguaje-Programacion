@@ -1,0 +1,7 @@
+568279994876571649
+Virgin America
+@VirginAmerica Your planes are really pretty. Just thought u should know that. :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 21:24:43 -0800
+location: Out to Brunch with @Kanyewest.

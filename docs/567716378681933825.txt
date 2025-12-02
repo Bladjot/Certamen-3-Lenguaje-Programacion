@@ -1,0 +1,7 @@
+567716378681933825
+Delta
+@JetBlue CEO weighs profits, flyers - @ChronicleHerald (registration) http://t.co/9vKj9S7jrM
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 08:05:06 -0800
+location: USA

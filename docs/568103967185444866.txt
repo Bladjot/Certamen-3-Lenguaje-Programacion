@@ -1,0 +1,7 @@
+568103967185444866
+US Airways
+@USAirways thanks for reaching out to me.  My Gold Div no. 2k424j0. My Flights were changed under Confirmation # DNX58V.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 09:45:15 -0800
+location: nan

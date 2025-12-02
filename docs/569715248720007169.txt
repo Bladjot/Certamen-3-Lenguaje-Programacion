@@ -1,0 +1,7 @@
+569715248720007169
+Southwest
+@SouthwestAir is this a joke? My return flight is delayed too! 3 in a row! New record from you guys 💔😪
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 20:27:54 -0800
+location: nan

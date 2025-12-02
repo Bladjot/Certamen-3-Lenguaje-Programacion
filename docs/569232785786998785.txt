@@ -1,0 +1,7 @@
+569232785786998785
+Delta
+@JetBlue there's is nothing there because apparently I have to connect them for that to be true.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 12:30:46 -0800
+location: Providence, RI

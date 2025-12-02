@@ -1,0 +1,7 @@
+567766755797389312
+Delta
+@JetBlue hard to tell, but was told wifi only worked for one side of the plane.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 11:25:17 -0800
+location: New York, NY

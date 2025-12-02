@@ -1,0 +1,7 @@
+569962245620248576
+United
+@united Big thanks to Ms. Winston for assisting me over the phone with a baggage claim issue today. She really went the extra mile!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 12:49:23 -0800
+location: Washington DC

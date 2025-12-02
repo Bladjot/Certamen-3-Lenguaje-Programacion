@@ -1,0 +1,7 @@
+569903253183455233
+Southwest
+@SouthwestAir yes we did file a report and were treated rather rudely at midway baggage claim. Now we wait 2 days to get our luggage.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 08:54:58 -0800
+location: nan

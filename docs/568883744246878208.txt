@@ -1,0 +1,7 @@
+568883744246878208
+United
+@united Terribly disappointed. Confirmed reservation delayed and your cust. service staff was not helpful in finding an alternate solution.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 13:23:48 -0800
+location: Kenosha, WI

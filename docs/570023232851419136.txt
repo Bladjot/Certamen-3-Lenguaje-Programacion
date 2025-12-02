@@ -1,0 +1,7 @@
+570023232851419136
+United
+@united  Stressed and rude agents. Overwhelmed by delyd flight LAS-DEN 1657. Yelling at several people. Not pretty. This is #friendlyskies??
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 16:51:43 -0800
+location: Cleveland, OH

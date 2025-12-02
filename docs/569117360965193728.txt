@@ -1,0 +1,7 @@
+569117360965193728
+US Airways
+@USAirways bumping people off a flight ten minutes before takeoff because the flight is overbooked #fail
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 04:52:07 -0800
+location: Nairobi

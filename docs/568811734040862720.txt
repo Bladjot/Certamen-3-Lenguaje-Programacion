@@ -1,0 +1,7 @@
+568811734040862720
+Southwest
+@SouthwestAir what does relay concerns really mean &amp; how/why do u keep letting people on flights with bags larger than u state are allowabl?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 08:37:40 -0800
+location: nan

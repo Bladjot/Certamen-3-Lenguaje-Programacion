@@ -1,0 +1,7 @@
+569538703732772864
+United
+@united oh I did. Was still lost. Your tracking system stinks as does the delivery system.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 08:46:23 -0800
+location: Tour Bus or Airplane/ Hotel

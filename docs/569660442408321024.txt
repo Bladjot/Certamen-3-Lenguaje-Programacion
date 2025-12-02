@@ -1,0 +1,7 @@
+569660442408321024
+American
+@AmericanAir all flights Cancelled Flighted tomorrow and that means I'm stranded at the airport for the night... wow.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 16:50:07 -0800
+location: nan

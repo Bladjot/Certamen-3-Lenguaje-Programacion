@@ -1,0 +1,7 @@
+567749860611211265
+Delta
+@JetBlue okayyyy. But I had huge irons on way out. Promise no shenanigans?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 10:18:09 -0800
+location: nan

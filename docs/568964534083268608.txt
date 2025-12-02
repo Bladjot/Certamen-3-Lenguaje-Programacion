@@ -1,0 +1,7 @@
+568964534083268608
+United
+@united Great landing in Denver, next Rapid City. Snow starting to fall...Florida Everglades is a faint sunburn away...here comes the cold!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 18:44:50 -0800
+location: Location: constantly changing!

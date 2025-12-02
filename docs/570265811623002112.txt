@@ -1,0 +1,7 @@
+570265811623002112
+Delta
+@JetBlue I appreciate the credit for my troubles but the lack of personal response troubles me.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 08:55:39 -0800
+location: Boston, MA

@@ -1,0 +1,7 @@
+568241499831287808
+Delta
+@JetBlue If it was simply a minor mechanical, why would they say that?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 18:51:45 -0800
+location: Waltham, MA

@@ -1,0 +1,7 @@
+570252052099678208
+US Airways
+@USAirways @Beamske But maybe I can be on hold for 30 minutes again. That would be just as amazing.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 08:00:58 -0800
+location: Kentucky

@@ -1,0 +1,7 @@
+569301745219850241
+United
+@united just texted me to say flight is delayed due to air traffic control. BS! They pulled the plane in Late Flight #lies
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 17:04:47 -0800
+location: San Francisco, CA

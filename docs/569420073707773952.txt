@@ -1,0 +1,7 @@
+569420073707773952
+Delta
+@JetBlue no. Not boarding order. Someone boarded with. Service Animal which a member of my party was allergic to and because the flight was
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 00:54:59 -0800
+location: New York

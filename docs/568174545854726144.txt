@@ -1,0 +1,7 @@
+568174545854726144
+Delta
+@JetBlue Hawaii! Get me somewhere warm &amp; I can find some good to do. #FlyItForward
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 14:25:42 -0800
+location: nan

@@ -1,0 +1,7 @@
+568173585484771328
+Southwest
+@SouthwestAir alas, it was pretty full so we had to entertain ourselves with witty repartee ...
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 14:21:53 -0800
+location: nan

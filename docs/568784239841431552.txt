@@ -1,0 +1,7 @@
+568784239841431552
+Southwest
+@SouthwestAir I have been loyal to Southwest from the beginning but very unhappy about your devaluation.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 06:48:24 -0800
+location: nan

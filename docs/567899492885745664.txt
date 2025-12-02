@@ -1,0 +1,7 @@
+567899492885745664
+Virgin America
+@VirginAmerica does Virgin America fly direct from Seattle to NYC or Boston?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 20:12:44 -0800
+location: nan

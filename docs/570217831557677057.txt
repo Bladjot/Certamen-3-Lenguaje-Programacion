@@ -1,0 +1,7 @@
+570217831557677057
+Virgin America
+@VirginAmerica do you miss me? Don't worry we'll be together very soon.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 05:44:59 -0800
+location: San Francisco, CA

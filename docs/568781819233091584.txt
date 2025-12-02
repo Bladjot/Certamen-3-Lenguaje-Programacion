@@ -1,0 +1,7 @@
+568781819233091584
+Virgin America
+@VirginAmerica are you ready!? Let's say it together.. 'Noooo turbulence today!' 😘
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 06:38:47 -0800
+location: New York City

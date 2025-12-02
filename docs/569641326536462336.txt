@@ -1,0 +1,7 @@
+569641326536462336
+United
+@united  always a fucken nightmare with your airline. #fail #lazy #alwaysLate Flight #worstairlineever
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 15:34:10 -0800
+location: Los Angeles

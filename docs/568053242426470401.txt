@@ -1,0 +1,7 @@
+568053242426470401
+US Airways
+@USAirways this is got to be the worst service I've ever seen with an airline. 3 Cancelled Flightled flights. Rude employees. Currently flight delayed
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 06:23:41 -0800
+location: where you want to be.

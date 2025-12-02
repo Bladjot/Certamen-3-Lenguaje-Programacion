@@ -1,0 +1,7 @@
+568278936561401856
+United
+@united ^GJ I do believe that this is hands down the worst service I've EVER experienced. Makes @comcast look amazing. #UnitedAirlines
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 21:20:31 -0800
+location: Houston, TX

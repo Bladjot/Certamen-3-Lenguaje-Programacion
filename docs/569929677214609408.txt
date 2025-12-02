@@ -1,0 +1,7 @@
+569929677214609408
+American
+@AmericanAir in line at SFO. Customer service is rude, disorganized, and congested. Very dissapointing.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:39:58 -0800
+location: nan

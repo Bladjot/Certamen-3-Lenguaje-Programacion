@@ -1,0 +1,7 @@
+569628521666117632
+US Airways
+@USAirways ... What's going on at @PHLAirport ?!  I've been sitting at the gate for 45minutes.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 14:43:17 -0800
+location: West Chester, PA

@@ -1,0 +1,7 @@
+567663136082513920
+United
+@united i have items of sentimental value that I'm heartbroken are missing
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 04:33:32 -0800
+location: Omagh/Belfast

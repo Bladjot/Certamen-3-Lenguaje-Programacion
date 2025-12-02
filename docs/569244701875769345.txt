@@ -1,0 +1,7 @@
+569244701875769345
+Delta
+@JetBlue Yup. MCO. 82°!!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 13:18:07 -0800
+location: 40.741909,-73.997189

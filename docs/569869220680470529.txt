@@ -1,0 +1,7 @@
+569869220680470529
+Southwest
+@SouthwestAir Are there discounts every tuesday cause Im leaving fron Birmingham Airport to San fran Next week in march sometime
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 06:39:44 -0800
+location: nan

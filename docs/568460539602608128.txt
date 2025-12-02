@@ -1,0 +1,7 @@
+568460539602608128
+Southwest
+@SouthwestAir great news for @PortColumbusCMH today. Finally, Columbus' top unserved market will have flights.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 09:22:08 -0800
+location: United States

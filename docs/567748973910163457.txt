@@ -1,0 +1,7 @@
+567748973910163457
+Virgin America
+@VirginAmerica mood lighting on point🙌 Reclining my seat, kickin up my feet💤
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 10:14:38 -0800
+location: LA&OC

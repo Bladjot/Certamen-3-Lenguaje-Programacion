@@ -1,0 +1,7 @@
+568037433503145984
+United
+@united -LGA-ORD UA 711. Did not get agent name. Argument over baggage policy.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 05:20:52 -0800
+location: Littleton, CO

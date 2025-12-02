@@ -1,0 +1,7 @@
+569357122527469568
+US Airways
+@USAirways Can I book award travel on Etihad with Dividend Miles?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 20:44:50 -0800
+location: nan

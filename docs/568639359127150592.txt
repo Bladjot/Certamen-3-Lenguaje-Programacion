@@ -1,0 +1,7 @@
+568639359127150592
+United
+@united €202.88 is the difference between the booked flights, do you want screen shots?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 21:12:42 -0800
+location: nan

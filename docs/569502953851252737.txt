@@ -1,0 +1,7 @@
+569502953851252737
+United
+@united I would never fly United Airlines again!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 06:24:19 -0800
+location: nan

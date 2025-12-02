@@ -1,0 +1,7 @@
+568965774649520128
+Delta
+@JetBlue I appreciate the speedy response. But the longer you delay the more inconvenience you put on your customers. Please nix change fee!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 18:49:46 -0800
+location: nan

@@ -1,0 +1,7 @@
+567805887319912448
+Southwest
+@SouthwestAir Awwweesssooomee!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 14:00:47 -0800
+location: Tucson, AZ

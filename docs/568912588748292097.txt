@@ -1,0 +1,7 @@
+568912588748292097
+US Airways
+@USAirways will do.  maybe the pre-purchase meal email is because the flight is 9 min short of 3 hours, so I guess there are none offered
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 15:18:25 -0800
+location: Delaware

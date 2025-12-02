@@ -1,0 +1,7 @@
+568900531696984064
+Southwest
+@SouthwestAir Gary Kelly should be ashamed of himself running a corporation in this way
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 14:30:31 -0800
+location: nan

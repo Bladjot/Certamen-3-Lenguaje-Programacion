@@ -1,0 +1,7 @@
+570230559693078528
+American
+@AmericanAir no repair made to the water line. No potable water on board this flight. "We will take off soon." Time for new planes MCI&gt;DFW.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 06:35:34 -0800
+location: iPhone: 37.621227,-122.386002

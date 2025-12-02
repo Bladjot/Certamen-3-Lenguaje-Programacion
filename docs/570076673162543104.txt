@@ -1,0 +1,7 @@
+570076673162543104
+Delta
+“@JetBlue: @maatkare67 We hope you're still our bae! @TatianaKing @thewayoftheid”haa man
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 20:24:05 -0800
+location: Philadelphia/Cali

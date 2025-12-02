@@ -1,0 +1,7 @@
+568860389640962048
+United
+@united mechanical issue. Looks like they got it fixed! Thanks for your concern.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 11:51:00 -0800
+location: nan

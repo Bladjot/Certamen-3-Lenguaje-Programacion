@@ -1,0 +1,7 @@
+568591324737200128
+US Airways
+@USAirways 45 minutes on hold waiting to speak with an agent !! Come on #USAirways !!! Ridiculous #baggagelost #usairways
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 18:01:50 -0800
+location: Canada

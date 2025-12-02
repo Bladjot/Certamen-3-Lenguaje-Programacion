@@ -1,0 +1,7 @@
+569584744532287490
+Southwest
+@SouthwestAir FIND A WAY TO Cancelled Flight FLIGHT 310!!!!!!!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 11:49:20 -0800
+location: nan

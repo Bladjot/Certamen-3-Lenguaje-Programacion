@@ -1,0 +1,7 @@
+569730747675897856
+American
+@AmericanAir you're my early frontrunner for best airline! #oscars2016
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 21:29:29 -0800
+location: Washington D.C.

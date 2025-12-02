@@ -1,0 +1,7 @@
+569500360651509760
+United
+@united Cancelled Flights your flight then sends you an email saying "think about your next flight..." #customer #outrage http://t.co/KkwiwI97A4
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 06:14:01 -0800
+location: London

@@ -1,0 +1,7 @@
+567806151191191553
+United
+@united thanks! We would like an apology and a full refund. Please confirm when we will receive.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 14:01:50 -0800
+location: nan

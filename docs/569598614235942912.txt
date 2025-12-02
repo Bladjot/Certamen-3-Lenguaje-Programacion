@@ -1,0 +1,7 @@
+569598614235942912
+Southwest
+@SouthwestAir our flight is delayed till tomorrow curse the weather
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 12:44:26 -0800
+location: nan

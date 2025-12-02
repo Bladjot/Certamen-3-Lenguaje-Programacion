@@ -1,0 +1,7 @@
+568574960035360768
+Southwest
+@SouthwestAir and now no wifi??? Come on.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 16:56:48 -0800
+location: Rochester, NY

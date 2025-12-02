@@ -1,0 +1,7 @@
+568900980080709632
+United
+@United @Skywest do it again!   I will now miss one or probably both our Aspen events. #Fail
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 14:32:17 -0800
+location: Hong Kong

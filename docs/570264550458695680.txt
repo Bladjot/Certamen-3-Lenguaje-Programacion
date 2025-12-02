@@ -1,0 +1,7 @@
+570264550458695680
+American
+@AmericanAir I can hardly believe it! Bundle up and stay warm! 😉
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 08:50:38 -0800
+location: United States of America

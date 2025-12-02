@@ -1,0 +1,7 @@
+567851763136491520
+Southwest
+@SouthwestAir I hope you're happy! You have officially become the next @AmericanAir #ProfitBeforePeople IMO you will be bankrupt by 2020
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 17:03:05 -0800
+location: Lubbock Texas

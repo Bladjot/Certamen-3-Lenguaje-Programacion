@@ -1,0 +1,7 @@
+567748208844365825
+Southwest
+@SouthwestAir Flight Cancelled Flightled out of BNA.... Do I have to reschedule now or can travel funds be put back into my account for future use?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 10:11:35 -0800
+location: nan

@@ -1,0 +1,7 @@
+568517447847780353
+Virgin America
+@VirginAmerica to jump into the #Dallas #Austin market http://t.co/SzR0pioA21
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 13:08:16 -0800
+location: Phoenix AZ

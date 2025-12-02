@@ -1,0 +1,7 @@
+568070439945306112
+US Airways
+@USAirways through, can you confirm that I haven't been charged?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 07:32:01 -0800
+location: Melbourne, Australia

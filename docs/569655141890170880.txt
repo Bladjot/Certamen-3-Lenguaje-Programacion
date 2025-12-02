@@ -1,0 +1,7 @@
+569655141890170880
+American
+@AmericanAir ok, thanks you! Have a great night AA team!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 16:29:04 -0800
+location: Rive-sud de Montréal

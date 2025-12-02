@@ -1,0 +1,7 @@
+570078102551834624
+US Airways
+@USAirways yeah I know that but that doesn't get me my money back does it, everytime I fly with you something bad happens.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 20:29:45 -0800
+location: nan

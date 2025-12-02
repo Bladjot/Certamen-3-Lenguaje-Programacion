@@ -1,0 +1,7 @@
+568566512308523008
+Delta
+@JetBlue what is happening with the flight from FLL to SFO? Why the delay and the reroute?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 16:23:14 -0800
+location: Northern California/Medellín

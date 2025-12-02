@@ -1,0 +1,7 @@
+569944514137362432
+US Airways
+@USAirways US 728 then lost ground power three different times. Not only grounded endlessly; now without air, lights, entertainment.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 11:38:55 -0800
+location: nan

@@ -1,0 +1,7 @@
+569873019499192320
+United
+@united Thank you for your response!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 06:54:50 -0800
+location: Albuquerque, New Mexico

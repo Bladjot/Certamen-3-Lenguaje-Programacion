@@ -1,0 +1,7 @@
+568115829616861184
+Delta
+@JetBlue so I don't know confirmation number or the names of the flight attendants and supervisor
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 10:32:23 -0800
+location: new orleans

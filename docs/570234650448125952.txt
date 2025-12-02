@@ -1,0 +1,7 @@
+570234650448125952
+United
+.@united it will be because I'm moving to @AmericanAir because of @united talk, no service
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 06:51:49 -0800
+location: Chicago, IL

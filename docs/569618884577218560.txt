@@ -1,0 +1,7 @@
+569618884577218560
+American
+@AmericanAir two delayed flights today that weren't weather reLate Flightd. Keep up the good work!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:04:59 -0800
+location: ÜT: 29.717516,-95.505488

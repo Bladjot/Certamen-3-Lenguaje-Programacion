@@ -1,0 +1,8 @@
+568778730186928128
+Delta
+@JetBlue This is the error message: Paper tickets cannot be serviced on-line.
+Please see a JetBlue Crewmember for assistance.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 06:26:31 -0800
+location: New York, NY

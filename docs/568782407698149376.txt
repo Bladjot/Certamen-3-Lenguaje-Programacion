@@ -1,0 +1,7 @@
+568782407698149376
+Delta
+@JetBlue perfect! Probably need some coffee to stay awake during the night ;)
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 06:41:08 -0800
+location: Germany

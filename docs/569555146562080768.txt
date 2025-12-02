@@ -1,0 +1,7 @@
+569555146562080768
+United
+@united This is probably the least dependable airline in the Western Hemisphere. @united does not belong in Star Alliance, but SkyTeam
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 09:51:43 -0800
+location: Stavanger, Norway

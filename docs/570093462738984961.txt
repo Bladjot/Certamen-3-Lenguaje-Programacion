@@ -1,0 +1,7 @@
+570093462738984961
+American
+@AmericanAir no not yet. Waiting to be connected to an agent
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 21:30:47 -0800
+location: Arlington VA

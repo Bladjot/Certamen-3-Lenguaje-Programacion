@@ -1,0 +1,7 @@
+569917791228157952
+American
+@AmericanAir @CNN @nbsnewsr @cnnbrk except you aren't working with her @AmericanAir youve done nothing to help
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:52:44 -0800
+location: Belle MO

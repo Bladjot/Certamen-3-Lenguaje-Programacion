@@ -1,0 +1,7 @@
+570268160202567680
+Southwest
+@SouthwestAir was on flight 2373 from CHI-BUF last night, almost 2 hour delay cuz someone got on the plane without a pass - sounds safe. 1/2
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 09:04:59 -0800
+location: woodstock, Ontario, Canada

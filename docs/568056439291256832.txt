@@ -1,0 +1,7 @@
+568056439291256832
+United
+@united did not get names...Dallas flight and Chicago
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 06:36:23 -0800
+location: nan

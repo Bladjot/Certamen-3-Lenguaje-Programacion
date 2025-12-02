@@ -1,0 +1,7 @@
+569642200595898368
+American
+@AmericanAir Stuck on a plane at JFK: food was not on the plane now we need to wait crew to push back the plane. Good job, AA!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 15:37:38 -0800
+location: New York City

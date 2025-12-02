@@ -1,0 +1,7 @@
+569233955951480832
+Southwest
+@SouthwestAir hi, can you please tell me why today's flights from Chicago to DIA were Cancelled Flightled? Thanks!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 12:35:25 -0800
+location: Denver, CO, USA

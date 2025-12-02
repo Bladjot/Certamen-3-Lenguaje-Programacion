@@ -1,0 +1,7 @@
+569465622301552641
+US Airways
+@USAirways ever think about hiring more agents? Come on now. Don't you think 4 hour holds is a little ridiculous? Get a clue
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 03:55:59 -0800
+location: nan

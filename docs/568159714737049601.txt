@@ -1,0 +1,7 @@
+568159714737049601
+Delta
+@JetBlue my mom wanted me to change her seat along with my sister, but their two different reservations and idk
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 13:26:46 -0800
+location: Logan International Airport

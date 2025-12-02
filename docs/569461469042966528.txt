@@ -1,0 +1,7 @@
+569461469042966528
+Virgin America
+@VirginAmerica at Logan airport and waiting to checkin for my 9am flight. Checkin desk not open !!!!! Why?!
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 03:39:28 -0800
+location: Philadelphia, Pa

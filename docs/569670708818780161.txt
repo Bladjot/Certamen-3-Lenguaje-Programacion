@@ -1,0 +1,7 @@
+569670708818780161
+US Airways
+@USAirways do you know what flight the pilots for 1581 are coming in on? Thanks.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:30:55 -0800
+location: Chicago, IL, USA

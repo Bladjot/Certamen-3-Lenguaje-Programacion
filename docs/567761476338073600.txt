@@ -1,0 +1,7 @@
+567761476338073600
+United
+@united with Karen and found her unhelpful and rude  called United at the time &amp; told she could board but Karen would not accept
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 11:04:19 -0800
+location: nan

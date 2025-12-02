@@ -1,0 +1,7 @@
+569078332278513665
+United
+@united  UA 1706 there is no way a plane "loses its software" I believe you decided to do an upgrade...
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 02:17:02 -0800
+location: Colorado

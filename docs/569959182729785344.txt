@@ -1,0 +1,7 @@
+569959182729785344
+American
+@AmericanAir Was told you could only refund me the cost of my original return flight (note: flight you had booked for me was more expensive)
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 12:37:13 -0800
+location: nan

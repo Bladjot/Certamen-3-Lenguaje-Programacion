@@ -1,0 +1,7 @@
+569937638674829313
+American
+@AmericanAir 249 EWR - DFW is now stopping BNA to refuel 4 bad weather? Are YOU just trying to get the plane closer 2 DFW then Cancelled Flight on us?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 11:11:36 -0800
+location: NYC

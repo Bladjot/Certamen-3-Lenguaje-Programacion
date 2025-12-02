@@ -1,0 +1,7 @@
+569249223897526272
+United
+@united who is in charge of making decisions over there? Cancelled Flightling flight UA1150 was unacceptable. I should be in #Belize right now.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 13:36:05 -0800
+location: Madison, WI

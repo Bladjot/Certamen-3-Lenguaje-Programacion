@@ -1,0 +1,7 @@
+569534175973396480
+United
+@united  I understand that but why should I pay to change if it was a problem with your plane. If it was weather I would understand
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 08:28:23 -0800
+location: FL

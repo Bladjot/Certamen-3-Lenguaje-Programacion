@@ -1,0 +1,7 @@
+569075205106229248
+Southwest
+@SouthwestAir Anyone answering phone this morning at 800IFLYSWA? On hold 51 minutes and counting...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 02:04:36 -0800
+location: St Louis, MO

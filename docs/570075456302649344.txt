@@ -1,0 +1,7 @@
+570075456302649344
+US Airways
+@USAirways terrible service
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 20:19:14 -0800
+location: nan

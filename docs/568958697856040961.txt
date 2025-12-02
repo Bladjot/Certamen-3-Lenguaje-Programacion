@@ -1,0 +1,7 @@
+568958697856040961
+Southwest
+@SouthwestAir I'm in line at the airport right now. Will you cover hotel fair or am I to sleep in the airport?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 18:21:38 -0800
+location: Philadelphia, PA

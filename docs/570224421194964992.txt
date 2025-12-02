@@ -1,0 +1,7 @@
+570224421194964992
+American
+@AmericanAir thank you AA, this is how I always start my vacations http://t.co/dzKc3auZU9
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 06:11:10 -0800
+location: nan

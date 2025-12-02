@@ -1,0 +1,7 @@
+569994678155780096
+Delta
+@JetBlue @weepysweetmonty i heard youre planning on letting people fly in the overhead compartments. why would you do that?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:58:15 -0800
+location: nan

@@ -1,0 +1,7 @@
+569628159085301760
+Delta
+@JetBlue This is absurd. Should a stranger help my kids if there's a problem? #jetblue http://t.co/LAiGgef9Kj
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 14:41:50 -0800
+location: nan

@@ -1,0 +1,7 @@
+569758956941234176
+US Airways
+@USAirways And how do you only have 1 agent at PHX customer service desk when an hour ago the line was over 100 people long?
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 23:21:35 -0800
+location: Washington, D.C.

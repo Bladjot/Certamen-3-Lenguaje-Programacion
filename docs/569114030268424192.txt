@@ -1,0 +1,7 @@
+569114030268424192
+US Airways
+@USAirways Cool. Now @SweetingR has been told you can't re-route his bags after he was told to leave them last night. He needs them to race.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 04:38:53 -0800
+location: Asheville, NC

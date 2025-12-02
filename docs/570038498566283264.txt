@@ -1,0 +1,7 @@
+570038498566283264
+American
+@AmericanAir anything in particular I should ask for.   Will they want me to document my mileage plus status!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 17:52:23 -0800
+location: New York Tri-State

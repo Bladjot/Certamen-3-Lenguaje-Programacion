@@ -1,0 +1,7 @@
+570195970610348032
+US Airways
+@USAirways nah it's for my flight next week.. inside my Chairman 7-day window but you still haven't released the last open First seat to me
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 04:18:07 -0800
+location: Richmond, VA

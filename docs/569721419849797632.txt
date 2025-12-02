@@ -1,0 +1,7 @@
+569721419849797632
+American
+@AmericanAir Need to change flight, but the CS # is telling me it can't take my call. Can't change online. Please help. Flight is this week.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:52:26 -0800
+location: San Francisco

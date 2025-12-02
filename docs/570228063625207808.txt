@@ -1,0 +1,7 @@
+570228063625207808
+American
+@AmericanAir does it show that we are on the same plane?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 06:25:39 -0800
+location: Fort Myers

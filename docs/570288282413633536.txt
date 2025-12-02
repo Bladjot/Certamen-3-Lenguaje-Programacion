@@ -1,0 +1,8 @@
+570288282413633536
+American
+@AmericanAir
+ Your response could have made all the difference. It could have made the situation better. NO TRUST...GET LOST like my bag.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 10:24:56 -0800
+location: nan

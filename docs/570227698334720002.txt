@@ -1,0 +1,7 @@
+570227698334720002
+Southwest
+@SouthwestAir #stepup #makeitright re you best? Or just money hungry? #wewillsee
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 06:24:12 -0800
+location: Kansas City MO

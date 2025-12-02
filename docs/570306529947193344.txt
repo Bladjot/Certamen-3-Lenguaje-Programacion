@@ -1,0 +1,7 @@
+570306529947193344
+American
+@AmericanAir I slept in the miami airport due to mechanical issues and was given 10,000 bonus miles to try and make it right. #slapintheface
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 11:37:27 -0800
+location: MN

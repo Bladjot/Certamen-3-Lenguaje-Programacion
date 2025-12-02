@@ -1,0 +1,7 @@
+568872365146251264
+Delta
+@JetBlue No worries. Time flew in the terminal and now we're taking off. Thanks again!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 12:38:35 -0800
+location: New York

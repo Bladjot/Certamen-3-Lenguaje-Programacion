@@ -1,0 +1,7 @@
+570014190498287616
+United
+@united ...and when that doesn't work...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 16:15:48 -0800
+location: Fort Worth, Texas

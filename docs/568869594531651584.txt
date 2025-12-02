@@ -1,0 +1,7 @@
+568869594531651584
+Southwest
+@SouthwestAir beautiful day in Seattle! http://t.co/iqu0PPVq2S
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 12:27:35 -0800
+location: Bellevue, WA

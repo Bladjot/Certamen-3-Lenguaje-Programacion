@@ -1,0 +1,7 @@
+570121361953202178
+United
+@united nope, they told us it was time for them to go home and to sleep at the airport. Even though they assured us we would get a room...
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 23:21:39 -0800
+location: CORGaming@cellucor.com

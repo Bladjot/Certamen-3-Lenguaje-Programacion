@@ -1,0 +1,7 @@
+570101670882840576
+United
+@united you are offering us 8 rooms for 32 people #FAIL
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 22:03:24 -0800
+location: Ottawa, Canada

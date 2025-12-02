@@ -1,0 +1,7 @@
+569662471213948928
+American
+@AmericanAir AA 100 - good job overselling this flight. Delayed 90 minutes to deplane the overflow passengers' bags.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:58:11 -0800
+location: New York

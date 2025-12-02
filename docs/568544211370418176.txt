@@ -1,0 +1,7 @@
+568544211370418176
+US Airways
+@USAirways @AmericanAir Total lack of cust. service for a mom flying solo w. baby. Will not be flying w. Am. Air again!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 14:54:37 -0800
+location: nan

@@ -1,0 +1,7 @@
+569380098119499776
+US Airways
+@USAirways Need help with a flight. Weather + funeral = tough combination. On hold for over an hour. Please?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 22:16:08 -0800
+location: nan

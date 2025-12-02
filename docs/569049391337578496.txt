@@ -1,0 +1,7 @@
+569049391337578496
+United
+@united yes there is when you keep getting the same robotic answer.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 00:22:01 -0800
+location: Global

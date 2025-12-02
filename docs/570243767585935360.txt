@@ -1,0 +1,7 @@
+570243767585935360
+Delta
+@JetBlue Longing to look into the blue eyes. #firstlove
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 07:28:03 -0800
+location: nan

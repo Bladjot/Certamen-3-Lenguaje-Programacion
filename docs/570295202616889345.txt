@@ -1,0 +1,7 @@
+570295202616889345
+US Airways
+@USAirways Yes. Confirmation number and all.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:52:26 -0800
+location: nan

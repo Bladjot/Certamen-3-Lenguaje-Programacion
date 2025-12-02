@@ -1,0 +1,7 @@
+568045111189372928
+US Airways
+@usairways I've called for 3 days and can't get thru. is there some secret method i can use that doesn't result in you hanging up on me?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 05:51:22 -0800
+location: Indianapolis, IN, USA

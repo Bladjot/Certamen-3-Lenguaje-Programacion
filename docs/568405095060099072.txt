@@ -1,0 +1,7 @@
+568405095060099072
+United
+@united Thank you! Off to LA to do something very special.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 05:41:49 -0800
+location: Brooklyn, NY

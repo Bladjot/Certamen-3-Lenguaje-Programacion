@@ -1,0 +1,7 @@
+567781757274292224
+US Airways
+@USAirways 2.5 hours Late Flightr and the flight has been Cancelled Flightled. You gotta work on your internal communication skills.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 12:24:54 -0800
+location: nan

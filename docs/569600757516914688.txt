@@ -1,0 +1,7 @@
+569600757516914688
+US Airways
+@USAirways thanks for being so bad you make a two day train trip look appealing!!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 12:52:57 -0800
+location: Columbus, Ohio

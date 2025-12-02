@@ -1,0 +1,7 @@
+568438018572300289
+Southwest
+@SouthwestAir Thank you for the prompt response. I will email Late Flightr today.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 07:52:39 -0800
+location: iPhone: 44.912468,-93.318619

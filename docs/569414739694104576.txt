@@ -1,0 +1,7 @@
+569414739694104576
+US Airways
+@usairways we've been on hold for 2 hours trying to reschedule our Cancelled Flightled flight. Can anyone out there please help us?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 00:33:47 -0800
+location: nan

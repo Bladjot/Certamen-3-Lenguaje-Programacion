@@ -1,0 +1,8 @@
+570266460003508225
+American
+@AmericanAir 
+Not giving you a hard time...Just looking for basic customer service after AA lost my bag. ETA on it's return, please????????
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 08:58:13 -0800
+location: nan

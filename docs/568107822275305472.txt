@@ -1,0 +1,7 @@
+568107822275305472
+Delta
+@JetBlue The Magic eight ball has never steered me wrong  :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 10:00:34 -0800
+location: right behind you

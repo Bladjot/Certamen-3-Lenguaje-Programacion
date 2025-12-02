@@ -1,0 +1,7 @@
+567778498723737600
+US Airways
+@usairways Thx for responding :) When bags came there was mad rush towards end of jetway—why not just put thru baggage claim?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 12:11:57 -0800
+location: Boston, MA

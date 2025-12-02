@@ -1,0 +1,7 @@
+567757897841385473
+US Airways
+@USAirways thank you! I tried that and they said they didn't have it. Anywhere else to try?
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 10:50:05 -0800
+location: nan

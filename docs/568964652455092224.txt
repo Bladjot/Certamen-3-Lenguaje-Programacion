@@ -1,0 +1,7 @@
+568964652455092224
+Southwest
+@SouthwestAir thanks for the ride to Chicago. #kmdw #b738 http://t.co/6cpYPGFnD6
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 18:45:18 -0800
+location: nan

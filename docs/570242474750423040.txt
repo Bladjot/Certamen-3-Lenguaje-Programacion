@@ -1,0 +1,7 @@
+570242474750423040
+US Airways
+@USAirways I keep getting hung up on. PLEASE respond so I can book a ticket with you. I won't be able to buy one unless I speak to someone!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 07:22:55 -0800
+location: nan

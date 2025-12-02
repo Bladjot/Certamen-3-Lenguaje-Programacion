@@ -1,0 +1,7 @@
+568457810066800640
+United
+@united Can i get a refund? I would like to book on a better airline.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 09:11:18 -0800
+location: On a couch, with a computer.

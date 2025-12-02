@@ -1,0 +1,7 @@
+568562728585064449
+Southwest
+@SouthwestAir @MichaelBColeman - thanks for making new direct flight to San Francisco.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 16:08:12 -0800
+location: Columbus, Ohio

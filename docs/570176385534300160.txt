@@ -1,0 +1,7 @@
+570176385534300160
+American
+@AmericanAir would have been had I seen this before 1130pm EST, when I was sound asleep.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 03:00:18 -0800
+location: eating curly fries w/ the wife

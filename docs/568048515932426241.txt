@@ -1,0 +1,7 @@
+568048515932426241
+United
+@united I'm checked in, agent wouldn't tag my bags at 7am. Now I'm standing in line hell.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-18 06:04:54 -0800
+location: Ottawa, Canada

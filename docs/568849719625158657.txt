@@ -1,0 +1,7 @@
+568849719625158657
+Delta
+@JetBlue heading to Buffalo... trading the cold in Boston for colder in Buffalo... Maybe the Caribbean next time?
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 11:08:36 -0800
+location: Global

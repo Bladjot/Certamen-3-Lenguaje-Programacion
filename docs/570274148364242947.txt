@@ -1,0 +1,7 @@
+570274148364242947
+American
+@AmericanAir thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 09:28:46 -0800
+location: Raleigh NC

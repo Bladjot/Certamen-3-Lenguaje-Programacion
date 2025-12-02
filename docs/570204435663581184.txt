@@ -1,0 +1,7 @@
+570204435663581184
+American
+@AmericanAir great job TYR ground crew...now let's get this bird outta here!!!  Tell flight 3200 to wait on me...be there in 45 mikes!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 04:51:46 -0800
+location: Texas

@@ -1,0 +1,7 @@
+567889601869668352
+United
+@united @annricord both!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 19:33:26 -0800
+location: Canmore

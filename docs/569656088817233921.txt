@@ -1,0 +1,7 @@
+569656088817233921
+US Airways
+@USAirways You suck in Philadelphia.  Let us off this plane! #phl
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 16:32:49 -0800
+location: Philly Area

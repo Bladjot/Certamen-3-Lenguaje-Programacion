@@ -1,0 +1,7 @@
+569533202835984385
+US Airways
+@USAirways I waited customer service 32 minutes on the phone w/o response. Had to hung up in the end since my battery died due to waiting!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 08:24:31 -0800
+location: nan

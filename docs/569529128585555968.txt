@@ -1,0 +1,7 @@
+569529128585555968
+Delta
+@JetBlue  Not blaming Jet Blue.  This wasn't weather. Can't have planes in the air and runways a mess. That's a disaster waiting to happen.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 08:08:20 -0800
+location: Long Island - Arizona

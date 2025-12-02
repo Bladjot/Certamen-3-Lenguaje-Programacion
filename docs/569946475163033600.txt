@@ -1,0 +1,7 @@
+569946475163033600
+American
+@AmericanAir thx, just sent the DM
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 11:46:43 -0800
+location: New York

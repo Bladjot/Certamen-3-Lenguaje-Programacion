@@ -1,0 +1,7 @@
+569519007965061121
+US Airways
+@USAirways you keep suggesting people call 800-428-4322 but we just end up on hold for hours. You seriously don't have a better method?!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:28:07 -0800
+location: Where you least need me to be

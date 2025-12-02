@@ -1,0 +1,7 @@
+570305363859406848
+Delta
+@JetBlue everyone is here but our pilots are no where to be found and my last flight the plane was dirty that I had to clean my area &amp; seat!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 11:32:49 -0800
+location: Georgia

@@ -1,0 +1,7 @@
+569153098595192832
+Southwest
+@SouthwestAir - STL-BOS flight today was Cancelled Flightled. Online resched form gives an error. On hold for past 90 min. HELP! #terribleservice
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 07:14:07 -0800
+location: Boston, MA

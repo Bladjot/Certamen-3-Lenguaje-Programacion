@@ -1,0 +1,7 @@
+568812654346653697
+Delta
+@JetBlue OK cool.  I need to listen to some Dre and Snoop en route to LA.  That would have been a shame.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 08:41:19 -0800
+location: NY

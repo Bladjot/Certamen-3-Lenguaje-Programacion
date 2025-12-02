@@ -1,0 +1,7 @@
+568656758027063296
+United
+@united hello. I got off a flight a few months ago and constantly think about your peanuts. Is there anyway you could send me some?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 22:21:50 -0800
+location: Kaizen 改善

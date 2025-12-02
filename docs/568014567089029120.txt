@@ -1,0 +1,7 @@
+568014567089029120
+Southwest
+@SouthwestAir Thanks for reminding me about my upcoming trip to Florida but you really didn't need to... http://t.co/p6r5rt5Ow5
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 03:50:00 -0800
+location: On the 757 Right Coast

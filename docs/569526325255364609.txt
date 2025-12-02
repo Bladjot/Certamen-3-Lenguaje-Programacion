@@ -1,0 +1,7 @@
+569526325255364609
+Delta
+@JetBlue it's only because I'm wearing #TrueBlueColors!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 07:57:11 -0800
+location: New York, NY

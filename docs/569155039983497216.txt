@@ -1,0 +1,7 @@
+569155039983497216
+United
+@united airlines 1st &amp; only time I ever fly your airline! What a disgrace. @JimTrotter_NFL I should've listened to your tweet! #HORRIBLE
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 07:21:50 -0800
+location: nan

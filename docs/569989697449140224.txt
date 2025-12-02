@@ -1,0 +1,7 @@
+569989697449140224
+American
+@AmericanAir thanks for being entirely unhelpful and wasting hours of my time today
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:38:28 -0800
+location: Cambridge, MA, USA

@@ -1,0 +1,7 @@
+568902405909143552
+United
+@united also doesn't help me. I'm a very frequent flier and united premiere gold. Apparently that means nothing.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 14:37:57 -0800
+location: Los Angeles

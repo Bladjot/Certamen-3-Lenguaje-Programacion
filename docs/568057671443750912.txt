@@ -1,0 +1,7 @@
+568057671443750912
+Southwest
+@SouthwestAir By the way the flight number was 1703, please feel free to fact check my complaints about leave time &amp; baggage time.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 06:41:17 -0800
+location: Somewhere over the rainbow.

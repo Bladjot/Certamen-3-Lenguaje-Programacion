@@ -1,0 +1,7 @@
+568553155937452034
+United
+@united Can you transfer my bags too?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 15:30:10 -0800
+location: San Francisco, CA

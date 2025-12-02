@@ -1,0 +1,7 @@
+569191845219209217
+US Airways
+@USAirways I'm trying to Cancelled Flight my flight within the 24hr window but have been on hold for over an hour. Is there an alternate # I can dial?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 09:48:05 -0800
+location: San Francisco

@@ -1,0 +1,7 @@
+570241070577139713
+American
+@AmericanAir sitting on plane in Columbus, supposed to leave an hour ago. Now the mechanic can't find a tool to service the shock absorber.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 07:17:20 -0800
+location: Planet Earth

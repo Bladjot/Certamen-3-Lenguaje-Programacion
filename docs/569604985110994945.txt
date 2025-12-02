@@ -1,0 +1,7 @@
+569604985110994945
+United
+@united I was rebooked but had to take bus from Portland Maine to Boston. Told United does not cover the charge.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:09:45 -0800
+location: nan

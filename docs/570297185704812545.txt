@@ -1,0 +1,7 @@
+570297185704812545
+US Airways
+@USAirways I need help about a ticket. DM me
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:00:19 -0800
+location: ✈️ Birmingham ✈️ Brooklyn ✈️

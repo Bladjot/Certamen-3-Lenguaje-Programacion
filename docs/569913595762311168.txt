@@ -1,0 +1,7 @@
+569913595762311168
+United
+@united gate C 24 IAD. U released passengers to board w/others deplaning .50 peopleOn bridge while next flight  board http://t.co/HfoF33iyhi
+sentiment: negative
+negativereason: longlines
+created: 2015-02-23 09:36:04 -0800
+location: CT, NY and most other states

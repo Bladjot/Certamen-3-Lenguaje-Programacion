@@ -1,0 +1,7 @@
+570249083790733312
+United
+@united Blackmailed me into paying £130 extra or having my return ticket nullified in San Francisco Airport. Terrible service from rep #scam
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 07:49:10 -0800
+location: nan

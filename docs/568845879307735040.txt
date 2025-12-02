@@ -1,0 +1,7 @@
+568845879307735040
+Southwest
+@SouthwestAir did you Cancelled Flight ALL flights into BNA today??? #needtogethome
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 10:53:20 -0800
+location: nan

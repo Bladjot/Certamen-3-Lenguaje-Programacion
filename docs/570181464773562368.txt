@@ -1,0 +1,7 @@
+570181464773562368
+US Airways
+@USAirways Changing my flights with no explanations and still don't have a confirmation. So disappointed in the service
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 03:20:29 -0800
+location: nan

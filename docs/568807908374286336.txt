@@ -1,0 +1,7 @@
+568807908374286336
+Southwest
+@SouthwestAir oh my gosh! Going to dm you now! Thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 08:22:27 -0800
+location: nan

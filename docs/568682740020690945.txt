@@ -1,0 +1,7 @@
+568682740020690945
+Delta
+@JetBlue Has DC Thinking About Summer With New Nantucket Service - @MarketWatch http://t.co/yI4wGUk5tr
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 00:05:05 -0800
+location: USA

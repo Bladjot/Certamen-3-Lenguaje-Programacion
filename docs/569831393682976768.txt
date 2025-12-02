@@ -1,0 +1,7 @@
+569831393682976768
+American
+@AmericanAir hi do you have a phone number to ring from uk regarding claim for our Late Flight flight departure claim amount agreed just had no
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 04:09:25 -0800
+location: nan

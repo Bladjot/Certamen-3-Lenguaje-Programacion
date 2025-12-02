@@ -1,0 +1,7 @@
+568469807189790720
+United
+@united your Airbus a320 seats are awful. They don't recline.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 09:58:58 -0800
+location: usa

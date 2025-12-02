@@ -1,0 +1,7 @@
+569645522363011072
+Delta
+@JetBlue Is that a guarantee? We'll see about that tomorrow morning when I have to fight for a seat.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:50:50 -0800
+location: Brooklyn =)

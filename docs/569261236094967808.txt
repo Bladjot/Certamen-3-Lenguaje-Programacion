@@ -1,0 +1,7 @@
+569261236094967808
+US Airways
+@USAirways can you DM me please?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 14:23:49 -0800
+location: 33027

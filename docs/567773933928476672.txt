@@ -1,0 +1,7 @@
+567773933928476672
+Southwest
+@SouthwestAir My brother &amp; his girlfriend’s flight Cancelled Flightled 3 times, now leaving 72 hours Late Flight and dropping letter grades at school. Help?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 11:53:49 -0800
+location: Nashville, TN

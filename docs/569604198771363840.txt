@@ -1,0 +1,7 @@
+569604198771363840
+US Airways
+@USAirways it's unacceptable the way your agents at the gate treat paying customers!!!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 13:06:38 -0800
+location: World Wide

@@ -1,0 +1,7 @@
+569784114309693440
+American
+@AmericanAir Yep, was in one of my other camera memory card :D
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 01:01:33 -0800
+location: Left hand seat in flightdeck

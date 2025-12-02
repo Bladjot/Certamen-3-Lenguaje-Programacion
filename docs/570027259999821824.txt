@@ -1,0 +1,7 @@
+570027259999821824
+Delta
+@JetBlue ok is I hope thy the Bahamas next
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 17:07:44 -0800
+location: nan

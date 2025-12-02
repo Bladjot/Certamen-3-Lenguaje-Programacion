@@ -1,0 +1,7 @@
+568489782298476544
+Delta
+@JetBlue Then en route to the airport the rebooked ticket was refunded.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 11:18:20 -0800
+location: nan

@@ -1,0 +1,7 @@
+569980695184957441
+American
+@AmericanAir you should really explain customer service to your gate agent for 1152 at C4. Couldn't be bothered.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:02:42 -0800
+location: The Republic of Texas

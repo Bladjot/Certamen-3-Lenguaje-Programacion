@@ -1,0 +1,7 @@
+569679871707783168
+United
+@united @FernHeinig18 your delay is due to your own making. We have now been back to the gate multiple times. Maybe take accountability
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:07:20 -0800
+location: nan

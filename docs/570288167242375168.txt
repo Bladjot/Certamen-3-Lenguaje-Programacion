@@ -1,0 +1,7 @@
+570288167242375168
+American
+@AmericanAir delayed on the way to Puerto Rico and delayed on the way back to New York, this is disgraceful
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 10:24:29 -0800
+location: Brooklyn, NY and all over.

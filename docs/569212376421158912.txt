@@ -1,0 +1,7 @@
+569212376421158912
+US Airways
+@USAirways @AmericanAir Is there a way to reserve a veg meal online for a flight to Brazil tomorrow? I've been onhold for more than 1 hour.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 11:09:40 -0800
+location: Philly

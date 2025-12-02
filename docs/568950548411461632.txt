@@ -1,0 +1,7 @@
+568950548411461632
+United
+@united If someone misses his connecting flight because of the airline, and it was the last flight of the day, how will you fix it?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 17:49:15 -0800
+location: In & Around Chicago

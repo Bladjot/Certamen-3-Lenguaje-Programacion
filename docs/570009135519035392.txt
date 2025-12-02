@@ -1,0 +1,7 @@
+570009135519035392
+Southwest
+@SouthwestAir any word when the customer relations department will open back up?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 15:55:42 -0800
+location: Around...

@@ -1,0 +1,7 @@
+569523231524319232
+United
+@united. If you show available seats, you need to honor that! I shouldnt spend 1hr on phone to hear that "really there are 3 not 4 seats"
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:44:54 -0800
+location: nan

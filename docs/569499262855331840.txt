@@ -1,0 +1,7 @@
+569499262855331840
+US Airways
+@USAirways one question. Can I book one way tickets with award travel/points
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 06:09:39 -0800
+location: nan

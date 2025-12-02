@@ -1,0 +1,7 @@
+569621173811736576
+American
+@AmericanAir After 3 days NO BAGs amazing the way that you neglect customers
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 14:14:05 -0800
+location: nan

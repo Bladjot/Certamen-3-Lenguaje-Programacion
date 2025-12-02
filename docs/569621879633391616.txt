@@ -1,0 +1,7 @@
+569621879633391616
+American
+@AmericanAir no response to DM or email yet.  customer service?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:16:53 -0800
+location: on @TheJR

@@ -1,0 +1,7 @@
+569558235897688064
+Delta
+@JetBlue thanks! Have a good Sunday.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 10:03:59 -0800
+location: New Orleans, LA

@@ -1,0 +1,7 @@
+569683183161233408
+American
+@AmericanAir You should be more timely with bags that missed a flight, people need their undies the next morning!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 18:20:29 -0800
+location: Urbana, IL

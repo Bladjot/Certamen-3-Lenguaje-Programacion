@@ -1,0 +1,7 @@
+569684433218875392
+American
+@AmericanAir -- This is after you Cancelled Flightled our flight into Buffalo because of "weather" and lied to us and said other airlines Cancelled Flightled
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 18:25:27 -0800
+location: St. Catharines

@@ -1,0 +1,7 @@
+569557167411478528
+US Airways
+@USAirways pretty upset I drove from Philly to MHtT still no info on my bags. What's the deal!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 09:59:45 -0800
+location: Boston, MA

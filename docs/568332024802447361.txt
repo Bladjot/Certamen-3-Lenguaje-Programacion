@@ -1,0 +1,7 @@
+568332024802447361
+United
+@united loses my luggage and @hotelstonight loses my reservation. after a 10 hour travel day. I just want to get to @StartingBloc in the am!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 00:51:28 -0800
+location: Chicago, IL

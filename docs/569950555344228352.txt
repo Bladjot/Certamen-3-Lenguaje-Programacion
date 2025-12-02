@@ -1,0 +1,7 @@
+569950555344228352
+American
+@AmericanAir 77min still on hold to chg award travel #sorrynotsorry
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 12:02:56 -0800
+location: nan

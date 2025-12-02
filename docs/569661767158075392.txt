@@ -1,0 +1,7 @@
+569661767158075392
+United
+@united I honestly couldn't tell you. All I know is that originally we were going to have it brought in from the concourse
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 16:55:23 -0800
+location: nan

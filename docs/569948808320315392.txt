@@ -1,0 +1,7 @@
+569948808320315392
+Delta
+Who did this?!?!“@JetBlue: Our fleet's on fleek. http://t.co/kHZrCCyp2A”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:55:59 -0800
+location: dayton ohio

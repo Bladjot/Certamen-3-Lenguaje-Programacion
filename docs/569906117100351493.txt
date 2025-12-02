@@ -1,0 +1,7 @@
+569906117100351493
+American
+@AmericanAir So much for Status, EP and 1.5 million miles.  Revenue First class ticket and Im sitting in Coach thanks your rude CS staff
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:06:21 -0800
+location: nan

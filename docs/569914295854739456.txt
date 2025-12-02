@@ -1,0 +1,7 @@
+569914295854739456
+US Airways
+.@USAirways Can't book a flight online or over the phone. Your customer service is usually great -- anything you can do to help?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:38:51 -0800
+location: Washington DC

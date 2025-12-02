@@ -1,0 +1,7 @@
+570100233398571008
+American
+@AmericanAir Who do I report missing baggage to when baggage claim leaves before midnight?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 21:57:42 -0800
+location: Founder of #MovieChurch

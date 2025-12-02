@@ -1,0 +1,7 @@
+569857805483675648
+American
+@AmericanAir Still waiting news about my bags 48hrs already happened and this company don't give to the passengers any certain information
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 05:54:22 -0800
+location: Ando por el mundo

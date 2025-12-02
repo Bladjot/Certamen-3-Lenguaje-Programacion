@@ -1,0 +1,7 @@
+568564342150598656
+US Airways
+@USAirways HORRIBLE communication on delayed flight out of LGA!!!! I got 2 emails in seconds w different delay times!!!! HORRIBLE
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 16:14:37 -0800
+location: Pittsburgh, PA

@@ -1,0 +1,7 @@
+569901979151024129
+American
+@AmericanAir my flight to San Angelo via Dallas from Orlando Cancelled Flighted help! On hold and disconnect
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 08:49:54 -0800
+location: nan

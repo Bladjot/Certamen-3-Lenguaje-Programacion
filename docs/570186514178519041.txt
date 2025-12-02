@@ -1,0 +1,7 @@
+570186514178519041
+American
+@AmericanAir did that yesterday. On the phone with them now
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 03:40:33 -0800
+location: McKinney TX

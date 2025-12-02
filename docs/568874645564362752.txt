@@ -1,0 +1,7 @@
+568874645564362752
+Virgin America
+@VirginAmerica Thank you!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 12:47:39 -0800
+location: NY, NY

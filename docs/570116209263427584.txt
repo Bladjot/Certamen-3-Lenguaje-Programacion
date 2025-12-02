@@ -1,0 +1,7 @@
+570116209263427584
+United
+@united frankly worse customer service ever. Problems will happen, how you deal defines a company. Never again United.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 23:01:11 -0800
+location: nan

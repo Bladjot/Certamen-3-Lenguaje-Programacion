@@ -1,0 +1,7 @@
+568878121958694912
+United
+@united I requested an online refund option they denied saying the ticket was used, hope they understand the problem from your approach
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 13:01:28 -0800
+location: Baltimore, MD

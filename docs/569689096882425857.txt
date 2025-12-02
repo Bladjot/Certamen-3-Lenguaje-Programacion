@@ -1,0 +1,7 @@
+569689096882425857
+United
+@united why is it that Sundays when my husband travels to Chicago he's stuck at Tarmac &amp; misses connecting flight always
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:43:59 -0800
+location: nan

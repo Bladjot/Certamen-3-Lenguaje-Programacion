@@ -1,0 +1,7 @@
+568829891220803584
+Delta
+@JetBlue I'm looking every day just watching for a deal. I have specific dates so fare finder doesn't help me
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 09:49:49 -0800
+location: Rochester , N.Y

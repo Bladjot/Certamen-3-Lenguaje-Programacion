@@ -1,0 +1,7 @@
+567894808439570433
+United
+@united Direct Messaged you, didn't hear anything back
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 19:54:07 -0800
+location: Costa Mesa, CA

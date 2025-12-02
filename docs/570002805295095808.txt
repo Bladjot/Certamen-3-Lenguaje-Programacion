@@ -1,0 +1,7 @@
+570002805295095808
+American
+@AmericanAir I have a ticket that has been pending for 4 days. Is it normal to take that long?? I want to make sure there isn't a problem.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 15:30:33 -0800
+location: Ft. Lauderdale

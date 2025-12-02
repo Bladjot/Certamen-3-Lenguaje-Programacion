@@ -1,0 +1,7 @@
+570266265971003394
+Southwest
+@SouthwestAir Rapid Rewards program sold me short. #Lasttweetaboutthis but still #disappointed.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 08:57:27 -0800
+location: nan

@@ -1,0 +1,7 @@
+569302568020549632
+United
+@united is there another airport closer to Calgary we can fly out of tomorrow.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 17:08:04 -0800
+location: nan

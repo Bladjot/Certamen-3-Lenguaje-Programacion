@@ -1,0 +1,7 @@
+570065037231927296
+United
+@united where is my flight voucher?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 19:37:50 -0800
+location: nan

@@ -1,0 +1,7 @@
+569475000660422656
+United
+@united it can't be delivered. It has to be held there for me to cross the border to pick up. Please don't try to deliver.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 04:33:15 -0800
+location: Akron, Ohio

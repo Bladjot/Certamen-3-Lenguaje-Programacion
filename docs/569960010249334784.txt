@@ -1,0 +1,7 @@
+569960010249334784
+Delta
+@JetBlue We had some major plane-wide DirectTV issues yesterday. System kept being reset by crew member.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 12:40:30 -0800
+location: Boston, MA

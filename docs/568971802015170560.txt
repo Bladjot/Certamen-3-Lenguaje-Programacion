@@ -1,0 +1,7 @@
+568971802015170560
+United
+@united when will I hear? Guitar was damaged in December. I use my guitar to earn a living. Get your act together!
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-20 19:13:43 -0800
+location: Vancouver, Canada

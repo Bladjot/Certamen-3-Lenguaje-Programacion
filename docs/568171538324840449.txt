@@ -1,0 +1,7 @@
+568171538324840449
+US Airways
+@USAirways we haven't departed yet so let's not get too high hopes.  But everything has been on schedule so far
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 14:13:45 -0800
+location: Delray Beach, FL

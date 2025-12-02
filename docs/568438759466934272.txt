@@ -1,0 +1,7 @@
+568438759466934272
+Southwest
+@SouthwestAir sure can! Just a second.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 07:55:35 -0800
+location: Buffalo, NY

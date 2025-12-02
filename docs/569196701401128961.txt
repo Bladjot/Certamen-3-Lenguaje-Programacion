@@ -1,0 +1,7 @@
+569196701401128961
+US Airways
+@USAirways enormous lines at customer service and two agents what kind of service is that .. http://t.co/ffanixJhwh
+sentiment: negative
+negativereason: longlines
+created: 2015-02-21 10:07:23 -0800
+location: CT

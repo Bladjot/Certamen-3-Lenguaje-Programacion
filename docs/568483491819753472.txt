@@ -1,0 +1,7 @@
+568483491819753472
+Virgin America
+Bruh “@VirginAmerica: @giannilee Turn down for what. #VXSafetyDance”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 10:53:21 -0800
+location: VFILES DJ CHAMPION

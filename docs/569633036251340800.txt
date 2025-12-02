@@ -1,0 +1,7 @@
+569633036251340800
+Delta
+@JetBlue I have someone driving me, it's best to get a wheelchair once I get inside?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:01:13 -0800
+location: nan

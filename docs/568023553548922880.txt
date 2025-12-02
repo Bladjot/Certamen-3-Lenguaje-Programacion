@@ -1,0 +1,7 @@
+568023553548922880
+Delta
+@JetBlue no news here at the gate. What are my options?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 04:25:43 -0800
+location: nan

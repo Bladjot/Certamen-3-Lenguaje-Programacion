@@ -1,0 +1,7 @@
+568439748047581184
+Southwest
+@SouthwestAir . I don't like the new schedule. No more nonstops from PHL to FLL or PBI? We are not free to move between those cities. Sad.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 07:59:31 -0800
+location: florida

@@ -1,0 +1,7 @@
+568122064919527424
+Southwest
+@SouthwestAir Customer service said it was a known problem that they were using same confirmation numbers for domestic and international
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 10:57:10 -0800
+location: nan

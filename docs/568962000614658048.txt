@@ -1,0 +1,7 @@
+568962000614658048
+Delta
+“@JetBlue: @dlewis2412 Sorry! Please ask Inflght if there is an open seat you can move to.” Will do!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 18:34:46 -0800
+location: As global as possible

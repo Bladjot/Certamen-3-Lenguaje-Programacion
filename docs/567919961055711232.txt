@@ -1,0 +1,7 @@
+567919961055711232
+United
+@united even with the multiplier the ticket price will still never equal the amount of miles you travel, even for transatlantic flights!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 21:34:04 -0800
+location: So Cal

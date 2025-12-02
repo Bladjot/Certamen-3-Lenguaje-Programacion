@@ -1,0 +1,7 @@
+569681831039074306
+United
+@united Instead of sending inaccurate emails about delay every 5 min, just say we will get you there when we get you there.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:15:07 -0800
+location: nan

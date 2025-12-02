@@ -1,0 +1,7 @@
+568830255282040832
+Southwest
+@SouthwestAir  I will dm you now
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 09:51:15 -0800
+location: nan

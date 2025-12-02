@@ -1,0 +1,7 @@
+567733847132229632
+Delta
+@JetBlue Ok great thanks! I had a great flight, FYI. I'm excited to fly again. I just was frustrated I was not able to check in.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:14:31 -0800
+location: NY, NY

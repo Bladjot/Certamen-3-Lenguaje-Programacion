@@ -1,0 +1,7 @@
+569639294152806400
+United
+@united -- overFlight Booking Problems planes, Departing delayed, Returning for 'more quick fixes' &amp; breaking out attitudy-customer service? #worstairline
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:26:05 -0800
+location: Los Angeles

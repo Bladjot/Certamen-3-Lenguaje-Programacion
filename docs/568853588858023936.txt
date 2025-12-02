@@ -1,0 +1,7 @@
+568853588858023936
+Delta
+@JetBlue what is the reason for the delay
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 11:23:59 -0800
+location: nan

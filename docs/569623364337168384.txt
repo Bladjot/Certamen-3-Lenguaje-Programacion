@@ -1,0 +1,7 @@
+569623364337168384
+American
+@AmericanAir Always enjoy my time. Now on the plane to DFW!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 14:22:47 -0800
+location: Champaign/Urbana, IL

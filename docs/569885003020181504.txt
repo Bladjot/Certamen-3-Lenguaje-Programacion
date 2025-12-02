@@ -1,0 +1,7 @@
+569885003020181504
+US Airways
+@USAirways @AmericanAir taking off now. if I don't have a private jet to bora bora by the time I land, I'm calling Oprah
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:42:27 -0800
+location: BK

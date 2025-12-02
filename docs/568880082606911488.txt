@@ -1,0 +1,7 @@
+568880082606911488
+Southwest
+@SouthwestAir how many left?! I'm 15 min wway
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 13:09:15 -0800
+location: Hogwarts

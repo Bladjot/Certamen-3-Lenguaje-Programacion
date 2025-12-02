@@ -1,0 +1,7 @@
+570213389005414400
+Southwest
+@SouthwestAir can you tell me why you Cancelled Flightled the flight vs delay
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 05:27:20 -0800
+location: Minneapolis, MN

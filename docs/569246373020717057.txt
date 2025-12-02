@@ -1,0 +1,7 @@
+569246373020717057
+US Airways
+@USAirways ...be found when he checks in. Now no info. Please DM me and help me fix this NOW. (3/3)
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 13:24:46 -0800
+location: Asheville, NC

@@ -1,0 +1,7 @@
+569957703813976065
+American
+@AmericanAir You lost a customer today. Flight today was Cancelled Flightled and I had to find out by calling customer service yesterday.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 12:31:20 -0800
+location: nan

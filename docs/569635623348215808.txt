@@ -1,0 +1,7 @@
+569635623348215808
+United
+@united seriously what's with the slow #wifi on this flight! If the speed was going to change for the worse then the price shouldn't go up!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 15:11:30 -0800
+location: Everywhere

@@ -1,0 +1,7 @@
+568397325820956672
+Delta
+@JetBlue yes, with about 20 minutes to spare.  FYI - your employees are amazing.  Keep up the good work!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 05:10:57 -0800
+location: nan

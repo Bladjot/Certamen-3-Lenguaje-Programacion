@@ -1,0 +1,7 @@
+568134036239097856
+Delta
+@JetBlue Thank you for opening the conversation.  I hope you can make it right.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 11:44:44 -0800
+location: nan

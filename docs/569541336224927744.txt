@@ -1,0 +1,7 @@
+569541336224927744
+Delta
+@JetBlue thanks for making my vacation not worth it again... Currently waiting on the runway for another hour to DEPLANE
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 08:56:50 -0800
+location: New York City, NY

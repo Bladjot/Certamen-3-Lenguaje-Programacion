@@ -1,0 +1,7 @@
+568795875612463104
+United
+@united #4781 Cancelled Flightled. #5102newflight I will be upset if this one Cancelled Flights too. I could have rented a car if they would have been honest.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 07:34:39 -0800
+location: nan

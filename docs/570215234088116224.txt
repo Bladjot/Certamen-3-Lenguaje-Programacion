@@ -1,0 +1,7 @@
+570215234088116224
+US Airways
+@USAirways 1729 connecting in charlotte to houston. Mechanical issue determined while q'd to take off. And we checked our bags.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 05:34:40 -0800
+location: nan

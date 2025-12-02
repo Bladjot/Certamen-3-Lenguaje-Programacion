@@ -1,0 +1,7 @@
+568735994838589441
+United
+@united #flightdelay on an early craft arrival because pilot is stuck in traffic #fail #nocustomerservice #nocompensation
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 03:36:42 -0800
+location: santa barbara, CA

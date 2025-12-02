@@ -1,0 +1,7 @@
+569423132240556033
+Delta
+@JetBlue should I expect delays at dca for 7am departure?  Going to Orlando on flight 723
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 01:07:08 -0800
+location: Dayton, Ohio

@@ -1,0 +1,7 @@
+569191838579429377
+United
+@united DEN-PHX flight tomorrow Cancelled Flighted. Asked for overnight 2nite in LAX/SNA. Told not without paying. That's wrong
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 09:48:04 -0800
+location: Boise

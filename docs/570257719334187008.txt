@@ -1,0 +1,7 @@
+570257719334187008
+Southwest
+@SouthwestAir and Carol Thrower are passengers. Fort Lauderdale airport.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:23:29 -0800
+location: Fort Lauderdale

@@ -1,0 +1,7 @@
+568042973688139777
+United
+@united any chance you can troubleshoot check ins at @FlyYOW ? We're at 20 minutes per person.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 05:42:53 -0800
+location: Ottawa, Canada

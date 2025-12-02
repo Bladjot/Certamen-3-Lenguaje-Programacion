@@ -1,0 +1,7 @@
+569949946146742272
+American
+@AmericanAir i got a new reservation for tomorrow. Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 12:00:30 -0800
+location: KC

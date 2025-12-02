@@ -1,0 +1,7 @@
+569661662648610816
+American
+@AmericanAir I haven't been rebooked. I called and left my number for a callback but haven't heard anything and my flight is tomorrow. :(
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:54:58 -0800
+location: Lafayette, LA

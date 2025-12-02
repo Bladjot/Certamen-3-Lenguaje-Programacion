@@ -1,0 +1,7 @@
+569684917145223170
+US Airways
+@USAirways Chairman Preferred with 518,758 lifetime miles. What is my US Air reward, no #firstclass upgrades on @AmericanAir as usual.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 18:27:23 -0800
+location: North Carolina

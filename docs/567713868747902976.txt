@@ -1,0 +1,7 @@
+567713868747902976
+Southwest
+@SouthwestAir husband on hold 2.5 hrs, got disconnected!New wait 30 min. Can't confirm res due to the fact he booked on line! Nuts!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 07:55:08 -0800
+location: Rhode Island

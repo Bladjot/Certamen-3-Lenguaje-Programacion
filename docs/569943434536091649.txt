@@ -1,0 +1,7 @@
+569943434536091649
+US Airways
+@USAirways One of your workers was very rude with us. We can tell you in DM cuz it won't be any good publicity...
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 11:34:38 -0800
+location: TotalWorldJaxxination

@@ -1,0 +1,7 @@
+568475439460515840
+Delta
+@JetBlue flight attendant Wendi on Flt 127 on 2/17, Newark to Orlando.  👍👍
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 10:21:21 -0800
+location: nan

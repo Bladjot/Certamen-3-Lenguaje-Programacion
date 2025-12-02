@@ -1,0 +1,7 @@
+569559847131164672
+US Airways
+@USAirways @ClaudOakeshott how about a link that works pls Nothing but complete frustration w usair last 12 hrs
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 10:10:24 -0800
+location: nan

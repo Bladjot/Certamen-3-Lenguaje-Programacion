@@ -1,0 +1,7 @@
+570301130888122368
+Virgin America
+@VirginAmerica plus you've added commercials to the experience... tacky.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 11:15:59 -0800
+location: nan

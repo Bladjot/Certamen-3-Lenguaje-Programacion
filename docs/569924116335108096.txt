@@ -1,0 +1,7 @@
+569924116335108096
+Delta
+@JetBlue @BrandsSayingBae well here we go
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:17:52 -0800
+location: greater los angeles

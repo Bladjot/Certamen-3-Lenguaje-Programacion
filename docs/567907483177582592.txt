@@ -1,0 +1,7 @@
+567907483177582592
+Southwest
+@SouthwestAir Once again, I was able to change my flight without any fees... oh and the two free checked bags.  Best airline ever.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 20:44:29 -0800
+location: Duke University Class of 2018

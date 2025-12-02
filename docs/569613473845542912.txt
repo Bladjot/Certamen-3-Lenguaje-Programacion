@@ -1,0 +1,7 @@
+569613473845542912
+American
+@AmericanAir you think I haven't tried that multiple times?? The "status" of my bag is that it should've been here YESTERDAY. So disgusted.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 13:43:29 -0800
+location: Alexandria, VA

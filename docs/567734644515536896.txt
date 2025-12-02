@@ -1,0 +1,7 @@
+567734644515536896
+Delta
+@JetBlue why is my flight delayed 2.5 hours. This is insane. Every other flight has made it to NYC.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 09:17:41 -0800
+location: nan

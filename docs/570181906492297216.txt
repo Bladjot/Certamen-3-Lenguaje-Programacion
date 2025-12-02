@@ -1,0 +1,7 @@
+570181906492297216
+United
+@united is flight 587 from DFW to ORD currently on-time? I see an advisory that DFW may be affected by weather
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 03:22:14 -0800
+location: nan

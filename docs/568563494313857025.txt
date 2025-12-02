@@ -1,0 +1,7 @@
+568563494313857025
+United
+@united line is just getting longer and moving slower. Lady working the counter is doing great, she just needs help. #customerservicefail
+sentiment: negative
+negativereason: longlines
+created: 2015-02-19 16:11:15 -0800
+location: nan

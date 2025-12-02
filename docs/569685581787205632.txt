@@ -1,0 +1,7 @@
+569685581787205632
+United
+@united bummer but thank you for the quick response
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 18:30:01 -0800
+location: Vancouver, WA

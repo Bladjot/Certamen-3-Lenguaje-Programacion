@@ -1,0 +1,7 @@
+567875922906456064
+Delta
+@JetBlue Sure! Email screenshot below. Link: https://t.co/soiQrN19aj http://t.co/IbVvTzLS4E
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 18:39:05 -0800
+location: Boston

@@ -1,0 +1,7 @@
+569798946740166656
+American
+@AmericanAir @British_Airways 2 weeks ago today i arrived in miami and I still don't have my bag, absolute disgrace!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 02:00:29 -0800
+location: Glasgow / Scotland

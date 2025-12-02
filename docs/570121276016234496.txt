@@ -1,0 +1,7 @@
+570121276016234496
+American
+@AmericanAir I'll give a reward for whoever finds and returns to me on Thurs when I fly back thru @dfwairport. I ❤️ these earrings!!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 23:21:19 -0800
+location: Houston

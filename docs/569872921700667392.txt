@@ -1,0 +1,7 @@
+569872921700667392
+American
+@AmericanAir at LAX &amp; just got off the phone w/reservations. Every flight that'd get me to BOS before 11 am tmrw is apparently unavailable 😐
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 06:54:26 -0800
+location: Boston, MA

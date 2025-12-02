@@ -1,0 +1,7 @@
+567758007912906752
+Delta
+@JetBlue @roxydigital HAHA. you didn’t disappoint. Well done. #JVMChat
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 10:50:32 -0800
+location: Jersey City, NJ

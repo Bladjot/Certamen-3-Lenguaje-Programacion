@@ -1,0 +1,7 @@
+568910880416464897
+United
+@united all good man it isn't your fault that plane is having maintenance issues
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 15:11:38 -0800
+location: nan

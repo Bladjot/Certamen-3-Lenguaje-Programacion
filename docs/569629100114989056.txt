@@ -1,0 +1,7 @@
+569629100114989056
+American
+@AmericanAir first my sister had ZERO food in her cross country flight with no type of warning or voucher
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 14:45:35 -0800
+location: Los Angeles, CA

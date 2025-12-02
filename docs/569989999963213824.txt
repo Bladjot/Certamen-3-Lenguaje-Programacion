@@ -1,0 +1,7 @@
+569989999963213824
+US Airways
+@USAirways New marketing song? https://t.co/F2LFULCbQ7 let us know what you think? http://t.co/WbhbljJkS7
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:39:40 -0800
+location: Gold Coast, Australia

@@ -1,0 +1,7 @@
+570018079993937920
+United
+@united So you are inadequate by accident?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 16:31:15 -0800
+location: Chicago, IL

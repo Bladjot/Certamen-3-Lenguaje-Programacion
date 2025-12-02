@@ -1,0 +1,7 @@
+569631575819710464
+American
+@AmericanAir I've flown you many years without a complaint. You should start listening to your customers.  You went from first to worst
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:55:25 -0800
+location: nan

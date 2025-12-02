@@ -1,0 +1,7 @@
+569723892358467584
+United
+@united you advertise the flight and its still on you website and still can't be book. spent over 2 hours with united support
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 21:02:15 -0800
+location: H-town

@@ -1,0 +1,7 @@
+568645962425446401
+United
+@united hey, left my computer bag, w/computer inside, in United, filed online report, no response
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 21:38:57 -0800
+location: nan

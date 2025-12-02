@@ -1,0 +1,7 @@
+568639956622512128
+Southwest
+@SouthwestAir turned my non-stop flight between Laguardia/dal into a 1 stop in STL. WTH? I'm thinking some sorta comp is in order? REALLY?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 21:15:05 -0800
+location: nan

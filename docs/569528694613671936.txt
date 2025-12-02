@@ -1,0 +1,7 @@
+569528694613671936
+Delta
+@JetBlue That is not very gracious of @jetblue to tell me where I can go BUY water or a snack when our flight is delayed over 3 hours.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 08:06:36 -0800
+location: New York City

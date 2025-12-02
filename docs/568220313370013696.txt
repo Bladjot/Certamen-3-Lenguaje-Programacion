@@ -1,0 +1,7 @@
+568220313370013696
+Southwest
+@SouthwestAir Thanks for replying, I sen't my conf #! I love aviation and Southwest and all I wanted for my 18th was to fly SWA for the day!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 17:27:34 -0800
+location: Lake Buena Vista, Florida

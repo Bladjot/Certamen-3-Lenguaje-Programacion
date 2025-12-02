@@ -1,0 +1,7 @@
+567880664600698880
+Southwest
+@SouthwestAir Got it covered. Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 18:57:55 -0800
+location: CO to CA

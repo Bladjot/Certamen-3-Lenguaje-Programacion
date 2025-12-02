@@ -1,0 +1,7 @@
+568890960358166528
+United
+@united Love to report how horrible this flight is to your team. Let's make it worse...as they get to my seat...out of all snacks
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 13:52:29 -0800
+location: New York

@@ -1,0 +1,7 @@
+569740959610572800
+United
+@United Over the last week, United has provided me with the worst customer service experience of my life. Disgusting. #united
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 22:10:04 -0800
+location: St. Louis MO

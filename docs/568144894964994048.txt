@@ -1,0 +1,7 @@
+568144894964994048
+United
+@united I did not, my mind was on getting to the next flight.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 12:27:53 -0800
+location: Novi, MI

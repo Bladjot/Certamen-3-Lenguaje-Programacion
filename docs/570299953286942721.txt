@@ -1,0 +1,7 @@
+570299953286942721
+Virgin America
+@virginamerica Well, I didn't…but NOW I DO! :-D
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 11:11:19 -0800
+location: San Diego

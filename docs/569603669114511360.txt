@@ -1,0 +1,7 @@
+569603669114511360
+United
+@United is offering to reroute my SFO flight to LAX. Might be geography class time.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 13:04:32 -0800
+location: Bedford, NH

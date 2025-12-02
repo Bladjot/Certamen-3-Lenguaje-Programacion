@@ -1,0 +1,7 @@
+569936348217352194
+United
+@united 2 Cancelled Flighted flights Late Flightr, agent claimed she put me on a new flight but then Cancelled Flighted it. Coworker got on flight- now delayed. Now?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 11:06:28 -0800
+location: Washington D.C.

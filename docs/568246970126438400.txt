@@ -1,0 +1,7 @@
+568246970126438400
+US Airways
+@USAirways I found a flight I want on @CheapOair. Is my @AmericanAir AA Advantage # applicable to earn miles on it since you're merging?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 19:13:29 -0800
+location: NY/SoCal

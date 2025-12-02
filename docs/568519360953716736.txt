@@ -1,0 +1,7 @@
+568519360953716736
+Southwest
+@SouthwestAir Pres/CEO Gary Kelly at #TheRoFo addressing 2000 of his BWI based employees. @cbsbaltimore http://t.co/OI32uq2tTZ
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 13:15:52 -0800
+location: schuhm@wjz.com

@@ -1,0 +1,7 @@
+568185339245756416
+United
+@united flying tomorrow from mexico to US. Mileage tkts dont show 1k status. Help
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 15:08:35 -0800
+location: nan

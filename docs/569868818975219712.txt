@@ -1,0 +1,7 @@
+569868818975219712
+United
+@united Left item n the seatback on UA1260. Is there any way to call DCA to ask if they have the item? Already submitted lost &amp; found report
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 06:38:08 -0800
+location: Frequently DC/NYC/San Diego

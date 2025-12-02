@@ -1,0 +1,7 @@
+569346721173655552
+US Airways
+@USAirways 2 hours and counting waiting to get into a gate in Philadelphia. Just icing on the cake for a miserable flight experience
+sentiment: negative
+negativereason: longlines
+created: 2015-02-21 20:03:30 -0800
+location: CT

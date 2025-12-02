@@ -1,0 +1,7 @@
+570100214733737985
+United
+@united The bright side would be keeping the promise that was made to me. Hope you're having a good night. Thanks.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 21:57:37 -0800
+location: Boulder, CO

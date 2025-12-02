@@ -1,0 +1,7 @@
+569594026732740609
+American
+@AmericanAir ahhhh your silence is golden now.  This tops it all.  Anyone get fired?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:26:13 -0800
+location: nan

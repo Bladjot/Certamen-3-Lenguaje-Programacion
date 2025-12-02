@@ -1,0 +1,7 @@
+567688411289755648
+Southwest
+@SouthwestAir flight was Cancelled Flightled and it won't let me rebook online. Wait time on phone is too long. Please help
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 06:13:59 -0800
+location: nan

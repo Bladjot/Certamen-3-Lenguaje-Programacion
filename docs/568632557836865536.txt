@@ -1,0 +1,7 @@
+568632557836865536
+Delta
+@JetBlue Thank you guys! Brilliant customer service
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 20:45:41 -0800
+location: nan

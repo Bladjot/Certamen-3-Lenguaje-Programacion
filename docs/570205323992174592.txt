@@ -1,0 +1,7 @@
+570205323992174592
+Southwest
+@SouthwestAir i have asked Lindsey to call me instead of DM like a schoolgirl but so far no call   Getting tired of typing little notes
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 04:55:17 -0800
+location: nan

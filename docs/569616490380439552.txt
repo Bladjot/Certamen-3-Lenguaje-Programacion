@@ -1,0 +1,7 @@
+569616490380439552
+Virgin America
+@VirginAmerica best customer service rep in the world! #irmafromDallas takes the cake!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 13:55:28 -0800
+location: Los Angeles, CA

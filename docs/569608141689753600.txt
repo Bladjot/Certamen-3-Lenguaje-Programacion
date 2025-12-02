@@ -1,0 +1,7 @@
+569608141689753600
+US Airways
+@USAirways the ads on your phone systems when waiting for a rep is the most annoying thing ever especially when waiting for over 10 mins...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:22:18 -0800
+location: nan

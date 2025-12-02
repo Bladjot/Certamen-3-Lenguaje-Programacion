@@ -1,0 +1,7 @@
+569913838746742784
+US Airways
+@USAirways contact via FB messages, Twitter DM or text?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 09:37:02 -0800
+location: Stillwater, MN

@@ -1,0 +1,7 @@
+568926321369153536
+United
+@united Yes, filled out the form last year. Don't have case number handy. Guess I'm not cut out for the historical society afterall
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 16:12:59 -0800
+location: New York | Nomad

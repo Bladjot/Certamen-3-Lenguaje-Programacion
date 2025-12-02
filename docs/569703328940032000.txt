@@ -1,0 +1,7 @@
+569703328940032000
+United
+@united Why have you never held a plane for me? #HourDelay #MultipleDoorOpeningAndClosing #DangerOfGettingSnowedIn
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 19:40:32 -0800
+location: nan

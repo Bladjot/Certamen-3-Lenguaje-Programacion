@@ -1,0 +1,7 @@
+568854401802051584
+United
+@united Still waiting on our bag! Never got delivered yesterday. Can't reach a real person for help. Sending DM with ref number.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 11:27:12 -0800
+location: Someplace saving something

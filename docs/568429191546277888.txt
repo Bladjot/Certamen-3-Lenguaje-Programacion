@@ -1,0 +1,7 @@
+568429191546277888
+Southwest
+@SouthwestAir thank you for integrating with Passbook on iOS, it all works so much better now!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 07:17:34 -0800
+location: NY

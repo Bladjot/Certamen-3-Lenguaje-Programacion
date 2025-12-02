@@ -1,0 +1,7 @@
+570064025918115840
+American
+@AmericanAir Again you guys are a huge joke and Cancelled Flight your flight for no reason. This is the 3rd time in one trip for me that you have
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 19:33:49 -0800
+location: Belleville

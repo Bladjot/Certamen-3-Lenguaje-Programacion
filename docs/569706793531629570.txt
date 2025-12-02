@@ -1,0 +1,7 @@
+569706793531629570
+American
+@AmericanAir how nice it would be if you had helpful flight attendants instead of the rude nasty ones you employ. #WhyAreYouYelling
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 19:54:18 -0800
+location: Montgomery Al

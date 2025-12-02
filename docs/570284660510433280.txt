@@ -1,0 +1,7 @@
+570284660510433280
+American
+@AmericanAir what's the status of flight 1357 out of sju?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:10:33 -0800
+location: New York

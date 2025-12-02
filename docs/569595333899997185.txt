@@ -1,0 +1,7 @@
+569595333899997185
+American
+@AmericanAir I’ll play it by ear. I know that you are doing your best. Buy some chewey oatmeal cookies for your customer care folks.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:31:24 -0800
+location: North Saanich, BC

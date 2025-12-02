@@ -1,0 +1,7 @@
+568382790506389504
+US Airways
+@USAirways I paid for my seat.  I expect to be able to use my full seat
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 04:13:11 -0800
+location: Tacoma Washington

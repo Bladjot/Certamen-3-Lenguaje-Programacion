@@ -1,0 +1,7 @@
+568184886051389440
+United
+@united 3 phone reps. None could see I was rebooked so missed that flight.Told to go standby for a nonexistent Late Flightr flight. Did I hurt you?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 15:06:47 -0800
+location: nan

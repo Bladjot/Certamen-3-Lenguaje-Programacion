@@ -1,0 +1,7 @@
+568535677027028992
+United
+@united Donna and Juan still the best in the United Club_ too bad UAL does not get it
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 14:20:42 -0800
+location: nan

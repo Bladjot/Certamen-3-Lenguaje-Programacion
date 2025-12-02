@@ -1,0 +1,7 @@
+568228746697814016
+US Airways
+@USAirways it shouldn't take longer to get to the gate than the flight itself takes.... 59 minutes flying time - 47 minutes on runway so far
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 18:01:05 -0800
+location: nan

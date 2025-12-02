@@ -1,0 +1,7 @@
+569941344053018625
+Delta
+@JetBlue You respond to complaints about cultural appropriation with more of it!?  You're  now below Spirit Airlines on my fly list.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:26:20 -0800
+location: No soy de aquí ni soy de allá

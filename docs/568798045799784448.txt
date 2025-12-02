@@ -1,0 +1,7 @@
+568798045799784448
+Delta
+@JetBlue you guys rock!! http://t.co/LA397zaoAY
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 07:43:16 -0800
+location: Cambridge, MA

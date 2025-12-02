@@ -1,0 +1,7 @@
+569852657327738880
+American
+@AmericanAir Stuck in Miami, and one of the worst customer experiences I have ever had. Will be sure to let everyone know about my time w/AA
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 05:33:55 -0800
+location: nan

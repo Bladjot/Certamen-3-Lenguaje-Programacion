@@ -1,0 +1,7 @@
+568201125012353024
+Southwest
+@SouthwestAir I understand weather is not your fault, but as a frequent flyer I expected better customer service. I'll be trying @Delta
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 16:11:19 -0800
+location: nan

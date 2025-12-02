@@ -1,0 +1,7 @@
+569642267385798657
+American
+@AmericanAir Hmm. Looks like you looked at my tweet from last month, not this one. Was able to get U.K. agent to help me, thanks.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 15:37:54 -0800
+location: Tucson, Arizona

@@ -1,0 +1,7 @@
+570290334158225408
+American
+@AmericanAir thank you for the confirmation.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 10:33:05 -0800
+location: usa::fr::uk

@@ -1,0 +1,7 @@
+569921267601580032
+US Airways
+@USAirways Why did you put my luggage on the plane after mine? Then not deliver it to me like you said? Now show the claim as closed online?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 10:06:33 -0800
+location: nan

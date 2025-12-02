@@ -1,0 +1,7 @@
+569638585571221504
+American
+@AmericanAir sitting in a 2 hour long at least phone queue. Hoping I get things rebooked in time or at least some plastic wings. #tears
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:23:16 -0800
+location: Portland, Orygun

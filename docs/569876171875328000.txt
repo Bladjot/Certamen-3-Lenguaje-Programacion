@@ -1,0 +1,7 @@
+569876171875328000
+United
+@united thanks for the link, now finally arrived in Brussels, 9 h after schedule...
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 07:07:21 -0800
+location: Brussels

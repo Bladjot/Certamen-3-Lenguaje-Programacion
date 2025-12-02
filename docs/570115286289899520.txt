@@ -1,0 +1,7 @@
+570115286289899520
+American
+@AmericanAir yeah, buy me a @Delta plane ticket from San Diego to Detroit so I can fly one of their planes home tomorrow
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 22:57:31 -0800
+location: nan

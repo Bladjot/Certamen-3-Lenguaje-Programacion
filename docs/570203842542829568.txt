@@ -1,0 +1,7 @@
+570203842542829568
+Southwest
+@SouthwestAir three hour flight to Orlando and no wifi? Uncool. #firstworldproblems
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 04:49:24 -0800
+location: nan

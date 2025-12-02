@@ -1,0 +1,7 @@
+568175505314336768
+US Airways
+@USAirways  I have 3 times and no one has been able to help me out
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 14:29:31 -0800
+location: New York

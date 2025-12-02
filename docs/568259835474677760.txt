@@ -1,0 +1,7 @@
+568259835474677760
+United
+@united yes we are in EWR and it was corrected but just the fact the it was beought up for us to share rooms is unexpactable
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 20:04:37 -0800
+location: Seattle

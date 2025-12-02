@@ -1,0 +1,7 @@
+568372767810125825
+US Airways
+@USAirways you're the only airline that's not open sooner. It's not a confidence booster.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 03:33:22 -0800
+location: nan

@@ -1,0 +1,7 @@
+569960667140235264
+American
+@AmericanAir so whats the hold up on flight 4302?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:43:07 -0800
+location: Austin, TX.

@@ -1,0 +1,7 @@
+570076792993611776
+Virgin America
+@VirginAmerica this is great news!  America could start flights to Hawaii by end of year http://t.co/r8p2Zy3fe4 via @Pacificbiznews
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 20:24:33 -0800
+location: Texas

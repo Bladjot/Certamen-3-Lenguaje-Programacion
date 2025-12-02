@@ -1,0 +1,7 @@
+569228412159721473
+Delta
+@JetBlue I have an email that says I have to sign on to the travel bank?  How do I that?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 12:13:23 -0800
+location: Providence, RI

@@ -1,0 +1,7 @@
+569606093393010688
+American
+@AmericanAir are flights from Columbus Ohio to Dallas Texas Cancelled Flighted?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 13:14:10 -0800
+location: nan

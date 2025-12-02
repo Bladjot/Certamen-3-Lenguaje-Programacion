@@ -1,0 +1,7 @@
+567799259224940544
+Southwest
+@SouthwestAir can u get me on flt #3768 instead of #2522 rt now
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 13:34:27 -0800
+location: nan

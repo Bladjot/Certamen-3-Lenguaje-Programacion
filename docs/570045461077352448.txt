@@ -1,0 +1,7 @@
+570045461077352448
+American
+@AmericanAir is that the flight for tomorrow?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 18:20:03 -0800
+location: Minnesota

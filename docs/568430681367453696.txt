@@ -1,0 +1,7 @@
+568430681367453696
+Delta
+@JetBlue I spent over an hour of my morning on hold w/ your customer support. I want my confirmed flight to be taken care of
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 07:23:30 -0800
+location: Washington, DC

@@ -1,0 +1,7 @@
+567728481623359488
+US Airways
+@USAirways I expect something more than telling me to see an agent to rebook my flight...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 08:53:12 -0800
+location: MiamiHoustonDCHouston

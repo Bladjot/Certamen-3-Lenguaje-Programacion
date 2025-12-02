@@ -1,0 +1,7 @@
+569969374875881472
+American
+@AmericanAir now 2 hrs! Guess I should just hang up &amp; give up on using my award miles before prices jump? Hm thanks http://t.co/LE4H2gTzXZ
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:17:43 -0800
+location: Los Angeles, CA

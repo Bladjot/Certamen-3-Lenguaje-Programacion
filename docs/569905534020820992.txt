@@ -1,0 +1,7 @@
+569905534020820992
+United
+@united ,now you have Cancelled Flightled my wife and daughter's flt?? What's going on? Follow me so I can dm details.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 09:04:02 -0800
+location: Toronto, ON.....for now.

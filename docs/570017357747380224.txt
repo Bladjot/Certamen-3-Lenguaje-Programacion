@@ -1,0 +1,7 @@
+570017357747380224
+Southwest
+@SouthwestAir would someone please DM me the customer relations number. The website has only customer service.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 16:28:23 -0800
+location: Chicago

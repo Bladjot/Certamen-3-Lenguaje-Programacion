@@ -1,0 +1,7 @@
+567972174398689280
+Virgin America
+@VirginAmerica Had to spend 5 hours worrying that items in carryon would be broken/stolen since I couldn't carry them on plane or lock bag.
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-18 01:01:33 -0800
+location: nan

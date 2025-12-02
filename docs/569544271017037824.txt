@@ -1,0 +1,7 @@
+569544271017037824
+US Airways
+@USAirways Thanks to the friendly US Airways staff that helped me get booked on various flights to get home today.  Almost there!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 09:08:30 -0800
+location: Romansville, PA

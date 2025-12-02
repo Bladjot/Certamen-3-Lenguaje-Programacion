@@ -1,0 +1,7 @@
+569527524323151873
+United
+@united Yes. To Boston. I was going to Providence.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 08:01:57 -0800
+location: Rhode Island

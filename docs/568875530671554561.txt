@@ -1,0 +1,7 @@
+568875530671554561
+United
+@united exactly
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 12:51:10 -0800
+location: Baltimore, MD

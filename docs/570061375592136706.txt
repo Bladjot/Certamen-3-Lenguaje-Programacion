@@ -1,0 +1,7 @@
+570061375592136706
+Delta
+@JetBlue - I did that as soon as I realized. Will they try to figure out who is stealing from people's bags? Security cameras? Anything?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 19:23:17 -0800
+location: nan

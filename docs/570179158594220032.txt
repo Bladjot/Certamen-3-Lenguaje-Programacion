@@ -1,0 +1,7 @@
+570179158594220032
+United
+@united maybe one day you'll be the one quoted on http://t.co/mJkpgVXmPC
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 03:11:19 -0800
+location: nan

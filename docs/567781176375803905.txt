@@ -1,0 +1,7 @@
+567781176375803905
+US Airways
+@USAirways still can't get a real person on the phone to book a flight. Ready to just go with #jetblue since they care. #usairwayssucks
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-17 12:22:35 -0800
+location: Portland, ME

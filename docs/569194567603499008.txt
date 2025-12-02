@@ -1,0 +1,7 @@
+569194567603499008
+US Airways
+@USAirways Inexcusable behavior by gate agent. Sorry isn't enough. #Flight850 #CLT-#BNA
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 09:58:54 -0800
+location: NYC/Nashville

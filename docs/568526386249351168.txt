@@ -1,0 +1,7 @@
+568526386249351168
+United
+@united Club DEN, East or West, both are disgusting. http://t.co/XijYrPsLZK
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 13:43:47 -0800
+location: nan

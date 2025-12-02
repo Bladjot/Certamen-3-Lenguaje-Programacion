@@ -1,0 +1,7 @@
+569995335893848064
+American
+@AmericanAir boom. http://t.co/PzGc6Jch7n
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 15:00:52 -0800
+location: New York, NY

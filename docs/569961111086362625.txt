@@ -1,0 +1,7 @@
+569961111086362625
+American
+@AmericanAir the original receipt lists my flight cost as $89ish, and doesn't reflect the use of a voucher
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 12:44:52 -0800
+location: Charlottesville, VA

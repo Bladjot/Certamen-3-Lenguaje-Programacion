@@ -1,0 +1,7 @@
+569536910990950401
+Delta
+@JetBlue what happened to our plane meant to leave @ 830? Why do we have to wait for 1 from buffalo? Seems organizational error not weather.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 08:39:15 -0800
+location: New York

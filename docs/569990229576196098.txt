@@ -1,0 +1,7 @@
+569990229576196098
+American
+@AmericanAir thanks! I hope we get movies. Tv's were broke on the flight over
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 14:40:35 -0800
+location: nan

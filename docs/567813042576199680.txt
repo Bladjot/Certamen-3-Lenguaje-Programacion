@@ -1,0 +1,7 @@
+567813042576199680
+US Airways
+@USAirways yes I can pay out of pocket that us not helping me for loosing my first class ticket to coach.   I want resolution or a comp
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 14:29:13 -0800
+location: St. Louis, MO

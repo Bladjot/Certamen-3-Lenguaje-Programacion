@@ -1,0 +1,7 @@
+569565125344141312
+US Airways
+@USAirways should look into better service✌️
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 10:31:22 -0800
+location: nan

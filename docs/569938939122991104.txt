@@ -1,0 +1,7 @@
+569938939122991104
+US Airways
+@USAirways 4 segments, 4/4 delayed. Gnv &gt; CTL . CTL &gt; JAN . JAN &gt; CTL . CTL &gt; GNV. My year off from flying with you guys was the way to go.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 11:16:46 -0800
+location: nan

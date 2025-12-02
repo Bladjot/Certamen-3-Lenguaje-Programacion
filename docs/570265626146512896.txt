@@ -1,0 +1,7 @@
+570265626146512896
+American
+@AmericanAir actually, online indicates the only seating available is at a premium cost..why not allow seat selection at time of purchase
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 08:54:54 -0800
+location: nan

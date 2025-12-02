@@ -1,0 +1,7 @@
+568083224146149376
+US Airways
+@USAirways I've been trying for DAYS!  And I don't get hung up on until after I get through all the prompts.  What am I to do??
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 08:22:49 -0800
+location: nan

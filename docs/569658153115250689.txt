@@ -1,0 +1,7 @@
+569658153115250689
+American
+@AmericanAir rude gate agent by AA363 ORD-LGA just now. Seems to have a temper. Made me check in a bag that fit INSIDE the sizer.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 16:41:02 -0800
+location: Chicago, IL

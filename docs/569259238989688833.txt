@@ -1,0 +1,7 @@
+569259238989688833
+Southwest
+@SouthwestAir - holding us hostage for about an hour with no updates if they are taking us to NY or not. What's going @southwestair
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 14:15:53 -0800
+location: nan

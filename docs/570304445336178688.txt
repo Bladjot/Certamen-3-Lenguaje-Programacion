@@ -1,0 +1,7 @@
+570304445336178688
+US Airways
+@USAirways ok...i know doors close ~10 minutes before takeoff. stop telling me my flight will leave in 20 minutes when we haven't boarded.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 11:29:10 -0800
+location: Raleigh, NC

@@ -1,0 +1,7 @@
+568701051903336448
+United
+@united to top it all off, your flight attendants talked loudly throug the flight, even when the lights were dimmed. Resulting in no sleep
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 01:17:51 -0800
+location: nan

@@ -1,0 +1,7 @@
+569945451564277760
+Delta
+@JetBlue window exits give it away.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:42:39 -0800
+location: Logan International Airport

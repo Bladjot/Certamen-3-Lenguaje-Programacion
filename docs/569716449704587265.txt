@@ -1,0 +1,7 @@
+569716449704587265
+US Airways
+@USAirways now has stranded is in #Miami without updating any of the departure boards, and once they Cancelled Flightled the flight there was no...
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 20:32:41 -0800
+location: Philadelphia, PA

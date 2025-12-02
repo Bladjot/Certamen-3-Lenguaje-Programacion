@@ -1,0 +1,7 @@
+567722301471199232
+US Airways
+@USAirways Almost 4 hours and coin now. Understand higher call volume, but this is unacceptable.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 08:28:39 -0800
+location: Charlotte, North Carolina

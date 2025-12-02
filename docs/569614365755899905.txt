@@ -1,0 +1,7 @@
+569614365755899905
+Virgin America
+@VirginAmerica please provide status for flight 769.  I cant imagine it's on time as the Web indicates  dude to weather here and/or Dallas
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 13:47:02 -0800
+location: New York

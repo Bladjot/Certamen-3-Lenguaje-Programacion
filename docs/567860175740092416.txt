@@ -1,0 +1,7 @@
+567860175740092416
+US Airways
+@USAirways beware,  Barklays bank has terrible cust service. Will not assist, only know to go by badly written book(in English).
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 17:36:30 -0800
+location: nan

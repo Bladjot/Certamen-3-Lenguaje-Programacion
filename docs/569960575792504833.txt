@@ -1,0 +1,7 @@
+569960575792504833
+US Airways
+@USAirways if I apply for ur credit card, do you automatically get the companion certificate or do I have to wait for it?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:42:45 -0800
+location: nan

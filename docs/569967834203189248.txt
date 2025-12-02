@@ -1,0 +1,7 @@
+569967834203189248
+Delta
+@JetBlue three hours on s delayed flight staring a blank screen. At least a heads up so you could download a movie
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 13:11:35 -0800
+location: Brooklyn, NY

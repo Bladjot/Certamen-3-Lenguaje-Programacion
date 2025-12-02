@@ -1,0 +1,7 @@
+569667246026416130
+Southwest
+@SouthwestAir got mine!  Just in time for the wife and my 15th anniversary!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:17:10 -0800
+location: Austin, TX

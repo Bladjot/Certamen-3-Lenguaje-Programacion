@@ -1,0 +1,7 @@
+567928302725263360
+US Airways
+@USAirways @AmericanAir stranded in cold Texas and getting sick because you overbooked the flight and gave my seat away. #gooutofbusiness
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 22:07:13 -0800
+location: Los Angeles

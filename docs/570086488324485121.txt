@@ -1,0 +1,7 @@
+570086488324485121
+American
+Nice try @AmericanAir I heard your crew whisper "she's still at the hotel, she probably doesn't think she has to work until tomorrow"
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 21:03:05 -0800
+location: nan

@@ -1,0 +1,7 @@
+568442952176918528
+US Airways
+@USAirways of course! "Yeah, travel has gotten harder. Ask other passengers if they will switch" it's not the fact, it's the attitude!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-19 08:12:15 -0800
+location: Boston, MA

@@ -1,0 +1,7 @@
+568489413262610433
+Southwest
+@SouthwestAir do you have any flights from NAS-BWI ton March 23?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 11:16:52 -0800
+location: nan

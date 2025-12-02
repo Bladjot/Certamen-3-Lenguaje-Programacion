@@ -1,0 +1,7 @@
+569939156740149249
+American
+@AmericanAir I paid seat upgrade b4 the severe weather.  Got booked on another flight but did not get upgrade. Was calling to inquire. HELP!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 11:17:38 -0800
+location: nan

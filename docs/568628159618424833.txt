@@ -1,0 +1,7 @@
+568628159618424833
+Delta
+@JetBlue sorry for my misunderstanding of the term, but what does that exactly mean?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 20:28:12 -0800
+location: nan

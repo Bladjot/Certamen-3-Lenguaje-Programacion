@@ -1,0 +1,7 @@
+567830303121870848
+Delta
+@JetBlue Are departing flights from Boston heavily delayed? Flying out tomorrow morning ...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 15:37:48 -0800
+location: nan

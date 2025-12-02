@@ -1,0 +1,7 @@
+568434959226179585
+Delta
+@JetBlue is gettin fancy! #Mint #LieFlat Nice work on the menu @Saxonandparole #LobsterMac #BloodyMary #JetSetter http://t.co/zf5wjgtXzT
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 07:40:29 -0800
+location: NYC

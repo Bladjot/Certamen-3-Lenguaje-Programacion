@@ -1,0 +1,7 @@
+570305264613765122
+American
+@AmericanAir thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 11:32:25 -0800
+location: Los Angeles, CA

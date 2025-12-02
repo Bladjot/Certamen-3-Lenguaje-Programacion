@@ -1,0 +1,7 @@
+569248904866336768
+Southwest
+@SouthwestAir flight to PHL from FLL Cancelled Flighted 2/21 no flight available until 2/24 done with SW.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 13:34:49 -0800
+location: Havertown, Pa.

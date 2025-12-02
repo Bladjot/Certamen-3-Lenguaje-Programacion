@@ -1,0 +1,7 @@
+569966609080586240
+United
+Thank you “@united: @TRUU_Tall I can certainly take a look. Please follow and DM me your confirmation number for assistance. ^JH”
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 13:06:43 -0800
+location: IL

@@ -1,0 +1,7 @@
+568866106317746176
+Southwest
+@SouthwestAir @SAMoore10 Thank you for your kind response.  The acknowledgement and apology go a long way! #southwestrocks
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 12:13:43 -0800
+location: Austin, TX

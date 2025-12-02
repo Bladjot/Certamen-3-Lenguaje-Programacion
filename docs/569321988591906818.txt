@@ -1,0 +1,7 @@
+569321988591906818
+Southwest
+@SouthwestAir coming up on 10 hrs and all at the gate, not leaving and without my baggage. SWA you are my nightmare!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 18:25:14 -0800
+location: Tallahassee, FL

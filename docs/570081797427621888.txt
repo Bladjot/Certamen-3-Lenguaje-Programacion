@@ -1,0 +1,7 @@
+570081797427621888
+American
+@AmericanAir Is this a serious thread. Maybe you guys should re-read it. #fail
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 20:44:26 -0800
+location: nan

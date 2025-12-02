@@ -1,0 +1,7 @@
+569959601011068928
+American
+@AmericanAir flt 703, sorry scheduled at 545, phl-mia, a totally chaotic, poorly addressed event.  Sent to three gates in the night
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 12:38:52 -0800
+location: nan

@@ -1,0 +1,7 @@
+568527545097805824
+US Airways
+@USAirways what is the holdup? Should I be looking for another flight?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 13:48:24 -0800
+location: new yorker stranded in PA

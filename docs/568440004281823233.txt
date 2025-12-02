@@ -1,0 +1,7 @@
+568440004281823233
+US Airways
+@USAirways we on on the flight from phf to clt. At the terminal but can't get off plane yet. Need to get on iah flight.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 08:00:32 -0800
+location: nan

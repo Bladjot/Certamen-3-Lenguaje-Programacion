@@ -1,0 +1,7 @@
+568972136322375680
+United
+@united thank you.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 19:15:02 -0800
+location: nan

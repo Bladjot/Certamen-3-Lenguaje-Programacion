@@ -1,0 +1,7 @@
+568077464892628993
+Southwest
+@SouthwestAir No I have not.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 07:59:56 -0800
+location: nan

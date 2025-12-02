@@ -1,0 +1,7 @@
+567879888490868736
+Southwest
+@SouthwestAir my sister and her family had to drive 1200 miles because you did not accommodate a rebook in a timely manner! HORRIBLE
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 18:54:50 -0800
+location: CT

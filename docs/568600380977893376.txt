@@ -1,0 +1,7 @@
+568600380977893376
+United
+@united no, didn't notice I was 38A until start of boarding. Assumed I was 8E. By time boarding started, GAs had cleared standbys, full flt
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 18:37:49 -0800
+location: nan

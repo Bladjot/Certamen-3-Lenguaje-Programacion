@@ -1,0 +1,7 @@
+568054955967418368
+Southwest
+@SouthwestAir took delivery of N8661A, a new Boeing 737-8H4 yesterday. http://t.co/5z9STyUQJ3 #DFW #DAL #airlines
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 06:30:30 -0800
+location: DFW

@@ -1,0 +1,7 @@
+567895584625020928
+United
+@united That made me so mad, but then I called the bag number, and that person was helpful and told me where the bag really was. (2/2)
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 19:57:13 -0800
+location: Nashville, TN

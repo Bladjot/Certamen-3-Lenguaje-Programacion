@@ -1,0 +1,7 @@
+567755542362591233
+US Airways
+@USAirways No speciifc email. 1500 character limit for complaints. Is AA/US customer complaints adopting the twitter model?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 10:40:44 -0800
+location: nan

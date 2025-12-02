@@ -1,0 +1,7 @@
+569862449559527426
+American
+@AmericanAir I put a call back in at 1AM and still nothing at 8AM. You think you might get back to me?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:12:50 -0800
+location: Northwest Arkansas

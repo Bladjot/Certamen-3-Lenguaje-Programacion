@@ -1,0 +1,7 @@
+569325061892481024
+United
+@united please fire the captain of flight 6232 today. He single handedly ruined every passengers day by being a piece of shit. #unitedsucks
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 18:37:26 -0800
+location: nan

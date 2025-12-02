@@ -1,0 +1,7 @@
+568989460618203136
+United
+@united if I wait I'll lose the flight. So frustrating.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-20 20:23:53 -0800
+location: chicago IL

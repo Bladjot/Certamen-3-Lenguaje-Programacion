@@ -1,0 +1,7 @@
+567764411205439488
+United
+@united It is super frustrating that the folks at the United Ticket Counter in Pittsburg aren't honoring their own Media Rate! #unitedfail
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 11:15:58 -0800
+location: nan

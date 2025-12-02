@@ -1,0 +1,7 @@
+568024213753364480
+US Airways
+@USAirways @SDFAirport  I really needed to be back home yesterday and at work at 9am today. Been on plane and sitting for an hour #peeved
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 04:28:20 -0800
+location: washington, dc

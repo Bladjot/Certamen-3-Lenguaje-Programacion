@@ -1,0 +1,7 @@
+568592520659267584
+United
+@united LGJW7B. I voluntarily rerouted; 1st leg of journey was in economy and was supposed to be 8B. Res agent said she'd reserve it for me
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 18:06:35 -0800
+location: nan

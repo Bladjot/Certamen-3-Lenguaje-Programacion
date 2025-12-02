@@ -1,0 +1,9 @@
+569623164143185920
+American
+@AmericanAir 
+
+Late Flight from phoenix, gave ticks away when arrived chicago, held bags hostage chicago, rented van drove to toledo. 5 hr drive.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:22:00 -0800
+location: Rossford, Ohio

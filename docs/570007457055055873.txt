@@ -1,0 +1,7 @@
+570007457055055873
+Southwest
+@SouthwestAir oh no worries. Just have never seen that before until today. I mean…it is a great card 😀
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 15:49:02 -0800
+location: nan

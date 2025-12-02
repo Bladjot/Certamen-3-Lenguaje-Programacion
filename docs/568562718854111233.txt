@@ -1,0 +1,7 @@
+568562718854111233
+United
+@united flight was too heavy so had to fly BACK to Palm Springs (after being in the air for 30 mins)
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 16:08:10 -0800
+location: nan

@@ -1,0 +1,7 @@
+567936625453318144
+United
+@united hi JH. Yes please. Since I lost almost a whole day on the way out, could you help me change my return for one day Late Flightr?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 22:40:17 -0800
+location: NYC Area

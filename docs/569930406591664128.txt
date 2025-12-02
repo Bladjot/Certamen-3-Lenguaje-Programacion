@@ -1,0 +1,7 @@
+569930406591664128
+American
+@AmericanAir DM sent
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:42:52 -0800
+location: San Diego, CA

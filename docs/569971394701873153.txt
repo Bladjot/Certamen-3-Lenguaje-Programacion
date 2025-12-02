@@ -1,0 +1,7 @@
+569971394701873153
+United
+@united Nope. Walked up &amp; down the ORF terminal, &amp; not a United agent to be found. Showed up @ last minute to board us. Many panicked people
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:25:44 -0800
+location: Brooklyn

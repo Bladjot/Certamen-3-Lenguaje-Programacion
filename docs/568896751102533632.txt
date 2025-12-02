@@ -1,0 +1,7 @@
+568896751102533632
+US Airways
+@USAirways Almost home ...East Coast Freeze headed to PHL connect AVP TGIF http://t.co/WXowZhpgfL
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 14:15:29 -0800
+location: Terrapin Station

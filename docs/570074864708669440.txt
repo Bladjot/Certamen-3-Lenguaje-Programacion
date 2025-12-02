@@ -1,0 +1,7 @@
+570074864708669440
+United
+@united tag numbers 0016 964012, 0016 964077, 0016 964078 - let's find these bags.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 20:16:53 -0800
+location: mentor, Ohio

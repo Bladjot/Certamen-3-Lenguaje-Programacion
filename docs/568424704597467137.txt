@@ -1,0 +1,7 @@
+568424704597467137
+Delta
+@JetBlue TA off site at #thelodge. Should be a fun day. @YeniettElswood @AndrewBiga @CodyCleverly @HeidiMacey @motherpollock
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 06:59:45 -0800
+location: Salt Lake City, Utah

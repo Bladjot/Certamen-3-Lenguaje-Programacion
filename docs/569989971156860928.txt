@@ -1,0 +1,7 @@
+569989971156860928
+Delta
+@JetBlue App still saying I can't DM you...
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 14:39:33 -0800
+location: Los Angeles, Calif.

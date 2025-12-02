@@ -1,0 +1,7 @@
+568789267180331008
+US Airways
+@USAirways yes, I was rebooked the next day (Weds). Thanks. Just upset that I lost 2 additional work days AND paid for my own hotel. #losing
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 07:08:23 -0800
+location: Dixie State College

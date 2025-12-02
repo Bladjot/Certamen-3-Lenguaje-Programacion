@@ -1,0 +1,7 @@
+569601094239825920
+American
+Eliza &amp; I cheated on u @AmericanAir with @AirTahitiNui &amp; it was a lovely flight. But we'll be back! Lots!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 12:54:18 -0800
+location: Los Angeles, CA

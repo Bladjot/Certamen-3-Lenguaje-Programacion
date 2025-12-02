@@ -1,0 +1,7 @@
+569019132978405376
+Southwest
+@SouthwestAir how often are airplane seats/tray tables cleaned and sanitized? rather have air purifier and clean seats than #wifi 😷😱
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 22:21:47 -0800
+location: Texas

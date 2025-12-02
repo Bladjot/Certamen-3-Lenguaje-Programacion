@@ -1,0 +1,7 @@
+569887584861749250
+American
+@AmericanAir now because you couldn't add my ktn, which I asked for numerous times and no one answers the phone, I missed my flight!!#upset
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:52:42 -0800
+location: nan

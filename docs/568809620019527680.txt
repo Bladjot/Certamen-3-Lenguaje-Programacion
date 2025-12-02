@@ -1,0 +1,7 @@
+568809620019527680
+United
+@united crew has been notified, passenger moved but water not fixed. Now on tarmac two hours
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 08:29:16 -0800
+location: nan

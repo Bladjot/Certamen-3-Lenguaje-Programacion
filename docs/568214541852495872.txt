@@ -1,0 +1,7 @@
+568214541852495872
+Southwest
+@SouthwestAir i cant look up my confirmation number at the moment on mobile. the email is no longer in my inbox
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 17:04:38 -0800
+location: they/them

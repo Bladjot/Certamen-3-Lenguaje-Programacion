@@ -1,0 +1,7 @@
+570298918971576320
+United
+@united @CheerTymeDad So I can buy tix 3 days before flight but can't transfer the tix.  Flawed security logic. Flawed customer service
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 11:07:12 -0800
+location: nan

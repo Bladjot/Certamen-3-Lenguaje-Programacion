@@ -1,0 +1,7 @@
+568655789247762432
+United
+Really? 9+hours???? @united: @JenniferWalshPR We don't like delays and do all we can to avoid them. We'll have you on your way ASAP
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 22:17:59 -0800
+location: Houston

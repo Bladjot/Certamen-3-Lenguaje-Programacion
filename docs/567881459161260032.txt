@@ -1,0 +1,7 @@
+567881459161260032
+United
+@united so you told me to go, knowing what the issue was, only for me to go there and find out that you won’t fix it?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 19:01:05 -0800
+location: Washington DC

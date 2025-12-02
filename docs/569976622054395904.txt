@@ -1,0 +1,7 @@
+569976622054395904
+Southwest
+@SouthwestAir looks like Bellagio to me! Good luck people! See you at the show at Vinyl
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 13:46:31 -0800
+location: nan

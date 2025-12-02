@@ -1,0 +1,7 @@
+567703258425081857
+United
+.@united call my work and tell them it's your fault I'm Late Flight
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 07:12:58 -0800
+location: grand rapids, michigan

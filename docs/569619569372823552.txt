@@ -1,0 +1,7 @@
+569619569372823552
+Virgin America
+@VirginAmerica why can't we book seats on your flights when we buy them or even during check in? Creates so much anxiety! #frustrated
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 14:07:43 -0800
+location: Providence, RI

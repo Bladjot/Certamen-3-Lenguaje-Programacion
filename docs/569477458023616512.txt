@@ -1,0 +1,7 @@
+569477458023616512
+US Airways
+@USAirways why don't you hire people to deal with the call volume, this is absolute garbage #incompetent
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 04:43:01 -0800
+location: iPhone: 39.285219,-76.622649

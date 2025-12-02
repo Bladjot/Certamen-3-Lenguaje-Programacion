@@ -1,0 +1,7 @@
+568231725970505728
+Delta
+@JetBlue The 13th Annual Martha's Vineyard African American Film Festival  August 10-15, 2015   Our attendees deserve a great flight to MV??
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 18:12:55 -0800
+location: New York

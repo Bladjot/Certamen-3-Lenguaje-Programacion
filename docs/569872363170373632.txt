@@ -1,0 +1,7 @@
+569872363170373632
+Southwest
+@SouthwestAir what to do when you show up to your destination with no clothes in your suitcase? #nakedmeetings #awkward
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 06:52:13 -0800
+location: nan

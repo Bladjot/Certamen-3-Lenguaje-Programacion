@@ -1,0 +1,7 @@
+569948411966976000
+American
+@AmericanAir but my friend was told she was able to use her credit with the airline towards one of my flights, then was told she couldn't.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:54:25 -0800
+location: nan

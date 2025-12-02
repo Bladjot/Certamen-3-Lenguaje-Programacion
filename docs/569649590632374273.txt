@@ -1,0 +1,7 @@
+569649590632374273
+US Airways
+@USAirways @Truthh4 they didn't give you the wifi password? Smh
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 16:07:00 -0800
+location: united states georgia

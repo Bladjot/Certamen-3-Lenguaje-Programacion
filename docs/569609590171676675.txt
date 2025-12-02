@@ -1,0 +1,7 @@
+569609590171676675
+American
+@AmericanAir an hour at baggage carousel and still no luggage?? Nail in the coffin.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 13:28:03 -0800
+location: Los Angeles, CA

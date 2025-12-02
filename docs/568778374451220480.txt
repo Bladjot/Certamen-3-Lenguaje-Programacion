@@ -1,0 +1,7 @@
+568778374451220480
+Delta
+@JetBlue CCNDJP/ I can send a screen shot of the systems error if an email address is provided
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 06:25:06 -0800
+location: New York, NY

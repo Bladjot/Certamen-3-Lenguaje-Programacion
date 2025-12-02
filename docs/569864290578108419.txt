@@ -1,0 +1,7 @@
+569864290578108419
+United
+@united You can't control turbulence, but you can control customer experience, lot of scared people up here.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 06:20:09 -0800
+location: Stumptown, Baby!

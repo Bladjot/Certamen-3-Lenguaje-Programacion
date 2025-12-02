@@ -1,0 +1,7 @@
+569662113989439488
+American
+@AmericanAir now I have to pay for a hotel a car ride miss classes which I pay 30k for and miss work and you tell me to talk to someone
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:56:46 -0800
+location: nan

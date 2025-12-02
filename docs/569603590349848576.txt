@@ -1,0 +1,7 @@
+569603590349848576
+American
+@AmericanAir @ejacqui If you updated the screens, then people would know the Late Flightst info, good or bad. And that wouldn't work because...
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 13:04:13 -0800
+location: Pekin

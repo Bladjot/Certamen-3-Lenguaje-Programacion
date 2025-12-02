@@ -1,0 +1,7 @@
+568438000843034624
+Southwest
+THANKS to @SouthwestAir , I get to go to the #DestinationDragons @Imaginedragons show this weekend in UTAH @VelourLive  !!! #ThankYou
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 07:52:35 -0800
+location: nan

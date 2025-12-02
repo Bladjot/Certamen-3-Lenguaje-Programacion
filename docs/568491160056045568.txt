@@ -1,0 +1,7 @@
+568491160056045568
+Southwest
+@SouthwestAir Don't worry, you will! :-)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 11:23:49 -0800
+location: Denver, CO. USA

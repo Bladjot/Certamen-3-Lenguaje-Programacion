@@ -1,0 +1,7 @@
+569969714245431296
+US Airways
+@USAirways we had a friend there telling the gate attendant and the stewardess what was going on #notourfaultyoudontuseyourgatesright
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 13:19:04 -0800
+location: Does it really matter

@@ -1,0 +1,7 @@
+567879304593408001
+Southwest
+@SouthwestAir can't believe how many paying customers you left high and dry with no reason for flight Cancelled Flightlations Monday out of BDL! Wow.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 18:52:31 -0800
+location: CT

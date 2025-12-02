@@ -1,0 +1,9 @@
+569144056305074176
+United
+@united thank you.
+It's my daughters 13th bd party w/proj. weather cond, it doesn't look promising.
+Please assist with earlier flts to Cmh?
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 06:38:11 -0800
+location: nan

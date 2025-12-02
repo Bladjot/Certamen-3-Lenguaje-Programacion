@@ -1,0 +1,7 @@
+568856905445199872
+Southwest
+@SouthwestAir I have a credit that expires a month before my flight, is there any possible way I can have that extended?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 11:37:09 -0800
+location: Sittin on the dock of the bay

@@ -1,0 +1,7 @@
+569751096580812801
+United
+@united doesn't help the 100 or more passengers that just arrived an hour Late Flight.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 22:50:21 -0800
+location: nan

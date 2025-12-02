@@ -1,0 +1,7 @@
+568894341243998208
+Southwest
+@SouthwestAir so excited about our last minute trip to @Disneyland (and she doesn't know yet!) http://t.co/nKAFbjyARi
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 14:05:55 -0800
+location: Texas

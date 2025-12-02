@@ -1,0 +1,7 @@
+570014685166219264
+Southwest
+@SouthwestAir you Cancelled Flightled my flight and now I am in the back of the queue and you want to charge me 200  for business class? Stay classy
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 16:17:45 -0800
+location: Washington DC

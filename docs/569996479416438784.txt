@@ -1,0 +1,7 @@
+569996479416438784
+American
+@AmericanAir why can't @dfwairport have the capability to spread salt on a runway?!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 15:05:25 -0800
+location: Dallas, TX, USA

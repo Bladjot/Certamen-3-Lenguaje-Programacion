@@ -1,0 +1,7 @@
+567752542491516928
+United
+@united @NY_NJairports Only at Newark can you land 15 minutes early but lose all that time waiting on tarmac for a gate.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 10:28:49 -0800
+location: Northwestern NJ

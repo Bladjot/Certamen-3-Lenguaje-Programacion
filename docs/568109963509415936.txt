@@ -1,0 +1,7 @@
+568109963509415936
+United
+@united When will that happen? It really confuses when the 1st content to come on the 6in screens is about how technology forward United is.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 10:09:04 -0800
+location: Amsterdam NL

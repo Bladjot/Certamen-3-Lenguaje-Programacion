@@ -1,0 +1,7 @@
+570046387825410048
+American
+@AmericanAir my 2498 to CLT left the gate. What is next for CLT. Need help
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 18:23:44 -0800
+location: Charlotte, NC

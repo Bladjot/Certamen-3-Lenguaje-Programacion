@@ -1,0 +1,7 @@
+569877301959065600
+American
+@AmericanAir @andyellwood @delk lol. I was sure I'd wake up to more of a response than this half-thought auto tweet. hope you made it out.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:11:51 -0800
+location: San Francisco, CA

@@ -1,0 +1,7 @@
+568615063738646528
+United
+@united not once did #US3645 leave #ORD on time this week #shameful
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 19:36:10 -0800
+location: Ottawa/St.Louis

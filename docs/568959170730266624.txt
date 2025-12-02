@@ -1,0 +1,7 @@
+568959170730266624
+Delta
+@JetBlue I'm on flt 700 lax to FLL both ppl are sleeping so Id rather not disturb in flight. Tried to dl movie no go http://t.co/Nh2i9ZlzMk
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 18:23:31 -0800
+location: Ft. Lauderdale

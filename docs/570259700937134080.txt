@@ -1,0 +1,7 @@
+570259700937134080
+American
+“@AmericanAir: Bet these birds wish they'd flown south for the #winter... http://t.co/tY9C0Gae2o” Lol
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:31:22 -0800
+location: Dallas, Texas

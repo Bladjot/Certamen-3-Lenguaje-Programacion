@@ -1,0 +1,7 @@
+570280653389996034
+US Airways
+@USAirways how can a person go from number one on a standby list to number twelve in three hours?  Should I be super platinum diamond status
+sentiment: negative
+negativereason: longlines
+created: 2015-02-24 09:54:37 -0800
+location: Cleveland

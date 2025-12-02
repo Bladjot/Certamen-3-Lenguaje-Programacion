@@ -1,0 +1,7 @@
+568790795253186560
+US Airways
+@USAirways never let's me down, every. Single. Flight. Gets delayed.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 07:14:27 -0800
+location: nan

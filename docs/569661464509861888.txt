@@ -1,0 +1,7 @@
+569661464509861888
+American
+@AmericanAir Same as yesterday's Cancelled Flighted flight. AA104. Your customer support is just awful!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 16:54:11 -0800
+location: UK

@@ -1,0 +1,7 @@
+569887310713479168
+Virgin America
+@VirginAmerica your no Late Flight bag check just lost you my business. I missed flight and AM apt. Three other people on flight had same exp.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 07:51:37 -0800
+location: nan

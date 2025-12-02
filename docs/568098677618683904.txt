@@ -1,0 +1,7 @@
+568098677618683904
+Delta
+@JetBlue Only middle seats. SFO -&gt; BOS. Not fun. She keeps getting $10 credits. Would much rather have a working TV.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 09:24:14 -0800
+location: nan

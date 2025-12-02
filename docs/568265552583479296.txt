@@ -1,0 +1,7 @@
+568265552583479296
+Virgin America
+@VirginAmerica when are you flying to hawaii
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 20:27:20 -0800
+location: nan

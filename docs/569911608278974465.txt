@@ -1,0 +1,7 @@
+569911608278974465
+American
+@AmericanAir You didn't call, did you. Try it, and then you'll understand.  It's not possible to reach an agent,I don't know what else to do
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:28:10 -0800
+location: nan

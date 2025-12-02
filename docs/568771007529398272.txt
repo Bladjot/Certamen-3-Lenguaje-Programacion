@@ -1,0 +1,7 @@
+568771007529398272
+United
+@United to start 3xdaily @EmbraerSA #ERJ145 flights from #Chicago @fly2ohare to #Evansville on 4JUN #avgeek
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 05:55:50 -0800
+location: Abu Dhabi

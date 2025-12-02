@@ -1,0 +1,7 @@
+570081695342309377
+American
+@AmericanAir now on 5th plane of the day. First 4 all taken out of svc. Scheduled dep 3 p.m. Still on ground ORD 10:45pm
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 20:44:02 -0800
+location: nan

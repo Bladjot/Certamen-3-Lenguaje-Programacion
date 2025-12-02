@@ -1,0 +1,7 @@
+569619752399667200
+American
+@AmericanAir flight 1041 is the first flight.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 14:08:26 -0800
+location: nan

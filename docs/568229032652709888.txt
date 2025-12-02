@@ -1,0 +1,7 @@
+568229032652709888
+United
+@united Hopefully They will give me a feedback, bafore my flight...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 18:02:13 -0800
+location: Curitiba

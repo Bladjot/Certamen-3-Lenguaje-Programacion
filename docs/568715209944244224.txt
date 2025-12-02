@@ -1,0 +1,7 @@
+568715209944244224
+US Airways
+@USAirways 7+ hrs stranded in DCA...zero apologies and the worst customer service. Been a faithful traveler for 15+ years, but no more!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 02:14:06 -0800
+location: nan

@@ -1,0 +1,7 @@
+569334621252526080
+Southwest
+@SouthwestAir your phone lines suck. I have a dilemma.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 19:15:26 -0800
+location: Beysus

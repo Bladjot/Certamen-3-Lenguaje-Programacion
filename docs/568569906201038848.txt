@@ -1,0 +1,7 @@
+568569906201038848
+US Airways
+@USAirways @AskPayPal When will it be marked "completed". I'm scared I'm going to lose my reservation or my money is going to be refunded.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 16:36:43 -0800
+location: On my phone, USA

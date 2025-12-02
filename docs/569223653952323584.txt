@@ -1,0 +1,7 @@
+569223653952323584
+US Airways
+@USAirways I called twice the recording says that it has being delivered to my apt but it is not here ?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 11:54:29 -0800
+location: GLOBAL CITIZEN

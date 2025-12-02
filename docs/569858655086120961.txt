@@ -1,0 +1,7 @@
+569858655086120961
+American
+.@AmericanAir @C2Next Would be great to get some help too! I've been trying since last night to get through.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 05:57:45 -0800
+location: Texas

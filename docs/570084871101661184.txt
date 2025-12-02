@@ -1,0 +1,7 @@
+570084871101661184
+US Airways
+@USAirways  My tweet gets me a response to email dmsc@usairways.com
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 20:56:39 -0800
+location: nan

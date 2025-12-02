@@ -1,0 +1,7 @@
+569733719256272896
+American
+@AmericanAir please DM me a way to get in touch with someone that can help. I'm platinum AA and considering quitting AA BC of this.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 21:41:18 -0800
+location: nan

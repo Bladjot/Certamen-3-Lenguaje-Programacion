@@ -1,0 +1,7 @@
+570015527961272321
+American
+@AmericanAir trying to change flight via DFW tomorrow, can't get thru on phone, long wait then cut off x2, can you help please?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 16:21:06 -0800
+location: South Wales

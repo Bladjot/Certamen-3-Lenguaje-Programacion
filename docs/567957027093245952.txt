@@ -1,0 +1,7 @@
+567957027093245952
+United
+@united am I allowed to bring a duffle bag and back pack as my carry on and personal item? Flying out of NY
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 00:01:22 -0800
+location: nan

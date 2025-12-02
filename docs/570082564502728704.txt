@@ -1,0 +1,7 @@
+570082564502728704
+United
+@united seriously #fail on making strangers share a room
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 20:47:29 -0800
+location: Ottawa, Canada

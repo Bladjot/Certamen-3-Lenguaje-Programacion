@@ -1,0 +1,7 @@
+570255773651099648
+American
+@AmericanAir well have all day and all the time in the world
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 08:15:45 -0800
+location: my top secret gaming facility

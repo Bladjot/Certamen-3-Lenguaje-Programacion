@@ -1,0 +1,7 @@
+569561225488678913
+US Airways
+@USAirways what's your pet policy?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 10:15:52 -0800
+location: East Lansing

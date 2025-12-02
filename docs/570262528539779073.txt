@@ -1,0 +1,7 @@
+570262528539779073
+American
+@AmericanAir hook me up with a free trip to Barbados and I will tell you the secret beaches to see
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:42:36 -0800
+location: JAWJA

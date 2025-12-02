@@ -1,0 +1,7 @@
+568575417650679808
+United
+@united thanks for the 2hr delay and then no ground crew when we landed. At least you didn't break my http://t.co/GCWVFuopl2
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 16:58:37 -0800
+location: Hoboken, NJ

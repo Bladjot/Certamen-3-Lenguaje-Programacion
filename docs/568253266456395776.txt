@@ -1,0 +1,7 @@
+568253266456395776
+Delta
+@JetBlue Flight 1951. Bags haven't come and we landed 30 minutes ago.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 19:38:31 -0800
+location: Boston, MA

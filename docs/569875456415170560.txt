@@ -1,0 +1,7 @@
+569875456415170560
+United
+@united Hi! what is the phone number for reservations in Venezuela? Thanks
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:04:31 -0800
+location: Barquisimeto - Maracaibo

@@ -1,0 +1,7 @@
+568457722909368320
+US Airways
+@USAirways that's where we are now. Thank you.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 09:10:57 -0800
+location: nan

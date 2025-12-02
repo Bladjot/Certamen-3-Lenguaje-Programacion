@@ -1,0 +1,7 @@
+570015373447159808
+US Airways
+@USAirways 1500 characters are not enough to convey the issue. Was directed to emailmailto:customer.relations@usairways.com unmonitored. BAD
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 16:20:30 -0800
+location: Las Vegas, NV

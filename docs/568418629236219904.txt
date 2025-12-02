@@ -1,0 +1,7 @@
+568418629236219904
+Southwest
+@SouthwestAir well, it was fun while it lasted. Not happy about the change to redeeming reward points. Won't be loyal anymore.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 06:35:36 -0800
+location: Michigan

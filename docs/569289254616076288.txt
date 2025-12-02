@@ -1,0 +1,7 @@
+569289254616076288
+US Airways
+@USAirways I was calling before I left, and as it turns out @united answered their phones instead and they rebooked my USAir flight.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 16:15:09 -0800
+location: oakland , ca

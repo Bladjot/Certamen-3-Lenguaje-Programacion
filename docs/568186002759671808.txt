@@ -1,0 +1,7 @@
+568186002759671808
+Delta
+@JetBlue so why do you put this at the bottom of ur baggage report? For fun? #JetBlue @airlinequality #skytrax http://t.co/tU9JX2jaZN
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-18 15:11:14 -0800
+location: ÜT: 40.96513,-73.872957

@@ -1,0 +1,7 @@
+568524186185961473
+US Airways
+@USAirways 25+ min. Hung up. Always awful having to call Reservations there.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 13:35:03 -0800
+location: Miami, FL

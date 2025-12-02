@@ -1,0 +1,7 @@
+569661113593425920
+US Airways
+@USAirways @PHLAirport how can a plane scheduled to come in on time and actually happen. Then you bozos don't have any room us. #incompetent
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 16:52:47 -0800
+location: Does it really matter

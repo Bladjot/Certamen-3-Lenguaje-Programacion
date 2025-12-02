@@ -1,0 +1,7 @@
+569579474762608640
+United
+@united, no. Re-booked with American and United said they'd transfer our bags to them.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 11:28:23 -0800
+location: STL

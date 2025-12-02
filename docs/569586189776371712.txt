@@ -1,0 +1,7 @@
+569586189776371712
+Delta
+@JetBlue thanks for replying-I feel a little better we'll see how it goes ☺️✈️
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 11:55:04 -0800
+location: the burg nj

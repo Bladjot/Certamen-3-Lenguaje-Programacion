@@ -1,0 +1,7 @@
+569673913892003840
+US Airways
+@USAirways why does this flight keep getting delayed Late Flightr and Late Flightr?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:43:39 -0800
+location: Washington, D.C.

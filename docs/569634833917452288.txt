@@ -1,0 +1,7 @@
+569634833917452288
+United
+@united when I click that link it wants my flight info. I haven't booked a flight yet. I read you waive fees for military, it this true?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:08:22 -0800
+location: nan

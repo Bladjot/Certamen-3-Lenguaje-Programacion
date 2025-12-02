@@ -1,0 +1,7 @@
+570296516314845185
+US Airways
+@USAirways thanks for making me miss my meeting in Dallas. 700 dollars down the toilet 😊
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 10:57:39 -0800
+location: nan

@@ -1,0 +1,7 @@
+568430198254747649
+Southwest
+@SouthwestAir @thirty_lives birthday is the 24th and he's not seeing Imagine Dragons at #DestinationDragons ?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 07:21:34 -0800
+location: nan

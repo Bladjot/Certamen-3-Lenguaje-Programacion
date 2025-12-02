@@ -1,0 +1,7 @@
+569769525744250880
+American
+@AmericanAir FINALLY called me back... BUT HASN'T SPOKEN TO ME.  Like the worst prank call EVER!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 00:03:35 -0800
+location: Arkansas

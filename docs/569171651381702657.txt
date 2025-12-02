@@ -1,0 +1,7 @@
+569171651381702657
+US Airways
+@USAirways gold desk quoting me $900 to rebook due to weather. Can buy first seat on same flight for $440. Why? On hold for 45+ mins now
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 08:27:51 -0800
+location: Washington, DC

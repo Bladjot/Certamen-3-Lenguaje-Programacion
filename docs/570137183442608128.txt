@@ -1,0 +1,7 @@
+570137183442608128
+Delta
+@JetBlue sure is 💙
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 00:24:31 -0800
+location: NYC

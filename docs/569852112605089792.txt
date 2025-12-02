@@ -1,0 +1,7 @@
+569852112605089792
+American
+@AmericanAir @MurphyJulie it took them 6 hours to call me back. Then it disconnected twice. 😢 I'll never get back to work
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 05:31:45 -0800
+location: Bentonville  Arkansas

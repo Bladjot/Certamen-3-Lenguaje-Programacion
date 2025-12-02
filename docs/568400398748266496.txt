@@ -1,0 +1,7 @@
+568400398748266496
+Delta
+@JetBlue False - agent let us do an extra leg room upgrade for $ but not upgrade to mint. Poor business practices. #badcustomerservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 05:23:10 -0800
+location: nan

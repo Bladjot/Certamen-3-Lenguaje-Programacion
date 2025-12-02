@@ -1,0 +1,7 @@
+569929141962698752
+American
+@AmericanAir HELP! Attempting to Cancelled Flight a flight but can't get thru 800 number. Call gets dropped when saying Agent. flight is 2/24.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:37:50 -0800
+location: nan

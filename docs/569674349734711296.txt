@@ -1,0 +1,7 @@
+569674349734711296
+Delta
+@JetBlue by far the worst airline in terms of service at jfk.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 17:45:23 -0800
+location: indoors

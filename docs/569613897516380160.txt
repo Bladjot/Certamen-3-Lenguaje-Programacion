@@ -1,0 +1,7 @@
+569613897516380160
+US Airways
+@USAirways if you are going to make me wait in the phone for a long time can you at least turn off the ads they are eating away at my soul
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:45:10 -0800
+location: nan

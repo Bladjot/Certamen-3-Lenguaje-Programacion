@@ -1,0 +1,7 @@
+569659317458243584
+American
+@AmericanAir this is ridiculous! You all really have terrible customer service and a lack of urgency. Im convinced.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:45:39 -0800
+location: NYCATL

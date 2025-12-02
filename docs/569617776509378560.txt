@@ -1,0 +1,7 @@
+569617776509378560
+Delta
+@JetBlue woof I'm on the red cArpet http://t.co/iIdrbLNOoX
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 14:00:35 -0800
+location: New York, NY

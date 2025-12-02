@@ -1,0 +1,7 @@
+567663504102940672
+Southwest
+@SouthwestAir We have been stuck in SJU for several hours and no one is answering here. Really tough to LUV SW. No response is bad.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 04:35:00 -0800
+location: USA

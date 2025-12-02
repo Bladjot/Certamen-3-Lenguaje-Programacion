@@ -1,0 +1,7 @@
+569621991852019713
+Delta
+@JetBlue For the record, that was less than a 10-minute turnaround time for the answer from the question.  JetBlue rocks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 14:17:20 -0800
+location: Right Coast

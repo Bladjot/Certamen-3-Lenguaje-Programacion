@@ -1,0 +1,7 @@
+570260325611630592
+Southwest
+@SouthwestAir how come I'm not getting my points after I buy from the rapid reward shopping site?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 08:33:51 -0800
+location: nan

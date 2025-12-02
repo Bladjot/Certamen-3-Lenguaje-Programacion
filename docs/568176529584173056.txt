@@ -1,0 +1,7 @@
+568176529584173056
+Southwest
+@SouthwestAir your WiFi is shit. fix that up before I jump out of the closest bloody fucking emergency exit.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 14:33:35 -0800
+location: nan

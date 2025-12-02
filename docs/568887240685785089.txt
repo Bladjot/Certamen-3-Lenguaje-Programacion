@@ -1,0 +1,7 @@
+568887240685785089
+United
+@united blood services, make your appt. today! 18009174929 http://t.co/6UXwPaduGS
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 13:37:42 -0800
+location: Aberdeen

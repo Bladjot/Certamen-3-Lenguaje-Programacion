@@ -1,0 +1,7 @@
+569213892980641792
+United
+@united Friend at O'Hare and can't get on flight bc they say no proof he bought 1st class tkt. He has boarding pass.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 11:15:42 -0800
+location: Beautiful Stockton, CA

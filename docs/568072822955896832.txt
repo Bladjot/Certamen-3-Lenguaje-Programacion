@@ -1,0 +1,7 @@
+568072822955896832
+United
+@united FAIL set to song. http://t.co/Axpn28xiQB "United Breaks Guitars" &lt; LMAO!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 07:41:29 -0800
+location: Minneapolis, MN

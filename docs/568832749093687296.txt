@@ -1,0 +1,7 @@
+568832749093687296
+United
+@united I think this is the best first class I have ever gotten!!  Denver to LAX and it's wonderful!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 10:01:10 -0800
+location: Mammoth Lakes

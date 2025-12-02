@@ -1,0 +1,7 @@
+568395094232932352
+Delta
+@jetblue rqstd upgrade to mint at LAX and was told no because i used points! Why turn down $1600 bcz I used points? #trueblue
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 05:02:05 -0800
+location: nan

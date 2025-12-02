@@ -1,0 +1,7 @@
+569374298168791040
+Southwest
+@SouthwestAir Thx to customer service rep ALEX for his patient help in reFlight Booking Problems a Cancelled Flighted flight and getting us where we have to be tmrw!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 21:53:05 -0800
+location: nan

@@ -1,0 +1,7 @@
+569946742277451776
+American
+@AmericanAir No. Had to Cancelled Flight my trip. Instead of a $25 future trip voucher, a $25 drink coupon would've been better! #WakingInMemphis
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 11:47:47 -0800
+location: Memphis, TN

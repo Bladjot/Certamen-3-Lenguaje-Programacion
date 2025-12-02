@@ -1,0 +1,7 @@
+569596089625661440
+United
+@united great flight into PVD. Smallest plane I have ever been on and smoothest landing ever!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 12:34:25 -0800
+location: Massachusetts

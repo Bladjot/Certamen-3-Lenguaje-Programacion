@@ -1,0 +1,7 @@
+569600291290656768
+American
+@AmericanAir fix the engine of flight AA3031so I don't spend all night in your airport so I can fly home tomorrow
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 12:51:06 -0800
+location: Long Island, New York

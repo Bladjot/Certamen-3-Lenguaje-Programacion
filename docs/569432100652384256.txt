@@ -1,0 +1,7 @@
+569432100652384256
+US Airways
+@USAirways 3 hrs on hold. Husband has decided we should sleep in shifts so we don't miss the phone rep. to reschedule
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 01:42:46 -0800
+location: nan

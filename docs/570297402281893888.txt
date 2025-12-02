@@ -1,0 +1,7 @@
+570297402281893888
+Delta
+@JetBlue ’s Marty St. George really has zero clue. How does he still have a job? #nobaggagefees http://t.co/tjDzaMHPEw
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 11:01:10 -0800
+location: SF Bay Area

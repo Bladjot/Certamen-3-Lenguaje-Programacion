@@ -1,0 +1,7 @@
+569596394819883008
+Delta
+@JetBlue what a great experience on flight from SFO to JFK; seats, service, food, everything is top quality. I will be back. Very soon!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 12:35:37 -0800
+location: Palo Alto CA

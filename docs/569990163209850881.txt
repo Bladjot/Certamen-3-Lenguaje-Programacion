@@ -1,0 +1,7 @@
+569990163209850881
+Virgin America
+@VirginAmerica @ladygaga @carrieunderwood - Carrie!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:40:19 -0800
+location: UK, USA.

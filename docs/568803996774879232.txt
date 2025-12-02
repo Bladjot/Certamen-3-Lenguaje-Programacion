@@ -1,0 +1,7 @@
+568803996774879232
+Virgin America
+@VirginAmerica I mean. Probably inappropriate while on board.. But, it's on!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 08:06:55 -0800
+location: New York City

@@ -1,0 +1,7 @@
+568468724048646145
+United
+@united - why am I sitting on this plane for an hour after scheduled takeoff without a cloud in the sky? #keepusguessing #isthisyourfirsttry
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 09:54:40 -0800
+location: nan

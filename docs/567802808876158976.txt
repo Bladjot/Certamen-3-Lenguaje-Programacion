@@ -1,0 +1,7 @@
+567802808876158976
+US Airways
+@USAirways how are you even still in business? i have been trying to call for hours. this is pathetic.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 13:48:33 -0800
+location: nan

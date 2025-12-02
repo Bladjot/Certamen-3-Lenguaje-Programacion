@@ -1,0 +1,7 @@
+568913346675613696
+Southwest
+@SouthwestAir PLEASE HELP! I would die to see the Vegas show! It would be amazing to hear their songs for real!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 15:21:26 -0800
+location: nan

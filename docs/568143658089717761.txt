@@ -1,0 +1,7 @@
+568143658089717761
+United
+@united offered me a voucher to switch flights. Now voucher offer doesn’t exist &amp; the gate agent switched me to a delayed flight!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 12:22:58 -0800
+location: nan

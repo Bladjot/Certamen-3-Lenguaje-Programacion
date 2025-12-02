@@ -1,0 +1,7 @@
+569980365386809344
+American
+@AmericanAir I've been trying to get through to reservations since yesterday to make a change to a reservation hold, when will it be up?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:01:23 -0800
+location: Lake County, Illinois

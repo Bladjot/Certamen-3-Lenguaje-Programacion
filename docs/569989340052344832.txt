@@ -1,0 +1,7 @@
+569989340052344832
+Southwest
+@SouthwestAir prove it, Cuz the southwest people here don't even know why it's behind schedule.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 14:37:03 -0800
+location: KCMO

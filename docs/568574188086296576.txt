@@ -1,0 +1,7 @@
+568574188086296576
+United
+@united worst airline ever! Staff is nasty, wifi down bags are delayed due to weather?? And now the belt is broken. Selling UAL stock in AM
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 16:53:44 -0800
+location: nan

@@ -1,0 +1,7 @@
+567881096647569408
+US Airways
+@USAirways thanks! It's hectic for everyone but their actions don't represent the company well IMO
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 18:59:38 -0800
+location: Cincinnati

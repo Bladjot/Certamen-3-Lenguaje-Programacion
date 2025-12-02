@@ -1,0 +1,7 @@
+568203709802532864
+Delta
+@JetBlue C'mon now. My flight's delayed annnnnd you can't give me a pick?!? I'm about to tweet at @united or @Delta .......
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 16:21:35 -0800
+location: nan

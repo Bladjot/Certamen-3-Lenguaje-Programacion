@@ -1,0 +1,7 @@
+568481989776564224
+United
+@united no it weighed 45.5 and it was the only checked bag
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 10:47:22 -0800
+location: PA

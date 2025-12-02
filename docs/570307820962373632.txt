@@ -1,0 +1,7 @@
+570307820962373632
+Delta
+@JetBlue They weren't on any flight, they just came Late Flight. Your JetBlue employee just informed us!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 11:42:34 -0800
+location: Georgia

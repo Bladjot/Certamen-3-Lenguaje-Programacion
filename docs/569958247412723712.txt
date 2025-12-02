@@ -1,0 +1,7 @@
+569958247412723712
+United
+@united Ok thank again for your help!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 12:33:30 -0800
+location: Kona coast/Boston/Milan

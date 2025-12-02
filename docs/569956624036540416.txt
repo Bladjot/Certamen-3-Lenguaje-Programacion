@@ -1,0 +1,7 @@
+569956624036540416
+Southwest
+@SouthwestAir will continue to be my airline of choice. @united -most frustrating travel day I've experienced. 5 delays and 4 gate changes?!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 12:27:03 -0800
+location: DEN

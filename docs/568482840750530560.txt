@@ -1,0 +1,7 @@
+568482840750530560
+Southwest
+@SouthwestAir suggestion- shades on the windows @KCIAirport so travelers won't have to watch ur luggage handlers throwing their bags around
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-19 10:50:45 -0800
+location: nan

@@ -1,0 +1,7 @@
+569372595067490304
+US Airways
+@USAirways But every time I call I'm on hold for 45 min and then get disconnected. Any way someone can help?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 21:46:19 -0800
+location: nan

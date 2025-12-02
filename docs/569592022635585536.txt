@@ -1,0 +1,7 @@
+569592022635585536
+United
+@united thanks for ruined my vacation for having poorly maintained aircrafts that can’t fly safely out of STT. #UA1481 #Cancelled Flightledflight
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 12:18:15 -0800
+location: London, ON

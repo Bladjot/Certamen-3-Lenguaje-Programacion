@@ -1,0 +1,7 @@
+570003111772692480
+Southwest
+@SouthwestAir Flight 1700. (PHX TO LAX) Wheels stop.  Glad to be home!  Thanks to the professionals both up front and in the cabin!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 15:31:46 -0800
+location: Near Los Angeles CA

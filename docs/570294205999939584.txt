@@ -1,0 +1,7 @@
+570294205999939584
+United
+@united beginning of Feb I called United they said they would send another voucher by mail. Never got anything. #tiredofwaiting
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 10:48:28 -0800
+location: USA

@@ -1,0 +1,7 @@
+570247763704868864
+US Airways
+@USAirways like they will call me? I'v been trying since yesterday and no one is answering...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 07:43:56 -0800
+location: nan

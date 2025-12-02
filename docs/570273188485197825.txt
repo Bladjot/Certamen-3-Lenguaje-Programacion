@@ -1,0 +1,7 @@
+570273188485197825
+US Airways
+@USAirways ...2 hours on the plane, they at least got us on a direct flight a couple hours Late Flightr on United
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 09:24:57 -0800
+location: nan

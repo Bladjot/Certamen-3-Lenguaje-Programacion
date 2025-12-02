@@ -1,0 +1,7 @@
+569556399585402880
+US Airways
+@USAirways all these planes sitting here and no one going home. #usairwaysfail http://t.co/jN3V3k3qGv
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 09:56:42 -0800
+location: Syracuse

@@ -1,0 +1,7 @@
+569655861297049600
+American
+@AmericanAir pleaseeee find my suitcase. I want deoderant and a clean shirt for work tomorrow :(
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 16:31:55 -0800
+location: SNY in NYC.

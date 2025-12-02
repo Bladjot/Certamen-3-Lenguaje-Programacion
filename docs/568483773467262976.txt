@@ -1,0 +1,7 @@
+568483773467262976
+Southwest
+@SouthwestAir thanks for your attention, I've been flying southwest for 3 years and haven't had this issue in the past.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 10:54:28 -0800
+location: Denver, Colorado

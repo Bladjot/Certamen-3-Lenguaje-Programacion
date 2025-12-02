@@ -1,0 +1,7 @@
+567741884140093440
+US Airways
+@USAirways any tips on getting a hotel that your airline won't get for any of us even though we were told that we'd make our flight?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 09:46:27 -0800
+location: nan

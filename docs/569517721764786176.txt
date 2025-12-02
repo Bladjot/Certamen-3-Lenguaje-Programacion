@@ -1,0 +1,7 @@
+569517721764786176
+Southwest
+@SouthwestAir flying flight 3130 tonight at 7:20 from PBI- I have boarding position C-42. Is flight overbooked? Have funeral to attend!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 07:23:00 -0800
+location: nan

@@ -1,0 +1,9 @@
+570267929322921985
+Delta
+More like BaeJet Airways, amirite?
+
+“@JetBlue: @terrybrokebad Right back at ya!”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:04:04 -0800
+location: Newcastle, Uk

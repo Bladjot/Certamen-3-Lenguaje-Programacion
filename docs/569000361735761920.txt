@@ -1,0 +1,7 @@
+569000361735761920
+US Airways
+@USAirways It says to call. Before connecting, get song, dance about weather. Weather bad 3 days? Called for 2 days before. #wasteoftime
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 21:07:12 -0800
+location: Santa Cruz, CA

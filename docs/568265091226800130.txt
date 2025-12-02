@@ -1,0 +1,7 @@
+568265091226800130
+American
+@AmericanAir Okay, I think 1565 has waited long enough for a gate at DFW...
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 20:25:30 -0800
+location: Texas

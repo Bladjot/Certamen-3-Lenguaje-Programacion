@@ -1,0 +1,7 @@
+567874275388043264
+US Airways
+@USAirways  glad to be home and that your great people got me home safely. Sad for others who didn't get back bc of scheduling problems.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 18:32:32 -0800
+location: nan

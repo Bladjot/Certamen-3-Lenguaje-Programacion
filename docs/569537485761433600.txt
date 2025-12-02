@@ -1,0 +1,7 @@
+569537485761433600
+US Airways
+@USAirways I finally spoke to a person. Despite the mind boggling wait time, the rep was very pleasant and very helpful. Kudos to her.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 08:41:32 -0800
+location: Franklin, TN

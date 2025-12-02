@@ -1,0 +1,7 @@
+569705212274995201
+United
+@united  Otis in the baggage claim by Bay #8. not at all happy but not nearly as pissed.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 19:48:01 -0800
+location: Chicago

@@ -1,0 +1,7 @@
+568180264914051072
+Southwest
+@SouthwestAir @Imaginedragons @beatsmusic well timed tweet, just boarded and will be listening on my way home!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 14:48:26 -0800
+location: Nashville, TN

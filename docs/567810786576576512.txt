@@ -1,0 +1,7 @@
+567810786576576512
+Delta
+@JetBlue Flight 1133 (N353JB) "Blue La La" departs @mco enroute to San Juan International Airport http://t.co/SWZm2fX3nu
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:20:15 -0800
+location: Englewood, Florida

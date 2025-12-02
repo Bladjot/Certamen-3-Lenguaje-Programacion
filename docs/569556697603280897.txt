@@ -1,0 +1,7 @@
+569556697603280897
+US Airways
+@USAirways No thank you. @AmericanAir was responsive &amp; I found alternate travel home.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 09:57:53 -0800
+location: Washington, DC

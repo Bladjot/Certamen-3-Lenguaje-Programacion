@@ -1,0 +1,7 @@
+569332086345220096
+United
+@united Not until tomorrow night. And the hotel voucher had higher rate than travelocity Not loving cost, but hard working staff
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 19:05:21 -0800
+location: New Haven, CT

@@ -1,0 +1,7 @@
+569165378359656448
+Southwest
+@SouthwestAir this is ridiculous. It's been 2 hours on hold to rebook Cancelled Flightled flight.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 08:02:55 -0800
+location: LA // DC // LA

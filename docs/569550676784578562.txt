@@ -1,0 +1,7 @@
+569550676784578562
+United
+@united broken light, 35 mins to get bridge to gate, airplane parked wrong , bathroom not emptied last night....your airline in last 3 hrs
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 09:33:57 -0800
+location: nan

@@ -1,0 +1,7 @@
+569763959240200193
+American
+@AmericanAir Reebooked for tomorrow in AA 1389 LV-DFW at 810 am arriving 12.50pm; still open this flight?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 23:41:28 -0800
+location: nan

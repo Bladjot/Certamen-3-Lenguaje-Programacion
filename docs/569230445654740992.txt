@@ -1,0 +1,7 @@
+569230445654740992
+Delta
+@JetBlue I clear that folder regularly and JetBlue is white listed so it never got to me.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 12:21:28 -0800
+location: Providence, RI

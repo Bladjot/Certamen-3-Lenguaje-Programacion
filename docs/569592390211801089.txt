@@ -1,0 +1,7 @@
+569592390211801089
+US Airways
+@usairways Is your reservation phone number working? Called 10x in the last 3 days, and haven’t gotten through.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:19:42 -0800
+location: nan

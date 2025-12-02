@@ -1,0 +1,7 @@
+569283956484415490
+United
+@united I can understand that but to not have another plane available when there is a full day till departure is unacceptable. Phoenix?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 15:54:06 -0800
+location: nan

@@ -1,0 +1,7 @@
+569934170819948544
+American
+@AmericanAir you keep returning my call and hanging up when I answer? Help reFlight Booking Problems a flight!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:57:49 -0800
+location: nan

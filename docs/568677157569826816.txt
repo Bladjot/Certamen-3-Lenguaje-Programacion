@@ -1,0 +1,7 @@
+568677157569826816
+Delta
+@JetBlue I had a SJC to JFK departing 10:55pm tonight. I have to now change my whole schedule. Can we get a sort of refund for this?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 23:42:54 -0800
+location: nan

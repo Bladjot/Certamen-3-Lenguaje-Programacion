@@ -1,0 +1,7 @@
+570275384714862592
+American
+@AmericanAir I know. Just a little cold weather humor. :)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:33:41 -0800
+location: USA

@@ -1,0 +1,7 @@
+568066927723212800
+Delta
+@JetBlue Great flight, as always! Thank you to the great crew on flight 475! #travel #jetblue
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 07:18:04 -0800
+location: Rhode Island

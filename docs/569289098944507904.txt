@@ -1,0 +1,7 @@
+569289098944507904
+US Airways
+@USAirways Thank you for your help today.  I have been a loyal US airways customer and i appreciate your responding to my tweets.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 16:14:32 -0800
+location: Boston, MA

@@ -1,0 +1,7 @@
+569177940027674624
+United
+@united  no thanks
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 08:52:50 -0800
+location: Canton Mass

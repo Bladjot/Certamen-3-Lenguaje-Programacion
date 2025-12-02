@@ -1,0 +1,7 @@
+568228257037856768
+United
+@united I'm asking if you can simplify the communications- thx
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 17:59:08 -0800
+location: California, US

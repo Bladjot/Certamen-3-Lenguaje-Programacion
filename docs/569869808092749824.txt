@@ -1,0 +1,7 @@
+569869808092749824
+United
+@united flight Cancelled Flightled,  and the updated one gets me into BWI too Late Flight! I'd be fine with DCA or IAD,  just arriving earlier!  Help!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 06:42:04 -0800
+location: nan

@@ -1,0 +1,7 @@
+568527304348942336
+United
+@united I got an email from cust. care for an issue I had offering me a voucher. How do I claim that? I emailed back but got no reply. DM me
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 13:47:26 -0800
+location: America's Dairyland

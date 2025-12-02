@@ -1,0 +1,7 @@
+570275314036649984
+American
+@AmericanAir None of the #LAX flights into #DFW have been Cancelled Flightled. Those landing before and after ours are fine. Completely arbitrary.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 09:33:24 -0800
+location: Dallas via NYC via the OC

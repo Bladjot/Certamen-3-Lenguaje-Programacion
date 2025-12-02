@@ -1,0 +1,7 @@
+567845998166339584
+Delta
+@JetBlue the whole plane. Hoping for better luck on the return flight Sunday.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 16:40:10 -0800
+location: nan

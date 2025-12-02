@@ -1,0 +1,7 @@
+568594646168948736
+US Airways
+@USAirways thank you for continuing to be the worst airline out. Didn't need that extra hour of sleep after 29 hours of travel anyway
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 18:15:02 -0800
+location: Twin Cities

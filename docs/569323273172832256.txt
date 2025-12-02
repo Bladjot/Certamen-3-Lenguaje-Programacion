@@ -1,0 +1,7 @@
+569323273172832256
+US Airways
+@USAirways not best pleased with service so far. On our third gate and still no guarantee that it's the correct one :(
+sentiment: negative
+negativereason: longlines
+created: 2015-02-21 18:30:20 -0800
+location: nan

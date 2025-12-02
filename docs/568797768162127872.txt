@@ -1,0 +1,7 @@
+568797768162127872
+Southwest
+@SouthwestAir  getting the run around today with customer service &amp; disconnected customer relations # given twice. Help!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 07:42:10 -0800
+location: nan

@@ -1,0 +1,7 @@
+569670671695011840
+Southwest
+.@SouthwestAir Well, we all need something to aim for.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:30:46 -0800
+location: Baltimore, MD

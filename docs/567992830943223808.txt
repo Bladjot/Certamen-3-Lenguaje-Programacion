@@ -1,0 +1,7 @@
+567992830943223808
+Delta
+@JetBlue @_justdippin_ drops a new video off the upcoming project #TheTakeover, produced by YpOnTheBeat https://t.co/IKQBdZA7TN RT
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 02:23:38 -0800
+location: NYC

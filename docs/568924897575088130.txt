@@ -1,0 +1,7 @@
+568924897575088130
+US Airways
+@USAirways them and @AmericanAir
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 16:07:20 -0800
+location: nan

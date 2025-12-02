@@ -1,0 +1,7 @@
+569011846432366592
+United
+@United Brothers baggage was lost on route to 2015 Panamerican Cross Country Cup Championship in Columbia. His race is Sunday. Please help.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 21:52:50 -0800
+location: Kearney, Nebraska

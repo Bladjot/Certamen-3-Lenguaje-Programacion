@@ -1,0 +1,7 @@
+569358953567670272
+US Airways
+@USAirways Cancelled Flightled flight 1796 baggage held hostage at CHL. No communication.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 20:52:07 -0800
+location: nan

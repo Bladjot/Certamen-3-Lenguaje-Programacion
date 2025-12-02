@@ -1,0 +1,7 @@
+570177697814425600
+American
+@AmericanAir yes it is in Dulles and I need it delivered to the Embassy Suites in Herndon, VA. I'm still in Chicago from the fiasco in LAX
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 03:05:31 -0800
+location: nan

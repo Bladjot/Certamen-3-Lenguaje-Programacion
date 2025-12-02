@@ -1,0 +1,7 @@
+569125947200413696
+United
+@united really, fill out a form about my flight experience? I sent an email to the 1K email address.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 05:26:14 -0800
+location: New Jersey, USA

@@ -1,0 +1,7 @@
+570004470370676737
+United
+@united I have a 0530 flight out of DFW on Tuesday. How far in advance will you give notice if Cancelled Flightled?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 15:37:10 -0800
+location: nan

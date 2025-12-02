@@ -1,0 +1,7 @@
+569498738856755200
+Delta
+@JetBlue note the time this was taken (now at 906 am) and flight still listed as on time for 910 when I'm not onboard http://t.co/zvfmxnuELJ
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 06:07:34 -0800
+location: New York City

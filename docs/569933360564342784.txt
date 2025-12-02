@@ -1,0 +1,7 @@
+569933360564342784
+Virgin America
+@VirginAmerica I have no interesting flying with you after this. I will Cancelled Flight my next four flights I planned.#neverflyvirginforbusiness
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 10:54:36 -0800
+location: nan

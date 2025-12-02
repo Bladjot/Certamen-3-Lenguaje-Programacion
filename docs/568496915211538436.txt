@@ -1,0 +1,7 @@
+568496915211538436
+US Airways
+@USAirways - who do I call to use credit fm. prev. cxl tix that can't be rebooked online?Rep I called quoted me $1k higher than the website.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 11:46:41 -0800
+location: Waynesboro, VA

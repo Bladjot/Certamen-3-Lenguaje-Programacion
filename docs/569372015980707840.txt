@@ -1,0 +1,7 @@
+569372015980707840
+US Airways
+@USAirways keeps dropping my call and won't even let me stay on hold because they are "too busy" #idontwanttocallback
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 21:44:01 -0800
+location: Philadelphia, PA

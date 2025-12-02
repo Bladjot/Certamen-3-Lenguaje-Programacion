@@ -1,0 +1,7 @@
+570151703410053120
+US Airways
+@USAirways some flexibility on your part would be nice. This is why I love @SouthwestAir. They're flexible &amp; not trying to take all my $.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 01:22:13 -0800
+location: Durham, NC

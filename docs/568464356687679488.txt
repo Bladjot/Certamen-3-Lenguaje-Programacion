@@ -1,0 +1,7 @@
+568464356687679488
+US Airways
+@USAirways is this accurate? Safety guide shown no MP3 player usage during takeoff and landing. http://t.co/Nvk3IrG4KP
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 09:37:18 -0800
+location: East Coast, US

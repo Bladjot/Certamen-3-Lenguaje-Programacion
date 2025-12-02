@@ -1,0 +1,7 @@
+568837602071203840
+Virgin America
+@VirginAmerica I applied for a position in @flyLAXairport ,and I was wondering if you guys received my application.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 10:20:27 -0800
+location: nan

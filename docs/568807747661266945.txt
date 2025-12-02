@@ -1,0 +1,7 @@
+568807747661266945
+United
+@united your customer service is terrible
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 08:21:49 -0800
+location: Columbus, Ohio

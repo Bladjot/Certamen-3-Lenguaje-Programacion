@@ -1,0 +1,7 @@
+568236763128463361
+US Airways
+@USAirways this is more than having patience. This is not acceptable. http://t.co/N7pSuEJDC8
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 18:32:56 -0800
+location: Wisconsin

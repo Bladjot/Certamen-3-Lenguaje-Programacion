@@ -1,0 +1,7 @@
+569866272218836992
+American
+@AmericanAir I just sent a DM
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 06:28:01 -0800
+location: Boston, MA

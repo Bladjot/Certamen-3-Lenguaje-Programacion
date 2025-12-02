@@ -1,0 +1,7 @@
+569733015896592385
+American
+@AmericanAir so what are you going to do for me since I can't take the option you gave me. What type of refund will you do for me?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 21:38:30 -0800
+location: ÜT: 40.881241,-73.107717

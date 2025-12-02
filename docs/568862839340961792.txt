@@ -1,0 +1,7 @@
+568862839340961792
+US Airways
+@USAirways will shall see in the next couple of minutes.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 12:00:44 -0800
+location: Orlando

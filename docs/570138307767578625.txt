@@ -1,0 +1,7 @@
+570138307767578625
+American
+@AmericanAir I tried, EXTREMELY RUDE. Even the supervisor. And when I asked to speak to HIS supervisor I was told no
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 00:28:59 -0800
+location: Nevada

@@ -1,0 +1,8 @@
+568203174198284288
+Virgin America
+@VirginAmerica announced New Route to Austin w/fares from $39/way. 
+http://t.co/gA8pbamu0C
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 16:19:28 -0800
+location: United States

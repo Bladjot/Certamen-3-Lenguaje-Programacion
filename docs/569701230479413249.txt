@@ -1,0 +1,7 @@
+569701230479413249
+US Airways
+@USAirways comedy of errors continues..." We can't get into our gate, there is a broken down truck in the way" #fail
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 19:32:12 -0800
+location: Columbus, Ohio

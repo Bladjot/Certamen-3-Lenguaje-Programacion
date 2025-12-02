@@ -1,0 +1,7 @@
+568628841431867392
+United
+@united just curious, when are you going to to finally learn #customerservice ?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 20:30:55 -0800
+location: New York, NY

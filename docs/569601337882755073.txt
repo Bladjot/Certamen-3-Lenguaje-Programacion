@@ -1,0 +1,7 @@
+569601337882755073
+American
+@AmericanAir yes and I would like a refund.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:55:16 -0800
+location: Chicago

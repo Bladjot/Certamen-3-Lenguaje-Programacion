@@ -1,0 +1,7 @@
+568040818059190273
+US Airways
+@USAirways I just checked in online for tomorrow's flight - thought I should get auto upgrade? (Already got the email saying no seats)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 05:34:19 -0800
+location: Washington, D.C.

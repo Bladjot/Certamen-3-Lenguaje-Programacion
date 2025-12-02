@@ -1,0 +1,7 @@
+568044610955681793
+Delta
+@JetBlue you stood me up last night, but I'm giving you a second chance. I'm just a boy, tweeting an airline, asking them to fly him home.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 05:49:23 -0800
+location: New York, NY

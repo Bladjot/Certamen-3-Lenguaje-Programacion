@@ -1,0 +1,7 @@
+568528678671360000
+Southwest
+@SouthwestAir my trip is a month away...why do you consider it "around the corner"? Is that a setting I can change?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 13:52:54 -0800
+location: Chicago

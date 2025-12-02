@@ -1,0 +1,7 @@
+568884211739971584
+United
+“@united: @d_goodspeed We will follow up with our Maintenance team. Thanks for the tweet. ^KP” THANK YOU!  United Cares!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 13:25:40 -0800
+location: USA

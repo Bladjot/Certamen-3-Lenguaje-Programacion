@@ -1,0 +1,7 @@
+569549922569224192
+Delta
+@JetBlue, your hold music sucks.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 09:30:57 -0800
+location: New York

@@ -1,0 +1,7 @@
+567866673325285376
+Southwest
+@SouthwestAir  why are you the only airlines to Cancelled Flight all flights into BNA? Been stranded in philly for 2 days. Hoping to get out in the AM
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 18:02:20 -0800
+location: nan

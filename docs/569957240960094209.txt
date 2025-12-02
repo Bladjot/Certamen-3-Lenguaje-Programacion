@@ -1,0 +1,7 @@
+569957240960094209
+United
+@united Not a happy flyer.  UA flight 1161 from SFO to Cleveland.  Sunday 2/22.  Stay tuned for blog article from http://t.co/VdFdODqVGx
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 12:29:30 -0800
+location: Brunswick, Ohio

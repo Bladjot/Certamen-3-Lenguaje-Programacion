@@ -1,0 +1,7 @@
+569497092655345664
+United
+@united, fuck you and your closed premier access lines at ORD. Probably gonna miss my flight...Start treating your customers better.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 06:01:02 -0800
+location: Chicago

@@ -1,0 +1,7 @@
+569913149505163264
+American
+@AmericanAir @justynmoro I totally agree.  You get the automatic phone attendent that goes NO WHERE and hangs up.  Lousy service!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:34:17 -0800
+location: nan

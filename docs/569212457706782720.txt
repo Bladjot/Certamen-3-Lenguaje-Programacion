@@ -1,0 +1,7 @@
+569212457706782720
+Southwest
+@SouthwestAir thanks. What's your opinion on chances of getting in okay tomorrow?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 11:10:00 -0800
+location: Denver

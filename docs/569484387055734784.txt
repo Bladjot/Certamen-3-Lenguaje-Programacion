@@ -1,0 +1,7 @@
+569484387055734784
+US Airways
+@USAirways job well done from your Philly employee running check,in today. (Tabitha?) helped us in an emergency &amp; vacation saved!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 05:10:33 -0800
+location: nan

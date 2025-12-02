@@ -1,0 +1,7 @@
+569608624814698496
+United
+@united agent, "You should use the bathroom before boarding.. Toilets onboard are full." Oh you can expected a strongly worded email FUnited
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 13:24:13 -0800
+location: nan

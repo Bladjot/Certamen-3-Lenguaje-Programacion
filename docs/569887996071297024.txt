@@ -1,0 +1,7 @@
+569887996071297024
+American
+@AmericanAir My boyfriend was supposed to be home Saturday but his flight from DC was Cancelled Flightled yet again. Please get him home!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 07:54:20 -0800
+location: nan

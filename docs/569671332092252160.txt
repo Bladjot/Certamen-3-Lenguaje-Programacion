@@ -1,0 +1,7 @@
+569671332092252160
+US Airways
+@USAirways @AmericanAir  worst customer service ever how can you let people be assaulted on your flights and do nothing about it
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:33:24 -0800
+location: Belle MO

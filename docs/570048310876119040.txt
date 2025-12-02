@@ -1,0 +1,7 @@
+570048310876119040
+American
+@AmericanAir I'm here standing at baggage claim waiting for bags FOR OVER AN HOUR at DFW. The gate is 100 feet from here! #nothappy
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 18:31:22 -0800
+location: USA

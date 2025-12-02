@@ -1,0 +1,7 @@
+568925711077117953
+Southwest
+@SouthwestAir Are there any current promotions/codes for Nashville-Denver? Thank you!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 16:10:34 -0800
+location: Somewhere in Tennessee

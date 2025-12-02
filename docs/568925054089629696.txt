@@ -1,0 +1,7 @@
+568925054089629696
+Southwest
+@SouthwestAir I will do just about anything tO GO TO THE VEGAS SHOW PLEASE MAN
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 16:07:57 -0800
+location: nan

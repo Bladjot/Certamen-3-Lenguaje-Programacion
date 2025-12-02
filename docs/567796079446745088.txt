@@ -1,0 +1,7 @@
+567796079446745088
+Delta
+@JetBlue thank you. Is there a possibility it will change?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 13:21:49 -0800
+location: Long Island

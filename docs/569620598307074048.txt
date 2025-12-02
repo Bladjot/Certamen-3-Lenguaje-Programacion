@@ -1,0 +1,7 @@
+569620598307074048
+Delta
+@JetBlue being told by this guy that he will not help us sit next to our 5 and 8 year old on the flight. #jetblue http://t.co/49FLbgzZkd
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 14:11:48 -0800
+location: nan

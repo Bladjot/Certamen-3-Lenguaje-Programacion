@@ -1,0 +1,7 @@
+569133987668623360
+Southwest
+@SouthwestAir Have been on hold to reschedule a flight for 1.5 hours! Please help! Phone will be out of batteries soon.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 05:58:11 -0800
+location: nan

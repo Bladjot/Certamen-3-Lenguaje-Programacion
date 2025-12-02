@@ -1,0 +1,7 @@
+569279586921353216
+United
+@united Charging $6500 for biz flight to UK = somewhat egregious. Charging $3 on top for a Sam Adams draft at the United Club is usurious.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 15:36:44 -0800
+location: nan

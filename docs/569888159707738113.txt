@@ -1,0 +1,7 @@
+569888159707738113
+Delta
+@JetBlue hello! my husband bought us a trip last night &amp; just noticed my last name is misspelled! What can I do? Thanks!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:54:59 -0800
+location: Puerto Rico

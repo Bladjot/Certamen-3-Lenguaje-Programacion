@@ -1,0 +1,7 @@
+568451040397422593
+Delta
+@JetBlue What's up with lack coffee on 7:30AM flight. Was told someone forgot to load coffee onto the plane. What????? #INeedCoffee
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 08:44:23 -0800
+location: Amherst, NY

@@ -1,0 +1,7 @@
+569561389121060864
+US Airways
+@USAirways Yes, there is horrible snow. But seriously, can you not hire more people to answer the phones? Competitor have call back numbers.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 10:16:31 -0800
+location: Durham, NC

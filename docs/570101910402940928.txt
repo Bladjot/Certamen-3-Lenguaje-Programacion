@@ -1,0 +1,7 @@
+570101910402940928
+American
+@AmericanAir Thanks! Bleh, disconnected! Let's try this again!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 22:04:22 -0800
+location: Founder of #MovieChurch

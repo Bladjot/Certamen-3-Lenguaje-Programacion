@@ -1,0 +1,7 @@
+569618750946873344
+US Airways
+@USAirways On hold for &gt;70 mins on my 3rd attempt just to get a receipt showing change fees for an upcoming flight. Please help!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:04:27 -0800
+location: Boston area

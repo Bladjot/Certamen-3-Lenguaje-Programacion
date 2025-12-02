@@ -1,0 +1,7 @@
+568850770331721728
+Delta
+@JetBlue #AfterAll indeed! https://t.co/swWhYhEn76 #LoveSongFriday #Cheesy #80sweresomuchfun #BrandLoveAffair
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 11:12:47 -0800
+location: New York, NY

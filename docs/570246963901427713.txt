@@ -1,0 +1,7 @@
+570246963901427713
+United
+@united ok it's now been 7 months waiting to hear from airline. I gave them quite a bit more than the 30 days requested! Terrible service
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 07:40:45 -0800
+location: Marlow, UK

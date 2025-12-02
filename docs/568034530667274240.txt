@@ -1,0 +1,7 @@
+568034530667274240
+United
+@United ticket counter Masters out of SMF not very helpful.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 05:09:20 -0800
+location: nan

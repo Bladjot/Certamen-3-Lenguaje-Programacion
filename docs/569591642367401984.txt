@@ -1,0 +1,7 @@
+569591642367401984
+United
+“@united:That's not something we like to hear. Hopefully our staff can resolve &amp; have you on your way ASAP. ^ML”:3:15 &amp; still not resolved
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:16:44 -0800
+location: Lewis Center, OH

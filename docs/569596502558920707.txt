@@ -1,0 +1,7 @@
+569596502558920707
+American
+@AmericanAir your call center won't let me wait on hold, which I would happily do. Am I seriously supposed to just keep calling? Not great
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:36:03 -0800
+location: nan

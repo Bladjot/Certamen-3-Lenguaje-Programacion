@@ -1,0 +1,7 @@
+568752793999286273
+Delta
+@JetBlue Big thanks to Ricardo Olavarria at Reagan Airport. Fixed our ticket and made sure we made it for our friend's wedding #greatservice
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 04:43:27 -0800
+location: nan

@@ -1,0 +1,7 @@
+569685767527596032
+Delta
+@JetBlue Can you take @Cosmopolitan off your blacklist... trying to work :(
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 18:30:45 -0800
+location: Brooklyn NY.

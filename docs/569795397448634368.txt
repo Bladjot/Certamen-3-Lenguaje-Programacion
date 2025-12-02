@@ -1,0 +1,7 @@
+569795397448634368
+American
+@AmericanAir at 5 am and have no clue if we have a place to stay or not
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 01:46:23 -0800
+location: San Diego

@@ -1,0 +1,7 @@
+567813437003411456
+Delta
+@JetBlue yes, 3 times. I need some one to call me and help me change a flight. I can't do online. Thanks.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 14:30:47 -0800
+location: New York City

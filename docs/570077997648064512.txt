@@ -1,0 +1,7 @@
+570077997648064512
+American
+@AmericanAir we had to sit in the airport a long periolodicly time. the planes were nasty
+sentiment: negative
+negativereason: longlines
+created: 2015-02-23 20:29:20 -0800
+location: nan

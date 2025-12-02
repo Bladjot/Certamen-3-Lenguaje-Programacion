@@ -1,0 +1,7 @@
+569678153783877634
+American
+@AmericanAir I didn't miss my flight.  American Airlines gave my ticket, as well as 6 other passengers tickets away. Not my fault.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 18:00:30 -0800
+location: Rossford, Ohio

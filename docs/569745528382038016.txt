@@ -1,0 +1,7 @@
+569745528382038016
+American
+@AmericanAir  Did you guys just give up helping people? Your phone tree just hangs up on me and I have a flight tomorrow. Connection pending
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 22:28:13 -0800
+location: El Paso, TX

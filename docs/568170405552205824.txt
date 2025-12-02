@@ -1,0 +1,7 @@
+568170405552205824
+United
+@united nope. Really. No window at all for 10A. 10F has one. 8 and 11 has one. None for 10A. So sad...
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 14:09:15 -0800
+location: Houston, Texas

@@ -1,0 +1,7 @@
+569374522157207552
+Southwest
+@SouthwestAir "...you in the 10 hrs we were hanging out there? Oh, no I understand things get crazy n sometimes 10 hours isn't long enough."
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 21:53:59 -0800
+location: Tallahassee, FL

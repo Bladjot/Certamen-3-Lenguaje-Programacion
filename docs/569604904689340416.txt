@@ -1,0 +1,7 @@
+569604904689340416
+American
+@AmericanAir bought a ticket on @SouthwestAir. After two days, your "team" couldn't share the data needed to get me to my next meeting.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:09:26 -0800
+location: Boston, MA

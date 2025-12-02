@@ -1,0 +1,7 @@
+569892434592669696
+American
+@AmericanAir the saga continues..
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 08:11:59 -0800
+location: Boston, MA

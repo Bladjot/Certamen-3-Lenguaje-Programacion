@@ -1,0 +1,7 @@
+568997044406374400
+US Airways
+@USAirways but wait! They are booked, along with all other hotels nearby. I was sent anyway, to the hotel managers disbelief.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 20:54:01 -0800
+location: Asheville, NC

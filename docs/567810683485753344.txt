@@ -1,0 +1,7 @@
+567810683485753344
+Delta
+@JetBlue this makes me happy. I hope these aren't empty promises.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 14:19:51 -0800
+location: NYC | CT

@@ -1,0 +1,7 @@
+568470507433168896
+Delta
+@JetBlue Ever consider coming to Memphis?  Need some TrueBlue service and fares badly!!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 10:01:45 -0800
+location: nan

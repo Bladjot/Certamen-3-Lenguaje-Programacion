@@ -1,0 +1,7 @@
+569170372018499584
+Southwest
+@SouthwestAir Had to pay a $25 fare difference on a change but can't seem to find the receipt for it. How can I get a copy for reimbursement
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 08:22:46 -0800
+location: Ontario, Canada

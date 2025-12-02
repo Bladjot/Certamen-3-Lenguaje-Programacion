@@ -1,0 +1,7 @@
+568066302818058240
+Southwest
+@SouthwestAir Hi! Just got my TSA pre-check # &amp; put it in my acct. But it's not on my boarding pass for a flight this p.m.Can it be updated?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 07:15:35 -0800
+location: Austin, TX, USA

@@ -1,0 +1,7 @@
+569287489883500545
+Delta
+@JetBlue Boston gate C12
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 16:08:09 -0800
+location: Boston

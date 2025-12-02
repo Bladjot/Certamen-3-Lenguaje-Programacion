@@ -1,0 +1,7 @@
+569658243871608832
+American
+@AmericanAir I've been on hold for about 3 and a half hours now. Thanks for Cancelled Flighting my flight and not notifying me.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 16:41:23 -0800
+location: nan

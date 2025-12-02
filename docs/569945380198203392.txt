@@ -1,0 +1,7 @@
+569945380198203392
+Delta
+@JetBlue when I check in tomorrow morning for my flight on wens can I automatically add it to passbook?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:42:22 -0800
+location: Logan International Airport

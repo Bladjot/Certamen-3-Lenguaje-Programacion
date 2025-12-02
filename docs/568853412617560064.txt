@@ -1,0 +1,7 @@
+568853412617560064
+US Airways
+@USAirways I am just trying to establish what your policy is. Thanks!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 11:23:17 -0800
+location: Washington, DC via Boston

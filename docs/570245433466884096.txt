@@ -1,0 +1,8 @@
+570245433466884096
+American
+@AmericanAir 
+Thank you for responding...My laptop is in my bag and I need it for work. I am worried. The file code is UTEVGW.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 07:34:40 -0800
+location: nan

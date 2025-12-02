@@ -1,0 +1,7 @@
+568236511524745216
+Southwest
+@SouthwestAir flight Cancelled Flighted tonight and was told I won't receive a travel voucher for the inconvenience. Is that really your policy?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 18:31:56 -0800
+location: Milwaukee

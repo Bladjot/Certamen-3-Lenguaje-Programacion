@@ -1,0 +1,7 @@
+567822613608718336
+United
+@United I'm hoping we don't miss our LAX - ITO connection. Not looking forward to being stuck at LAX overnight with our team....AGAIN!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 15:07:15 -0800
+location: Hilo, HI

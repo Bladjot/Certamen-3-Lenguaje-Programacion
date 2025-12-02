@@ -1,0 +1,7 @@
+569750857215922176
+American
+@AmericanAir 235.  We made it to Seattle...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 22:49:24 -0800
+location: Brooklyn

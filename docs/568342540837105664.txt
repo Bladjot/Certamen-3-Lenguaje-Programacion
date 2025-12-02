@@ -1,0 +1,7 @@
+568342540837105664
+United
+@united next day
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 01:33:15 -0800
+location: Rhode Island

@@ -1,0 +1,7 @@
+570070877351469057
+United
+@united thanks for effing up our holidays - we're missing a full day of skiing due to your baggage team's incompetence at @FlyYOW
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 20:01:03 -0800
+location: Ottawa, Canada

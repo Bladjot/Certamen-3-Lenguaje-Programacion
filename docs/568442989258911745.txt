@@ -1,0 +1,7 @@
+568442989258911745
+Delta
+@JetBlue i appreciate that. When i flew with you in January the check engine light came on right before take off. Now it is a computer.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 08:12:24 -0800
+location: Alexandria, VA

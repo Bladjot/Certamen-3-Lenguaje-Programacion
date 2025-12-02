@@ -1,0 +1,7 @@
+568452186977361921
+Virgin America
+“@VirginAmerica: @KarinSLee Of course. Have fun celebrating!” Thanks! Happy Chinese New Year!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 08:48:57 -0800
+location: all over ca

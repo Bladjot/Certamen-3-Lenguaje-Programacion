@@ -1,0 +1,7 @@
+567892874756501504
+Southwest
+@SouthwestAir has the best customer service!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 19:46:26 -0800
+location: Raleigh, NC

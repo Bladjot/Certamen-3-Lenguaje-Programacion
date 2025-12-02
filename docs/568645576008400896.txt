@@ -1,0 +1,7 @@
+568645576008400896
+United
+@united  they were empty upon takeoff. Why can't someone sit there?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 21:37:24 -0800
+location: nan

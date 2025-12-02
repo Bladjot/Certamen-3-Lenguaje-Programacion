@@ -1,0 +1,7 @@
+568813356296982528
+United
+@united customer service has no solution and now we might miss a show because of them
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 08:44:06 -0800
+location: nan

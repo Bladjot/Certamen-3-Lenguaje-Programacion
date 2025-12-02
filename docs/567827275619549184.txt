@@ -1,0 +1,7 @@
+567827275619549184
+United
+@united also why can't I pre-select seats on SFO-&gt;YYZ flight? I'm a Canadian Flight Booking Problems on http://t.co/aZltJhf7lv.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-17 15:25:46 -0800
+location: toronto

@@ -1,0 +1,7 @@
+569822102062309376
+American
+@AmericanAir Hey, what's happening with #AA65 Zurich - JFK? Appears to have squawked 7700 and landed at London Heathrow
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 03:32:30 -0800
+location: London

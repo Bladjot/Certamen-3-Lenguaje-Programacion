@@ -1,0 +1,7 @@
+569177080014901248
+United
+@united I got it now. Wouldn't let me log on with my email. Thx. Here's hoping for dtw-ase without issue today
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 08:49:25 -0800
+location: Ohio

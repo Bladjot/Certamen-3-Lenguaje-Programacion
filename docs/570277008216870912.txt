@@ -1,0 +1,7 @@
+570277008216870912
+Southwest
+@SouthwestAir oh and now your company has caused us to lose an entire day of our vacation in Cancun. De Boarded waiting for another plane
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 09:40:08 -0800
+location: nan

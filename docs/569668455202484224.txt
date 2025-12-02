@@ -1,0 +1,7 @@
+569668455202484224
+American
+@AmericanAir AA919 flight attendant freaks out and leaves aircraft as passengers react to a 24h delay and cattle treatment. Surreal!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:21:58 -0800
+location: Brasil

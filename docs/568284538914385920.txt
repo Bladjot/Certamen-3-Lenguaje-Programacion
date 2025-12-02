@@ -1,0 +1,7 @@
+568284538914385920
+US Airways
+@USAirways thank you.3860 to cincy.just landed.you should add frequent flyer miles to my account..  a long, incredibly frustrating day
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 21:42:46 -0800
+location: New York City

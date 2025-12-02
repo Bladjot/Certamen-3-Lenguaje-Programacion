@@ -1,0 +1,7 @@
+569936900804505600
+Delta
+RT “@JetBlue: Our fleet's on fleek. http://t.co/FRAqDPKyga” @hellobrittNEY_
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:08:40 -0800
+location: Ga, DC, Kemet

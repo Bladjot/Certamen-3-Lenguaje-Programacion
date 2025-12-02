@@ -1,0 +1,7 @@
+569595399557685248
+American
+.@AmericanAir nice 2 know. I paid 4 a seat. Then you sold my seat. now I bought a 3rd seat. It's a good scam, but a scam all the same.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:31:40 -0800
+location: Washington, DC

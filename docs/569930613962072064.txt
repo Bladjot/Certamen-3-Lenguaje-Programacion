@@ -1,0 +1,7 @@
+569930613962072064
+American
+@AmericanAir how can I when system always hangs up on me?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:43:41 -0800
+location: Allen, TX

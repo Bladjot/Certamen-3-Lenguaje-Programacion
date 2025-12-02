@@ -1,0 +1,7 @@
+569949439101546496
+United
+@united 8602947, jon at http://t.co/58tuTgli0D, thanks.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:58:30 -0800
+location: Santa Rosa, CA

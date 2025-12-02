@@ -1,0 +1,7 @@
+568511254530101248
+Southwest
+@SouthwestAir thank you. Please follow and I will send.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 12:43:40 -0800
+location: Boca Raton, FL

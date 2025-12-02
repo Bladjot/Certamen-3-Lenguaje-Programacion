@@ -1,0 +1,7 @@
+569580180353609729
+United
+@united You cause me to miss my flight telling me it already left when it had not. No empathy from gate staff or crew, no apology. Really?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 11:31:11 -0800
+location: nan

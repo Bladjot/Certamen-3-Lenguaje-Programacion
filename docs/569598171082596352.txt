@@ -1,0 +1,7 @@
+569598171082596352
+United
+@united my last call your customer service agent called me back... As he was stuck on hold to air Canada.. Just hope he's booked me a flight
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:42:41 -0800
+location: Cheltenham

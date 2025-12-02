@@ -1,0 +1,7 @@
+569493077368422400
+Southwest
+@SouthwestAir you cx'ed almost the entire east coast flights All other planes are taking off any traveling fine I need to get to Nev ASAP
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 05:45:04 -0800
+location: Philadelphia PA

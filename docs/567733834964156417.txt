@@ -1,0 +1,7 @@
+567733834964156417
+Delta
+@JetBlue I do not want to deal with your customer service agents with no practical knowledge.Provide me with a direct contact.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 09:14:28 -0800
+location: nan

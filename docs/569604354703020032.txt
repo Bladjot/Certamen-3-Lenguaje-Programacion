@@ -1,0 +1,7 @@
+569604354703020032
+American
+@AmericanAir can you help me with a reservation? cant get through on the phone
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:07:15 -0800
+location: nan

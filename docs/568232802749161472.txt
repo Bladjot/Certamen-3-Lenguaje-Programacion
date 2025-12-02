@@ -1,0 +1,7 @@
+568232802749161472
+US Airways
+@USAirways can you explain why I am on hold over an hour .Other than I'm dumb and should be using a different airline #wth
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 18:17:12 -0800
+location: Wisconsin

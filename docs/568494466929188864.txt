@@ -1,0 +1,7 @@
+568494466929188864
+US Airways
+@USAirways thanks to the gate agent in State College, PA that was able to get me on an earlier flight AND figure out an earlier connection!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 11:36:57 -0800
+location: National, based in Texas

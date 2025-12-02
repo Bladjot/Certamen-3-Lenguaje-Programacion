@@ -1,0 +1,7 @@
+569675144353828864
+Virgin America
+@VirginAmerica you have the absolute best team and customer service ever.  Every time I fly with you I'm delighted.  Thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:48:33 -0800
+location: nan

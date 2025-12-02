@@ -1,0 +1,7 @@
+569907782108839938
+US Airways
+@USAirways / @AmericanAir don't forget without your customers you would be out of business! #epicfail #usairwaysfail
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 09:12:58 -0800
+location: Pennsylvania

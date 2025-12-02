@@ -1,0 +1,7 @@
+570281470507352064
+American
+@AmericanAir pretty lame response to a two paged single spaced letter http://t.co/aCebo6ELPa
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 09:57:52 -0800
+location: nan

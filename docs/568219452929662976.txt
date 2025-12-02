@@ -1,0 +1,7 @@
+568219452929662976
+Delta
+@JetBlue @T5Sparrow Love it. They're cute
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 17:24:09 -0800
+location: New York, New York

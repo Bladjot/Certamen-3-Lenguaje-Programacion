@@ -1,0 +1,7 @@
+569633287204773888
+US Airways
+@USAirways really? No meal vouchers for a 7 hour flight delay out of Virgin Islands...
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:02:13 -0800
+location: Indiana!

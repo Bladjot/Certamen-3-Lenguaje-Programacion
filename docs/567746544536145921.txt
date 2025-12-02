@@ -1,0 +1,7 @@
+567746544536145921
+Southwest
+@SouthwestAir always when I fly SW. #loyalRRmember
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 10:04:59 -0800
+location: Nashville, TN

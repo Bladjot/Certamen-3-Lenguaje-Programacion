@@ -1,0 +1,7 @@
+570015470570639360
+US Airways
+@USAirways and despite tailwind… Will still be Late Flight.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 16:20:53 -0800
+location: BTR/DCA/IAD/MSY - etc

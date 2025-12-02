@@ -1,0 +1,7 @@
+569867947130421249
+US Airways
+@USAirways 4473.  She just called to say it's a runway clearing problem of all things.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 06:34:40 -0800
+location: Washington DC

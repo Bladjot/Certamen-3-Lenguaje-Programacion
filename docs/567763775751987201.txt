@@ -1,0 +1,7 @@
+567763775751987201
+Southwest
+@SouthwestAir an entire flight of luggage missing at #dca.  Over an hour and nobody knows anything.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 11:13:27 -0800
+location: Here and there.

@@ -1,0 +1,7 @@
+569473302940372992
+United
+@united met with agent. All taken care of. Thx for reply
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 04:26:30 -0800
+location: nan

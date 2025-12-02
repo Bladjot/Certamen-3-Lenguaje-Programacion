@@ -1,0 +1,7 @@
+569671596744380416
+Southwest
+@SouthwestAir constantly providing wonderful views and service! #SouthwestLuv http://t.co/9UNxqOTzIK
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:34:27 -0800
+location: MINNESOTA

@@ -1,0 +1,7 @@
+567832821013848064
+US Airways
+@USAirways if I cant get through to reservations how can they take a look? 2+ hour hold times are not reasonable in any industry!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 15:47:49 -0800
+location: Always Traveling

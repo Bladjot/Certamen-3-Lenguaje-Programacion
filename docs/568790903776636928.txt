@@ -1,0 +1,7 @@
+568790903776636928
+US Airways
+@USAirways your customer service is a nightmare. I have been on hold for 1 hour. I'm a platinum member with AA and feel like it's worthless
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 07:14:53 -0800
+location: Jamaica

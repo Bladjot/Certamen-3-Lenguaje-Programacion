@@ -1,0 +1,7 @@
+570271138464419840
+Southwest
+@SouthwestAir need to learn how to treat people with respect and just a little dignity. #FAIL
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 09:16:49 -0800
+location: The next President of Libya

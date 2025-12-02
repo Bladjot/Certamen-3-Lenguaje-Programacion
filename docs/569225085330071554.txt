@@ -1,0 +1,7 @@
+569225085330071554
+Southwest
+@SouthwestAir could u put one here in Baltimore? http://t.co/vLCI2KV1IP
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 12:00:10 -0800
+location: nan

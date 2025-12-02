@@ -1,0 +1,7 @@
+567848544893169664
+United
+@united What does "Cabin Functionality" mean when I'm taking a customer satisfaction survey?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 16:50:17 -0800
+location: Amsterdam or 30,000 Feet

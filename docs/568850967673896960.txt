@@ -1,0 +1,7 @@
+568850967673896960
+Virgin America
+@VirginAmerica husband and I ordered three drinks via my screen and they never came. Awesome!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 11:13:34 -0800
+location: dc

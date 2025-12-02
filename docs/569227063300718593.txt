@@ -1,0 +1,8 @@
+569227063300718593
+Southwest
+@SouthwestAir can u follow so I can DM a confirmation number I need confirmed to Cancelled Flight?
+I will call to confirm Monday for refund
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 12:08:02 -0800
+location: nan

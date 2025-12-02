@@ -1,0 +1,7 @@
+570229133445242880
+United
+@united so you're telling me there is no number to call after being left in an airport because of a negligent pilot and staff?
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 06:29:54 -0800
+location: nan

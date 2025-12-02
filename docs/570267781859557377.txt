@@ -1,0 +1,7 @@
+570267781859557377
+US Airways
+@USAirways but I've been trying to call them since yesterday and I keep getting hung up on? Can you get me through to them??
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 09:03:28 -0800
+location: nan

@@ -1,0 +1,7 @@
+570195373018505216
+Delta
+@JetBlue why do this to me sending N598JB to UVF today and its a weekday why not a weekend :'(
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 04:15:45 -0800
+location: Dubai

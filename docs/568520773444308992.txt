@@ -1,0 +1,7 @@
+568520773444308992
+Southwest
+@SouthwestAir Luvin me some flights today!! Don't change!!  And please add Paypal as payment option!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 13:21:29 -0800
+location: Florida

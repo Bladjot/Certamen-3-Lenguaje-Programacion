@@ -1,0 +1,7 @@
+570101746590093312
+US Airways
+@USAirways my bag landed 1 day Late Flight at sfo at 11:40am. How can it be 10:01pm and I still don't have it? Flight 719 2/22/14
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 22:03:43 -0800
+location: nan

@@ -1,0 +1,7 @@
+567878205157281793
+Southwest
+.@SouthwestAir I appreciate that, and not to be rude, but it doesn't solve much. You should AT LEAST cover the cost of stolen goods.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 18:48:09 -0800
+location: Austin, TX

@@ -1,0 +1,7 @@
+568527922576777216
+Delta
+@JetBlue excited for my first flight w/ you today! It's delayed though- can you give me the 411? Flight number 989 from Boston to DC
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 13:49:54 -0800
+location: Boston College

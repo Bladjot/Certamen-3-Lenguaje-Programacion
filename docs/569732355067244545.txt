@@ -1,0 +1,7 @@
+569732355067244545
+American
+@AmericanAir when will tomorrow's flight Cancelled Flightlations at Dfw for AA flights be posted? We are on 2424 at 7am from LAX!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 21:35:53 -0800
+location: nan

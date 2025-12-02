@@ -1,0 +1,7 @@
+569221317486116864
+Southwest
+@SouthwestAir I've been on hold for the last 2 hours - no progress #pleasehelp #stranded #whenitsnowsitpours #tgcyaLate Flightr
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 11:45:12 -0800
+location: washington, d.c.

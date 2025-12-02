@@ -1,0 +1,7 @@
+569701285588541441
+Southwest
+@SouthwestAir waited 34 mins for baggage MDW&gt;MEM and the in-flight service was suspended so no drink 😕
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 19:32:25 -0800
+location: Memphis

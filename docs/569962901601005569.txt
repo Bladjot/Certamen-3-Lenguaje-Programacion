@@ -1,0 +1,7 @@
+569962901601005569
+American
+@AmericanAir I had booked online but unable to Cancelled Flight online. But finally got thru.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:51:59 -0800
+location: nan

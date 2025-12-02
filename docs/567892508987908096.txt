@@ -1,0 +1,7 @@
+567892508987908096
+Delta
+@JetBlue I hope your system wasn't hacked cause someone else's passport info was on my reservation &amp; I couldn't get my boarding pass
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 19:44:59 -0800
+location: Orange County, USA

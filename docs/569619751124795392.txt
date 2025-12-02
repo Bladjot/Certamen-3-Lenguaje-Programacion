@@ -1,0 +1,7 @@
+569619751124795392
+Southwest
+@SouthwestAir if you have a rules you should probably apply them all the times not just sometimes. #shouldhaveflownjetblue
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 14:08:26 -0800
+location: nan

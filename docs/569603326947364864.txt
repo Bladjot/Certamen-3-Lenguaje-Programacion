@@ -1,0 +1,7 @@
+569603326947364864
+Southwest
+@SouthwestAir - thanks for Cancelled Flighting our flight to BOS. We're stranded in DEN til Wed night. The 7 of us will never fly #southwest again
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 13:03:10 -0800
+location: nan

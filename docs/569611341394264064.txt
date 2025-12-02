@@ -1,0 +1,7 @@
+569611341394264064
+US Airways
+@USAirways we've now learned to never fly with u again. You've lost 16 customers from our group + the hundreds more from our company
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 13:35:01 -0800
+location: Philly

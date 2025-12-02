@@ -1,0 +1,7 @@
+569988762085806081
+United
+@united I did... no response back
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:34:45 -0800
+location: Morristown, nj

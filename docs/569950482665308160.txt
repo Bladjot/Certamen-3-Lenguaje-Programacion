@@ -1,0 +1,7 @@
+569950482665308160
+US Airways
+@USAirways - thanks, I hope so. Maybe you can put in a good word for me? ;-)
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 12:02:38 -0800
+location: nan

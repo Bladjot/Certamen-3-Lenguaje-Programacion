@@ -1,0 +1,7 @@
+570036327825195008
+American
+@AmericanAir Gabriela in Miami is a very rude employee.Working the MIA-LGA check In. She made experience unpleasant.  #customerexperience
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 17:43:45 -0800
+location: Harrison, New York

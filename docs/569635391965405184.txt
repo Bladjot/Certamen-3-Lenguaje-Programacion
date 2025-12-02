@@ -1,0 +1,7 @@
+569635391965405184
+US Airways
+@USAirways always letting me down. 👊
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 15:10:35 -0800
+location: Charlotte, NorCack

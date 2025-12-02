@@ -1,0 +1,7 @@
+569529416155402240
+US Airways
+@USAirways F623 DEN:PHX. Serious display of poor customer service exhibited by flight crew today.   #newamericanairline #cheapslogannotmotto
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 08:09:28 -0800
+location: colorado

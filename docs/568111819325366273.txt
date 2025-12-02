@@ -1,0 +1,7 @@
+568111819325366273
+Southwest
+@SouthwestAir just sent you a DM w/ additonal info
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 10:16:27 -0800
+location: Los Angeles, CA

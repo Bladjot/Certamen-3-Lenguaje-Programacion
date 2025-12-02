@@ -1,0 +1,7 @@
+568114056034324480
+US Airways
+@USAirways that's ok, just know that I'll most likely never book with you again
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 10:25:20 -0800
+location: nan

@@ -1,0 +1,7 @@
+567777743665946624
+US Airways
+@USAirways  Have an agent with reservations contact me instead of asking me to waste my time by sitting on the phone for hours
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 12:08:57 -0800
+location: nan

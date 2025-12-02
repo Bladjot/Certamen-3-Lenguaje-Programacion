@@ -1,0 +1,7 @@
+569555719885885441
+Southwest
+@SouthwestAir - neveryamind I paid $450 for a flight. 250 for a new bag is easy for business class customers, right? http://t.co/vn3JJIa53O
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-22 09:54:00 -0800
+location: 31.708674,34.993824

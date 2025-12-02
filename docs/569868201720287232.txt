@@ -1,0 +1,7 @@
+569868201720287232
+American
+@AmericanAir I've witnessed a manager named Denise yell at 2 different customers with my same issue. #rude
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:35:41 -0800
+location: Los Angeles

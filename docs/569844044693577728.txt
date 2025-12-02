@@ -1,0 +1,7 @@
+569844044693577728
+American
+@AmericanAir  @SouthwestAir  — Y'all will like this one. http://t.co/hF8aJZ4ffl
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 04:59:42 -0800
+location: Wichita Falls, Texas

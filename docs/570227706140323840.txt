@@ -1,0 +1,7 @@
+570227706140323840
+Delta
+@JetBlue A320 pulling into the gate as the sunrises here at @BostonLogan this morning #jetbluesofly #jetblue #airbus http://t.co/JGdu5us8Dz
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 06:24:14 -0800
+location: Boston, MA

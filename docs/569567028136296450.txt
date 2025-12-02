@@ -1,0 +1,7 @@
+569567028136296450
+Southwest
+@SouthwestAir my flight continues through to Vegas after my stop. Don't be upset if a stowaway.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 10:38:56 -0800
+location: nan

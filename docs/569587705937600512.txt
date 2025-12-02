@@ -1,0 +1,7 @@
+569587705937600512
+American
+@AmericanAir my flight was Cancelled Flightled, leaving tomorrow morning. Auto rebooked for a Tuesday night flight but need to arrive Monday.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 12:01:06 -0800
+location: Los Angeles

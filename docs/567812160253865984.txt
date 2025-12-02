@@ -1,0 +1,7 @@
+567812160253865984
+United
+@united No. The entire problem here is that I was never sent anything via email and only given a Flight Booking Problems number over the phone.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 14:25:43 -0800
+location: NYC, Toronto

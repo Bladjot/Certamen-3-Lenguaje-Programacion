@@ -1,0 +1,7 @@
+569992620744708096
+US Airways
+.@USAirways and then you said I could move my Thursday flight for free if I CALL A NUMBER. And then you HANG UP ON ME.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:50:05 -0800
+location: Florida Raised, NYC Based

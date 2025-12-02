@@ -1,0 +1,7 @@
+569914641414905856
+American
+@AmericanAir you're not finding it bc @united  rebooked us on your airline when they realized they couldn't get us home - and we're at ORD
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 09:40:13 -0800
+location: nan

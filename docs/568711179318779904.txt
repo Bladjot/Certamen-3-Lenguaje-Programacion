@@ -1,0 +1,7 @@
+568711179318779904
+Delta
+@JetBlue ETA for flight 802 into Orlando this morning
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 01:58:05 -0800
+location: nan

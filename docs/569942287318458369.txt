@@ -1,0 +1,7 @@
+569942287318458369
+American
+@AmericanAir Kudos to the crew of Flt 167 today. Specially to Carlton. Loved your new 767-300. Keep up the good work AA!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 11:30:04 -0800
+location: PR/Miami/San Francisco

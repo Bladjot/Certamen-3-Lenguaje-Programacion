@@ -1,0 +1,7 @@
+569864892695490560
+American
+@AmericanAir Thanks. Took care of it. Issue was IVR was unclear and took too long to get a call-back option. Would love to see that fixed.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 06:22:32 -0800
+location: DFW

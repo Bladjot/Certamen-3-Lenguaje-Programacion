@@ -1,0 +1,7 @@
+569183494259273728
+Southwest
+@SouthwestAir trying to rebook flight. On hold for 23 mins before disconnected and now almost 40 mins? Unbelievable. http://t.co/0BJNz4EIX5
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 09:14:54 -0800
+location: Nashville, TN

@@ -1,0 +1,7 @@
+568769672922812418
+Virgin America
+@VirginAmerica can't check in, your site looks like this every time it loads http://t.co/kAcY2AwDbW
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 05:50:31 -0800
+location: San Francisco, CA

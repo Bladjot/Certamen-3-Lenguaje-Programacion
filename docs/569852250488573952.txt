@@ -1,0 +1,7 @@
+569852250488573952
+American
+@AmericanAir 2days 2plains 2fails
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 05:32:18 -0800
+location: Albuquerque,New Mexico

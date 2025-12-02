@@ -1,0 +1,7 @@
+569701004188508161
+Southwest
+@southwestair yeah, 7am flight tomorrow, going to add 60-90 min extra because of the roads / snow
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 19:31:18 -0800
+location: Boulder

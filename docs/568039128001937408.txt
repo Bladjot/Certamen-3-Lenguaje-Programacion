@@ -1,0 +1,7 @@
+568039128001937408
+Delta
+@JetBlue why yes, yes it does!!!!  Great trip down!! Thanks for the lift!!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 05:27:36 -0800
+location: nan

@@ -1,0 +1,8 @@
+568561041774231553
+United
+@united What happened this afternoon? Huge amt of incoming planes to SFO delayed over 1-2 hours.
+Frustrating!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 16:01:30 -0800
+location: Irvine, CA

@@ -1,0 +1,7 @@
+568817985147654144
+United
+@united flight 5187 to be specific. The last two were probably 30 feet apart and within sight of each other
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 09:02:30 -0800
+location: San Francisco

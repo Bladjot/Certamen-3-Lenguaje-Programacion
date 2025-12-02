@@ -1,0 +1,7 @@
+568579899243380736
+Delta
+@JetBlue here in Austin I saw the water bottles &amp; snacks @ the desk for your waiting passengers! Im so Flight Booking Problems my next flight with you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 17:16:26 -0800
+location: nan

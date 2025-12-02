@@ -1,0 +1,7 @@
+567887646162161664
+Southwest
+@SouthwestAir I left my iPad on my flight 1831 from ERW to DEN. I opened claim 442998. It has so many memories on it. Plz help get it back.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 19:25:40 -0800
+location: nan

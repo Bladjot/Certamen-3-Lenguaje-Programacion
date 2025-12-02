@@ -1,0 +1,7 @@
+568920244691070976
+Delta
+.@JetBlue process begins 6:48
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 15:48:51 -0800
+location: planet earth

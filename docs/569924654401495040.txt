@@ -1,0 +1,7 @@
+569924654401495040
+Delta
+@JetBlue no. Please stop.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 10:20:00 -0800
+location: Home: IAD, College: JFK

@@ -1,0 +1,7 @@
+569973105075990528
+American
+@AmericanAir thank you, truly appreciate the help, just sent a DM
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 13:32:32 -0800
+location: Milky Way:Orion Arm:Earth:DFW

@@ -1,0 +1,7 @@
+569284604567228416
+Delta
+@JetBlue thanks. Can you change the music in the boarding gates?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 15:56:41 -0800
+location: Boston

@@ -1,0 +1,7 @@
+568550060461408257
+US Airways
+@USAirways flight 500 out of Seattle has 10,000lbs too much fuel and no water for the lavoratories. Nice job guys - est 40min behind now
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 15:17:52 -0800
+location: Seattle

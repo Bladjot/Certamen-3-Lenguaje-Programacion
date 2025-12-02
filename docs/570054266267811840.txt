@@ -1,0 +1,7 @@
+570054266267811840
+US Airways
+@USAirways no worries, your flight attendant took care of it.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 18:55:02 -0800
+location: Knoxville, TN

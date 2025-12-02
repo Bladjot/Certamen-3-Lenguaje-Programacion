@@ -1,0 +1,7 @@
+569723932355358720
+United
+@united clicked "upgrade now" and it didn't upgrade. What gives? http://t.co/N7oSjz8a59
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 21:02:25 -0800
+location: Rose Bubble

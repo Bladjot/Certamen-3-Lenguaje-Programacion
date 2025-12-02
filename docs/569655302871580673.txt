@@ -1,0 +1,7 @@
+569655302871580673
+US Airways
+@USAirways please have your people hold flight 599 from Phoenix to San Jose.  We pulling up to the gate! Scheduled to depart at 5:40
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:29:42 -0800
+location: South

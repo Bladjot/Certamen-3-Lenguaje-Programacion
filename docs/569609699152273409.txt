@@ -1,0 +1,7 @@
+569609699152273409
+American
+@AmericanAir my itinerary was from EWR TO DALLAS to LA. You Cancelled Flightled my flight, you have my money, find a way to get me there from EWR
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 13:28:29 -0800
+location: New Jersey

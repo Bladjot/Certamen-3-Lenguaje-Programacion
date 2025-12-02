@@ -1,0 +1,7 @@
+569493923451834369
+US Airways
+@USAirways claimed my flight Cancelled Flighted because PHL runway not good but Delta flight at same exact time is taking off on time.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 05:48:26 -0800
+location: nan

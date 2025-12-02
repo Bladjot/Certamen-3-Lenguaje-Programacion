@@ -1,0 +1,7 @@
+570201707621146624
+United
+@united This ALWAYS happens with you guys, and it makes traveling incredibly stressful and uncomfortable. Is that good business to you?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 04:40:55 -0800
+location: Seattle

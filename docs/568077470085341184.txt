@@ -1,0 +1,7 @@
+568077470085341184
+US Airways
+@USAirways Does your company see passengers as customers or just $$$?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 07:59:57 -0800
+location: Richmond, Virginia

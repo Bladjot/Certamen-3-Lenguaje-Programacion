@@ -1,0 +1,7 @@
+570047059878936576
+Delta
+@JetBlue AIRPORT CODE TEST GO. SLC.  BOS MCO
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 18:26:24 -0800
+location: Logan International Airport

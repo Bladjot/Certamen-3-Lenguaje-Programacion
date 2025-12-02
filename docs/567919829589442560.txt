@@ -1,0 +1,7 @@
+567919829589442560
+Southwest
+@SouthwestAir my bag was Late Flight-checked and put on a different flight from OAK-&gt;MSY. Having troubles tracking it down. Any help?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 21:33:33 -0800
+location: Oakland, CA

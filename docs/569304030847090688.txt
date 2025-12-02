@@ -1,0 +1,7 @@
+569304030847090688
+Virgin America
+@VirginAmerica trying to book a flight with you guys and your website won't let me... about to lose my business
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 17:13:52 -0800
+location: New York, NY

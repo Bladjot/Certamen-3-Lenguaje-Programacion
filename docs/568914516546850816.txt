@@ -1,0 +1,7 @@
+568914516546850816
+US Airways
+@USAirways it's not misjudging it's a deliberate strategy. Seen it multiple times on USAir. Makes staff life easier at expens of passengers
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 15:26:05 -0800
+location: Cambridge, MA

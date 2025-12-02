@@ -1,0 +1,7 @@
+570245402982785024
+American
+@AmericanAir guess that's what I get for bragging on you. I fly you by choice unlike others who fly because they don't have other options JS
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 07:34:33 -0800
+location: nan

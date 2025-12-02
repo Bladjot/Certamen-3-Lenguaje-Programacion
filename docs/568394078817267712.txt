@@ -1,0 +1,7 @@
+568394078817267712
+Delta
+@JetBlue OH YEAH!!! great flight down to Mexico with a wonderful crew!! Thank you!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 04:58:03 -0800
+location: Bay Shore NY

@@ -1,0 +1,7 @@
+570278619416694784
+Delta
+@JetBlue Thanks for the quick reply! Just wanted to make sure it wasn't just my account :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 09:46:32 -0800
+location: Seattle

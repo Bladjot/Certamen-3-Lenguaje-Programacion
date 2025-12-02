@@ -1,0 +1,7 @@
+568502766747971585
+Delta
+@JetBlue thanks to Julian at login for getting me onto an earlier flight back to DCA
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 12:09:56 -0800
+location: NOVA

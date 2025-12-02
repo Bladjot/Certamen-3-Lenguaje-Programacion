@@ -1,0 +1,7 @@
+569625456816709633
+American
+@AmericanAir that's unacceptable. They should allow me to wait on hold, or take my number and call me themselves.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:31:06 -0800
+location: nan

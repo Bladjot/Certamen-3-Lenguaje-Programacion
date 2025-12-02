@@ -1,0 +1,7 @@
+569526070615138304
+United
+@United give me a direct number I can call regarding my lost baggage immediately.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 07:56:11 -0800
+location: iPhone: 55.946030,-3.189382

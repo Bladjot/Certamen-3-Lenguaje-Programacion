@@ -1,0 +1,7 @@
+569656281885077505
+American
+@AmericanAir What's the best way to check on any delays or Cancelled Flightlations for my flight out of DFW on Tuesday?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:33:35 -0800
+location: nan

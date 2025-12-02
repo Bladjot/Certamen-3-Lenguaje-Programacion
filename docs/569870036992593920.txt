@@ -1,0 +1,7 @@
+569870036992593920
+US Airways
+@USAirways Discovered our flight was Cancelled Flightled yesterday at 3:30PM - @americanairlnes finally notified us our flight was Cancelled Flighted at 0316 AM
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 06:42:59 -0800
+location: Southeastern Pennsylvania USA

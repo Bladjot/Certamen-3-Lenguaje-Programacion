@@ -1,0 +1,7 @@
+568549060103135232
+United
+@united @annricord Great! Appreciate it😊
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 15:13:53 -0800
+location: Canmore

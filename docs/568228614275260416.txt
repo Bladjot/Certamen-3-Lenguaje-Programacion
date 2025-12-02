@@ -1,0 +1,7 @@
+568228614275260416
+US Airways
+@USAirways attempting ckin for flight on 2/19 all day, site unable to retrieve details.  Called twice and disconnected.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 18:00:33 -0800
+location: nan

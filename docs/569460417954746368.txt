@@ -1,0 +1,7 @@
+569460417954746368
+United
+@united  once again your customer service at the providence airport was horrible. Do you actually care about customers or just making money?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 03:35:18 -0800
+location: san diego

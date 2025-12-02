@@ -1,0 +1,7 @@
+568829686257623040
+Southwest
+@SouthwestAir is that @MurraySawChuck
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 09:49:00 -0800
+location: Las Vegas, NV

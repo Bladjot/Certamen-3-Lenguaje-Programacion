@@ -1,0 +1,7 @@
+569587371693355008
+American
+@AmericanAir leaving over 20 minutes Late Flight. No warnings or communication until we were 15 minutes Late Flight. That's called shitty customer svc
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 11:59:46 -0800
+location: Texas

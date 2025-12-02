@@ -1,0 +1,7 @@
+567793538134716417
+Southwest
+@SouthwestAir can i take my electric skateboard on a domestic flight? if so, do same policies listed on your site for regular boards apply?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 13:11:43 -0800
+location: nan

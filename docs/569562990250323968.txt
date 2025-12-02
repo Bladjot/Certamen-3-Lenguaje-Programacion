@@ -1,0 +1,7 @@
+569562990250323968
+Delta
+@JetBlue My wife was with our dog.  They wouldn't even let her out off the plane.  My daughter was at Newburgh lives close by. So wrong
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 10:22:53 -0800
+location: Long Island - Arizona

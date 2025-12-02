@@ -1,0 +1,7 @@
+568448282239713280
+Southwest
+@SouthwestAir, rude customer svc, won't accommodate an earlier flight w/o $400 charge. US Mail takes priority over customers. #badservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 08:33:26 -0800
+location: nan

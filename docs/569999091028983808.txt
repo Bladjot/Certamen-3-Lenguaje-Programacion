@@ -1,0 +1,7 @@
+569999091028983808
+American
+@AmericanAir I fly American because of family but severe weather excuse so I can't call to make change, why have a computer if u cant modify
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 15:15:48 -0800
+location: Lake County, Illinois

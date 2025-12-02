@@ -1,0 +1,7 @@
+568103931307405312
+Southwest
+@SouthwestAir allows you to change a flight once for no fee, yay! I will always book flights with them. @AmericanAir changes you $200
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 09:45:06 -0800
+location: Austin, TX

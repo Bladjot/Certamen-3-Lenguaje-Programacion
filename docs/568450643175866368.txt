@@ -1,0 +1,7 @@
+568450643175866368
+Southwest
+@SouthwestAir I already follow you and can't DM because u need to follow me back
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 08:42:49 -0800
+location: Tempe, AZ

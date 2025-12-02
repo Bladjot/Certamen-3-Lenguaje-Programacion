@@ -1,0 +1,7 @@
+569890309624082432
+US Airways
+@USAirways would have been nice to be offered in flight credit. Especially since I'm staring at empty overhead room.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 08:03:32 -0800
+location: nan

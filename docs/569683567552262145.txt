@@ -1,0 +1,7 @@
+569683567552262145
+United
+@united, you just caused a riot on the airplane. Never seen anything like this
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 18:22:01 -0800
+location: nan

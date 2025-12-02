@@ -1,0 +1,7 @@
+567820135265759232
+US Airways
+@USAirways strikes again. @emilylyonss  I strongly suggest you live tweet your ordeal. Their media team appreciates the updates 😎
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 14:57:24 -0800
+location: nan

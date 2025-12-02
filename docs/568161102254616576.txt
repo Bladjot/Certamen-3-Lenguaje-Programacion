@@ -1,0 +1,7 @@
+568161102254616576
+Delta
+@JetBlue do you have mint service from NYC to San Diego?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 13:32:17 -0800
+location: NY

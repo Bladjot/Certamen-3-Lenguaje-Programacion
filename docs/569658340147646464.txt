@@ -1,0 +1,7 @@
+569658340147646464
+American
+@AmericanAir I'm on 1024 into Dallas. Do I have any chance of catching 2238 to Boston? Do I need to run from Gate D6 to A15?.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:41:46 -0800
+location: Boston, MA

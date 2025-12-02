@@ -1,0 +1,7 @@
+569280157678071808
+United
+@united yes, after landing at 930pm last night. Spoke to 10 baggage claim customer service reps. Finally spoke to one amazing ticket agent.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 15:39:00 -0800
+location: Hoboken, NJ

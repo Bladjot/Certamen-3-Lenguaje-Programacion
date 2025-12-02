@@ -1,0 +1,7 @@
+568491460250742784
+US Airways
+@USAirways is probably losing a family of world travelers as customers due to broken processes. @AmericanAir I hope you can fix it
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 11:25:00 -0800
+location: Scottsdale, AZ

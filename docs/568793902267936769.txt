@@ -1,0 +1,7 @@
+568793902267936769
+United
+@united Who can I contact about requesting a charity donation? #ThankYou
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 07:26:48 -0800
+location: Ohio (by way of Nebraska)

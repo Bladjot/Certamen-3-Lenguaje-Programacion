@@ -1,0 +1,7 @@
+569651320736522240
+American
+@AmericanAir we did for the last 8 hours.  Your customer service is horrendous.  I should have flown Delta
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:13:53 -0800
+location: nan

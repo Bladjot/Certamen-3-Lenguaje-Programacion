@@ -1,0 +1,7 @@
+567762333779628032
+Southwest
+@SouthwestAir why are you the ONLY airline that is not flying out of BNA today?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 11:07:43 -0800
+location: nan

@@ -1,0 +1,7 @@
+569699607707398146
+American
+@AmericanAir i hope it takes you 6 hours to get home when it should take 20. my flight was Cancelled Flightled because they "couldn't staff the plane"
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 19:25:45 -0800
+location: nan

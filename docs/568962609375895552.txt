@@ -1,0 +1,7 @@
+568962609375895552
+United
+@united Bag was finally delivered and intact. Thanks for your assistance.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 18:37:11 -0800
+location: Someplace saving something

@@ -1,0 +1,7 @@
+567875130824658946
+United
+@united it's messed up to refuse to wait 10 min after united is at fault for delay but to leave early is absolutely disgusting.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 18:35:56 -0800
+location: Irvine

@@ -1,0 +1,7 @@
+569290509883187202
+US Airways
+@USAirways your ticket agents at gate 4 in Providence airport rocked tonight, especially Kristy, sorry if that is not the correct spelling.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 16:20:09 -0800
+location: san diego

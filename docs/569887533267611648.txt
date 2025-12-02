@@ -1,0 +1,7 @@
+569887533267611648
+US Airways
+@USAirways Seriously doubt that as I am still sitting inside at the gate.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 07:52:30 -0800
+location: Boston, MA

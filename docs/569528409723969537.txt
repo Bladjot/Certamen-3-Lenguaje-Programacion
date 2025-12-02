@@ -1,0 +1,7 @@
+569528409723969537
+US Airways
+@USAirways 40 minutes in baggage claim and no sign of luggage from our flight. UsAirways- your incompetence is overwhelming
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 08:05:28 -0800
+location: Doylestown, PA

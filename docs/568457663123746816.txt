@@ -1,0 +1,7 @@
+568457663123746816
+US Airways
+@USAirways I've been on a music hold for over a hour trying to get my AAdvantage membership merged, can someone please call me ASAP?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 09:10:42 -0800
+location: New York, NY | Brooklyn

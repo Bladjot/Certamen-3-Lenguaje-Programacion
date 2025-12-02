@@ -1,0 +1,7 @@
+570066226233417728
+American
+@AmericanAir seats that were assigned are inappropriate for child this age. AA knew age of child.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 19:42:34 -0800
+location: SE USA

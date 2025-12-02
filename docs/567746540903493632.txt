@@ -1,0 +1,7 @@
+567746540903493632
+United
+@united Not fast enough.  No excuse for service between big hubs to have such outdated craft. Southwest has wifi. This is awful.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 10:04:58 -0800
+location: Houston

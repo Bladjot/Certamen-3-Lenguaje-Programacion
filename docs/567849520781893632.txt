@@ -1,0 +1,7 @@
+567849520781893632
+Virgin America
+@VirginAmerica Why is it taking 12 years to fly home to Dallas? Get your shit together.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 16:54:10 -0800
+location: Texas

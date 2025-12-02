@@ -1,0 +1,7 @@
+570300817074462722
+Virgin America
+@VirginAmerica and it's a really big bad thing about it
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 11:14:45 -0800
+location: nan

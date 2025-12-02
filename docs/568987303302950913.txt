@@ -1,0 +1,7 @@
+568987303302950913
+United
+@united THAT'S the tweet u choose to answer, to tell me you're not liable?! #youretheworst #neveragain
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 20:15:19 -0800
+location: nan

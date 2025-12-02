@@ -1,0 +1,7 @@
+569927042931814400
+American
+@americanair 30 minutes since landing - flight 1531 from Miami and no luggage- what's the delay
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 10:29:30 -0800
+location: NYC area

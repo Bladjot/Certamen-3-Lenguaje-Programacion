@@ -1,0 +1,7 @@
+567985483135000576
+United
+@united &lt;&lt;&lt;&lt;&lt;------- shoddy customer service. Of no use whatsoever. #unitedairline
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 01:54:26 -0800
+location: bonkers in Yonkers

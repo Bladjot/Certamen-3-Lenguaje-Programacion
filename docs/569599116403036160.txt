@@ -1,0 +1,7 @@
+569599116403036160
+American
+@AmericanAir Not only was 5418 Late Flight, but we've been boarded and waiting for over 30min. WTF?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 12:46:26 -0800
+location: Lake Arrowhead

@@ -1,0 +1,7 @@
+569484900828491776
+US Airways
+@USAirways and at this point I don't need sorry, I need a revers agt to pick up the call so maybe we can make the 11:30 flight today
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 05:12:35 -0800
+location: nan

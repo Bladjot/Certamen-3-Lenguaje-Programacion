@@ -1,0 +1,7 @@
+569981026598043648
+US Airways
+@USAirways direct flights to SFO leaving from same airport with @VirginAmerica and @united - can you please put me on one of those?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:04:01 -0800
+location: Washington D.C.

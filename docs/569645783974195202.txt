@@ -1,0 +1,7 @@
+569645783974195202
+American
+@AmericanAir Got an email about an itinerary change, but can't seem to get to anyone on phone. New flight time doesn't work for me. Help?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:51:53 -0800
+location: Toronto

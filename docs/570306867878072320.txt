@@ -1,0 +1,7 @@
+570306867878072320
+American
+@AmericanAir aa employees were rude and unwilling to help. 10,000 miles is a rotten cherry on top of a dog shit Sunday. #nocareforcustomers
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 11:38:47 -0800
+location: MN

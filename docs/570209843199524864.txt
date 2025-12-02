@@ -1,0 +1,7 @@
+570209843199524864
+Southwest
+@SouthwestAir - We left iPad in a seat pocket.  Filed lost item report. Received it exactly 1 week Late Flightr.  Is that a record?  #unbelievable
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 05:13:15 -0800
+location: Chicago

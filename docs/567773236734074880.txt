@@ -1,0 +1,7 @@
+567773236734074880
+Southwest
+@SouthwestAir Is there any way to add a Known Traveler Number to an existing reservation online?  If not, why not?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 11:51:03 -0800
+location: nan

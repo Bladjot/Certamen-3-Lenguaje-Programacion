@@ -1,0 +1,7 @@
+567972416846217216
+Virgin America
+@VirginAmerica Never had a bad experience before, but this one took the cake. Now extortion for carry on items as well?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 01:02:31 -0800
+location: nan

@@ -1,0 +1,7 @@
+569600009097904128
+US Airways
+@USAirways Really hoping I don't get charged for this flight because they couldn't handle the influx of calls. Bummer.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:49:59 -0800
+location: The Wilming Town

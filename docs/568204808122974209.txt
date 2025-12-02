@@ -1,0 +1,7 @@
+568204808122974209
+United
+@united hello. I'm overseas &amp; my bag is lost. I can't call customer service but can you help me?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 16:25:57 -0800
+location: ny

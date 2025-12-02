@@ -1,0 +1,7 @@
+569955742276407297
+American
+@AmericanAir Uhmmm we need @JColeNC down in Dallas,Tx for his tour 😫😫😫
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:23:32 -0800
+location: nan

@@ -1,0 +1,7 @@
+569995235608137728
+Southwest
+@SouthwestAir opened online applications for Fall 2015 intern positions throughout the company.  Apply via https://t.co/GmL7ot3IMH
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 15:00:28 -0800
+location: Dallas, TX

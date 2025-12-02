@@ -1,0 +1,7 @@
+569924355011932162
+United
+@united Oh, we are sure it's not planned, but it occurs absolutely consistently, it's usually the only YYJ flight that's Cancelled Flightled daily.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 10:18:49 -0800
+location: Downtown Victoria

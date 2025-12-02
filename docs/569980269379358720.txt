@@ -1,0 +1,7 @@
+569980269379358720
+Southwest
+@SouthwestAir do these scavenger hunt  locations have anything in common because I'm playing detective trying to figure out the one for ATL.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 14:01:00 -0800
+location: nan

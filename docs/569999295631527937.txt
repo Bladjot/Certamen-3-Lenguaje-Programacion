@@ -1,0 +1,7 @@
+569999295631527937
+American
+@AmericanAir Additional fare cost $19.. Tix change price 195 UK Pounds ($304). $19 not the issue the 195 UK Pounds IS ! #badcustomerservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 15:16:36 -0800
+location: nan

@@ -1,0 +1,7 @@
+569727598130962432
+American
+@AmericanAir Thanks, she did her best. Staying the night in Dallas, new trial to Detroit via Atlanta tomorrow, assuming no Cancelled Flightlations.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 21:16:59 -0800
+location: Finn between Detroit & Toledo

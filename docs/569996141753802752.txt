@@ -1,0 +1,7 @@
+569996141753802752
+Delta
+@JetBlue CEO's challenge: appease passengers, Wall Street - The Columbian http://t.co/pG96ys9aSW
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 15:04:04 -0800
+location: UK

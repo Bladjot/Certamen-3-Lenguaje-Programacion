@@ -1,0 +1,7 @@
+569682751063924736
+US Airways
+@USAirways  flight missed due to mech issue. No food voucher, transported to different airport, no rental reimbursement 😡
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:18:46 -0800
+location: nan

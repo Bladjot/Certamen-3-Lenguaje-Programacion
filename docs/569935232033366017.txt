@@ -1,0 +1,7 @@
+569935232033366017
+Virgin America
+@VirginAmerica what is going on with customer service? Is there anyway to speak to a human asap? Thank you.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:02:02 -0800
+location: nan

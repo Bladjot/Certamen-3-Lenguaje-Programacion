@@ -1,0 +1,7 @@
+568218884060241920
+US Airways
+@USAirways being told 'tough break and this is how it is' is unacceptable. You can't even tell me when my bags will be here
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 17:21:53 -0800
+location: Phoenix, AZ

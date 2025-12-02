@@ -1,0 +1,7 @@
+568893275907575808
+United
+@united assume those benefits only apply to my own reservation. Any way my partner (on diff res) can use them? Can we combine res?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 14:01:41 -0800
+location: San Jose, CA

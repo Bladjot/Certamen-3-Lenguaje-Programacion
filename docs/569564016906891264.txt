@@ -1,0 +1,7 @@
+569564016906891264
+Delta
+@JetBlue what gives? Delayed over 2 hours at MCO to JFK. Every time!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 10:26:58 -0800
+location: nan

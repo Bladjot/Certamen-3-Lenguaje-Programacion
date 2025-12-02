@@ -1,0 +1,7 @@
+570309156290367488
+Southwest
+@SouthwestAir still waiting. Just hit one hour.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-24 11:47:53 -0800
+location: Today I'm in: Maryland

@@ -1,0 +1,7 @@
+569662906842750976
+US Airways
+@USAirways Another great flight #FunFlightAttendants. Thanks for showing my dad wonderful customer service. #flt635 #LAX #PHX #SundayFunday
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 16:59:55 -0800
+location: nan

@@ -1,0 +1,7 @@
+569786457998680064
+American
+@AmericanAir my bag is still in Miami and cannot be located?! How do you loose a bag like that? With a tag and everything?? (2)
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 01:10:52 -0800
+location: nan

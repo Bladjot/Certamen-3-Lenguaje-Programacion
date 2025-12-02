@@ -1,0 +1,7 @@
+569248843532886016
+United
+@united the upgrade to first class was a nice way to fix your earlier mistake. Thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 13:34:35 -0800
+location: Grand Rapids, Michigan

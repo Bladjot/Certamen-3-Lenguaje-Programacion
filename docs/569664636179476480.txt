@@ -1,0 +1,7 @@
+569664636179476480
+Delta
+@JetBlue your crew didn't say it was about safety. If they say that I was glad to stay ... Check the information you give to the costumers
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:06:47 -0800
+location: nan

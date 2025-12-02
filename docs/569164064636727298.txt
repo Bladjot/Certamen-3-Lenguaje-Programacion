@@ -1,0 +1,7 @@
+569164064636727298
+Southwest
+@SouthwestAir - been on hold forever. My first flight was Cancelled Flightled but my 2nd flight is still on time - HELP!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 07:57:42 -0800
+location: Long Island, NY

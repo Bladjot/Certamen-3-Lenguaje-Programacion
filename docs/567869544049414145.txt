@@ -1,0 +1,7 @@
+567869544049414145
+United
+@united I sent an email describing my experience. Looking forward to a follow up to hopefully make it right.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 18:13:44 -0800
+location: nan

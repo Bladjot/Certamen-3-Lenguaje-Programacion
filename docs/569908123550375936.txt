@@ -1,0 +1,7 @@
+569908123550375936
+United
+@united in ORD hotel issued to my 4yr old. Tickets needed fixing again another hour and 5 agents l8r nightmare still not over
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:14:19 -0800
+location: Taipei

@@ -1,0 +1,7 @@
+570267287883616256
+American
+@AmericanAir change fee = same price of new ticket... Not logical
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 09:01:31 -0800
+location: nan

@@ -1,0 +1,7 @@
+568464076122279937
+United
+@united Contacted yesterday and was told that there's nothing they can do - they suggested I email for some compensation ??? cust service???
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 09:36:11 -0800
+location: nan

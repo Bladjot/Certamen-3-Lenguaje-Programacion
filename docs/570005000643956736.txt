@@ -1,0 +1,7 @@
+570005000643956736
+United
+@united or @flysaa has lost my baggage… heard different things from different employees of @united. @flysaa has said nothing.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 15:39:16 -0800
+location: Nashville, TN

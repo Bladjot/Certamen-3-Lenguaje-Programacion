@@ -1,0 +1,7 @@
+568286497796812800
+United
+@united  4348 soon going to have more wait time for a gate, in empty MSP airport than it was in flight  50 min and still counting...
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 21:50:33 -0800
+location: nan

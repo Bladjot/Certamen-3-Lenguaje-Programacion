@@ -1,0 +1,8 @@
+570281010606120960
+American
+@AmericanAir 
+It's not what happens to us that matters...It's our response that matters. Way to drop the ball AA.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 09:56:02 -0800
+location: nan

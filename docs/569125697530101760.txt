@@ -1,0 +1,7 @@
+569125697530101760
+Delta
+@JetBlue Even though this flight #226 didn't have much needed hot beverages 4 us NY-ers, the landing was super smooth 👍👍 😊 #happytweet
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 05:25:14 -0800
+location: NYC

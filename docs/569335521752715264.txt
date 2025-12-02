@@ -1,0 +1,7 @@
+569335521752715264
+United
+@united has once again earned a place as the worst airline in the business
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 19:19:00 -0800
+location: nan

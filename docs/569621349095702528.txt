@@ -1,0 +1,7 @@
+569621349095702528
+United
+@united ... I want my bag off flight 1142, what do I do now?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 14:14:47 -0800
+location: Ft Collins

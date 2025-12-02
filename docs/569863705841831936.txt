@@ -1,0 +1,7 @@
+569863705841831936
+American
+@AmericanAir But you called me - and hung up.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:17:49 -0800
+location: Fort Smith, Ark.

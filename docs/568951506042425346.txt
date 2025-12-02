@@ -1,0 +1,7 @@
+568951506042425346
+Southwest
+@SouthwestAir LUVed the SJC gate 23 agent this am who boarded flight 372 to DAL. Didn't get his name. He represents your brand so well.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 17:53:04 -0800
+location: Silicon Valley, NoLa, Boston

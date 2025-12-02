@@ -1,0 +1,7 @@
+569923163259318274
+US Airways
+@USAirways Aye, and nothing to do with an automated system which doesn't work properly. Anyway, got through to somebody...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:14:05 -0800
+location: Watching @Interpol somewhere

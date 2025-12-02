@@ -1,0 +1,7 @@
+568757933502148608
+United
+@united disappointed to learn you are now charging $200 to use 20k miles for upgrades on PS JFK flights. Will be looking at alternatives.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 05:03:53 -0800
+location: New York

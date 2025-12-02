@@ -1,0 +1,7 @@
+570060752926728192
+US Airways
+@USAirways travel agency said that if usairways accept we will refund money i dont understand why dont u refund
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 19:20:49 -0800
+location: nan

@@ -1,0 +1,7 @@
+568932735181578240
+United
+@united, if you mean beyond opaque "maintenance issues", yes, that would be  basic in customer service which your EWR staff can't manage.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 16:38:28 -0800
+location: United States

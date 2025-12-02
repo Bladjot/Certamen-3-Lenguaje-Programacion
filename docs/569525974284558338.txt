@@ -1,0 +1,7 @@
+569525974284558338
+Delta
+@JetBlue flight16?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 07:55:48 -0800
+location: nan

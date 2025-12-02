@@ -1,0 +1,7 @@
+569609971383586817
+Virgin America
+@VirginAmerica I paid the premium to fly you across the country, you Cancelled Flight my flight and offer no check fee or upgrade love? Sad face :(
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 13:29:34 -0800
+location: iPhone: 29.741360,-90.131523

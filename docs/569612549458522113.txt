@@ -1,0 +1,7 @@
+569612549458522113
+Southwest
+@SouthwestAir worst air line ever, you have no compassion of the handicapped
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 13:39:49 -0800
+location: nan

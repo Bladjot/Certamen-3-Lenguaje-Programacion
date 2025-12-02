@@ -1,0 +1,7 @@
+569224755426930689
+Southwest
+@SouthwestAir very confusing to receive "your trip is around the corner!" email when I already Cancelled Flightled the flight
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 11:58:52 -0800
+location: nan

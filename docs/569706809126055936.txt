@@ -1,0 +1,7 @@
+569706809126055936
+American
+@AmericanAir I paid extra $ for my seat &amp; the monitor didn't work from on AA111. How about a refund on the seat? Conf #: MDBEEI, McMullen
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 19:54:22 -0800
+location: MA

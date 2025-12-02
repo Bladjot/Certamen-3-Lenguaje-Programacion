@@ -1,0 +1,7 @@
+569614917826965504
+American
+@AmericanAir @AmericanAir how do you expect to do that?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 13:49:14 -0800
+location: Atl

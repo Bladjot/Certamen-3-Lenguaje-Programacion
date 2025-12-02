@@ -1,0 +1,7 @@
+569903191279710208
+American
+@AmericanAir refund
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 08:54:43 -0800
+location: nan

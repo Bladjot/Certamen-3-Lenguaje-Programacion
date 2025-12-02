@@ -1,0 +1,7 @@
+569976124278640640
+US Airways
+@USAirways I checked in "Standby for 1st Class" only to find I am "not on the list". This merger is a pain.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 13:44:32 -0800
+location: BTR/DCA/IAD/MSY - etc

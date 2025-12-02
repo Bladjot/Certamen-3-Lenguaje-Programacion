@@ -1,0 +1,7 @@
+569880288702173184
+Delta
+@JetBlue it was booked through work but added upgrade on seat. Need the upgrade receipt.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 07:23:43 -0800
+location: Cambridge, MA

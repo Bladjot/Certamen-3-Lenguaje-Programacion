@@ -1,0 +1,7 @@
+569550779520032770
+United
+@united Is a snowboard boot bag included in the standard checked baggage next to the snowboard bag?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 09:34:22 -0800
+location: nan

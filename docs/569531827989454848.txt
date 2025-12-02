@@ -1,0 +1,7 @@
+569531827989454848
+United
+@united two hour delay for a plane that was visible from the airport. So far terrible customer service. #neveragain
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 08:19:03 -0800
+location: Portsmouth, NH

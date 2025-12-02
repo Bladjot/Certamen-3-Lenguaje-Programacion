@@ -1,0 +1,7 @@
+568596065882017792
+United
+@united I'm in Denver, my bag is in San Jose. See something wrong here.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 18:20:40 -0800
+location: Omaha, NE

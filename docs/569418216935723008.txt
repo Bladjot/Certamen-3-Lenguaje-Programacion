@@ -1,0 +1,7 @@
+569418216935723008
+Delta
+@JetBlue it's ridiculous that I just got home and I was supposed to land 3 hours ago bc I am HELLA tired
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 00:47:36 -0800
+location: RTR

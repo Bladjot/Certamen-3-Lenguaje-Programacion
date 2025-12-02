@@ -1,0 +1,7 @@
+569912888866906112
+American
+@AmericanAir this receipt doesn't show the evoucher value nor does it mention having used an evoucher
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 09:33:15 -0800
+location: Charlottesville, VA

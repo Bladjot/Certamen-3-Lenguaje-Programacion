@@ -1,0 +1,7 @@
+568377392420356096
+Southwest
+@SouthwestAir DM sent! Thanks so much for responding! Your response was so timely, I missed it!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 03:51:44 -0800
+location: Houston, TX

@@ -1,0 +1,7 @@
+568633802433507329
+US Airways
+@USAirways the fact that you are making customers pay $15 to "choose" a seat and try to convince them using psychological tricks with colors
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 20:50:37 -0800
+location: nan

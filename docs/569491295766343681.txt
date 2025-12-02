@@ -1,0 +1,7 @@
+569491295766343681
+United
+@united On hold 2X 60 min ea. Trying to bk a tix to Asia. Your website &amp; customer service dont want my business. Korea Air it is.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 05:38:00 -0800
+location: Hong Kong

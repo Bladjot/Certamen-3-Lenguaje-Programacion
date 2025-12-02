@@ -1,0 +1,7 @@
+567751025890709504
+US Airways
+@USAirways — I had exceptional service on flight #403 from IND to PHX!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 10:22:47 -0800
+location: Lima, OH

@@ -1,0 +1,7 @@
+569951324508446721
+Delta
+@JetBlue lolol @s_myc88
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 12:05:59 -0800
+location: Brooklyn, NY

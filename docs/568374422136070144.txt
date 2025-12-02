@@ -1,0 +1,7 @@
+568374422136070144
+US Airways
+@USAirways the gate agent said "it's booked in full. Sorry" I had a ticket with a 1st class seat. I will call customer service when I land.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-19 03:39:56 -0800
+location: nan

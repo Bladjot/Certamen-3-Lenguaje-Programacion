@@ -1,0 +1,7 @@
+570085056401838081
+United
+@united Yes. Doesn't make that mistake any less absurd. Doesn't change the fact that I'm very inconveniently missing my luggage tonight.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 20:57:23 -0800
+location: NY

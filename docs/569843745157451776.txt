@@ -1,0 +1,7 @@
+569843745157451776
+American
+@AmericanAir stranded in Miami because your automated system keeps hanging up on me for two days. Help !
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 04:58:30 -0800
+location: nan

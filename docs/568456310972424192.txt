@@ -1,0 +1,7 @@
+568456310972424192
+US Airways
+@USAirways flight was full.  1 open middle seat.  Did not want to sit there.  What is your policy?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 09:05:20 -0800
+location: Tacoma Washington

@@ -1,0 +1,7 @@
+569470757673291777
+United
+@united still missing my luggage, was promised someone would call, no call so far, flight from Shanghai to DC with connecting flight in ORD
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 04:16:23 -0800
+location: Washington, DC

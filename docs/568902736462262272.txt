@@ -1,0 +1,7 @@
+568902736462262272
+US Airways
+@USAirways found the tix#, security code not working. Tried a dozen times.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 14:39:16 -0800
+location: nan

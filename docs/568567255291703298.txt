@@ -1,0 +1,7 @@
+568567255291703298
+Southwest
+@SouthwestAir Sorry to spam, it would just be so awesome to see @Imaginedragons in Vegas. Your help would be absolutely amazing.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 16:26:11 -0800
+location: nan

@@ -1,0 +1,7 @@
+569592443542343680
+US Airways
+@USAirways Just Cancelled Flight every flight I have why don't you.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 12:19:55 -0800
+location: Winston Salem, NC, USA

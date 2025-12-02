@@ -1,0 +1,7 @@
+569852084536750080
+American
+@AmericanAir  so far all I am getting is "maybe your bag will come today. We don't know." Website says "status unknown"- can you help?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 05:31:38 -0800
+location: New York, NY

@@ -1,0 +1,7 @@
+570280641771790336
+American
+@AmericanAir @Clarkey_19 we done it with 1 truck... No biggie 😄
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 09:54:34 -0800
+location: nan

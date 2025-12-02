@@ -1,0 +1,7 @@
+570019234505474049
+US Airways
+@USAirways seriously? Every flight I have had the past 2 days has been delayed. Every single one. Terrible
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 16:35:50 -0800
+location: Bedford, NH

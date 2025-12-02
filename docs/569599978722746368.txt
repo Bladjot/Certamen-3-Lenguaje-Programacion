@@ -1,0 +1,7 @@
+569599978722746368
+American
+@AmericanAir @ActingOutMgmnt Just make sure they remember to load the bags onto the plane. They Cancelled Flight the flight when they forget...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:49:52 -0800
+location: Pekin

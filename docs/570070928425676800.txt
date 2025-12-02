@@ -1,0 +1,7 @@
+570070928425676800
+US Airways
+@USAirways but i bougth mc caren to jfk with same agency and delta airways . Delta refund money but usairways doesnt accept to refund
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 20:01:15 -0800
+location: nan

@@ -1,0 +1,7 @@
+568190725319311360
+United
+@united gotta love giving up 1st class upgrade b/c flight delayed, to get another flight (also delayed) just to ensure I make my connection.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 15:30:00 -0800
+location: BTR/DCA/IAD/MSY - etc

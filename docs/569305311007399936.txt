@@ -1,0 +1,7 @@
+569305311007399936
+Southwest
+@SouthwestAir baggage claim has already changed 2x...most recent had 3 bags come out and then stop...claim team has no idea what's going on
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 17:18:57 -0800
+location: nan

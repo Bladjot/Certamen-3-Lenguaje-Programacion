@@ -1,0 +1,7 @@
+568080061372502016
+Southwest
+@SouthwestAir @karajusto SWA is willing to follow up. FINALLY.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 08:10:15 -0800
+location: CT

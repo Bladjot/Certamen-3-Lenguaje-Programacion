@@ -1,0 +1,7 @@
+569628922431873025
+Delta
+@JetBlue Seriously, what is your solution? Who exactly will help my 5 year old if there's a problem with the plane? http://t.co/vPDRPLXj5a
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 14:44:52 -0800
+location: nan

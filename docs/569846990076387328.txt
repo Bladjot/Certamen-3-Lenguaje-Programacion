@@ -1,0 +1,7 @@
+569846990076387328
+American
+@AmericanAir I called reservation at 1 am and I'm still waiting for someone to call me back
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 05:11:24 -0800
+location: New York, NY

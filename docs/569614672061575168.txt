@@ -1,0 +1,7 @@
+569614672061575168
+US Airways
+@USAirways on hold for 2+ hours.. Can I book using a Take Flight voucher online??
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 13:48:15 -0800
+location: nan

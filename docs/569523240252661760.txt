@@ -1,0 +1,7 @@
+569523240252661760
+US Airways
+@USAirways @AmericanAir any help regarding flights out of KPHL would be much appreciated
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 07:44:56 -0800
+location: A galaxy far far away

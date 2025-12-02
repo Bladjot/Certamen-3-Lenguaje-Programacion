@@ -1,0 +1,7 @@
+570102251563274242
+American
+@AmericanAir  and I forgot about that lounge!😂
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 22:05:43 -0800
+location: nan

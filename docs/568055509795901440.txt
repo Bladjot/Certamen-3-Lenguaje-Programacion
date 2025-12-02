@@ -1,0 +1,7 @@
+568055509795901440
+United
+@united in other words... sorry, not sorry.  Plenty of other airlines... and I travel A LOT.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 06:32:42 -0800
+location: Boise, ID

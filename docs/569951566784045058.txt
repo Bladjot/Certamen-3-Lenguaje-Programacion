@@ -1,0 +1,7 @@
+569951566784045058
+American
+@AmericanAir please get it together and find my husbands luggage! You're ruining his ski trip to Aspen! 3rd day no luggage.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 12:06:57 -0800
+location: nan

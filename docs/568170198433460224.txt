@@ -1,0 +1,7 @@
+568170198433460224
+United
+@united #vegan meals can be more creative than noodles, peas, and zukes. Non-vegan yogurt is not acceptable for a vegan. Can you do better?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 14:08:26 -0800
+location: nan

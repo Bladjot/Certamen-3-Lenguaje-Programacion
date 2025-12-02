@@ -1,0 +1,7 @@
+569952252087177216
+Delta
+“@JetBlue: Our fleet's on fleek. http://t.co/1incNCaV4n” - wow
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:09:40 -0800
+location: Memphis to Alabama.

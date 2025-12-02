@@ -1,0 +1,7 @@
+569953683309514754
+United
+@united it's like you're trying to make me hate your airline. Fee for each checked bag that's never mentioned in the ticket + rude agents 👿
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 12:15:21 -0800
+location: founder @IndiraCollection

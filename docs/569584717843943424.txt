@@ -1,0 +1,7 @@
+569584717843943424
+United
+@united Are your earnings so low that checkin people have to also be on Tarmac loading bags? JAN
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 11:49:13 -0800
+location: Brandon, Mississippi

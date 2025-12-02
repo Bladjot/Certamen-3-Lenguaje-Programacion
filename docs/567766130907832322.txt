@@ -1,0 +1,7 @@
+567766130907832322
+Southwest
+@SouthwestAir good thing we noticed because she had re-routed 7 total passengers on an impossible triple connection as well
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 11:22:48 -0800
+location: nan

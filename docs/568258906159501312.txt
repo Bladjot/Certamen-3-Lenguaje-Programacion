@@ -1,0 +1,7 @@
+568258906159501312
+United
+@united please review and fix your baggage procedures at Dulles because it happens every week when my sister travels there on your airline
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 20:00:55 -0800
+location: Philadelphia, PA

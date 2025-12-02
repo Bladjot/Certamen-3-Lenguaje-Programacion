@@ -1,0 +1,7 @@
+569636885863251969
+American
+@AmericanAir @dotnetnate Two hour wait for EXPs as I sit on a JFK PHX flight because US computers are down. Any shot at an LAX flight?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:16:31 -0800
+location: nan

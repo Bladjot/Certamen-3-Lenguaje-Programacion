@@ -1,0 +1,7 @@
+568206570540163072
+United
+@united plz don't advertise wifi if it's not gonna work thanks #worstflightever
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 16:32:57 -0800
+location: nan

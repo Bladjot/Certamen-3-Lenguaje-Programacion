@@ -1,0 +1,7 @@
+568807894264578048
+United
+@united now 1558 from IAH to EWR has broken entertainment system and no WiFi despite info on app: http://t.co/FY6f9rZB9k
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 08:22:24 -0800
+location: Off: NYC, Home: Hoboken, NJ

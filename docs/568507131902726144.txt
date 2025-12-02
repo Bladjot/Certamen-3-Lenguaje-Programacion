@@ -1,0 +1,7 @@
+568507131902726144
+US Airways
+@USAirways why are you letting us go to the runway if there are mechanical problems. #wewantcomps
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 12:27:17 -0800
+location: nan

@@ -1,0 +1,7 @@
+569921142971969537
+American
+@AmericanAir #last #flight #ever on #AA. You botched this weather delay to the point of absurdity. I'd pay more to fly @Delta
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 10:06:03 -0800
+location: iPhone: 38.961334,-77.006119

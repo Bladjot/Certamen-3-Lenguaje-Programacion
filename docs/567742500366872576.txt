@@ -1,0 +1,7 @@
+567742500366872576
+United
+@united of course I need help.  I've been DMing you ladies and gents all day. Your only solution is hope for the best and LAX.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 09:48:54 -0800
+location: All Over The World

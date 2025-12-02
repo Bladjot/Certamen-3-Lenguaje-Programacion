@@ -1,0 +1,7 @@
+569734526521511936
+American
+@AmericanAir I was on a flight for tomorrow and my reservation is coming up.  Help me!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 21:44:30 -0800
+location: nan

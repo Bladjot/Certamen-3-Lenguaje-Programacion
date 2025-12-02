@@ -1,0 +1,7 @@
+569972985521532929
+American
+@AmericanAir Trying to get my flight changed through dallas. Calling your number just says thanks for calling and hangs up. Guess I'm stuck
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:32:03 -0800
+location: Boston, MA

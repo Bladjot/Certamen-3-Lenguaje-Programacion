@@ -1,0 +1,7 @@
+568166268546748416
+US Airways
+@USAirways ok thank you we were told ground delay due to snow.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 13:52:49 -0800
+location: ÜT: 42.798909,-71.542817

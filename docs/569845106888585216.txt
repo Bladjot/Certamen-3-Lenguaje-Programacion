@@ -1,0 +1,7 @@
+569845106888585216
+Southwest
+@SouthwestAir arrangements to reimburse me for the rental I had to get?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 05:03:55 -0800
+location: Tallahassee, FL

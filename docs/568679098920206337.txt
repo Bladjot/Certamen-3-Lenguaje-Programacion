@@ -1,0 +1,7 @@
+568679098920206337
+Delta
+@JetBlue it's ok. Things happen. Just very frustrated when you have to change your schedule. See you tomorrow for a new rescheduled flight.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 23:50:37 -0800
+location: nan

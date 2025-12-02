@@ -1,0 +1,7 @@
+570188684881821696
+United
+@united Booked a flight home over 7 months ago and requested seats together for my fiancée and I. We got 2 middle seats. UNACCEPTABLE. The
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 03:49:10 -0800
+location: Seattle

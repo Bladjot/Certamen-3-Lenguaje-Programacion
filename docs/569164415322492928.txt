@@ -1,0 +1,7 @@
+569164415322492928
+US Airways
+@usairways I get extended hold times due to the weather...but 2-1/2 hours on hold (and counting). HELP!!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 07:59:05 -0800
+location: nan

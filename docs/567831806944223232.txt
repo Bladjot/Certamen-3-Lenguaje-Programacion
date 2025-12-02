@@ -1,0 +1,7 @@
+567831806944223232
+Delta
+@JetBlue - I will for sure. But my TSA-Pre works with other airlines. Why is Jetblue different?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 15:43:47 -0800
+location: nan

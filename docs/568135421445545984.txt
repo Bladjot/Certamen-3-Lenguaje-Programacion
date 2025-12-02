@@ -1,0 +1,7 @@
+568135421445545984
+US Airways
+@USAirways turns into @AmericanAir with such difficulty to past loyal customer. As a AA platinum flyer usair couldn't be more unhelpful. Why
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 11:50:14 -0800
+location: Right where I should be!

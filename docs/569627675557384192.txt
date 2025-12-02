@@ -1,0 +1,7 @@
+569627675557384192
+Delta
+@JetBlue flight 2008
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 14:39:55 -0800
+location: 3Ø4

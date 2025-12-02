@@ -1,0 +1,7 @@
+569992662779961344
+US Airways
+.@USAirways Have you just given up?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 14:50:15 -0800
+location: Florida Raised, NYC Based

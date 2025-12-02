@@ -1,0 +1,7 @@
+568619425886121985
+Delta
+@JetBlue my flight attendant Angel was awesome. #415 #kudos
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 19:53:30 -0800
+location: nan

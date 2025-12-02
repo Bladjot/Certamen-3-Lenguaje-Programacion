@@ -1,0 +1,7 @@
+570179344833708033
+American
+@AmericanAir you Cancelled Flight both flights yesterday and rebook me in middle seat. Not acceptable. Upgrade to emergency row would help. #nothappy
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 03:12:03 -0800
+location: nan

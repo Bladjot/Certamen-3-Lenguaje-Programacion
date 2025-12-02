@@ -1,0 +1,7 @@
+568078285520785408
+Southwest
+@SouthwestAir #3854 ATL to RDU. Snow forecasted for Raleigh this evening.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 08:03:12 -0800
+location: nan

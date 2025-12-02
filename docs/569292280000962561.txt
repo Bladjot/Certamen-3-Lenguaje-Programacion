@@ -1,0 +1,7 @@
+569292280000962561
+Southwest
+@southwestair please help us check in... i never expected you to make travel painful... just like the rest all of a sudden...#intlcheckin#
+sentiment: negative
+negativereason: longlines
+created: 2015-02-21 16:27:11 -0800
+location: Buffalo, NY

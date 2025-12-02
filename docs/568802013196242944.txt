@@ -1,0 +1,7 @@
+568802013196242944
+United
+@united couldn't have possibly messed up our trip anymore than they did. Thanks for being such a terrible airline. #disappointed
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 07:59:02 -0800
+location: nan

@@ -1,0 +1,7 @@
+567843845247016960
+Southwest
+@SouthwestAir Great, thank you. Best of luck dealing with this horrible winter.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 16:31:37 -0800
+location: Toronto

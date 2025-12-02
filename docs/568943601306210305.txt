@@ -1,0 +1,7 @@
+568943601306210305
+Southwest
+@SouthwestAir I am absolutely sick of 300s and no wifi!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 17:21:39 -0800
+location: Fort Worth, TX

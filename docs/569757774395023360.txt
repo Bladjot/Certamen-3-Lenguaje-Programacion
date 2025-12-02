@@ -1,0 +1,7 @@
+569757774395023360
+American
+@AmericanAir my flight tomorrow is Cancelled Flighted you guys just keep letting me down
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 23:16:53 -0800
+location: nan

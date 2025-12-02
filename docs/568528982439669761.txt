@@ -1,0 +1,7 @@
+568528982439669761
+Delta
+@JetBlue:  Ahoy from a loyal #AllYouCanJetPass holder! When do you anticipate direct US flights to #Havana, #Cuba? (#JetBlue #Vacation)
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 13:54:06 -0800
+location: Everywhere

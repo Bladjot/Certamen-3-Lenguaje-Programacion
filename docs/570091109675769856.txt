@@ -1,0 +1,7 @@
+570091109675769856
+United
+@united the people at the counter have been very helpful. As you can see nobody is there. Flight to Austin 10:55 and still sitting here.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 21:21:26 -0800
+location: Iowa

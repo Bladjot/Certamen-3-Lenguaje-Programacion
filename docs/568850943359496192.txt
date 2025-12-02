@@ -1,0 +1,7 @@
+568850943359496192
+Virgin America
+@VirginAmerica soooo are you guys going to leave the seatbelt light on all flight? You can barely call this turbulence :-)
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 11:13:28 -0800
+location: San Francisco, CA

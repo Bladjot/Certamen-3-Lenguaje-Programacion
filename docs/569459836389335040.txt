@@ -1,0 +1,7 @@
+569459836389335040
+US Airways
+@USAirways your airline also delayed our bags to us for 4 hours &amp; refused to ship them to our local airport #disappointed #stillbagless
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 03:32:59 -0800
+location: New York

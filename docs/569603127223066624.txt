@@ -1,0 +1,7 @@
+569603127223066624
+American
+@AmericanAir Trying to find out if flight #340 DFW to HOU is on tonight. Exec platinum desk not calling back and online info not clear.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:02:22 -0800
+location: Dallas, Texas

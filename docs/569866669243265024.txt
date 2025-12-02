@@ -1,0 +1,7 @@
+569866669243265024
+American
+@AmericanAir ok thank you. What if I can't get a hold of someone to get a new flight?
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 06:29:36 -0800
+location: Bentonville  Arkansas

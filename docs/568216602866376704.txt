@@ -1,0 +1,7 @@
+568216602866376704
+US Airways
+@USAirways now telling me I don't have the correct tag for my luggage!!! My luggage apparently is not in LA or Charlotte. This is not ok!!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 17:12:49 -0800
+location: nan

@@ -1,0 +1,7 @@
+569809648712327168
+United
+@united yes please. Going to drive the 6 hours.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 02:43:01 -0800
+location: nan

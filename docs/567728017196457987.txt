@@ -1,0 +1,7 @@
+567728017196457987
+US Airways
+@USAirways on your website and on your boards at Logan it said it was on time, so we went through security and got to the gate (2)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 08:51:21 -0800
+location: boston

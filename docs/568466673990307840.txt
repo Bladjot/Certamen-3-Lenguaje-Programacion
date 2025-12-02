@@ -1,0 +1,7 @@
+568466673990307840
+United
+@united of the airplane otherwise they would call the Police, because the flight had to take off before 12h30am
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 09:46:31 -0800
+location: São Paulo / Brasil

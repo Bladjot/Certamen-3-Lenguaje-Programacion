@@ -1,0 +1,7 @@
+569229056362876928
+Southwest
+@SouthwestAir the wait for the bags is longer than the actual flight.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-21 12:15:57 -0800
+location: Virginia

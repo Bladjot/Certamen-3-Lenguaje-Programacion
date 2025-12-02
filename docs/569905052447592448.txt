@@ -1,0 +1,7 @@
+569905052447592448
+American
+@AmericanAir No, it wouldn't let me complete transaction because it was one way from Barbados to NYC
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:02:07 -0800
+location: New York

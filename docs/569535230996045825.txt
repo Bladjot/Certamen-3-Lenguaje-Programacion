@@ -1,0 +1,7 @@
+569535230996045825
+US Airways
+@USAirways Past tense re help. No more. It’s been even more miserable than usual at CLT.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 08:32:35 -0800
+location: Washington, DC

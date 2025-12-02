@@ -1,0 +1,7 @@
+568203327965696002
+Delta
+@JetBlue client is asking if kids need their own email addresses to get TB acct. Is this true?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 16:20:04 -0800
+location: Southborough, Massachusetts

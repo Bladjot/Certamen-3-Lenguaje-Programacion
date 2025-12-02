@@ -1,0 +1,7 @@
+567730833998757890
+US Airways
+@USAirways  to arrive the plane I'm sitting on needs to take off...wish someone would tell us what the holdup is
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 09:02:33 -0800
+location: New York

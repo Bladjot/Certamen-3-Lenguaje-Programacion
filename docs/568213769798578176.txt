@@ -1,0 +1,7 @@
+568213769798578176
+US Airways
+@USAirways ...Loosing a lot of business by using Barclays. I cant believe that you cant apply for a card if you live in Iowa.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 17:01:34 -0800
+location: nan

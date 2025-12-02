@@ -1,0 +1,7 @@
+568564623156211712
+US Airways
+@USAirways Appreciate the calls when flight's delayed, but the recorded msg is tedious &amp; just goes on &amp; on. I vote for texts if practical :)
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 16:15:44 -0800
+location: Ottawa, Ontario, The Universe

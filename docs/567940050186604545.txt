@@ -1,0 +1,7 @@
+567940050186604545
+United
+@united why are your SFO-&gt;BOS nonstop flights not competitively priced with those of JetBlue and Virgin? $179 vs $324. Identical times.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 22:53:54 -0800
+location: 90210

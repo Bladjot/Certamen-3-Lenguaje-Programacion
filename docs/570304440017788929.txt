@@ -1,0 +1,7 @@
+570304440017788929
+US Airways
+@USAirways I finally got through on the phone after a 2 hour wait time.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 11:29:08 -0800
+location: nan

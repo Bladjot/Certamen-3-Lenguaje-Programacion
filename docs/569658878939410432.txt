@@ -1,0 +1,7 @@
+569658878939410432
+American
+@AmericanAir yep, they moved me to 16A as they showed me flying "standby"
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:43:55 -0800
+location: Orange County, CA

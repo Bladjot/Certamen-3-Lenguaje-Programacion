@@ -1,0 +1,7 @@
+569850259507154944
+American
+@AmericanAir Understood. Integration takes time, but no excuse for poor customer service
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 05:24:23 -0800
+location: New York, NY

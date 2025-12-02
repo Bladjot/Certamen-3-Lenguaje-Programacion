@@ -1,0 +1,7 @@
+569376311824621568
+US Airways
+@USAirways HELLO?! It's been FOUR HOURS since plane landed!   Flt 630 phx to JFK.  3 hrs on Tarmac waiting 4 gate. Plus an hour no bags yet
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 22:01:05 -0800
+location: nan

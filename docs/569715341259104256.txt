@@ -1,0 +1,7 @@
+569715341259104256
+American
+@AmericanAir it looks like a mistake
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 20:28:16 -0800
+location: nan

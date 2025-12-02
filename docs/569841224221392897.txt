@@ -1,0 +1,7 @@
+569841224221392897
+United
+UA3388 @united was Cancelled Flightled not delayed.  Re-Flight Booking Problems still 90 miles from home.  At least acknowledge the Cancelled Flightlation.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 04:48:29 -0800
+location: Western Massachusetts, USA

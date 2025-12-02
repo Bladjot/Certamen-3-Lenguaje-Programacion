@@ -1,0 +1,7 @@
+569906807696551936
+American
+@AmericanAir those were snacks we left on purpose for your team. :) for being so helpful this morning at the desk and on the phone!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 09:09:05 -0800
+location: Round Rock, TX

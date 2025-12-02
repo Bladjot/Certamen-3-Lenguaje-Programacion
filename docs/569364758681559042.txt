@@ -1,0 +1,7 @@
+569364758681559042
+US Airways
+@USAirways are you going to do anything to help stranded travelers of flight 680?! No communication from anyone. All of us dumped here.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 21:15:11 -0800
+location: nan

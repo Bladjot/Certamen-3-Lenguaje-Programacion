@@ -1,0 +1,7 @@
+569598323621023745
+US Airways
+@USAirways customer service fail... Todays experience will ensure I do my best NEVER to utilize you again...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:43:17 -0800
+location: Columbus, Ohio

@@ -1,0 +1,7 @@
+569028851860254720
+Virgin America
+@VirginAmerica current bug on website shows ‘select departure city’ when selecting destination city http://t.co/SLLYIBE2vQ
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 23:00:24 -0800
+location: San Francisco

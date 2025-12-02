@@ -1,0 +1,7 @@
+569570013964689410
+United
+@united delayed because of salt on the floor from previous passengers? The 180 of just just want to fly, don't care about our shoes. Ua649
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 10:50:48 -0800
+location: San Francisco, CA

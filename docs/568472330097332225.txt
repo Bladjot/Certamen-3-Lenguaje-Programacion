@@ -1,0 +1,7 @@
+568472330097332225
+Delta
+@JetBlue I love you
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 10:08:59 -0800
+location: ✖️ || 4/5 || ✖️

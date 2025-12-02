@@ -1,0 +1,7 @@
+569895406869483520
+United
+@united JH, thanks so much for reaching out. I was able to get assistance after waiting for 70 minutes.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 08:23:47 -0800
+location: Chicago

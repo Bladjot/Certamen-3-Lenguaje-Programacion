@@ -1,0 +1,7 @@
+569976114124349440
+United
+@united already did that at the airport and 12 hrs Late Flightr its still not here! you guys are really killing me today. trying to stay positive..
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 13:44:29 -0800
+location: San Francisco, CA

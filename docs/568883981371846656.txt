@@ -1,0 +1,7 @@
+568883981371846656
+Southwest
+@SouthwestAir 8 mins!!! http://t.co/bbZiJWFDL3
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 13:24:45 -0800
+location: Dodger Stadium | Disneyland

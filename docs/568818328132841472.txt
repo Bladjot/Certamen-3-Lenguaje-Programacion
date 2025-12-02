@@ -1,0 +1,7 @@
+568818328132841472
+US Airways
+@USAirways the two women workng PHL bag check term C @ 11:30 ET should be fired for being rude, pushy and treating customers with disrespect
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 09:03:52 -0800
+location: PHL | SFO | $x

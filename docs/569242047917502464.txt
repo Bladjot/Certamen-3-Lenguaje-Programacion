@@ -1,0 +1,7 @@
+569242047917502464
+United
+@united Hi there, looks like my connection is delayed too so I'll make it. Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 13:07:34 -0800
+location: SoCal

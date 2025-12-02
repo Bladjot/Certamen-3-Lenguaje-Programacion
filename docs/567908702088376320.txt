@@ -1,0 +1,7 @@
+567908702088376320
+US Airways
+@USAirways on the phone now. looks like global
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 20:49:20 -0800
+location: nan

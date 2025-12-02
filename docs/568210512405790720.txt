@@ -1,0 +1,7 @@
+568210512405790720
+US Airways
+@USAirways The captain turned off the seat belt sign so people can get up and walk around.  That's not good.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 16:48:37 -0800
+location: Queens, New York

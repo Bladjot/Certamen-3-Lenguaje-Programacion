@@ -1,0 +1,7 @@
+568273514970501120
+Southwest
+@SouthwestAir humor aside, we've been stuck on the plane for two hours at the gate because bags can't be loaded correctly. What gives?
+sentiment: negative
+negativereason: longlines
+created: 2015-02-18 20:58:58 -0800
+location: Los Angeles, CA

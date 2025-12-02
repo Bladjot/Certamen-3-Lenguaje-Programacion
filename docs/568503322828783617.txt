@@ -1,0 +1,7 @@
+568503322828783617
+United
+@united please reroute Oregon Women's Tennis to Santa Barbara. There's supposedly another connection from LA.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 12:12:09 -0800
+location: Dallas/Eugene

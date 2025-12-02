@@ -1,0 +1,7 @@
+569665976062644224
+United
+@united is the airline of the Oscars but doesn't carry ABC on Direct TV?!?! Fail - now I can't watch the Oscars. #united
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 17:12:07 -0800
+location: Chicago

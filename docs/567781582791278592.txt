@@ -1,0 +1,7 @@
+567781582791278592
+US Airways
+@USAirways had a horrible experience flying from Montego Bay to Philadelphia on 2/11. $125 2check a golf bag, constant selling in-flight
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 12:24:12 -0800
+location: nan

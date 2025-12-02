@@ -1,0 +1,7 @@
+567726186038837248
+US Airways
+@USAirways How soon is possible? I boarded the plane the 1st time at 6:30 am and it is now after 11:30 am and I'm still where I started.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 08:44:05 -0800
+location: nan

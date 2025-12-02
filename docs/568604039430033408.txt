@@ -1,0 +1,9 @@
+568604039430033408
+United
+@united @HiltonWorldwide @Caravannyc @MaysvilleNYC 
+Let's go! Join me on my first trip back to NYC…as a tourist: 
+http://t.co/egaEjtRGLb
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 18:52:21 -0800
+location: LA / NYC

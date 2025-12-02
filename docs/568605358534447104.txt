@@ -1,0 +1,7 @@
+568605358534447104
+Southwest
+@SouthwestAir I notice that there are separate buttons for "guitar" and actual "music" in this pic. Some bands should take note of this.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 18:57:36 -0800
+location: Hollywood, CA

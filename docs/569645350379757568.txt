@@ -1,0 +1,7 @@
+569645350379757568
+American
+@AmericanAir 's computer systems are down, can't leave without a flight plan! Any ETA, American air?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:50:09 -0800
+location: Jacksonville Beach, Florida

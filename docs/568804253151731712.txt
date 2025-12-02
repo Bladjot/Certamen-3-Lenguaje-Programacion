@@ -1,0 +1,7 @@
+568804253151731712
+United
+@united new flight has me at the window. Kind of ticked off. I pick aisle seats only because I hate window seats. #annoyed #EpicFail
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 08:07:56 -0800
+location: nan

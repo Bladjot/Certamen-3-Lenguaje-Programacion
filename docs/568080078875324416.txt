@@ -1,0 +1,7 @@
+568080078875324416
+US Airways
+@USAirways Also, we are in family crisis &amp; you charge full price for all these flights, PLUS $200 2 change flights, even for emergencies.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 08:10:19 -0800
+location: London, ON'

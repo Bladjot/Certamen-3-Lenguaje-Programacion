@@ -1,0 +1,7 @@
+570307026263384064
+United
+@united Delayed due to lack of crew and now delayed again because there's a long line for deicing... Still need to improve service #united
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 11:39:25 -0800
+location: nan

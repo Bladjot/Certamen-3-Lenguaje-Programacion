@@ -1,0 +1,7 @@
+569595309279440896
+American
+@AmericanAir if business class if full but 1st class empty, do you guys upgrade EXP members to 1st?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:31:18 -0800
+location: nan

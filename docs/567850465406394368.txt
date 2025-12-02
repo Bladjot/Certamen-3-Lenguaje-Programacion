@@ -1,0 +1,7 @@
+567850465406394368
+US Airways
+@USAirways I have a voucher from a past trip that was delayed. I thought I had to talk to someone on the phone to use it. Is that not true?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 16:57:55 -0800
+location: Philadelphia, PA

@@ -1,0 +1,7 @@
+568735841771597825
+Delta
+@JetBlue and The from @WSJ Team to Offer In-#Flight Access to Journal ... - Broadway World http://t.co/AsYqE1tDjp
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 03:36:05 -0800
+location: USA

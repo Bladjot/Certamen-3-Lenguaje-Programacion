@@ -1,0 +1,7 @@
+568535586325303296
+Delta
+@JetBlue not cool to announce a flight "delay" when everyone is checking in. A 4 hour delay bdl-dca with a staff offering  no help.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 14:20:21 -0800
+location: nan

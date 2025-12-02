@@ -1,0 +1,7 @@
+567811360404336641
+United
+@united but the gate agent and club staff got me priority standby for next so might only be minor disaster...#travelingwithsmallkids
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:22:32 -0800
+location: Baton Rouge, LA

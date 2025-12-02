@@ -1,0 +1,7 @@
+568800846789545984
+Delta
+@JetBlue thanks bae
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 07:54:24 -0800
+location: nyc

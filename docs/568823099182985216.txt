@@ -1,0 +1,7 @@
+568823099182985216
+Southwest
+@SouthwestAir Deborah helped me💁
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 09:22:49 -0800
+location: nan

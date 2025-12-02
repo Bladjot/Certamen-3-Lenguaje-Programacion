@@ -1,0 +1,7 @@
+569223536507809792
+US Airways
+@USAirways  in don't have it on me at the time as I am taking Amtrak home. How do we call for partial refunds?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 11:54:01 -0800
+location: ÜT: 43.106744,-76.14949

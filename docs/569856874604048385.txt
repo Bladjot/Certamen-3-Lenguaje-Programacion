@@ -1,0 +1,7 @@
+569856874604048385
+US Airways
+@USAirways Thank you. The website crashing for me.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 05:50:40 -0800
+location: Boston, MA

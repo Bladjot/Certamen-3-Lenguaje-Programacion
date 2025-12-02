@@ -1,0 +1,7 @@
+569585203666161664
+Delta
+@JetBlue should I bother contacting them? I already checked into my flight 😕
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 11:51:09 -0800
+location: the burg nj

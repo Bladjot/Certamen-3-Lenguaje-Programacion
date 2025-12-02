@@ -1,0 +1,7 @@
+569633630978310145
+Virgin America
+@VirginAmerica has flight number 276 from SFO to Cabo San Lucas arrived yet?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:03:35 -0800
+location: Sacramento,California

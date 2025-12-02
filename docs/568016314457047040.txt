@@ -1,0 +1,7 @@
+568016314457047040
+Delta
+@JetBlue why 730 and not 645 as scheduled?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 03:56:57 -0800
+location: nan

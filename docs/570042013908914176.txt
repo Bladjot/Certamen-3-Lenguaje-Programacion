@@ -1,0 +1,7 @@
+570042013908914176
+United
+@united wonderful bag claim people - finally have my bag. But why did I catch earlier flight? Original flight just landed. #wastedtime
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 18:06:21 -0800
+location: Colorado Springs, Colorado USA

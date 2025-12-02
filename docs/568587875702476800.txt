@@ -1,0 +1,7 @@
+568587875702476800
+Delta
+@JetBlue I have been hanging here for almost an hour
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 17:48:08 -0800
+location: Miami | Puerto Rico

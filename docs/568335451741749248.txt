@@ -1,0 +1,7 @@
+568335451741749248
+Delta
+@JetBlue Airways Reveals 'Bluemanity' Livery - TravelPulse http://t.co/fTTfyFMvCO
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 01:05:05 -0800
+location: USA

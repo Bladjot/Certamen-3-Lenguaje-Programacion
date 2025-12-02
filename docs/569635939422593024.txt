@@ -1,0 +1,7 @@
+569635939422593024
+American
+@AmericanAir even with calls you haven't been able to help us anyway. #nevergettinghome
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:12:45 -0800
+location: nan

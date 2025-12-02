@@ -1,0 +1,7 @@
+568754053083222016
+Delta
+@JetBlue can't wait! I'll be the one who can't contain herself. 😄
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 04:48:27 -0800
+location: nan

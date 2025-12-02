@@ -1,0 +1,7 @@
+570088980278059008
+United
+@united what time does check in open for flight no UA80 from Manchester to Newark today ?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 21:12:59 -0800
+location: nan

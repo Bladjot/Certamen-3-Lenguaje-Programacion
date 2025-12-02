@@ -1,0 +1,7 @@
+568209603332214784
+Southwest
+@SouthwestAir filing it now. Thank you for your response.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 16:45:00 -0800
+location: Maryland

@@ -1,0 +1,7 @@
+570197193254170624
+American
+@AmericanAir The flight is the wrong day. Confirm # USXLON. Departure on 5/21 should be 5/22 for 2 people
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 04:22:59 -0800
+location: Winston-Salem, NC

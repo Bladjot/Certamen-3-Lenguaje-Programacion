@@ -1,0 +1,7 @@
+568920607347384321
+Delta
+@JetBlue were boarding now I'm really not impressed. I've learnt a very valuable lesson .
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 15:50:17 -0800
+location: Leighton Buzzard

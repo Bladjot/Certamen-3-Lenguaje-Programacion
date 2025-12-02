@@ -1,0 +1,7 @@
+569893878536527872
+US Airways
+@USAirways If my flight is going to be Cancelled Flightled every week I might as well be in business class.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 08:17:43 -0800
+location: Washington, DC

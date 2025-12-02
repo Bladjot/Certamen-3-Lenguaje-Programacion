@@ -1,0 +1,7 @@
+567997512310767616
+US Airways
+@USAirways hi!  Could you protect me on US 445 just in case? Still on ground with no checked luggage, but still a chance I can make original
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 02:42:14 -0800
+location: Arlington, VA

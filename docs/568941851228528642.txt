@@ -1,0 +1,7 @@
+568941851228528642
+United
+@united you suck. @SouthwestAir you're the best.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 17:14:42 -0800
+location: Boulder, CO | Los Angeles, CA

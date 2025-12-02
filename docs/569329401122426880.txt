@@ -1,0 +1,7 @@
+569329401122426880
+United
+@united I'd really like to get off of this plane now.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 18:54:41 -0800
+location: nan

@@ -1,0 +1,7 @@
+570265831822778368
+Southwest
+@SouthwestAir freezing in the plane
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 08:55:43 -0800
+location: nan

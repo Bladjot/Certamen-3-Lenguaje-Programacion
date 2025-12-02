@@ -1,0 +1,7 @@
+569682818306953216
+American
+@vanessaannz seriously, you hate @AmericanAir since they can't accommodate you due to inclemental  weather disruptions? lol, very funny
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:19:02 -0800
+location: Texas

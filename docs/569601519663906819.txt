@@ -1,0 +1,7 @@
+569601519663906819
+American
+.@AmericanAir cover a rental car or refund our ticket? - I'll gladly drive 10 hrs home than be stuck here till Tues!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 12:55:59 -0800
+location: Brookings, SD

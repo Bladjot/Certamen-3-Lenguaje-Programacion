@@ -1,0 +1,7 @@
+569644637343711232
+American
+@AmericanAir shoutout to the agent on duty now @ Gate B1 #ABQ / outstanding customer service w delayed FLT 336 http://t.co/OoEJ4d4JoP
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 15:47:19 -0800
+location: New York, NY

@@ -1,0 +1,7 @@
+570173690475728896
+American
+@AmericanAir you really need some customer service training for your unhappy EEs in the morning in Chicago. Gate K20 at 430 chking her schd
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 02:49:35 -0800
+location: nan

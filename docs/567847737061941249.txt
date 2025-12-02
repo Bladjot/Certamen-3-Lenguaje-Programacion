@@ -1,0 +1,7 @@
+567847737061941249
+US Airways
+@USAirways 4 hours... 4 hours... FOUR HOURS.  It's like this is a joke to you.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 16:47:05 -0800
+location: Vancouver, WA

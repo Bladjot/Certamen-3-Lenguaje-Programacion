@@ -1,0 +1,7 @@
+569884616649269248
+Southwest
+@SouthwestAir I'm going to start charging you for the consistent body pat downs. Starting to feel like a piece of meat. #punishedforflying
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 07:40:55 -0800
+location: Chicago, IL

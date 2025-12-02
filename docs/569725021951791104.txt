@@ -1,0 +1,7 @@
+569725021951791104
+US Airways
+@USAirways does anyone from your airline know how to do their job?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 21:06:44 -0800
+location: nan

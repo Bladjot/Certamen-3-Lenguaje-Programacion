@@ -1,0 +1,7 @@
+569514430393913344
+United
+@united you guys SUCK! Another Cancelled Flighted flight! Every flight with you has an issue!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 07:09:55 -0800
+location: nan

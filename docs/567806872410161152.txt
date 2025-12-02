@@ -1,0 +1,7 @@
+567806872410161152
+Virgin America
+@VirginAmerica Are there any plans for a short haul airline in Europe? Would defiantly fly with you guys :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 14:04:42 -0800
+location: nan

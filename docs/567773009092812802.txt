@@ -1,0 +1,7 @@
+567773009092812802
+Southwest
+@SouthwestAir needs to offer a college student discount so i can fly home 😭😭
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 11:50:08 -0800
+location: nan

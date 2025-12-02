@@ -1,0 +1,7 @@
+568137238267047936
+United
+@united all good! Next flight was a little delayed so it all worked 👍
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 11:57:27 -0800
+location: nan

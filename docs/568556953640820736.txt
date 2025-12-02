@@ -1,0 +1,7 @@
+568556953640820736
+US Airways
+@USAirways 45 min hold time then a hang up by Manager Mike in dividend miles dept. tough to justify sticking with the Us air CC and status.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 15:45:15 -0800
+location: nan

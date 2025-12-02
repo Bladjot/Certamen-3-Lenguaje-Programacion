@@ -1,0 +1,7 @@
+570254368538173440
+United
+@united I tried but no one was available in bogota and everyone was rude in Houston. I was stuck for 35 hours because of you guys
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 08:10:10 -0800
+location: nan

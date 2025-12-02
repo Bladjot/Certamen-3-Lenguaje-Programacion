@@ -1,0 +1,7 @@
+569682097125896192
+American
+@AmericanAir I know you are getting pummeled tonight @dfwairport we were one of the lucky out of @slcairport just one more @AUStinAirport
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:16:10 -0800
+location: Buda Texas

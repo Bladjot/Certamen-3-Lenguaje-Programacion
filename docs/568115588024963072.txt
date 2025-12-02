@@ -1,0 +1,7 @@
+568115588024963072
+United
+@united 6 hour mechanical delay...killing me
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 10:31:25 -0800
+location: LA, NY, Chicago & St.Louis

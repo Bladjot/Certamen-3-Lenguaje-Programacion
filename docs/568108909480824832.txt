@@ -1,0 +1,7 @@
+568108909480824832
+United
+@united How much is baggage check for International flights?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 10:04:53 -0800
+location: Raleigh, NC  SoCal

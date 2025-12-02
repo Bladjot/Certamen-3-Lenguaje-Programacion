@@ -1,0 +1,7 @@
+569619545893306369
+United
+@united seriously?   UA 806.  Delayed because of the copilot isn't here?  For 1.5 hours and he is only flying from Raleigh? Disappointing
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:07:37 -0800
+location: nan

@@ -1,0 +1,7 @@
+568244687477161984
+Delta
+@JetBlue 2 hour delay while sitting on the plane and you still wanna charge me for beer? Nah, I'm good.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 19:04:25 -0800
+location: Boston, MA

@@ -1,0 +1,7 @@
+569908759125991424
+United
+@united would love help getting there today. In #EWR now. Will take any airline and connections. Thx
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 09:16:51 -0800
+location: Burlington, Vermont

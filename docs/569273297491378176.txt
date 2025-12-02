@@ -1,0 +1,7 @@
+569273297491378176
+Delta
+@JetBlue Hello we are doing a world record attempt on the amount of ball point pens in a collection please could you help with a pen?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 15:11:45 -0800
+location: Grimsby - UK

@@ -1,0 +1,7 @@
+568617891412574208
+United
+@united what do you have in mind?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 19:47:24 -0800
+location: Chicago, Illinois.

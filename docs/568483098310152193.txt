@@ -1,0 +1,7 @@
+568483098310152193
+Delta
+@JetBlue any thoughts on waiver of change fees for travel out of Boston this weekend?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 10:51:47 -0800
+location: Massachusetts

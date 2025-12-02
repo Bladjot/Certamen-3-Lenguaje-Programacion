@@ -1,0 +1,7 @@
+569217285593788416
+United
+@united same flight number different flight. I'm heading to MPLS
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 11:29:11 -0800
+location: Chicago, IL

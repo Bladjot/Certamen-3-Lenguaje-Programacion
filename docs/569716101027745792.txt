@@ -1,0 +1,7 @@
+569716101027745792
+United
+@united worst flights I've ever had. ground crew ignored our plane, made me miss flight and now I have to cover the cost of a hotel. #DEN
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 20:31:17 -0800
+location: Vancouver, CA

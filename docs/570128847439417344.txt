@@ -1,0 +1,7 @@
+570128847439417344
+American
+@AmericanAir just hoping/praying for a safe flight. They've had to stop and de-ice our plane yet again😞
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 23:51:24 -0800
+location: nan

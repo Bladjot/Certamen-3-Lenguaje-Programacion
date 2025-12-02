@@ -1,0 +1,7 @@
+569889846472409088
+Delta
+@JetBlue ...and when did your legal department start running your social media channels?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 08:01:42 -0800
+location: Brooklyn, NY

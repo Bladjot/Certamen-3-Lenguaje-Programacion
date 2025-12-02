@@ -1,0 +1,7 @@
+570246094157946880
+Delta
+@JetBlue "Do what you love and you'll never work a day in your life." 😊
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 07:37:18 -0800
+location: nan

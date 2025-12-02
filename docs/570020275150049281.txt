@@ -1,0 +1,7 @@
+570020275150049281
+United
+@united  i have a weekend of dealing with your company that would say otherwise.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 16:39:58 -0800
+location: san diego

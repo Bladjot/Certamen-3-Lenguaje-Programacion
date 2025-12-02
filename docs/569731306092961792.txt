@@ -1,0 +1,7 @@
+569731306092961792
+US Airways
+Number or email? That's the purpose of sending you a tweet? @USAirways
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 21:31:43 -0800
+location: nan

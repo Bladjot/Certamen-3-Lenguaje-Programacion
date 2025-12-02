@@ -1,0 +1,7 @@
+569654562031685632
+American
+@AmericanAir  You can't get us to Cincy but our luggage will still go there tonight? Stranded us in Dallas for 2 days w/o clothes? #Yousuck
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 16:26:45 -0800
+location: nan

@@ -1,0 +1,7 @@
+570240784357830659
+American
+@AmericanAir I picked the nonstop flight bc I had things to get to. Should’ve taken diff route or airline I suppose!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 07:16:12 -0800
+location: Washington, DC

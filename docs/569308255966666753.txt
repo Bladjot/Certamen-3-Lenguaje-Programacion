@@ -1,0 +1,7 @@
+569308255966666753
+United
+@united following
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 17:30:40 -0800
+location: New Haven, CT

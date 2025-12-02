@@ -1,0 +1,7 @@
+568252192592769025
+US Airways
+@USAirways I didn't take my original flight. I was suppose to arrive last night than by 2:00pm today. Didn't get in til 5
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 19:34:14 -0800
+location: Phoenix, AZ

@@ -1,0 +1,7 @@
+568973634087165953
+United
+@united assistance with what, the attitude of your staff no matter which airport we are at?
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 19:21:00 -0800
+location: Fort Lauderdale, FL

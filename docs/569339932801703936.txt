@@ -1,0 +1,7 @@
+569339932801703936
+Delta
+@JetBlue Complete waste of an entire day. Pathetic.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 19:36:32 -0800
+location: SOUL CLAP/ STAR TIME/BBE

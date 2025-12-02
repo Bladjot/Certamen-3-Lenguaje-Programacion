@@ -1,0 +1,7 @@
+570060649780400128
+American
+@AmericanAir @nrosenb1 It's not allowing me to book available seats
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 19:20:24 -0800
+location: nan

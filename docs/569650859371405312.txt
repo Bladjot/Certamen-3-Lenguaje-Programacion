@@ -1,0 +1,7 @@
+569650859371405312
+American
+@AmericanAir long wait? I literally went shopping at 3 different centers, had lunch and prepared dinner. surprise, it's winter! staff better
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:12:03 -0800
+location: Phoenix, AZ

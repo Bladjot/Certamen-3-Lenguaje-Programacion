@@ -1,0 +1,7 @@
+570109219078152193
+US Airways
+@USAirways yes but again valuable time has been lost
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 22:33:24 -0800
+location: nan

@@ -1,0 +1,7 @@
+567748565095968769
+United
+@united Second day &amp; attempt trying to leave IAD &amp; I'm on another plane delayed for mechanical issues. Over an hour delayed!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 10:13:00 -0800
+location: Washington, DC

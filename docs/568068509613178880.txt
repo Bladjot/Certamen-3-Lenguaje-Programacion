@@ -1,0 +1,7 @@
+568068509613178880
+United
+@united thanks for reaching out. The seat was hard, not enough cushion. OK for short flight. BTW, UA6465 flight and crew were great!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 07:24:21 -0800
+location: Salt Lake City, Utah

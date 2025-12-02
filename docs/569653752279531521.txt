@@ -1,0 +1,7 @@
+569653752279531521
+American
+@AmericanAir plane breaks, unloads the passengers, told to re enter to only come back off. Flight Cancelled Flightled, missed wedding. #badbusiness
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 16:23:32 -0800
+location: Behind you, look again.

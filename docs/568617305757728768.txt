@@ -1,0 +1,7 @@
+568617305757728768
+US Airways
+@USAirways Flights 890 was the delay, Flight 5136 was my missed connection… Help!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 19:45:04 -0800
+location: Arkansas, USA

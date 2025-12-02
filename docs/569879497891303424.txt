@@ -1,0 +1,7 @@
+569879497891303424
+Delta
+@JetBlue what's the easiest way to get a ticket receipt? Can I get one at check in or can I get one online? Thanks!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:20:34 -0800
+location: Cambridge, MA

@@ -1,0 +1,7 @@
+569299492127842304
+United
+@united website says my flight is on time. It leaves in 15 min and nobody has boarded yet. #pathetic #needtobehonest
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 16:55:50 -0800
+location: San Francisco, CA

@@ -1,0 +1,7 @@
+569211645710495745
+United
+@united I would like 2 speak @United VP of #CustExp Jimmy Samartzis! I sent a survey/email about my awful flight exp http://t.co/OtFZ7CygUQ
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 11:06:46 -0800
+location: Pursuit of Happiness

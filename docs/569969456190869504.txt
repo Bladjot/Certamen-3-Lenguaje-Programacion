@@ -1,0 +1,7 @@
+569969456190869504
+American
+@AmericanAir Agents in DFW were very kind did their best to help, but this doesn't make up for PHX error and attitude! #Americant
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 13:18:02 -0800
+location: Iowa City, IA

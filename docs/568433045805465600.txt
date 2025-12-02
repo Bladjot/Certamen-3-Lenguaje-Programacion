@@ -1,0 +1,7 @@
+568433045805465600
+Delta
+@JetBlue I'm on flight and no booze being served 30 min in... What gives? #lostrevenue #angryandsober #bachelorpartymishap
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-19 07:32:53 -0800
+location: New York, NY

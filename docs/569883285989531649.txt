@@ -1,0 +1,7 @@
+569883285989531649
+US Airways
+@USAirways @AmericanAir 28 hours Late Flightr still no email. work supervisor needs documentation to approve last minute vacation day request
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:35:37 -0800
+location: BK

@@ -1,0 +1,7 @@
+569948356933332992
+US Airways
+@USAirways @marvinatorsb thnk you for response,all flights were full, couldn't get out until tmrw, had to Cancelled Flight and go w/other airline
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 11:54:12 -0800
+location: nan

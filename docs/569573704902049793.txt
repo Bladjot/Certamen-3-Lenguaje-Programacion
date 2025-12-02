@@ -1,0 +1,7 @@
+569573704902049793
+United
+@united your website is fucked up. Now instead of a $416 flight I should’ve had yesterday, it’s $514 today. Thanks.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 11:05:28 -0800
+location: Dirty Jerz

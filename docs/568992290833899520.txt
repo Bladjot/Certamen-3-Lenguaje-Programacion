@@ -1,0 +1,7 @@
+568992290833899520
+Southwest
+@SouthwestAir Horrible experience ever with airline..Have to reconsider any future flights. Customer service ... http://t.co/EczHcmM5vi
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 20:35:08 -0800
+location: HOUSTON

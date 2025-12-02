@@ -1,0 +1,7 @@
+568948971923742720
+United
+@united thank you for the reply. I emailed your customer care department about my experience.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 17:43:00 -0800
+location: Chapel Hill

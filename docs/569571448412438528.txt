@@ -1,0 +1,7 @@
+569571448412438528
+Southwest
+@SouthwestAir Way to go flying out of Denver today! Must be the only airline not Cancelled Flighting/delaying flights! #FlySWA #denverairport
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 10:56:30 -0800
+location: San Diego, CA USA

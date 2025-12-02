@@ -1,0 +1,7 @@
+569701794714128384
+Southwest
+.@SouthwestAir glad you appreciate it, it’ll be the last dollar you ever get from me thanks to your wretched customer service
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:34:27 -0800
+location: NY

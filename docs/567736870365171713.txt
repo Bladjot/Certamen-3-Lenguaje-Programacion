@@ -1,0 +1,7 @@
+567736870365171713
+Southwest
+@SouthwestAir I'm trying to change a family vacation due to Measles outbreak and haven't been able to get anyone on the phone. Any help?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 09:26:32 -0800
+location: Château d'If

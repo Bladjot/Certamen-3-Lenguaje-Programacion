@@ -1,0 +1,7 @@
+569223788639821824
+Virgin America
+@VirginAmerica I was so looking forward to my first flight with you today but it was Cancelled Flightled along with the subsequent one ...
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 11:55:01 -0800
+location: California, USA

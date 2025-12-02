@@ -1,0 +1,7 @@
+569491240481382400
+US Airways
+@USAirways instead of tweeting your customers apologizing why don't you pick up your phone
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 05:37:47 -0800
+location: wherever uncle sam sends me

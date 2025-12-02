@@ -1,0 +1,7 @@
+569660740396720128
+United
+@united missing a day of vacation to see my husband because of this delay but stuff happens and I get that. Just wish it was handled better
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:51:18 -0800
+location: Kingston, Canada

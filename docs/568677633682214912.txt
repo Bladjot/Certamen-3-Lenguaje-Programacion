@@ -1,0 +1,7 @@
+568677633682214912
+United
+@united "the extra care airline". #unitedairlines they don't care. Trust me. There #customerservice is non existent. They don't have 1
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 23:44:48 -0800
+location: bonkers in Yonkers

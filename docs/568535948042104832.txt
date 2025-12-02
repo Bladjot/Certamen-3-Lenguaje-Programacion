@@ -1,0 +1,7 @@
+568535948042104832
+Southwest
+@SouthwestAir ok, gotcha! ✈️😃👍
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 14:21:47 -0800
+location: Calgary AB Canada

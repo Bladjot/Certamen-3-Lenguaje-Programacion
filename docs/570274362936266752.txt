@@ -1,0 +1,7 @@
+570274362936266752
+Southwest
+@SouthwestAir Teyana Taylor Performing #MedusaFridays 2.27 Free Till11 http://t.co/qwFMoQ0dQl http://t.co/kbb0B5FxMK #TheMenOfBusiness
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:29:37 -0800
+location: Arlington,Tx

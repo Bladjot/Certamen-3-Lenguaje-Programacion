@@ -1,0 +1,7 @@
+568100257931747328
+Virgin America
+@VirginAmerica has the most INCREDIBLE customer service I've ever experienced! So refreshing!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 09:30:30 -0800
+location: San Francisco, CA

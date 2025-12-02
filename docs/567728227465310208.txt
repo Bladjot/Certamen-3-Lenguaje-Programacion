@@ -1,0 +1,7 @@
+567728227465310208
+Virgin America
+@VirginAmerica was wondering if you guys recieved my dm and we're able to potentially respond asap
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 08:52:11 -0800
+location: Chicago

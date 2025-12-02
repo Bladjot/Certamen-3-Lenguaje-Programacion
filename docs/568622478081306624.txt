@@ -1,0 +1,7 @@
+568622478081306624
+US Airways
+@USAirways DCA-&gt;HPN, u r prof hostage takers.We stood on bus 2 plane for 25 min,now sitting on plane with no mvmt &amp; 1 announcement 4 &gt; hour!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 20:05:37 -0800
+location: Washington DC

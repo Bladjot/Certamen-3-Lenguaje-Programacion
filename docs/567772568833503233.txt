@@ -1,0 +1,7 @@
+567772568833503233
+Delta
+@JetBlue @KyleJudah be responsible for replacing it
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 11:48:23 -0800
+location: Boston, MA

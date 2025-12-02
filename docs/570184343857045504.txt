@@ -1,0 +1,7 @@
+570184343857045504
+Delta
+@JetBlue service getting worse and worse. Plane can't fly waiting on a 2nd aircraft. So much for planning.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 03:31:55 -0800
+location: Boston, MA

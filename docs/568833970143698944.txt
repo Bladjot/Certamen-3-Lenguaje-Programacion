@@ -1,0 +1,7 @@
+568833970143698944
+US Airways
+@USAirways Saddens me that my first tweet - ever - has to be a complaint about customer service.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 10:06:01 -0800
+location: nan

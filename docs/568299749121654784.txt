@@ -1,0 +1,7 @@
+568299749121654784
+Southwest
+@southwestair so I saw the promo for A-List when I was on a plane this Monday. I fly two more times in the qualification period. 1/2
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 22:43:13 -0800
+location: Denver, CO

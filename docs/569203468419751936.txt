@@ -1,0 +1,7 @@
+569203468419751936
+Southwest
+@SouthwestAir I've been on hold almost an hour! I LUV y'all but #ImJustSaying 😔😔😔 http://t.co/t6fYyBHjhL
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 10:34:16 -0800
+location: North Texas

@@ -1,0 +1,7 @@
+568055537952284672
+US Airways
+@USAirways No reFlight Booking Problems necessary. I can't afford to deal this kind of unprofessionalism again. I would, however, like some type of credit.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 06:32:48 -0800
+location: where you want to be.

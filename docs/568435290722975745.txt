@@ -1,0 +1,7 @@
+568435290722975745
+United
+@united That doesn’t make any sense. I’ve been 1K for over 5 years, and you’re making it harder to keep me loyal.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 07:41:48 -0800
+location: New York, NY

@@ -1,0 +1,7 @@
+569646538814824449
+United
+@united sitting on the runway in Newark, they won't let the plane to a gate. My connection boards in 1 minute. @united hates us all.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:54:53 -0800
+location: San Francisco, CA

@@ -1,0 +1,7 @@
+567726949049454592
+Southwest
+@SouthwestAir I'm an A-list Preferred customer and very loyal SWA. However, your inflight wifi is no better today than it was 4 years ago.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 08:47:07 -0800
+location: nan

@@ -1,0 +1,7 @@
+568495924135235585
+Southwest
+“@SouthwestAir: #IfThe80sNeverStopped, we'd still be rocking out to this chart-topping hit". What?  The 80's are over?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 11:42:45 -0800
+location: McKinney, Texas

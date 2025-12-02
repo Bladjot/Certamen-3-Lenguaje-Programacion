@@ -1,0 +1,7 @@
+570240336519258112
+American
+@AmericanAir I can DM it to you, if you follow me
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 07:14:25 -0800
+location: Denver, CO

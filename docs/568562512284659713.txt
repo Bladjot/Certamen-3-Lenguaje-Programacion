@@ -1,0 +1,7 @@
+568562512284659713
+United
+@united ouch, delays due to mechanical issues again QRO will have to wait! Yall seem to be falling apart #alwaysdelayed #unitedfail
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 16:07:20 -0800
+location: htx

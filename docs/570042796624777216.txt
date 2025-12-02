@@ -1,0 +1,7 @@
+570042796624777216
+US Airways
+@USAirways. Yet another delay/missed connection....and your customer service has an attitude with me? Wow.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 18:09:28 -0800
+location: nan

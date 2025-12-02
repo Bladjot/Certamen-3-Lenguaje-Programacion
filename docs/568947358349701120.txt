@@ -1,0 +1,7 @@
+568947358349701120
+US Airways
+@USAirways hello I have a question for you and your phone lines have jammed
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 17:36:35 -0800
+location: nan

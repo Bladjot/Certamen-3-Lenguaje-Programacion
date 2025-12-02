@@ -1,0 +1,7 @@
+568999888043638785
+United
+@united sure, but 8 different texts changing time &amp; gate (especially locations across the entire concourse). That just seemed a little off.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-20 21:05:19 -0800
+location: Grand Rapids, Michigan

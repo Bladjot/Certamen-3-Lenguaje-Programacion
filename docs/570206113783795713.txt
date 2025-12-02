@@ -1,0 +1,7 @@
+570206113783795713
+US Airways
+@USAirways pretty sure we didn't actually take off at 7:10 http://t.co/vuxf4r4Unu
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 04:58:26 -0800
+location: Greenville, SC

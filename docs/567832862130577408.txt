@@ -1,0 +1,7 @@
+567832862130577408
+US Airways
+@USAirways ticket couldnt be used bc unable to get to departing dest (RSW) bc of blizzard in BOS. Told only way to use credit is $200 fine
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 15:47:58 -0800
+location: South Shore, MA

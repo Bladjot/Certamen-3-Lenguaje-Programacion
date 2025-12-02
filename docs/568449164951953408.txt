@@ -1,0 +1,7 @@
+568449164951953408
+United
+@united So far so good. Just stepped down in Denver. Next Stop Portland!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 08:36:56 -0800
+location: New York, NY

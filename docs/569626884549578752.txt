@@ -1,0 +1,7 @@
+569626884549578752
+Delta
+@JetBlue if you want to be helpful, find us a seat. Don't quote terms and conditions. #jetbluefail
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 14:36:47 -0800
+location: nan

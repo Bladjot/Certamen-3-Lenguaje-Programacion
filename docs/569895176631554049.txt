@@ -1,0 +1,7 @@
+569895176631554049
+American
+@AmericanAir flight from DC to LA, not to mention fix the circuit breaker in our bathrooms because this plane is as old as me...
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 08:22:52 -0800
+location: nan

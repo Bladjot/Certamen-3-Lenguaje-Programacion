@@ -1,0 +1,7 @@
+568016802191683586
+US Airways
+@USAirways, 1st a reaccommodation, now a delayed flight for this one.  &amp; the Gate Agent still hasn't mumbled a word. Folks getting anxious.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 03:58:53 -0800
+location: Any Martin Luther St.

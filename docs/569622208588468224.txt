@@ -1,0 +1,7 @@
+569622208588468224
+American
+@AmericanAir I did. Should i expect a response in this fiscal year? This calendar year? Never?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:18:12 -0800
+location: Pekin

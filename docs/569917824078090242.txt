@@ -1,0 +1,7 @@
+569917824078090242
+American
+@AmericanAir 6 hours to get backs back after being sat on a plane for 4 hours to have flight Cancelled Flightled with only one small drink
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 09:52:52 -0800
+location: lydham shropshire uk

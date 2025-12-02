@@ -1,0 +1,7 @@
+569439829328408576
+Delta
+@JetBlue They just came out. Thanks for the follow-up. That's why you're the best!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 02:13:29 -0800
+location: new york city

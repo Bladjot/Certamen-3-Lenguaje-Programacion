@@ -1,0 +1,7 @@
+569484788404322304
+United
+@united lost bag on next flight. Didn't have time to load during the 5 hour delay?Consequence from platinum to gold
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 05:12:08 -0800
+location: Atlantic Highlands, NJ

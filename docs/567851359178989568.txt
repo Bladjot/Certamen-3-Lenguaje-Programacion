@@ -1,0 +1,7 @@
+567851359178989568
+United
+@united time for a rant...you delayed my flight and still forgot my luggage...then delayed on the Tarmac, moments I love you United
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 17:01:28 -0800
+location: nan

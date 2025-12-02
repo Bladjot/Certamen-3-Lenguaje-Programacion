@@ -1,0 +1,7 @@
+570071350133579776
+US Airways
+@USAirways yes, but I had to pay more for another flight to get me out tomorrow since there weren't anymore for tonight...not fun :-/
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 20:02:55 -0800
+location: nan

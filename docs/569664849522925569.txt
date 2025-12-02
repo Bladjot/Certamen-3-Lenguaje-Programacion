@@ -1,0 +1,7 @@
+569664849522925569
+United
+@united I was. But I have given up.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 17:07:38 -0800
+location: Portland, OR

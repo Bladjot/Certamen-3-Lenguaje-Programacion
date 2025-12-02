@@ -1,0 +1,7 @@
+567850015600685056
+United
+@united - thanks for the rude customer service and 3 hour delay. It really helped me timing wise for my afternoon meetings. Hello @Delta !
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 16:56:08 -0800
+location: nan

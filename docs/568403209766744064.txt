@@ -1,0 +1,7 @@
+568403209766744064
+Southwest
+@SouthwestAir when's the next deal going to happen a poor college student is trying to fly to Orlando instead of drive in August! Lol
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 05:34:20 -0800
+location: Long Island

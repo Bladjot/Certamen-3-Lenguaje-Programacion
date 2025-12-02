@@ -1,0 +1,7 @@
+567827091409092608
+Delta
+@JetBlue insane the craziness I've seen with Jet Blue today at Newark Delayed 3 hours and now we are waiting for a Pilot!! #jetblue
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 15:25:02 -0800
+location: nan

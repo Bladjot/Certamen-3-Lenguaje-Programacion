@@ -1,0 +1,7 @@
+570288841447366658
+Southwest
+@SouthwestAir oh, is it only in Atlanta?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:27:09 -0800
+location: EVERYWHERE

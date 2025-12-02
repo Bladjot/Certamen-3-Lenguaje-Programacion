@@ -1,0 +1,7 @@
+569277854950817792
+Virgin America
+@VirginAmerica trying to book a flight &amp; your site is down 😁
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 15:29:51 -0800
+location: BAYAREA✈️NYC

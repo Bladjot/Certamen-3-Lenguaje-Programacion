@@ -1,0 +1,7 @@
+569218762907324416
+Virgin America
+@VirginAmerica hold times at call center are a bit much
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 11:35:03 -0800
+location: SF Bay Area

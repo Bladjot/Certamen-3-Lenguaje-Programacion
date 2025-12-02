@@ -1,0 +1,7 @@
+568068967098658816
+Delta
+@JetBlue and the 20min line I stood in to drop my bag off?
+sentiment: negative
+negativereason: longlines
+created: 2015-02-18 07:26:10 -0800
+location: NYC

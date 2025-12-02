@@ -1,0 +1,7 @@
+570011417249759233
+United
+@united flight arrives 30 minutes early, but then have we to wait for an hour for our bags.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 16:04:46 -0800
+location: nan

@@ -1,0 +1,7 @@
+567820713156943872
+Southwest
+@SouthwestAir El Paso deals....May❤❤❤😍🌏
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 14:59:42 -0800
+location: Houston TX

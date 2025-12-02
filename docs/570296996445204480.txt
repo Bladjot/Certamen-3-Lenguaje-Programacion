@@ -1,0 +1,7 @@
+570296996445204480
+American
+@AmericanAir that's 16+ extra hours of travel time. Missed vacation time and now you guys are messing with my professional life.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 10:59:34 -0800
+location: Brooklyn, NY and all over.

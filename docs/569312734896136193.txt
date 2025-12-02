@@ -1,0 +1,7 @@
+569312734896136193
+Southwest
+@SouthwestAir Thanks for making good on @PoteetTJ 's Cancelled Flightled flight.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 17:48:27 -0800
+location: Columbus OH

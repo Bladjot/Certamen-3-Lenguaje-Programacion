@@ -1,0 +1,7 @@
+570226471941251072
+American
+@AmericanAir depends on the terminal, what' the best option? Arrive C, depart A. Breakfast burrito is what I'm craving.. Any update on 1119?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 06:19:19 -0800
+location: iPhone: 37.621227,-122.386002

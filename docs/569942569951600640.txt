@@ -1,0 +1,7 @@
+569942569951600640
+US Airways
+@USAirways take a look at 1715. All F seats filled, so someone upgraded their friend instead of following rules.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 11:31:12 -0800
+location: Arlington, VA

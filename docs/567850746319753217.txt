@@ -1,0 +1,7 @@
+567850746319753217
+US Airways
+@USAirways Eh, it happens. I think I'll survive. 😉 Thanks!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 16:59:02 -0800
+location: Bloomington, MN

@@ -1,0 +1,7 @@
+568813634152849408
+Southwest
+@SouthwestAir if you are going to be inconsistent enforcing your rules, I'd prefer you not randomly take it out on freq flyers that obey
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 08:45:13 -0800
+location: nan

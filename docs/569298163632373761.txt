@@ -1,0 +1,7 @@
+569298163632373761
+US Airways
+@USAirways something is wrong with your phone system if you call someone and don't play the recorded flight notification. Is US643 Late Flight?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 16:50:33 -0800
+location: Southampton, UK

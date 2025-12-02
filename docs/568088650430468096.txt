@@ -1,0 +1,7 @@
+568088650430468096
+US Airways
+@USAirways Would you guys please send service agents to gate B15 in Philly?  All the people missed there connections and there's only 2.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-18 08:44:23 -0800
+location: nan

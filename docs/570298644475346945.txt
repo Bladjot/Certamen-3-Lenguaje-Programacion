@@ -1,0 +1,7 @@
+570298644475346945
+American
+@AmericanAir submitted a case to AA customer relations two weeks ago, no word ever since! whats the point of even having CR?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 11:06:07 -0800
+location: Bellevue, WA

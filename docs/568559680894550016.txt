@@ -1,0 +1,7 @@
+568559680894550016
+United
+@united I'll stick with my United flight. Thanks, though. Effort is much appreciated.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 15:56:05 -0800
+location: San Francisco, CA

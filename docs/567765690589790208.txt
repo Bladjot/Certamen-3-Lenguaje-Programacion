@@ -1,0 +1,7 @@
+567765690589790208
+Southwest
+@SouthwestAir your gate agent re-routed an impossible itinerary and we had to find a new airline to get us home. Super bummed about this
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 11:21:03 -0800
+location: nan

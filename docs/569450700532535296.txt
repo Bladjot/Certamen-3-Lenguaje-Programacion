@@ -1,0 +1,7 @@
+569450700532535296
+US Airways
+@USAirways flight to Des Moines Cancelled Flightled. Unacceptable to be booked on flight on Tuesday because of work commitments. 2hrs on hold
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 02:56:41 -0800
+location: Des Moines

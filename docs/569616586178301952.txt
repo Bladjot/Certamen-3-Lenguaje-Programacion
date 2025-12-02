@@ -1,0 +1,7 @@
+569616586178301952
+American
+@AmericanAir been rebooked for tomorrow. You failed to put me on DL flight today despite my asking and available seat. DL still available
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:55:51 -0800
+location: nan

@@ -1,0 +1,7 @@
+567923103080275968
+US Airways
+@USAirways Fuck you
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 21:46:33 -0800
+location: Toronto

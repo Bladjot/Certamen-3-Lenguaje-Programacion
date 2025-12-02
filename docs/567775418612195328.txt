@@ -1,0 +1,7 @@
+567775418612195328
+United
+@united looks like I'm settled in to where I'm going.  Thx.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 11:59:43 -0800
+location: All Over The World

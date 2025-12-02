@@ -1,0 +1,7 @@
+570123386925539329
+American
+@AmericanAir I had a 6am flight I can get no rest because I have to wait another 2 hours to receive an automated phone call. #neveragain
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 23:29:42 -0800
+location: las vegas/nashville, TN

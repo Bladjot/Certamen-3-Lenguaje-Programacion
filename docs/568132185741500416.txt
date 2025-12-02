@@ -1,0 +1,7 @@
+568132185741500416
+United
+@united Nice "partners" you have. The delays keep increasing every 20 min @FtLauderdaleSun @orlandosentinel http://t.co/1AtEafnC6R
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 11:37:23 -0800
+location: United States

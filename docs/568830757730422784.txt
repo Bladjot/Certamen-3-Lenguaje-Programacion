@@ -1,0 +1,7 @@
+568830757730422784
+United
+@united Did somebody say flight upgrade?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 09:53:15 -0800
+location: Brighton, UK

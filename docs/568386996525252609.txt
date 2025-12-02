@@ -1,0 +1,7 @@
+568386996525252609
+Southwest
+@SouthwestAir how it feels on flight 4251 http://t.co/JM8gQ1KGrF
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 04:29:54 -0800
+location: nan

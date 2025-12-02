@@ -1,0 +1,7 @@
+568830133626253312
+Virgin America
+@VirginAmerica I'm trying to check into my 10:50AM CT flight tmm on the desktop website and it's not working (some sort of caching bug) SOS
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 09:50:46 -0800
+location: New York, NY

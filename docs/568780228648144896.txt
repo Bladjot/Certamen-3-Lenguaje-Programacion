@@ -1,0 +1,7 @@
+568780228648144896
+US Airways
+@Usairways need to learn operations. Sit a plane overnight at #gsp, and not realize there's a mech problem. Then delay flight 3 1/2 hours!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 06:32:28 -0800
+location: West Palm

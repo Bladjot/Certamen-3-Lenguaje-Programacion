@@ -1,0 +1,7 @@
+569636447956930561
+American
+@AmericanAir @SeguineJ AA - this is a joke, right? That line isn't even accepting calls right now - they just hang up.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:14:47 -0800
+location: Nicosia, Cyprus

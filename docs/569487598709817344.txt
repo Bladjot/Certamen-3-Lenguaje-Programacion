@@ -1,0 +1,7 @@
+569487598709817344
+Delta
+@JetBlue we are on flight 751 and were returning to the gate can you provide any information?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 05:23:18 -0800
+location: nan

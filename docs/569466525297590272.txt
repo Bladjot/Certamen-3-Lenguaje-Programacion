@@ -1,0 +1,7 @@
+569466525297590272
+US Airways
+@USAirways - what a disaster! Flight 3739, missed passenger count by 5 since it was done manually!!  Really???
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 03:59:34 -0800
+location: nan

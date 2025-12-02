@@ -1,0 +1,7 @@
+568561938457690112
+Delta
+@JetBlue Has D.C. Thinking About Summer With New Nantucket Service - SYS-CON Media (PR) http://t.co/ZoFWLdQXbe
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 16:05:04 -0800
+location: USA

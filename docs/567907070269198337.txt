@@ -1,0 +1,7 @@
+567907070269198337
+Southwest
+@SouthwestAir A wonderfully nice agent in Austin helped us out. Wish I remembered her name to give proper kudos.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 20:42:51 -0800
+location: Spokane, WA

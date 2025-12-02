@@ -1,0 +1,7 @@
+569731970562961408
+Southwest
+@SouthwestAir You completely let me down tonight. Your gate agents' ambivalence is just too much. How sad for you (&amp; me.)
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 21:34:21 -0800
+location: Phoenix, Arizona USA

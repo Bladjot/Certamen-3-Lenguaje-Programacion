@@ -1,0 +1,7 @@
+569002746117902336
+Delta
+@JetBlue you're flight attendants suck and are always rude :( 4th bad experience with JetBlue tonight :/
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 21:16:40 -0800
+location: nan

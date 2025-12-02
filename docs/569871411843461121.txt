@@ -1,0 +1,7 @@
+569871411843461121
+American
+@AmericanAir Deplaned for the 3rd fucking time. Fuck you AA.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 06:48:26 -0800
+location: Chicago, IL

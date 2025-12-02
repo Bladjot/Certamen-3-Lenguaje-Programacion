@@ -1,0 +1,7 @@
+568121659988824064
+Southwest
+@SouthwestAir looks like my 1 yr anni trip has been replaced w someone's itinerary. Worried abt who can c my flight http://t.co/BApE6RuMNE
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 10:55:33 -0800
+location: nan

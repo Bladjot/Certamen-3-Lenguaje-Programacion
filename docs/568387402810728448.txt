@@ -1,0 +1,7 @@
+568387402810728448
+Delta
+@JetBlue hi. Just DM'd info
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 04:31:31 -0800
+location: nan

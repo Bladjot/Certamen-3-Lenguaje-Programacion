@@ -1,0 +1,7 @@
+568785867743105024
+Delta
+@JetBlue I hope so. The plane does appear to be leaving a nearby terminal for our gate.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 06:54:53 -0800
+location: nan

@@ -1,0 +1,7 @@
+570299182310944768
+United
+@united is the worst. Nonrefundable First class tickets? Oh because when you select Global/FC their system auto selects economy w/upgrade.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 11:08:15 -0800
+location: Las Vegas

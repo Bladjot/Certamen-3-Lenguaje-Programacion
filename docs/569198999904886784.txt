@@ -1,0 +1,7 @@
+569198999904886784
+US Airways
+@USAirways undermines the intelligence of customers by ignoring their complaints with their copy and paste canned responses #usairwaysfail
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 10:16:31 -0800
+location: DC

@@ -1,0 +1,7 @@
+567882603405008896
+United
+@united #UnitedAirlines fill out form and never receive response? I expect remedy. We can travel another airline and Cancelled Flight as members w u.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 19:05:38 -0800
+location: Irvine

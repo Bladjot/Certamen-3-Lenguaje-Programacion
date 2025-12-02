@@ -1,0 +1,7 @@
+569464902164856832
+US Airways
+@Sb5551 Sounds like  @USAirways should have planned better since this weather was no surprise. Completely unacceptable wait times!!!
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 03:53:07 -0800
+location: nan

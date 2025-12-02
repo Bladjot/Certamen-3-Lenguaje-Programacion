@@ -1,0 +1,7 @@
+568810516740644864
+United
+@united Frontier is currently offering their weather exceptions for this weekend. When is United?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 08:32:49 -0800
+location: nan

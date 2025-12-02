@@ -1,0 +1,7 @@
+569936062039986176
+United
+@united I wasn't asking for a full refund but delaying me 3 hours and giving no reason should be enough to give partial credit
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 11:05:20 -0800
+location: Wherever I want to be

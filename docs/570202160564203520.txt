@@ -1,0 +1,7 @@
+570202160564203520
+American
+@AmericanAir again, no special meal catered for me in F JFK-LAX. thankfully i'm on qantas the rest of way-i fear what youd NOT cater on that
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 04:42:43 -0800
+location: san francisco

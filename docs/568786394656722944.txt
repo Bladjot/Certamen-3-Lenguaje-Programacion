@@ -1,0 +1,7 @@
+568786394656722944
+Delta
+@JetBlue Success! Good work JetBlue team
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 06:56:58 -0800
+location: New York, NY

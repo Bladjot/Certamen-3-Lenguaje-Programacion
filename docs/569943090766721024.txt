@@ -1,0 +1,7 @@
+569943090766721024
+US Airways
+@USAirways US 728 stated their issues as: kept plane on ground to allow connecting passengers from other flight to board. Fine. Understand.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:33:16 -0800
+location: nan

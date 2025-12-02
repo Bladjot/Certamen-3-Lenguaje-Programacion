@@ -1,0 +1,7 @@
+569986344484794369
+US Airways
+@USAirways your lack of customer service has shined. I need you to step up and get my lost baggage to delta. So they can return it to me.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 14:25:09 -0800
+location: NY

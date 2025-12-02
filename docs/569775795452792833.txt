@@ -1,0 +1,7 @@
+569775795452792833
+American
+@AmericanAir can you use the aa credit platinum select world mastercard for Alaska flights?  Or just american?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 00:28:30 -0800
+location: Renton, WA

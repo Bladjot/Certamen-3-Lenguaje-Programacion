@@ -1,0 +1,7 @@
+569987511830904832
+US Airways
+@USAirways IT HAS BEEN FOUND THANK YOU
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 14:29:47 -0800
+location: The Shire

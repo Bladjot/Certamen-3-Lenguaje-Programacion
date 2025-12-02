@@ -1,0 +1,7 @@
+569569152312213506
+United
+@united  what did you do with my seat. International connection. Seriously?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 10:47:22 -0800
+location: nan

@@ -1,0 +1,7 @@
+569654735592140800
+American
+@AmericanAir sucks!! Teco teco #reclameaqui #TripAdvisor http://t.co/auGJsCmoLu
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 16:27:27 -0800
+location: Pocos de Caldas

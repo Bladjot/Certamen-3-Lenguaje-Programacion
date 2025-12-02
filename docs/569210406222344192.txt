@@ -1,0 +1,7 @@
+569210406222344192
+Southwest
+@SouthwestAir flying back to Denver tomorrow. Should I rebook?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 11:01:50 -0800
+location: Denver

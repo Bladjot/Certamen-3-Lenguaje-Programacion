@@ -1,0 +1,7 @@
+568636474637357056
+Delta
+@JetBlue I'm sitting on the plane. Too many predictable mechanical problems.  Still onboard. This is getting bad...
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 21:01:14 -0800
+location: nan

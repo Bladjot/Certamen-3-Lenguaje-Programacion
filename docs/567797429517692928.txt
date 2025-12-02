@@ -1,0 +1,7 @@
+567797429517692928
+United
+@united sorry, I hate united. i won't get to see my family until Thursday
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 13:27:11 -0800
+location: Loving the Languageof Literacy

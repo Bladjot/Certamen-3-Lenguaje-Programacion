@@ -1,0 +1,7 @@
+569226857272516608
+US Airways
+@USAirways Can't wait for the trip. Thanks for getting me there!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 12:07:13 -0800
+location: Troy, NY

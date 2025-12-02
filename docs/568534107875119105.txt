@@ -1,0 +1,7 @@
+568534107875119105
+United
+@united I just want to contact someone with a question &amp; not be put on hold for 5 minutes in order to be hung up on or sent to the pet line
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 14:14:28 -0800
+location: New York, NY

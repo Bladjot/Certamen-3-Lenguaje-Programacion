@@ -1,0 +1,7 @@
+570258141599928321
+American
+@AmericanAir Would have had to fly real far south, huh? #WinterWeather #Brrr
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:25:10 -0800
+location: Cary, NC

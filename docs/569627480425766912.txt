@@ -1,0 +1,7 @@
+569627480425766912
+Virgin America
+@VirginAmerica I need to register a service dog for a first class ticket from SFO &gt; Dulles. The phone queue is an hour or longer. Pls advise
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:39:09 -0800
+location: Oakland, California

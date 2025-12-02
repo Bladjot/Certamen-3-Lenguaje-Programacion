@@ -1,0 +1,7 @@
+570110706588262400
+American
+@AmericanAir hey! I have a name issue on my reservation can you help?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 22:39:19 -0800
+location: N to da Y to da C

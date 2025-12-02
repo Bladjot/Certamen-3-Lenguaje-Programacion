@@ -1,0 +1,7 @@
+569657763069952001
+American
+@AmericanAir are you expecting flights out of DFW to be Cancelled Flightled tomorrow AM and afternoon?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:39:29 -0800
+location: El Paso, TX

@@ -1,0 +1,7 @@
+569758349354340352
+US Airways
+@USAirways But nope!  Apparently this is the way you guys do business!  I guess I'm flying southwest and her blue from now on.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 23:19:10 -0800
+location: Washington, D.C.

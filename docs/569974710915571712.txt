@@ -1,0 +1,7 @@
+569974710915571712
+Southwest
+@SouthwestAir really easy for locals to get down to the strip. book.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 13:38:55 -0800
+location: nan

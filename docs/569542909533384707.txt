@@ -1,0 +1,7 @@
+569542909533384707
+Delta
+@JetBlue @Amagrino will you cover the cost of my car service waiting time?!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 09:03:05 -0800
+location: New York, NY

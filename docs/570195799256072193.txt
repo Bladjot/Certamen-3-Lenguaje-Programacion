@@ -1,0 +1,7 @@
+570195799256072193
+American
+@AmericanAir I fly weekly with you and haven't seen one
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 04:17:26 -0800
+location: Miami

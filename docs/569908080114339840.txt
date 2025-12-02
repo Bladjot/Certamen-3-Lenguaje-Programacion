@@ -1,0 +1,7 @@
+569908080114339840
+Delta
+@jetblue it's time for a direct flight from #JFK to #PITT.... @ Official JetBlue Terminal 5 - New York… http://t.co/QygXGmd3Sn
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 09:14:09 -0800
+location: NEW YORK

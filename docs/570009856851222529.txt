@@ -1,0 +1,7 @@
+570009856851222529
+American
+@AmericanAir not having pillows or blankets or a flight home for 40 people does bad things to my hair
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 15:58:34 -0800
+location: Ithaca, NY

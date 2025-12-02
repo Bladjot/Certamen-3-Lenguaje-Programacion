@@ -1,0 +1,7 @@
+568969143581413376
+Southwest
+@SouthwestAir Well plane arrived pretty much on time and it's 68 degrees on the ground in Texas. Not much to complain about.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 19:03:09 -0800
+location: Washington, DC

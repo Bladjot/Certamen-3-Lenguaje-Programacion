@@ -1,0 +1,7 @@
+569721804891271168
+United
+@united i need help but in spanish
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 20:53:57 -0800
+location: New Jersey

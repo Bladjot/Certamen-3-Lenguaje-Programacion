@@ -1,0 +1,7 @@
+569323015550296064
+United
+@United - flight Cancelled Flightled. 4 hrs at airport to book a new one for $95. Just got two invoices for the flight, each for approx $300. Really?!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 18:29:19 -0800
+location: Belfast/Boston

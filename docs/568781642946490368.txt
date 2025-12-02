@@ -1,0 +1,7 @@
+568781642946490368
+US Airways
+@usairways app is the worst one for airlines. Can't do anything once your original flight time has gone by. Useless.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 06:38:05 -0800
+location: West Palm

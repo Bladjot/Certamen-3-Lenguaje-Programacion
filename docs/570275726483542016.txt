@@ -1,0 +1,7 @@
+570275726483542016
+American
+@AmericanAir I'd like to apologize to the gate agent for flight AA76, I was not aware that zone 1 was after the nine other precious gems.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 09:35:03 -0800
+location: nan

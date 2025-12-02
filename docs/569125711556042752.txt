@@ -1,0 +1,8 @@
+569125711556042752
+United
+@united: "Left gate 5 minutes early." 
+My thoughts: "That doesn't count if you sit on the Tarmac for a half hour." #comeonpeople
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 05:25:18 -0800
+location: Nashville, TN      +309+ +320+

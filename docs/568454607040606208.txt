@@ -1,0 +1,7 @@
+568454607040606208
+United
+@united I guess that's not the busiest route, so based on traffic/fuel costs, regional jet is the decision, but still not great 4 travelers.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 08:58:34 -0800
+location: nan

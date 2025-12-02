@@ -1,0 +1,7 @@
+568465710629826560
+United
+@united You're welcome.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 09:42:41 -0800
+location: Almere, The Netherlands

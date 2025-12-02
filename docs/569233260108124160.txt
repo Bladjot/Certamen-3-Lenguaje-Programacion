@@ -1,0 +1,7 @@
+569233260108124160
+Delta
+@JetBlue someone is here but has no info smh one bag came off  and then nothing
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 12:32:39 -0800
+location: nan

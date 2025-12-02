@@ -1,0 +1,7 @@
+567807333498355713
+Delta
+@JetBlue It's for me, I spoke with a rep on the phone who suggested I "Voice a concern" via "Email us" on your site. I did a few moments ago
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:06:32 -0800
+location: Miramar, Florida

@@ -1,0 +1,7 @@
+568847735530643457
+United
+@united Are the current on board food menus available anywhere online?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 11:00:43 -0800
+location: nan

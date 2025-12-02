@@ -1,0 +1,7 @@
+568228505160433665
+United
+@united can you DM me? Been on hold with customer service very long time (53 min +) and getting the run-around. Thanks.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 18:00:07 -0800
+location: nan

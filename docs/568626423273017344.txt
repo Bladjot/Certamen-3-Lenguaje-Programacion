@@ -1,0 +1,7 @@
+568626423273017344
+Delta
+@JetBlue I left my apt 10hrs ago to go from Boston to SJC and I'm still NYC. Please bring back the nonstop flight. #jetblueBlues
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 20:21:18 -0800
+location: Boston, MA

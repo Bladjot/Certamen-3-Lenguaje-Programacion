@@ -1,0 +1,7 @@
+568858974281314304
+US Airways
+@USAirways &amp; also that I was told no comps, upgrades, etc. ReFlight Booking Problems is good enough. #usairwaysfail
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 11:45:23 -0800
+location: nan

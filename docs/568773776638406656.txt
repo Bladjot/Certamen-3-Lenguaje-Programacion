@@ -1,0 +1,7 @@
+568773776638406656
+US Airways
+@USAirways I want to not sit on a plane from DCA to LGA for an hour and a half which is longer than my flight.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 06:06:50 -0800
+location: On a beach

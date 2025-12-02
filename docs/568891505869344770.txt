@@ -1,0 +1,7 @@
+568891505869344770
+US Airways
+@USAirways how about checking the plane before having everyone board the plane? #pissed
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 13:54:39 -0800
+location: nan

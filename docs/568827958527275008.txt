@@ -1,0 +1,7 @@
+568827958527275008
+Southwest
+@SouthwestAir shhhh i don't want something else to steal our deal😉
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 09:42:08 -0800
+location: Kansas City

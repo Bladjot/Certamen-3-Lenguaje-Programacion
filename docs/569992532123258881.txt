@@ -1,0 +1,7 @@
+569992532123258881
+US Airways
+@USAirways Are you not even going to acknowledge that you bumped me from a flight (NOT BECAUSE OF WEATHER I AM IN ARIZONA)
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 14:49:44 -0800
+location: Florida Raised, NYC Based

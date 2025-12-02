@@ -1,0 +1,7 @@
+570079549914005504
+United
+@united for an early flt, I think a call is appropriate. Yes, reviewed and nada avail until next day. Expect full refund
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 20:35:30 -0800
+location: WX report for 41 Mile, Hwy 50

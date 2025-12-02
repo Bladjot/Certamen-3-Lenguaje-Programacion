@@ -1,0 +1,7 @@
+567797894431117312
+United
+@united Flt 4487 is having some MAJOR delays bc ground crew was so SLOW. The flight crew has been terrific. Been 2 hours on the ground..😡...
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 13:29:01 -0800
+location: Washington, DC

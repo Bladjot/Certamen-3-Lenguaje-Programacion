@@ -1,0 +1,7 @@
+570031138913329152
+American
+@AmericanAir I can't work with them if the call gets cut off while I'm still holding..... Is DFW looking any better tomorrow?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 17:23:08 -0800
+location: South Wales

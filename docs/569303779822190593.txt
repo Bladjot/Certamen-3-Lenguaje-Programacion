@@ -1,0 +1,7 @@
+569303779822190593
+US Airways
+@USAirways I wasnt  flying your airline tonight, however a friend was and I was present for her help. I flying United and they could learn.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 17:12:52 -0800
+location: san diego

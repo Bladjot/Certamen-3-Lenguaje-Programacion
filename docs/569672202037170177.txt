@@ -1,0 +1,7 @@
+569672202037170177
+US Airways
+@USAirways great, thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:36:51 -0800
+location: Thunder Bay, ON, Canada

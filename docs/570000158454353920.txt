@@ -1,0 +1,7 @@
+570000158454353920
+US Airways
+@USAirways I asked if that was SOP, and they said “It is now.” But yet the other 11 flights, nothing. Is this a policy or not?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 15:20:02 -0800
+location: BTR/DCA/IAD/MSY - etc

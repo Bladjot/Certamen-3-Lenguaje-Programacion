@@ -1,0 +1,7 @@
+569983967467868161
+American
+@AmericanAir stuck at gate Miami to JFK flight 1510. Are we going to get out of here tonight? Very frustrating
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 14:15:42 -0800
+location: New York

@@ -1,0 +1,7 @@
+569603002278944768
+Delta
+@JetBlue love it as always!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 13:01:53 -0800
+location: Port-au-Prince, NYC.

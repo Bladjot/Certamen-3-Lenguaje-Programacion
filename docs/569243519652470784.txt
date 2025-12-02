@@ -1,0 +1,7 @@
+569243519652470784
+United
+@united And then when we asked the stewardess to take the disinfectant wipe as trash she said, "not with my hands!" #badservice
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 13:13:25 -0800
+location: Seattle WA

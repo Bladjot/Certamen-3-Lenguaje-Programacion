@@ -1,0 +1,7 @@
+569699471954587648
+United
+@United #1758 now going in 40 min waiting for other plane to vacate gate. #findanothergate
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 19:25:13 -0800
+location: ÜT: 33.987103,-118.399024

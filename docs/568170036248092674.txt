@@ -1,0 +1,7 @@
+568170036248092674
+Southwest
+@SouthwestAir we have to stay in Chicago overnight and meet up with our bags there. I hope they stay put and don't get put on a flight.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 14:07:47 -0800
+location: Canton, MA

@@ -1,0 +1,7 @@
+569916590814203904
+American
+@AmericanAir followed. I tried to @USAirways record locator number, gave me an error code
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 09:47:58 -0800
+location: nan

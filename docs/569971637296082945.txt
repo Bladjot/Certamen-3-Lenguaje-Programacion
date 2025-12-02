@@ -1,0 +1,7 @@
+569971637296082945
+American
+@AmericanAir @elwoodblues77 I'm sure he understands the rules but you guys just have zero customer service. Staff your damn counters!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:26:42 -0800
+location: The Specific Ocean

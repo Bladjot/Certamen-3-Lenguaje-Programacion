@@ -1,0 +1,7 @@
+569632594221867008
+Delta
+@JetBlue finally! Finally!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 14:59:28 -0800
+location: nan

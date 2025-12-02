@@ -1,0 +1,7 @@
+568806899275018241
+Delta
+@JetBlue we've been on the runway for over an hour. Now the water pressure is low and taxiing back for maintenance. #1572
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 08:18:27 -0800
+location: nan

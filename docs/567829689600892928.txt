@@ -1,0 +1,7 @@
+567829689600892928
+Southwest
+@SouthwestAir how are flights looking for tomorrow morning from #Nashville (BNA) to Fort Lauderdale (FLL) ?!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 15:35:22 -0800
+location: Fort Lauderdale

@@ -1,0 +1,7 @@
+568723674934722560
+United
+@united usually your lounge staff are fantastic! Except today in MCO where almost denied entry to lounge even though traveling united-first
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 02:47:45 -0800
+location: Chicago, IL

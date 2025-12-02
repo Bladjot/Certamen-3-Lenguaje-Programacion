@@ -1,0 +1,7 @@
+570205132094349312
+American
+@AmericanAir Thanks, have emailed them. How long should I expect for a response?
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 04:54:32 -0800
+location: nan

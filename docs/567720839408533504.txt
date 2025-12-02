@@ -1,0 +1,7 @@
+567720839408533504
+Southwest
+@SouthwestAir Beautiful, thanks a ton!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 08:22:50 -0800
+location: London, Ontario, Canada

@@ -1,0 +1,7 @@
+569645082414080000
+American
+@AmericanAir I want the flight I have on hold. I don't want a new flight.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 15:49:05 -0800
+location: Naperville, IL

@@ -1,0 +1,7 @@
+568892942770786304
+Southwest
+@SouthwestAir any spare tickets for Vegas? Would be forever grateful! #DestinationDragons
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 14:00:21 -0800
+location: Las Vegas, NV

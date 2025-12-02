@@ -1,0 +1,7 @@
+568855090930429952
+Delta
+@JetBlue can I switch my seat for my trip on Sunday?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 11:29:57 -0800
+location: NYC

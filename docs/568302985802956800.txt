@@ -1,0 +1,7 @@
+568302985802956800
+United
+@united ok. Can I DM you the info?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 22:56:05 -0800
+location: ÜT: 37.748534,127.066482

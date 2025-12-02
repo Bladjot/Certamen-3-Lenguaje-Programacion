@@ -1,0 +1,7 @@
+568032561462689793
+US Airways
+@USAirways if there are empty first class seats on my flight at check in, why wouldn't I be automatically upgraded?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 05:01:30 -0800
+location: Washington, D.C.

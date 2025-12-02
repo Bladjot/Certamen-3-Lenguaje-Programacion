@@ -1,0 +1,7 @@
+569794658479394817
+American
+@AmericanAir extra night we have to stay in San Juan now. How can I check on that?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 01:43:27 -0800
+location: San Diego

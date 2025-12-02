@@ -1,0 +1,7 @@
+568746335446441984
+Delta
+@JetBlue no updates on anything! All we know is there is an issue with the front wheels being locked.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 04:17:47 -0800
+location: Quincy, Ma by way of The #413

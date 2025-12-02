@@ -1,0 +1,7 @@
+569982678558048256
+United
+@united I will give you one thing, you are consistent but unfortunately you are consistent at not doing your job well #AlwaysDelayedOnUnited
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 14:10:34 -0800
+location: nan

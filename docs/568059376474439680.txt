@@ -1,0 +1,7 @@
+568059376474439680
+Delta
+@JetBlue my son left his iPad on flight 1401 from JFK to FLL on Monday. I called and left message and have no heard back. Seat 25A.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 06:48:04 -0800
+location: Long Beach, NY

@@ -1,0 +1,7 @@
+568781422804262912
+Southwest
+@SouthwestAir yes, thank you. Just sent DM.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 06:37:13 -0800
+location: nan

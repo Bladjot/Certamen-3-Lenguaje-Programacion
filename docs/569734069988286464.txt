@@ -1,0 +1,7 @@
+569734069988286464
+Southwest
+@SouthwestAir needs to train their employees to be at lease somewhat empathetic when THEY lose our luggage.  Monika at MWA needs a PR lesson
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 21:42:42 -0800
+location: nan

@@ -1,0 +1,7 @@
+569844379176853504
+American
+@AmericanAir my flight 129 to dallas and 259 to SFO has been Cancelled Flighted and they can't get me on anything else until tomorrow. You won't put
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 05:01:01 -0800
+location: nan

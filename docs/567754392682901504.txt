@@ -1,0 +1,7 @@
+567754392682901504
+US Airways
+@USAirways please hogs my next flight for me! I'm waiting on a bus to get me off one plane so I can run to the other. It leaves in two min!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 10:36:10 -0800
+location: Beavercreek Ohio

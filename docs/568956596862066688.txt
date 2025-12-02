@@ -1,0 +1,7 @@
+568956596862066688
+Southwest
+@SouthwestAir I think that flight was supposed to go to Houston as well, in case someone could check that?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 18:13:18 -0800
+location: USA, USA!

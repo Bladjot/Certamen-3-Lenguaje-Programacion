@@ -1,0 +1,7 @@
+569493046557069313
+Delta
+@jetblue fly 2301 delayed do to ice at JFK ... Can I switch to a Late Flightr flight for free
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 05:44:57 -0800
+location: Merrick

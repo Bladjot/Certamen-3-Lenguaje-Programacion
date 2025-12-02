@@ -1,0 +1,7 @@
+567871783107452930
+Delta
+@JetBlue they couldn't do it sun then it was supposed to be mon after 6pm then today from 11 to 3 then from 6 to 8
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 18:22:38 -0800
+location: nan

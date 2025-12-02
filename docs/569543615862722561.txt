@@ -1,0 +1,7 @@
+569543615862722561
+Delta
+@JetBlue thank you. We are finally at the gate.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 09:05:54 -0800
+location: New York City, NY

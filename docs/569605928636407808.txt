@@ -1,0 +1,7 @@
+569605928636407808
+American
+@AmericanAir On flt 1627 from DFW to FAT on 2/23 and it was 86'd. Can you rebook me on the 1359 flight tonight? Can't get through on phone.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 13:13:30 -0800
+location: L-Town

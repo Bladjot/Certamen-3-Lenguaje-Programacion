@@ -1,0 +1,7 @@
+569035887956271104
+United
+@united bad customer service  to NYC a few weeks ago. Thinking of moving on
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 23:28:22 -0800
+location: Email: Alex@ditmasla.com

@@ -1,0 +1,7 @@
+568802305606361089
+Southwest
+@SouthwestAir make this delay go away. Maybe upgrade me and Kats seats. We are headed to Columbus.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 08:00:12 -0800
+location: www.twitch.tv/sovindictive

@@ -1,0 +1,7 @@
+568800822693380096
+Delta
+@JetBlue I’m going to miss a hugely important meeting because of your constant delays #itscostingmeincome
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 07:54:18 -0800
+location: New York, USA

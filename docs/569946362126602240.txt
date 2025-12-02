@@ -1,0 +1,7 @@
+569946362126602240
+Virgin America
+@VirginAmerica your airline is awesome but your lax loft needs to step up its game. $40 for dirty tables and floors? http://t.co/hy0VrfhjHt
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 11:46:16 -0800
+location: Los Angeles

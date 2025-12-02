@@ -1,0 +1,7 @@
+568309328127655936
+United
+@united @UnitedFlyerHD @United_Airline N26902 Dreamliner leaves London Heathrow. @B787fans http://t.co/aI0Yzwt8Za
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 23:21:17 -0800
+location: London Heathrow.

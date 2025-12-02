@@ -1,0 +1,7 @@
+570250053710819328
+United
+@united thanks for the info I already knew...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 07:53:02 -0800
+location: Connecticut

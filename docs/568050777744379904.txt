@@ -1,0 +1,7 @@
+568050777744379904
+Virgin America
+@VirginAmerica Congrats VX on the new route! ✈️🎉
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 06:13:53 -0800
+location: nan

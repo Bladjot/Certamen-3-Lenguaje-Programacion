@@ -1,0 +1,7 @@
+567899604605218816
+Southwest
+@SouthwestAir snow forecasted for Raleigh NC tomorrow night. Need to know if there's a plan to reschedule flights into RDU Wednesday night
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 20:13:11 -0800
+location: nan

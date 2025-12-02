@@ -1,0 +1,7 @@
+569771270839013376
+US Airways
+@USAirways What a mess caused by the computer systems. Flight 719 in 3 hours Late Flight and now no gate for us. Est 26 min wait.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 00:10:31 -0800
+location: nan

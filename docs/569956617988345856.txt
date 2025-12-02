@@ -1,0 +1,7 @@
+569956617988345856
+Delta
+Why lord why“@JetBlue: Our fleet's on fleek. http://t.co/nlzS1Ehnee”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:27:01 -0800
+location: D(MD)V ✈️ NYC ✈️ Germany

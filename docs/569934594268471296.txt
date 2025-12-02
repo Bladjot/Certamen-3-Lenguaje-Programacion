@@ -1,0 +1,7 @@
+569934594268471296
+Delta
+“@JetBlue: Our fleet's on fleek. http://t.co/MB0hVfqB1t”-see what ihop started 😑
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:59:30 -0800
+location: in the wind...

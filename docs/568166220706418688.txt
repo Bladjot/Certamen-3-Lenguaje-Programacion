@@ -1,0 +1,8 @@
+568166220706418688
+Southwest
+@SouthwestAir Open more kiosks at 
+Austin-Bergstrom. Three lanes to service a line of 50 people? Really?
+sentiment: negative
+negativereason: longlines
+created: 2015-02-18 13:52:37 -0800
+location: nan

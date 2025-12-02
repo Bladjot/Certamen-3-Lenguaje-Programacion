@@ -1,0 +1,7 @@
+569964389660540928
+US Airways
+@USAirways please fix your reservations phone system.  The weather/backup could not possibly be bad for 10 days!  #goodgriefpeople
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 12:57:54 -0800
+location: YouTube.com/VOiceofBrian

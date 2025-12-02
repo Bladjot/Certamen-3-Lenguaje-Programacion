@@ -1,0 +1,7 @@
+569320520728113152
+Delta
+@JetBlue thanks so much. Can't wait to fly with you guys :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 18:19:24 -0800
+location: New Jersey

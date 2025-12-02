@@ -1,0 +1,7 @@
+570277278627848192
+Delta
+@JetBlue Is there an issue with your website and logging on? (App too?) I know I am entering info correctly but cannot sign in! :(
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 09:41:13 -0800
+location: NYC

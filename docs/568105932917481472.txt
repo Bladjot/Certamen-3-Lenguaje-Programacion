@@ -1,0 +1,7 @@
+568105932917481472
+United
+@united LE2V9D pnr numbered flight. The first leg is Cancelled Flightled due to bad weather in iatanbul. How can i make a reFlight Booking Problems
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 09:53:03 -0800
+location: nan

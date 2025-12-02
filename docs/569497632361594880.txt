@@ -1,0 +1,7 @@
+569497632361594880
+US Airways
+@USAirways so upset with customer service. I have a simple question and the phone system has disconnected me all day today and yesterday.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 06:03:10 -0800
+location: nan

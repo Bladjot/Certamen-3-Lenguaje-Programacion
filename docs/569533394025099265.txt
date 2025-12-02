@@ -1,0 +1,7 @@
+569533394025099265
+Delta
+@JetBlue just a very rude rep while trying to book family vacation using trvl credit. on phone w/ new rep now who is being very helpful
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 08:25:17 -0800
+location: nan

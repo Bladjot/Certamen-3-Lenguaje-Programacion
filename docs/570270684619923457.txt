@@ -1,0 +1,7 @@
+570270684619923457
+Virgin America
+I ❤️ flying @VirginAmerica. ☺️👍
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 09:15:00 -0800
+location: Somewhere celebrating life.

@@ -1,0 +1,7 @@
+569129625592274944
+US Airways
+@USAirways baggage drop at phl b/c is incredibly backed up... unacceptable service
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-21 05:40:51 -0800
+location: Delaware

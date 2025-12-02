@@ -1,0 +1,7 @@
+569602975829757952
+United
+@united can you get me on the delayed flight to EWR out of YYZ at 15:30? No customer service to be found in airport
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:01:46 -0800
+location: Brooklyn, NY

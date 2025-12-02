@@ -1,0 +1,7 @@
+568378076955938816
+US Airways
+@USAirways so I was just told I was coded as an upgrade... I clearly purchased this seat with my miles and refuse to downgrade. #ripoff
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 03:54:28 -0800
+location: Florida

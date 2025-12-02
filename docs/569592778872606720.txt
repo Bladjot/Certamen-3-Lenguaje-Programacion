@@ -1,0 +1,7 @@
+569592778872606720
+American
+@AmericanAir do you guys have another flight for today that you can book me on from laguardia to louisville ky?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:21:15 -0800
+location: KY

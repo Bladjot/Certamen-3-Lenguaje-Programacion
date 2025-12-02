@@ -1,0 +1,7 @@
+569642078990258176
+United
+@united what is this subtlety gate changes? Are you kidding with me?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 15:37:09 -0800
+location: nan

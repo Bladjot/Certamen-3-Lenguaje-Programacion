@@ -1,0 +1,7 @@
+568538064487735296
+US Airways
+@USAirways Do you have a phone Nbr for Refund Dept ?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 14:30:12 -0800
+location: GERMANY

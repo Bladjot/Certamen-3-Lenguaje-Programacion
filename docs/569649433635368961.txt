@@ -1,0 +1,7 @@
+569649433635368961
+US Airways
+@USAirways @AmericanAir Sitting at the gate on Flight 719 for an hour due to computers being down. What backup plan is in place for this??
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:06:23 -0800
+location: Jerz

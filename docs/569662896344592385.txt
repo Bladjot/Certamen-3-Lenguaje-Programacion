@@ -1,0 +1,7 @@
+569662896344592385
+American
+@AmericanAir i appreciate your apology. Sincerely. Thank you. That's really all I ever wanted to begin with.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 16:59:52 -0800
+location: nan

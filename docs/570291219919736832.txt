@@ -1,0 +1,7 @@
+570291219919736832
+Southwest
+@SouthwestAir Just DMed you my confirmation number.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:36:36 -0800
+location: Trapped in Baltimore.

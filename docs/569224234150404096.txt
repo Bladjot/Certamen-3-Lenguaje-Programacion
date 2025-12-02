@@ -1,0 +1,7 @@
+569224234150404096
+Virgin America
+@VirginAmerica had to change to another airline to get to DC today ... Why is @united able to land in DC but not you? Cost me $800 ...ugh
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 11:56:47 -0800
+location: California, USA

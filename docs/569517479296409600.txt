@@ -1,0 +1,7 @@
+569517479296409600
+Delta
+@JetBlue had a great experience working with Glenn Coles at Buffalo-Niagara Airport!! Top notch employee
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 07:22:02 -0800
+location: Buffalo

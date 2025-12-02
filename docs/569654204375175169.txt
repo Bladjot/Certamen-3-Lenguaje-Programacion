@@ -1,0 +1,7 @@
+569654204375175169
+American
+@AmericanAir we're still here guys - you are the worst
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 16:25:20 -0800
+location: São Paulo

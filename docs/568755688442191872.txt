@@ -1,0 +1,7 @@
+568755688442191872
+United
+@united Flight 6212...massive fail! They delaying to transport a crew member causing many to miss connections! Unreal!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 04:54:57 -0800
+location: New York, NY

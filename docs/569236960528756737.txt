@@ -1,0 +1,7 @@
+569236960528756737
+Delta
+@JetBlue *cough* #awkward!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 12:47:21 -0800
+location: JetBlue T5 at JFK

@@ -1,0 +1,7 @@
+569949968750010370
+US Airways
+@USAirways you guys lost my luggage
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 12:00:36 -0800
+location: The Shire

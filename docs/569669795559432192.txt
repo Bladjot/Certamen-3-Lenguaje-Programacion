@@ -1,0 +1,7 @@
+569669795559432192
+American
+@AmericanAir @jameswester see, James, we only have 7 dedicated inbound phone lines because telephones eat into our billions in profits
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:27:17 -0800
+location: Pekin

@@ -1,0 +1,7 @@
+569855409567207424
+American
+@AmericanAir I can't get an operator after an hour's worth of calls to Cancelled Flight a delayed flight. Automated system doesn't go beyond message.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 05:44:51 -0800
+location: Toronto

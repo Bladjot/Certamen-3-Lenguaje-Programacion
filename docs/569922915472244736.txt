@@ -1,0 +1,7 @@
+569922915472244736
+Southwest
+@SouthwestAir need assistance getting an extension on a flight that has expired.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:13:06 -0800
+location: nan

@@ -1,0 +1,7 @@
+570224417445261313
+American
+@AmericanAir how do I talk to an actual person that will help me, and do what you guys should do?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 06:11:10 -0800
+location: Nevada

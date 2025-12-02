@@ -1,0 +1,7 @@
+569484638219071488
+US Airways
+@USAirways @AmericanAir  is there anyone answering phones today??? Listening to same damn messages for 1:10 minutes
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 05:11:32 -0800
+location: MA, USA

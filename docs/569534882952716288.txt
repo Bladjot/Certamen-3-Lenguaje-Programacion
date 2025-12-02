@@ -1,0 +1,7 @@
+569534882952716288
+United
+@united employee=faceless. Don't throw them under the bus. Starts with management. I'm almost a million miler and own my own company. 1/2
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 08:31:12 -0800
+location: Central NJ

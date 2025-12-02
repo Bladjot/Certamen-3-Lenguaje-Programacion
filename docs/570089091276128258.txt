@@ -1,0 +1,7 @@
+570089091276128258
+Southwest
+@SouthwestAir you should have assigned seating, because now my cousin &amp; I probably can't sit together on our flight tomorrow.. Thanks.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 21:13:25 -0800
+location: nan

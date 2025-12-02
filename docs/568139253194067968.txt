@@ -1,0 +1,7 @@
+568139253194067968
+US Airways
+@USAirways Doubt it. Gate 35x is a cluster, and every agent encounter I saw (including one with me) was outright rude. Just very put off.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 12:05:28 -0800
+location: ÜT: 43.182918,-77.651224

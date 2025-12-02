@@ -1,0 +1,7 @@
+569683041578192896
+American
+@AmericanAir I tried that. They won't book us with another airline. I wish I had flown with you! We are now stuck in FL til Weds.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 18:19:55 -0800
+location: Global

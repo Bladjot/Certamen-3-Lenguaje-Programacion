@@ -1,0 +1,7 @@
+569888397205962753
+American
+@AmericanAir how we looking? We going to be able to get out on time? #flight353
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:55:56 -0800
+location: Dallas, TX

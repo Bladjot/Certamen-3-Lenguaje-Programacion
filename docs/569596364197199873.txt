@@ -1,0 +1,7 @@
+569596364197199873
+US Airways
+@USAirways I need an actual person in customer relations for a refund. What # can I call? I will dispute this charge on my credit card.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:35:30 -0800
+location: nan

@@ -1,0 +1,7 @@
+569759291839803392
+US Airways
+@USAirways cannot add my frequent flyer number on your website.  Can you help?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 23:22:55 -0800
+location: nan

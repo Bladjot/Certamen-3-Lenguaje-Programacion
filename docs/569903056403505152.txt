@@ -1,0 +1,7 @@
+569903056403505152
+American
+@AmericanAir Why is it ok that no-one can help me with the bag you lost on my honeymoon 3months ago, this is not responsible or professional
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 08:54:11 -0800
+location: Brooklyn, NY

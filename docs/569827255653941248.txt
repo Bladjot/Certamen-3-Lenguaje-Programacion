@@ -1,0 +1,7 @@
+569827255653941248
+US Airways
+@usairways Seriously. This is ridiculous. I shouldn't have to wait a hour for my luggage after I land. #wtf
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 03:52:59 -0800
+location: NC, USA

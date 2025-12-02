@@ -1,0 +1,7 @@
+569673044802854912
+American
+@AmericanAir @praywinn between understaffing, what looks like a labor slowdown, weather, incompetence, and disregard for the customer...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:40:12 -0800
+location: Pekin

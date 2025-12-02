@@ -1,0 +1,7 @@
+568587424747511808
+Southwest
+@SouthwestAir Your #Android Wi-Fi experience is terrible! $8 is a ripoff! I can't get to @NASCAR or MRN for @DISupdates #BudweiserDuels
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 17:46:20 -0800
+location: Philadelphia, PA

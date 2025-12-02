@@ -1,0 +1,7 @@
+570064285860171776
+American
+@AmericanAir Cancelled Flight my flight saying it is cause of weather condition when it was the only flight that was Cancelled Flight
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 19:34:51 -0800
+location: Belleville

@@ -1,0 +1,7 @@
+568265355115814913
+US Airways
+@USAirways thank you. We filled out a claim and hope to have the bags tomorrow.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 20:26:33 -0800
+location: ÜT: 41.233943,-74.3966664

@@ -1,0 +1,7 @@
+567728285174743041
+US Airways
+@USAirways I did and it's been a disaster. You had me sitting on the runway only to bring the plane back to the gate smh
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 08:52:25 -0800
+location: MiamiHoustonDCHouston

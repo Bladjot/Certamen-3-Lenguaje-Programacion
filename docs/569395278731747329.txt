@@ -1,0 +1,7 @@
+569395278731747329
+US Airways
+@USAirways Seriously. You can't tweet and let people know that you've got customers that have been on hold for 5 HOURS??!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 23:16:27 -0800
+location: Franklin, TN

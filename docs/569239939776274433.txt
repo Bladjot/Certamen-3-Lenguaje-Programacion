@@ -1,0 +1,7 @@
+569239939776274433
+United
+@united since UA 1226 ORD-EWR is delayed pushing it into meal time does that mean it will be catered with meals in First?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 12:59:12 -0800
+location: One of the C-gates at EWR.

@@ -1,0 +1,7 @@
+569965247093731328
+American
+@AmericanAir been on the phone for 47 minutes...said it would be 10...  Any advice?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:01:19 -0800
+location: Hutchinson, KS

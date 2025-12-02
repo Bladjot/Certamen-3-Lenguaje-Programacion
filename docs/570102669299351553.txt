@@ -1,0 +1,7 @@
+570102669299351553
+American
+@AmericanAir no, you should do something about everything happened yesterday...
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 22:07:23 -0800
+location: nan

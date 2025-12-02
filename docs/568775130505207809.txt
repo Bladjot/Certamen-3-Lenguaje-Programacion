@@ -1,0 +1,7 @@
+568775130505207809
+Delta
+@JetBlue Inconvenience is an understatement. More like torture. Clearly going down the wrong path, JetBlue.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 06:12:13 -0800
+location: New York City, NY

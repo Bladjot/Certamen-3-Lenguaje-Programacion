@@ -1,0 +1,7 @@
+569941050002972672
+US Airways
+@USAirways So you understand why I'm resorting to Twitter: No help available at  gate while this occurred or by phone afterward.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:25:09 -0800
+location: nan

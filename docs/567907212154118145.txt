@@ -1,0 +1,7 @@
+567907212154118145
+Delta
+@JetBlue Also, thanks for your prompt replies. I'm really impressed--and you're not just brushing me off. Much appreciated!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 20:43:25 -0800
+location: Provo, UT

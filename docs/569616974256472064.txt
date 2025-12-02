@@ -1,0 +1,7 @@
+569616974256472064
+United
+@united--excited to barrel through the sky at 600mph on a 75 ton piece of metal operated by a company that can't get their tiny TVs to work!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 13:57:24 -0800
+location: Los Angeles

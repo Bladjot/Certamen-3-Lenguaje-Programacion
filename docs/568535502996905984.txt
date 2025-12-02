@@ -1,0 +1,7 @@
+568535502996905984
+United
+@united I am on 1528 and my connecting flight is 909
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 14:20:01 -0800
+location: Look behind you

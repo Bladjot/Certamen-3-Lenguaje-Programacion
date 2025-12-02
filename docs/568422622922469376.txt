@@ -1,0 +1,8 @@
+568422622922469376
+United
+@united @AmericanAir THIS IS THE  YEAR FOR VAN GOGH FANS TO VISIT EUROPE
+http://t.co/e1EOfthgAJ
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 06:51:28 -0800
+location: Luxembourg

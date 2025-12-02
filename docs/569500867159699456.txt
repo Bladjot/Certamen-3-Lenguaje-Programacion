@@ -1,0 +1,7 @@
+569500867159699456
+US Airways
+@USAirways ANSWER THE BLOODY PHONE!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 06:16:02 -0800
+location: 20001

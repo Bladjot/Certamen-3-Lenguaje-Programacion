@@ -1,0 +1,7 @@
+570103908607135744
+American
+@AmericanAir If SNA curfew causes diversion, do you provide transportation from LAX? On AA1237 now, pilot not sure if we have time.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-23 22:12:18 -0800
+location: nan

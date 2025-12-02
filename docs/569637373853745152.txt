@@ -1,0 +1,7 @@
+569637373853745152
+United
+@united. Once again your lack of customer centricity us astounding
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:18:27 -0800
+location: nan

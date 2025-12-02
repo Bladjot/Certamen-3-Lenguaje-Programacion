@@ -1,0 +1,7 @@
+568180525644398593
+United
+@united #1007 Houston-Bogota with an engine problem, mechanics trying to "fix" the problem, safety first, better to change the plane
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 14:49:28 -0800
+location: Colombia

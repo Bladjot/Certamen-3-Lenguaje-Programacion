@@ -1,0 +1,7 @@
+569730182371635200
+United
+@united  bags left behind because plane overweight, be great if knew as soon as we landed, instead letting us wait 45 minutes with no info.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 21:27:15 -0800
+location: nan

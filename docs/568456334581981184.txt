@@ -1,0 +1,7 @@
+568456334581981184
+Virgin America
+@VirginAmerica currently in minute 10 of being on hold with cust. service. Do I need to do anything to add a lap child to my reservation?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 09:05:26 -0800
+location: San Francisco

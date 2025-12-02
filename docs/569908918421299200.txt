@@ -1,0 +1,7 @@
+569908918421299200
+American
+@AmericanAir worst airline! You Cancelled Flight our flight and don't even let us know even though we are traveling with children.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 09:17:29 -0800
+location: Guadalajara, México

@@ -1,0 +1,7 @@
+568494692117155841
+Southwest
+@SouthwestAir Unable to check in my flight. It says my itinerary is ineligible for checkin online. Go to counter. Very inconvenient!!!
+sentiment: negative
+negativereason: longlines
+created: 2015-02-19 11:37:51 -0800
+location: Los Angeles, CA

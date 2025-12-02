@@ -1,0 +1,7 @@
+569605710314668035
+US Airways
+@USAirways is it policy to tell customers "We can't help you?" I'm sorry but this is unacceptable
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:12:38 -0800
+location: A galaxy far far away

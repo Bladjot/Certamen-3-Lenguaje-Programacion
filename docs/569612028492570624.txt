@@ -1,0 +1,7 @@
+569612028492570624
+American
+@AmericanAir  2 hours to be answered on a call?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 13:37:45 -0800
+location: nan

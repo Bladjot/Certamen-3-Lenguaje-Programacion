@@ -1,0 +1,7 @@
+569096233232547840
+Southwest
+@SouthwestAir On hold for two hours and it timed-out on me. Great system you got there.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 03:28:09 -0800
+location: nan

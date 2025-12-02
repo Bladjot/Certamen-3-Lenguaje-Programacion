@@ -1,0 +1,7 @@
+569952639116447745
+American
+@AmericanAir Trying for 20 hrs to reach agent. Must make change that can't be done on web by 11:59 PST. Had to Cancelled Flight revs ystday.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 12:11:13 -0800
+location: North Carolina

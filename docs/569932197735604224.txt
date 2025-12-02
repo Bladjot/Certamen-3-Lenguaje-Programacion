@@ -1,0 +1,7 @@
+569932197735604224
+Southwest
+@SouthwestAir Thanks for the quick reply!  I travel a lot...but not that much, lol.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:49:59 -0800
+location: Denver, CO

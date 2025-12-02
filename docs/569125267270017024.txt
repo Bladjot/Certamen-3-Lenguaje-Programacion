@@ -1,0 +1,7 @@
+569125267270017024
+US Airways
+All followers please note that @USAirways is not taking customer service calls, nor responding by helping via soc. media #dontflyusairways
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 05:23:32 -0800
+location: Chesapeake Bay watershed

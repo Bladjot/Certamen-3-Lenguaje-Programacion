@@ -1,0 +1,7 @@
+569897060717105152
+American
+@AmericanAir I was told I had a 20minute wait time after waiting hours. And an hour has gone by. This is ridiculous
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 08:30:22 -0800
+location: nan

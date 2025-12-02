@@ -1,0 +1,7 @@
+568418165853540352
+United
+@united reFlight Booking Problems would not have made me reach on time for my meeting. Also didn't wanna take a chance, Booked myself on @etihad instead
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 06:33:46 -0800
+location: Bangalore

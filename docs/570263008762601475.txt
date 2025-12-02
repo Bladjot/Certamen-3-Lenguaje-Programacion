@@ -1,0 +1,7 @@
+570263008762601475
+American
+@AmericanAir yes they do http://t.co/wCSAZZQPae
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:44:30 -0800
+location: nan

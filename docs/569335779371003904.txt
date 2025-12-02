@@ -1,0 +1,7 @@
+569335779371003904
+United
+@united so is that two seats avail so far for us.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 19:20:02 -0800
+location: nan

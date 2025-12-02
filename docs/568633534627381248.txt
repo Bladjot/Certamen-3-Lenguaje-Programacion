@@ -1,0 +1,7 @@
+568633534627381248
+Delta
+@JetBlue where is our luggage?? Flight 424 has been waiting an hour for bags! #jetblue #poorservice
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 20:49:34 -0800
+location: nan

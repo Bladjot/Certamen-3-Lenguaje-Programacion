@@ -1,0 +1,7 @@
+569952376473300992
+US Airways
+@USAirways made it! Just! Huge relief - thanks for your help!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 12:10:10 -0800
+location: nan

@@ -1,0 +1,7 @@
+569568612215865344
+US Airways
+@USAirways churn rate increasing by the second
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 10:45:13 -0800
+location: Boston

@@ -1,0 +1,7 @@
+569950510981083136
+American
+@AmericanAir Your people on the phone can't see those? And to have it be over $800 difference. That's a poor process then...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 12:02:45 -0800
+location: Bennington, NE

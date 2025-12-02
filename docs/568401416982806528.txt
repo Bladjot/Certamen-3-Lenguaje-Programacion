@@ -1,0 +1,7 @@
+568401416982806528
+Delta
+@JetBlue I would go to Dallas to see my grand baby that I miss so much. I feel like a piece of my heart is there.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 05:27:12 -0800
+location: Easton, pa

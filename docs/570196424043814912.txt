@@ -1,0 +1,7 @@
+570196424043814912
+United
+@united booked award tix on ThaiAirways but I'm not seeing a conf# for them, just the United Flight Booking Problems#. Can you get get the Thai# for me?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 04:19:55 -0800
+location: searching for coffee

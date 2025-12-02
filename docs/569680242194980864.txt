@@ -1,0 +1,7 @@
+569680242194980864
+American
+@AmericanAir So plot thickens. We're on plane but no ground crew to get us off gate. Apparently under the weather in large numbers....
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:08:48 -0800
+location: New York City

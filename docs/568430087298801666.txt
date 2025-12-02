@@ -1,0 +1,7 @@
+568430087298801666
+Delta
+@JetBlue @ZKatcher @bretharold does it look like to we talked to customer service? http://t.co/vYUAnh4Iqr
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 07:21:08 -0800
+location: nan

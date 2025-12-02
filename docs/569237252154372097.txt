@@ -1,0 +1,7 @@
+569237252154372097
+Virgin America
+@VirginAmerica can’t access your website from Safari on iPhone 6. Seems to work on Mac and iPad. Need iPhone to add Passbook.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 12:48:31 -0800
+location: Austin, TX

@@ -1,0 +1,7 @@
+568758001856847872
+Southwest
+@SouthwestAir thanks for responding.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 05:04:09 -0800
+location: Portsmouth, NH

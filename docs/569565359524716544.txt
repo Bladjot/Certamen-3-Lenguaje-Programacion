@@ -1,0 +1,7 @@
+569565359524716544
+Southwest
+@SouthwestAir    Promotion e-mail today (Vegas and Jamaica) has a defective link for the Vegas sweepstakes...it times out with error.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 10:32:18 -0800
+location: Herndon, VA

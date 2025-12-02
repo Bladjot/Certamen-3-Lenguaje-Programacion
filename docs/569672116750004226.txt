@@ -1,0 +1,7 @@
+569672116750004226
+United
+@united Educate Bohol is a 501(c)(3) w/all volunteer staff. I can help the kids or buy a plane ticket ...I can't do both. Can you help?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:36:31 -0800
+location: Albuquerque, New Mexico

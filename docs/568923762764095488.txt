@@ -1,0 +1,7 @@
+568923762764095488
+Virgin America
+@VirginAmerica I see what you did there ;)
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 16:02:49 -0800
+location: Bay Area, CA

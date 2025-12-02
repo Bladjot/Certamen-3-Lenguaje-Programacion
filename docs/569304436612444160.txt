@@ -1,0 +1,7 @@
+569304436612444160
+Virgin America
+@VirginAmerica you will match my #AmericanAirlines status? Cool!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 17:15:29 -0800
+location: DC - LA - Venice Beach

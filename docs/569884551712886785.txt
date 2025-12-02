@@ -1,0 +1,7 @@
+569884551712886785
+Virgin America
+@VirginAmerica called your service line and was hung up on. This is awesome. #sarcasm
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:40:39 -0800
+location: nan

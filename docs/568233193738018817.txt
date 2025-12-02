@@ -1,0 +1,7 @@
+568233193738018817
+United
+@united screwed over my professor. Maybe we should tell everyone about @Skiplagged ? #aviation #airport #airline #innovation #startups #tech
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 18:18:45 -0800
+location: nan

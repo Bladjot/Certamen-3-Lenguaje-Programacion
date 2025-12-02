@@ -1,0 +1,7 @@
+569616699604934656
+American
+@AmericanAir we got to 15 minutes AFTER takeoff time before anyone wandered over to address the line of people.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:56:18 -0800
+location: Chicago

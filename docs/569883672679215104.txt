@@ -1,0 +1,7 @@
+569883672679215104
+US Airways
+@USAirways @AmericanAir ok the app doesn't seem to be working. just use the mobile site... http://t.co/4kLfywwMq1
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 07:37:10 -0800
+location: BK

@@ -1,0 +1,7 @@
+569622447869304832
+Delta
+@JetBlue why would you hire a guy who doesn't care about the safety of children? Not remotely acceptable. http://t.co/lKFh9HYHW8
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 14:19:09 -0800
+location: nan

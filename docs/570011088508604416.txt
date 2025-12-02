@@ -1,0 +1,7 @@
+570011088508604416
+US Airways
+@USAirways I have submitted my request. I would appreciate a call by 9am eastern. Thank you.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 16:03:28 -0800
+location: nan

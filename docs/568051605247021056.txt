@@ -1,0 +1,7 @@
+568051605247021056
+Southwest
+@SouthwestAir Thanks for the info! Have a good day.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 06:17:11 -0800
+location: Suffolk County, New York

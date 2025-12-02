@@ -1,0 +1,7 @@
+570310144459972608
+US Airways
+@USAirways and when will one of these agents be available to speak?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 11:51:48 -0800
+location: nan

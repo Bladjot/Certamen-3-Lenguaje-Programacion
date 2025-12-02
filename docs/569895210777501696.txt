@@ -1,0 +1,7 @@
+569895210777501696
+American
+@AmericanAir has the worst flights and customer service, this is the second time I've been Cancelled Flighted. Gotta pay for hotel and find rides now.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 08:23:01 -0800
+location: College Station, Tx

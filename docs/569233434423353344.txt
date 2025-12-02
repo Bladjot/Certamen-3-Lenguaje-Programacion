@@ -1,0 +1,7 @@
+569233434423353344
+United
+@united Home is Calgary can you get us there without the added expense of accommodations and meals.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 12:33:21 -0800
+location: nan

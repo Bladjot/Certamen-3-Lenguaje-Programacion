@@ -1,0 +1,7 @@
+569538857328353280
+US Airways
+@USAirways using all of my monthly minute on hold with you assholes
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 08:46:59 -0800
+location: Boston, MA

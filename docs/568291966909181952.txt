@@ -1,0 +1,7 @@
+568291966909181952
+United
+@united KOA-LAX should have fresh food service, right?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 22:12:17 -0800
+location: Keauhou, Hawaii USA

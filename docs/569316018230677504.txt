@@ -1,0 +1,7 @@
+569316018230677504
+United
+@united hoping there is a spare a/c for 1171 tomorrow!  Have a ship to board!  The sched aircraft is delayed from previous flts.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 18:01:30 -0800
+location: Ocean, NJ

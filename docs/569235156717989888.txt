@@ -1,0 +1,7 @@
+569235156717989888
+Delta
+@JetBlue Using JetBlue miles?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 12:40:11 -0800
+location: Virginia & Cali

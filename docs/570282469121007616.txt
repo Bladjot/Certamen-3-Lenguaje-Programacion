@@ -1,0 +1,7 @@
+570282469121007616
+Virgin America
+@VirginAmerica SFO-PDX schedule is still MIA.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 10:01:50 -0800
+location: palo alto, ca

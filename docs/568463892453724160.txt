@@ -1,0 +1,7 @@
+568463892453724160
+Virgin America
+@VirginAmerica on VX399 from JFK to LA - dirty plane - not up to your standards.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 09:35:28 -0800
+location: CT

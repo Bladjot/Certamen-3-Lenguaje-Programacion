@@ -1,0 +1,7 @@
+568374502582816768
+United
+@united you board a 630a flight and then Cancelled Flight it because it doesn't have a pilot?  Now I miss my meeting Atlanta because someone slept in?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 03:40:15 -0800
+location: nan

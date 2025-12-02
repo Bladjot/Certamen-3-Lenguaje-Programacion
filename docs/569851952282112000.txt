@@ -1,0 +1,7 @@
+569851952282112000
+American
+@AmericanAir I filled out that whole form before receiving a poor poor response. Is there no direct email address in reply?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 05:31:07 -0800
+location: London

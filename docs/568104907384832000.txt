@@ -1,0 +1,7 @@
+568104907384832000
+Delta
+@JetBlue  I'm game if you're buying!!  ;)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 09:48:59 -0800
+location: right behind you

@@ -1,0 +1,7 @@
+568107407647207424
+Delta
+@JetBlue but you guys should know that musicians are very sensitive about the safety of their instruments when flying. For good reason.
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-18 09:58:55 -0800
+location: New Orleans, LA

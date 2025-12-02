@@ -1,0 +1,7 @@
+569669062206332929
+American
+@AmericanAir @kaps12 this is an international airline that experienced record profits last quarter. But they can't staff a call center
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:24:23 -0800
+location: Pekin

@@ -1,0 +1,7 @@
+568157634999783424
+Delta
+@JetBlue is it true there's a new A320 livery and a new website...?!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 13:18:30 -0800
+location: Logan International Airport

@@ -1,0 +1,7 @@
+567802900480585728
+United
+@United Airlines' CEO Jeff Smisek: Disloyal to Loyal Workers http://t.co/0cevY3P42b via @HuffPostBiz
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 13:48:55 -0800
+location: Sacramento

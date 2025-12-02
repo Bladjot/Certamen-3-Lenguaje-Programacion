@@ -1,0 +1,7 @@
+569667173544812546
+Southwest
+@SouthwestAir where is mines?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:16:52 -0800
+location: USA

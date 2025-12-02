@@ -1,0 +1,7 @@
+569880374651650048
+American
+@AmericanAir please confirm 2917 from CID-DFW at 11:30 departure will be/is Cancelled Flighted. Don't want to make the hour drive!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:24:03 -0800
+location: Plano, TX

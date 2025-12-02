@@ -1,0 +1,7 @@
+569696824061235200
+American
+@AmericanAir Yes, thanks for checking. Very cramped, but got on &amp; made it safely. Flying back tomorrow at 1pm. http://t.co/CSddCCMvbD
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 19:14:41 -0800
+location: New York | Hong Kong

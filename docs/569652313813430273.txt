@@ -1,0 +1,7 @@
+569652313813430273
+American
+@AmericanAir Trip cut 7 hrs short due to flight change/massive layovers/ no peanuts or crackers/ asked for H2O and received about 2oz.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:17:49 -0800
+location: Portland, OR

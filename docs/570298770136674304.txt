@@ -1,0 +1,7 @@
+570298770136674304
+American
+@AmericanAir This doesn't address my issue. I am on hold for 30 min to speak with an agent.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 11:06:37 -0800
+location: Newport Beach, CA

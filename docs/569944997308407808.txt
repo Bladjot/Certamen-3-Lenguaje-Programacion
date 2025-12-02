@@ -1,0 +1,7 @@
+569944997308407808
+Southwest
+@SouthwestAir hooking us up and getting us to Tampa after our flight was Cancelled Flightled this morning #grateful #businesstrip
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 11:40:51 -0800
+location: nan

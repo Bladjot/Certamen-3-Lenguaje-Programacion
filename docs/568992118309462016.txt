@@ -1,0 +1,7 @@
+568992118309462016
+US Airways
+@USAirways fuck you.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 20:34:27 -0800
+location: nan

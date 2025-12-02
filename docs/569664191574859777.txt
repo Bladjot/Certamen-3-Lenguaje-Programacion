@@ -1,0 +1,7 @@
+569664191574859777
+American
+@AmericanAir yes but we HAVE TO GET HOME TOMORROW!!!! Please
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:05:01 -0800
+location: nan

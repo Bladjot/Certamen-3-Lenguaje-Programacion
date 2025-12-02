@@ -1,0 +1,7 @@
+568927727627202560
+United
+@united you may think I'm joking or blowing it out of proportion but the last 8 united flights have been delayed or significantly Late Flight.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 16:18:35 -0800
+location: nan

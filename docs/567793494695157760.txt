@@ -1,0 +1,7 @@
+567793494695157760
+United
+@United Airlines Cancelled Flights OC FLL #flight today. $700 to switch. No notice no apology. We are done flying #UnitedAirlines.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 13:11:32 -0800
+location: Costa Mesa

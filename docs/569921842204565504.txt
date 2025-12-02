@@ -1,0 +1,7 @@
+569921842204565504
+US Airways
+@USAirways now my rebooked connection is delayed.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 10:08:50 -0800
+location: nan

@@ -1,0 +1,7 @@
+568440180769746946
+Delta
+@JetBlue Thanks! I just sent a few DMs.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 08:01:14 -0800
+location: Long Island, NY

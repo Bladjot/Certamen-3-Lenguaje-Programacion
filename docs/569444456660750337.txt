@@ -1,0 +1,7 @@
+569444456660750337
+United
+@united oh, I'll be sharing alright. Especially about sleeping in this shitty airport and getting 1hr of sleep all night because UA.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 02:31:52 -0800
+location: nan

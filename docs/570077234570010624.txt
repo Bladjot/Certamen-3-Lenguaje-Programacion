@@ -1,0 +1,7 @@
+570077234570010624
+Delta
+@JetBlue we have. Twice. They said they can't dim those lights. But they did on our first flight.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 20:26:18 -0800
+location: NYC

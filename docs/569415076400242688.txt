@@ -1,0 +1,7 @@
+569415076400242688
+United
+@united I bought a ticket with a price that was published by mistake and now I got an email that indicates United Cancelled Flightled my ticket! Why?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 00:35:08 -0800
+location: nan

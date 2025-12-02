@@ -1,0 +1,7 @@
+567802829567467520
+Southwest
+@SouthwestAir Fastest response all day. Hour on the phone: never got off hold. Hour in line: never got to the Flight Booking Problems desk.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 13:48:38 -0800
+location: D.C.

@@ -1,0 +1,7 @@
+568179117851578369
+United
+@united patiently drinking and tweeting about my experience
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 14:43:52 -0800
+location: NJ

@@ -1,0 +1,7 @@
+570032541933051904
+American
+@AmericanAir have such a bad rep for loosing costumers luggage. I stopped flying them a while back.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 17:28:43 -0800
+location: Somewhere In The World...

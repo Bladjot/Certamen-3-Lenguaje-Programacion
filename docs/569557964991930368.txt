@@ -1,0 +1,7 @@
+569557964991930368
+US Airways
+@USAirways I have been trying to get through to a representative for 7 hours aboout my Cancelled Flightled flight. Have you simply given up?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 10:02:55 -0800
+location: nan

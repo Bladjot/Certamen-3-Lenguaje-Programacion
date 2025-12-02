@@ -1,0 +1,7 @@
+569602817633222656
+US Airways
+@USAirways Please can someone contact me regarding my missing bag? It has been 3 days. Online tracking shows nothing.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 13:01:09 -0800
+location: nan

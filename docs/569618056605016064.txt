@@ -1,0 +1,7 @@
+569618056605016064
+American
+@AmericanAir Flight 2954, Dallas to Grand Junction #AmazingFlightCrew
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 14:01:42 -0800
+location: 970 Colorado

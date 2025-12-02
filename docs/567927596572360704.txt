@@ -1,0 +1,7 @@
+567927596572360704
+United
+@united A generic form with tons of fields asking for info you already?  Expected more as a premier platinum. Another #servicefail
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 22:04:25 -0800
+location: NYC

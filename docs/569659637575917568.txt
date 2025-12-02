@@ -1,0 +1,7 @@
+569659637575917568
+Delta
+@JetBlue okay. Names of SJ crew are Alamo, Tatiana. Keep telling me to hold, then leave desk. Ali told me he couldn't help bc going on break
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:46:56 -0800
+location: Gotham

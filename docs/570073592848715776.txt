@@ -1,0 +1,7 @@
+570073592848715776
+Delta
+@JetBlue JFK NYC staff is amazing. The #lax JetBlue... Sending an email with details but it was a disappointing experience @JetBlueCheeps
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 20:11:50 -0800
+location: 22nd Century

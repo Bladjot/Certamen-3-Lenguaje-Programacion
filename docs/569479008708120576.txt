@@ -1,0 +1,7 @@
+569479008708120576
+Delta
+@JetBlue how about an update on flight 475 leaving tf green delayed
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 04:49:10 -0800
+location: nan

@@ -1,0 +1,7 @@
+568337096177528832
+United
+@united I filled out the form but I haven’t received any sort of email confirmation that it’s been received. Is that normal?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 01:11:37 -0800
+location: New York City (Silicon Alley)

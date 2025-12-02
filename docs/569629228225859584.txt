@@ -1,0 +1,7 @@
+569629228225859584
+United
+@united you friend's flt from ase to Denver is Cancelled Flightled for tomorrow.  Can you help with rebook?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 14:46:05 -0800
+location: ÜT: 39.39339,-76.762595

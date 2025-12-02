@@ -1,0 +1,7 @@
+570214946815868929
+Southwest
+@SouthwestAir Any ETD for SWA1004 from PHL? Appears delayed but no info available at gate.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 05:33:32 -0800
+location: Philadelphia, PA

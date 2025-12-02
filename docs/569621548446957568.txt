@@ -1,0 +1,7 @@
+569621548446957568
+US Airways
+@USAirways But good luck getting there! Not cool.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 14:15:34 -0800
+location: Washington, D.C.

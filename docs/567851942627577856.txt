@@ -1,0 +1,7 @@
+567851942627577856
+Delta
+@JetBlue Guys, really bad @JetBlue #fail . Someone better call my wife back to get this handled. 203-382-3312 while she waits on hold....
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 17:03:47 -0800
+location: Greenwich, CT

@@ -1,0 +1,7 @@
+568891974687830016
+Delta
+@JetBlue okay thanks. Hope to be flying with you guys soon!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 13:56:30 -0800
+location: nan

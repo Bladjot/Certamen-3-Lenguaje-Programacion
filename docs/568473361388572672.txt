@@ -1,0 +1,7 @@
+568473361388572672
+Delta
+@JetBlue i am sharing it to the public. I fly 20 times a year and sitting now on the tarmac in fll. Your staff is the worst i ever met.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-19 10:13:05 -0800
+location: NY NY

@@ -1,0 +1,7 @@
+568170564289867776
+United
+@united 4 different departure / arrival updates for UA304??? In 1hr. Please!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 14:09:53 -0800
+location: California, US

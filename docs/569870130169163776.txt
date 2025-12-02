@@ -1,0 +1,7 @@
+569870130169163776
+American
+@AmericanAir 8 hours on the phone yesterday.  Really?  Still doesn't pick up status on US Air flight.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:43:21 -0800
+location: Las Vegas

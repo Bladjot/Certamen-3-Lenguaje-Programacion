@@ -1,0 +1,7 @@
+569538649110548480
+US Airways
+@USAirways if you mean by posted, no USAir empl to direct anyone, 800# not accepting calls, no contact from USAir re: rebook #greatjob
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 08:46:10 -0800
+location: Cape Cod

@@ -1,0 +1,7 @@
+569212570478911489
+Virgin America
+@VirginAmerica Like http://t.co/VPqEm31XUQ
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 11:10:26 -0800
+location: Los Angeles, CA

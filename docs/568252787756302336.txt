@@ -1,0 +1,7 @@
+568252787756302336
+United
+@united well the income flight to dca to take us to ewr was delayed and it made us miss our connection to FLL so yes hotels were necessary
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 19:36:36 -0800
+location: Seattle

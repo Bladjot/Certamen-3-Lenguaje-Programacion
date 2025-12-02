@@ -1,0 +1,7 @@
+570270630660218881
+US Airways
+@USAirways if I qualify for free 1st checked bag, is that applied at checkin? Same for using companion tickets?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:14:48 -0800
+location: nan

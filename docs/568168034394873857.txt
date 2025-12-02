@@ -1,0 +1,7 @@
+568168034394873857
+Southwest
+@SouthwestAir was wondering is there a reason why customer service is so busy? Been on hold past few days for many hours No answer Help plz
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 13:59:50 -0800
+location: Fort Worth, TX

@@ -1,0 +1,7 @@
+569686397789057024
+American
+@AmericanAir Hi, I have my name, email, and AAdvantage #, but website won't let me reset password. Can we troubleshoot together? Thanks!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:33:16 -0800
+location: nan

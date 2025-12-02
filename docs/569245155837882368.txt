@@ -1,0 +1,7 @@
+569245155837882368
+US Airways
+@USAirways Been tweeting with the team at @AmericanAir who informed me that the problem is that you never sent his bags to them yesterday.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 13:19:55 -0800
+location: Asheville, NC

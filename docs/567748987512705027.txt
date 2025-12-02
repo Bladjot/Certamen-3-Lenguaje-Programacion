@@ -1,0 +1,7 @@
+567748987512705027
+US Airways
+@USAirways it's be nice to take a flight and have some level of consistency / service from the flight attendants. Quality control???
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 10:14:41 -0800
+location: NYC

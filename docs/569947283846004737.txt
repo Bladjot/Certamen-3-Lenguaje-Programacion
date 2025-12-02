@@ -1,0 +1,7 @@
+569947283846004737
+US Airways
+@USAirways US 728. Refuel; we've sat for so long. Pilot announces where the truck is. "Look, over there to the left!" Actual announcement.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:49:56 -0800
+location: nan

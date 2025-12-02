@@ -1,0 +1,7 @@
+569627574336421888
+US Airways
+@USAirways my wife left her phone on flight AWE474 on Friday February 20th upon landing in Minneapolis. How can we get it back? Thanks!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 14:39:31 -0800
+location: Thunder Bay, ON, Canada

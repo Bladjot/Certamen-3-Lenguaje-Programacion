@@ -1,0 +1,7 @@
+568928486188032000
+Southwest
+@SouthwestAir I'm on the 10:55 flight! Everyone has been so nice and helpful! I'm just hoping we'll get to fly out! Thank you! ;)
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 16:21:35 -0800
+location: Nashville

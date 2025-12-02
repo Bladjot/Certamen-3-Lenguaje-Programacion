@@ -1,0 +1,7 @@
+570306133677760513
+Virgin America
+@VirginAmerica What @dhepburn said.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:35:52 -0800
+location: nan

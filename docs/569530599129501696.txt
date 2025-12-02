@@ -1,0 +1,7 @@
+569530599129501696
+Delta
+@JetBlue I love #JetBlue ! #FlyFi when will we be able to charge our devices on domestic #A320 flights?! Thanks! http://t.co/obqIro1bUJ
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 08:14:10 -0800
+location: Florham Park, NJ

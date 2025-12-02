@@ -1,0 +1,7 @@
+569959406927945728
+Delta
+@JetBlue Need to get my 3-yr-old to Nassau (from SEA) to meet her great-granny she was named after - who just turned 103. #FlyingitForward
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:38:06 -0800
+location: Victoria, BC, Canada

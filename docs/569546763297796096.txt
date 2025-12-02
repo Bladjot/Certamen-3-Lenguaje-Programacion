@@ -1,0 +1,7 @@
+569546763297796096
+Delta
+@JetBlue get me home! Flight 2016 from buf to Bos is missing a captain!? Really!?
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 09:18:24 -0800
+location: Boston

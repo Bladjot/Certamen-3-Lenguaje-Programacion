@@ -1,0 +1,7 @@
+569484965055832065
+United
+@united Also, your phone customer service is almost useless. http://t.co/Mb3bJwGOAp
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 05:12:50 -0800
+location: PDX

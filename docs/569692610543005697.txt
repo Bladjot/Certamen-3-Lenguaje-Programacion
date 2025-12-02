@@ -1,0 +1,7 @@
+569692610543005697
+American
+@AmericanAir no gate agent after 30 minutes to let us off the plane???? WTW / grounds crew is here / hope you're ready to cover my delay
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:57:57 -0800
+location: New York, NY

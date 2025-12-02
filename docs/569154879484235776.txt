@@ -1,0 +1,7 @@
+569154879484235776
+United
+@united diverged to Burlington, Vermont. This sucks.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 07:21:12 -0800
+location: nan

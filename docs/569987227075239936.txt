@@ -1,0 +1,7 @@
+569987227075239936
+US Airways
+@USAirways also, can you explain why, when I checked in, on the US Airways site, &amp; picked "Standby for 1st" I was not put on the list?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:28:39 -0800
+location: BTR/DCA/IAD/MSY - etc

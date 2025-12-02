@@ -1,0 +1,8 @@
+569577794910490624
+Delta
+@JetBlue Yoga it is. TV service seems to be down though :-(
+I look forward to that do much!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 11:21:43 -0800
+location: NYC

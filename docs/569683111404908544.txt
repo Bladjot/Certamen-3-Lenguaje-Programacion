@@ -1,0 +1,7 @@
+569683111404908544
+US Airways
+@USAirways Southern Hospitality luggage delivery service from SAV is AWFUL. Great @ delivering empty promises but not luggage #8hrs&amp;waiting
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 18:20:12 -0800
+location: Wherever US Air takes me...

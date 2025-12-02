@@ -1,0 +1,7 @@
+568391878871285760
+Delta
+@jetblue trading customer experience for short term $$. So sad for this (previous?) loyal customer. https://t.co/dFmvmiBH4x
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 04:49:18 -0800
+location: 29 Sawyer Rd., Waltham, MA

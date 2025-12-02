@@ -1,0 +1,7 @@
+568091027774545920
+Delta
+@JetBlue I’m getting an “it depends” vibe. Fair enough!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 08:53:50 -0800
+location: BOS via ROC

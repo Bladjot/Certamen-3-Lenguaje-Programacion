@@ -1,0 +1,7 @@
+569239823820705793
+Southwest
+@SouthwestAir 2 wounded vets stuck. Hv trouble with agent help. On hold and no answer on Twitter. Pls respond
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 12:58:44 -0800
+location: Fort Lee, NJ

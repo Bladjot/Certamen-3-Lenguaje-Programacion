@@ -1,0 +1,7 @@
+567742141334437888
+United
+@united Confirmation number: NJV4BP - All I need is email confirmation of flight from NYC - SFO Feb 4
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:47:29 -0800
+location: NYC, Toronto

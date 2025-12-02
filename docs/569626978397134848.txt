@@ -1,0 +1,7 @@
+569626978397134848
+United
+@united AND WE GOT ZERO VOUCHERS FOR HOTEL OR CAB. I expect some SERIOUS mileage credits.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 14:37:09 -0800
+location: nan

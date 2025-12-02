@@ -1,0 +1,7 @@
+568241989453393920
+US Airways
+@USAirways My wife had flight changes due to weather now she cant checkin to her return flight and it fails Is it possible usair Cancelled Flightled
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 18:53:42 -0800
+location: nan

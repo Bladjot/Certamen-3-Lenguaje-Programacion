@@ -1,0 +1,7 @@
+569692299539517441
+American
+@AmericanAir You can't even get someone on the phone. Great story for the media.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:56:43 -0800
+location: Washington, DC

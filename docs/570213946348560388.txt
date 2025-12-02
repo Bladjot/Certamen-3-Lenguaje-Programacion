@@ -1,0 +1,7 @@
+570213946348560388
+US Airways
+@USAirways need to retrain US 3837 lead flight attendant and gate agent at arrival MKE 2/23.  Horrible attitudes toward helping customers.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 05:29:33 -0800
+location: Miami Beach, Florida USA

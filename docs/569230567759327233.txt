@@ -1,0 +1,7 @@
+569230567759327233
+US Airways
+@USAirways thanks for the seat that doesn't recline. I'm shocked I'm not being asked to serve everyone drinks on the plane.  #DoBetter
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 12:21:57 -0800
+location: CT, USA

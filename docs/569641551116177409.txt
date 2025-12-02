@@ -1,0 +1,7 @@
+569641551116177409
+American
+@AmericanAir Thank you! You will see me :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 15:35:03 -0800
+location: Lima, OH

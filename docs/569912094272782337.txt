@@ -1,0 +1,7 @@
+569912094272782337
+Southwest
+@SouthwestAir  thanks for adding passbook ability! Hopefully we can do group passbook tickets in the future somehow.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 09:30:06 -0800
+location: nan

@@ -1,0 +1,7 @@
+569681774307123200
+American
+@AmericanAir It's not your agents; it's your voice activated system that's not working right. And no email on Cancelled Flightlation. Lots of problems
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:14:53 -0800
+location: DFW

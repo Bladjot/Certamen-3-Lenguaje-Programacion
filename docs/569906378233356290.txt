@@ -1,0 +1,7 @@
+569906378233356290
+Delta
+@JetBlue Indeed. I don't know what's going on in Pittsburgh that weekend, but, it's drawing a crowd via JetBlue!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 09:07:23 -0800
+location: Boston, Austin, Kansas City

@@ -1,0 +1,7 @@
+569615636869062659
+Delta
+@JetBlue You guys really suck! I just spent 40 minutes on the phone linking my credits to my account.  They are still NOT there! 1/2
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:52:05 -0800
+location: Providence, RI

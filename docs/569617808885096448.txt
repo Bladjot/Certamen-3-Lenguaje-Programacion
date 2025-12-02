@@ -1,0 +1,7 @@
+569617808885096448
+American
+@AmericanAir no one received text alerts, automated calls, anything either. Literally no information as to what was happening.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:00:43 -0800
+location: Chicago

@@ -1,0 +1,7 @@
+568145883679875072
+Delta
+@JetBlue what's going on with 1171 LGA-FLL..poor to no communication from gate agents??
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 12:31:48 -0800
+location: ft Lauderdale

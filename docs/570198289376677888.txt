@@ -1,0 +1,7 @@
+570198289376677888
+Delta
+@JetBlue absolutely. The missed connection caused us to miss our ferry to Vieques. Get us to Vieques. Also, flight vouchers. #PRBound
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 04:27:20 -0800
+location: nan

@@ -1,0 +1,7 @@
+569599713499963394
+United
+@united thanks for having no one to pilot my last two flights, and all but stranding me in Houston tonight.  Airlines are the absolute worst
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 12:48:49 -0800
+location: nan

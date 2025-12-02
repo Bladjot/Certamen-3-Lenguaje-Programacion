@@ -1,0 +1,7 @@
+569745645956771840
+United
+@united Actually, the flight was just Cancelled Flightled! http://t.co/Qf0Oc2HqeZ
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 22:28:42 -0800
+location: Bay Area, CA

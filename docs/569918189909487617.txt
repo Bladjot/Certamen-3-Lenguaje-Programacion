@@ -1,0 +1,7 @@
+569918189909487617
+American
+@AmericanAir Oh,i already have turned  itover to them, but apparently losing someones bag on their honeymoon doesn't require accountability
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 09:54:19 -0800
+location: Brooklyn, NY

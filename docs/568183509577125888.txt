@@ -1,0 +1,7 @@
+568183509577125888
+United
+@united 1 hour since boarding began and we're still sitting at the gate.  #UA507
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 15:01:19 -0800
+location: Lakewood, Colorado

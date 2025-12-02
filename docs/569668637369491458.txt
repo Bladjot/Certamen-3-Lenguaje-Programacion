@@ -1,0 +1,7 @@
+569668637369491458
+American
+@AmericanAir Both pictures taken at the same time but which is right? #totallyconfused http://t.co/dvSLtQZKmQ
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:22:41 -0800
+location: UK

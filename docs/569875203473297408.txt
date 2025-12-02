@@ -1,0 +1,7 @@
+569875203473297408
+United
+@united UA1130 Flight was a nightmare!! From poor customer service,having my confirmed seat given away.... +more issues
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 07:03:30 -0800
+location: Calabasas, California

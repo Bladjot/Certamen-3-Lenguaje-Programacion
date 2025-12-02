@@ -1,0 +1,7 @@
+569960440438099969
+United
+@united have been waiting 2 days for my military bags from an airport 3 hours away from me. Horrible.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 12:42:13 -0800
+location: with my brothers

@@ -1,0 +1,7 @@
+569971070394101763
+Southwest
+@SouthwestAir how do get priority seating after you already paid for the flight
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:24:27 -0800
+location: Philadelphia PA

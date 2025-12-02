@@ -1,0 +1,7 @@
+569474700386045955
+United
+@united My bag reference ID number is IND43728M. Thanks for looking at it.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 04:32:03 -0800
+location: nan

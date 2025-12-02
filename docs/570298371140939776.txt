@@ -1,0 +1,7 @@
+570298371140939776
+American
+@AmericanAir if by near the gate you mean sitting on the plane for almost 2 hours, then yeah.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 11:05:01 -0800
+location: Las Vegas, NV

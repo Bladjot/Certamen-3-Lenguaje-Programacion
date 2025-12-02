@@ -1,0 +1,7 @@
+568694278890901504
+United
+@united hi I left my asus tablet on flight to Heathrow from Newark on 16th feb and wondered how long it takes for someone to check if found?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 00:50:56 -0800
+location: nan

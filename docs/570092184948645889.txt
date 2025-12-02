@@ -1,0 +1,7 @@
+570092184948645889
+American
+@AmericanAir I FOUND MY FOOTAGE!! :D I am so so happy.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 21:25:43 -0800
+location: Left hand seat in flightdeck

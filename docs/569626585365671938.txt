@@ -1,0 +1,7 @@
+569626585365671938
+United
+@united my flight was already Cancelled Flightled this morning because of a "snow storm in Denver". And now I'm in DC waiting for a pilot to get on+
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 14:35:35 -0800
+location: Boston

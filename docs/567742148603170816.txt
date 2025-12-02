@@ -1,0 +1,7 @@
+567742148603170816
+Virgin America
+@VirginAmerica morning. If I have a question regarding elevate points &amp; flights can I DM you?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:47:31 -0800
+location: San Franciso, CA

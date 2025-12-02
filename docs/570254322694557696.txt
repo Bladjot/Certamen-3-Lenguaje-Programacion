@@ -1,0 +1,9 @@
+570254322694557696
+American
+@AmericanAir just look at RDU airport. please think about the safety of your passengers. we cant get to RDU safely!
+
+http://t.co/wDyEkVB1Ze
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 08:10:00 -0800
+location: usa::fr::uk

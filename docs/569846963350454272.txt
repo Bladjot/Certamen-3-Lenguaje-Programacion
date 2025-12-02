@@ -1,0 +1,7 @@
+569846963350454272
+American
+@AmericanAir a confirmed flight. I'm so done! Thanks for nothing!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 05:11:17 -0800
+location: nan

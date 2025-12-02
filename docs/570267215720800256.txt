@@ -1,0 +1,7 @@
+570267215720800256
+Delta
+@JetBlue Come on and provide service from Destin- Fort Walton Beach Airport
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:01:13 -0800
+location: Bronx, NY / Destin, Fl

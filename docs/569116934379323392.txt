@@ -1,0 +1,7 @@
+569116934379323392
+United
+@united I appreciate the immediate offer, but suspect it is more long-term issue/not simple fix. Also, ski/bootbag policy is awkward at best
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 04:50:25 -0800
+location: nan

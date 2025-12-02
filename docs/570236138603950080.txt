@@ -1,0 +1,7 @@
+570236138603950080
+United
+@united but it's hard to stay upset at someone when they at least TRY to show remorse.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 06:57:44 -0800
+location: Seattle

@@ -1,0 +1,7 @@
+570306715880706049
+US Airways
+@USAirways flight 645 to Phoenix deboards passengers going to Salt Lake City because they can't resolve a simple bathroom issue. #fail
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 11:38:11 -0800
+location: Astoria, NY

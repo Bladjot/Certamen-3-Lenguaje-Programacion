@@ -1,0 +1,7 @@
+567811573265260544
+US Airways
+@USAirways This flight was for my brother. He has been rebooked and I was able to give my info over the phone to get him a pass to the Club.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-17 14:23:23 -0800
+location: Miss California United States

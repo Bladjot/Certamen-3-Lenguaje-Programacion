@@ -1,0 +1,7 @@
+570274049118625792
+Southwest
+@SouthwestAir had to let us off the plane bc the toilets done even work! There goes my family vacay to playa del Carmen, Mexico! #neveragain
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 09:28:23 -0800
+location: Chicago

@@ -1,0 +1,7 @@
+568881291766034432
+Southwest
+@SouthwestAir what about for us that cant get to the states they are playing for the hunt? Any DestinationDragons tickets left?Even just one
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 13:14:03 -0800
+location: Boston

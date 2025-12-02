@@ -1,0 +1,7 @@
+570245576815546368
+US Airways
+@USAirways your CSR in PHL suck.   Flt 3883 gets cx'd,  i get rebooked to the next day?  On standby for 4011. Not hopeful.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 07:35:14 -0800
+location: Hanover Twp, PA

@@ -1,0 +1,7 @@
+568124227641065472
+Southwest
+@SouthwestAir When does the new schedule open that takes us past 10/31?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 11:05:45 -0800
+location: nan

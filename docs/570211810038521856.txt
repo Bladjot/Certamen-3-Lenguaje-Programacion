@@ -1,0 +1,7 @@
+570211810038521856
+United
+@united common!! keep your paper work ready and don't delay our flights(#1585)and meetings @ChooseChicago
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 05:21:04 -0800
+location: Chicago, IL, USA

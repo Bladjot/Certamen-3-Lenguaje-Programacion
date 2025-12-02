@@ -1,0 +1,7 @@
+569493813884030976
+Delta
+@JetBlue you can 100% confirm that?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 05:48:00 -0800
+location: nan

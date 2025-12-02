@@ -1,0 +1,7 @@
+567867090729861120
+US Airways
+@USAirways @erickofiejones how long are billing cycles
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 18:03:59 -0800
+location: nan

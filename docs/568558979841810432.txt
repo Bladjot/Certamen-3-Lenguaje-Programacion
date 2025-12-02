@@ -1,0 +1,7 @@
+568558979841810432
+Delta
+@JetBlue If your confirming to me that the rate won't go down again looks like I can't fly JetBlue this time around, can't afford that price
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 15:53:18 -0800
+location: nan

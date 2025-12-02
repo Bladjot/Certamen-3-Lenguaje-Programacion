@@ -1,0 +1,7 @@
+569136050951622656
+US Airways
+@USAirways a big thanks to the gate agent flt5127..keeping us informed of the delay#greatcustomerservice
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 06:06:23 -0800
+location: nan

@@ -1,0 +1,7 @@
+569752107730890752
+US Airways
+@USAirways @landonschott he's fine, he really likes picking his own seat....
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 22:54:22 -0800
+location: Adelaide, South Australia

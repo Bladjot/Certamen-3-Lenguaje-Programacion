@@ -1,0 +1,7 @@
+569516736162050048
+United
+@united thanks for leaving our 3 year old in his own row flight 360 LAX-IAD
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 07:19:05 -0800
+location: wdc

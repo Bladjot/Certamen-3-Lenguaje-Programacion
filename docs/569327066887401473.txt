@@ -1,0 +1,7 @@
+569327066887401473
+Delta
+@JetBlue we got our luggage after waiting 40 mins and went home right after. Not very family and ADA friendly waiting that long w no chairs.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 18:45:24 -0800
+location: Wellesley, MA

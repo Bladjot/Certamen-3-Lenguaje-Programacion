@@ -1,0 +1,7 @@
+570248600623521793
+Southwest
+@SouthwestAir I have used you guys for most my travels, but this last experience I will never use southwest again! #worstcustomerservice
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 07:47:15 -0800
+location: nan

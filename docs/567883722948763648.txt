@@ -1,0 +1,7 @@
+567883722948763648
+Southwest
+@SouthwestAir Finally got through after 3 hours and all set. Thanks.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 19:10:04 -0800
+location: Connecticut

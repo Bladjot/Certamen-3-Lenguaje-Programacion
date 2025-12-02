@@ -1,0 +1,7 @@
+568662835829415936
+United
+@united maybe on my return trip 👍
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 22:45:59 -0800
+location: NJ

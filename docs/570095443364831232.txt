@@ -1,0 +1,7 @@
+570095443364831232
+American
+@AmericanAir followed!  Sure hope you can help!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 21:38:40 -0800
+location: nan

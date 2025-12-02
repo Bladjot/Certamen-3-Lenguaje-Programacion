@@ -1,0 +1,7 @@
+568483338257895424
+US Airways
+@USAirways no problem...just funny have a nice day
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 10:52:44 -0800
+location: nan

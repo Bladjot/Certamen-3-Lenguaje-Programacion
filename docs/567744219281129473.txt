@@ -1,0 +1,7 @@
+567744219281129473
+Southwest
+@SouthwestAir LUV Ya Too!!!!  I will sing a song for y'all when I finally get on that plane back to Nashville!!! #LOVESOUTHWESTAIR
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 09:55:44 -0800
+location: Nashville, TN

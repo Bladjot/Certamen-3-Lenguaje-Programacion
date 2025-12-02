@@ -1,0 +1,7 @@
+570162212616212480
+American
+@AmericanAir leave us stranded, send baggage with important medication to different city for 4days&amp;apologise with a $50 voucher. appalling.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 02:03:59 -0800
+location: nan

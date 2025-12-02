@@ -1,0 +1,7 @@
+570257563003920384
+United
+@united Had to explain to a very over eager flight attendant trying to ask about my vision that my @ccicanine was not a guide dog!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 08:22:52 -0800
+location: nan

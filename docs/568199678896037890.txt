@@ -1,0 +1,7 @@
+568199678896037890
+US Airways
+@USAirways Finally back on board.  Door was closed only to be reopened because we need fuel. You think someone wd have thought of it earlier
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 16:05:34 -0800
+location: Queens, New York

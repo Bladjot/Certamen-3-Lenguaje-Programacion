@@ -1,0 +1,7 @@
+569977819389800448
+Southwest
+@SouthwestAir still there? I was posted up in Downtown waiting for y'all. On my way!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:51:16 -0800
+location: Las Vegas, NV

@@ -1,0 +1,7 @@
+568799336097656836
+US Airways
+@USAirways how about a little help for the two gate agents trying to rebook flight 1707?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 07:48:24 -0800
+location: Boston,MA

@@ -1,0 +1,7 @@
+569553488885243904
+US Airways
+@USAirways on hold 2 hours 54 minutes. What's going on?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 09:45:08 -0800
+location: washington dc

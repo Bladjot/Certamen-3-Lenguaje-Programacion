@@ -1,0 +1,7 @@
+568172839758630912
+US Airways
+@USAirways  thanks! Now I just need to locate where my luggage is!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 14:18:55 -0800
+location: New York

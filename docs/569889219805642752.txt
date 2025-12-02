@@ -1,0 +1,7 @@
+569889219805642752
+Delta
+@JetBlue sounds fun! How does that work?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:59:12 -0800
+location: nan

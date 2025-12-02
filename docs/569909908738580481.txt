@@ -1,0 +1,7 @@
+569909908738580481
+American
+@AmericanAir delayed flight six hours. Missed international connection= extra night in a hotel and still have to pay for a 15lb surfboardbag
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 09:21:25 -0800
+location: VB/VA

@@ -1,0 +1,7 @@
+568633738567012352
+Delta
+@JetBlue the one man in baggage office says "I dunno". HELP
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 20:50:22 -0800
+location: nan

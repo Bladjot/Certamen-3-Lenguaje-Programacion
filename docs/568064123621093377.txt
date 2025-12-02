@@ -1,0 +1,7 @@
+568064123621093377
+Virgin America
+@virginamerica awesome deals DAL-AUS for only $39 each way! https://t.co/xCVQXYkg49
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 07:06:55 -0800
+location: Dallas, TX

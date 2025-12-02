@@ -1,0 +1,7 @@
+568533371602608128
+United
+@united can I access Frankfurt arrival lounge when I'm flying global first class?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 14:11:33 -0800
+location: Tulsa, OK

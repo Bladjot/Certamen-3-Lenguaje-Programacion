@@ -1,0 +1,7 @@
+569674597479677952
+American
+@AmericanAir the food served on AA2402 was vile and gross.The entire cabin did not eat their meal. Survey the flight crew. Another gross out
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 17:46:22 -0800
+location: nan

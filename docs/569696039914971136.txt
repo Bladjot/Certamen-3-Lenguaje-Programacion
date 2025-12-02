@@ -1,0 +1,7 @@
+569696039914971136
+American
+@AmericanAir Great - thank you.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 19:11:35 -0800
+location: Austin, Texas

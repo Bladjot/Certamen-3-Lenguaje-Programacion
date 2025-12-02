@@ -1,0 +1,7 @@
+569338492515278848
+US Airways
+@USAirways likelihood of PHL to BDL actually leaving tonight? 2 hour delay so far!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 19:30:49 -0800
+location: London

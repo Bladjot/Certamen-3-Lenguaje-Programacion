@@ -1,0 +1,7 @@
+569685194908819457
+Delta
+@JetBlue thank you! Hopefully it's soon! We are supposed to leave at 11:23
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:28:29 -0800
+location: nan

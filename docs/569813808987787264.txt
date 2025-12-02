@@ -1,0 +1,7 @@
+569813808987787264
+Southwest
+@SouthwestAir - really?  All other carriers are staffed and you've got a triple looped one and no employees in sight in OKC
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 02:59:33 -0800
+location: Oklahoma City

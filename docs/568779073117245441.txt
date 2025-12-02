@@ -1,0 +1,7 @@
+568779073117245441
+Southwest
+@SouthwestAir the sign in screen had major mobile issues, the responsive design wasn't working properly my Nexus 5.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 06:27:53 -0800
+location: PHX, AZ

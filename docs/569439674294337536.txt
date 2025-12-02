@@ -1,0 +1,7 @@
+569439674294337536
+Delta
+@JetBlue Thanks! See you soon!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 02:12:52 -0800
+location: new york city

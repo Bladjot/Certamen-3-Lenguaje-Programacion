@@ -1,0 +1,7 @@
+569977357055864832
+American
+@AmericanAir im tryin to book a flight but cant get ahold of anyone!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 13:49:26 -0800
+location: nan

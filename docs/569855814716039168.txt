@@ -1,0 +1,7 @@
+569855814716039168
+American
+@AmericanAir Not good enough. No info communicated at any point - just silence. for hours as we sat. Oh, and then seat was broken. #worst
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 05:46:28 -0800
+location: nan

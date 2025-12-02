@@ -1,0 +1,7 @@
+569867363580903424
+American
+@AmericanAir thanks for responding ... will do!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 06:32:21 -0800
+location: nan

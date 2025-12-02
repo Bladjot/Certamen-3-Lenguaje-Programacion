@@ -1,0 +1,7 @@
+569607124772196352
+American
+@AmericanAir I was flying from Ft Lauderdale FL to Seattle WA on the 02/28/2015 until the 03/03/2015 and they don't want to honor my flight.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 13:18:15 -0800
+location: nan

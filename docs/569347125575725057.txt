@@ -1,0 +1,7 @@
+569347125575725057
+Southwest
+@SouthwestAir been waiting for 70 minutes on hold because yall Cancelled Flightled my return flight. Answer the phone!!!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 20:05:07 -0800
+location: nan

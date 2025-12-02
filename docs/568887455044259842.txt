@@ -1,0 +1,7 @@
+568887455044259842
+United
+@United you need to get it together 3 of 4 flights Cancelled Flightled stranded with no car and my baggage is lost!  You NEVER get it right.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 13:38:33 -0800
+location: Parkersburg, WV

@@ -1,0 +1,7 @@
+568829652233428992
+Southwest
+@SouthwestAir Maybe it is just a machine...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 09:48:52 -0800
+location: camas, wa

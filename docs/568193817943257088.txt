@@ -1,0 +1,7 @@
+568193817943257088
+United
+@united well sorta....we r trying to get to Aquadilla, PR but only 1 flight goes there a day. All are booked. UA Cancelled Flighted our flight to NJ
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 15:42:17 -0800
+location: Elkhart, Indiana

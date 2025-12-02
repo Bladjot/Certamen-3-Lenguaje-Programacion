@@ -1,0 +1,7 @@
+569346431833673732
+United
+@united I see you coming to get me and @AggieMensGolf in Hawaii! #12thMan http://t.co/G8DKa3Edhf
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 20:02:21 -0800
+location: Htown

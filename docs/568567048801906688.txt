@@ -1,0 +1,7 @@
+568567048801906688
+United
+@united thanks for the reply. I have been in contact with Customer Care to get clarification on this issue.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 16:25:22 -0800
+location: Columbus, Ohio

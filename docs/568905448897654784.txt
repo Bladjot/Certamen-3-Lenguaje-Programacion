@@ -1,0 +1,7 @@
+568905448897654784
+United
+@united it should be free like other airlines! Again, it’s not 1997 anymore.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 14:50:03 -0800
+location: washington, dc

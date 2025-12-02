@@ -1,0 +1,7 @@
+570043591927537664
+American
+@AmericanAir how do you refuse a customer who is willing to pay to upgrade when half of your first class is empty
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 18:12:37 -0800
+location: nan

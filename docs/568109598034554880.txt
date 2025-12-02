@@ -1,0 +1,7 @@
+568109598034554880
+United
+@united I already sent feedback and your reps are who told me about the priority. I'm speechless at your system
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 10:07:37 -0800
+location: nan

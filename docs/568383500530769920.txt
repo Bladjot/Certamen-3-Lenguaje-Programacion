@@ -1,0 +1,7 @@
+568383500530769920
+US Airways
+@USAirways understood and so does us airways.  Getting through tsa is the problem
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 04:16:01 -0800
+location: nan

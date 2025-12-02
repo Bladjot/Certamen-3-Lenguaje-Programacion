@@ -1,0 +1,7 @@
+570100947923419136
+American
+@AmericanAir they responded. I can't respond to their response. Nor can I speak with someone. #worstcustomerserviceever
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 22:00:32 -0800
+location: nan

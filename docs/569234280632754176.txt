@@ -1,0 +1,7 @@
+569234280632754176
+Southwest
+@SouthwestAir THANK YOU. I left my iPad on a plane, filled out a lost and found form. Yall found it and shipped it back. Thank you #flySW
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 12:36:43 -0800
+location: Chicago, IL

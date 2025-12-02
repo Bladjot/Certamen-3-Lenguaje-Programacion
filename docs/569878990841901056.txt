@@ -1,0 +1,7 @@
+569878990841901056
+American
+@AmericanAir on hold again....estimated 2 hr hold
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:18:33 -0800
+location: Brevard, NC

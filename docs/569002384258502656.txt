@@ -1,0 +1,7 @@
+569002384258502656
+United
+@united I have a voucher that expires next week, can I get an extension on it before it expires?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 21:15:14 -0800
+location: nan

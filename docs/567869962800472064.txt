@@ -1,0 +1,7 @@
+567869962800472064
+Delta
+@JetBlue flight from DCA to BOS has no heat #OhNo #BundleUp #Leastthebeverageswillbecold
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 18:15:24 -0800
+location: nan

@@ -1,0 +1,7 @@
+569602645712769025
+Delta
+As soon as I can, sending my son home with you Saturday. @JetBlue
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 13:00:28 -0800
+location: New York City

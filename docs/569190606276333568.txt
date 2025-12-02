@@ -1,0 +1,7 @@
+569190606276333568
+US Airways
+@USAirways what happens if the flight takes off before we Cancelled Flight?? That's the issue. We don't want to pay because of your inaccessibility!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 09:43:10 -0800
+location: Toronto, ON

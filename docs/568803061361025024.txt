@@ -1,0 +1,7 @@
+568803061361025024
+United
+@united - are you aware your airbus fleet sucks?  I'd rather fly a C-130 full of rubber dog shit.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 08:03:12 -0800
+location: nan

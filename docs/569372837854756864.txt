@@ -1,0 +1,7 @@
+569372837854756864
+US Airways
+@USAirways @jtrexsocial 5 hours on hold ... Safe to say no one is working .
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 21:47:17 -0800
+location: NYC

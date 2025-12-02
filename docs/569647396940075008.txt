@@ -1,0 +1,7 @@
+569647396940075008
+Delta
+@JetBlue Update please on why flight 2601 continues to be further delayed
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:58:17 -0800
+location: Brooklyn, NY

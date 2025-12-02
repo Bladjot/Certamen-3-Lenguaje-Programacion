@@ -1,0 +1,7 @@
+569903120781852672
+United
+@united received hotel but no food.  Also email for 3750 miles.  Last trip had 3 hr delay and 5000 miles - so less for Cancelled Flightlation?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 08:54:26 -0800
+location: nan

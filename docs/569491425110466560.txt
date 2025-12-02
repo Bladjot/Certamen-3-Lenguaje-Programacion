@@ -1,0 +1,7 @@
+569491425110466560
+Southwest
+@SouthwestAir 2 hours on hold for customer service never us SW again
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 05:38:31 -0800
+location: Havertown, Pa.

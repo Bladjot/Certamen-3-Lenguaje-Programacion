@@ -1,0 +1,7 @@
+570056289419526145
+American
+@AmericanAir Hi AA ! I placed an itin on hold to expire on 2/27.Just logged into my acct..its gone! Seat hasn't been released to inv. Help?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 19:03:05 -0800
+location: Houston

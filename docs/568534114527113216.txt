@@ -1,0 +1,7 @@
+568534114527113216
+US Airways
+@USAirways yes, it's a domestic flight. Thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 14:14:30 -0800
+location: Phoenix, AZ, USA

@@ -1,0 +1,7 @@
+569211675108179968
+Virgin America
+@VirginAmerica Site down? #help
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 11:06:53 -0800
+location: nan

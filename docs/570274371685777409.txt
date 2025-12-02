@@ -1,0 +1,7 @@
+570274371685777409
+Southwest
+@SouthwestAir great now we are all de boarding perfectly plane is shot. Fml. Plans are screwed. Thanks for nothing @SouthwestAir
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 09:29:40 -0800
+location: nan

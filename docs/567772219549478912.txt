@@ -1,0 +1,7 @@
+567772219549478912
+Southwest
+@SouthwestAir thanks I think we've got it figured out
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 11:47:00 -0800
+location: Columbus, OH

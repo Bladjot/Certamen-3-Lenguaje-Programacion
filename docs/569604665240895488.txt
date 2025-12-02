@@ -1,0 +1,7 @@
+569604665240895488
+Southwest
+@SouthwestAir my golf bag was broken on the flight I just took. What's the process for damage reimbursement?
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-22 13:08:29 -0800
+location: Washington DC

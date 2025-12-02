@@ -1,0 +1,7 @@
+568881791156822017
+Delta
+@JetBlue Two delays.  A little proactive communication goes a long way. #howhardcanthatreallybe?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 13:16:02 -0800
+location: Tampa FL & Hendersonville NC

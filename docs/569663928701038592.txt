@@ -1,0 +1,7 @@
+569663928701038592
+American
+@AmericanAir we need a miracle @slcairport please help flight 1228 get out of here by 640 #FingersCrossed #pleasegod #missmykids
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:03:59 -0800
+location: Buda Texas

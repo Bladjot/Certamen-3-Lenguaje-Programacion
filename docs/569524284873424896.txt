@@ -1,0 +1,7 @@
+569524284873424896
+Southwest
+@SouthwestAir I will say that your customer service has consistently been the very best!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 07:49:05 -0800
+location: Cranberry 16066/Bonita Springs

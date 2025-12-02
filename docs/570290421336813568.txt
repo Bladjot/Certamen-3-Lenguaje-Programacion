@@ -1,0 +1,7 @@
+570290421336813568
+US Airways
+@USAirways thank you!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 10:33:26 -0800
+location: Boynton Beach, FL

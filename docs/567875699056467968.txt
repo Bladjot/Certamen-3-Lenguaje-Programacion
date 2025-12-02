@@ -1,0 +1,7 @@
+567875699056467968
+US Airways
+@USAirways I'm sure you don't but question still remains why we only found out at 8.20 that crew won't come before 9.50 for 8.10 flt. Tks.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 18:38:11 -0800
+location: Washington, DC

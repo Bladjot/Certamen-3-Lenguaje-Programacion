@@ -1,0 +1,7 @@
+567777100112101376
+US Airways
+@USAirways right on. Up. Up &amp; away ✈️🌞
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 12:06:24 -0800
+location: Philadelphia, PA

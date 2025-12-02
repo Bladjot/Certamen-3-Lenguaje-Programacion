@@ -1,0 +1,7 @@
+569683804857745409
+American
+@AmericanAir hats off to Admiral Lounge attendant @ YYZ Terminal 3 who gave her banana to our toddler when none avail elsewhere.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 18:22:57 -0800
+location: Cambridge MA

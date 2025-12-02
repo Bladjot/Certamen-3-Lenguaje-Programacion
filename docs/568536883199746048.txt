@@ -1,0 +1,7 @@
+568536883199746048
+Southwest
+@SouthwestAir yes please
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 14:25:30 -0800
+location: We know all so follow -A

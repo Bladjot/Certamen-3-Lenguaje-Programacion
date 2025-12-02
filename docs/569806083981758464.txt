@@ -1,0 +1,7 @@
+569806083981758464
+American
+@AmericanAir thanks. They did not charge anything in the end so all is good.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 02:28:51 -0800
+location: Vienna, Austria

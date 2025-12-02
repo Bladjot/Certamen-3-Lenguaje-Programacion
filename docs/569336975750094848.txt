@@ -1,0 +1,7 @@
+569336975750094848
+Southwest
+@SouthwestAir On hold for 45 minutes trying to rebook a Cancelled Flightled flight with a companion ticket. Help?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 19:24:47 -0800
+location: Chicago, IL

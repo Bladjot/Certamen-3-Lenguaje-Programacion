@@ -1,0 +1,7 @@
+569670354030989313
+American
+@AmericanAir well done, you have taken the fun out of air travel @PHLAirport
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 17:29:31 -0800
+location: nan

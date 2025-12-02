@@ -1,0 +1,7 @@
+567851352249868288
+United
+@united it was an international flight, and we didn't get our new eta until we were in the air.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 17:01:27 -0800
+location: California

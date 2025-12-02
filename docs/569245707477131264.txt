@@ -1,0 +1,7 @@
+569245707477131264
+Delta
+@JetBlue send more service agents so all the stranded passengers can be helped!!!🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 13:22:07 -0800
+location: nan

@@ -1,0 +1,7 @@
+568054514617622528
+Southwest
+@SouthwestAir First there were cockroaches crawling on the counter at the gate and visible mouse traps under the seats at the gate
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 06:28:44 -0800
+location: Somewhere over the rainbow.

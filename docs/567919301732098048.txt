@@ -1,0 +1,7 @@
+567919301732098048
+United
+@united dang... I thought I was in a teleportation device! Ua514
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 21:31:27 -0800
+location: Brooklyn, New York

@@ -1,0 +1,7 @@
+568944962311626752
+Delta
+@JetBlue 266 at LGB in Sunny So Cal http://t.co/V015PK7DSi
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 17:27:04 -0800
+location: nan

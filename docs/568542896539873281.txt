@@ -1,0 +1,7 @@
+568542896539873281
+Southwest
+“@SouthwestAir: @pancho_joe No, no, you must've heard us wrong. Sweet mixtape,though" 4 the record,I didn't leave the 80's, the 80's left me
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 14:49:24 -0800
+location: McKinney, Texas

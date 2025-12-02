@@ -1,0 +1,7 @@
+569765076980215809
+United
+@united aaaand 7 hours Late Flightr won't be catching a flight til 6AM...stuck in at airport in a snowstorm with no hotel-how's that for patience?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 23:45:54 -0800
+location: nan

@@ -1,0 +1,7 @@
+568725291247525888
+US Airways
+@USAirways NEVER AGAIN! Worse experience in my life. http://t.co/3dDQq0gQni
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 02:54:10 -0800
+location: Puerto Rico

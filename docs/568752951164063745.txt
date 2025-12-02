@@ -1,0 +1,7 @@
+568752951164063745
+Delta
+@JetBlue I hope so. Wanted an early flight to avoid the airport chaos but it's too Late Flight for that!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 04:44:05 -0800
+location: Quincy, Ma by way of The #413

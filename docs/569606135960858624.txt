@@ -1,0 +1,7 @@
+569606135960858624
+American
+@AmericanAir I've been trying to change frm AA 2401 to LAX at 6:50am MONDAY morning then AA 2586 from LAX to FAT to flight AA 1359?#helpAA
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 13:14:20 -0800
+location: nan

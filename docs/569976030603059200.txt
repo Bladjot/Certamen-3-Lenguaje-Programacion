@@ -1,0 +1,7 @@
+569976030603059200
+Southwest
+@SouthwestAir Love Southwest. You guys have been good to me! http://t.co/X4tDY84dBH
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 13:44:09 -0800
+location: Ozarks

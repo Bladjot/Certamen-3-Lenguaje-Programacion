@@ -1,0 +1,7 @@
+569630712233627648
+US Airways
+@USAirways told me I deserved to be delayed because I booked the last flight and then I hear "the only inconvience is missing your flight"
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:51:59 -0800
+location: nan

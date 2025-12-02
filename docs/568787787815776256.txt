@@ -1,0 +1,7 @@
+568787787815776256
+Southwest
+@SouthwestAir please do. Hate having to fly a different airline. You're my fav.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 07:02:30 -0800
+location: Michigan

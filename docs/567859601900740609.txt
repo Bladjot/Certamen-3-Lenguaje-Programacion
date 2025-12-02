@@ -1,0 +1,7 @@
+567859601900740609
+US Airways
+@USAirways flights keep getting delayed and Cancelled Flighted with no information, worst customer service ever.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 17:34:14 -0800
+location: Lexington

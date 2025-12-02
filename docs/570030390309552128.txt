@@ -1,0 +1,7 @@
+570030390309552128
+Delta
+@JetBlue plan to repair its brand http://t.co/ui9M8YpzH2 via @WSJ
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 17:20:10 -0800
+location: Phoenix AZ

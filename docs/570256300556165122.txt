@@ -1,0 +1,7 @@
+570256300556165122
+US Airways
+@USAirways still on hold...1 hr 27 mins....thank god for chairman status. status match @Delta?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 08:17:51 -0800
+location: nan

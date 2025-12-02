@@ -1,0 +1,7 @@
+569584207011434497
+US Airways
+@USAirways why have me board a plane knowing there is a maint issue?  US5235.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 11:47:11 -0800
+location: Chicago, IL

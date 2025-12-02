@@ -1,0 +1,7 @@
+569910395667935232
+American
+@AmericanAir No I was not given the choice by the rep Meelan (UK AA Contact Center) to escaLate Flight to a supervisor and had to book with change
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:23:21 -0800
+location: nan

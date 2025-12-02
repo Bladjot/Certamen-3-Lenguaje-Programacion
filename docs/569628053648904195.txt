@@ -1,0 +1,7 @@
+569628053648904195
+Delta
+@JetBlue I have a disabled seat in row 6 do I get to board earlier?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 14:41:25 -0800
+location: nan

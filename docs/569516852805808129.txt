@@ -1,0 +1,7 @@
+569516852805808129
+United
+@united I have been given a connection with 2 overnight layovers. No vouchers. Last connection not even confirmed.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:19:33 -0800
+location: nan

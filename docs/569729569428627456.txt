@@ -1,0 +1,7 @@
+569729569428627456
+American
+@AmericanAir all good! I'm catching the 11:10p flight tonight. Thanks for the response.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 21:24:49 -0800
+location: Dallas, Texas

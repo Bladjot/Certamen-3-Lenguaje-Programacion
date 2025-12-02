@@ -1,0 +1,7 @@
+567814641918832640
+United
+@united Yesterday, I'm sorted now.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:35:34 -0800
+location: US

@@ -1,0 +1,7 @@
+567790133224681472
+Delta
+@JetBlue marks 15th birthday with @Airbus #A320 painted in 'Blumanity' paint job http://t.co/9vTFM7kNad
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 12:58:11 -0800
+location: Phoenix AZ

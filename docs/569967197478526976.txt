@@ -1,0 +1,7 @@
+569967197478526976
+United
+@united Read my bio. See who I work with. I have NEVER encountered this with your airline before. Disappointed is an understatement.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 13:09:04 -0800
+location: New York City, NY

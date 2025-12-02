@@ -1,0 +1,7 @@
+568453818335129601
+Southwest
+@SouthwestAir I can easily get to the Atlanta show, I just need tickets, help?!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 08:55:26 -0800
+location: nan

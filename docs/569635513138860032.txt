@@ -1,0 +1,7 @@
+569635513138860032
+Southwest
+@SouthwestAir Traveling with a 13 year old Thursday. He does not need an ID, correct?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:11:04 -0800
+location: Back in the Mitten

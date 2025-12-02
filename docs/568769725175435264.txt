@@ -1,0 +1,7 @@
+568769725175435264
+US Airways
+@USAirways ordered a Scotch &amp; water and F/A asked if I wanted full glass or half? 60 yrs old and first time ever asked that????
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 05:50:44 -0800
+location: Haverford, PA & Wilton Manors

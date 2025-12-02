@@ -1,0 +1,7 @@
+569203705750237184
+Southwest
+@SouthwestAir 2nd leg of trip Cancelled Flightled. Been on hold 1.5 hrs. Will we lose our $ if we don't speak to someone before first flight leaves?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 10:35:13 -0800
+location: San Diego, CA

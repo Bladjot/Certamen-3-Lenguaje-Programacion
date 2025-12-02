@@ -1,0 +1,7 @@
+569554815539290112
+United
+@united this 2 hr delay is a vacation buzzkill
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 09:50:24 -0800
+location: Austin, TX

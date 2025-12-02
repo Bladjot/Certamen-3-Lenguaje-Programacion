@@ -1,0 +1,7 @@
+568868515857321985
+United
+@united thanks for reminding me how much easier it is to fly Southwest!  Get more agents at sfo 25!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 12:23:17 -0800
+location: Midwest

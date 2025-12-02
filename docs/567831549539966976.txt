@@ -1,0 +1,7 @@
+567831549539966976
+United
+@united was told by Supervisor that United disconnected their customer support # so there was nobody to address it now. #igiveup
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 15:42:45 -0800
+location: San Antonio

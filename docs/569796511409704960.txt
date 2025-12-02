@@ -1,0 +1,7 @@
+569796511409704960
+American
+@AmericanAir so am I going to be homeless or do I have a place to stay tonight? Can you respond to me here so I can go back to sleep?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 01:50:49 -0800
+location: San Diego

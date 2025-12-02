@@ -1,0 +1,7 @@
+567906137938399232
+Southwest
+@SouthwestAir hot stewardess flipped me off
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 20:39:09 -0800
+location: Roseville, California

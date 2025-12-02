@@ -1,0 +1,7 @@
+569632024434057216
+American
+@AmericanAir Orbitz has only shown "priority" seats since we booked &amp; paid 3 weeks ago.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 14:57:12 -0800
+location: Chicago

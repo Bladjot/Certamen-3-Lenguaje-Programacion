@@ -1,0 +1,7 @@
+568872120471687168
+United
+@united thank you thank you thank you for contacting me. Thank you for the offer of a $1000 travel certificate #unitedairlines
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 12:37:37 -0800
+location: bonkers in Yonkers

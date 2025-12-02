@@ -1,0 +1,7 @@
+568564957740175360
+United
+@united How is this considered "on time" if it's arriving at destination half hour Late Flightr than scheduled? http://t.co/YMFTw1uyHr
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 16:17:04 -0800
+location: NY

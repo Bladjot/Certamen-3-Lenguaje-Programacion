@@ -1,0 +1,7 @@
+569884285659848704
+American
+@AmericanAir been trying to speak to agent for 24hrs about my Cancelled Flightled flight but reps always busy. how do I get ahold of you?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:39:36 -0800
+location: fort worth

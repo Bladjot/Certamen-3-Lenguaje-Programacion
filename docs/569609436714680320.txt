@@ -1,0 +1,7 @@
+569609436714680320
+Delta
+@JetBlue oh. And thank you for responding
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 13:27:27 -0800
+location: Washington, DC

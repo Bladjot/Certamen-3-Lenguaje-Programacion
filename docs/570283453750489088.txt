@@ -1,0 +1,7 @@
+570283453750489088
+United
+@united A refund and flight vouchers or another flight on a different airline at your expense for today. 8 hour drive is very inconvenient
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 10:05:45 -0800
+location: Kansas City, MO

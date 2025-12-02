@@ -1,0 +1,7 @@
+570273378403102720
+Delta
+@JetBlue flight 462 to Boston delayed due to weather in Tampa?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:25:43 -0800
+location: nan

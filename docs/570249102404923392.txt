@@ -1,0 +1,7 @@
+570249102404923392
+Virgin America
+@VirginAmerica status match program.  I applied and it's been three weeks.  Called and emailed with no response.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 07:49:15 -0800
+location: nan

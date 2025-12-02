@@ -1,0 +1,7 @@
+570261511781941251
+American
+@AmericanAir Thank you for responding so quickly to my tweets I do appreciate that.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:38:34 -0800
+location: East Coast/New England

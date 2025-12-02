@@ -1,0 +1,7 @@
+569233861651144704
+Delta
+@JetBlue that sucks. Oh well.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 12:35:03 -0800
+location: Mannahatta

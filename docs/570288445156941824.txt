@@ -1,0 +1,7 @@
+570288445156941824
+US Airways
+@USAirways How do I get a receipt for a change fee when I originally booked with miles?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:25:35 -0800
+location: Washington, DC

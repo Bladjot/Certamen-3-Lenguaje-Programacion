@@ -1,0 +1,7 @@
+570247850858147840
+American
+@AmericanAir Yes I am. 2495/1170. RNO departure at 1229 on 2/25 w/connection at DFW to LGA. I can do the 1120am to LAX and then to JFK
+sentiment: negative
+negativereason: longlines
+created: 2015-02-24 07:44:16 -0800
+location: nan

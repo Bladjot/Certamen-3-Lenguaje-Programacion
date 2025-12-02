@@ -1,0 +1,7 @@
+569527848131637248
+Delta
+@JetBlue if I had my tux, it'd be a date! #UMosaicMeCrazy http://t.co/hap4gboSTU
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 08:03:14 -0800
+location: New York, NY

@@ -1,0 +1,7 @@
+569917442455175168
+American
+@AmericanAir need help on a reservation. Can you follow so that I can DM details? Thanks!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 09:51:21 -0800
+location: NYC

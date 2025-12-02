@@ -1,0 +1,7 @@
+569437674257276930
+US Airways
+@USAirways on hold now over 2 hrs on one phone hung on 5 x on another? How do you reach a person? No weather condition makes this excusable!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 02:04:55 -0800
+location: nan

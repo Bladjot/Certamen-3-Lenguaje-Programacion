@@ -1,0 +1,7 @@
+569953006847954944
+American
+@AmericanAir ; @USAirways US 728/Feb 21. Unprofessional, unprepared, unsympathetic, lacked communication, and lacked solutions.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 12:12:40 -0800
+location: nan

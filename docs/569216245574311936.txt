@@ -1,0 +1,7 @@
+569216245574311936
+United
+@united flights taking off from IAD this afternoon?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 11:25:03 -0800
+location: Ashburn, VA

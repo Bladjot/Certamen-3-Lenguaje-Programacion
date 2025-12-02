@@ -1,0 +1,7 @@
+569626389944659970
+Southwest
+@SouthwestAir we've been at the gate a long time. We're gonna miss our connection at MDW. Ack! http://t.co/qRXvZFrD1Z
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:34:49 -0800
+location: nan

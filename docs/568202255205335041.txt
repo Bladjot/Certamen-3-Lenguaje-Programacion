@@ -1,0 +1,7 @@
+568202255205335041
+US Airways
+@USAirways if you could have ran your USExpress/PSA worth a damn I wouldn't be stuck in horrible CLT now.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 16:15:48 -0800
+location: Dallas, TX

@@ -1,0 +1,7 @@
+569690131235340288
+American
+@AmericanAir no private msg me and will provide details...u really need customer svc training for your staff
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:48:06 -0800
+location: Fort Myers, Florida

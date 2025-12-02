@@ -1,0 +1,7 @@
+568574174677114880
+United
+@United Stars and Bars @iah #A320 @airlineguys @AirlineGeeks #avgeek http://t.co/mWSoGUC33p
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 16:53:41 -0800
+location: nan

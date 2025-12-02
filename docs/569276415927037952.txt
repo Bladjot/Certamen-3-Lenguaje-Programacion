@@ -1,0 +1,7 @@
+569276415927037952
+United
+@united Flight:UA1750 is basically a prison on the runway @ SFO 6delays 4hrs of sitting no water no answers. reminded y I hate this airline
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 15:24:08 -0800
+location: San Francisco, CA

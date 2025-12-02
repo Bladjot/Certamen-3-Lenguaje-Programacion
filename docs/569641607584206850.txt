@@ -1,0 +1,7 @@
+569641607584206850
+United
+.@united I think not. I'm not flying you again, if I can help it.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 15:35:17 -0800
+location: New York

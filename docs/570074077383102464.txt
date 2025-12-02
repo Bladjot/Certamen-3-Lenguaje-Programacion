@@ -1,0 +1,7 @@
+570074077383102464
+US Airways
+@USAirways Please hold flight US 639 in Phoenix! I'm a weary traveler stuck on another flight because the tarmac is having issues!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 20:13:46 -0800
+location: nan

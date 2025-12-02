@@ -1,0 +1,7 @@
+569340749466226688
+United
+@united the drunk guy you threw out of flight UA936 4hrs ago is better off than the rest of us held up for 5hrs in the plane without food.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 19:39:47 -0800
+location: Washington-Vancouver-Medellín

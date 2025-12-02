@@ -1,0 +1,7 @@
+569493640990625793
+United
+@united flight 403 is delayed 40 min bc a missing screw and were in danger of missing flight 6491
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 05:47:19 -0800
+location: SE AZ By Way of HV

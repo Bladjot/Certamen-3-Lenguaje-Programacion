@@ -1,0 +1,7 @@
+569838589879685120
+American
+@AmericanAir how do I see your report team?
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-23 04:38:01 -0800
+location: nan

@@ -1,0 +1,7 @@
+569836725612220416
+Delta
+@jetblue are going to let Fl382 into a gate in BOS any time soon? We're just sittin' here on the tarmac  waiting.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 04:30:37 -0800
+location: Lexington, MA

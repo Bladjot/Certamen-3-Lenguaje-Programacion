@@ -1,0 +1,7 @@
+569818507891871744
+American
+@AmericanAir a school trip of 38 including myself had to sleep over in the airport and are all on different standby flights.This is not good
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 03:18:13 -0800
+location: Everywhere

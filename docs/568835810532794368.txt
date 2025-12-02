@@ -1,0 +1,7 @@
+568835810532794368
+United
+@united cleaning a regional jet takes an hour?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 10:13:20 -0800
+location: D.C.

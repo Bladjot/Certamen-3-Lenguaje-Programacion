@@ -1,0 +1,7 @@
+569622053214507008
+Southwest
+@SouthwestAir promised 4 rooms until Wednesday, (wentook3) and the hotel charged us $79 per room because we had a pink paper needed white?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 14:17:35 -0800
+location: nan

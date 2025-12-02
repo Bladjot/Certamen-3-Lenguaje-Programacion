@@ -1,0 +1,7 @@
+568214796514004992
+United
+@united Your staff, both on deck and in the cabin on UA768 SFO -&gt; BOS were exceptional today. Please tell them well done :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 17:05:39 -0800
+location: Boston, MA

@@ -1,0 +1,7 @@
+569688901922615296
+American
+@AmericanAir thanks for the call on my Cancelled Flightled flight, NOT!  Flight Booking Problems me for Tues no good weather caused me 2 leave early
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 18:43:13 -0800
+location: The Ted Williams Tour

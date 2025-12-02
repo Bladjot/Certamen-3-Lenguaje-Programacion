@@ -1,0 +1,7 @@
+569992712117747712
+American
+@AmericanAir @USAirways day has come where I was suppose to get my money back from you but my bank hasn't received anything but after
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 14:50:27 -0800
+location: McKinney TX

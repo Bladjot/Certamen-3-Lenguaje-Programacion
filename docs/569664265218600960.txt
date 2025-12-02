@@ -1,0 +1,7 @@
+569664265218600960
+American
+@AmericanAir I have a Cancelled Flighted flight tomorrow morning and the 800 number did nothing! Please! I just want to go home!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:05:19 -0800
+location: nan

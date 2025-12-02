@@ -1,0 +1,7 @@
+569337064484962304
+US Airways
+@USAirways #not happy, wife 40th Bday trip. would like to be fully compensated for both flights
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 19:25:08 -0800
+location: Virginia Beach, Virginia

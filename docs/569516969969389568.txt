@@ -1,0 +1,7 @@
+569516969969389568
+United
+@united your first class is a joke, compared to all the others I have flown, don't ask for extra peanuts... That's NOT allowed! @AirCanada
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 07:20:01 -0800
+location: Winnipeg, Manitoba

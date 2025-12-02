@@ -1,0 +1,7 @@
+570072918094442496
+United
+@United I have no way of making phones calls... Need to handle via Twitter/email/web. Thank you!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 20:09:09 -0800
+location: nan

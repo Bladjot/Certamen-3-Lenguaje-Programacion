@@ -1,0 +1,7 @@
+568774914452418561
+Delta
+@JetBlue don't just cling on to the safety card. It safety was really an issue, then flight would have landed immediately. .
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 06:11:21 -0800
+location: New York City, NY

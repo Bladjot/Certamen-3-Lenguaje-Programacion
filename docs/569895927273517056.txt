@@ -1,0 +1,7 @@
+569895927273517056
+American
+@AmericanAir @united You're both equally terrible, and I'm going to fight until I get complete satisfaction for how we were mistreated
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 08:25:51 -0800
+location: nan

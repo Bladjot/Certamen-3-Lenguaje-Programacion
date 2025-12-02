@@ -1,0 +1,7 @@
+570016890996723713
+Delta
+Oh yeah? RT @JetBlue: Our fleet's on fleek. http://t.co/FTv2NWWQF1”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 16:26:31 -0800
+location: Valsayn, Trinidad

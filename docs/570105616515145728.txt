@@ -1,0 +1,7 @@
+570105616515145728
+American
+@AmericanAir it's not only my bag...it's the complete lack of respect when I called. I was hung up on. And it is my daughters bag
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 22:19:05 -0800
+location: nan

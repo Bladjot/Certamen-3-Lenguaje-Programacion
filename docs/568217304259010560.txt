@@ -1,0 +1,7 @@
+568217304259010560
+United
+@united Flight 280
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 17:15:36 -0800
+location: New York City

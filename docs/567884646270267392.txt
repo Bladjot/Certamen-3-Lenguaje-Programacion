@@ -1,0 +1,7 @@
+567884646270267392
+United
+@united Yes, though they have not located the bag yet. It was a lovely flight outside of that.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 19:13:45 -0800
+location: New York, NY

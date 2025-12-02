@@ -1,0 +1,7 @@
+569747533641199617
+US Airways
+@USAirways is the worst airline to ever travel with.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 22:36:12 -0800
+location: Detroit - Hampton U.

@@ -1,0 +1,7 @@
+570215106426114048
+American
+@AmericanAir - 6 months ago best catering out of all domestic airlines. Today. Worst on the planet. And I've flown almost all of them
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 05:34:10 -0800
+location: nan

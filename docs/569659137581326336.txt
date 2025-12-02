@@ -1,0 +1,7 @@
+569659137581326336
+US Airways
+@USAirways hire smarter IT people if your systems keep crashing instead of some of the mooks you man some of these airports with. #goDelta
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 16:44:56 -0800
+location: Does it really matter

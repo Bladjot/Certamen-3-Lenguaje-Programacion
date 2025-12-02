@@ -1,0 +1,7 @@
+567790581901971456
+Southwest
+@SouthwestAir confirmation number for new reservation is FP9M6Y I am traveling with a 3 year old. please email? jennifer.cascino@gmail.com
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 12:59:58 -0800
+location: nan

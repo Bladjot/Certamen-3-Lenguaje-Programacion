@@ -1,0 +1,7 @@
+568284515728302080
+Southwest
+@SouthwestAir I spoke to soon... My bag was lost.. :(
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 21:42:41 -0800
+location: nan

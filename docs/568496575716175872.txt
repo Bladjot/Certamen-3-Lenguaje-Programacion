@@ -1,0 +1,7 @@
+568496575716175872
+United
+@united has it been 4-6hrs yet?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 11:45:20 -0800
+location: nan

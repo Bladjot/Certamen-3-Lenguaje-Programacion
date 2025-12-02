@@ -1,0 +1,7 @@
+570198775203016704
+Southwest
+@SouthwestAir customer service at FLL, BWI,and PIT have been terrible.no one knows where his bags are.his is on a job with no clothes &amp; gear
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 04:29:16 -0800
+location: South Florida

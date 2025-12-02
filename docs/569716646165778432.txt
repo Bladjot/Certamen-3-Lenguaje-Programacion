@@ -1,0 +1,7 @@
+569716646165778432
+US Airways
+@USAirways attendants at the gate. Enjoyed watching the other flight to our destination take off before having a horrible attendant give us
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 20:33:27 -0800
+location: Philadelphia, PA

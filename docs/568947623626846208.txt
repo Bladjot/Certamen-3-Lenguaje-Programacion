@@ -1,0 +1,7 @@
+568947623626846208
+US Airways
+@USAirways @AmericanAir I'm stuck in the airport in fresno trying to beat the storm to pittsburgh, and you guys have offered nothing. HORRID
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 17:37:38 -0800
+location: nan

@@ -1,0 +1,7 @@
+568427942382071810
+Delta
+@JetBlue if there is a "processing error" the  why do you send out full flight tickets and confirmations? #FlySouthwest
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 07:12:37 -0800
+location: nan

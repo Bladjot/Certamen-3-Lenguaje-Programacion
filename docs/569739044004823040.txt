@@ -1,0 +1,7 @@
+569739044004823040
+United
+@united big surprise #nogate waiting for our plane. Same fucken issues everything I fly you. #fail #worstairlineever
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 22:02:27 -0800
+location: Los Angeles

@@ -1,0 +1,7 @@
+569531924219191296
+Delta
+@JetBlue it's been 3 hours, why have you not sent the plane from the hangar for flight 1533 at JFK? This is absolutely ridiculous.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 08:19:26 -0800
+location: New York

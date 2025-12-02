@@ -1,0 +1,7 @@
+569625782181617664
+Delta
+@JetBlue they absolutely guaranteed us we would sit with our kids. Your "terms" response is insulting.  #jetblue
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 14:32:24 -0800
+location: nan

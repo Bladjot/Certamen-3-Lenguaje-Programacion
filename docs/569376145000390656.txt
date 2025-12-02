@@ -1,0 +1,7 @@
+569376145000390656
+United
+@united we have tried to change our flight THREE times on the phone and got disconnected each time.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 22:00:26 -0800
+location: Boston

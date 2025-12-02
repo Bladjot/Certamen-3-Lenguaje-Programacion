@@ -1,0 +1,7 @@
+569355179717369857
+Southwest
+@SouthwestAir weather delays aren't your fault today but getting to hotel with two soaked suitcases and no dry clothes stinks frustrated
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-21 20:37:07 -0800
+location: nan

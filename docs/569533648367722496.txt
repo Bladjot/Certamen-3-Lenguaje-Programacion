@@ -1,0 +1,7 @@
+569533648367722496
+Delta
+@JetBlue unfortunately I was so startled and rushed, I didn't get the name, but will provide a description in my expanded email.  Thank you
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 08:26:17 -0800
+location: Naples, FL, Boston, MA

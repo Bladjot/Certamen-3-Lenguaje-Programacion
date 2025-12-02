@@ -1,0 +1,7 @@
+568613354245210112
+United
+@united I understand why the pilot would get on the plane but why 1st class?  There were 5 empty coach seats near me?  I'm a Premier 1K?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 19:29:22 -0800
+location: Houston, Texas

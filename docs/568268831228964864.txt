@@ -1,0 +1,7 @@
+568268831228964864
+United
+@united I have submitted my complaint. I need to be compensated. How long will this take?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 20:40:21 -0800
+location: CLE

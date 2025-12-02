@@ -1,0 +1,7 @@
+569912092351819778
+United
+@united BUT you have received confirmation via email that you are confirmed and ticketed on this flight.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 09:30:05 -0800
+location: nan

@@ -1,0 +1,7 @@
+568828335922356224
+Southwest
+@SouthwestAir That guy was the flight attendant on my last flight… he was hilarious! ☺
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 09:43:38 -0800
+location: South ~O-H-I-O~ Side

@@ -1,0 +1,7 @@
+568356641877446656
+United
+@united - handed a slip of paper,&amp;said to call 1800#. Have called 2x/day trying to get it sent, still @ layover airport.Have that ref # tho.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 02:29:17 -0800
+location: Germany

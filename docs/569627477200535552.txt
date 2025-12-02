@@ -1,0 +1,7 @@
+569627477200535552
+US Airways
+@USAirways what's the deal with the flight computer network?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:39:08 -0800
+location: nan

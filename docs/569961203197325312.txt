@@ -1,0 +1,7 @@
+569961203197325312
+United
+@united We've had a ton of problems with getting our bags and have been given the run around for a day. Whats up with that?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 12:45:14 -0800
+location: Washington, DC

@@ -1,0 +1,7 @@
+568548629973209089
+Southwest
+@SouthwestAir my Flt was delayed, scheduled to miss my connection, can I get some help? 8HH4P2
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 15:12:11 -0800
+location: Chapel Hill

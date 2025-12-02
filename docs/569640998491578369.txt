@@ -1,0 +1,7 @@
+569640998491578369
+United
+@united you always surprise me with the awfulness of your airline. You guys suck. #worst
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 15:32:52 -0800
+location: Los Angeles

@@ -1,0 +1,7 @@
+569972097453137920
+United
+@united Thank you, ^JH, appreciate the prompt responses--me and other passengers will be doing so.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:28:32 -0800
+location: San Francisco Bay Area

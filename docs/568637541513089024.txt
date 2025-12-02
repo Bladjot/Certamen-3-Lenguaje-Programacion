@@ -1,0 +1,7 @@
+568637541513089024
+United
+@united rebooked 24 hours after original flight, to say your handling of situation was bad would be an understatement.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 21:05:29 -0800
+location: nan

@@ -1,0 +1,7 @@
+567853054348754944
+Delta
+@JetBlue even @Citi responded quicker via Twitter when they #fail.... Still on hold, hoping no one books the flight..... @JetBlue #fail
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 17:08:13 -0800
+location: Greenwich, CT

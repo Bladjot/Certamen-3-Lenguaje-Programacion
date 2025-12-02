@@ -1,0 +1,7 @@
+567980868997763072
+Delta
+@JetBlue to End Partnership with American Express - http://t.co/WhuFmI2Ytd http://t.co/fbTEMFwRsP
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 01:36:06 -0800
+location: USA

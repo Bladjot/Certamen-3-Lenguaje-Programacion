@@ -1,0 +1,7 @@
+570278869133107201
+American
+@AmericanAir my flight 386 to Dallas from Jacksonville fl has been Cancelled Flightled. No one has notified me. What's going on?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 09:47:32 -0800
+location: nan

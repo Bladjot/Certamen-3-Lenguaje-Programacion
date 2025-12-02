@@ -1,0 +1,7 @@
+569926559982751744
+Delta
+“@JetBlue: Our fleet's on fleek. http://t.co/vOUUFRN4jS” YASSS JetBlue ! Tell them !
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:27:35 -0800
+location: 561 ✈️ da globe

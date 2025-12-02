@@ -1,0 +1,7 @@
+568490860901478400
+US Airways
+@USAirways @AmericanAir Will you be destroying lives in Eastern @GastonCounty during this lively little event? For profits you will.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 11:22:37 -0800
+location: Mount Holly, NC, USA

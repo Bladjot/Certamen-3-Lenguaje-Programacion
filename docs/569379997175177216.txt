@@ -1,0 +1,7 @@
+569379997175177216
+US Airways
+@USAirways @nburnside26 Well if you really didn't like them then she would be on an airplane. #FIOUSAirways 💁
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 22:15:44 -0800
+location: nan

@@ -1,0 +1,7 @@
+570270848201797632
+Southwest
+@SouthwestAir Redeem-points packages magically gone by time we finally got through @ 10:01, felt like #baitandswitch
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 09:15:39 -0800
+location: nan

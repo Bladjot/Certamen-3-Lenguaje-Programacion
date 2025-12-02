@@ -1,0 +1,7 @@
+568458185071132672
+Southwest
+@southwestair this inflight WIFI is the absolute worst. I'd be willing to have paid double for dialup speeds...  #Flight7
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 09:12:47 -0800
+location: NM  TX  PA ¯\_(ツ)_/¯

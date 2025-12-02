@@ -1,0 +1,7 @@
+569913796875161600
+American
+@AmericanAir would it be possible to change my flight on your website? Many thanks
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 09:36:52 -0800
+location: Where the wind takes me

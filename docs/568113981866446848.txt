@@ -1,0 +1,7 @@
+568113981866446848
+US Airways
+@USAirways I followed you complaint procedure only to get a run around.  Your service SUCKS #usairwayssuck
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 10:25:02 -0800
+location: nan

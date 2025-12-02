@@ -1,0 +1,7 @@
+568960570486976513
+United
+@united - we're sitting in UA1088 getting delayed because the operations can't find captain. #ridiculous #united
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 18:29:05 -0800
+location: San Diego, CA

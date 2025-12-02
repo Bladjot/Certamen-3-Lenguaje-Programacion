@@ -1,0 +1,7 @@
+570275450200711168
+American
+@AmericanAir When will the old 777-200 fly ORD-PVG get upgraded?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:33:57 -0800
+location: nan

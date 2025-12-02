@@ -1,0 +1,7 @@
+568094681256497152
+Delta
+@JetBlue Third flight in a row for my wife with her TV not working...
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 09:08:21 -0800
+location: nan

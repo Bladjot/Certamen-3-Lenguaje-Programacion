@@ -1,0 +1,7 @@
+569526583473483776
+US Airways
+@USAirways @nburnside26  U hate delays, too?  But u have her $$ &amp; are holding her hostage!  #GoingForGreatnessFAIL
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 07:58:13 -0800
+location: nan

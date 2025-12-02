@@ -1,0 +1,7 @@
+569928989231353857
+Delta
+@JetBlue I love flying with u, but I have a question, why is one of ur planes called ny jets
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:37:14 -0800
+location: south gate, california

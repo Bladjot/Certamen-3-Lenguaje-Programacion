@@ -1,0 +1,7 @@
+569557305961750528
+Southwest
+@SouthwestAir BTW, not a weather delay. We've had beautiful weather in Sunny California. #nolove #noexcuses #cali http://t.co/kumtbgER03
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 10:00:18 -0800
+location: nan

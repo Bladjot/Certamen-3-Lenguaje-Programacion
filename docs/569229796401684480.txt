@@ -1,0 +1,7 @@
+569229796401684480
+United
+@united nope.  no case id either time.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 12:18:53 -0800
+location: midwest and sometimes Spain

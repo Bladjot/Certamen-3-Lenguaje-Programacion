@@ -1,0 +1,7 @@
+568398620686467072
+US Airways
+@USAirways OK she is worried that something is wrong with the flight - #1870 - and should she consider flying earlier
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 05:16:06 -0800
+location: 40.0587, -75.3659

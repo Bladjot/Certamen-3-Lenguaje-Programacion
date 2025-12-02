@@ -1,0 +1,7 @@
+568776831006064640
+US Airways
+@USAirways well we should have been told that before we were sitting on the plane for an hour to have the option of not getting on.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 06:18:58 -0800
+location: On a beach

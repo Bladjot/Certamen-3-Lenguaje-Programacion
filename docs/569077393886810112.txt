@@ -1,0 +1,7 @@
+569077393886810112
+United
+@united typically once you get the problem fixed - then the crew expires - and the delay turns into a Cancelled Flight...
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 02:13:18 -0800
+location: Colorado

@@ -1,0 +1,7 @@
+569685746723848193
+Southwest
+@SouthwestAir I'm flying out of CUN tomorrow To DEN - can I change my flight due to the travel advisory??
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:30:40 -0800
+location: nan

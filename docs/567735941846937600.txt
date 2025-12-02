@@ -1,0 +1,7 @@
+567735941846937600
+Virgin America
+@VirginAmerica still waiting to see  @Starryeyes_Dev_  😞
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:22:51 -0800
+location: Lake Oswego, Oregon

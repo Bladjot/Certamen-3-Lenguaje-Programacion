@@ -1,0 +1,7 @@
+569535962604310529
+US Airways
+@USAirways I packed a carry on for a reason. Thanks for making me check it. I hoped for better customer service in CLE also. #nothappy
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 08:35:29 -0800
+location: SWFL

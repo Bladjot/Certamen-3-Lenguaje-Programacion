@@ -1,0 +1,7 @@
+570205370649604096
+US Airways
+@USAirways 5203 and we're just sitting 20 feet from an open gate
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 04:55:28 -0800
+location: Greenville, SC

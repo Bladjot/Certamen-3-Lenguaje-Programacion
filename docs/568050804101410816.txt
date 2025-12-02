@@ -1,0 +1,7 @@
+568050804101410816
+Southwest
+@SouthwestAir @DeltaPoints hey at least you guys are honest with your customers unlike @Delta
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 06:14:00 -0800
+location: Atlanta, GA USA

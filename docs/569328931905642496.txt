@@ -1,0 +1,7 @@
+569328931905642496
+US Airways
+@USAirways you can send my luggage to my house👋
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 18:52:49 -0800
+location: nan

@@ -1,0 +1,7 @@
+570011216313131008
+American
+@AmericanAir emailed AAdvantage for status match ... still waiting.  Can't wait to move from @united but help me out here :)
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 16:03:58 -0800
+location: california

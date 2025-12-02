@@ -1,0 +1,7 @@
+569644168584105984
+American
+@AmericanAir @sa_craig no gate agent, and only 3 PA updates for 3 hours, hinted at abandonment. horrible experience for all passengers.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 15:45:27 -0800
+location: College Station, TX

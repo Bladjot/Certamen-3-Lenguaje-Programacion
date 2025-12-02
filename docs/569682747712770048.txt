@@ -1,0 +1,7 @@
+569682747712770048
+Southwest
+@SouthwestAir very disappointed in your handling of tonight's Cancelled Flighted Dallas flight.  Not that it was Cancelled Flighted but no contingencies.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 18:18:45 -0800
+location: nan

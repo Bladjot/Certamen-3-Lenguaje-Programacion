@@ -1,0 +1,7 @@
+568552775325364224
+Delta
+@JetBlue Sent an email more than 24 hours ago asking a few questions, still no response. Need answers before (hopefully) Flight Booking Problems flight...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 15:28:39 -0800
+location: nan

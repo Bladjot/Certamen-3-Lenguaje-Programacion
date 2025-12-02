@@ -1,0 +1,7 @@
+569395649310883840
+United
+@united why don't you allow families with small children to board first anymore? Our next flight will be on another airline...
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 23:17:56 -0800
+location: nan

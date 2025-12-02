@@ -1,0 +1,7 @@
+569502050536587264
+Delta
+@JetBlue Its poor Flight management. There is   no reason why a scheduled 8:00  pm  flight to takr off At 11:00pm .
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 06:20:44 -0800
+location: nan

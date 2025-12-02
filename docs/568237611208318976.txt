@@ -1,0 +1,7 @@
+568237611208318976
+United
+@United should find a way to distinguish boarding of premier members and credit card holders. Group 2 is too big!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 18:36:18 -0800
+location: Dallas, TX

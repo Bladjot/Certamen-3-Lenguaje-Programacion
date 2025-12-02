@@ -1,0 +1,7 @@
+569923730614460416
+American
+@AmericanAir 45min wait to get de-iced in Tulsa.Not good service.Looks like everyone will miss connections, not due to weather. Fight is on
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 10:16:20 -0800
+location: nan

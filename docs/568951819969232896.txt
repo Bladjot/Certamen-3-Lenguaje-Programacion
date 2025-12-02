@@ -1,0 +1,7 @@
+568951819969232896
+United
+@united I have a question about my interview process I had only one interview but was the last person is that good or bad
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 17:54:19 -0800
+location: nan

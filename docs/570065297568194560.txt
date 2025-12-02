@@ -1,0 +1,7 @@
+570065297568194560
+Southwest
+@SouthwestAir won't let me send a DM because they don't follow me.. #lovedflyingwiththem #notanymore #wrong #badpolicy
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 19:38:52 -0800
+location: Kansas City MO

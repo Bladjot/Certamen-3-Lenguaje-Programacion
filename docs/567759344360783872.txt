@@ -1,0 +1,7 @@
+567759344360783872
+US Airways
+@USAirways this is the aforementioned pilot. @AmericanAir sure you want to merge with these patron hitting hoodlums? http://t.co/C24cEfa9pl
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 10:55:50 -0800
+location: nan

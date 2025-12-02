@@ -1,0 +1,7 @@
+569662934520999936
+United
+@united might possibly have the worst service on the planet.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:00:02 -0800
+location: Long Island

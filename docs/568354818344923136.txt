@@ -1,0 +1,7 @@
+568354818344923136
+US Airways
+@USAirways if I paid for ticket with advantage world executive card, do I pay baggage fees when flying us airways? Wife traveling now
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 02:22:02 -0800
+location: nan

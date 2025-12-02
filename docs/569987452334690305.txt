@@ -1,0 +1,7 @@
+569987452334690305
+US Airways
+@USAirways @hhagerty that's a lie.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 14:29:33 -0800
+location: South

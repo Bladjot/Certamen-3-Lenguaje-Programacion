@@ -1,0 +1,7 @@
+567999609248858112
+United
+@united Hi, I am flying domestic first from SEA to HNL. Can I pay to use the lounge before I fly or this is just for international? Thanks
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 02:50:34 -0800
+location: Alvechurch, Worcestershire, UK

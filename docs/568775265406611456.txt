@@ -1,0 +1,7 @@
+568775265406611456
+US Airways
+@USAirways we should have been given the option to get off the plane not sit on it for a time longer than our actually flight.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 06:12:45 -0800
+location: On a beach

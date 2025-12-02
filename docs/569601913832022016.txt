@@ -1,0 +1,7 @@
+569601913832022016
+US Airways
+@USAirways Ill never fly you again due to the emotional &amp; financial stress you have caused me because of one of your staff members errors.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 12:57:33 -0800
+location: nan

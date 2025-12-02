@@ -1,0 +1,7 @@
+569588464896876545
+American
+@AmericanAir thx for nothing on getting us out of the country and back to US. Broken plane? Come on. Get another one.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 12:04:07 -0800
+location: US

@@ -1,0 +1,7 @@
+568152968257613824
+United
+@united thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 12:59:58 -0800
+location: San Francisco

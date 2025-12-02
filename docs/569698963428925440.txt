@@ -1,0 +1,7 @@
+569698963428925440
+American
+@AmericanAir you have let me down. Seriously. #unhappycustomer
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 19:23:12 -0800
+location: New York City

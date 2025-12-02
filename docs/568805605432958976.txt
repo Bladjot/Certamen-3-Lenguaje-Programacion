@@ -1,0 +1,7 @@
+568805605432958976
+US Airways
+@USAirways get ur act together, start treating ur passengers w/ kinder, have more sanitized planes. Take a page from @Delta perhaps.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 08:13:18 -0800
+location: New York, New York

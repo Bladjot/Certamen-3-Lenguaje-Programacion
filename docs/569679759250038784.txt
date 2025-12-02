@@ -1,0 +1,7 @@
+569679759250038784
+American
+@AmericanAir what happened?? We didn't get a notification about a departure Cancelled Flightation tomorrow. Why will it take 2 hrs to talk to someone
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:06:53 -0800
+location: New Orleans, La

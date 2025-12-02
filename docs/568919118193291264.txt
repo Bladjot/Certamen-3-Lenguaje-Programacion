@@ -1,0 +1,7 @@
+568919118193291264
+Delta
+.@JetBlue yes and not boarding at 6:44. Good luck with that. Push wheels up to reality.  Dare you.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 15:44:22 -0800
+location: planet earth

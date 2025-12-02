@@ -1,0 +1,7 @@
+570298036938772483
+US Airways
+@USAirways Why haven't you issued a travel advisory for Charlotte Wednesday night and Thursday? 4-6 inches of snow.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 11:03:42 -0800
+location: nan

@@ -1,0 +1,7 @@
+569971542538346496
+US Airways
+@USAirways the exhaustion of traveling n runnin thru the airport and tryin 2rent a car n not killin myself my family or anybody on the road
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 13:26:19 -0800
+location: Does it really matter

@@ -1,0 +1,7 @@
+569344914485583872
+Delta
+@JetBlue I will when I land.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 19:56:20 -0800
+location: nan

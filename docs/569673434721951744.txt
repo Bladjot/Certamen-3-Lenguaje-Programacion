@@ -1,0 +1,7 @@
+569673434721951744
+American
+@AmericanAir you changed my AAdvantage travel plans &amp; I called 800-433-7300 to get help but it sea ur too busy &amp; hangs up on me. What gives?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:41:45 -0800
+location: Bay Area

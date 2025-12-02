@@ -1,0 +1,7 @@
+569802396328534016
+American
+@AmericanAir are you ignoring me on purpose? It was sad enough having your automated system hang up on me 😭
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 02:14:12 -0800
+location: San Diego

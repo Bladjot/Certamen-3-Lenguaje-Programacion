@@ -1,0 +1,7 @@
+568812129308053504
+United
+@united not anymore.  Finally was ticketed 5 min before takeoff.  Not sure why the confusion with a full-fare GSA ticket.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-20 08:39:14 -0800
+location: Manassas VA

@@ -1,0 +1,7 @@
+568159336104636417
+Delta
+@JetBlue Aw okay thanks
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 13:25:16 -0800
+location: Atlantic City

@@ -1,0 +1,7 @@
+569886288691773440
+United
+@united There is no "reference number." Your agent told me to "just drive to the airport" because "I can't reach anyone there to deliver..."
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:47:33 -0800
+location: Coventry, Connecticut

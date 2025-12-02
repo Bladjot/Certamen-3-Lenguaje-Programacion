@@ -1,0 +1,7 @@
+569698217614544897
+American
+@AmericanAir at some point u need to tell passengers what is going on. At Jfk waiting to get on flight it is a mess.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 19:20:14 -0800
+location: nan

@@ -1,0 +1,7 @@
+568095863731433473
+US Airways
+@USAirways thanks for seating me next to 2 hot athletes. This flight is significantly better now!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 09:13:03 -0800
+location: Wonderland

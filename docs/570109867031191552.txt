@@ -1,0 +1,7 @@
+570109867031191552
+American
+@AmericanAir I DM'd you
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 22:35:59 -0800
+location: N to da Y to da C

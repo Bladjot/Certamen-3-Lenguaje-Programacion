@@ -1,0 +1,7 @@
+570057521353764864
+United
+@united updated A320 aircraft has wifi and device entertainment but no outlets. I don't get it. How can I charge devices?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 19:07:58 -0800
+location: nan

@@ -1,0 +1,7 @@
+569528105557053442
+US Airways
+@USAirways @msscottwg  "That's unusual" means we screwed up but will never admit to it!  #GoingForGreatnessFAIL
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 08:04:16 -0800
+location: nan

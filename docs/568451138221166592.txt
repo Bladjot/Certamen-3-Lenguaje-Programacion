@@ -1,0 +1,7 @@
+568451138221166592
+US Airways
+@USAirways got rebooked. Sent to A9. Wrong gate! Traveled back to B13 for correct flight. #tired&amp;frustrated
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 08:44:47 -0800
+location: nan

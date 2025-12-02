@@ -1,0 +1,7 @@
+570021054015541248
+American
+@AmericanAir No. It does. You could not be more wrong. http://t.co/66NXZhBbMT
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 16:43:04 -0800
+location: Las Vegas, NV

@@ -1,0 +1,7 @@
+570092741654401024
+United
+@united at its worse. Can't figure how to pack plane, screws up connectns then claims no hotl rooms in San Fran for stranded pax. Way to go!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 21:27:56 -0800
+location: nan

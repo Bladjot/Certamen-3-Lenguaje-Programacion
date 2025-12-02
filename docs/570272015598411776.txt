@@ -1,0 +1,7 @@
+570272015598411776
+Southwest
+You have to follow me back so that I can DM @SouthwestAir
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:20:18 -0800
+location: Raleigh, NC

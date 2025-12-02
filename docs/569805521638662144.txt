@@ -1,0 +1,7 @@
+569805521638662144
+American
+@AmericanAir been on hold for for over two hours. After waiting 2 hours earlier. Can't get any info on my reservation. How is that ok?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 02:26:37 -0800
+location: nan

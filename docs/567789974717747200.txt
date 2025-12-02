@@ -1,0 +1,7 @@
+567789974717747200
+United
+@united you'd learn if you listen to your customers...you do want you want...@VirginAmerica asks their customer what they want
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 12:57:33 -0800
+location: Brentwood, CA

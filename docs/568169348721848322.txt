@@ -1,0 +1,7 @@
+568169348721848322
+Delta
+@JetBlue Says #Lufthansa Incentive Offer To Have No Impact On Share Count - Nasdaq http://t.co/VU7XSWJKiY
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 14:05:03 -0800
+location: USA

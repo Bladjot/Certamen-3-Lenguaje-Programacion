@@ -1,0 +1,7 @@
+570012421345005568
+US Airways
+@USAirways @AmericanAir explain how come I can get a free upgrade on US as an exe plat but not exit row seating w/out paying. confused
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 16:08:46 -0800
+location: nan

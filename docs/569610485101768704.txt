@@ -1,0 +1,7 @@
+569610485101768704
+American
+“@AmericanAir: @RussellsWriting Russ, please contact Reservations at 800-433-7300 for reFlight Booking Problems options.” Good luck with that!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 13:31:37 -0800
+location: Dallas, TX

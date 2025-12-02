@@ -1,0 +1,7 @@
+568491813528576000
+US Airways
+@USAirways Still irritated that our well planned and booked return was messed with &amp; with no warning.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 11:26:25 -0800
+location: nan

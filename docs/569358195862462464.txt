@@ -1,0 +1,7 @@
+569358195862462464
+Southwest
+@SouthwestAir been holding for 1 hour and 10 minutes. To rebook Cancelled Flightlation.You guys need more help!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 20:49:06 -0800
+location: nan

@@ -1,0 +1,7 @@
+570275632518733825
+American
+@AmericanAir my key point of confusion is whether I can make this change even though the initial Flight Booking Problems was on US Airways metal?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:34:40 -0800
+location: Wellesley, MA

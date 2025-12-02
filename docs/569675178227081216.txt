@@ -1,0 +1,7 @@
+569675178227081216
+American
+@AmericanAir AA 2258 why have you Cancelled Flightled our flight without courtesy of notifying us or alternatives?  Very poor.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 17:48:41 -0800
+location: nan

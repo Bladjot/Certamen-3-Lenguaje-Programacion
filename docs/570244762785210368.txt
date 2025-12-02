@@ -1,0 +1,7 @@
+570244762785210368
+Southwest
+@SouthwestAir Why, when I booked via phone after calling the A List preferred #, didn't my KTA get added to the ticket??? Must I use web?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 07:32:00 -0800
+location: nan

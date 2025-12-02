@@ -1,0 +1,7 @@
+568104424029036545
+Southwest
+@SouthwestAir I'm really craving your pretzels, please send me some.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 09:47:04 -0800
+location: Brawley

@@ -1,0 +1,7 @@
+568595828232863745
+United
+@united you know it's bad when you're praying your connecting flight is delayed because of an hour delay on the first flight #JustGetMeHome
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 18:19:44 -0800
+location: nan

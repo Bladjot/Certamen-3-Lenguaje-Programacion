@@ -1,0 +1,7 @@
+569628145030004736
+US Airways
+@USAirways why the hell will you not put us in a hotel when you've stranded us. Your message says mechanical issues not weather. #usairways
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 14:41:47 -0800
+location: Charleston, SC

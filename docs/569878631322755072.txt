@@ -1,0 +1,7 @@
+569878631322755072
+American
+@AmericanAir they sent her a letter and said they would talk to the stewardess about serving drunks drinks how does that help
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 07:17:08 -0800
+location: Belle MO

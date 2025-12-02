@@ -1,0 +1,7 @@
+569770321563279360
+American
+@AmericanAir still waiting on a dm response..... #sloooowresponses
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 00:06:45 -0800
+location: nan

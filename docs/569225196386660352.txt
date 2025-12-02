@@ -1,0 +1,7 @@
+569225196386660352
+Southwest
+@SouthwestAir my wife is trying to get a group of clients to their destination and just got disconnected after2 hours holding. Help.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 12:00:37 -0800
+location: nan

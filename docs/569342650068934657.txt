@@ -1,0 +1,7 @@
+569342650068934657
+Southwest
+@SouthwestAir  Flight today from PHL to DAL Cancelled Flightled. 96 min on hold, rebooked for tomorrow. Now that flight is Cancelled Flightled.  On hold again.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 19:47:20 -0800
+location: nan

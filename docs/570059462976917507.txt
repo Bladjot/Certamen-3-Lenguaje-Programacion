@@ -1,0 +1,7 @@
+570059462976917507
+Delta
+@JetBlue DONT LOSE MY LUGGAGE!!!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 19:15:41 -0800
+location: Portland, Maine

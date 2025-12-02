@@ -1,0 +1,7 @@
+570122183072092160
+American
+@AmericanAir what kind if airlines do you guys run? The people that got in line first received hotel vouchers? Terrible customer service!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 23:24:55 -0800
+location: nan

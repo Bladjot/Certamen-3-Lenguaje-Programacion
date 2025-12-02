@@ -1,0 +1,7 @@
+569926859699437568
+American
+@AmericanAir got it, so it's just paying extra not to sit in the way back. Awesome. Never again.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:28:46 -0800
+location: milford.

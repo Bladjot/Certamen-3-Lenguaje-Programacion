@@ -1,0 +1,7 @@
+569353454914662400
+US Airways
+@USAirways been sitting on the tarmac for 90 mins now bc engine is broken. How are u going to compensate passengers #WorstAirline
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 20:30:16 -0800
+location: 39.0708° N, 106.9886° W

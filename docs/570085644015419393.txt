@@ -1,0 +1,7 @@
+570085644015419393
+US Airways
+@USAirways  A few years ago I lost over 50,000 miles bc I was physically unable to fly during the period.  I submitted a doctor's note.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 20:59:43 -0800
+location: nan

@@ -1,0 +1,7 @@
+569991606385967107
+United
+@united yes lots. You have terrible customer service at Newark and despite raising a complaint there we were ignored hence the tweet
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:46:03 -0800
+location: nan

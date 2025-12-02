@@ -1,0 +1,7 @@
+569664261678600192
+American
+@AmericanAir you wont allow calls? My husband has a ticket but it looks like all the seats are taken? I cant even call.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:05:18 -0800
+location: Philadelphia

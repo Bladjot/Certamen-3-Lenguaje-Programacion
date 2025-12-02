@@ -1,0 +1,7 @@
+569666771717890048
+United
+@united strikes again! Why board anyone if there's something wrong with the plane? Common sense.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 17:15:16 -0800
+location: Home

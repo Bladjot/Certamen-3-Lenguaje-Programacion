@@ -1,0 +1,7 @@
+568433145437138944
+Delta
+@JetBlue rather than trying to resolve customer issues, only options offered were paying cash @ airport or write letter. #JustifyThisSupport
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 07:33:17 -0800
+location: Washington, DC

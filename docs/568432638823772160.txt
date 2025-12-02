@@ -1,0 +1,7 @@
+568432638823772160
+Southwest
+@SouthwestAir great. My flight is delayed three hours. Now my friend has to wait for me at the airport for hours on her birthday. 😒👎
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 07:31:16 -0800
+location: Los Angeles

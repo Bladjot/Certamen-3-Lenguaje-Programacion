@@ -1,0 +1,7 @@
+569525452081111041
+Delta
+@JetBlue how can your entire system go down? No IT? Really?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:53:43 -0800
+location: nan

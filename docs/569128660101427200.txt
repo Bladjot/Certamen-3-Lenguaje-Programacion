@@ -1,0 +1,7 @@
+569128660101427200
+US Airways
+@USAirways we're glad to hear it. Out of curiosity, what causes such flight patterns?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 05:37:01 -0800
+location: Nürnberg, Germany

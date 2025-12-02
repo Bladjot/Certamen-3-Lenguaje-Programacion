@@ -1,0 +1,7 @@
+569673939183493120
+United
+@United Wanted to compliment ur phone agent Jeanette for reFlight Booking Problems RDU to SEA thru SFO after connecting flight thru EWR was Cancelled Flightled.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:43:45 -0800
+location: Chapel Hill, NC

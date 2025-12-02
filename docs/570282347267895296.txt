@@ -1,0 +1,7 @@
+570282347267895296
+Southwest
+@SouthwestAir I'm so upset that my luggage was damaged and the rude employee at the Laguardia airport didn't help!
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-24 10:01:21 -0800
+location: nan

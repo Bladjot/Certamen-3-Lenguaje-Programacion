@@ -1,0 +1,7 @@
+568976619089620992
+United
+@united I'm try to upgrade my seats to first class but the wait time on the phone is 40 minutes... can you help?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 19:32:51 -0800
+location: O H I O

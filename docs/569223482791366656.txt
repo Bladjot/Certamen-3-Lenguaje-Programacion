@@ -1,0 +1,7 @@
+569223482791366656
+US Airways
+@USAirways Hold time to book award travel from Gold status: 4 HOURS and counting!!!! + 4 days of calling #usairwaysfail @AmericanAir
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 11:53:48 -0800
+location: dc

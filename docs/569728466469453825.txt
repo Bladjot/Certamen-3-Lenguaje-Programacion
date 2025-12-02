@@ -1,0 +1,7 @@
+569728466469453825
+American
+@AmericanAir that's interesting-Agent told me so. Sadly, another booked passenger didn't make it to gate by push back so I made it on.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 21:20:26 -0800
+location: Birmingham, AL

@@ -1,0 +1,7 @@
+568234955672694784
+United
+@united. Worst flying experiences ever the past three days. Your airline needs to get it together. Lost a customer with me
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 18:25:45 -0800
+location: Chicago, IL

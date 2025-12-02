@@ -1,0 +1,7 @@
+570299331707854848
+Southwest
+@SouthwestAir can you update me on the emergency landing in Jacksonville right now? #parentsonboard
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:08:50 -0800
+location: nan

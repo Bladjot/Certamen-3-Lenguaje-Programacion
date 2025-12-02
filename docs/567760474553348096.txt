@@ -1,0 +1,7 @@
+567760474553348096
+US Airways
+@USAirways Haha - that will indeed be a great day!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 11:00:20 -0800
+location: Washington, DC

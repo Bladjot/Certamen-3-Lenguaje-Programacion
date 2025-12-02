@@ -1,0 +1,7 @@
+569351618522705920
+Southwest
+@SouthwestAir thanks for getting me home from Denver tonight despite the snow!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 20:22:58 -0800
+location: Nashville, tn

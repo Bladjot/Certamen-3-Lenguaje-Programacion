@@ -1,0 +1,7 @@
+568627064062009344
+US Airways
+@USAirways please explain, I have plenty of time since I'm STRANDED!!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 20:23:51 -0800
+location: nan

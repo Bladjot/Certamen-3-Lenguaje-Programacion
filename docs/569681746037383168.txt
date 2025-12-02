@@ -1,0 +1,7 @@
+569681746037383168
+United
+@united we still need help. Hung up on twice. Customer service rep said there is no way to help between the gate rep and phone rep.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:14:47 -0800
+location: Michigan

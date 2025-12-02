@@ -1,0 +1,7 @@
+570237453229019137
+US Airways
+@USAirways been on hold for 2 hours for something which I could have done in less than 1 minute if it was available.Your site UX is awe full
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 07:02:58 -0800
+location: USA

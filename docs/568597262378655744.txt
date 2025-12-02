@@ -1,0 +1,7 @@
+568597262378655744
+United
+@united waiting on plane so long missed my connecting flight it left early. That's the last flight out tonight. HELP http://t.co/hBsJ2sF17h
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 18:25:26 -0800
+location: nan

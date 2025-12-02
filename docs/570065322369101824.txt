@@ -1,0 +1,7 @@
+570065322369101824
+American
+@AmericanAir Pay for my accommodations when you are the ones Cancelled Flightling it for no reason and I know your saying (lying) it cause of weather
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 19:38:58 -0800
+location: Belleville

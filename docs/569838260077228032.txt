@@ -1,0 +1,7 @@
+569838260077228032
+United
+@united Another awful experience and Victoria at the check in desk in STL could not have been more rude and condescending.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 04:36:42 -0800
+location: St. Louis, MO

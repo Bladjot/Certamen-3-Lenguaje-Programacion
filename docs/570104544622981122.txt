@@ -1,0 +1,7 @@
+570104544622981122
+US Airways
+@USAirways - thanks however I feel like the system has failed me -- what is the solution?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 22:14:50 -0800
+location: nan

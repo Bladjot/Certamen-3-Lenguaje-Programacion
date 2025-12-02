@@ -1,0 +1,7 @@
+569920090440916994
+Delta
+@JetBlue The chairs could use some TLC. And more power outlets in the area would be a bonus. Headed to @UniversalORL !
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:01:52 -0800
+location: Burlington, Vermont

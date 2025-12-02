@@ -1,0 +1,7 @@
+569884407852437504
+Virgin America
+@VirginAmerica your site is tripping. I'm trying to check in and I'm getting the plain text version. I am reluctant to enter any card info.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 07:40:05 -0800
+location: nan

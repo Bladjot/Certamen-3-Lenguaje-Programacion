@@ -1,0 +1,7 @@
+569514750842789888
+United
+@united the long wait was the icing on the cake. Why don't you fix your reservation system so the confirm # doesn't get changed mid-travel
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 07:11:12 -0800
+location: Fredericksburg, VA

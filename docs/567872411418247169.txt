@@ -1,0 +1,7 @@
+567872411418247169
+Southwest
+@SouthwestAir no self help way to put in tsa pre check number for existing reservation. Very annoying. 800 is not reachable.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 18:25:08 -0800
+location: nan

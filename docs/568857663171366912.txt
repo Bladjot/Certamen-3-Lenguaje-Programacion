@@ -1,0 +1,7 @@
+568857663171366912
+US Airways
+@USAirways Merging AA and DividendMiles yield an error. What are the _exact_ steps to navigate the phone menu? All I get is a computer.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 11:40:10 -0800
+location: nan

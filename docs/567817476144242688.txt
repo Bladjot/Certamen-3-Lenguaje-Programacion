@@ -1,0 +1,7 @@
+567817476144242688
+Delta
+@JetBlue     Is it only $50 for my 2nd bag?  1st bag too full..
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:46:50 -0800
+location: plymouth

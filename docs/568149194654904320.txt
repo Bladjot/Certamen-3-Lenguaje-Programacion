@@ -1,0 +1,7 @@
+568149194654904320
+Southwest
+@SouthwestAir love..luv the addition of the passbook option.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 12:44:58 -0800
+location: Rockwall, TX USA

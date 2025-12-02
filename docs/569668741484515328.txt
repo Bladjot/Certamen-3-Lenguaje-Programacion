@@ -1,0 +1,7 @@
+569668741484515328
+United
+@united, any options to cos tonight? Doesn't look like #UA5525 will make it in time for #UA6259. Should I reserve a hotel room?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:23:06 -0800
+location: CO Springs, Occupied Colorado

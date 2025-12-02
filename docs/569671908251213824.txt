@@ -1,0 +1,7 @@
+569671908251213824
+Southwest
+@SouthwestAir companion pass please!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:35:41 -0800
+location: Ferndale, MI

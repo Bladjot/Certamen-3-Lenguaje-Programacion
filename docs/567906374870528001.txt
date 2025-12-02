@@ -1,0 +1,7 @@
+567906374870528001
+Delta
+@JetBlue it's been a while since I've angry tweeted an airline. Apparently you read my mind before I could bitch. Thank you for the credit.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 20:40:05 -0800
+location: Brooklyn, NY

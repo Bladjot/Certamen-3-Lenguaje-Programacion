@@ -1,0 +1,7 @@
+569734884396302338
+US Airways
+@USAirways #usairways lost a passenger today for not upholding their promise of excellent customer service!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 21:45:56 -0800
+location: ImInMiamiBitch

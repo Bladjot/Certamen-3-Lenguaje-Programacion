@@ -1,0 +1,7 @@
+570208313163550721
+US Airways
+@USAirways They're also saying the CLT flights are delayed but you're not showing it in your system which makes it impossible to figure out
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 05:07:10 -0800
+location: Greenville, SC

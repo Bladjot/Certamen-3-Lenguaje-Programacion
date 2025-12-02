@@ -1,0 +1,7 @@
+569499434633048065
+United
+@united - you rebooked me to UA1764 after UA 3883 was Cancelled Flightled. I paid for first class ticket - but new seat is 38E. Can you please fix!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 06:10:20 -0800
+location: New York City

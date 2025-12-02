@@ -1,0 +1,7 @@
+569675668524441600
+Southwest
+@SouthwestAir want go from New Orleans houston see my dad at md anderson can you help me out
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:50:38 -0800
+location: Colyell, Louisiana

@@ -1,0 +1,7 @@
+569984653920210944
+Delta
+@JetBlue everyone is overreacting. Keep up your swag!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:18:25 -0800
+location: nan

@@ -1,0 +1,7 @@
+569964627305603073
+US Airways
+@USAirways sorry I didn't realize I wasn't following you
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:58:51 -0800
+location: nan

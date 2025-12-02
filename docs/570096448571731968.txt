@@ -1,0 +1,7 @@
+570096448571731968
+United
+@united Thanks; might want to fix this line: "Our Customer Care team is currently responding to most inquiries within 7-10 business days."
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 21:42:39 -0800
+location: Chicago / Orlando / airplanes

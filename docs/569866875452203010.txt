@@ -1,0 +1,7 @@
+569866875452203010
+US Airways
+@USAirways Decided to be a good sport and give you guys another shot. Flight delayed. Again.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 06:30:25 -0800
+location: Boston, MA

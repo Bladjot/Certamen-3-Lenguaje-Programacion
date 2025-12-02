@@ -1,0 +1,7 @@
+570237269753376768
+American
+@AmericanAir Connection is US2065
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 07:02:14 -0800
+location: nan

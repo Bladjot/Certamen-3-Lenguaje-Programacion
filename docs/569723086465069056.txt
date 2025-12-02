@@ -1,0 +1,7 @@
+569723086465069056
+Delta
+@JetBlue other jfk to Boston flights went off with some delay but not this.  #epicfail
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 20:59:03 -0800
+location: nan

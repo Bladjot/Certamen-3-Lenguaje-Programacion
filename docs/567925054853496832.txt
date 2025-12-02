@@ -1,0 +1,7 @@
+567925054853496832
+United
+@united I am flying from msp to dxb, my child will turn 2 during the trip do I have to buy a return ticket for my child?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 21:54:19 -0800
+location: nan

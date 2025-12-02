@@ -1,0 +1,7 @@
+569940980809342976
+American
+@AmericanAir On hold since 5am. When no one can get to the airport, Cancelled Flight flight, don't make us pay huge fee to change flight.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 11:24:53 -0800
+location: Seattle, WA

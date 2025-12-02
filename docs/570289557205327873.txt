@@ -1,0 +1,7 @@
+570289557205327873
+United
+@united why no preferred security line anymore. My TSA pre-check didn't pull on my @SilverAirways partner flight! #Platinum #spoiled
+sentiment: negative
+negativereason: longlines
+created: 2015-02-24 10:30:00 -0800
+location: Tampa

@@ -1,0 +1,7 @@
+569658168097292288
+US Airways
+@USAirways you guys have to be the worst. We are flying into Philadelphia and have only two jetways available for an on time plane.#pisspoor
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 16:41:05 -0800
+location: Does it really matter

@@ -1,0 +1,7 @@
+567876794788872192
+United
+@united 618 was flight out of Houston
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 18:42:33 -0800
+location: Irvine

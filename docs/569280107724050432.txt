@@ -1,0 +1,7 @@
+569280107724050432
+Delta
+@JetBlue If this is customer service, then please call me.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 15:38:49 -0800
+location: nan

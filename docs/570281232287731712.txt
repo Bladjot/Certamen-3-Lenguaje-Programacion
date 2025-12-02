@@ -1,0 +1,7 @@
+570281232287731712
+US Airways
+@USAirways 44 minutes on hold so far. And still haven't spoke to a human. Never using you again.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 09:56:55 -0800
+location: nan

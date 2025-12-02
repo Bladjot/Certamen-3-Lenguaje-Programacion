@@ -1,0 +1,7 @@
+568975398236659712
+United
+@united when a 2 hour flight turns into a 3:30 ordeal...sigh
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 19:28:00 -0800
+location: With Carmen SanDiego.

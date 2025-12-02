@@ -1,0 +1,7 @@
+568095440517754881
+Virgin America
+@VirginAmerica , am I dreaming? Did you really just open up a route between Dallas and Austin?! And does this mean Houston might be next?
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 09:11:22 -0800
+location: Annapolis, Maryland

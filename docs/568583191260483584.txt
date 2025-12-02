@@ -1,0 +1,7 @@
+568583191260483584
+US Airways
+@USAirways I already did. My question is, why does it still say in progress on @AskPayPal? It's been 6 days.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 17:29:31 -0800
+location: On my phone, USA

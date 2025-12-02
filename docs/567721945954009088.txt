@@ -1,0 +1,7 @@
+567721945954009088
+US Airways
+. @USAirways It's been Cancelled Flighted. Your SM response is slow.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 08:27:14 -0800
+location: Downers Grove

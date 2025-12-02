@@ -1,0 +1,7 @@
+568117268254568448
+US Airways
+@USAirways Is it possible to earn Dividend Miles for a passenger that is not me, even if I am purchasing the tickets?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 10:38:06 -0800
+location: Phoenix, AZ

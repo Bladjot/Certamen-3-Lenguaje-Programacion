@@ -1,0 +1,7 @@
+568284092707401728
+Southwest
+@SouthwestAir @flightspots about time! #mobileboarding is a must!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 21:41:00 -0800
+location: Little Rock, AR

@@ -1,0 +1,7 @@
+569627346166284288
+US Airways
+@USAirways does anyone actually work at the dividend miles department? http://t.co/BgtJFmnEOT
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:38:37 -0800
+location: nan

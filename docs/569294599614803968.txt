@@ -1,0 +1,7 @@
+569294599614803968
+US Airways
+@USAirways hell is terrible gate agents. And a three hour wait at the gate.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-21 16:36:24 -0800
+location: New York

@@ -1,0 +1,7 @@
+568855357923074049
+Southwest
+@southwestair How can I refer a friend for the Southwest Credit card for points?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 11:31:00 -0800
+location: Milwaukee, WI

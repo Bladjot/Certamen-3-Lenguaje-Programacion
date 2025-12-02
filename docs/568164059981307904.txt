@@ -1,0 +1,7 @@
+568164059981307904
+Southwest
+@SouthwestAir - I just had a great experience with your customer service team. Thank you! #LuvSW A-list
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 13:44:02 -0800
+location: Colorado

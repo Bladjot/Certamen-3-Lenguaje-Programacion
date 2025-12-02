@@ -1,0 +1,7 @@
+569669059941261312
+Delta
+@JetBlue oh right! Me and hundred people arrived back to the same gate we left minutes ago in SDQ http://t.co/7gB0hgW51t
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 17:24:22 -0800
+location: ÜT: 18.463449,-70.003608

@@ -1,0 +1,7 @@
+569253414971899905
+United
+@united. Please get me an economy plus seat. Awful day of 2 Cancelled Flighted flights, after lots of planning.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 13:52:45 -0800
+location: nan

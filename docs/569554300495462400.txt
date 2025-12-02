@@ -1,0 +1,7 @@
+569554300495462400
+Delta
+@JetBlue Flight 136 departed Phoenix at 1:30 am
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 09:48:21 -0800
+location: Long Island - Arizona

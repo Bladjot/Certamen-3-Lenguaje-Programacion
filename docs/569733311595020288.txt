@@ -1,0 +1,7 @@
+569733311595020288
+Southwest
+@SouthwestAir I am in, let's do this!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 21:39:41 -0800
+location: Atlanta, GA

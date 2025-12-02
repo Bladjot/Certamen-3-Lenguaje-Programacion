@@ -1,0 +1,7 @@
+569366479008862208
+Delta
+@JetBlue @dgruber1700  oh wow and I'm complaining about two hour on the run way shucks JetBlue NOT GOOD your service was better than this
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 21:22:01 -0800
+location: BB PIN:28AF78F4

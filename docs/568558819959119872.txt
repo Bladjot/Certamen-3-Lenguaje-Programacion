@@ -1,0 +1,7 @@
+568558819959119872
+Southwest
+@SouthwestAir Roger wilco.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 15:52:40 -0800
+location: Lincoln, RI

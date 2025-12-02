@@ -1,0 +1,7 @@
+569989661713666049
+United
+@united but if i tweet the ID number, won't that reveal my home address to anyone on the web?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 14:38:19 -0800
+location: Washington, DC

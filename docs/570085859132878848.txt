@@ -1,0 +1,7 @@
+570085859132878848
+American
+@AmericanAir So break whatever you want, take no responsibility..Too bad for customer? #media #filmcrew @chicagotribune @WSJ #nytimes @CNN
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 21:00:35 -0800
+location: Orlando, FL

@@ -1,0 +1,7 @@
+568045766280933377
+Delta
+Thanks @JetBlue. Next up we will see how the slog from JFK to the city goes!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 05:53:59 -0800
+location: planet earth

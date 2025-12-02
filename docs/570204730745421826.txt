@@ -1,0 +1,7 @@
+570204730745421826
+United
+@united are the ones who make it difficult for me.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 04:52:56 -0800
+location: Seattle

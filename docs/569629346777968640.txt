@@ -1,0 +1,7 @@
+569629346777968640
+US Airways
+@USAirways 5 hours on the phone waiting for a call back to find my luggage #shameonyou
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:46:34 -0800
+location: nan

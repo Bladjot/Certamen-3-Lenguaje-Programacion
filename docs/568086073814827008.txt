@@ -1,0 +1,7 @@
+568086073814827008
+Southwest
+@SouthwestAir it would be nice if I could talk to an agent rather than get caught up w/ a promotion &amp; then be hung up on
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 08:34:09 -0800
+location: CA

@@ -1,0 +1,7 @@
+569881453842042880
+American
+@AmericanAir I did set up notifications through AA &amp; Us airways. still nothing
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:28:21 -0800
+location: BK

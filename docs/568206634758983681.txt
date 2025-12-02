@@ -1,0 +1,7 @@
+568206634758983681
+Delta
+@JetBlue u suck Big Donkey Balls!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 16:33:13 -0800
+location: Dominican Republic

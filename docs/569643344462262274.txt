@@ -1,0 +1,7 @@
+569643344462262274
+American
+#nothelpful MT @AmericanAir: Our call volume is extremely high today. Our apologies. Please continue contacting Reservations for assistance.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:42:11 -0800
+location: Cathedral Heights

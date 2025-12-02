@@ -1,0 +1,7 @@
+570064554232688640
+American
+@AmericanAir This is getting a bit ridiculous when and you have made me miss 2 full days off work and had to pay for cabs back and forth
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 19:35:55 -0800
+location: Belleville

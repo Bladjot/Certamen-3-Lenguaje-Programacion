@@ -1,0 +1,7 @@
+569228870177591298
+Southwest
+@SouthwestAir Sure was,  with @Delta  looks like I'll make my birthday celebration after all.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 12:15:13 -0800
+location: Branson, MO

@@ -1,0 +1,7 @@
+569947699471974400
+Delta
+I hate you all. RT @JetBlue: Our fleet's on fleek. http://t.co/uTdfqF5WPA
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 11:51:35 -0800
+location: nan

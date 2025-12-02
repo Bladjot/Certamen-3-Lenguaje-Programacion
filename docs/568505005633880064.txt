@@ -1,0 +1,7 @@
+568505005633880064
+US Airways
+@USAirways how are you guys losing luggage when it was suppose to be on the same flight I was on. Highly disappointed no meds no clothes :(
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 12:18:50 -0800
+location: nan

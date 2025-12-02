@@ -1,0 +1,7 @@
+569992234801737728
+US Airways
+@USAirways why is it impossible to change / buy preferred seats via your app?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 14:48:33 -0800
+location: nan

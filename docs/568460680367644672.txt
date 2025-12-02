@@ -1,0 +1,7 @@
+568460680367644672
+United
+@united airlines delayed our flight on the way to Chicago and leaving Chicago. Next time @Delta it is.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 09:22:42 -0800
+location: nan

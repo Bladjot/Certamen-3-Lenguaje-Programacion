@@ -1,0 +1,7 @@
+569135148660342784
+US Airways
+@USAirways I fucking hate your customer service. I've been on hold all morning trying to figure out why you Cancelled Flighted my flight.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 06:02:48 -0800
+location: NYC

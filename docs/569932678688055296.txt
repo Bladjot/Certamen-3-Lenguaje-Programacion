@@ -1,0 +1,7 @@
+569932678688055296
+Delta
+can you not? RT @JetBlue Our fleet's on fleek. http://t.co/413GiAL0yl
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 10:51:54 -0800
+location: Raleigh, NC

@@ -1,0 +1,7 @@
+567876290524495872
+Southwest
+@SouthwestAir you're 4/4 on blowing it with your customer service. Shotwest Airlines.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 18:40:32 -0800
+location: Rogue, USA

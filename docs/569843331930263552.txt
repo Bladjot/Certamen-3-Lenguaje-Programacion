@@ -1,0 +1,7 @@
+569843331930263552
+American
+@AmericanAir trying to get thru to agent since last night b/c AA changed our flight to 2 days from now. Infuriating! We need to get to SEA!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 04:56:52 -0800
+location: Bellevue, WA

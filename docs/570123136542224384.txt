@@ -1,0 +1,7 @@
+570123136542224384
+American
+@AmericanAir will do. I also passed the website around to other passengers.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 23:28:42 -0800
+location: Moore, OK & Woodway, TX

@@ -1,0 +1,7 @@
+568824366928039936
+Delta
+@JetBlue why don't you fly to #nashville? :(
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 09:27:51 -0800
+location: Austin, TX/NY, NY

@@ -1,0 +1,7 @@
+569881449249316864
+United
+@united I am trying to make/change reservations and getting extremely frustrated!!! Giving up and trying another airline!!!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 07:28:20 -0800
+location: Princeton, NJ

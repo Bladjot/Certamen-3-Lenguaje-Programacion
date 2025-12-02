@@ -1,0 +1,7 @@
+569844919617101824
+US Airways
+@USAirways Do your flight schedules to - from Quintana Roo, Mexico reflect their newly adopted time zone change to EST?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 05:03:10 -0800
+location: nan

@@ -1,0 +1,7 @@
+569641247075213312
+American
+@AmericanAir flight 1081 from IAD to LAX sat for more than 3hrs because ground crew couldn't drive in snow #badmgmt #AmericanAirlines
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 15:33:51 -0800
+location: nan

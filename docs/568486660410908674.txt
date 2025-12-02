@@ -1,0 +1,7 @@
+568486660410908674
+Delta
+@JetBlue my credit card company accidentally marked my jet blue tickets as fraud, then corrected their mistake and reposted the money.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 11:05:56 -0800
+location: nan

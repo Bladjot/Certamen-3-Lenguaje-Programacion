@@ -1,0 +1,7 @@
+569620850820956160
+American
+@AmericanAir Worst airline ever. We have been stranded for 24 hours because of your 7 hour delay with flight 104 last night.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:12:48 -0800
+location: nan

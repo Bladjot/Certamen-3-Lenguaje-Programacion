@@ -1,0 +1,7 @@
+567627253991735296
+United
+@united please see a flight attendant for what? Why isn't there enough room for over head bags? I carry on to save time!!!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 02:10:58 -0800
+location: nan

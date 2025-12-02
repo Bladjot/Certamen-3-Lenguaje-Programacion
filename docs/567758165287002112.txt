@@ -1,0 +1,7 @@
+567758165287002112
+Southwest
+@SouthwestAir RDU flights expected to be ok this afternoon and tonight?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 10:51:09 -0800
+location: Southern Virginia!!!!!!

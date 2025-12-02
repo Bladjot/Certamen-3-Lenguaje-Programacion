@@ -1,0 +1,7 @@
+569548800169283586
+US Airways
+@USAirways @British_Airways three hour flight delay. On the phone for 45min and counting.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 09:26:30 -0800
+location: nan

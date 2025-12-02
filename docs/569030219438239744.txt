@@ -1,0 +1,7 @@
+569030219438239744
+United
+@united - you delayed our departure by 2 hrs to wait for passengers from another flight that was Late Flight! Unacceptable!!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 23:05:51 -0800
+location: Boston, MA

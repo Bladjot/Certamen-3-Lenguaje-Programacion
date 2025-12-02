@@ -1,0 +1,7 @@
+569999076143423488
+American
+@AmericanAir amen!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 15:15:44 -0800
+location: Boston

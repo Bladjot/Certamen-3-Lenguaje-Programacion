@@ -1,0 +1,7 @@
+567802649526976512
+Southwest
+@SouthwestAir When do you all expect to open the reservation through November?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 13:47:55 -0800
+location: San Antonio

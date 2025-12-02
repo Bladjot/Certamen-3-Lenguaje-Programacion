@@ -1,0 +1,7 @@
+569715656632999936
+US Airways
+@USAirways you are absolutely terrible at managing these delays... Been delayed and undelayed and delayed 6 times now. 10 AM office hours.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 20:29:32 -0800
+location: University of Vermont

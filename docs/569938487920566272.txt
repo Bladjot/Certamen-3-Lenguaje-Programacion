@@ -1,0 +1,7 @@
+569938487920566272
+US Airways
+@USAirways yes. It says bag is being delivered. The local number says Not Open. Asked main # for cust service got hung up on.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 11:14:59 -0800
+location: nan

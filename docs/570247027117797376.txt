@@ -1,0 +1,7 @@
+570247027117797376
+United
+@united it was credit from my last trip that never came in the mail!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 07:41:00 -0800
+location: nan

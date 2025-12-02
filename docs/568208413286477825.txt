@@ -1,0 +1,7 @@
+568208413286477825
+US Airways
+@USAirways Ya'll need to work on your online checkout system. Two bank transactions for one ticket is bush league. Yell at your devs.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 16:40:17 -0800
+location: Redmond, WA

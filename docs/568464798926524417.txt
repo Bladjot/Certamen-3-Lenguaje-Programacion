@@ -1,0 +1,7 @@
+568464798926524417
+Southwest
+@SouthwestAir is the best airline out there no one is better than them #OneLove #Southwest #bestairline
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 09:39:04 -0800
+location: nan

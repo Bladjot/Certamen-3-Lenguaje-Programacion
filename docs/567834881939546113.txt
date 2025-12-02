@@ -1,0 +1,7 @@
+567834881939546113
+US Airways
+@USAirways how long is that flight? http://t.co/bCwckWtnlE
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 15:56:00 -0800
+location: Vancouver, WA

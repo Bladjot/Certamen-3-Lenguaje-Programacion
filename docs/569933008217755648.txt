@@ -1,0 +1,7 @@
+569933008217755648
+American
+@AmericanAir My pleasure, next AA flight - this Wednesday to Milan, Italy for @MIDOExhibition -- See you then! :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:53:12 -0800
+location: New York | Hong Kong

@@ -1,0 +1,7 @@
+568778115956092928
+Southwest
+@SouthwestAir What's up with the new in-flight WiFi service? Super crappy user experience. Miss the old provider. :(
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 06:24:04 -0800
+location: PHX, AZ

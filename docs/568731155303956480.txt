@@ -1,0 +1,7 @@
+568731155303956480
+United
+@united flt 912. Capt Herman is amazing! Came out before flight to play "ask the captain anything." Wonderful ambassador to the airline!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 03:17:28 -0800
+location: NY

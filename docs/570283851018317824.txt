@@ -1,0 +1,7 @@
+570283851018317824
+American
+@AmericanAir cost me over 200 dollars because flight was Cancelled Flightled and couldn't even give me a food comp!! Fly @JetBlue @Delta they take
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 10:07:20 -0800
+location: new york city

@@ -1,0 +1,7 @@
+570219953741279232
+US Airways
+@USAirways How do I add my TSA Pre number to an existing reservation?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 05:53:25 -0800
+location: Washington, DC

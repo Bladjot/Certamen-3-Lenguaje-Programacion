@@ -1,0 +1,7 @@
+569248000456970240
+United
+@united how about plowing the snow at a gate before the plane arrives so we don't sit for 45 minutes after an 8 hr flight.... Fail
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 13:31:14 -0800
+location: Bethlehem, PA

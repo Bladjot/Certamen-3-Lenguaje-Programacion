@@ -1,0 +1,7 @@
+570304059384713218
+US Airways
+@USAirways will you be issuing a travel advisory for CLT for Thursday?  A significant snow storm is in the way Wednesday night.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:27:38 -0800
+location: nan

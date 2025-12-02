@@ -1,0 +1,7 @@
+570251549219393536
+United
+@united crashed trying to check in.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 07:58:58 -0800
+location: nan

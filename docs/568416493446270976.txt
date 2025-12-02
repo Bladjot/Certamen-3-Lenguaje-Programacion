@@ -1,0 +1,7 @@
+568416493446270976
+United
+@united - That time when I spent a night trying to sleep in a toddler bed at the airport Ramada without my luggage you kidnapped #furious
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 06:27:07 -0800
+location: nan

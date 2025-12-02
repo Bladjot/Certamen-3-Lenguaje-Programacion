@@ -1,0 +1,7 @@
+570037998773018624
+Delta
+@JetBlue not ok to Cancelled Flight flight 1274 tmrw for "weather" &amp; to rebook 4 flight the next day when there is flight tmrw night. no compensation?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 17:50:24 -0800
+location: NYC/RVC/CHS/WASH DC

@@ -1,0 +1,7 @@
+569758414810849280
+United
+@united appreciate it, but changing time by 10 min multiple times 6 hours before flight is just annoying and seems like you have 0 clue
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 23:19:26 -0800
+location: nan

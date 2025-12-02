@@ -1,0 +1,7 @@
+568258846235316225
+United
+@united nothing else from you ^GJ? Where is your customer service?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 20:00:41 -0800
+location: Houston, TX

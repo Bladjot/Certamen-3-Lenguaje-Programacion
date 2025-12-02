@@ -1,0 +1,7 @@
+570214488739225601
+US Airways
+@USAirways can you DM please in regards to update on lost bag please.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 05:31:42 -0800
+location: nan

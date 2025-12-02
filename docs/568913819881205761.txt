@@ -1,0 +1,7 @@
+568913819881205761
+US Airways
+@USAirways stuck on Tarmac for hour an a half and told longer to go and no hotels available when we land in Phoenix #unacceptable #unhappy
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 15:23:19 -0800
+location: nan

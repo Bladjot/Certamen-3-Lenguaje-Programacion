@@ -1,0 +1,7 @@
+569147067559485440
+US Airways
+@USAirways what's the point of email stating I didn't get bumped to 1st class? I know I'm not in first class, I booked the regular ticket
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 06:50:09 -0800
+location: Your Dreams

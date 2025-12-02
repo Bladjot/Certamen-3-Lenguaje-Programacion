@@ -1,0 +1,7 @@
+567734506434854912
+US Airways
+@USAirways I can't believe that you would refer me to a number no one seems to be getting through. Really? I need help ASAP!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 09:17:08 -0800
+location: Chicagoland Area

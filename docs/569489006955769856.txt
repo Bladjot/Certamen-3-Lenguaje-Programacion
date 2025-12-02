@@ -1,0 +1,7 @@
+569489006955769856
+US Airways
+@USAirways took me 4+ hours to book flights yesterday due to system errors between you and @AmericanAir. paid $320 extra due to time lapse
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 05:28:54 -0800
+location: nan

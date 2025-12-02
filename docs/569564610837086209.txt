@@ -1,0 +1,7 @@
+569564610837086209
+Virgin America
+@VirginAmerica our flight into lga was Cancelled Flighted. We're stuck in Dallas. I called to reschedule, told I could get a flight for today...(1/2)
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 10:29:19 -0800
+location: Brooklyn

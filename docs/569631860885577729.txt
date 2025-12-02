@@ -1,0 +1,7 @@
+569631860885577729
+American
+@AmericanAir this might look good but the pita is inedible. Last year delicious shrimp cocktail. This year garbage http://t.co/Sotl8XQsrp
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 14:56:33 -0800
+location: nan

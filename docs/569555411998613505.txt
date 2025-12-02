@@ -1,0 +1,7 @@
+569555411998613505
+US Airways
+@USAirways not impressed with your customer service. everyone has been unhelpful and incredibly rude.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 09:52:46 -0800
+location: michigan

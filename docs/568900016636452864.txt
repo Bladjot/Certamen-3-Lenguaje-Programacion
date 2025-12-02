@@ -1,0 +1,7 @@
+568900016636452864
+Delta
+@JetBlue ...second incident of lost baggage.  I sent you a DM.  Thoughts?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 14:28:28 -0800
+location: Miami, FL

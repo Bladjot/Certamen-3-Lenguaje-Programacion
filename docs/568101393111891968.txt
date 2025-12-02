@@ -1,0 +1,7 @@
+568101393111891968
+Virgin America
+@VirginAmerica - can you tweet me the Cancelled Flight/chng fee for a flight? or can I rebook under one of your affiliates? If so, who are afiliates?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 09:35:01 -0800
+location: NJ USA

@@ -1,0 +1,7 @@
+569617064375271424
+United
+@united I'll be calling tomorrow
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 13:57:45 -0800
+location: nan

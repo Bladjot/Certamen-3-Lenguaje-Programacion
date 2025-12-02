@@ -1,0 +1,7 @@
+568756110456270849
+United
+@united @FAANews unacceptable practice to leave Cancelled Flighted flight passengers to sleep on cement with no pillows #UA1724 http://t.co/nDTLJ15ZpU
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 04:56:38 -0800
+location: Seattle

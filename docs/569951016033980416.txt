@@ -1,0 +1,7 @@
+569951016033980416
+American
+@AmericanAir Thanks gang! Mind if I ask, do you handle all of your Social Media in house?
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 12:04:46 -0800
+location: New York, NY

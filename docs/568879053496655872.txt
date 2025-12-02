@@ -1,0 +1,7 @@
+568879053496655872
+Southwest
+@SouthwestAir I cannot DM you as you do not follow me.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 13:05:10 -0800
+location: San Francisco

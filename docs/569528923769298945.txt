@@ -1,0 +1,7 @@
+569528923769298945
+United
+@united can you get me to okc from Sacramento today. Dfw is now closed
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 08:07:31 -0800
+location: Oklahoma

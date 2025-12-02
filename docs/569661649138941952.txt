@@ -1,0 +1,7 @@
+569661649138941952
+American
+@AmericanAir not enough push crews for JFK = 1.5 he delay and counting....
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:54:55 -0800
+location: Brooklyn

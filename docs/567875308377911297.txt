@@ -1,0 +1,7 @@
+567875308377911297
+Southwest
+@SouthwestAir I'm Flight Booking Problems a flight to Vegas. Any good promo codes??
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 18:36:38 -0800
+location: nan

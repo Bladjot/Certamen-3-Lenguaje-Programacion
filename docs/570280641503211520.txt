@@ -1,0 +1,7 @@
+570280641503211520
+Southwest
+@SouthwestAir its flight #218 of that matters to you all. Hell next we all won't get our luggage properly transferred #facepalm #smh
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 09:54:34 -0800
+location: nan

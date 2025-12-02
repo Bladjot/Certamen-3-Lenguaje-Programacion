@@ -1,0 +1,7 @@
+568903082765000704
+United
+@united OK, thanks for the clarification.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 14:40:39 -0800
+location: San Jose, CA

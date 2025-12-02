@@ -1,0 +1,7 @@
+569924145380634624
+Delta
+LMAO “@JetBlue: Our fleet's on fleek. http://t.co/aIyC9WV5oq”
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:17:59 -0800
+location: Jupiter

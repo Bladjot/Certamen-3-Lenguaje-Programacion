@@ -1,0 +1,7 @@
+569719978993152000
+American
+@AmericanAir Thank you for holding, we apologize for the delay in answering your call. To speak to a representative please continue to hold.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:46:42 -0800
+location: Raleigh, NC

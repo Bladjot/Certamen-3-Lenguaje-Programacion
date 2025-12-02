@@ -1,0 +1,7 @@
+568897720410374145
+Delta
+@JetBlue flight 691 from bos to Tampa takeoff 40 min Late Flight
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 14:19:20 -0800
+location: Boston

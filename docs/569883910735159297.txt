@@ -1,0 +1,7 @@
+569883910735159297
+US Airways
+@USAirways 2 days in a row, not buying it. I suggest you review your policy w respect to unaccompanied minors, should have had a seat on Sun
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 07:38:06 -0800
+location: Des Moines, IA

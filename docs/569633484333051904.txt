@@ -1,0 +1,7 @@
+569633484333051904
+Delta
+@JetBlue that wasn't delayed or cabcelled
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:03:00 -0800
+location: nan

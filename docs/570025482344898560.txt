@@ -1,0 +1,7 @@
+570025482344898560
+Virgin America
+@VirginAmerica Hey, first time flyer next week - excited! But I'm having a hard time getting my flights added to my Elevate account. Help?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 17:00:40 -0800
+location: Iowa City

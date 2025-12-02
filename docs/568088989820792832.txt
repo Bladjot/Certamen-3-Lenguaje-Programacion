@@ -1,0 +1,7 @@
+568088989820792832
+Southwest
+@SouthwestAir Southwest is scheduled to fly to Costa Rica on March 7 but I can't book it online. When will this be available?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 08:45:44 -0800
+location: nan

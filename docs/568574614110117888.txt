@@ -1,0 +1,7 @@
+568574614110117888
+Southwest
+@SouthwestAir on brd now.frustrated we go 2 #BUF not #ROC.if tld flt was gng 2b held earlier would not be a mess.cng bk unable due to overbk
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 16:55:26 -0800
+location: Rochester, NY

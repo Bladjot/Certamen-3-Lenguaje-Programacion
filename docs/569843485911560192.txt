@@ -1,0 +1,7 @@
+569843485911560192
+American
+“@AmericanAir: @mwangbickler We apologize for your frustrations, Michael. Have you been rebooked?” -got call back after 10 hours. Bad.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 04:57:28 -0800
+location: Napa, CA

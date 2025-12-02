@@ -1,0 +1,7 @@
+569419928173989889
+US Airways
+@USAirways you guys suck at JFK tonight -- oh this MORNING!!!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 00:54:24 -0800
+location: brooklyn

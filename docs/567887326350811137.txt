@@ -1,0 +1,7 @@
+567887326350811137
+Delta
+@JetBlue bag just delivered and items have been stolen.  At first look - my Kate spade bag and bottle of spiced rum!  Wtf!!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 19:24:24 -0800
+location: nan

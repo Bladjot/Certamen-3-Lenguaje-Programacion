@@ -1,0 +1,7 @@
+568848952768000000
+Delta
+@JetBlue and @WSJ team up offering in-flight access to journal content http://t.co/PTsbkA4cDJ
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 11:05:33 -0800
+location: New York, Tel Aviv

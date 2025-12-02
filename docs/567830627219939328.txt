@@ -1,0 +1,7 @@
+567830627219939328
+Southwest
+@SouthwestAir sadly didn't get much help ... As a travel agent this is so disappointing to me.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 15:39:05 -0800
+location: New York, NY

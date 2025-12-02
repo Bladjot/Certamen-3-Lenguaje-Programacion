@@ -1,0 +1,7 @@
+567733511281721344
+US Airways
+@USAirways Flight 2069 from JFK to Charlotte, then 3750 from Charlotte to Birmingham. 2 previous flights to HSV were Cancelled Flightled.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 09:13:11 -0800
+location: Queens

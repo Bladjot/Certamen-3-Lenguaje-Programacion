@@ -1,0 +1,7 @@
+567726138223771649
+US Airways
+@USAirways your chairmans phone is down. what other number can i use?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 08:43:53 -0800
+location: ÜT: 35.029717,-80.9659

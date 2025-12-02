@@ -1,0 +1,7 @@
+569925709025509376
+US Airways
+@USAirways Very frustrated, checked bag in Logan, was not given a luggage ticket,now luggage is lost &amp; no ownership from @USAirways
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 10:24:12 -0800
+location: nan

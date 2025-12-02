@@ -1,0 +1,7 @@
+569836467876470784
+American
+@AmericanAir . Death of a dear friend has me heart broken but #AmericanAirlines has me heated!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 04:29:35 -0800
+location: Brooklyn, NY

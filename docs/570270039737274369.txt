@@ -1,0 +1,7 @@
+570270039737274369
+American
+“@AmericanAir: We hope you enjoy the #WinterWeather and brought your warm coat and gloves, Maria!” Yup! New beanie http://t.co/AnEqXZR4bp
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 09:12:27 -0800
+location: New York/Nicaragua/Miami Beach

@@ -1,0 +1,7 @@
+568354331503828992
+United
+@united I have.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 02:20:06 -0800
+location: nan

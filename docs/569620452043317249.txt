@@ -1,0 +1,7 @@
+569620452043317249
+American
+@AmericanAir...still waiting for a call back....attempt #9 and hour #13...can't put a hold on an online tix, we are within seven day window.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:11:13 -0800
+location: The City of Big Shoulders

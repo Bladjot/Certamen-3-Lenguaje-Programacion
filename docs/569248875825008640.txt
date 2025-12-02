@@ -1,0 +1,7 @@
+569248875825008640
+US Airways
+@USAirways Every time I try, the line is disconnected b/c the system says you have too many calls. Glad your screw up matters so much to you
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 13:34:42 -0800
+location: Asheville, NC

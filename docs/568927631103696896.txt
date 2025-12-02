@@ -1,0 +1,7 @@
+568927631103696896
+United
+@united not the case. Now delayed due to "mechanical issues with no update on departure time". Just Cancelled Flight the goddamn flight so I go delta
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 16:18:12 -0800
+location: NY

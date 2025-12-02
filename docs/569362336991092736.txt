@@ -1,0 +1,7 @@
+569362336991092736
+US Airways
+@USAirways 4 hours . How do I change my flight that was Cancelled Flightled ?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 21:05:34 -0800
+location: NYC

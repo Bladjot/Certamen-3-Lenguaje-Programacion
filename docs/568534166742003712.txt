@@ -1,0 +1,7 @@
+568534166742003712
+United
+@united Just got interrogated at the United Club Chicago. #UnitedAirlines #rude #PoorForm
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 14:14:42 -0800
+location: San Diego, CA

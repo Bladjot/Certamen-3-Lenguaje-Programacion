@@ -1,0 +1,7 @@
+568565272824582145
+Southwest
+@SouthwestAir done.0
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 16:18:19 -0800
+location: Nashville/Franklin

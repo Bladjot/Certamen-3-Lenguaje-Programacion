@@ -1,0 +1,7 @@
+569180531742486528
+Southwest
+@SouthwestAir On hold over 2 hrs and got cutoff !Cancelled Flightled my flight, now can't get to booked cruise in Florida! Terrible customer service!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 09:03:08 -0800
+location: nan

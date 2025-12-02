@@ -1,0 +1,7 @@
+569669991450185728
+Delta
+@JetBlue We're flight 1472 FFL to LGA. Scheduled departure 8:15p.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:28:04 -0800
+location: New York

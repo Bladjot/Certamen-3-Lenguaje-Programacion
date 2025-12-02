@@ -1,0 +1,7 @@
+567760693643214848
+Delta
+@JetBlue 117 days maybe.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 11:01:12 -0800
+location: Jersey City, NJ

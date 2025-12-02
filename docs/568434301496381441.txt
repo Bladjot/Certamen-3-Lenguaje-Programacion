@@ -1,0 +1,7 @@
+568434301496381441
+Delta
+@JetBlue loves Cancelled Flightling tickets and not telling their customers #flyunited
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 07:37:53 -0800
+location: nan

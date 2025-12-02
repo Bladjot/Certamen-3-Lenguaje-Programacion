@@ -1,0 +1,7 @@
+568487677114363904
+Delta
+@JetBlue we made it safe and sound. Thank you for the safe travels.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 11:09:58 -0800
+location: Alexandria, VA

@@ -1,0 +1,7 @@
+569567252363812864
+US Airways
+@USAirways your service in Philly is unacceptable. Look into better service✌️ a 16 yr old shouldnt have a hard time http://t.co/WDAKTmr7Mj
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 10:39:49 -0800
+location: nan

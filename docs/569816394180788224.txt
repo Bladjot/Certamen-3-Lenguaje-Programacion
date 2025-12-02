@@ -1,0 +1,7 @@
+569816394180788224
+United
+@united flight landed 13 hours ago, 2 more flights CMH-IAD last night and still no bag..could have driven it from CMH
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 03:09:49 -0800
+location: Lewis Center, OH

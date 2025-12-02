@@ -1,0 +1,7 @@
+569110766235877376
+Virgin America
+@VirginAmerica love the 90s music blasting at gate in #Boston while waiting for flight to #SanFrancisco. Only if I could get an iced coffee!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 04:25:54 -0800
+location: Charlestown, MA

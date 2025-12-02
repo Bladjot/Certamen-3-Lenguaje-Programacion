@@ -1,0 +1,7 @@
+568969040133165056
+US Airways
+@USAirways 45 minutes on hold no help
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 19:02:44 -0800
+location: nan

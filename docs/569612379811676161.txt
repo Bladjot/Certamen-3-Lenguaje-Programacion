@@ -1,0 +1,7 @@
+569612379811676161
+US Airways
+@USAirways US Airlines 699 LA to RDU is holding onto baggages for an hour already and everyone is still waiting!?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:39:08 -0800
+location: nan

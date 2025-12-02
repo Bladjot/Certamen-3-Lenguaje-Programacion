@@ -1,0 +1,7 @@
+569443675194966016
+US Airways
+@USAirways now on hold for 90 minutes
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 02:28:46 -0800
+location: nan

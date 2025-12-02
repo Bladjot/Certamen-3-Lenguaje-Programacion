@@ -1,0 +1,7 @@
+570270651996463104
+American
+@AmericanAir Flight 35. I'm on my way.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:14:53 -0800
+location: Las Vegas, NV

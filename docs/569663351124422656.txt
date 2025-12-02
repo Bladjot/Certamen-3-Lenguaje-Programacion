@@ -1,0 +1,7 @@
+569663351124422656
+American
+@AmericanAir Close down
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 17:01:41 -0800
+location: Indiana

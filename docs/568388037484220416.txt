@@ -1,0 +1,7 @@
+568388037484220416
+US Airways
+@USAirways res went under her maiden name...married 50...no docs with maiden name.  Hence, problem.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 04:34:02 -0800
+location: nan

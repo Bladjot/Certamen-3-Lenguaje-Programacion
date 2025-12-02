@@ -1,0 +1,7 @@
+568448265441554432
+Southwest
+@SouthwestAir RUDE gate agent. Wholly unacceptable to us &amp; other passengers. Think this will be our last time on sw.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-19 08:33:22 -0800
+location: nan

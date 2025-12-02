@@ -1,0 +1,7 @@
+569441937826164736
+United
+@united @MaxAbrahms *if* he needs assistance? Do you expect him to go on a Scooby Doo tour of terminals until he finds his stuff?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 02:21:52 -0800
+location: Long Island, NY

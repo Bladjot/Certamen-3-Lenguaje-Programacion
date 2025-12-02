@@ -1,0 +1,7 @@
+569948910099308545
+United
+@united when an airline causes the missed connection u would think they would take whatever steps to remedy that screw up.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 11:56:23 -0800
+location: Long Island, NY

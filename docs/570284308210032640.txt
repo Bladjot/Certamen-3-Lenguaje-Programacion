@@ -1,0 +1,7 @@
+570284308210032640
+American
+@AmericanAir Its not that I wasn't offered "perks" by @USAirways.  I ASKED and was told, "NO." #thenewamerican
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 10:09:09 -0800
+location: Arkansas

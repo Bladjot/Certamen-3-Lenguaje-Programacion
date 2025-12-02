@@ -1,0 +1,7 @@
+568169837878484992
+Southwest
+@SouthwestAir luckily, the people working the BSO at Chicago Midway have been very attentive and found our bags in Punta Cana.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 14:07:00 -0800
+location: Canton, MA

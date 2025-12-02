@@ -1,0 +1,7 @@
+569572095794917376
+US Airways
+@USAirways in 140 characters? Yea right.   Thanks for patronizing.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 10:59:04 -0800
+location: colorado

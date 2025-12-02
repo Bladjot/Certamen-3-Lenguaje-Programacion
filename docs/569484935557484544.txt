@@ -1,0 +1,7 @@
+569484935557484544
+US Airways
+@USAirways @AmericanAir  stranded in North Carolina and trying to figure out options but can't get anyone to talk to
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 05:12:43 -0800
+location: MA, USA

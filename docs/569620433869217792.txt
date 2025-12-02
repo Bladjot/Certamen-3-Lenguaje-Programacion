@@ -1,0 +1,7 @@
+569620433869217792
+American
+@AmericanAir - gold elite loyalty customer..can't count on my hometown preferred airline to do right. #bummed..
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:11:09 -0800
+location: nan

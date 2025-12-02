@@ -1,0 +1,7 @@
+568185092163678208
+US Airways
+@USAirways we did. It added about seven hours to our day... So far... Want to take odds on our bags being on the carousel in KC? #notcool
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 15:07:36 -0800
+location: Kansas, USA

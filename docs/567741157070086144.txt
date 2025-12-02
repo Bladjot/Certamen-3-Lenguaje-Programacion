@@ -1,0 +1,7 @@
+567741157070086144
+Southwest
+@SouthwestAir about time! Thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 09:43:34 -0800
+location: nan

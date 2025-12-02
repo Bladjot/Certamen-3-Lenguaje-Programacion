@@ -1,0 +1,7 @@
+570017568964132865
+US Airways
+@USAirways very embarrassing.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 16:29:13 -0800
+location: BTR/DCA/IAD/MSY - etc

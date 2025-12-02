@@ -1,0 +1,7 @@
+569593910869127168
+United
+@United says we had a weather delay in #YXE this morning. The "weather" didn't affect any other airline. #UA6136 http://t.co/4JdvK8tCqx
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 12:25:45 -0800
+location: Saskatoon

@@ -1,0 +1,7 @@
+568819285990215680
+United
+@united I was not looking for the fare to be returned on the companion flight.  don't understand why an additional $200 fee was necessary.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 09:07:40 -0800
+location: nan

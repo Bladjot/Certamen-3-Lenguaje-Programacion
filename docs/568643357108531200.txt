@@ -1,0 +1,7 @@
+568643357108531200
+Delta
+@JetBlue why are you making me stay in JFK until 2 am or Late Flightr? Just let me rebook without making me pay more
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 21:28:35 -0800
+location: Maine

@@ -1,0 +1,7 @@
+568467055747313664
+Southwest
+@SouthwestAir @BrittanyOBX11, keeping families apart w/ your quirky, archaic policies. Any other airline accommodates in this situation.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 09:48:02 -0800
+location: nan

@@ -1,0 +1,7 @@
+569911064105754624
+US Airways
+@USAirways delayed, connection missed, now extended layover how about a lounge pass for PHL. #5077
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 09:26:00 -0800
+location: nan

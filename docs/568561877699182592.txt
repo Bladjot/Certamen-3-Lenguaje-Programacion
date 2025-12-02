@@ -1,0 +1,7 @@
+568561877699182592
+US Airways
+@USAirways Have a 6:05pm flight out of PHL Sat, 2/21. Snow expected. Are we able to switch to an earlier flight without penalty?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 16:04:49 -0800
+location: nan

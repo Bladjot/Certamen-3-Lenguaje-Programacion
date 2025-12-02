@@ -1,0 +1,7 @@
+569983093341347842
+American
+@AmericanAir has been almost a month and still no response to my online complaint/questions. Out $300 because of it.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:12:13 -0800
+location: NYC

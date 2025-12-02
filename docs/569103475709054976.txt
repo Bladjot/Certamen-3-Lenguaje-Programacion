@@ -1,0 +1,7 @@
+569103475709054976
+US Airways
+@USAirways no online clearly states I can NOT- It says to call res. I already explained that.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 03:56:56 -0800
+location: nan

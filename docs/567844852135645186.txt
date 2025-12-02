@@ -1,0 +1,7 @@
+567844852135645186
+United
+@united Some 3rd party service known as EZEE flights. A man, who confirmed he was born in India, told me his name was Steve Wilson.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 16:35:37 -0800
+location: nan

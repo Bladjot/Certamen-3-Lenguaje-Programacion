@@ -1,0 +1,7 @@
+570223703285477376
+United
+@united I did DM the details but still no response. I have to book today.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 06:08:19 -0800
+location: Princeton, NJ

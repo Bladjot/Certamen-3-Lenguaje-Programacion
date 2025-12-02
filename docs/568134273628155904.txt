@@ -1,0 +1,7 @@
+568134273628155904
+US Airways
+@USAirways really, so what does that mean??? #usairwayssucks
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 11:45:40 -0800
+location: nan

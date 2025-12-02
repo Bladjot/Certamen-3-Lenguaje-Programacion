@@ -1,0 +1,7 @@
+569967469135142914
+US Airways
+@USAirways you idiots kept an on time plane on the Tarmac for over an hour forcing us to not be there 10 minutes before.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 13:10:08 -0800
+location: Does it really matter

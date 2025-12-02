@@ -1,0 +1,7 @@
+567805339790475264
+United
+@united But I got a bad exchange rate so want my money back. Please can you refund without penalty.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-17 13:58:36 -0800
+location: nan

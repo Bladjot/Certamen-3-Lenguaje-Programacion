@@ -1,0 +1,7 @@
+569252732940320768
+United
+@united please. You moved my seats and lost my upgrade. I had seat 20L. I have a ticket in my hand for 20L
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 13:50:02 -0800
+location: nan

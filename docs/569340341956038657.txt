@@ -1,0 +1,7 @@
+569340341956038657
+Southwest
+@SouthwestAir flight to BOS Cancelled Flightled, no flights till TUESDAY, spent $1000 to get a flight through another airline + $170 for hotel. Refund
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 19:38:10 -0800
+location: nan

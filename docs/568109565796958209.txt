@@ -1,0 +1,7 @@
+568109565796958209
+United
+@united Yeah, bag is on the way. As per usual.  I'm actually getting used to getting it delivered to me, its kind of nice in a sense.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 10:07:30 -0800
+location: San Diego

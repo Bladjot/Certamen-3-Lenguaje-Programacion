@@ -1,0 +1,7 @@
+567734115899027457
+Southwest
+@SouthwestAir - any update on flights in to BNA today?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:15:35 -0800
+location: Nashville, TN

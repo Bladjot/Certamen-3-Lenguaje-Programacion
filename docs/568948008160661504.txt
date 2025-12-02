@@ -1,0 +1,7 @@
+568948008160661504
+United
+@united I had one interview I was the last person what does that mean?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 17:39:10 -0800
+location: nan

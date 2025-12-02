@@ -1,0 +1,7 @@
+568647808619659264
+Delta
+@JetBlue - In CA for the weekend to attend a training camp; thanks for sending all my gear to FL; looks like this trip is a waste #nothappy
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 21:46:17 -0800
+location: nan

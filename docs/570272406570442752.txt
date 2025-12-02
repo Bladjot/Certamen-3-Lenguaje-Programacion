@@ -1,0 +1,7 @@
+570272406570442752
+United
+@united 6533 ORD to DCA
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:21:51 -0800
+location: nan

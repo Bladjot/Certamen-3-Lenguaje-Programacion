@@ -1,0 +1,7 @@
+567841308452249600
+United
+@united exactly it states a secure document is a nexus card. It does not state a passport must always be also presented. Read it
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 16:21:32 -0800
+location: nan

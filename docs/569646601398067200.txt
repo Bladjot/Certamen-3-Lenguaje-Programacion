@@ -1,0 +1,7 @@
+569646601398067200
+American
+@AmericanAir why does your RTW planner (spec. Circle Pacific) not let me even plan the demo routes from your website?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 15:55:07 -0800
+location: Charlotte, NC | Köln, NRW

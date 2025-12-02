@@ -1,0 +1,7 @@
+568548980122103808
+Delta
+@JetBlue walked from the gate to the just ask desk by gate 1 http://t.co/p6ucbVlv5E
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-19 15:13:34 -0800
+location: Tonawanda NY

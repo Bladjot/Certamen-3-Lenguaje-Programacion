@@ -1,0 +1,7 @@
+569093984640995328
+United
+@united provide a voucher for one of my customers and I will tweet about you all day long #earnedmybusiness
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 03:19:13 -0800
+location: Chicago

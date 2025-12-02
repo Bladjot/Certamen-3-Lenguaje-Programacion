@@ -1,0 +1,7 @@
+567744842935980032
+Southwest
+@SouthwestAir I need to request a refund on my flight that was Cancelled Flightled this morning due to the weather.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 09:58:13 -0800
+location: nan

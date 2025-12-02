@@ -1,0 +1,7 @@
+569552658010210305
+Delta
+@JetBlue So what about the plane stuck in Newburgh won't start.  It that weather reLate Flightd as well.  These passengers on plane for 10 hrs.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 09:41:50 -0800
+location: Long Island - Arizona

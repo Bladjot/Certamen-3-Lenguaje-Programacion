@@ -1,0 +1,7 @@
+570070483338731520
+American
+@AmericanAir which one.?i have been booked on 6 different ones in the past 2 days
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 19:59:29 -0800
+location: Bedford, NH

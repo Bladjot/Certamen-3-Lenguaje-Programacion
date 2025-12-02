@@ -1,0 +1,7 @@
+569325511635308544
+US Airways
+@USAirways  and now I'm going to miss my G'ma's Memorial because I didn't #FlyDelta.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 18:39:14 -0800
+location: nan

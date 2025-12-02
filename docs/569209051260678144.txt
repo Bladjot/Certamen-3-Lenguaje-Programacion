@@ -1,0 +1,7 @@
+569209051260678144
+Southwest
+@SouthwestAir I never got my flight confirmation. I've been on hold for an hour and I can't get info online. What am I to do?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 10:56:27 -0800
+location: Philadelphia, PA

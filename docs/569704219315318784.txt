@@ -1,0 +1,7 @@
+569704219315318784
+American
+@AmericanAir Thanks for your canned response that makes it look like you care about your customers. I'm sure all Twitter users fall for it..
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:44:05 -0800
+location: nan

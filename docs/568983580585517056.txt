@@ -1,0 +1,7 @@
+568983580585517056
+Delta
+@JetBlue thanks! I'll do it.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 20:00:31 -0800
+location: Ft. Lauderdale

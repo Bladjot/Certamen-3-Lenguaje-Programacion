@@ -1,0 +1,7 @@
+569605942318231553
+United
+@United 50 minute wait times to help with a Cancelled Flightled flight?? Help a guy out?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 13:13:34 -0800
+location: Washington, DC via Nebraska

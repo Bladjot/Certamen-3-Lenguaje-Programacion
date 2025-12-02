@@ -1,0 +1,7 @@
+569698856037789696
+American
+@AmericanAir @DuaneNClark  ever think about being prepared and bringing in more people? Does anyone have any business sense at AA?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 19:22:46 -0800
+location: nan

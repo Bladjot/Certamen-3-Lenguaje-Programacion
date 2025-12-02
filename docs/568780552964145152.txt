@@ -1,0 +1,7 @@
+568780552964145152
+Delta
+Lines may be extra long or security slow, but seems your employees too quick to blame customers who don't arrive 3-4 hours ahead @JetBlue
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 06:33:45 -0800
+location: New York

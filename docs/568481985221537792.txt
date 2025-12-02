@@ -1,0 +1,7 @@
+568481985221537792
+Virgin America
+@VirginAmerica of course! I work for @VirginAtlantic and I'm obsessed with the entire Virgin family!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 10:47:21 -0800
+location: Chicago

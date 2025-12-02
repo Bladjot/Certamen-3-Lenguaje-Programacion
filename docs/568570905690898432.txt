@@ -1,0 +1,7 @@
+568570905690898432
+United
+@united 40+ minutes waiting at the gate for the broken jetway. Different gate maybe?
+sentiment: negative
+negativereason: longlines
+created: 2015-02-19 16:40:42 -0800
+location: nan

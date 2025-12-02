@@ -1,0 +1,7 @@
+568246340246999041
+Delta
+@JetBlue Jua at JFK 'Just Ask' desk was incredibly helpful! Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 19:10:59 -0800
+location: Boston, Massachusetts

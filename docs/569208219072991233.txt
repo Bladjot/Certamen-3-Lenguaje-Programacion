@@ -1,0 +1,7 @@
+569208219072991233
+Southwest
+@SouthwestAir 😅 you won't let me change my reservation online so now I'm just wasting my time. http://t.co/mHA3xXaeD5
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 10:53:09 -0800
+location: nan

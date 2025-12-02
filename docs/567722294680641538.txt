@@ -1,0 +1,7 @@
+567722294680641538
+Southwest
+@SouthwestAir Hi-My flight (BNA to LGA) was Cancelled Flighted this morning--#1814. Looks like other flights out of BNA are taking off. Any chance?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 08:28:37 -0800
+location: New York

@@ -1,0 +1,7 @@
+570194141612789760
+American
+@AmericanAir travel week, delays, Cancelled Flightlations, "if you want to learn more about the merger press 1", delay my connector in Chicago #deice
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 04:10:51 -0800
+location: Waynesville, OHIO

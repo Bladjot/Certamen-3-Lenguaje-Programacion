@@ -1,0 +1,7 @@
+568201465958772736
+United
+@united great. Looking forward to your response to my DM then
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 16:12:40 -0800
+location: New York, NY

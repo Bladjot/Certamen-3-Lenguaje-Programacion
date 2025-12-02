@@ -1,0 +1,7 @@
+570275218515726337
+Southwest
+@SouthwestAir My first call got dropped. Waited 15 mins for the second but ran out of time. Will try again Late Flightr. No way to do this online?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 09:33:01 -0800
+location: Trapped in Baltimore.

@@ -1,0 +1,7 @@
+568840247657820160
+Southwest
+@SouthwestAir Please start charging for carryon luggage. #CarryOnBagsSlowEverybodyDown
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 10:30:58 -0800
+location: Zephyrhills, Florida

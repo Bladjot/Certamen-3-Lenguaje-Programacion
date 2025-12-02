@@ -1,0 +1,7 @@
+568572835666522112
+United
+@united in Bogota with no wallet is no fun. :-(
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 16:48:22 -0800
+location: nan

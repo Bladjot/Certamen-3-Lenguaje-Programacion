@@ -1,0 +1,7 @@
+570097279870361600
+American
+@AmericanAir that was the worst customer service experience ever. Too bad for you I'm a lawyer. Enjoy my wrath.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 21:45:58 -0800
+location: nan

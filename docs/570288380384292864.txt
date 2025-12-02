@@ -1,0 +1,7 @@
+570288380384292864
+Southwest
+@SouthwestAir  I USED to always fly Southwest.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 10:25:19 -0800
+location: nan

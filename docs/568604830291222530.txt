@@ -1,0 +1,7 @@
+568604830291222530
+Southwest
+@SouthwestAir offering us absolutely nothing for our troubles either. Blames the @TSA
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 18:55:30 -0800
+location: Springboro, Ohio

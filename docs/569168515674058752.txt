@@ -1,0 +1,7 @@
+569168515674058752
+Southwest
+@SouthwestAir Seriously, is the reason for all the Cancelled Flightled flights and long phone wait times that you guys are tremendously understaffed?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 08:15:23 -0800
+location: nan

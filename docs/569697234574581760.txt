@@ -1,0 +1,7 @@
+569697234574581760
+United
+@united I sent a message. It's very irresponsible that my suitcase cannot be found. This is truly worst service ever... #fedup #disastrous
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 19:16:19 -0800
+location: nan

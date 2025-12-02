@@ -1,0 +1,7 @@
+568207527067783168
+Delta
+@JetBlue This is how you have me feeling.... http://t.co/esUu0hiAjM
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 16:36:45 -0800
+location: nan

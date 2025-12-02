@@ -1,0 +1,7 @@
+569995536545091584
+Southwest
+@SouthwestAir I enjoyed a call from my good friend he's Flight Booking Problems his flights elsewhere as I tweet one at a time I will tell as many as I can
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 15:01:40 -0800
+location: nan

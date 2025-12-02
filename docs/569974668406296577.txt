@@ -1,0 +1,7 @@
+569974668406296577
+American
+@AmericanAir Not true!! Stop making excuses! You either overbook or have crappy planes!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 13:38:45 -0800
+location: Gilbert, AZ

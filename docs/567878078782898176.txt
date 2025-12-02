@@ -1,0 +1,7 @@
+567878078782898176
+Delta
+@JetBlue Awesome thanks! Thanks for the quick response. You guys ROCK! :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 18:47:39 -0800
+location: Boston

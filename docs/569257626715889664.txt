@@ -1,0 +1,7 @@
+569257626715889664
+Southwest
+@SouthwestAir I made it! Heading to Denver, and your employees really are as pleasant as I just told someone your application asks.  Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 14:09:29 -0800
+location: Murfreesboro, TN

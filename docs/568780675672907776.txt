@@ -1,0 +1,7 @@
+568780675672907776
+US Airways
+@Usairways thanks for making miss connection, getting rebooked, missing that too, and a miserable day. Started my day @ 4:30am for nothing!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 06:34:15 -0800
+location: West Palm

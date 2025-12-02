@@ -1,0 +1,7 @@
+567617081336950784
+Southwest
+@SouthwestAir you guys there? Are we on hour 2 of our phone hold at 3am bc of volume or short staffing?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 01:30:32 -0800
+location: nan

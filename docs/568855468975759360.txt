@@ -1,0 +1,7 @@
+568855468975759360
+United
+@united Thanks...seat made for a 6 year old and a broken TV. 20 flights/year...my last on your airline.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 11:31:27 -0800
+location: New York

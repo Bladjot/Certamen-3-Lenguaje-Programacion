@@ -1,0 +1,7 @@
+570042963021205504
+American
+@AmericanAir Are you people cruel or just stupid? Why are you posting my personal email on the damn Internet? Have u lost your mind?!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 18:10:07 -0800
+location: about.me/ajdelgado

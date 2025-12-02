@@ -1,0 +1,7 @@
+568295728272900096
+United
+@united yes when I got to the gate I specifically asked if there where any other seats.  Very discouraging to walk past the crew. 37d
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 22:27:14 -0800
+location: nan

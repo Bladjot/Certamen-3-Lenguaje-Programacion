@@ -1,0 +1,7 @@
+569559734199721984
+United
+@united Hi there bag ID is UA6016053916 can you update me and explain why is occurred when I arrived 4 hours before flight!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 10:09:57 -0800
+location: nan

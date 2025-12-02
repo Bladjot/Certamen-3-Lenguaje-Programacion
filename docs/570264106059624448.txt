@@ -1,0 +1,7 @@
+570264106059624448
+Delta
+@JetBlue yer deals never seem to include NYC--&gt;PDX or NYC--&gt;PGH...wish they did!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:48:52 -0800
+location: brooklyn, ny, us

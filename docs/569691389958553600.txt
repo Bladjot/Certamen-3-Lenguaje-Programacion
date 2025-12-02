@@ -1,0 +1,7 @@
+569691389958553600
+American
+@AmericanAir because you won't get our bags for us because you said they would go on to Cincinnati even though we can't. Who exactly is
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 18:53:06 -0800
+location: nan

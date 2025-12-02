@@ -1,0 +1,7 @@
+569102054922129409
+United
+@united Yes, myself and about 200 other people also.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 03:51:17 -0800
+location: Little Rock

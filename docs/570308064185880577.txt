@@ -1,0 +1,7 @@
+570308064185880577
+American
+@AmericanAir we've already made other arrangements ourselves.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:43:32 -0800
+location: nan

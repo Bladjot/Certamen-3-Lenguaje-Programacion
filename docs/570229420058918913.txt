@@ -1,0 +1,7 @@
+570229420058918913
+Southwest
+@SouthwestAir Thank you for taking good care of people with ALS! http://t.co/m1yyWAFkFI @KevinSwan_ @ALSTDI @A_Life_Story_
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 06:31:02 -0800
+location: nan

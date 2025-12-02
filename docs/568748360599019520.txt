@@ -1,0 +1,7 @@
+568748360599019520
+US Airways
+@USAirways thanks for taking my flight off the board AND NOT PROVIDING and updates about my flight which is 26 minutes Late Flight.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 04:25:50 -0800
+location: nan

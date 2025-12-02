@@ -1,0 +1,7 @@
+568693355183538177
+United
+@united 1hr delay at the start, huge queues at security, no representative to meet us, rude staff at baggage reclaim  #inefficient
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 00:47:16 -0800
+location: nan

@@ -1,0 +1,7 @@
+569274057897730048
+Delta
+@JetBlue will we be able to watch the Oscars on our flight tomorrow?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 15:14:46 -0800
+location: nan

@@ -1,0 +1,7 @@
+569691144897953793
+Southwest
+@SouthwestAir A-list preferred. DEN-DAL flight Cancelled Flightled 30 min prior to boarding. Best option was Tue afternoon. Seriously?!? Epic fail.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 18:52:07 -0800
+location: Colorado

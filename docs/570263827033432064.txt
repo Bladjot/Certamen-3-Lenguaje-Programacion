@@ -1,0 +1,7 @@
+570263827033432064
+American
+@AmericanAir i want to change my flight for next week, they will still charge me. Waiting for fligt status
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:47:46 -0800
+location: nan

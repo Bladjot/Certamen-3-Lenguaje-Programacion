@@ -1,0 +1,7 @@
+569357127040540673
+Southwest
+@SouthwestAir I was on hold for over 2 hours and my call got disconnected. Thanks a lot.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 20:44:51 -0800
+location: nan

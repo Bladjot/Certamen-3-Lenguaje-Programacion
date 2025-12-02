@@ -1,0 +1,7 @@
+568008802865274880
+Delta
+@JetBlue its always a pleasure ☺️
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 03:27:06 -0800
+location: nan

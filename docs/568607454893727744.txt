@@ -1,0 +1,7 @@
+568607454893727744
+Southwest
+@SouthwestAir would be cool if the best airlines company hooked me up with @Imaginedragons tickets for Vegas ;)
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 19:05:56 -0800
+location: nan

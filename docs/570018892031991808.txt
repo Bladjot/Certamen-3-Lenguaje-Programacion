@@ -1,0 +1,7 @@
+570018892031991808
+US Airways
+@USAirways I just want to be heard and to discuss the many issues on my trip
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 16:34:28 -0800
+location: Las Vegas, NV

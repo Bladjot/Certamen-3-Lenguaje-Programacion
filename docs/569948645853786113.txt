@@ -1,0 +1,7 @@
+569948645853786113
+American
+@AmericanAir not helpful
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:55:20 -0800
+location: nan

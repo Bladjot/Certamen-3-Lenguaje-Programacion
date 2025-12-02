@@ -1,0 +1,7 @@
+569880207911460864
+US Airways
+@USAirways 4914 from PHL to BGM. I cannot believe this has happened 2x in under two weeks!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 07:23:24 -0800
+location: Boston, MA

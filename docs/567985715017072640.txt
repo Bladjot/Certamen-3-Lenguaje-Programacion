@@ -1,0 +1,7 @@
+567985715017072640
+United
+@united Y do U not reply to customer refund forms??????????? #unitedairlines
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 01:55:21 -0800
+location: bonkers in Yonkers

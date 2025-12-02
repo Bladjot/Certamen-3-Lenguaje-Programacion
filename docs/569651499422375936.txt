@@ -1,0 +1,7 @@
+569651499422375936
+US Airways
+@USAirways sorry, we are in Philly. Should've told you that.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:14:35 -0800
+location: ÜT: 42.076557,-76.770488

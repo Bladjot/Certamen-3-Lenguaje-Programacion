@@ -1,0 +1,7 @@
+569894828315533312
+United
+@united 3866 is at a stand still! No pilot or paperwork for fix over 25mins! Problem was fixed 30mins ago. Flight is as is delayed!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 08:21:29 -0800
+location: New Jersey

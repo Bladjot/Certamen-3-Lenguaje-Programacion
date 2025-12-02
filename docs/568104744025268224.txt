@@ -1,0 +1,7 @@
+568104744025268224
+US Airways
+@USAirways that link is broken. But if it's the online baggage locator, I already tried it and it gave me no useful information.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 09:48:20 -0800
+location: Washington, D.C.

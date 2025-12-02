@@ -1,0 +1,7 @@
+568034537411895296
+US Airways
+@USAirways tell the flight from clt to srq 5080 to wait!!!!!!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 05:09:21 -0800
+location: nan

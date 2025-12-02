@@ -1,0 +1,7 @@
+569607647051317249
+Southwest
+@SouthwestAir currently rebooked thru Dallas but I hear they are expecting an ice storm (sigh) #strandedNYC
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 13:20:20 -0800
+location: Loomis, CA (Near SacTown)

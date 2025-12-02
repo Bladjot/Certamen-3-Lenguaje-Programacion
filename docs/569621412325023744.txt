@@ -1,0 +1,7 @@
+569621412325023744
+US Airways
+@USAirways I left an item on plane BOS-PHL on Friday.  I've called PHL US Airways # &amp; left 6 msgs. No return call what to do at this point.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:15:02 -0800
+location: nan

@@ -1,0 +1,7 @@
+570302023993831425
+United
+@united Gate agent hooked me up with alternate flights. If you have a way to PREVENT the constant issues, that would rock.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 11:19:32 -0800
+location: Columbus, Ohio

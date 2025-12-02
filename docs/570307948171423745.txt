@@ -1,0 +1,7 @@
+570307948171423745
+American
+@AmericanAir why would I pay $200 to reactivate my points that are only useful for certain flights that aren't even worth $200?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 11:43:05 -0800
+location: nan

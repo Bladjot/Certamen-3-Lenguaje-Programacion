@@ -1,0 +1,7 @@
+569559311095095296
+US Airways
+@USAirways That link doesn't work on mobile.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 10:08:16 -0800
+location: Washington DC

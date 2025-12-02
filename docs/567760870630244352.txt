@@ -1,0 +1,7 @@
+567760870630244352
+US Airways
+@USAirways you are horrendous.  Pull your shit together
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 11:01:54 -0800
+location: Boston, MA

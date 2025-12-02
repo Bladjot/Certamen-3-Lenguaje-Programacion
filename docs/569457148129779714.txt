@@ -1,0 +1,7 @@
+569457148129779714
+United
+@united where is my bag?? I'm in Mexico about to go build a house &amp; my suitcase never got on my flight from CLE w me. I need it. SAN68059M
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 03:22:18 -0800
+location: Akron, Ohio

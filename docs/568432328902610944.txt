@@ -1,0 +1,7 @@
+568432328902610944
+Delta
+@JetBlue Maybe stop telling people the wrong info on your customer service calls.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 07:30:02 -0800
+location: New York, NY

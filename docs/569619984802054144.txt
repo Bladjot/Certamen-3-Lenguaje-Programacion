@@ -1,0 +1,7 @@
+569619984802054144
+Delta
+@JetBlue Domestic.  To be clear -- I do not have to sit in (your lovely) terminal, just need to be there 1 hour prior to boarding?  Thanks!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 14:09:22 -0800
+location: Right Coast

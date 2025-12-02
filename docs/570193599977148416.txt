@@ -1,0 +1,7 @@
+570193599977148416
+American
+@AmericanAir Horrible service @loganairports. Luggage got destroyed on flight and woman at baggage service was so rude. Didn't help at all.
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-24 04:08:42 -0800
+location: Greater Boston Area

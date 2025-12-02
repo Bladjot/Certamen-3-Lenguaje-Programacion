@@ -1,0 +1,7 @@
+569758482989084674
+US Airways
+@USAirways you guys should be nice and just give your routes to jet blue and southwest.  At least they treat their customers properly.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 23:19:42 -0800
+location: Washington, D.C.

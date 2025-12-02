@@ -1,0 +1,7 @@
+568363838158065664
+United
+@united refund?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 02:57:53 -0800
+location: nan

@@ -1,0 +1,7 @@
+568858696198938624
+US Airways
+@USAirways I was... 4 tomorrow. I missed my meeting today, &amp; it was pointless 2 pay hotel today when the purpose of my trip has been screwed
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 11:44:16 -0800
+location: nan

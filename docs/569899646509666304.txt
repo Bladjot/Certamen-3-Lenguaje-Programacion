@@ -1,0 +1,7 @@
+569899646509666304
+American
+@AmericanAir confused at the definition of a "preferred seat." I paid extra for one and got a regular seat with no legroom. Unimpressed.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 08:40:38 -0800
+location: milford.

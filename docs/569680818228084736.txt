@@ -1,0 +1,7 @@
+569680818228084736
+American
+@AmericanAir I am trying to add my tsa pre check number to my reservation online and don't see an option to do that..?? #nosecuritylines
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:11:05 -0800
+location: nan

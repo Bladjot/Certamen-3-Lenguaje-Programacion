@@ -1,0 +1,7 @@
+569665295381614594
+American
+@AmericanAir Yeah, try harder. No catering truck in sight.  Can we just leave now w/o the food won't eat anyway?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:09:24 -0800
+location: New York City

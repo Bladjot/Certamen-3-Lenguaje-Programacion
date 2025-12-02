@@ -1,0 +1,7 @@
+570208640520622080
+US Airways
+@USAirways why aren't you updating flight status/delays?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 05:08:28 -0800
+location: Greenville, SC

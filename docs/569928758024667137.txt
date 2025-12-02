@@ -1,0 +1,7 @@
+569928758024667137
+United
+@united what gate is ua5396 leaving from?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:36:19 -0800
+location: NEIN, London, or Maui.

@@ -1,0 +1,7 @@
+568049316582932480
+Southwest
+@SouthwestAir I just sent a screen shot of the incident report.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 06:08:05 -0800
+location: College Station, TX

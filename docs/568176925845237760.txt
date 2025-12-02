@@ -1,0 +1,7 @@
+568176925845237760
+United
+@united's in-flight promo on their TV's includes Brian Williams. Tough to edit that quickly. Not a complaint, just an observation.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 14:35:09 -0800
+location: Earth (for now...)

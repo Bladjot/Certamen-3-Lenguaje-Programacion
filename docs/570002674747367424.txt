@@ -1,0 +1,7 @@
+570002674747367424
+Delta
+@JetBlue Gotcha... thanks for the update. I'm ready to go whenever you are :) Enjoy your evening.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 15:30:02 -0800
+location: Los Angeles, CA

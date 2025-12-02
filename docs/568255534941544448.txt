@@ -1,0 +1,7 @@
+568255534941544448
+US Airways
+“@USAirways: @AnnetteNaif We appreciate the #shoutout for Roberto. DM your confirmation code so we can forward your kind words.” sent
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 19:47:31 -0800
+location: New York & Worldwide

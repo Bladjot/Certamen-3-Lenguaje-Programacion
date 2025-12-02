@@ -1,0 +1,7 @@
+567767199700758530
+United
+@united its 2015 and no power outlets at the seats on a 6 hour flight to California? Seriously? This is why airlines are failing!! Pathetic!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 11:27:03 -0800
+location: NYC

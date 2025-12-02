@@ -1,0 +1,7 @@
+568521303956656128
+US Airways
+@USAirways over 15min hold on your reservation line. embarrassing. AA Platinum member.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-19 13:23:36 -0800
+location: Miami, FL

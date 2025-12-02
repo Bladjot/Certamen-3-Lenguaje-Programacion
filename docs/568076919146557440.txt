@@ -1,0 +1,7 @@
+568076919146557440
+Delta
+@JetBlue hey you guys remembered lol! But now my BOS flights delayed... And turn the heat down in T5 it feels hotter than PR.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 07:57:46 -0800
+location: nan

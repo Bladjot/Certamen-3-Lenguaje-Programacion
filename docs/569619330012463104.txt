@@ -1,0 +1,7 @@
+569619330012463104
+American
+@AmericanAir Always love opening the upgrade email.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 14:06:45 -0800
+location: Trying to go everywhere!

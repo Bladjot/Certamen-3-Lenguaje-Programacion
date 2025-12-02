@@ -1,0 +1,7 @@
+569619668060807169
+US Airways
+@USAirways I saw online you had fee but I was wondering if there was a way to pay for it ahead of time, instead of at the kiosk
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 14:08:06 -0800
+location: East Lansing

@@ -1,0 +1,7 @@
+569774273851568128
+American
+@AmericanAir is the 24/7 phone line open? On hold for over 2 hours now. Your check-in agents cannot help at the airport itself. Please help.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 00:22:27 -0800
+location: nan

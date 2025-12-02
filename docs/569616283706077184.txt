@@ -1,0 +1,7 @@
+569616283706077184
+American
+@AmericanAir Flight for tomorrow has already been Cancelled Flightled, what do I do now?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 13:54:39 -0800
+location: nan

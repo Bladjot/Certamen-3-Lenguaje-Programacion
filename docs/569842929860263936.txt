@@ -1,0 +1,7 @@
+569842929860263936
+American
+@AmericanAir called last night, after 10hrs got call back, can I get a one day pass to admirals club? I'm going to be spending 7hrs in DFW
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 04:55:16 -0800
+location: Southern California

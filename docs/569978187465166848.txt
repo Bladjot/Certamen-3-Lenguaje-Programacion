@@ -1,0 +1,7 @@
+569978187465166848
+US Airways
+@USAirways thanks for the reply. On a good note, the pilot nailed the landing. Seriously. Kudos.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 13:52:44 -0800
+location: Spokane, Washington

@@ -1,0 +1,7 @@
+570028289399525376
+American
+@AmericanAir TSA said there is nothing they could do. But the question is why are your employee's swapping your customers belongings?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 17:11:49 -0800
+location: Charlotte,NC

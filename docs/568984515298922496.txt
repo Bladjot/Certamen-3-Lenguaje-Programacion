@@ -1,0 +1,7 @@
+568984515298922496
+United
+@united you should change your name to United Incompetence. No flight until Monday, have to take a 7 hour drive now to get to my flight!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 20:04:14 -0800
+location: nan

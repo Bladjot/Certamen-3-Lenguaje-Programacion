@@ -1,0 +1,7 @@
+569909058250997760
+US Airways
+@USAirways we called and were able to get rescheduled. Thank you for the quick responses today!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 09:18:02 -0800
+location: Dallas, TX

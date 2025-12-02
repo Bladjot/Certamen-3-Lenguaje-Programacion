@@ -1,0 +1,7 @@
+568519214211813377
+Southwest
+@SouthwestAir you're killing me!! always #delayed from #SanDiego to #SF!! #ugh
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 13:15:17 -0800
+location: san diego, CA

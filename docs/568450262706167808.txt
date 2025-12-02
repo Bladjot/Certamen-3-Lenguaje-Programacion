@@ -1,0 +1,7 @@
+568450262706167808
+United
+@united I got an email saying "changes to my MileagePlus account are confirmed" but I didn't make any changes. Help?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 08:41:18 -0800
+location: Los Angeles, CA

@@ -1,0 +1,7 @@
+568601527591440386
+US Airways
+@USAirways I submitted refund request b4 1st flight 2 days ago. Is that all I need 2 do?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 18:42:22 -0800
+location: Austin, TX

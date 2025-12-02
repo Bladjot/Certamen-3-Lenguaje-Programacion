@@ -1,0 +1,7 @@
+568560510896963584
+United
+@united not about being on my way or impatience on my part...it's about you being untruthful and not having proper systems in place
+sentiment: negative
+negativereason: longlines
+created: 2015-02-19 15:59:23 -0800
+location: nan

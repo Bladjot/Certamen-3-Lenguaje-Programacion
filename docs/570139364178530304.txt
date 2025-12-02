@@ -1,0 +1,7 @@
+570139364178530304
+American
+@AmericanAir another generic response guys? Cmon. You're terrible. How about an actual helpful person? Not all the rude employees at LAX
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 00:33:11 -0800
+location: Nevada

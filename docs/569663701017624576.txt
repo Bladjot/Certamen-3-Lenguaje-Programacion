@@ -1,0 +1,7 @@
+569663701017624576
+American
+@AmericanAir finally about to take off! Thanks for the customer service by the g8 reps @ c17 @ CTL. Any idea what caused the system failure?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:03:04 -0800
+location: Jacksonville Beach, Florida

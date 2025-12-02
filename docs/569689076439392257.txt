@@ -1,0 +1,7 @@
+569689076439392257
+United
+@united Well I can tell you that your customer service at RDU airport is horrific but is exception at O'Hare in Chicago.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:43:54 -0800
+location: Hillsborough, NC

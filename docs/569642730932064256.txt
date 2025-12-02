@@ -1,0 +1,7 @@
+569642730932064256
+Delta
+@JetBlue thank you for the refund of the change fee for a recent flight affected by our bizarre winter. Excellent customer service and focus
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 15:39:45 -0800
+location: nan

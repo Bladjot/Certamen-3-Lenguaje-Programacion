@@ -1,0 +1,7 @@
+569526894028197888
+Delta
+@JetBlue she waved someone behind me to step forward although I explained what happened and indicated my need to make my flight
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 07:59:27 -0800
+location: Naples, FL, Boston, MA

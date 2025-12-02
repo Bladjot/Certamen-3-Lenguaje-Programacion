@@ -1,0 +1,7 @@
+569260526976544768
+Virgin America
+@VirginAmerica cool picture of another VirginAmerica plane off our wing. What a site! http://t.co/5B2agFd8c4
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 14:21:00 -0800
+location: CT

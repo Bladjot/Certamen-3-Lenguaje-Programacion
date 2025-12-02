@@ -1,0 +1,7 @@
+568494962880475137
+US Airways
+@USAirways @AmericanAir when is US Air switching to AA iOS app? AA app is much better.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 11:38:55 -0800
+location: Cary, NC

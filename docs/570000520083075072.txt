@@ -1,0 +1,7 @@
+570000520083075072
+US Airways
+@USAirways horrible travel day w/ your airlines. My 2:20 flight to Birmingham was Cancelled Flightled w/ no notification so I couldn't get on the 4:05
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 15:21:28 -0800
+location: nan

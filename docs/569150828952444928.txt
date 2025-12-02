@@ -1,0 +1,7 @@
+569150828952444928
+Delta
+@JetBlue Airways Now Covered by Bank of America (JBLU) - Dakota Financial News http://t.co/WOwxhpU5qv
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 07:05:06 -0800
+location: USA

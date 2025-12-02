@@ -1,0 +1,7 @@
+568781359331844096
+Delta
+@JetBlue appreciate what you've done on your end to make this right, but still unhappy with initial incident. Will be calling.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 06:36:58 -0800
+location: nan

@@ -1,0 +1,7 @@
+569088496117415937
+United
+@united service by staff was great as usual. Cleanliness and smells a bit much. I'll be back. #satisfied traveler
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 02:57:25 -0800
+location: Chicago

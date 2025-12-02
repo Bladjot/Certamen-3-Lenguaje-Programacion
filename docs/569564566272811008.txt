@@ -1,0 +1,7 @@
+569564566272811008
+US Airways
+@USAirways your mobile app is horrible!  Needs a major overhaul
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 10:29:09 -0800
+location: Lexington, KY

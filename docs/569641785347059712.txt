@@ -1,0 +1,7 @@
+569641785347059712
+American
+@AmericanAir lost my wife's luggage and nobody gives you and answer, all they say is go here or call there.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 15:35:59 -0800
+location: nan

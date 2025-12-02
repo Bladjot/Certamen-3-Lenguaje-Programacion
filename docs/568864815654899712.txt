@@ -1,0 +1,7 @@
+568864815654899712
+Virgin America
+@VirginAmerica Need to start flying to @KCIAirport .  😊😀😃😄
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 12:08:35 -0800
+location: Kansas City, MO

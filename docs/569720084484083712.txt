@@ -1,0 +1,7 @@
+569720084484083712
+American
+@AmericanAir 🙏 in my hotel now. Thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 20:47:07 -0800
+location: Los Angeles, CA

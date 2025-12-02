@@ -1,0 +1,7 @@
+569938450633388032
+Delta
+@JetBlue with 3 kids and 11 days 340 + doesn't work and it's months in advance
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:14:50 -0800
+location: some where in massachusetts

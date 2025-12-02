@@ -1,0 +1,7 @@
+570275944012783616
+American
+@AmericanAir can u help rebook passenger via Twitter/DM.  Been on hold for 1.5 hours. Thanks!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 09:35:54 -0800
+location: Denver, Colorado

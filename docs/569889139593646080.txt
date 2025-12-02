@@ -1,0 +1,7 @@
+569889139593646080
+Delta
+@JetBlue thanks! Calling right now!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 07:58:53 -0800
+location: Puerto Rico

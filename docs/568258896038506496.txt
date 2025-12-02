@@ -1,0 +1,7 @@
+568258896038506496
+Southwest
+Looking forward to using Passbook when I fly  @SouthwestAir in a few weeks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 20:00:53 -0800
+location: Dallas, TX

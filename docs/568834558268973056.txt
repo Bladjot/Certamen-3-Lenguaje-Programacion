@@ -1,0 +1,7 @@
+568834558268973056
+Delta
+chair #selfie "@JetBlue: @StacyCrossB6 @PHLAirport @SaharaSams  Everyone looks #FLAWLESS ;) We're so PROUD of our PHL crew! #BlueHeros”
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 10:08:21 -0800
+location: West Berlin, NJ

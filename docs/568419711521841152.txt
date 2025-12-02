@@ -1,0 +1,7 @@
+568419711521841152
+United
+@united - watched the entire #UNCvsDUKE game on the Tarmac before Cancelled Flighting my flight because crew timed out, right before my 4hr flight....
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 06:39:54 -0800
+location: nan

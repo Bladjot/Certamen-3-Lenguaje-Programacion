@@ -1,0 +1,7 @@
+567972426027565056
+Southwest
+@SouthwestAir why is your website downnnnn :( ugh
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 01:02:33 -0800
+location: nan

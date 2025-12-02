@@ -1,0 +1,7 @@
+569627839374467072
+American
+@AmericanAir @NY_NJairports Do you guys teach poor customer service or is it just part of an american dream?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:40:34 -0800
+location: UK

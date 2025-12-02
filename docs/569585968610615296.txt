@@ -1,0 +1,7 @@
+569585968610615296
+US Airways
+@USAirways Cancelled Flightled flight this AM. There was avail flight to PHL today u said was sold out. I had to buy 2nd ticket, u need to refund me.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 11:54:11 -0800
+location: nan

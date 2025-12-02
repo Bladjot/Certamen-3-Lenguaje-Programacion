@@ -1,0 +1,7 @@
+569757790626906112
+Southwest
+@SouthwestAir yes I was everything worked out great
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 23:16:57 -0800
+location: nan

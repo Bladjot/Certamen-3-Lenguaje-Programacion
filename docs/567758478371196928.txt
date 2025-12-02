@@ -1,0 +1,7 @@
+567758478371196928
+United
+@United yall tried it with this little bitty plane flying out of boston!! I hate little planes!!!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 10:52:24 -0800
+location: nan

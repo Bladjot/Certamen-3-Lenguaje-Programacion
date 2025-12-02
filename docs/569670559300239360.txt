@@ -1,0 +1,7 @@
+569670559300239360
+American
+@AmericanAir @HeyMyNameIsSEAN Sean if you look at the AA schedule it sometimes gives you a clue if new'airplanes are used. They are gr8
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:30:19 -0800
+location: nan

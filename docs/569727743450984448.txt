@@ -1,0 +1,7 @@
+569727743450984448
+American
+@AmericanAir We have been sitting on this bird #AA1457 for 2 hrs on the dfw tarmac.  Some water would be nice.  Where's your manners?
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 21:17:33 -0800
+location: San Francisco, CA

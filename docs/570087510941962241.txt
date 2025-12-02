@@ -1,0 +1,7 @@
+570087510941962241
+American
+@americanair flight veers off icy runway at @dfwairport. Most DFW flights Cancelled Flighted Mon http://t.co/Q37pOWn6uv @Cowboycerrone figures right?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 21:07:08 -0800
+location: nan

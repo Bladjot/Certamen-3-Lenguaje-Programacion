@@ -1,0 +1,7 @@
+568768952366575618
+United
+@united no chance in hell. I'd rather walk. Worst airline ever.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 05:47:40 -0800
+location: Chicago, IL

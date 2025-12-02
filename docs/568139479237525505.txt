@@ -1,0 +1,7 @@
+568139479237525505
+US Airways
+@USAirways only to come home a day Late Flight to find out you guys have lost my luggage
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 12:06:22 -0800
+location: nan

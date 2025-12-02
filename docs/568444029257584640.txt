@@ -1,0 +1,7 @@
+568444029257584640
+US Airways
+@USAirways 😂. Passed frustrated 4 hours ago after being asked to get off the first plane I sat on for an hour.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 08:16:32 -0800
+location: nan

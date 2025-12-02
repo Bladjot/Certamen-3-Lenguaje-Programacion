@@ -1,0 +1,7 @@
+569343003476819969
+Delta
+@JetBlue flite454
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 19:48:44 -0800
+location: nan

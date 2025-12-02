@@ -1,0 +1,7 @@
+568170929639059456
+Southwest
+@SouthwestAir awesome. thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 14:11:20 -0800
+location: Warren, OH

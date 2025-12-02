@@ -1,0 +1,7 @@
+569496729755652098
+Delta
+@JetBlue on flight 622 from Nassau to JFK. Not showing Cancelled Flightled yet but assuming it will be? Any info?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 05:59:35 -0800
+location: west hartford, connecticut

@@ -1,0 +1,7 @@
+568806237804109825
+United
+@united please send help ASAP to @KathrynSotelo on flight 5957 to Chicago seat 9c #Airlines http://t.co/9sKrLyrZ1O
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 08:15:49 -0800
+location: Louisville, KY

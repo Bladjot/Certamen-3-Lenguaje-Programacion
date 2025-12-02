@@ -1,0 +1,7 @@
+568608136485056512
+United
+@united it's freezing on the gate bridge#waitingforbags#united#EWR
+sentiment: negative
+negativereason: longlines
+created: 2015-02-19 19:08:38 -0800
+location: New York

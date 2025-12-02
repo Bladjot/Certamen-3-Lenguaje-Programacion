@@ -1,0 +1,7 @@
+568146404784209920
+Southwest
+@SouthwestAir I'm smashed into a window by the giant guest sitting next to me. #4386. No way this guy should have been given 1 seat.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 12:33:53 -0800
+location: Las Vegas

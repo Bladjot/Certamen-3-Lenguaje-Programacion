@@ -1,0 +1,7 @@
+569690711026573312
+American
+@AmericanAir we knew it was not going to leave but we had 6 hours waiting... that was the hurry..
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:50:24 -0800
+location: Santo Domingo

@@ -1,0 +1,7 @@
+569528451339673600
+Delta
+@JetBlue and ask she load the bag for my flight
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 08:05:38 -0800
+location: Naples, FL, Boston, MA

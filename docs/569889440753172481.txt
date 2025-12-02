@@ -1,0 +1,7 @@
+569889440753172481
+American
+@AmericanAir trying to get home is beyond complicated. It's should not be this hard. Students are split up and we will not fly AA ever again
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 08:00:05 -0800
+location: Everywhere

@@ -1,0 +1,7 @@
+568496176116457472
+Southwest
+@SouthwestAir can't DM you without you following me...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 11:43:45 -0800
+location: nan

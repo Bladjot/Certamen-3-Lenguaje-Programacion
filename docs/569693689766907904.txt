@@ -1,0 +1,7 @@
+569693689766907904
+United
+@united What are the chances of my flight to EWR from PIT being Cancelled Flighted tomorrow?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 19:02:14 -0800
+location: nan

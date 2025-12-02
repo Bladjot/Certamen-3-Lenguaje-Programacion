@@ -1,0 +1,7 @@
+569581126215438336
+Delta
+@JetBlue you guys rock!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 11:34:57 -0800
+location: NYC

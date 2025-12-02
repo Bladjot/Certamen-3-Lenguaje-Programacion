@@ -1,0 +1,7 @@
+569676404893163520
+Southwest
+@SouthwestAir beautiful view flying into San Jose, CA this evening http://t.co/SxVaGbRTlI
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:53:33 -0800
+location: Omaha, Nebraska

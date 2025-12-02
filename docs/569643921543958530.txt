@@ -1,0 +1,7 @@
+569643921543958530
+American
+@AmericanAir what name and department does it come under? Thanks
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:44:29 -0800
+location: nan

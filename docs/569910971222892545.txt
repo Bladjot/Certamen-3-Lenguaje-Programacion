@@ -1,0 +1,7 @@
+569910971222892545
+US Airways
+@USAirways Another twist in the plot. Took off from Miami, then had to return due to a unsecured cargo door. most stressful vacation ever.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 09:25:38 -0800
+location: Cincinnati, OH

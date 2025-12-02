@@ -1,0 +1,7 @@
+570281719074566145
+Southwest
+@SouthwestAir what is the status of the bag check area at FFL?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:58:51 -0800
+location: nan

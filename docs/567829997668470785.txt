@@ -1,0 +1,7 @@
+567829997668470785
+Southwest
+@SouthwestAir Flight 4968 (N8325D) departs @MCO enroute to @NO_Airport http://t.co/fd4SnvKIeM
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 15:36:35 -0800
+location: Englewood, Florida

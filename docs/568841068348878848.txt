@@ -1,0 +1,7 @@
+568841068348878848
+US Airways
+@USAirways how do I get you to stop sending me emails about my ex boyfriends account? I don't care how many points he has! He only has
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 10:34:13 -0800
+location: nan

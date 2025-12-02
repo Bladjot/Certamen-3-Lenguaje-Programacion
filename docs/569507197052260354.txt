@@ -1,0 +1,7 @@
+569507197052260354
+United
+@united question. Are departure times based off eastern central time or the time zone your actually in?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 06:41:11 -0800
+location: nan

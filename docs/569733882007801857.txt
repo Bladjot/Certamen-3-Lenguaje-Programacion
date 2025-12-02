@@ -1,0 +1,7 @@
+569733882007801857
+Delta
+@JetBlue Didn't find out my flight for NY, scheduled to leave at 9:30pm, is delayed by more than 1.5hrs until AFTER checking in. Huge fail.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 21:41:57 -0800
+location: nan

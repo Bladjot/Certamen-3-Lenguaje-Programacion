@@ -1,0 +1,7 @@
+568795018816675841
+United
+@united Stuck in. ORD because United can't find their airplane. Lol. #upset terminal right now.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 07:31:14 -0800
+location: Orlando, FL

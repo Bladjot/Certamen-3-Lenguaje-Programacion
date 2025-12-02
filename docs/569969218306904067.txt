@@ -1,0 +1,7 @@
+569969218306904067
+US Airways
+@USAirways the jetway because he felt I was disrespectful. I have never been treated this way particularly when I was trying to be a good c
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 13:17:05 -0800
+location: nan

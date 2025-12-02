@@ -1,0 +1,7 @@
+567747769176432640
+US Airways
+@USAirways Travelling from pwm to atl on Sunday That flight got Cancelled Flightled and my new flight is Cancelled Flightled and got disconnected when reFlight Booking Problems
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 10:09:51 -0800
+location: Georgia

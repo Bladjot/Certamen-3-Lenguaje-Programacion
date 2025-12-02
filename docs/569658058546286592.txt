@@ -1,0 +1,7 @@
+569658058546286592
+Delta
+@JetBlue Ricoh Smith at BOS provided oust and service
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:40:39 -0800
+location: nan

@@ -1,0 +1,7 @@
+569904589010575360
+US Airways
+@USAirways over the phone. I called the 6170 number and she picked up almost immediately.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 09:00:16 -0800
+location: Washington, DC

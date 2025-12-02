@@ -1,0 +1,7 @@
+569298744337788928
+United
+@united we are the airline that has Cancelled Flightled flights TOMORROW to the NYC area
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 16:52:52 -0800
+location: nan

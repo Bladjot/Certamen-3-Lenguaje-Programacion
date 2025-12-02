@@ -1,0 +1,7 @@
+567778236026077185
+US Airways
+@USAirways @AmericanAir  we are on us/aa flight 4443.We  arrived at dca at 2:12. Waiting on our gate (33)for apx an hr now. No update?
+sentiment: negative
+negativereason: longlines
+created: 2015-02-17 12:10:54 -0800
+location: Washington, DC

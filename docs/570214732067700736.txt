@@ -1,0 +1,7 @@
+570214732067700736
+American
+@AmericanAir   What is that!? Why even bother catering dog food that no one will eat ? http://t.co/iFESPcBzTm
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 05:32:40 -0800
+location: nan

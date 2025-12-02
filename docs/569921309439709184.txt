@@ -1,0 +1,7 @@
+569921309439709184
+United
+@united - SERIOUSLY it's 2015?!?!  NO WiFi on a 5hr flight from CLE-SFO #1589.  You're the ONLY airline w/out WiFi...and pls no 'unwind' BS.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 10:06:43 -0800
+location: nan

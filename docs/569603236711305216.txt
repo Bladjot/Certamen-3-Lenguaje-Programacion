@@ -1,0 +1,7 @@
+569603236711305216
+United
+@united thank you for letting me down.My luggage is still in Denver but I'm in Phl. #neveragain #flyingwithUS #disappointed #lostacustomer
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 13:02:49 -0800
+location: nan

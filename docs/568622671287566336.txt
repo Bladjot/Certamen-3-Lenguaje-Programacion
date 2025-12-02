@@ -1,0 +1,7 @@
+568622671287566336
+United
+@united Yes my flight was rebooked. I'm just losing trust in you if I want to get anywhere on time.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 20:06:23 -0800
+location: Boston, MA

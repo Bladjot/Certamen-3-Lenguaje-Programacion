@@ -1,0 +1,7 @@
+569630183747153920
+Southwest
+@SouthwestAir Had a very unpleasant experience over the phone with one of your agents re: a Cancelled Flightled flight. I have the name &amp; agent ID.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 14:49:53 -0800
+location: Missouri

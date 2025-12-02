@@ -1,0 +1,7 @@
+568218462281183232
+Delta
+@JetBlue sure thing!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 17:20:13 -0800
+location: #ManorvilleInExile

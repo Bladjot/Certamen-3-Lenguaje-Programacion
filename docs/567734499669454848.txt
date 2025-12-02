@@ -1,0 +1,7 @@
+567734499669454848
+US Airways
+@USAirways hundreds of people in line and less than half the desks being manned at CLT. Help?
+sentiment: negative
+negativereason: longlines
+created: 2015-02-17 09:17:07 -0800
+location: nan

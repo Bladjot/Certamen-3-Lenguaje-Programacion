@@ -1,0 +1,7 @@
+569367829188886528
+US Airways
+@USAirways They provided no options. Since you all have a better sense of the weather, I hoped you could suggest.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 21:27:23 -0800
+location: nan

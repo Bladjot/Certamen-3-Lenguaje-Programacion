@@ -1,0 +1,7 @@
+569618972535959552
+American
+@AmericanAir I need to order a special meal and I can't reach AA. Been on hold for over 2 hours
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:05:20 -0800
+location: nan

@@ -1,0 +1,7 @@
+569869892960133120
+American
+@AmericanAir worst experience ever. @VirginAmerica all the way!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 06:42:24 -0800
+location: Los Angeles

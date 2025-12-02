@@ -1,0 +1,7 @@
+568226940139782144
+United
+@United OMG WHERE IS MY BAG??? YYZUA70435 - enough with the shenanigans already. It's getting real old real quick!!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 17:53:54 -0800
+location: nan

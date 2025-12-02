@@ -1,0 +1,7 @@
+568983517037772800
+US Airways
+@USAirways Ever sit on hold and just lose track of time? http://t.co/Yqhk8LJaBN
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 20:00:16 -0800
+location: Crystal Lake, IL

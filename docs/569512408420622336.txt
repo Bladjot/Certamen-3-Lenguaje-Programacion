@@ -1,0 +1,7 @@
+569512408420622336
+US Airways
+@USAirways And the lies continue. Just waited another hr to get boarding passes for flight supposedly created today which is now Cancelled Flightled?!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 07:01:53 -0800
+location: nan

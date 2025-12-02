@@ -1,0 +1,7 @@
+569938303694319616
+Delta
+*On the brink of bankruptcy. “@JetBlue: Our fleet's on fleek. http://t.co/01ldxn3QqQ”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:14:15 -0800
+location: DMV

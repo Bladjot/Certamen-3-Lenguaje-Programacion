@@ -1,0 +1,7 @@
+567830916950822912
+United
+@united $7 for wifi just so I can tell my family I'm gonna be Late Flight cause i had to sit in a grounded plane for the past two hours...
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 15:40:15 -0800
+location: California

@@ -1,0 +1,7 @@
+568989005162766337
+Virgin America
+@VirginAmerica beats expectations, shares take off - Santa Cruz Sentinel http://t.co/qm9dQbai6G
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 20:22:04 -0800
+location: Global

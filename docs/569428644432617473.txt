@@ -1,0 +1,7 @@
+569428644432617473
+United
+@united and the fact that we were treated disrespectfully and lied to by members of your airline that claims to strive for the best
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 01:29:02 -0800
+location: Bedford, Nh

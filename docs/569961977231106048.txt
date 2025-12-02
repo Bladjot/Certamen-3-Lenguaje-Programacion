@@ -1,0 +1,7 @@
+569961977231106048
+Southwest
+@SouthwestAir continues to prove to be the best airlines 💪
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:48:19 -0800
+location: Twin Cities

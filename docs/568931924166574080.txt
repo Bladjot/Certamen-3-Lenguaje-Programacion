@@ -1,0 +1,7 @@
+568931924166574080
+United
+. @united sad that you don't think it is important to resolve your client facing team that behaves disgraceful
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 16:35:15 -0800
+location: nan

@@ -1,0 +1,7 @@
+569152074052542464
+Delta
+@JetBlue I'd go back to Haiti to deliver shoes, books&amp;medicine to kids I met in orphanage last year. #flyingitforward http://t.co/pGoeUXnsPI
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 07:10:03 -0800
+location: boise, idaho

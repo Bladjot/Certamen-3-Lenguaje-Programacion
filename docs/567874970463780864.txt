@@ -1,0 +1,7 @@
+567874970463780864
+Delta
+@JetBlue I just wanted to say flight attendant fitz was the best tonight on flight #1326 bwi/Bos. Great guy and made the flight fantastic!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 18:35:18 -0800
+location: Bahhhston.

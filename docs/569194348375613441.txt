@@ -1,0 +1,7 @@
+569194348375613441
+United
+@united this is not true. Gate agents 100% caused this. And we're not helpful. Thanks for making me miss connection!! http://t.co/xAIzW2isml
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 09:58:02 -0800
+location: Chicago, IL

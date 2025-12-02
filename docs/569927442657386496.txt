@@ -1,0 +1,7 @@
+569927442657386496
+American
+@AmericanAir seriously, you treat your passengers like shit.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:31:05 -0800
+location: nan

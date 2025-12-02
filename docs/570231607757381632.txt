@@ -1,0 +1,7 @@
+570231607757381632
+US Airways
+@USAirways @AmericanAir our honeymoon was delayed a day because a gas cap was not screwed on! Flight 1801- so frustrating!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 06:39:44 -0800
+location: St. Louis

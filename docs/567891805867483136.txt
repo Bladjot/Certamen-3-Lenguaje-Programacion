@@ -1,0 +1,7 @@
+567891805867483136
+Delta
+@JetBlue Thanks for having us hang out at Tampa Airport forever today!!! It's really been an awesome experience
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 19:42:12 -0800
+location: New Vernon,  NJ

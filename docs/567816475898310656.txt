@@ -1,0 +1,7 @@
+567816475898310656
+United
+@united Does the economy plus cabin also qualifies as a "premium" cabin?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:42:52 -0800
+location: The Netherlands

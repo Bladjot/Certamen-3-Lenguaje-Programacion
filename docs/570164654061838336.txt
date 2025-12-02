@@ -1,0 +1,7 @@
+570164654061838336
+American
+@AmericanAir Policy makers need to change their mindset on aviation. Flying is not for... http://t.co/DQnn0Rf1V8
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 02:13:41 -0800
+location: New Delhi

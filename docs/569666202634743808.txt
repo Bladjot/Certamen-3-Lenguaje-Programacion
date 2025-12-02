@@ -1,0 +1,7 @@
+569666202634743808
+American
+@AmericanAir DONE!! thank you so much!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:13:01 -0800
+location: Chicago, IL

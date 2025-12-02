@@ -1,0 +1,7 @@
+569071393356288000
+Southwest
+@SouthwestAir we are trying to go as far away from King'sCollegeLondon as possible for charity today. Would you help us ? #jailbreak #RAG
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 01:49:27 -0800
+location: Orleans/Tarpon Springs/London

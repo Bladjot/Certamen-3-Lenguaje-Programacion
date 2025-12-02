@@ -1,0 +1,7 @@
+568127434173878272
+Delta
+@JetBlue I do follow you!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 11:18:30 -0800
+location: Buffalo NY/ Pinehurst NC

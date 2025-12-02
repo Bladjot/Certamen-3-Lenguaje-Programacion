@@ -1,0 +1,7 @@
+569319239900725248
+United
+@united it was eventually explained that weather conditions too extreme to get luggage off planes. Will be sent on. But I won't be for days!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 18:14:18 -0800
+location: Ottawa, Canada

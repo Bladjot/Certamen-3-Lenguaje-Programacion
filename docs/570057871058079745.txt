@@ -1,0 +1,7 @@
+570057871058079745
+American
+@AmericanAir we have posted your response on facebook for everyone to see people are appalled by your lack of concern
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 19:09:22 -0800
+location: Belle MO

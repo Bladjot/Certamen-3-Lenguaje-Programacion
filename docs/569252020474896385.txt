@@ -1,0 +1,7 @@
+569252020474896385
+US Airways
+@USAirways comin in clutch and sending me to Charlotte then home, I h8 u @AmericanAir, except for Wayne u a real g #ThankJesus #ThankMe
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 13:47:12 -0800
+location: nan

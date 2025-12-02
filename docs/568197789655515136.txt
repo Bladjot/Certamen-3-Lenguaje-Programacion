@@ -1,0 +1,7 @@
+568197789655515136
+Delta
+@JetBlue 6am Austin to JFK
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 15:58:04 -0800
+location: Austin, TX

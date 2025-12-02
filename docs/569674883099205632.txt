@@ -1,0 +1,7 @@
+569674883099205632
+American
+@AmericanAir how have you not loaded our luggage on the plane and were OVER an hour delayed? #Flight293
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 17:47:30 -0800
+location: NYCATL

@@ -1,0 +1,7 @@
+570296986827694080
+American
+@AmericanAir Checked in on app since yesterday. Confirmed upgrade &amp; carry on, got to counter &amp; manager upgraded somebody else on my seat!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 10:59:31 -0800
+location: nan

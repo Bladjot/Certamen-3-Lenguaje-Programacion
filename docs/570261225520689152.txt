@@ -1,0 +1,7 @@
+570261225520689152
+Southwest
+@SouthwestAir I booked a flight on my phone and then never got a confirmation email. How would I go about getting that?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 08:37:25 -0800
+location: Duluth, MN

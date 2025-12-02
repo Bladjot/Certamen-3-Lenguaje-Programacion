@@ -1,0 +1,7 @@
+567874505881845760
+Delta
+@JetBlue Received an invitation to participate in e-rewards. Is this legit from JetBlue? Just double checking bc the site looked different.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 18:33:27 -0800
+location: Boston

@@ -1,0 +1,7 @@
+568552347812524032
+United
+@united you had us REBOARD without the captain.  So now we'll be sitting in here for another 20+ min? http://t.co/EEReKDf9Fq
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 15:26:57 -0800
+location: Madison, wi

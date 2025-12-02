@@ -1,0 +1,7 @@
+569459618881019905
+Virgin America
+@VirginAmerica to jump into the Dallas-Austin market - @Dallas_News http://t.co/EwwGi97gdx
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 03:32:07 -0800
+location: FL410

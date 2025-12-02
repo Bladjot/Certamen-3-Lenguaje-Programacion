@@ -1,0 +1,7 @@
+569950980638412800
+American
+@AmericanAir sure is. What's more frustrating is being stranded at the airport with our fate in your hands.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 12:04:37 -0800
+location: nan

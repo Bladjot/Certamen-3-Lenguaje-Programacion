@@ -1,0 +1,7 @@
+568576245027336193
+United
+@united over an hour stuck and still not off the plane. Total failure by you and your partners in ensuring the best customer experience.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 17:01:55 -0800
+location: nan

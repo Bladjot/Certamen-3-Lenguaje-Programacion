@@ -1,0 +1,7 @@
+570165459783450624
+United
+@united about 3 hours ago. I need to work out if my bag can make it to my hotel here in time or if it will need to go elsewhere.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 02:16:53 -0800
+location: nan

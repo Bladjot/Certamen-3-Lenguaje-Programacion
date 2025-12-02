@@ -1,0 +1,7 @@
+567806786331234305
+Southwest
+@SouthwestAir your customer service is terrible, you're terrible, thought you should know.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 14:04:21 -0800
+location: CSB/SJU

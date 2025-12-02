@@ -1,0 +1,7 @@
+569942094766325762
+American
+@AmericanAir get me outta here
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 11:29:19 -0800
+location: nan

@@ -1,0 +1,7 @@
+568437634835595264
+Southwest
+@SouthwestAir For my Grandma Ella's 80th, she would love a bday greeting from your flight crew! She was a stewardess for Eastern Airlines.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 07:51:07 -0800
+location: Long Island, NY

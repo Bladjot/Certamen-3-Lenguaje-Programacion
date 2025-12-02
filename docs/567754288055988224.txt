@@ -1,0 +1,7 @@
+567754288055988224
+United
+@united stay warm - I will be passing through Chicago next week
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 10:35:45 -0800
+location: NJ/NYC

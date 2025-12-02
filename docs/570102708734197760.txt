@@ -1,0 +1,7 @@
+570102708734197760
+Delta
+@JetBlue the worst flying experience I've ever suffered through. I'd appreciate my money back.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 22:07:32 -0800
+location: Portland, Maine

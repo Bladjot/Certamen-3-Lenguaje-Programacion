@@ -1,0 +1,7 @@
+569599590355173376
+Delta
+@JetBlue is there wifi on he plain
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:48:19 -0800
+location: nan

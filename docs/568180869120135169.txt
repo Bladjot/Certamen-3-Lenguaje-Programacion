@@ -1,0 +1,7 @@
+568180869120135169
+US Airways
+@USAirways My last flight was Cancelled Flightled and I'm very disappointed.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 14:50:50 -0800
+location: san jose , ca

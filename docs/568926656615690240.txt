@@ -1,0 +1,7 @@
+568926656615690240
+Southwest
+@SouthwestAir thank you. See u next wednesday in FLL. Save me some peanuts
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 16:14:19 -0800
+location: nan

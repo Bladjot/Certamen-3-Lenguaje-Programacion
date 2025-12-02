@@ -1,0 +1,7 @@
+570258597180940288
+American
+@AmericanAir I'm sure all these birds will be in warmer weather soon.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:26:59 -0800
+location: San Diego, CA

@@ -1,0 +1,7 @@
+569707409985445889
+American
+@AmericanAir You have a lot on your pLate Flight dealing with Cancelled Flightlations and weather tonite. Those are more important. I know you will respond.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 19:56:45 -0800
+location: nan

@@ -1,0 +1,7 @@
+570301083672813571
+Virgin America
+@VirginAmerica I didn't today... Must mean I need to take another trip!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:15:48 -0800
+location: Lets Play

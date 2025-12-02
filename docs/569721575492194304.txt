@@ -1,0 +1,7 @@
+569721575492194304
+American
+@AmericanAir not anymore.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 20:53:03 -0800
+location: Miami Beach, Florida

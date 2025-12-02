@@ -1,0 +1,7 @@
+570275248052039680
+American
+@AmericanAir that doesn't really answer my question. Maybe if I provide more details you can give me clarification...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 09:33:08 -0800
+location: Wellesley, MA

@@ -1,0 +1,7 @@
+568957349534289920
+United
+@united How can I verify if wheelchair assistance has been requested for my next flight?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 18:16:17 -0800
+location: nan

@@ -1,0 +1,7 @@
+568206350804770816
+United
+@united Apologize to the President. Once those employees blamed him, I heard it repeated 20 times.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 16:32:05 -0800
+location: Memphis TN

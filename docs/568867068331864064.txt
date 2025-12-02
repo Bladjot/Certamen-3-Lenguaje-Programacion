@@ -1,0 +1,7 @@
+568867068331864064
+Virgin America
+@VirginAmerica I think i left something on the plane yesterday. who do i call...ah!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 12:17:32 -0800
+location: NY, NY

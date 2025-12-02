@@ -1,0 +1,7 @@
+569977129728749568
+Southwest
+@SouthwestAir are 5 people there?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:48:32 -0800
+location: nan

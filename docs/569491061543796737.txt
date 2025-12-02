@@ -1,0 +1,7 @@
+569491061543796737
+Southwest
+@SouthwestAir FINALLY!  A Passbook option for the SWA App. Thank you!!!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 05:37:04 -0800
+location: Overland Park, KS

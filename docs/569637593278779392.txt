@@ -1,0 +1,7 @@
+569637593278779392
+American
+@AmericanAir Tired of sitting on a delayed #1702 again and again computer down
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:19:20 -0800
+location: nan

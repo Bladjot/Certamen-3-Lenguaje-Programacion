@@ -1,0 +1,7 @@
+569939614175248384
+Delta
+We didn't need this. RT @JetBlue: Our fleet's on fleek. http://t.co/cpZB285o71
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 11:19:27 -0800
+location: Vuhginyah

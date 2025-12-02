@@ -1,0 +1,7 @@
+570203789963218944
+US Airways
+@USAirways what's wrong with the plane? Flt 581
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 04:49:12 -0800
+location: millville,nj

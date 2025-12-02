@@ -1,0 +1,7 @@
+569231102428250112
+Delta
+@JetBlue Hello! Can you tell me if you currently fly to Hawaii? Thanks!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 12:24:05 -0800
+location: Virginia & Cali

@@ -1,0 +1,7 @@
+570252614320783361
+American
+@AmericanAir I need an answer why we can't get into Wichita Falls.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 08:03:12 -0800
+location: nan

@@ -1,0 +1,7 @@
+570266871586553856
+US Airways
+@USAirways what's the charge for oversize? Not overweight
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:59:51 -0800
+location: nan

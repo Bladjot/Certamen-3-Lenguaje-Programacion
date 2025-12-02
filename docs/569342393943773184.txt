@@ -1,0 +1,7 @@
+569342393943773184
+Delta
+@JetBlue when will you release flights for February 2016?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 19:46:19 -0800
+location: nan

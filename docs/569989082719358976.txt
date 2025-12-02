@@ -1,0 +1,7 @@
+569989082719358976
+Southwest
+@SouthwestAir u were bae until u lost both of my bags and had no clue where they were or what happened to them for 36 hours :/
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 14:36:01 -0800
+location: nan

@@ -1,0 +1,7 @@
+569695794598531072
+American
+@AmericanAir I'm getting calls from 1-800-433-7300 but the calls seem to drop instantly. Is there any alternate avenue for resched. support?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:10:36 -0800
+location: nan

@@ -1,0 +1,7 @@
+568260165759307776
+Delta
+@JetBlue Thank you so much!  I wasn't sure since in know the limit is 4 ozs. Excited to fly with JetBlue!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 20:05:55 -0800
+location: LA & Boston

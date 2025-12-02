@@ -1,0 +1,7 @@
+567905184040382464
+US Airways
+@USAirways No need for apologies just an unfortunate situation . There is no up date, I've landed but was suppose to land at 5
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 20:35:21 -0800
+location: nan

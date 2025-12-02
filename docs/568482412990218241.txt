@@ -1,0 +1,7 @@
+568482412990218241
+US Airways
+@USAirways My flight cost me just under $800 and this is what happens? I fly with @united and have no problems. I come the US 4-5 times...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 10:49:03 -0800
+location: Liverpool, UK

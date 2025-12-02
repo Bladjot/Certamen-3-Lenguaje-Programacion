@@ -1,0 +1,7 @@
+569941247546286080
+Southwest
+@SouthwestAir  your checkin is lame for business. Really last seat? I have broad shoulders haha
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 11:25:57 -0800
+location: Washington DC

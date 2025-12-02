@@ -1,0 +1,7 @@
+567783978955993088
+Southwest
+@SouthwestAir your checkin system is #poor
+sentiment: negative
+negativereason: longlines
+created: 2015-02-17 12:33:44 -0800
+location: Sunrise Beach, MO

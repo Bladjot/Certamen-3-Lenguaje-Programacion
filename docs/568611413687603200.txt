@@ -1,0 +1,7 @@
+568611413687603200
+United
+@united I missed it. Set up in a hotel. Flights delayed in SFO for 6+ hours. Missing all the wedding festivities of my friend. 😞
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 19:21:39 -0800
+location: Chicago, Illinois.

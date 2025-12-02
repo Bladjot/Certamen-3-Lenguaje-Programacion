@@ -1,0 +1,7 @@
+569654709964836865
+United
+@united How about free wifi when your flights delayed? Only 20 mins allowed!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:27:21 -0800
+location: Los Angeles, CA

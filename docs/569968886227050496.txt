@@ -1,0 +1,7 @@
+569968886227050496
+US Airways
+@USAirways I want to speak with someone immediately. I am shaking with rage. I offered to hate check my bag and Derrick bussey treated me
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 13:15:46 -0800
+location: nan

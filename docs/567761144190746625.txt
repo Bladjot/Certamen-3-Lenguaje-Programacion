@@ -1,0 +1,7 @@
+567761144190746625
+US Airways
+@USAirways Absolutely!! The staff was amazing!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 11:02:59 -0800
+location: Lima, OH

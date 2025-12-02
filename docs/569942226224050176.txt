@@ -1,0 +1,7 @@
+569942226224050176
+American
+@AmericanAir are flights leaving Dallas right now? In Maui trying to figure out how delayed flight 7 is going to be
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 11:29:50 -0800
+location: nan

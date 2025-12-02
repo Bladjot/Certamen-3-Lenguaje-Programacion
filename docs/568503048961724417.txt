@@ -1,0 +1,7 @@
+568503048961724417
+United
+@united too long for 140 characters
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 12:11:03 -0800
+location: nan

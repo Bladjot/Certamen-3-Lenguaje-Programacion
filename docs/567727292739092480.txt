@@ -1,0 +1,7 @@
+567727292739092480
+Virgin America
+@VirginAmerica Flying LAX to SFO and after looking at the awesome movie lineup I actually wish I was on a long haul.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 08:48:29 -0800
+location: Living in a Gangsters Paradise

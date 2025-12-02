@@ -1,0 +1,7 @@
+569007580925677568
+United
+.@united This flight attendant was extremely helpful to a woman who had a hard time walking. Very touching!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 21:35:53 -0800
+location: nan

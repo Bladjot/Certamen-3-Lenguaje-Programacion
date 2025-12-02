@@ -1,0 +1,7 @@
+567806467974365184
+Virgin America
+@VirginAmerica wifi AND better seating.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 14:03:05 -0800
+location: Jersey City, New Jersey

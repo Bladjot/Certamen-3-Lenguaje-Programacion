@@ -1,0 +1,7 @@
+569283511192051712
+United
+@united Flight Cancelled Flightled to BDL and stranded @Dulles_Airport. Waiting almost 2hrs at customer service. Shout out to diligent agents.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-21 15:52:20 -0800
+location: New Haven, CT

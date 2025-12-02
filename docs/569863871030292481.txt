@@ -1,0 +1,7 @@
+569863871030292481
+American
+@AmericanAir I hear #Delta is offering 2,500 miles to frequent flyers if their bags doesn't come out within 20 minutes of landing thoughts?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 06:18:29 -0800
+location: Chicago

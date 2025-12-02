@@ -1,0 +1,7 @@
+568565044994158592
+United
+@united make sure you make Cancelled Flighted flight baggage and upgrade fees seem like a labyrinth so that you might be able to swindle a few $ more
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 16:17:24 -0800
+location: lexington KY

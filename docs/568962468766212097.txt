@@ -1,0 +1,7 @@
+568962468766212097
+United
+@united Booked 11 tix 1 month ago and now its about $157 CHEAPER and customer service was useless. What's up with that???
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 18:36:38 -0800
+location: Rutgers Business School - NB

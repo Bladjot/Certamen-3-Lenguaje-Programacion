@@ -1,0 +1,7 @@
+569815690531758082
+US Airways
+@USAirways your computer system went down ok that is understandable but the agents make it worse by not helping her or anyone else
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 03:07:01 -0800
+location: nan

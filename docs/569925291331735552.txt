@@ -1,0 +1,7 @@
+569925291331735552
+American
+@AmericanAir you said this last time. It doesn't take 6 weeks to reply to an email.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:22:32 -0800
+location: nan

@@ -1,0 +1,7 @@
+568911851674836992
+Delta
+@JetBlue looks like their inflatable car seats got left on the plane, so I guess they'll be back sometime!! #savethoseseats
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 15:15:29 -0800
+location: The City of New York

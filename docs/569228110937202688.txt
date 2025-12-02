@@ -1,0 +1,7 @@
+569228110937202688
+Southwest
+@SouthwestAir departing MDW it's cold 26F, windy with snow on the ground for sunny and 70F las vegas  @LASairport http://t.co/2IR7ynMBdU
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 12:12:12 -0800
+location: Chicagoland

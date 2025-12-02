@@ -1,0 +1,7 @@
+569700244050440192
+American
+@AmericanAir employees are racist!!!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:28:17 -0800
+location: nan

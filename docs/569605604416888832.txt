@@ -1,0 +1,7 @@
+569605604416888832
+US Airways
+@USAirways "We can't help you. We don't put people up in hotels when you miss a flight it's against policy."
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:12:13 -0800
+location: A galaxy far far away

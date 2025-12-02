@@ -1,0 +1,7 @@
+569608328998887424
+Virgin America
+@VirginAmerica question: is it not possible to book a seat for an infant under 2? It's not giving me the option but we want a seat for him.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 13:23:03 -0800
+location: Los Angeles

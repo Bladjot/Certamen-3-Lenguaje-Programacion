@@ -1,0 +1,7 @@
+568424902287446016
+Delta
+@JetBlue No, he didn't have more info. I was more infuriated by the way previous rep treated me. how she can possibly work as a JetBlue rep?
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-19 07:00:32 -0800
+location: nan

@@ -1,0 +1,7 @@
+568129652625158147
+United
+@united why is my flight from mke to ord getting delayed? Our gate attendant is not communicating!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 11:27:19 -0800
+location: nan

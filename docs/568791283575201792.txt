@@ -1,0 +1,7 @@
+568791283575201792
+Southwest
+@SouthwestAir shout out to the flight #4386 crew for taking amazing care of us on our double down flight! #thankyou
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 07:16:24 -0800
+location: Grand Rapids,MI & Orlando, FL

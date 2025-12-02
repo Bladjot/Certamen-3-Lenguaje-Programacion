@@ -1,0 +1,7 @@
+569184255399620608
+Delta
+@JetBlue the you above all commercials? Like the legroom one
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 09:17:56 -0800
+location: Logan International Airport

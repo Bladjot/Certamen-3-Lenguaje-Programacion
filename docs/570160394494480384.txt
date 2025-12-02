@@ -1,0 +1,7 @@
+570160394494480384
+United
+@united Thanks for remembering to load my bag onto my connecting flight. Oh wait you forgot. Iceland should be fun with no clothes....
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 01:56:45 -0800
+location: nan

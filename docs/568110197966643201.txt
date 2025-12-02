@@ -1,0 +1,8 @@
+568110197966643201
+US Airways
+@USAirways 
+Are you an incompetent airline every day, or just days that end in 'y'?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 10:10:00 -0800
+location: Earth

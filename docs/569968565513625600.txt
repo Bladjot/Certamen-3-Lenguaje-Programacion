@@ -1,0 +1,7 @@
+569968565513625600
+Delta
+@JetBlue: So excited to hear about your move towards international travel from Long Beach Airport!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 13:14:30 -0800
+location: Los Angeles

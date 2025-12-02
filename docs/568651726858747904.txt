@@ -1,0 +1,7 @@
+568651726858747904
+United
+.@united being delayed 3 hours for a one hour flight is more than frustrating. I'm also unable to get a decent meal at this hour.Never again
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 22:01:51 -0800
+location: Los Angeles, CA

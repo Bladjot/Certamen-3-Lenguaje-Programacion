@@ -1,0 +1,7 @@
+569947174571675648
+United
+@united I'd thank you - but you didn't help.  taking 6 hours to reply (so I get a message in the middle of the night) isn't actually helpful
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:49:30 -0800
+location: Oakland, CA

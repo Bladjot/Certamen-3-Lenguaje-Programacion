@@ -1,0 +1,7 @@
+568059091848962048
+United
+@united you are lightyears ahead of the security control at Newark airport. They wasted 40 precious mins w bad efficiency. #frightening
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 06:46:56 -0800
+location: Bergen, Norway

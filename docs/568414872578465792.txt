@@ -1,0 +1,7 @@
+568414872578465792
+United
+@united I am calling to check on a future flight and your first agent hung up and now you sent me to the pet travel line!! This is HELL!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 06:20:40 -0800
+location: New York, NY

@@ -1,0 +1,7 @@
+569690786180132865
+Southwest
+@SouthwestAir Free TV watching Daytona 500! #Boss http://t.co/SbGBN7oUXy
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:50:42 -0800
+location: west allis

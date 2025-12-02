@@ -1,0 +1,7 @@
+567819359255810048
+Southwest
+@SouthwestAir we are 2 mins from departure of 4125 and no announced update nor an update to on time status. Everyone just standing. #comeon
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 14:54:19 -0800
+location: Chicago

@@ -1,0 +1,7 @@
+568955169183903745
+Southwest
+@SouthwestAir - stuck on the runway, again. Delayed on Wednesday. Not a good way to take care of your loyal customers.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 18:07:37 -0800
+location: Chicago

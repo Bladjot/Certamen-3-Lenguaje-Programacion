@@ -1,0 +1,7 @@
+567849597931888640
+United
+@united Useless response. I need a functioning wheelchair, not a customer care form to fill out.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 16:54:28 -0800
+location: nan

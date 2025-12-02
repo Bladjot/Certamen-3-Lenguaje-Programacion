@@ -1,0 +1,7 @@
+569901314026692611
+American
+@AmericanAir @_Lucy_May surely much better to let us all share the feedback unless you have something to hide?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 08:47:16 -0800
+location: Portsmouth UK

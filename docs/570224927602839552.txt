@@ -1,0 +1,7 @@
+570224927602839552
+American
+@AmericanAir ok. There is no one at the airport that is helping us. Another customer got told the flight isn't leaving till 1220
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 06:13:11 -0800
+location: Fort Myers

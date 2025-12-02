@@ -1,0 +1,7 @@
+569168696083656705
+US Airways
+@USAirways - what is your policy regarding large-size passengers who cannot fit into a single coach class seat?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 08:16:06 -0800
+location: New Haven, CT

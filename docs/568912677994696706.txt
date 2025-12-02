@@ -1,0 +1,7 @@
+568912677994696706
+Delta
+@JetBlue Why not deal with that while the plane's on the ground instead of diverting the plane &amp; adding 2 hrs to the flight?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 15:18:46 -0800
+location: Bad Wolf Bay

@@ -1,0 +1,7 @@
+570022345424834560
+United
+@united has made my no fly list. Other airlines wait when connector Late Flight. Stuck in IAH.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 16:48:12 -0800
+location: Austin

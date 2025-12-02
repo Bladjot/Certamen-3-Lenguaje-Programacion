@@ -1,0 +1,7 @@
+569221909231104000
+Delta
+@JetBlue Kudos to JetBlue social media team for jumping in an helping me out during the last snow storm while web site was down..Thanks!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 11:47:33 -0800
+location: nan

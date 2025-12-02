@@ -1,0 +1,7 @@
+568529886920335360
+Delta
+@JetBlue Do your TrueBlue pages not work on Chrome or Safari? I keep getting blank pages when I lick on the TrueBlue tab on your site.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 13:57:42 -0800
+location: nan

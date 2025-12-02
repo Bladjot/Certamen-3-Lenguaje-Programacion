@@ -1,0 +1,7 @@
+569954220184604672
+American
+@americanair Can you tell me where my luggage is? I was on flight 1644 SNA to DFW and my flight to MKE was Cancelled Flightled, so got rebooked to ORD
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 12:17:29 -0800
+location: Milwaukee

@@ -1,0 +1,7 @@
+568077514905505792
+United
+@united Can we get Any (free) upgrade because all the problems we've had? Our reservation is MKWLKR.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 08:00:08 -0800
+location: Curitiba

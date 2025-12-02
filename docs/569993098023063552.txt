@@ -1,0 +1,7 @@
+569993098023063552
+American
+@AmericanAir @USAirways I've tried to be understanding and let you handle the situation but I guess I was wrong about that
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:51:59 -0800
+location: McKinney TX

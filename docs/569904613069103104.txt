@@ -1,0 +1,7 @@
+569904613069103104
+Southwest
+@SouthwestAir I did, but no one can find the bag and we need everything in it in the next two hours.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 09:00:22 -0800
+location: Raleigh, North Carolina

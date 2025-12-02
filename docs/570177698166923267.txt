@@ -1,0 +1,7 @@
+570177698166923267
+US Airways
+@USAirways nope not yet...
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 03:05:31 -0800
+location: Crofton, Maryland

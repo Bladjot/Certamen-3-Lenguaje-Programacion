@@ -1,0 +1,7 @@
+569963064495366145
+Delta
+@JetBlue How do I know if my flight was deemed a dark flight?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:52:38 -0800
+location: Boston, MA

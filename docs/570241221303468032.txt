@@ -1,0 +1,7 @@
+570241221303468032
+American
+@AmericanAir my boss is :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 07:17:56 -0800
+location: USA

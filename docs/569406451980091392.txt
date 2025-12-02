@@ -1,0 +1,7 @@
+569406451980091392
+US Airways
+@USAirways I think it's ok.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 00:00:51 -0800
+location: East Coast City

@@ -1,0 +1,7 @@
+570252044528959488
+Delta
+@JetBlue Airline trouble this winter &amp; not getting good customer service? contact http://t.co/aQjn4HwNaC  we negotiate resolutions for You!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:00:56 -0800
+location: Miami, New York, Boston

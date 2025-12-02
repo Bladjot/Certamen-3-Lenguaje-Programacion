@@ -1,0 +1,7 @@
+569311060903268352
+Virgin America
+@VirginAmerica a lot of "apologies" being thrown out to customers from what I can see.Very sad. Thanks for nothing. Worst airline ever.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 17:41:48 -0800
+location: nan

@@ -1,0 +1,7 @@
+568801277984944128
+United
+@united no wifi on flight ua688. SF to ORD. Really?  Wow
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 07:56:07 -0800
+location: nan

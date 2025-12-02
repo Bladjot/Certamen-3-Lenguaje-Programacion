@@ -1,0 +1,7 @@
+567804923782627330
+US Airways
+@USAirways wont waive fees for flight Cancelled Flightlation due to #neptune To use credit, $200 fee. Couldnt reach destination @BostonBBB #notmyfault
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 13:56:57 -0800
+location: South Shore, MA

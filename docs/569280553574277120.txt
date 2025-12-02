@@ -1,0 +1,7 @@
+569280553574277120
+US Airways
+@USAirways @AmericanAir  ..off to vegas http://t.co/AygAOeB6Uu
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 15:40:35 -0800
+location: nan

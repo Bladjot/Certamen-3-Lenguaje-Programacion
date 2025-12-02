@@ -1,0 +1,7 @@
+568484603658420224
+United
+@united I sent you a dm hours ago
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 10:57:46 -0800
+location: ny

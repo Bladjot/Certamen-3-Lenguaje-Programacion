@@ -1,0 +1,7 @@
+568207206023360512
+Delta
+@JetBlue  anywhere... away from this snow globe to warmth sand and palm trees..
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 16:35:29 -0800
+location: nan

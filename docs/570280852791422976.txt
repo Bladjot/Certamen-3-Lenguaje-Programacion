@@ -1,0 +1,7 @@
+570280852791422976
+US Airways
+@USAirways where is your email address? Its not on this page: http://t.co/5cwH1yfOow
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:55:25 -0800
+location: nan

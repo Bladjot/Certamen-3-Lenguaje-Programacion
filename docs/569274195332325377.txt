@@ -1,0 +1,7 @@
+569274195332325377
+US Airways
+@USAirways disappointed with your toll free number. Terrible customer service, my flight has been Cancelled Flightled would like to get home
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 15:15:19 -0800
+location: nan

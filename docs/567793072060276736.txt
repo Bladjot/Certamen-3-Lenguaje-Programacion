@@ -1,0 +1,7 @@
+567793072060276736
+US Airways
+@USAirways Sending thanks to employee Freddie in PHL Admiral Club A East for allowing me to give a day pass to my sibling stuck there today.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 13:09:52 -0800
+location: Miss California United States

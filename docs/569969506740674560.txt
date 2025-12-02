@@ -1,0 +1,7 @@
+569969506740674560
+US Airways
+@USAirways Am I allowed to carry on a suit bag and carry on bag? My suit bag will hang like a jacket would. It is soft sided, 48"
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:18:14 -0800
+location: Indianapolis

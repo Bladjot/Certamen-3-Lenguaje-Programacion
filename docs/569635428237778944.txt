@@ -1,0 +1,7 @@
+569635428237778944
+Southwest
+@SouthwestAir How's Dallas incoming looking? I'm scheduled to fly in at 10:30 and wondering if I'll be stuck in St. Louis instead.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:10:44 -0800
+location: nan

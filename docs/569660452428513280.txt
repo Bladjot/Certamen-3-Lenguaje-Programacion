@@ -1,0 +1,7 @@
+569660452428513280
+United
+@united thank you for following up!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 16:50:10 -0800
+location: Pittsburgh, PA

@@ -1,0 +1,7 @@
+569684138304741377
+US Airways
+@USAirways 45 minute delay for take off and 30 minute wait for checked bags? Really?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:24:17 -0800
+location: Boston, MA

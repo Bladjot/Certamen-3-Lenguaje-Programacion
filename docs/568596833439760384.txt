@@ -1,0 +1,7 @@
+568596833439760384
+United
+@united WORST SERVICE EVER. Denied access to our flight and then moved flight 6 times. How hard is it to schedule a gate? @Delta next time.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 18:23:43 -0800
+location: sunnyvale, ca

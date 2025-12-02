@@ -1,0 +1,7 @@
+569718461217308673
+American
+@AmericanAir @USAirways and our meals are also on us, because this company does not care about their #customers. Truly disgraceful.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:40:40 -0800
+location: Philadelphia, PA

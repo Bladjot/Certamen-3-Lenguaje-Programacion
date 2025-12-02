@@ -1,0 +1,7 @@
+570057784114302977
+American
+@AmericanAir If it's in my backpack, why do I need to see agent?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 19:09:01 -0800
+location: nan

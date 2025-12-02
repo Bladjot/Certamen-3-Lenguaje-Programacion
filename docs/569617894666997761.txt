@@ -1,0 +1,7 @@
+569617894666997761
+American
+@AmericanAir redirect my flight without telling me, service is abysmal.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 14:01:03 -0800
+location: nan

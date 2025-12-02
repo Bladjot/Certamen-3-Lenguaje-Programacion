@@ -1,0 +1,7 @@
+568474866753667072
+United
+@united I have been denied. Not sure how you charge $150 one way then $25 on way hime
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 10:19:04 -0800
+location: PA

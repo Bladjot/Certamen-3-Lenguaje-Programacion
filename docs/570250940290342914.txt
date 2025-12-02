@@ -1,0 +1,7 @@
+570250940290342914
+American
+@AmericanAir hi we have lost and found solution we want to offer for free to assist with contacting people when items are found
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 07:56:33 -0800
+location: Worldwide

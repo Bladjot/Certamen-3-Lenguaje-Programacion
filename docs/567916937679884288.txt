@@ -1,0 +1,7 @@
+567916937679884288
+Delta
+@JetBlue disappointed that my flight back to boston from PR was Cancelled Flightled,rebooked 4 the next day,delayed that one too, and no compensation
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 21:22:03 -0800
+location: BOSTON

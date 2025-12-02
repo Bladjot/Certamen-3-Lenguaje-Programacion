@@ -1,0 +1,7 @@
+569296792426295297
+Southwest
+@SouthwestAir now our pilots timed out...#getmeoutofhere
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 16:45:06 -0800
+location: Nebraska

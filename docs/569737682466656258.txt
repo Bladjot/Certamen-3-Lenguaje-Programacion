@@ -1,0 +1,7 @@
+569737682466656258
+American
+@AmericanAir I understand the weather issues. I don't understand how I was not notified of the Cancelled Flightlation, and had to realize it so Late Flight.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 21:57:03 -0800
+location: Vancouver - Ann Arbor

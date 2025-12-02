@@ -1,0 +1,7 @@
+569685957437362176
+Southwest
+@SouthwestAir For example, can't pay 4 hotel &amp; food? Or transport to alternate city we are flying from? Or give clear record of alt flight?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:31:31 -0800
+location: Cambridge, MA

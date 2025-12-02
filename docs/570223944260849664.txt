@@ -1,0 +1,7 @@
+570223944260849664
+US Airways
+@USAirways should give me free baggage for this mess
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 06:09:17 -0800
+location: nan

@@ -1,0 +1,7 @@
+568522203198697474
+Virgin America
+@VirginAmerica seriously, though. will there not be direct flights from SFO-FLL in may???
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 13:27:10 -0800
+location: san francisco

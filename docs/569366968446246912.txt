@@ -1,0 +1,7 @@
+569366968446246912
+United
+@united 25 minute hold is 1 hr. 25 min. @ABC11_WTVD
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 21:23:58 -0800
+location: Wake Forest, NC

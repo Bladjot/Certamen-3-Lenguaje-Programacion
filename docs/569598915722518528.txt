@@ -1,0 +1,7 @@
+569598915722518528
+US Airways
+@USAirways I have nothing but issues when I fly w/u what's up w/that?! #travel #vacation #awful
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 12:45:38 -0800
+location: nan

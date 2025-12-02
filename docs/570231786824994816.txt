@@ -1,0 +1,7 @@
+570231786824994816
+US Airways
+@USAirways Thanks again for ruiningmy vacation.  You all are the best for this.  Could not have done it without you.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 06:40:27 -0800
+location: Kentucky

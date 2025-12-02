@@ -1,0 +1,7 @@
+568637437812944896
+Delta
+@JetBlue and The from @WSJ Team to Offer In-#Flight Access to Journal ... - Digital Journal http://t.co/2Nzh3QOaZo
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 21:05:04 -0800
+location: USA

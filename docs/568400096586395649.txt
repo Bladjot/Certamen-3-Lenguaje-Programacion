@@ -1,0 +1,7 @@
+568400096586395649
+Delta
+@JetBlue tried them not helpful. Really dissatisfied with Flight Booking Problems my whole trip with jet blue this time around besides the flights.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 05:21:58 -0800
+location: Boston

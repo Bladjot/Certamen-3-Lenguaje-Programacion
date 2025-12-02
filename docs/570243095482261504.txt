@@ -1,0 +1,7 @@
+570243095482261504
+American
+@AmericanAir Traveling with my infant: Do you check the carseat for free? If so, do you provide a bag? Someone told me but wanted to confirm
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 07:25:23 -0800
+location: Wichita, KS

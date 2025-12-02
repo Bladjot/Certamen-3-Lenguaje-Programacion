@@ -1,0 +1,7 @@
+569703263467126784
+American
+@AmericanAir better do the right thing and take care of @Cowboycerrone or els you're losing business!!!!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 19:40:17 -0800
+location: nan

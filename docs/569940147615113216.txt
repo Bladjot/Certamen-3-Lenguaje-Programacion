@@ -1,0 +1,7 @@
+569940147615113216
+American
+@AmericanAir Way to suck at customer service, Dallas is trapped in an ice storm but you didn't Cancelled Flight 7am flight &amp; been on hold all day.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:21:34 -0800
+location: Seattle, WA

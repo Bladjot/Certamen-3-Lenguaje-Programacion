@@ -1,0 +1,7 @@
+569625848334000128
+US Airways
+@USAirways on plane from BOS to CLT for 60 mins. Still at gate. Crew says system-wide computers preventing paperwork. Any info you can give?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:32:40 -0800
+location: The Great Loop

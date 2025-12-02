@@ -1,0 +1,7 @@
+569316342769291264
+US Airways
+@USAirways FINALLY leaving 4 home from NC. Will lodge respectful complaints!! Mechanical issue after cleared for runway? #5hourwait #nocrew
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 18:02:48 -0800
+location: nan

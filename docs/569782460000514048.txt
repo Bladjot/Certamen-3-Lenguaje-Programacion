@@ -1,0 +1,7 @@
+569782460000514048
+American
+@AmericanAir is terrible, my flights Cancelled Flighted and i've been on hold for the past 4 hours. Never again.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 00:54:59 -0800
+location: nan

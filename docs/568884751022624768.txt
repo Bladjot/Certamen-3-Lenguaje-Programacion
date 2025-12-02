@@ -1,0 +1,7 @@
+568884751022624768
+Southwest
+@SouthwestAir Yes, but I like need my luggage before tomorrow morning
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 13:27:48 -0800
+location: looking for alaska

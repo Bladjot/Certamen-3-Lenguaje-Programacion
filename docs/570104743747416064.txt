@@ -1,0 +1,7 @@
+570104743747416064
+United
+@united what is that going to do for you? Nothing just like you always do
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 22:15:37 -0800
+location: Iowa

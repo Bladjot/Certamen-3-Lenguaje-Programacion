@@ -1,0 +1,7 @@
+569511892215062528
+Delta
+@JetBlue  hmmm it says im following you. We just got de-iced, but still haning around for the runway to clear..
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 06:59:50 -0800
+location: nan

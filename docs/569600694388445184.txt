@@ -1,0 +1,7 @@
+569600694388445184
+American
+@AmericanAir @CAexhibitions Sorry in, like, a general way? Or sorry that incompetence/understaffing is compounding weather issues?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 12:52:42 -0800
+location: Pekin

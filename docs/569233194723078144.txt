@@ -1,0 +1,7 @@
+569233194723078144
+United
+@united @nathankillam or your staff could try not throwing the luggage around.
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-21 12:32:24 -0800
+location: Vancouver, BC

@@ -1,0 +1,7 @@
+569638381375909889
+US Airways
+@USAirways who do I contact about my awful experience I had 2/15/15 with @USAirways Flight 713 BUF-CLT?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 15:22:28 -0800
+location: nan

@@ -1,0 +1,7 @@
+568115611814858752
+US Airways
+@USAirways would be more pleased if you reassess your business practices.  Goal should be to have passengers on plane as little as possible
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 10:31:31 -0800
+location: Earth

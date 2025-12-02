@@ -1,0 +1,7 @@
+569896560936374272
+American
+@AmericanAir gotta love those skycaps, solving problems faster than anyone else in the terminal. And they did it with a smile on their face
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 08:28:22 -0800
+location: Boston, MA

@@ -1,0 +1,7 @@
+569514063019053056
+United
+@united, more lies... http://t.co/BEqoTLNugc
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 07:08:28 -0800
+location: Chicago

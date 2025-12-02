@@ -1,0 +1,8 @@
+568073191068794880
+US Airways
+@USAirways 
+Not one to complain much but really 1 hour 15minutes and still nothing. Agents or Agent ⤵ http://t.co/Q5SB0DaVuy
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 07:42:57 -0800
+location: nan

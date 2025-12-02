@@ -1,0 +1,7 @@
+568234631465734144
+United
+@united #CustomerService #fail long time flyer switching airlines #frustrated
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 18:24:28 -0800
+location: nan

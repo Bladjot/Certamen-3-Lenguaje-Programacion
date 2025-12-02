@@ -1,0 +1,7 @@
+568854763057475584
+Delta
+@JetBlue @AmericanAir ah ha! I misread the end date as being 2014 not 2015. Thanks for clarifying :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 11:28:38 -0800
+location: New York City

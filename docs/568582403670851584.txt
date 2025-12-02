@@ -1,0 +1,7 @@
+568582403670851584
+United
+@united Never can get a flight out on time. 4 hour delay earlier another hour delay on my connecting flight. Makes 10 straight delays
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 17:26:23 -0800
+location: Minnetonka

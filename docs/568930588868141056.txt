@@ -1,0 +1,7 @@
+568930588868141056
+US Airways
+@USAirways im on the plane not sure what you mean. We are sitting here. It's just one story of failure after another when I fly you guys
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 16:29:57 -0800
+location: Denver, Colorado

@@ -1,0 +1,7 @@
+569622857120137216
+US Airways
+@USAirways I do but the real ? Is why your staff can behave offensively. Flight 699. Please look into it. Message me if you want particulars
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 14:20:46 -0800
+location: Los Angeles, CA

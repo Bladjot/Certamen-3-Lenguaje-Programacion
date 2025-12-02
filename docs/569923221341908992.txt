@@ -1,0 +1,7 @@
+569923221341908992
+American
+@AmericanAir ...why would you sell seats for a 7 hour flight with half of the legroom occupied by an escape raft? http://t.co/DTHEyOFXrB
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 10:14:19 -0800
+location: nan

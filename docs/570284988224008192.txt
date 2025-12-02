@@ -1,0 +1,7 @@
+570284988224008192
+Delta
+@JetBlue Are there really no flights from the Bay Area to Chicago anymore? Lame. So lame.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 10:11:51 -0800
+location: In Oakland; Hoosier at heart

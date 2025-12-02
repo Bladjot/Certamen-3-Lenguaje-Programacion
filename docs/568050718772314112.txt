@@ -1,0 +1,7 @@
+568050718772314112
+Southwest
+@SouthwestAir first time flyer, scheduled a (round)trip. set on departure date not sure on returning date, policy/fees on changing Re Flight
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 06:13:39 -0800
+location: nan

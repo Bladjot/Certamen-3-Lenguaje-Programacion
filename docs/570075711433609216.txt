@@ -1,0 +1,7 @@
+570075711433609216
+Delta
+@JetBlue That makes two of us! Lol #Blushing
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 20:20:15 -0800
+location: 805 CA

@@ -1,0 +1,7 @@
+568893623099654144
+United
+@united Bag MIA since Wednesday. Still no word where it is or if we'll ever see it again. #lostluggage #frustrated
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 14:03:03 -0800
+location: Someplace saving something

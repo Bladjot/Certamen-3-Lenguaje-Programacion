@@ -1,0 +1,7 @@
+568163524314144768
+US Airways
+@USAirways no they dont.  I think I already said that.  No one responds.  Its an auto response.  Wait is this an auto response??????
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 13:41:54 -0800
+location: nan

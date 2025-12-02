@@ -1,0 +1,7 @@
+567769798831255552
+United
+@united bags are still in Houston since Friday and still have not been reimbursed the baggage fee.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 11:37:23 -0800
+location: North Tonawanda

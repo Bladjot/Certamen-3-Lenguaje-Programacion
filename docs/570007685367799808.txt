@@ -1,0 +1,7 @@
+570007685367799808
+Delta
+@JetBlue SHUT THE DOOR ON YOUR WAY OUT. 🙅
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 15:49:57 -0800
+location: Fl...oating off into space

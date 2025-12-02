@@ -1,0 +1,7 @@
+568229143860658176
+US Airways
+@USAirways well this is #nofun #nocustomerservice #onhold trying to make #reservations #nothappy http://t.co/m7MMq2f5FA
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 18:02:39 -0800
+location: Wisconsin

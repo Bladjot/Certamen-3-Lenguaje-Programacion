@@ -1,0 +1,7 @@
+569533663211356161
+US Airways
+@USAirways now you don't know where my luggage is?  Seriously?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 08:26:21 -0800
+location: Doylestown, PA

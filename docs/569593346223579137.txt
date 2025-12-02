@@ -1,0 +1,7 @@
+569593346223579137
+American
+@AmericanAir we've been on hold for hours.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:23:30 -0800
+location: nan

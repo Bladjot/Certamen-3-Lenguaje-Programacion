@@ -1,0 +1,7 @@
+568768837744611328
+Southwest
+@SouthwestAir i hope i can take my selfie stick on the plane today! #goingtovegas
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 05:47:12 -0800
+location: nan

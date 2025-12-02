@@ -1,0 +1,7 @@
+567872769049825280
+United
+@united thx for checking in. Never got through via phone. On hold over hour. How long is too long to wait on hold? Ugh. #csfail
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 18:26:33 -0800
+location: nan

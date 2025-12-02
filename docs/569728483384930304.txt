@@ -1,0 +1,7 @@
+569728483384930304
+Southwest
+@SouthwestAir flight Cancelled Flightled. new flight 7 hours Late Flightr. will sleep in airport tonight. and cant even give me an A Boarding Group seat. thx
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 21:20:30 -0800
+location: nan

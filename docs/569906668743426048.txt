@@ -1,0 +1,7 @@
+569906668743426048
+Southwest
+@SouthwestAir res chg online/app no work, still on hold, faster for hubby to DRIVE to airport to make change @ counter #fail
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:08:32 -0800
+location: nan

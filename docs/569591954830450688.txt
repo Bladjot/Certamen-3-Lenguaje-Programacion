@@ -1,0 +1,7 @@
+569591954830450688
+United
+@united in fact he received my boarding pass
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:17:59 -0800
+location: nan

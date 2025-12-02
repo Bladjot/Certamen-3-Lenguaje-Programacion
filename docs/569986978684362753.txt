@@ -1,0 +1,7 @@
+569986978684362753
+American
+@AmericanAir Bad weather happens. But not being able to get through to a reservations rep for over 6 hours is just crazy. #frustrated
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:27:40 -0800
+location: NYC

@@ -1,0 +1,7 @@
+568121535233458176
+US Airways
+@USAirways she also appreciated having her very own hashtag! :) #lucycat
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 10:55:03 -0800
+location: Memphis, Tennessee

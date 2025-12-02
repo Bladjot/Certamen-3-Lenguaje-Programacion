@@ -1,0 +1,7 @@
+568084495078785024
+US Airways
+@USAirways this is crazy. Haven't spoken to a human yet. There has to be a better way. http://t.co/mEOAlCIPdD
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 08:27:52 -0800
+location: Charlottesville, VA.

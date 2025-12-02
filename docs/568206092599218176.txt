@@ -1,0 +1,7 @@
+568206092599218176
+United
+@united yes, I want to complain. Your coworker was neither. Is there a customer service point airside?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 16:31:03 -0800
+location: London

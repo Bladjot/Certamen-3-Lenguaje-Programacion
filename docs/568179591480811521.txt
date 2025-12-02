@@ -1,0 +1,7 @@
+568179591480811521
+United
+@united thanks! Makes sense. Just annoying that it can't be determined better.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 14:45:45 -0800
+location: Boston, MA

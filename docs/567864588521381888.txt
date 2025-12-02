@@ -1,0 +1,7 @@
+567864588521381888
+Delta
+@JetBlue flight was Cancelled Flighted. Do I need to file a claim for the $50 credit I'm entitled to per yr bill of rights, or will it just be issued?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 17:54:02 -0800
+location: nan

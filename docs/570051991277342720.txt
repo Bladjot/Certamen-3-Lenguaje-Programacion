@@ -1,0 +1,7 @@
+570051991277342720
+Virgin America
+Nice RT @VirginAmerica: Vibe with the moodlight from takeoff to touchdown. #MoodlitMonday #ScienceBehindTheExperience http://t.co/Y7O0uNxTQP
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 18:46:00 -0800
+location: Worldwide

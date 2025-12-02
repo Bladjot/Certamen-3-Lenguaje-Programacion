@@ -1,0 +1,7 @@
+569934457215410176
+American
+@AmericanAir Hahaha.... "Meanwhile in Russia...."
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:58:58 -0800
+location: Dallas, Texas

@@ -1,0 +1,7 @@
+568838743030956032
+US Airways
+@USAirways awesome! Flight #676 out of philly on Tuesday. Party in row 15 if you're interested.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 10:24:59 -0800
+location: nan

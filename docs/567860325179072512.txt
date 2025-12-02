@@ -1,0 +1,7 @@
+567860325179072512
+Southwest
+@SouthwestAir took our BOS to BWI plane for a flight to StL and promised a replacement  1.5 hours Late Flightr. Now 2.5 hours delayed. Not happy.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 17:37:06 -0800
+location: New Hampshire

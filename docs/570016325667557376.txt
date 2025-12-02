@@ -1,0 +1,7 @@
+570016325667557376
+United
+@united @reebok @rockinwellness @ Denver International Airport https://t.co/tKVmHBkeC3
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 16:24:17 -0800
+location: nan

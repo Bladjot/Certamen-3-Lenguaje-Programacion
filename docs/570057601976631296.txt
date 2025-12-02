@@ -1,0 +1,7 @@
+570057601976631296
+United
+@united I received my luggage that also looked to be left in the snow when I arrived. I'm asking for all 50 people to be refunded.
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-23 19:08:18 -0800
+location: nan

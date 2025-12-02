@@ -1,0 +1,7 @@
+568792520337039360
+Virgin America
+@VirginAmerica brought it all the way across the country today I see http://t.co/TKaUyGcPmS
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 07:21:19 -0800
+location: New york

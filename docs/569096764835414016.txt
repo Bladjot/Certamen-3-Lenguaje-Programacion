@@ -1,0 +1,7 @@
+569096764835414016
+United
+“@united: @Addair  We hope you don't miss your connection. For help with re-Flight Booking Problems please Follow us &amp; DM your confirmation. ^CP”done thx
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 03:30:16 -0800
+location: Raleigh, NC

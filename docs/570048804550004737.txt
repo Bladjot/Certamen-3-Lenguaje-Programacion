@@ -1,0 +1,7 @@
+570048804550004737
+Delta
+@JetBlue what maintenance?  The flight landed from Jamaica, has to go through security then get to term 3 then cleaned then board
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 18:33:20 -0800
+location: Los Angeles, CA

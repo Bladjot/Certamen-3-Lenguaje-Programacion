@@ -1,0 +1,7 @@
+569926031542345728
+US Airways
+@USAirways booked flight 1mnth ago, seat CONFIRMED, small plane arrived and was not allowed to board bcs no seat, horrible service
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:25:29 -0800
+location: nan

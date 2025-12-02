@@ -1,0 +1,7 @@
+568514213921947648
+United
+@United Global First Class Lounge ORD menu. Yummy! http://t.co/egKvFoKogj
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 12:55:25 -0800
+location: Tulsa, OK

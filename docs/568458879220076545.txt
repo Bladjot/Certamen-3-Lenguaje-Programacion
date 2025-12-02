@@ -1,0 +1,7 @@
+568458879220076545
+Southwest
+@SouthwestAir is really stepping up their "service"🐩 http://t.co/VQTyza6Mzu
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 09:15:32 -0800
+location: Space (till back in the PH)

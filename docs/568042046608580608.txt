@@ -1,0 +1,7 @@
+568042046608580608
+Southwest
+@SouthwestAir CEO discusses possibilities of NHL Vegas arena naming rights http://t.co/t3E4SH5xNg @SMUSportMgt #sportsbiz
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 05:39:12 -0800
+location: Dallas,TX

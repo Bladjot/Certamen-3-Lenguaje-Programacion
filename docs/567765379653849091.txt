@@ -1,0 +1,7 @@
+567765379653849091
+United
+@united which is why my next flights to Miami will be on another airline.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 11:19:49 -0800
+location: nan

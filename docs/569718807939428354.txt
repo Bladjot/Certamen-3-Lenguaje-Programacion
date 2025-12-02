@@ -1,0 +1,7 @@
+569718807939428354
+US Airways
+@USAirways doesn't let u do stand by on flight due to checked bag causing u to get in 5 hours Late Flightr only to get to PHL &amp; bag didn't make it
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 20:42:03 -0800
+location: Phoenixville, Pa

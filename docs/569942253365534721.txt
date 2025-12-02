@@ -1,0 +1,7 @@
+569942253365534721
+Delta
+@JetBlue wow, keeping up with the times...
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 11:29:56 -0800
+location: nan

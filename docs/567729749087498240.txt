@@ -1,0 +1,7 @@
+567729749087498240
+US Airways
+@USAirways I didn't even leave the airport and you sent 2 of my bags to Philadelphia!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 08:58:14 -0800
+location: Ohio

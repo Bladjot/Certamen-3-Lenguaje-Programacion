@@ -1,0 +1,7 @@
+569732365968404480
+American
+@AmericanAir sounding like they just got bitch-slapped by @juliasinton948
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 21:35:55 -0800
+location: piffaca

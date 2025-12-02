@@ -1,0 +1,7 @@
+567886091975462912
+United
+@united rude cust ser agents busy chatting, then yelled bc I took pic. Put me stdby when seat. Diff agent gave me seat 30min Late Flightr. Platinum
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 19:19:29 -0800
+location: NYC

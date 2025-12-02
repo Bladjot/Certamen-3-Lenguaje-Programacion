@@ -1,0 +1,7 @@
+569584719089836032
+US Airways
+@USAirways new F/As from DFW to CLT this morning did a great job. Well Done!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 11:49:14 -0800
+location: The 27th State

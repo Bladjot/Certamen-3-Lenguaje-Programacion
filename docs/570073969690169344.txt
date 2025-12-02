@@ -1,0 +1,7 @@
+570073969690169344
+United
+@united My post was just more of disappointment.  I'm a frequent United flyer, it was a simple ??.  1 bad apple doesn't spoil the bunch.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 20:13:20 -0800
+location: Rocklin, CA

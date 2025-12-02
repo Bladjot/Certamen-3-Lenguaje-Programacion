@@ -1,0 +1,7 @@
+568760315569053696
+United
+@united don't know if you are aware that ALL of your premier access lines are closed in your terminal. I feel the love.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-20 05:13:20 -0800
+location: Naperville

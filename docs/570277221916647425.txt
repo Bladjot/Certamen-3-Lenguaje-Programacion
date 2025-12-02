@@ -1,0 +1,7 @@
+570277221916647425
+Southwest
+@SouthwestAir and now our arrival is delayed nearly 5hours. Yeah an entire day in an airport is not my idea of a stress less vacation #fail
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 09:40:59 -0800
+location: nan

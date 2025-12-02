@@ -1,0 +1,7 @@
+569608831816351745
+US Airways
+@USAirways how do you lose a pilot????
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 13:25:02 -0800
+location: Bonaire, GA

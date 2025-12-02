@@ -1,0 +1,7 @@
+567792185832394752
+Virgin America
+@VirginAmerica started my flight with a scolding for using an overhead bin that was then offered to the person seated next to me.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 13:06:20 -0800
+location: Los Angeles, CA

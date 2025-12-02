@@ -1,0 +1,7 @@
+570274302118858752
+US Airways
+@USAirways - First impressions are hard to reverse.  A horrible first experience with you.  Will never fly with you again!!!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 09:29:23 -0800
+location: nan

@@ -1,0 +1,7 @@
+567725304958160896
+US Airways
+@USAirways it takes a month?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 08:40:35 -0800
+location: nan

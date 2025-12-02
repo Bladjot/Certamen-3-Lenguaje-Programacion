@@ -1,0 +1,7 @@
+569021593852239872
+US Airways
+@USAirways Just spoke with a representative. Moved my flight earlier. Thank you so much for the follow up.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 22:31:34 -0800
+location: NYC

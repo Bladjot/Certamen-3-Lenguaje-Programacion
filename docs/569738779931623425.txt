@@ -1,0 +1,7 @@
+569738779931623425
+American
+@AmericanAir bag turned up, no thanks to your useless call-centre and useless website
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 22:01:25 -0800
+location: SR2

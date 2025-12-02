@@ -1,0 +1,7 @@
+569686814136467456
+Southwest
+@SouthwestAir @MegElizabeth631 how you like the #redcarpet treatment
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:34:55 -0800
+location: nan

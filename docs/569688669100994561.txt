@@ -1,0 +1,7 @@
+569688669100994561
+American
+@AmericanAir so we've now been driving across DFW for over 90mins. That's half fucking way to Texarkana! #shouldhavedriven
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 18:42:17 -0800
+location: Kansas City, MO USA

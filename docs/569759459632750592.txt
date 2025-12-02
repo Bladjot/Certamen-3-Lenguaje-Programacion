@@ -1,0 +1,7 @@
+569759459632750592
+US Airways
+@USAirways IS THIS RINGLING BROTHERS BARNUM AND BAILEY???  SHOULD I KEEP MY EYES PEELED FOR THE CLOWN CAR???
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 23:23:35 -0800
+location: Washington, D.C.

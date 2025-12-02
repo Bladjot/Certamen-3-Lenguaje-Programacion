@@ -1,0 +1,7 @@
+569905765420441600
+American
+@AmericanAir I DM'd you. Anything you can do?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:04:57 -0800
+location: Seattle

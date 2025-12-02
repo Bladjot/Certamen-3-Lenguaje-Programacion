@@ -1,0 +1,7 @@
+569895100526039040
+US Airways
+@USAirways i will be Cancelled Flighting my us airways credit card and choosing other airlines after my experience this week.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 08:22:34 -0800
+location: Hillsborough, New Jersey

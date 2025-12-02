@@ -1,0 +1,7 @@
+569940323746516993
+Virgin America
+@VirginAmerica first time flying you all. do you have a different rate/policy for media Bags? Thanks
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:22:16 -0800
+location: Dallas, Texas

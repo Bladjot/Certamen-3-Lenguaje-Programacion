@@ -1,0 +1,7 @@
+569673622505328640
+US Airways
+@USAirways any idea when flight 703 to Miami will leave for a second time?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:42:30 -0800
+location: Philly Yo

@@ -1,0 +1,7 @@
+569932669288652800
+United
+@united great to hear Thankyou so much. Greatly appreciate your replies. Feel much more settled now.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:51:51 -0800
+location: Scotland

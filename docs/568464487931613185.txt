@@ -1,0 +1,7 @@
+568464487931613185
+Delta
+@JetBlue be flying soon to NYC on your airline, of all airlines I've flown you're still #1 to me 😊😊😊✈️✈️✈️
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 09:37:50 -0800
+location: Miami, Florida

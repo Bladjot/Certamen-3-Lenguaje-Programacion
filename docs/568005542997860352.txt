@@ -1,0 +1,7 @@
+568005542997860352
+United
+@united How long can I expect the formal response to take?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 03:14:09 -0800
+location: Gdansk / Manchester

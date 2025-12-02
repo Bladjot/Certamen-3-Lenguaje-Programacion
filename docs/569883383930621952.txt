@@ -1,0 +1,7 @@
+569883383930621952
+Delta
+@jetblue thanks
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 07:36:01 -0800
+location: Cambridge, MA

@@ -1,0 +1,7 @@
+569856784086777856
+American
+@AmericanAir Why not sell MCE during post door-close shuffle in same way u sell drinks/snacks? People on my flight self-upgraded w/o paying.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 05:50:19 -0800
+location: Brooklyn by way of Chicago

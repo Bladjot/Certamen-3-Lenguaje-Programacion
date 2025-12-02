@@ -1,0 +1,7 @@
+567766384378388480
+United
+@united - could you please send me a phone # to the refunds department?  We have submitted our claim through email without success.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 11:23:49 -0800
+location: nan

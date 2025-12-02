@@ -1,0 +1,7 @@
+567758296417718272
+Southwest
+@SouthwestAir is there a problem with the website? I tried making changes w/ the app and the site but got "unspecified errors"
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 10:51:40 -0800
+location: San Francisco, CA

@@ -1,0 +1,7 @@
+569935980129447936
+American
+@AmericanAir we have been sitting on the plane for over an hour. unacceptable. you have a complete disregard for customer service.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 11:05:01 -0800
+location: Chicago, IL

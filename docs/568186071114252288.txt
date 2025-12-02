@@ -1,0 +1,7 @@
+568186071114252288
+United
+@united have reported it.  Still in Istanbul at the moment apparently.  On the other plane haha.  Hats off to the pilot!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 15:11:30 -0800
+location: nan

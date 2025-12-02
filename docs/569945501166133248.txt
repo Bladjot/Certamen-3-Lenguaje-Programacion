@@ -1,0 +1,7 @@
+569945501166133248
+US Airways
+@USAirways US 728 Wait, now a gate opened. Back we go. (Good, maybe we can get off.)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:42:51 -0800
+location: nan

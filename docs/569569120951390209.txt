@@ -1,0 +1,7 @@
+569569120951390209
+US Airways
+@USAirways would love it if you could get my wife home sometime soon - she has been stuck in Orlando and now stuck in philly for too long
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 10:47:15 -0800
+location: Greensboro NC

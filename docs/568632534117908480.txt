@@ -1,0 +1,7 @@
+568632534117908480
+US Airways
+@USAirways your new seat assignment service is an embarrassment to airlines and customers worldwide. #shameonyou #usairwayssucks
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 20:45:35 -0800
+location: nan

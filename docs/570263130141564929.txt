@@ -1,0 +1,7 @@
+570263130141564929
+Southwest
+@SouthwestAir can you please make sense of the companion promo? How to we set it up?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:44:59 -0800
+location: EVERYWHERE

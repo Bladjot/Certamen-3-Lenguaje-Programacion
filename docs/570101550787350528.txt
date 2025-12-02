@@ -1,0 +1,7 @@
+570101550787350528
+American
+@AmericanAir just curious. Thanks for the response as always, good or bad. Better than your competition.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 22:02:56 -0800
+location: Greenbow, Alabama

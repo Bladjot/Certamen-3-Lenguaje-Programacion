@@ -1,0 +1,7 @@
+569989178651508737
+United
+@united rarely ceases to amaze...for the worse.  i hope this is the last time i "have" to fly with you.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 14:36:24 -0800
+location: san francisco

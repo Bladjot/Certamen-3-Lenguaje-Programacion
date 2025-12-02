@@ -1,0 +1,7 @@
+568482925177651201
+US Airways
+@USAirways yes travel is complete flight 5095 from CLT to CAK Feb 18
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 10:51:05 -0800
+location: nan

@@ -1,0 +1,7 @@
+569923360982900737
+American
+@AmericanAir my flight 1337 is Cancelled Flightled.  Can you let me know what my new flight info is?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 10:14:52 -0800
+location: Lantana, Tx USA

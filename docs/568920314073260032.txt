@@ -1,0 +1,7 @@
+568920314073260032
+United
+@united cross country flight SFO&gt;BOS. No wifi, not even a can of soda and this quality inflight entertainment #sad http://t.co/xhlc30MTfF
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 15:49:07 -0800
+location: Brooklyn, NY

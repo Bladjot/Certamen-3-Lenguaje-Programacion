@@ -1,0 +1,7 @@
+567771124235517952
+United
+@united flt 4567 no gate agent, no announcements. So unprofessional. Time to go back to @Delta
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 11:42:39 -0800
+location: Memphis

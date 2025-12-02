@@ -1,0 +1,7 @@
+569540460810620928
+US Airways
+@USAirways Been on hold 2.5 hours now! System hung up on me twice after an hour holding. :(  Trying 2 correct online Flight Booking Problems error. #unhappy
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 08:53:22 -0800
+location: nan

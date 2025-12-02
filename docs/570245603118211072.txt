@@ -1,0 +1,7 @@
+570245603118211072
+Delta
+@JetBlue It drops 75 when i take off the other two people, and vice versa. back and forth.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 07:35:21 -0800
+location: MA

@@ -1,0 +1,7 @@
+569990010067423233
+US Airways
+@USAirways can you priv chat to help chairman reroute
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:39:42 -0800
+location: San Jose, Ca

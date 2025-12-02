@@ -1,0 +1,7 @@
+569210394046275586
+Southwest
+@SouthwestAir flight just Cancelled Flighted. Can you help me rebook?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 11:01:48 -0800
+location: Washington, DC

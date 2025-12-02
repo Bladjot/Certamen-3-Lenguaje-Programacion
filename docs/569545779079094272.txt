@@ -1,0 +1,7 @@
+569545779079094272
+US Airways
+@USAirways I tried calling for yet another delayed flight and was told the phone line couldn't handle the volume and was hung up on. Twice.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 09:14:30 -0800
+location: nan

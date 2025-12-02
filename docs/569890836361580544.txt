@@ -1,0 +1,7 @@
+569890836361580544
+American
+@AmericanAir yes but not with much help from you guys
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 08:05:38 -0800
+location: New York

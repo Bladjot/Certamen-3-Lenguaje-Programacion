@@ -1,0 +1,7 @@
+567748162178125825
+Southwest
+@SouthwestAir are you kidding me?  I needed help yesterday. I'm now landed and waiting for my connection.  Never will I fly southwest again!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 10:11:24 -0800
+location: Las Vegas, NV

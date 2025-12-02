@@ -1,0 +1,7 @@
+570276917301137409
+Virgin America
+@VirginAmerica  I flew from NYC to SFO last week and couldn't fully sit in my seat due to two large gentleman on either side of me. HELP!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 09:39:46 -0800
+location: this place called NYC

@@ -1,0 +1,7 @@
+569359055937908736
+United
+@united I went from Sacramento to Minneapolis at the end of October 2014 in business class.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 20:52:31 -0800
+location: Kaizen 改善

@@ -1,0 +1,7 @@
+569591700416393216
+American
+@AmericanAir a friend is having flight Cancelled Flightlations out of LAX to CMH on Feb 23. Anyway to help her? 800 number has been no help
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 12:16:58 -0800
+location: Central Ohio

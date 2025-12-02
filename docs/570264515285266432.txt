@@ -1,0 +1,9 @@
+570264515285266432
+Delta
+@CatfoodBeerGlue you'll enjoy this. 
+
+“@JetBlue: Our fleet's on fleek. http://t.co/2thC9RKURT”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:50:30 -0800
+location: Newcastle, Uk

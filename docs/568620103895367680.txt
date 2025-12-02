@@ -1,0 +1,7 @@
+568620103895367680
+Delta
+@JetBlue I'm so ready to see N598JB n N775JB on my Island but on a weekend to capture it
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 19:56:11 -0800
+location: Dubai

@@ -1,0 +1,7 @@
+569650547562811393
+US Airways
+@USAirways sucks. Delayed my mom's flight 2X, Cancelled Flightled it, delayed her flight again today,all for mech. issues.She had 2 sleep in airport!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 16:10:48 -0800
+location: Boston, MA

@@ -1,0 +1,7 @@
+569931705022164992
+Southwest
+@SouthwestAir That does sound hopeful. It's a very thin device so I just hope the right person found it in time.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 10:48:01 -0800
+location: Royal Palm Beach, FL, USA

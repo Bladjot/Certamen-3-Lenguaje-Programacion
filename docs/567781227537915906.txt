@@ -1,0 +1,7 @@
+567781227537915906
+US Airways
+@USAirways And it's 3:22 with no sign of boarding.... Can I please get another update?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 12:22:48 -0800
+location: nan

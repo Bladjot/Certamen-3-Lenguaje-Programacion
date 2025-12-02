@@ -1,0 +1,7 @@
+568093988516802560
+Southwest
+“@SouthwestAir: @kirkwoodtiger Hmmm... how does the Caribbean sound? https://t.co/AAY5avg99b ^LD” WARM THANKS!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 09:05:36 -0800
+location: Kirkwood Missouri

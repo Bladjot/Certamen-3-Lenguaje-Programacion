@@ -1,0 +1,7 @@
+569813373413687296
+United
+@united I would encourage you to re-interview the sole flight attendant on UAL 6166 from BUF to ORD. Blatantly not stable. Uncomfortable.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 02:57:49 -0800
+location: Buffalo/Oakland/Savannah/Ire

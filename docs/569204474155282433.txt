@@ -1,0 +1,7 @@
+569204474155282433
+Southwest
+@SouthwestAir My husband a first time flyer with you has had the worst experience on board a aircraft just a few minutes ago.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 10:38:16 -0800
+location: Florida

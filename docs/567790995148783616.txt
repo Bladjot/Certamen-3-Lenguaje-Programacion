@@ -1,0 +1,7 @@
+567790995148783616
+United
+@united flight 86 LAX-IAD, back rows NOT CLEANED prior to boarding. How gross is that to find used tissues in your seat?  Please.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 13:01:36 -0800
+location: NoVa

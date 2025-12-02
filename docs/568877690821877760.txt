@@ -1,0 +1,7 @@
+568877690821877760
+US Airways
+@USAirways who would like to watch the video of how loyal customers are really treated while asking for an explanation for our 6 hour delay?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 12:59:45 -0800
+location: nan

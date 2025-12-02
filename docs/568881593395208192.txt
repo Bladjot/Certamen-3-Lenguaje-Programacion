@@ -1,0 +1,7 @@
+568881593395208192
+United
+@united need to add service dog to my itinerary for tomorrow
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 13:15:15 -0800
+location: San Francisco, CA

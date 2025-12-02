@@ -1,0 +1,7 @@
+567864793404555264
+Delta
+@JetBlue received horrible customer service at LAX on 2/11. Reservation Cancelled Flighted without notification, despite having confirmation number.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 17:54:51 -0800
+location: nan

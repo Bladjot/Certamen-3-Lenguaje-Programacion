@@ -1,0 +1,7 @@
+569918026918727680
+United
+@united your SFO-YYJ fight is Cancelled Flightled several times each week, why even bother?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 09:53:40 -0800
+location: Downtown Victoria

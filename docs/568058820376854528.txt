@@ -1,0 +1,7 @@
+568058820376854528
+US Airways
+@USAirways so the seat next to me (19B) on flight 1943 to Seattle has a tray table that is falling off... http://t.co/HAJ5lKqjW4
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 06:45:51 -0800
+location: Seattle

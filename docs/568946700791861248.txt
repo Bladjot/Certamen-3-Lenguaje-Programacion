@@ -1,0 +1,7 @@
+568946700791861248
+Southwest
+@SouthwestAir well my mom called earlier and you guys had her on hold for close to an hour
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 17:33:58 -0800
+location: nan

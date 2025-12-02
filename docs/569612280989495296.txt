@@ -1,0 +1,7 @@
+569612280989495296
+American
+@AmericanAir HELP NEEDED ! #complaint ticketed passenger with no available seats scheduled to leave Late Flightr today
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 13:38:45 -0800
+location: nan

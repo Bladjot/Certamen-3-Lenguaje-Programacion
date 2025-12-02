@@ -1,0 +1,7 @@
+568228124263124992
+United
+@united yes #LHRT2 lounge is fantastic, if only the US ones could be remotely similar!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 17:58:36 -0800
+location: New York

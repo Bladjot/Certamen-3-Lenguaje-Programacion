@@ -1,0 +1,7 @@
+569380416219709440
+United
+@united you ask a lot of customers who  you routinely screw over. You know that, right?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 22:17:24 -0800
+location: Blue Area of the Moon

@@ -1,0 +1,7 @@
+567827488736419840
+Delta
+@JetBlue this is not a flight delay this is horrible planning on Jet Blue!!! #jetblue
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 15:26:37 -0800
+location: nan

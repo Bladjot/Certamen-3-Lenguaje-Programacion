@@ -1,0 +1,7 @@
+569675774627848192
+American
+@AmericanAir just when I thought you guys were done messing up, you make it worse. Your airline ruins hopes and dreams.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 17:51:03 -0800
+location: Bay Area, CA

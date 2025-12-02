@@ -1,0 +1,7 @@
+567886909516685312
+United
+@united - flight 1114. Unfortunately this isn't an isoLate Flightd incident. I haven't waited less than 20min in years
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 19:22:44 -0800
+location: nan

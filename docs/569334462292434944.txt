@@ -1,0 +1,7 @@
+569334462292434944
+United
+@united is flight number 1142 Denver to Las Vegas 1125 on Sunday feb 22 Cancelled Flighted ?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 19:14:48 -0800
+location: nan

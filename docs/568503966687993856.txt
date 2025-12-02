@@ -1,0 +1,7 @@
+568503966687993856
+Delta
+@JetBlue My bag is missing from 1099 landed over 6 hours ago. Help!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 12:14:42 -0800
+location: NY

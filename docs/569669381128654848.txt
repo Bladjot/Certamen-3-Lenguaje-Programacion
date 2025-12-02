@@ -1,0 +1,7 @@
+569669381128654848
+American
+@AmericanAir @cjdjpdx not a valid response in 2015 for a multinational corp whose profits are measured in billions. Stop understaffing!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:25:39 -0800
+location: Pekin

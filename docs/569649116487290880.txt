@@ -1,0 +1,7 @@
+569649116487290880
+Virgin America
+@VirginAmerica How can I watch the #Oscars2015 on my JFK-&gt;SFO flight?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:05:07 -0800
+location: San Francisco, CA

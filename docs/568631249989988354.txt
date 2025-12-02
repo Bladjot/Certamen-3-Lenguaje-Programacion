@@ -1,0 +1,7 @@
+568631249989988354
+Delta
+@JetBlue yes of course, before I left the airport. I kept looking but claim is still open.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 20:40:29 -0800
+location: San Diego, CA (760)

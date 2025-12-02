@@ -1,0 +1,7 @@
+569602057285574656
+American
+@AmericanAir please fix your mobile and desktop site to allow Canadians to select a passenger when checking in. Thanks.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 12:58:07 -0800
+location: Brantford

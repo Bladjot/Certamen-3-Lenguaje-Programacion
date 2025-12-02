@@ -1,0 +1,7 @@
+569512239209824256
+Delta
+@JetBlue woulda been nice of you to let us know that or post it!!! Your boards still show the flight on time!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:01:13 -0800
+location: Connecticut

@@ -1,0 +1,7 @@
+569162211748245504
+US Airways
+@USAirways Was told it was a software bug. Told to call back this AM  Now your system is too busy to handle any calls this AM.  Clown shoes.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 07:50:20 -0800
+location: Sequim, WA

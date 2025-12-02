@@ -1,0 +1,7 @@
+569918932116643841
+United
+@United are you able to see if there are seats open on another flight??
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 09:57:16 -0800
+location: Los Angeles

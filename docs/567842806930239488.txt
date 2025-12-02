@@ -1,0 +1,7 @@
+567842806930239488
+United
+@united ooh thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 16:27:29 -0800
+location: Chicago, IL

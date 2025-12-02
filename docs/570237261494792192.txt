@@ -1,0 +1,7 @@
+570237261494792192
+United
+@united 2nd flight also delayed no pilots! But they boarded is so we can just sit here! #scheduling
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 07:02:12 -0800
+location: Midwest

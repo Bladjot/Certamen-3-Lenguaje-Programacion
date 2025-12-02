@@ -1,0 +1,7 @@
+569906598472228864
+United
+@united I guess. But what is the excuse for understaffed costumer services? 3 people had to deal with lots of angry passengers. Weather too?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:08:16 -0800
+location: nan

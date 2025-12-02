@@ -1,0 +1,7 @@
+569985270415818752
+US Airways
+@USAirways I have a receipt but no conf # for a Thur flight. When I call for help I was literally hung up on b/c of wait times. Help!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:20:52 -0800
+location: Brooklyn, NY

@@ -1,0 +1,7 @@
+568198336651649027
+Delta
+@JetBlue I'll pass along the advice. You guys rock!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 16:00:14 -0800
+location: Massachusetts

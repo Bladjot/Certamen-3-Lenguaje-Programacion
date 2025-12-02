@@ -1,0 +1,7 @@
+569914957552353280
+Southwest
+@SouthwestAir Just landed in PHL. Row 9 window cover on N366SW could use some LUV. http://t.co/WQZZtIemX0
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 09:41:29 -0800
+location: nan

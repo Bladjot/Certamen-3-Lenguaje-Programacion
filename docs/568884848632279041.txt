@@ -1,0 +1,7 @@
+568884848632279041
+Virgin America
+@VirginAmerica what is your policy on flying after surgery?  I am still waiting for answer so I can tell me doctor.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 13:28:11 -0800
+location: Las Vegas, NV

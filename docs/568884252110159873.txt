@@ -1,0 +1,7 @@
+568884252110159873
+Southwest
+@SouthwestAir   Happily, flight 1625 was not delayed when a cockpit visit blew my four-yr-old's mind. Thanks, Cap'n! http://t.co/C8mqEzXVdH
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 13:25:49 -0800
+location: St. Paul, MN

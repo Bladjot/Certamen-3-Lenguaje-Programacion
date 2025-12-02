@@ -1,0 +1,7 @@
+568800389903962112
+United
+@united haha and you have to clean a plane that was held overnight in a hangar. Sounds lovely. Also don't lie on screensand say it's weather
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 07:52:35 -0800
+location: Orlando, FL

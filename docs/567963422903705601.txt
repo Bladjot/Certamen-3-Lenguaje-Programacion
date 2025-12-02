@@ -1,0 +1,7 @@
+567963422903705601
+United
+@united The link in the message I was replying to. #3thparty #ITproblems
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 00:26:46 -0800
+location: Flightlever 340

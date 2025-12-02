@@ -1,0 +1,7 @@
+569595123799101440
+US Airways
+.@USAirways trying to get a partner PNR, and have spent more than 1 hour on hold.  I know its snowing somewhere, but this is awful
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:30:34 -0800
+location: Wauwatosa, WI

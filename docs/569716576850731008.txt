@@ -1,0 +1,7 @@
+569716576850731008
+American
+@AmericanAir Thank you for the response.  When I book I've tried my AA number and my US Airways number and each time it doesn't pick it up
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 20:33:11 -0800
+location: Las Vegas

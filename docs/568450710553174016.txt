@@ -1,0 +1,7 @@
+568450710553174016
+United
+@united  Need to change flight from this Tuesday to sooner to attend to ailing parent in FL, Need help!! #custserv
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 08:43:05 -0800
+location: North Jersey

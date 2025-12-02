@@ -1,0 +1,7 @@
+569869884164714498
+American
+@AmericanAir calling at 1am to tell me my flight has been rescheduled 12 hours Late Flightr than it was supposed be to seems like a bad solution
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 06:42:22 -0800
+location: Bentonville, Arkansas

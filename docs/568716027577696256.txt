@@ -1,0 +1,7 @@
+568716027577696256
+United
+@United pre-dawn flight to #miami from #EWR. Annual #SOBEWFF trip. Now.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 02:17:21 -0800
+location: New York

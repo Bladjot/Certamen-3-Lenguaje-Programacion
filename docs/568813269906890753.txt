@@ -1,0 +1,7 @@
+568813269906890753
+United
+@united deserves to go bankrupt. Just delayed an outbound flight with no info on the connecting flight that we're going to miss
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 08:43:46 -0800
+location: nan

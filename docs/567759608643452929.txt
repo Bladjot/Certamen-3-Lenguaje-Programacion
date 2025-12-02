@@ -1,0 +1,7 @@
+567759608643452929
+Southwest
+@SouthwestAir Buying Early Bird was pointless. You moved me to a diff flight b/c first one was delayed, so I lost my boarding position.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 10:56:53 -0800
+location: San Antonio, TX

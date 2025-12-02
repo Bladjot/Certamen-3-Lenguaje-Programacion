@@ -1,0 +1,7 @@
+567799518448848897
+Delta
+Aww, is it? @JetBlue I guess now I need to book a flight to somewhere warm ASAP! Any suggestions?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 13:35:29 -0800
+location: NYC | CT

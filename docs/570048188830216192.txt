@@ -1,0 +1,7 @@
+570048188830216192
+US Airways
+@USAirways I am a premium #DividendMiles #cardholder. Unacceptable 4 you to #hangup my #customerservice call twice after putting me on hold.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 18:30:53 -0800
+location: Austin, TX | Atlanta, GA

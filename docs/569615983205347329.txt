@@ -1,0 +1,7 @@
+569615983205347329
+American
+@AmericanAir where do I look for cabin crew vacancies?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 13:53:28 -0800
+location: nan

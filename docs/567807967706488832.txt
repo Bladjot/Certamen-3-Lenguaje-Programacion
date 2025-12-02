@@ -1,0 +1,7 @@
+567807967706488832
+Virgin America
+@VirginAmerica thanks so much for sharing. Just added it to my site http://t.co/TsviBTvT8h
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 14:09:03 -0800
+location: nan

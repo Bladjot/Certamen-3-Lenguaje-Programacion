@@ -1,0 +1,7 @@
+569718474047664129
+US Airways
+@USAirways absolutely worst experience of my life at PHL. 6 hrs, 1 failed departure, 3 gates, and ZERO communication or help!!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 20:40:43 -0800
+location: Pennsylvania

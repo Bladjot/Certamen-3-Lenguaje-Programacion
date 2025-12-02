@@ -1,0 +1,7 @@
+567893710949588993
+US Airways
+@USAirways  really u gave 6 scotch on the rocks to an out of control drunk and would not let my sister change seats when he was grouping her
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 19:49:46 -0800
+location: Belle MO

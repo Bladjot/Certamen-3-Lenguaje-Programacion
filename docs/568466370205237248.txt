@@ -1,0 +1,7 @@
+568466370205237248
+United
+@united @perfectomobile huh?  I have sent 16 crash reports in Feb alone.  8 in one day.  Only app I have that consistently crashes.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 09:45:18 -0800
+location: nan

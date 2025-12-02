@@ -1,0 +1,7 @@
+570137063716216832
+American
+@AmericanAir try contacting everyone on that flight with a refund offer and we might believe you are sincere
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 00:24:03 -0800
+location: nan

@@ -1,0 +1,7 @@
+567754559762612225
+Delta
+@JetBlue if my flight says delayed with estimated departure listed, can I arrive at airport Late Flightr?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 10:36:50 -0800
+location: Chicagoland

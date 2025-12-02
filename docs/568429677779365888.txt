@@ -1,0 +1,7 @@
+568429677779365888
+Virgin America
+@VirginAmerica gave a credit for my Late Flight flight yesterday. Great service !!!! That's a Wow moment! Unexpected gesture!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 07:19:30 -0800
+location: San Francisco

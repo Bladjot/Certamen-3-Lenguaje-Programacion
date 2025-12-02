@@ -1,0 +1,7 @@
+569944061848760320
+Southwest
+@SouthwestAir my ticket was booked 1/27 to CUN. Does the arrival time reflect that CUN is now on EST time?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:37:08 -0800
+location: Birmingham, AL

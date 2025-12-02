@@ -1,0 +1,7 @@
+569693664433156096
+American
+@AmericanAir  having trouble getting rebooked
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 19:02:08 -0800
+location: midlothian, tx

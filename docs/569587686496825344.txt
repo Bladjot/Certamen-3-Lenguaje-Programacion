@@ -1,0 +1,7 @@
+569587686496825344
+American
+@AmericanAir thank you we got on a different flight to Chicago.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 12:01:01 -0800
+location: nan

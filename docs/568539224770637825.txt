@@ -1,0 +1,7 @@
+568539224770637825
+United
+@united smiling? NOT!!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 14:34:48 -0800
+location: Las Vegas & Atlanta

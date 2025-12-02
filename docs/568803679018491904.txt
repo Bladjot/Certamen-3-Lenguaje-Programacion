@@ -1,0 +1,7 @@
+568803679018491904
+United
+.@united Nope - had to rebook through Houston so I could get to Amarillo before 11pm. Stuck in SFO for four hours.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 08:05:39 -0800
+location: San Francisco, CA

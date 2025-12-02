@@ -1,0 +1,7 @@
+570272235639828480
+American
+@AmericanAir how about some rampers at gate b40 dfw?   Waiting to be marshaled in
+sentiment: negative
+negativereason: longlines
+created: 2015-02-24 09:21:10 -0800
+location: Everywhere

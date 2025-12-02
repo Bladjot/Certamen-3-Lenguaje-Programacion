@@ -1,0 +1,7 @@
+568870279906234368
+US Airways
+@USAirways followed!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 12:30:18 -0800
+location: Washington, DC via Boston

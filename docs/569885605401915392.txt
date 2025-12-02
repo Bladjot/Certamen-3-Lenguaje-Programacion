@@ -1,0 +1,7 @@
+569885605401915392
+American
+@AmericanAir I sent you a DM, can you please help.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:44:50 -0800
+location: Liverpool

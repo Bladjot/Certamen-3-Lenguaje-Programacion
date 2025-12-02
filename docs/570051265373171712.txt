@@ -1,0 +1,7 @@
+570051265373171712
+United
+@united lots of reports of system failures delaying flights over the last week. Currently sitting on the tarmac at OGG for over an hour.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 18:43:07 -0800
+location: nan

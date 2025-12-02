@@ -1,0 +1,7 @@
+570208992439312384
+American
+@AmericanAir yes starting w/ flight 1278, getting me home more than 48 hours Late Flightr. record locator BSUXLU
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 05:09:52 -0800
+location: Waco, TX

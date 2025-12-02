@@ -1,0 +1,7 @@
+570272778840104960
+Southwest
+@SouthwestAir thanks for the apology. Unfortunately i have had one too many bad experiences and will no longer be flying with southwest.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 09:23:20 -0800
+location: nan

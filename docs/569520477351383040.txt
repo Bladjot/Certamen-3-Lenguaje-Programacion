@@ -1,0 +1,7 @@
+569520477351383040
+Delta
+@JetBlue isn't this something YOU should do?!  Why should I tell your crew how to do their job?
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 07:33:57 -0800
+location: New York City

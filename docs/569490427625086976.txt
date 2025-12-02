@@ -1,0 +1,7 @@
+569490427625086976
+Delta
+@JetBlue @fllairport best way to kill nine hours at the airport when all flights are full and the airline won't put you standby? #stranded
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 05:34:33 -0800
+location: New York, NY

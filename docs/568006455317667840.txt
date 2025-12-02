@@ -1,0 +1,7 @@
+568006455317667840
+US Airways
+@USAirways I gave up http://t.co/2eDgc6TbLs
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 03:17:46 -0800
+location: Up In The Air

@@ -1,0 +1,7 @@
+569987325347954688
+Delta
+@JetBlue lmfao.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:29:02 -0800
+location: The Road to Damascus

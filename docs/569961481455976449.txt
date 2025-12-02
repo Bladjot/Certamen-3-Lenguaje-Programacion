@@ -1,0 +1,7 @@
+569961481455976449
+US Airways
+@USAirways is there an additional charge for a golf bag with clubs , shoes, and golf balls, if that's the only piece of luggage you check?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:46:21 -0800
+location: mclean, va

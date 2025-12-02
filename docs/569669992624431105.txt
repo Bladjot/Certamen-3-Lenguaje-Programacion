@@ -1,0 +1,7 @@
+569669992624431105
+United
+@United is truly the drunk uncle of boarding. Don't believe gate agent that overhead is full; don't reserve aisle http://t.co/cdZhTyd0aK
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 17:28:04 -0800
+location: Utah

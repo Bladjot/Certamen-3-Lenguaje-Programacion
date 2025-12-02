@@ -1,0 +1,7 @@
+568645379031347200
+Delta
+@JetBlue yup! He said there would be flight change fee. But the plane should be here in 45 minutes apparently.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 21:36:37 -0800
+location: Maine

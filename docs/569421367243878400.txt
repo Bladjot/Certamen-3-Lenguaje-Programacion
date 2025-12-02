@@ -1,0 +1,7 @@
+569421367243878400
+US Airways
+@USAirways Why is my "first available" flight for me now Tuesday but a flight today  that is "booked "#flt 755 available to buy online?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 01:00:07 -0800
+location: nan

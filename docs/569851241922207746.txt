@@ -1,0 +1,7 @@
+569851241922207746
+American
+last trip on @AmericanAir ... Poor customer service 3 trips in a row! @Delta here I come!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 05:28:18 -0800
+location: Memphis, TN

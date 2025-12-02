@@ -1,0 +1,7 @@
+569691609404706817
+American
+@americanair I finally got someone on the phone so no worries!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:53:58 -0800
+location: California

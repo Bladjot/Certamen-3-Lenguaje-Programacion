@@ -1,0 +1,7 @@
+569591533617307648
+American
+@AmericanAir  ugh Dump us in dfw w/no luggage then Cancelled Flight our flight 3 more times. Sat arrival now Tue?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 12:16:18 -0800
+location: Washington DC

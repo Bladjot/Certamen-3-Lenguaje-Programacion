@@ -1,0 +1,7 @@
+569671468369338368
+United
+@united I'm on UA1118 and my direct tv isn't working.  How do I avoid this in future?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 17:33:56 -0800
+location: nan

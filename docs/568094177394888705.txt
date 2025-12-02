@@ -1,0 +1,7 @@
+568094177394888705
+Delta
+@JetBlue WHAT'S UP WITH WEBSITE CAN'T ACCESS FLIGHT INFO
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 09:06:21 -0800
+location: Merrick

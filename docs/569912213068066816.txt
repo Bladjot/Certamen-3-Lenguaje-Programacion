@@ -1,0 +1,7 @@
+569912213068066816
+American
+@americanair why am I not being given a callback option??! Why has this service been turned off?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:30:34 -0800
+location: New York, NY

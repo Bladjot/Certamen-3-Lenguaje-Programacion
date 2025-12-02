@@ -1,0 +1,7 @@
+569695412740714496
+US Airways
+@USAirways delayed 2.5 hours @longbeachairport trying to get to @PHXSkyHarbor; give us an update, please???
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 19:09:05 -0800
+location: nan

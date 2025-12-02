@@ -1,0 +1,7 @@
+570258209534922752
+US Airways
+@USAirways Been on hold for over 5 hours! I believe I was overcharged $200 for my flight, I need an immediate explanation. HELP
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 08:25:26 -0800
+location: In a galaxy far, far away ✨

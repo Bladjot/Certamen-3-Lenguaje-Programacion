@@ -1,0 +1,7 @@
+569698145703043072
+American
+@AmericanAir its not that, it's the rude agent who wouldn't listen to anything I would say and it clearly fit into the sizer
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 19:19:57 -0800
+location: Chicago, IL

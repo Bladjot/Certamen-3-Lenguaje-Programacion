@@ -1,0 +1,7 @@
+569234264153174017
+US Airways
+@USAirways is the 7th circle of hell right after the dmv. #noshadetothedmv
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 12:36:39 -0800
+location: nan

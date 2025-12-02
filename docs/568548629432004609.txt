@@ -1,0 +1,7 @@
+568548629432004609
+US Airways
+@USAirways I miss you too. Work has taken me out of Philly. I’ve been on flight 1776 from BOS —&gt; PHL so many times I should have a res. seat
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 15:12:11 -0800
+location: Burlington, MA

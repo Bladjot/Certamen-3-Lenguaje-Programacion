@@ -1,0 +1,7 @@
+570306715599695874
+American
+@AmericanAir Mold on my flight?!? US3825 #filthyplane #hopeidonotgetsick http://t.co/zIK2UoXGnW
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 11:38:11 -0800
+location: Albany, NY

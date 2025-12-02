@@ -1,0 +1,7 @@
+570123304498917377
+American
+@AmericanAir does not know the meaning of customer service. Nightmare. Paid for direct flight. Bumped to Dallas. Flight Cancelled Flighted. Terrible
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 23:29:22 -0800
+location: Ohio

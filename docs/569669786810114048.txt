@@ -1,0 +1,7 @@
+569669786810114048
+US Airways
+@USAirways @AmericanAir USAIR #703 has returned to PHL due to issues with the fire detectors. What happens next?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 17:27:15 -0800
+location: Miami Beach, Florida

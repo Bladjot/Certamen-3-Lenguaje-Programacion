@@ -1,0 +1,7 @@
+569487121897033728
+Southwest
+@SouthwestAir I was under the impression when there is an 8 hour delay in your flight because of equipment failure, compensation is offered?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 05:21:25 -0800
+location: nan

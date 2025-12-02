@@ -1,0 +1,7 @@
+569924092280774656
+Delta
+Haha! @JetBlue: Our fleet's on fleek. http://t.co/KmaNLdQbh4”
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 10:17:46 -0800
+location: Orange County, Ca.

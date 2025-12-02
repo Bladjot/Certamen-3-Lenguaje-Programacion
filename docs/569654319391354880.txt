@@ -1,0 +1,7 @@
+569654319391354880
+US Airways
+@USAirways we've been waiting at the gate for 2 hrs, why are we now waiting to stow the luggage?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:25:48 -0800
+location: WITSEC League

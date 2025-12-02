@@ -1,0 +1,7 @@
+568985883589906432
+United
+@united @airlines. Agents arguing about check bag announcement. Looked for room until seat 20, gave up and walked back to seat 7.Unnecessary
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 20:09:40 -0800
+location: ONTARIO CANADA

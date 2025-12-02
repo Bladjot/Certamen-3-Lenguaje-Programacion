@@ -1,0 +1,7 @@
+569939736782962688
+American
+@AmericanAir Also do you have any way to speak to someone on the phone? Your 1-800 # has been hanging up on me all day.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:19:56 -0800
+location: San Diego

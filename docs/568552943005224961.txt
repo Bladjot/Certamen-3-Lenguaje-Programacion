@@ -1,0 +1,7 @@
+568552943005224961
+United
+@united tried to and got through the whole 2,000 characters and I was not even done.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 15:29:19 -0800
+location: Detroit, Michigan

@@ -1,0 +1,7 @@
+567737625637687296
+Southwest
+@SouthwestAir sure. Fhk2te. Am scheduled to leave this weekend but need to push to October
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:29:32 -0800
+location: Château d'If

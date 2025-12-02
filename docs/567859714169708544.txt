@@ -1,0 +1,7 @@
+567859714169708544
+US Airways
+@USAirways stuck in Charlotte being treated like a nobody by staff.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 17:34:40 -0800
+location: Lexington

@@ -1,0 +1,7 @@
+568100786657316864
+Delta
+@JetBlue you're welcome 👍👍👍 http://t.co/67k4N9eQ6E
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 09:32:36 -0800
+location: nan

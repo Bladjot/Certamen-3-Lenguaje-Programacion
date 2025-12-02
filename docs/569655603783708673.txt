@@ -1,0 +1,7 @@
+569655603783708673
+US Airways
+@USAirways @AmericanAir pissing off thousands of East coast customers.  When the delay is longer than the flight,  you = fail
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:30:54 -0800
+location: Nebraska

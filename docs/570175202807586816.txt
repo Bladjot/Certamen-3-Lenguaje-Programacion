@@ -1,0 +1,7 @@
+570175202807586816
+United
+@united hence why I've been asking for the customer service phone number so I can speak to a real person to get this sorted out
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 02:55:36 -0800
+location: Nottingham

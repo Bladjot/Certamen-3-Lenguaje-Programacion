@@ -1,0 +1,7 @@
+568929979981033472
+Virgin America
+@VirginAmerica thanks for gate checking my baggage on your full flight dfw-lax 883 and giving me early boarding too #sweet
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 16:27:32 -0800
+location: Orange County, CA

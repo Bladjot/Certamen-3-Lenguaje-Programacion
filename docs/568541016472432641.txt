@@ -1,0 +1,7 @@
+568541016472432641
+United
+@united perfect! Thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 14:41:55 -0800
+location: Tulsa, OK

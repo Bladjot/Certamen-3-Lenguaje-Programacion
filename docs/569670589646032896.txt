@@ -1,0 +1,7 @@
+569670589646032896
+American
+@AmericanAir spoke too soon. 30 min Late Flightr still waiting for bags to load. Some sympathy would be appreciated at the very least.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 17:30:27 -0800
+location: Far From Home

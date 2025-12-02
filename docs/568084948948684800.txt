@@ -1,0 +1,7 @@
+568084948948684800
+Delta
+@JetBlue loving the free #wifi and #legroom ✈️ #SeattleBound
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 08:29:40 -0800
+location: Newport Beach

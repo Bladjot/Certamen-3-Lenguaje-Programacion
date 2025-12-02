@@ -1,0 +1,7 @@
+569697646501363713
+United
+@united except all of that delayed the flight anyway.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 19:17:58 -0800
+location: Utah

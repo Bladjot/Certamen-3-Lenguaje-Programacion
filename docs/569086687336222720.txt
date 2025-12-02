@@ -1,0 +1,7 @@
+569086687336222720
+United
+@united I do I was on UA 495 LAX TO DEN - we are scheduled to land LAX @ 7:38 am - please rebook to Denver - best flight
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 02:50:14 -0800
+location: Colorado

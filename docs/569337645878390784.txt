@@ -1,0 +1,7 @@
+569337645878390784
+US Airways
+@USAirways My brother &amp; his family stranded in CLT tonight bc gate E36 agent wouldn't hold plane for two minutes. Now driving in bad weather
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 19:27:27 -0800
+location: Virginia

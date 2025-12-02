@@ -1,0 +1,7 @@
+570021128032407552
+Southwest
+@SouthwestAir I am genuinely surprised you all don't upgrade people when you Cancelled Flight their flights or at least put them in a comparable spot
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 16:43:22 -0800
+location: Washington DC

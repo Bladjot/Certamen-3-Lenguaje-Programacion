@@ -1,0 +1,7 @@
+569927299908444160
+Delta
+.@JetBlue this is enough for me to stop flying JetBlue.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 10:30:31 -0800
+location: New York City

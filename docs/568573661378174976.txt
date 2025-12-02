@@ -1,0 +1,7 @@
+568573661378174976
+Southwest
+@SouthwestAir have to be honest, didn't expect a fast response, thank you!  Off to #Chiberia we go!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 16:51:39 -0800
+location: Chicago

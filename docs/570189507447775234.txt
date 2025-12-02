@@ -1,0 +1,7 @@
+570189507447775234
+American
+@AmericanAir Sorry that is a sad answer a fully refundable first fare and no response in 6 weeks ! No more AA in my future !
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 03:52:26 -0800
+location: nan

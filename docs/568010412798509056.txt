@@ -1,0 +1,7 @@
+568010412798509056
+US Airways
+@USAirways how about a phone # to talk to a real person?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 03:33:30 -0800
+location: Mid Michigan

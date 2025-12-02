@@ -1,0 +1,7 @@
+569207022597509120
+Southwest
+@SouthwestAir I'm upset because we were lied to. Was told ice on runway, but EVERY other carrier was able to fly. Airport confirmed no ice!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 10:48:24 -0800
+location: Indiana...Our Indiana

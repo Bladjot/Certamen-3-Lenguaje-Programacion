@@ -1,0 +1,7 @@
+569909756493746176
+Delta
+@JetBlue great job getting flight 28 in 10 minutes early. Too bad we're at 50 minutes and counting waiting for our bags.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 09:20:49 -0800
+location: USA

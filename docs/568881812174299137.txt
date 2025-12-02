@@ -1,0 +1,7 @@
+568881812174299137
+United
+@United I have never been so grossed out in my life. What a disappointment-yet again-flying with you.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 13:16:07 -0800
+location: Salt Lake City, UT

@@ -1,0 +1,7 @@
+569860355746213893
+US Airways
+@USAirways you denied a mom her AM flight because she NEEDED her breast pumping parts on a full flight? Please FIX this ASAP!! #freeflight
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 06:04:30 -0800
+location: nan

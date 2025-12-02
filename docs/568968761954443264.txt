@@ -1,0 +1,7 @@
+568968761954443264
+United
+@united tried other flight options as per weblink, non available for next 2 days, frustrating #notgoodenough #poorservice
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 19:01:38 -0800
+location: nan

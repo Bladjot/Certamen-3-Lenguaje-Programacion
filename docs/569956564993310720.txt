@@ -1,0 +1,7 @@
+569956564993310720
+Southwest
+@SouthwestAir just got a call apologizing personally for the long waits last week trying to rebook flights. Class act. I appreciate that!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 12:26:49 -0800
+location: San Francisco, CA

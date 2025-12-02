@@ -1,0 +1,7 @@
+569883153231257601
+American
+@AmericanAir there is two hour wait
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 07:35:06 -0800
+location: New England

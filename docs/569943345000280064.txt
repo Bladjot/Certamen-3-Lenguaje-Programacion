@@ -1,0 +1,7 @@
+569943345000280064
+US Airways
+@USAirways US 728 stated their issues as: plane not moving as cargo door open on plane. Umm, ok. A little strange.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 11:34:17 -0800
+location: nan

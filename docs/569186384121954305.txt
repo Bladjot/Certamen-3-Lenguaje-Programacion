@@ -1,0 +1,7 @@
+569186384121954305
+Southwest
+@SouthwestAir when does today's scavenger hunt start? I'm trying to help my little brother win! #DestinationDragons
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 09:26:23 -0800
+location: Salt Lake City, UT

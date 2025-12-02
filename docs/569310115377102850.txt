@@ -1,0 +1,7 @@
+569310115377102850
+United
+@united #customerservice at @Dulles_Airport could not be worse. I get the bad weather, but this is awful.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 17:38:03 -0800
+location: Vernon Hills, IL

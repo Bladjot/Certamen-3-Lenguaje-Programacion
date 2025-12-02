@@ -1,0 +1,7 @@
+569332471193595904
+Southwest
+@SouthwestAir  no such thing as a free flight. Gonna be spending $100 on board rental bc #swa couldn't get my baggage to greenville w me.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 19:06:53 -0800
+location: Tallahassee, FL

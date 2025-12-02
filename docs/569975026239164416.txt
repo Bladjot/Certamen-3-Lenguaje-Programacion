@@ -1,0 +1,7 @@
+569975026239164416
+Southwest
+@SouthwestAir Your crew on 3138 is doing a great job of keeping everyone informed during the delays #givethemraises
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 13:40:10 -0800
+location: Reno, NV

@@ -1,0 +1,7 @@
+569123565984997376
+US Airways
+@USAirways any guesstimate on hold times? Can't change my flight online, at 45 mins and counting...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 05:16:46 -0800
+location: nan

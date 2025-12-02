@@ -1,0 +1,7 @@
+570031211336368128
+Southwest
+@SouthwestAir is my favorite airlines. I've never had issues with them. Plus there crew is entertaining.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 17:23:26 -0800
+location: Somewhere mind in my business

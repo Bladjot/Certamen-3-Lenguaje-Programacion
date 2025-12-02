@@ -1,0 +1,7 @@
+570224962184867840
+Delta
+@JetBlue can't link my flight from last week to my TruBlue account and 1800 num isn't answering..don't make me fly @Delta again, dont do it!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 06:13:19 -0800
+location: iPhone: 40.955353,-73.813942

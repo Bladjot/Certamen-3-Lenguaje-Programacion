@@ -1,0 +1,7 @@
+569470053348823040
+United
+@united you Cancelled Flightled my flight without notification?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 04:13:35 -0800
+location: WDVE PITTSBURGH

@@ -1,0 +1,7 @@
+570059496300548096
+Delta
+@JetBlue absolutely no worries. I'm just never flying with you again. Ever. Even I have to hitch hike cross country #passengersarepeople
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 19:15:49 -0800
+location: nan

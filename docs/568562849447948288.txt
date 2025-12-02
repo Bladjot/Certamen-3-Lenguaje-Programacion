@@ -1,0 +1,7 @@
+568562849447948288
+Southwest
+@SouthwestAir, remember me? Wouldn't let me on 3:05pm flight (seats available). Now my 7:40 flight is delayed. Worst airline. #badservice
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 16:08:41 -0800
+location: nan

@@ -1,0 +1,7 @@
+569270187725160449
+US Airways
+@USAirways you're killing me sche a flight to board 3 min after mine arrived with gate on other side of airport #genious
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 14:59:23 -0800
+location: Where ever God puts me

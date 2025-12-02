@@ -1,0 +1,7 @@
+568248151368269824
+US Airways
+@USAirways will I get the full amount credited to my account for US Airways credit?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 19:18:11 -0800
+location: San Francisco, CA

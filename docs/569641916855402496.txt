@@ -1,0 +1,7 @@
+569641916855402496
+US Airways
+@USAirways nothing like back to back delayed flights let hope this one isn't 12 hours like the last time.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:36:31 -0800
+location: nan

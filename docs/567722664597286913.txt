@@ -1,0 +1,7 @@
+567722664597286913
+Southwest
+@SouthwestAir has the WORST customer service of any airline I've ever flown.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 08:30:05 -0800
+location: nan

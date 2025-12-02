@@ -1,0 +1,7 @@
+570223806322581504
+American
+@AmericanAir flight AA1119, cx to AA157. Killing my layover, still wanting breakfast. I'm hungry! Get me to DFW!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 06:08:44 -0800
+location: iPhone: 37.621227,-122.386002

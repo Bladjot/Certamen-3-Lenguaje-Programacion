@@ -1,0 +1,7 @@
+569843082994315264
+Southwest
+@SouthwestAir Me on one of your planes!!! Thanks for taking me Arizona 184! http://t.co/Finq5Fh6ue
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 04:55:52 -0800
+location: Frederick, MD

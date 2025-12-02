@@ -1,0 +1,7 @@
+569598155999674368
+American
+@AmericanAir i was spoken 2 like I'm an idiot and that is not OK!! I don't need to deal w/ that esp after the travel experience I've had
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 12:42:37 -0800
+location: nan

@@ -1,0 +1,7 @@
+568353091407495168
+United
+@united to recap, you bounced me off my flight, LIED TO ME, then hung up on me. What am I supposed to think/do now?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 02:15:11 -0800
+location: Rhode Island

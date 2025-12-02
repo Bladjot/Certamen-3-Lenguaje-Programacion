@@ -1,0 +1,7 @@
+569676304154554368
+American
+@AmericanAir Awesome customer service on #390 from rdu. They snuck my wife a warm cookie. Thx!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:53:09 -0800
+location: 60093

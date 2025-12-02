@@ -1,0 +1,7 @@
+568341364951388160
+US Airways
+@USAirways this has been the worst trip with little to no customer service
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 01:28:35 -0800
+location: where ever i lay my hat

@@ -1,0 +1,7 @@
+569686372124102656
+American
+@AmericanAir Still looking as we speak.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:33:10 -0800
+location: Left hand seat in flightdeck

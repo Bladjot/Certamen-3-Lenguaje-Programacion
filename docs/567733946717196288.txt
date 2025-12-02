@@ -1,0 +1,7 @@
+567733946717196288
+Delta
+@JetBlue should i continue?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 09:14:55 -0800
+location: Yauco, Puerto Rico

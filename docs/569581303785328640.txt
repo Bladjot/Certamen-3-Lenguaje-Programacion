@@ -1,0 +1,7 @@
+569581303785328640
+Delta
+@JetBlue your agent told us TSA didn't have a crew to get bags!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 11:35:39 -0800
+location: NYC

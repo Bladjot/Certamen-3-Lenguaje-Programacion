@@ -1,0 +1,7 @@
+569607757784952832
+US Airways
+@USAirways @AmericanAir we are missing our connection due to delay out of LAS. What are we supposed to do now?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 13:20:46 -0800
+location: Charleston, SC

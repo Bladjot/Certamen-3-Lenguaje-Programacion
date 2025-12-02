@@ -1,0 +1,7 @@
+567774277656682496
+Southwest
+@SouthwestAir used to love you, but you keep rescheduling my flights.  #southworst
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 11:55:11 -0800
+location: San Francisco, CA

@@ -1,0 +1,7 @@
+569227490046164992
+Delta
+@JetBlue yes, last month when Boston got the first big snow storm and my flight was Cancelled Flightled.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 12:09:44 -0800
+location: Providence, RI

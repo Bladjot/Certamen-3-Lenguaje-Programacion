@@ -1,0 +1,7 @@
+568598412544704512
+United
+@united Want to book a multi-city fare. Have miles for 1of 2 flights. An option to pay for 1st flight with miles +2nd with UMP Visa? Thanks!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 18:30:00 -0800
+location: nan

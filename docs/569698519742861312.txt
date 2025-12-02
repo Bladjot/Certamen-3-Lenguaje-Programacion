@@ -1,0 +1,7 @@
+569698519742861312
+American
+@AmericanAir due to gate agents I missed my connecting flight to Mexico City...not a happy customer AA- let's correct this
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 19:21:26 -0800
+location: New York, NY

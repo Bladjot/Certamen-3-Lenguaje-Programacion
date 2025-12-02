@@ -1,0 +1,7 @@
+569641686101585921
+United
+“@united: @rikrik__ What made you come to this? Can we help you with anything? ^JP” free tickets , for the i convince .
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:35:36 -0800
+location: Saint Louis

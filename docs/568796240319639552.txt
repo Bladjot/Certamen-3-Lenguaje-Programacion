@@ -1,0 +1,7 @@
+568796240319639552
+Delta
+@JetBlue Airways Hits New 52-Week High at $17.58 (JBLU) - sleekmoney http://t.co/zdKXn4kTOu
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 07:36:06 -0800
+location: USA

@@ -1,0 +1,7 @@
+569632283046469634
+US Airways
+@USAirways @AmericanAir just be prepared for a claim if that bag is lost ... Too many valuables to carry in my hands. #us2146 to #aa2924
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 14:58:14 -0800
+location: Citizen of the World

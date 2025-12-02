@@ -1,0 +1,7 @@
+568876711300997121
+Delta
+@JetBlue you know it!!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 12:55:51 -0800
+location: New York-Florida

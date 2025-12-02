@@ -1,0 +1,7 @@
+568137238732771328
+Delta
+@JetBlue plans to offer direct flights from #JFK to #DaytonaBeach, #Florida starting next #February.… http://t.co/oYLlRZQU5m
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 11:57:27 -0800
+location: Liverpool, NY

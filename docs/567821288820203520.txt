@@ -1,0 +1,7 @@
+567821288820203520
+US Airways
+@USAirways I been on hold with U for 40mins wasting my time and $ &amp; I don't appreciate it #WheresTheCustomerServiceAt http://t.co/phI2IfNjIT
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 15:01:59 -0800
+location: NEXT D00R 2 U  ( Chiangles )

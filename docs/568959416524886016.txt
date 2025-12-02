@@ -1,0 +1,7 @@
+568959416524886016
+US Airways
+@USAirways Already tried. How about Conf # via DM
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 18:24:30 -0800
+location: Knoxville

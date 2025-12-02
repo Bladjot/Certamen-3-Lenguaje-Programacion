@@ -1,0 +1,7 @@
+568053728944791552
+US Airways
+@USAirways we're all standing here and no one is saying anything. I'll most likely be missing my flight to BWI AGAIN. http://t.co/JhaU4K48yv
+sentiment: negative
+negativereason: longlines
+created: 2015-02-18 06:25:37 -0800
+location: where you want to be.

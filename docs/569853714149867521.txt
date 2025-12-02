@@ -1,0 +1,7 @@
+569853714149867521
+United
+@united Cancelled Flightled my direct flight Newark-Brussels last night, now 7 hours behind schedule. In EU compensation would be a given, but in US?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 05:38:07 -0800
+location: Brussels

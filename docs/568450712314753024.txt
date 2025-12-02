@@ -1,0 +1,7 @@
+568450712314753024
+US Airways
+@USAirways if you've got room on an earlier flight home, why charge me $75 to get on it? Be the hero!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 08:43:05 -0800
+location: nan

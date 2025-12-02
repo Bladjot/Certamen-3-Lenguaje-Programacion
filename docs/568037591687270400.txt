@@ -1,0 +1,7 @@
+568037591687270400
+Southwest
+@SouthwestAir Not possible to carry-on and put in a closet/overhead? Had success doing that with other airlines. Thanks
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 05:21:30 -0800
+location: nan

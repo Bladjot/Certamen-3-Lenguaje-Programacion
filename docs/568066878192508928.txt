@@ -1,0 +1,7 @@
+568066878192508928
+Southwest
+@SouthwestAir I left something on a plane landing at Midway last night because I am a responsible adult -- got a number for me to call? TY!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 07:17:52 -0800
+location: Chicago, IL

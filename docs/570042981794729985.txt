@@ -1,0 +1,7 @@
+570042981794729985
+American
+@AmericanAir you ever wonder why you find yourselves responding to so many customer complaints on twitter? It's because your airline sucks.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 18:10:12 -0800
+location: nan

@@ -1,0 +1,7 @@
+569627770613063680
+American
+@AmericanAir I would like to thank the customer service team for their response to my Cancelled Flightled flight but just offering to (cont)
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 14:40:18 -0800
+location: Great Abington, Cambridge, GB

@@ -1,0 +1,7 @@
+570241050079420417
+American
+@AmericanAir Not here yet, but I plan on it. If you could have them fly low and slow right in front of me, that would be great. ;-)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 07:17:15 -0800
+location: Chicago

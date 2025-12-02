@@ -1,0 +1,7 @@
+568484335747268608
+Southwest
+@SouthwestAir can I get some luv with a fallow?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 10:56:42 -0800
+location: nan

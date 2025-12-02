@@ -1,0 +1,7 @@
+569562731356901376
+US Airways
+@USAirways next time you promise an ontime departure you should stick to it instead of stuffing us in this sweat box with no air
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 10:21:51 -0800
+location: Carlsbad, CA

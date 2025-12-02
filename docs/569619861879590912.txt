@@ -1,0 +1,7 @@
+569619861879590912
+US Airways
+@USAirways 24 hrs Late Flightr still not home. Hotel, rental car etc with a 5 yr old, what happened to "customer service is our first priority"
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:08:52 -0800
+location: nan

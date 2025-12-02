@@ -1,0 +1,7 @@
+569900784965554176
+American
+@AmericanAir Can you add my KTN to an existing reservation? It's not letting me add it online....
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 08:45:10 -0800
+location: nan

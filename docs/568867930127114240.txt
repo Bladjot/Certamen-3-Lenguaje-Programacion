@@ -1,0 +1,7 @@
+568867930127114240
+US Airways
+@USAirways another squashed flight. Having to share my seat with another passenger is not@my idea of quality travel
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 12:20:58 -0800
+location: New York

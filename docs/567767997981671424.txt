@@ -1,0 +1,7 @@
+567767997981671424
+United
+@united flight 4567 have already been Cancelled Flightled once, been trying to get home two days. Staff being very unhelpful.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 11:30:13 -0800
+location: Memphis

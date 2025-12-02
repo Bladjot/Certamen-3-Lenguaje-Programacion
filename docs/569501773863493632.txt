@@ -1,0 +1,7 @@
+569501773863493632
+Delta
+@JetBlue hi is there a way we can check to track the flight that will arrive &amp; that will be our flight to depart.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 06:19:38 -0800
+location: nan

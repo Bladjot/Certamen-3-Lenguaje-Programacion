@@ -1,0 +1,7 @@
+569682667362344960
+American
+@AmericanAir gotta be worse than @delta w/ on time departures.  I rushed back to terminal C for 8:25 flight but they haven't strtd boarding.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:18:26 -0800
+location: NC by day, DC by night....

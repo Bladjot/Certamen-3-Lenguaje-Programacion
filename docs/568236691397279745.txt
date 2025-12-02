@@ -1,0 +1,7 @@
+568236691397279745
+United
+@united final destination was booked through United but with quantas. United has not yet contacted Auckland. I am unaware of case ID number
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 18:32:39 -0800
+location: nan

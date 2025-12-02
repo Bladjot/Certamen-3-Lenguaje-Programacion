@@ -1,0 +1,7 @@
+568606066155634688
+US Airways
+@USAirways FA attendant on 4553 PHL to PWM tonight was fab!  An asset to your team.  From 1F. Have a great night team!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 19:00:25 -0800
+location: Seat 3A, Always

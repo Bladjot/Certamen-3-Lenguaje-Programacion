@@ -1,0 +1,7 @@
+569857475098202113
+American
+@AmericanAir Your customer service sucks! You rep should not be yelling at a caller regarding the weather in DFW.  Hope you go bankrupt!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 05:53:04 -0800
+location: Dallas, TX

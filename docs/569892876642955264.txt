@@ -1,0 +1,7 @@
+569892876642955264
+Southwest
+@SouthwestAir unveils 4 new #flights, including 2 from #Ohio http://t.co/grkBj7bxlk
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 08:13:44 -0800
+location: Phoenix AZ

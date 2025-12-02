@@ -1,0 +1,7 @@
+568931637699829761
+United
+@united - #epicfail from a former gate agent in PIA!  He walked away and quit! Luckily a responsible PIA agent saved the day!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 16:34:07 -0800
+location: Apex, NC

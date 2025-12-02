@@ -1,0 +1,7 @@
+569870480993181698
+Delta
+@JetBlue I don't want JetBlue +TV. I want JetBlue +WIFI :(((
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 06:44:45 -0800
+location: nan

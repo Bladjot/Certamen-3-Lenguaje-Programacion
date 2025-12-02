@@ -1,0 +1,7 @@
+569146084632760320
+Delta
+@JetBlue may I check my 17-month-old child's fold-up crib for free on my flight tomorrow, similar to your policy for infant car seats?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 06:46:15 -0800
+location: Cambridge, MA

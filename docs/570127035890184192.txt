@@ -1,0 +1,7 @@
+570127035890184192
+American
+@AmericanAir i have been rebooked for the 7am flight. My questions is, why do some people get hotel and the others don't like myself?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 23:44:12 -0800
+location: nan

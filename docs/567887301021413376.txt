@@ -1,0 +1,7 @@
+567887301021413376
+United
+@united Stuck on plane for over an hour due to mechanical faults. Any updates please? This happened on way to Newark and now again to LHR...
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 19:24:18 -0800
+location: nan

@@ -1,0 +1,7 @@
+569646857632096256
+Southwest
+@SouthwestAir Flying South by Southwest from SJC to SNA tiday http://t.co/KJKuVJ6CMo
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:56:09 -0800
+location: Fremont, CA

@@ -1,0 +1,7 @@
+569153207148150785
+US Airways
+@USAirways how long are you going make us sit in this plane while they repair it? Could I at least get a beer???
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 07:14:33 -0800
+location: nan

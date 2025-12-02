@@ -1,0 +1,7 @@
+569892686624198657
+American
+@AmericanAir what response? Is our flight out of Montrose Cancelled Flightled or not?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 08:12:59 -0800
+location: New England

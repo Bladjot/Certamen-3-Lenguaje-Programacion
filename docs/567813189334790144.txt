@@ -1,0 +1,7 @@
+567813189334790144
+Southwest
+@SouthwestAir About time...and just in time for my next flight Thursday.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 14:29:48 -0800
+location: Campbell, CA

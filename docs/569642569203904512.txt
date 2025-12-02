@@ -1,0 +1,7 @@
+569642569203904512
+Delta
+@JetBlue yes, please get me the seats we paid for.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 15:39:06 -0800
+location: Brooklyn =)

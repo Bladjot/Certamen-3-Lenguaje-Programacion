@@ -1,0 +1,7 @@
+568204616594165760
+Delta
+@JetBlue I don't think I'll be testing those waters out on my own dime again.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 16:25:11 -0800
+location: Austin, TX

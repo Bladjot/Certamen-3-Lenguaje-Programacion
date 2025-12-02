@@ -1,0 +1,7 @@
+568250159689113600
+United
+@united &amp; I've been hung up on twice by your staff. So upset right now
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 19:26:10 -0800
+location: ny

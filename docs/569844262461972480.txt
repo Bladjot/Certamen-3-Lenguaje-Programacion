@@ -1,0 +1,7 @@
+569844262461972480
+American
+@AmericanAir How is it possible that your call system can refuse callers for over twelve hours? What service options does that leave?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 05:00:34 -0800
+location: St. Louis, Mo

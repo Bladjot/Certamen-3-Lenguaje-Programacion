@@ -1,0 +1,7 @@
+570296670568751106
+Southwest
+@SouthwestAir Logically you would think you check all that before you have people board. I could've drove home in the time I've been waiting
+sentiment: negative
+negativereason: longlines
+created: 2015-02-24 10:58:16 -0800
+location: St.Peters, MO

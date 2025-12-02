@@ -1,0 +1,7 @@
+569610893052518400
+US Airways
+@USAirways spoke with your reps in NH and PA. Very poor communications. Bags still sitting in Philly. TRAIN YOUR STAFF
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:33:14 -0800
+location: Boston, MA

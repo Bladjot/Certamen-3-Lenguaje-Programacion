@@ -1,0 +1,7 @@
+568710194575872001
+United
+@united got it, look forward to hearing from you soon
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 01:54:11 -0800
+location: nan

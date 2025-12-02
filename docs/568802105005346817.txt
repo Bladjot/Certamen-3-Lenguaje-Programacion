@@ -1,0 +1,7 @@
+568802105005346817
+Southwest
+@SouthwestAir @geekstiel Do you know when the last chance is?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 07:59:24 -0800
+location: nan

@@ -1,0 +1,7 @@
+568213658117005314
+Delta
+@JetBlue thanks. I appreciate your prompt response.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 17:01:07 -0800
+location: #ManorvilleInExile

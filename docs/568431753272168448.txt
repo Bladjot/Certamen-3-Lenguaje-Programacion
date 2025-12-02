@@ -1,0 +1,7 @@
+568431753272168448
+US Airways
+@USAirways I'm trying to merge my freq flyer accts but keep getting an error message and only a machine when calling the # provided. Help!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 07:27:45 -0800
+location: Washington D.C.

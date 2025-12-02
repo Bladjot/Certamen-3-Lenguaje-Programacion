@@ -1,0 +1,7 @@
+569491590105980929
+US Airways
+@USAirways Many thanks for your reply! http://t.co/6CGFv02gzb
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 05:39:10 -0800
+location: Leeds, West Yorkshire

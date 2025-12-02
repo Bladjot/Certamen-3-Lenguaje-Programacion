@@ -1,0 +1,7 @@
+569910528279228416
+American
+@AmericanAir Trying  to Cancelled Flight fligt 2321 O'Hare to Dallas 12:17pm. High call volume no one answer. Online no confirmation. #thankU
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:23:53 -0800
+location: Chicago,IL

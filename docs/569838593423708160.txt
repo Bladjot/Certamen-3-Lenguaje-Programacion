@@ -1,0 +1,7 @@
+569838593423708160
+United
+@united any chance flight 3745 is being delayed??  nervous about driving to DFW in this weather to drop off my brother
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 04:38:02 -0800
+location: Hurst, TX

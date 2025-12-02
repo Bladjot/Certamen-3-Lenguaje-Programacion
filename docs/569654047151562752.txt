@@ -1,0 +1,7 @@
+569654047151562752
+American
+@AmericanAir ok so why is it Late Flight? And for that matter why was my flight 4491 Cancelled Flighted this morning? I've been in YYZ since 5 AM.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:24:43 -0800
+location: Kingston ontario Canada

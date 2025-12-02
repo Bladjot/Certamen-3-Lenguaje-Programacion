@@ -1,0 +1,7 @@
+570067181733580800
+United
+@united Connection at ORD was on the exact same plane again. Checked carry-on was apparently taken off &amp; left in Chicago. Pretty ridiculous.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 19:46:22 -0800
+location: NY

@@ -1,0 +1,7 @@
+568218559278661632
+Delta
+@JetBlue There's a large family of birds inside T5. Are they fed? Are they there for a purpose?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 17:20:36 -0800
+location: New York, New York

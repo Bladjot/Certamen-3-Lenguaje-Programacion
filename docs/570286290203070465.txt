@@ -1,0 +1,7 @@
+570286290203070465
+US Airways
+@USAirways already did it. One person said they couldn't do anything another said she didn't know why the first person we talked 2 said that
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 10:17:01 -0800
+location: nan

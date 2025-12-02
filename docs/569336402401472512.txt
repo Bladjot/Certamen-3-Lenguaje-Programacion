@@ -1,0 +1,7 @@
+569336402401472512
+United
+@united Wife and I have two new destinations and I'm stuck in DC until Monday with no bags
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 19:22:30 -0800
+location: Ottawa, ON

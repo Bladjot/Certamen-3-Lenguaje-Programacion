@@ -1,0 +1,7 @@
+569933882662916096
+Southwest
+@SouthwestAir understand the weather, these kids need to get home! Nice kids doing volunteer work from a RI high school, please help
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:56:41 -0800
+location: RI

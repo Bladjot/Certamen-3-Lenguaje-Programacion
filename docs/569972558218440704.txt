@@ -1,0 +1,7 @@
+569972558218440704
+US Airways
+@USAirways  how does one downgrade a flight?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:30:22 -0800
+location: Miami, Florida, USA

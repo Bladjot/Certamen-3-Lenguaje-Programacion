@@ -1,0 +1,7 @@
+569969455171813376
+American
+@AmericanAir will not let me reuse my ticket.  Thus I have booked my vacation with Delta!  Never flying on American again......
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:18:02 -0800
+location: nan

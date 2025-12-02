@@ -1,0 +1,7 @@
+568818427579793409
+Southwest
+@SouthwestAir you could be a little more accommodating with extending my flight credit.Whats 10 extra days!#notahappytraveler
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 09:04:15 -0800
+location: nan

@@ -1,0 +1,7 @@
+569899836063019008
+American
+@AmericanAir I need help Cancelled Flighting an upcoming flight made with AAdvantage miles. Record locator HFJKTO. Can someone please assist?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 08:41:23 -0800
+location: Boston

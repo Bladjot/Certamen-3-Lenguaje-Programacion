@@ -1,0 +1,7 @@
+569709195936735232
+US Airways
+@USAirways I think it's a little weak sauce you have zero inflight entertainment for a 4 hour flight from Salt Lake to Philadelphia
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 20:03:51 -0800
+location: nan

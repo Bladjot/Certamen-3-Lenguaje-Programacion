@@ -1,0 +1,7 @@
+569571829033144320
+Delta
+@JetBlue I'm over that honestly just would like to get going on the journey.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 10:58:00 -0800
+location: nyc

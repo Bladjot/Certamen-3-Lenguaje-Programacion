@@ -1,0 +1,7 @@
+569882596798132225
+Southwest
+@SouthwestAir Can you equip a 737 with flamethrowers and a snow plow?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:32:53 -0800
+location: Boston, MA

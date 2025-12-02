@@ -1,0 +1,7 @@
+569044397645385728
+Delta
+@JetBlue so you guys lost my bag that had all my ski gear in it. I flew here from NYC to ski. Should I buy new stuff tomorrow? ...
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 00:02:11 -0800
+location: New York, NY

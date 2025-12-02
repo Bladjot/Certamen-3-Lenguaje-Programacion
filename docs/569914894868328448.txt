@@ -1,0 +1,7 @@
+569914894868328448
+American
+@AmericanAir research buddy. Read my previous tweets and get some context.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 09:41:14 -0800
+location: nan

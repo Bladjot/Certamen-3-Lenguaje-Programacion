@@ -1,0 +1,7 @@
+568417751854931968
+US Airways
+@USAirways KUDOS to your phone support and Charlotte gate staff!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 06:32:07 -0800
+location: Scruffyville

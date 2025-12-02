@@ -1,0 +1,7 @@
+569900620095856640
+US Airways
+@USAirways what's going on with your website &amp; mobile app??? Help!!!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 08:44:30 -0800
+location: nan

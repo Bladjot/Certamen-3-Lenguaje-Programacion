@@ -1,0 +1,7 @@
+570274417546113025
+US Airways
+@USAirways I left my personal stuff on US4551 from PHL-BOS about an hour ago. Went baggage, was told plane left to call 800#
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:29:50 -0800
+location: Philadelphia, PA

@@ -1,0 +1,7 @@
+568633911959363586
+US Airways
+@USAirways and that you can choose the same seat for free after clicking 100 buttons.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 20:51:03 -0800
+location: nan

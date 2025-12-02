@@ -1,0 +1,7 @@
+569916664130637825
+American
+@AmericanAir I need to rebook and I cannot get an agent. Can you help?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 09:48:15 -0800
+location: Allen, TX

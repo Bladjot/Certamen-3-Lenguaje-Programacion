@@ -1,0 +1,7 @@
+569541478244089857
+Delta
+@JetBlue too Late Flight. Several passengers are inebriated. You're in league with big alcohol. Shame on you.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 08:57:24 -0800
+location: New York, New York

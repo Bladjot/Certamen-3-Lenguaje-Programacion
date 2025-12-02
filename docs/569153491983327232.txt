@@ -1,0 +1,7 @@
+569153491983327232
+United
+@united 3 hours of sitting in the plane that hasn't left the Gate yet. 6 more hours of actual flying left.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 07:15:41 -0800
+location: Boston, MA

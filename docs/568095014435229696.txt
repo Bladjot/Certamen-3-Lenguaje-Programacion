@@ -1,0 +1,7 @@
+568095014435229696
+Delta
+.@JetBlue handled @0xjared's question like social media pros. Good practice for when our transportation systems are all run by friendly AIs!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 09:09:40 -0800
+location: Pescadero, CA

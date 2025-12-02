@@ -1,0 +1,7 @@
+568189531033174016
+Virgin America
+@VirginAmerica great. Well deserved.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 15:25:15 -0800
+location: nan

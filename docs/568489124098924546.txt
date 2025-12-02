@@ -1,0 +1,7 @@
+568489124098924546
+Delta
+@JetBlue No, it didn't all work out. I called Jet Blue from Mexico to address the fraud alert with Capital One on the line. Rebooked.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 11:15:43 -0800
+location: nan

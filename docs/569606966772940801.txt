@@ -1,0 +1,7 @@
+569606966772940801
+Delta
+@JetBlue exactly why is my flight delayed? 599 BDL to DCA? Can't seem to get an answer
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 13:17:38 -0800
+location: Washington, DC

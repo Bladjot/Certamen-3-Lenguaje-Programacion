@@ -1,0 +1,7 @@
+568948462030467072
+US Airways
+@USAirways @AmericanAir did I mention I'm a silver preferred member and fly every week (not always with you), and not even a meal voucher?
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 17:40:58 -0800
+location: nan

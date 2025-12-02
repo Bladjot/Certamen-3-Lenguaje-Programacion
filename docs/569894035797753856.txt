@@ -1,0 +1,7 @@
+569894035797753856
+US Airways
+@USAirways rebooked for Tuesday. Arriving too Late Flight for on Tuesday to start the class. Cancelled Flightled the trip.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 08:18:20 -0800
+location: TLH

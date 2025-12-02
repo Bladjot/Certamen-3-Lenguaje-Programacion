@@ -1,0 +1,7 @@
+569843359029850112
+American
+@AmericanAir I'm trying to register since 12:00,don't want to be separated from my brother during the15hours flight!There're few places left
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 04:56:58 -0800
+location: Saint Maur des Fossés

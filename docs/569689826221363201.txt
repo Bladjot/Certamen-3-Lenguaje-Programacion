@@ -1,0 +1,7 @@
+569689826221363201
+American
+@AmericanAir you guys should really improve the service experience with your on site personnel. This has been one of the worst experiences.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:46:53 -0800
+location: Santo Domingo

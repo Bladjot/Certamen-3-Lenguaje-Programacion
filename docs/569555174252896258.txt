@@ -1,0 +1,7 @@
+569555174252896258
+United
+@united The so below skilled staff and inadequate system just deleted my return from Houston to Norway. Shoulder shrugging is all you do..
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 09:51:50 -0800
+location: Stavanger, Norway

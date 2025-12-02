@@ -1,0 +1,7 @@
+567813037454917632
+United
+@united 877 from amsterdam to ewr, 02.27.2015, 737-300.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:29:12 -0800
+location: The Netherlands

@@ -1,0 +1,7 @@
+569678456478404608
+American
+@AmericanAir usually raving about the service to LAX. Your nbr1 and helper can't figure out how to hang a coat and serve a drink. 6F
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 18:01:42 -0800
+location: Cape Cod

@@ -1,0 +1,7 @@
+570302023968694272
+US Airways
+@USAirways Well I did miss it. But gate agents had rebooked boarding pass waiting when I landed. Time for lunch &amp; a beverage. Easy cheesy
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 11:19:32 -0800
+location: Fort Mill, SC

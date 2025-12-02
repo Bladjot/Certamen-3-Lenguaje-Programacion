@@ -1,0 +1,7 @@
+570251671265083393
+Delta
+@JetBlue thank you! Headed from LBC to OAK !
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 07:59:27 -0800
+location: anaheim

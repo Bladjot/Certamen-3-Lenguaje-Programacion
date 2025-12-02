@@ -1,0 +1,7 @@
+567929586077425664
+United
+@united are my bags here yet?  They were at Palm Springs airport.  I was at LAX.  How come I beat my bags here.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 22:12:19 -0800
+location: All Over The World

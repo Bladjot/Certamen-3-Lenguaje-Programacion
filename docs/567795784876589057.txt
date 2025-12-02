@@ -1,0 +1,7 @@
+567795784876589057
+Delta
+@JetBlue are we good?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 13:20:38 -0800
+location: Queens, NY

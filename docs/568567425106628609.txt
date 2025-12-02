@@ -1,0 +1,7 @@
+568567425106628609
+United
+@united look at the Twitter history - as usual service non existent
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 16:26:52 -0800
+location: nan

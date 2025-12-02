@@ -1,0 +1,7 @@
+569598314825555968
+American
+@AmericanAir What's the status at DFW? Ticket agent at gate A9 was very rude and unhelpful.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 12:43:15 -0800
+location: Natchitoches, LA

@@ -1,0 +1,7 @@
+569654393898864640
+American
+@AmericanAir It just hangs up and your agents on the ground are useless. How don't I have a seat on a first class ticket booked weeks ago?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:26:05 -0800
+location: Washington, DC

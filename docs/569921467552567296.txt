@@ -1,0 +1,7 @@
+569921467552567296
+Delta
+@JetBlue you bet:)
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:07:21 -0800
+location: Burlington, Vermont

@@ -1,0 +1,7 @@
+568895061284364288
+US Airways
+Is it insulting that @USAirways @AmericanAir offer a "non required $50 voucher as a goodwill offering..At least my bag can fly round trip
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 14:08:46 -0800
+location: ÜT: 41.5333,-93.62944

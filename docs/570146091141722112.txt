@@ -1,0 +1,7 @@
+570146091141722112
+American
+@AmericanAir nothing, you have done enough.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 00:59:55 -0800
+location: Edmond, Oklahoma

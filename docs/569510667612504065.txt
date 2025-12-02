@@ -1,0 +1,7 @@
+569510667612504065
+Delta
+@JetBlue flt 136 from PHX. Delayed 2 hrs, circle 1 hr, divert to upstate NY, just sitting for 1 hr No communication #horrible
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 06:54:58 -0800
+location: New York, New York

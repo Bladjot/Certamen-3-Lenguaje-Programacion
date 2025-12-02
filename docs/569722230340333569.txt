@@ -1,0 +1,7 @@
+569722230340333569
+United
+@united How do I get through @TSA to finally board UA 1534?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 20:55:39 -0800
+location: Brooklyn, NY

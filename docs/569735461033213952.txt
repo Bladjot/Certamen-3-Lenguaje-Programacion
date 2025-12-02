@@ -1,0 +1,7 @@
+569735461033213952
+American
+@AmericanAir have been waiting over THREE hours to talk to someone to rebook a flight due to weather. does call back service actually work??
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 21:48:13 -0800
+location: nan

@@ -1,0 +1,10 @@
+570103012380667904
+Southwest
+@SouthwestAir hey remember that time you lost my husbands bags? I do. 
+
+#filmjobnoequipment 
+#nowarmclothes
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 22:08:44 -0800
+location: South Florida

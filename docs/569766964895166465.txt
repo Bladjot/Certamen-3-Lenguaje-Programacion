@@ -1,0 +1,7 @@
+569766964895166465
+American
+@AmericanAir please rebook me from Seattle to Columbus Tue 2/24, locator: KARAAX, name: Mitchell M Neuer
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 23:53:24 -0800
+location: ÜT: 47.683801,-122.327443

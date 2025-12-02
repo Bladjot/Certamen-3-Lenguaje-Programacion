@@ -1,0 +1,7 @@
+569382354529030144
+US Airways
+@USAirways @caterobbie if that link worked most of us could take care of ourselves  please contact your tech people to get that working
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 22:25:06 -0800
+location: nan

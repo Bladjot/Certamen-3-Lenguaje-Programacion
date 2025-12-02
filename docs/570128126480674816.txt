@@ -1,0 +1,7 @@
+570128126480674816
+American
+@AmericanAir pity that a machine replied, or perhaps my story not unusual. Expected better response given article in in-flight magazine.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 23:48:32 -0800
+location: nan

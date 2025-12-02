@@ -1,0 +1,7 @@
+567760260598104064
+Delta
+@JetBlue @vegecomgirl For me it’s not until 6/15.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 10:59:29 -0800
+location: Jersey City, NJ

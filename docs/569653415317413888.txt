@@ -1,0 +1,7 @@
+569653415317413888
+US Airways
+@USAirways #stuck in Florida with no flights... Service sucks here. #nofood #nodrinks #nohelp
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:22:12 -0800
+location: nan

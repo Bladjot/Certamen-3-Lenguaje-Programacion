@@ -1,0 +1,7 @@
+567842661463240704
+Delta
+@JetBlue we were on b6 619 this morning from Boston to beautiful San Diego. We really were bummed the satellite was broken. :(
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 16:26:55 -0800
+location: nan

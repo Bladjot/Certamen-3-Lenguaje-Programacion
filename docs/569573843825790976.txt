@@ -1,0 +1,7 @@
+569573843825790976
+Delta
+@JetBlue's flight Flight Booking Problems experience is pretty great!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 11:06:01 -0800
+location: Boston

@@ -1,0 +1,7 @@
+569589123218079745
+US Airways
+@USAirways just told by supervisor that they won't guarantee the empty seats to standby passengers with flights Cancelled Flightled so can sell them
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:06:44 -0800
+location: nan

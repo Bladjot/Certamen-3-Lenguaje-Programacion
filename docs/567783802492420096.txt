@@ -1,0 +1,7 @@
+567783802492420096
+Southwest
+@SouthwestAir haha, thanks for the explanation
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 12:33:02 -0800
+location: TX

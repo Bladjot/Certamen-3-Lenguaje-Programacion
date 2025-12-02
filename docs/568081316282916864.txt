@@ -1,0 +1,7 @@
+568081316282916864
+Southwest
+@SouthwestAir are you guys gonna be giving away any tickets for @Imaginedragons at @VinylVegas? #DestinationDragons
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 08:15:14 -0800
+location: Vegas

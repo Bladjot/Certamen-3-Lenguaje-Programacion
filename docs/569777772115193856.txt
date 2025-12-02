@@ -1,0 +1,7 @@
+569777772115193856
+United
+@united … But friendly efficient air attendants in coach #UA992 http://t.co/49pV3KcHNR
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 00:36:21 -0800
+location: New York/New Jersey

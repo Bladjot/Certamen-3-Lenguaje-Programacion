@@ -1,0 +1,7 @@
+568418531777355776
+Southwest
+@SouthwestAir why the delay on Flight 423 BDL to MCO? Need to get to Florida for the ☀️&amp; races in Daytona
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 06:35:13 -0800
+location: CT

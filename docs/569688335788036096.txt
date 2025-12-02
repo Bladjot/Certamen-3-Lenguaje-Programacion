@@ -1,0 +1,7 @@
+569688335788036096
+US Airways
+@USAirways  "please call Late Flightr" is not acceptable - but neither is being on hold for 5+ hrs #onholdwith
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:40:58 -0800
+location: nan

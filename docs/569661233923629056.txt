@@ -1,0 +1,7 @@
+569661233923629056
+American
+@AmericanAir really? Not even worthy of a response. This is beginning of a social media alert to the world that AA and @USAirways are useles
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:53:16 -0800
+location: NY

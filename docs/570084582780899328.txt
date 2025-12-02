@@ -1,0 +1,7 @@
+570084582780899328
+Virgin America
+@VirginAmerica awaiting my return phone call, just would prefer to use your online self-service option :(
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 20:55:30 -0800
+location: nan

@@ -1,0 +1,7 @@
+568892505829347329
+United
+@united we can't all be american airlines I suppose... http://t.co/0EWj7oKlji
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 13:58:37 -0800
+location: Purcellville, VA

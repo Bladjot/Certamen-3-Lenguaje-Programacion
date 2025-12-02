@@ -1,0 +1,7 @@
+568784436428300290
+Southwest
+@SouthwestAir Jackpot!  #legroom http://t.co/ZO2iceG4lI
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 06:49:11 -0800
+location: nan

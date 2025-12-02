@@ -1,0 +1,7 @@
+569560386548006912
+US Airways
+@USAirways come scoop
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 10:12:32 -0800
+location: ♑ NYC

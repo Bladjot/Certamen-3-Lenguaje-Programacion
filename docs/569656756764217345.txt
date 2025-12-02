@@ -1,0 +1,7 @@
+569656756764217345
+American
+@AmericanAir why does your customer service line say "we are experiencing high call volume" and then spontaneously hangup on the person?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:35:29 -0800
+location: DC

@@ -1,0 +1,7 @@
+569017218316369921
+United
+.@united I took a screenshot and emailed it to myself. Let's DM and figure this out.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 22:14:11 -0800
+location: Aliso Viejo, CA

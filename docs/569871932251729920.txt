@@ -1,0 +1,7 @@
+569871932251729920
+US Airways
+@USAirways There is nothing on my USAir CC at this point, but the email stated I would be charged.  Thanks for the reply.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 06:50:31 -0800
+location: Southeastern Pennsylvania USA

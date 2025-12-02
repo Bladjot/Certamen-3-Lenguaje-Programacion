@@ -1,0 +1,7 @@
+569291447377137664
+United
+@united who do I need to contact regrading a complaint and to get a voucher funds for future travel on United?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 16:23:52 -0800
+location: nan

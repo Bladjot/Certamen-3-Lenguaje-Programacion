@@ -1,0 +1,7 @@
+568611364803096577
+United
+@united sent you my confirmation via DM. Thank you very much
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 19:21:28 -0800
+location: nan

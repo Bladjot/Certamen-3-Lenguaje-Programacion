@@ -1,0 +1,7 @@
+568454304488673280
+Southwest
+@SouthwestAir ..just booked trip to Cancun...❤️ no baggage fees..but need to have more flight time options
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 08:57:22 -0800
+location: nan

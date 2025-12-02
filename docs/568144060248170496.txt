@@ -1,0 +1,7 @@
+568144060248170496
+US Airways
+@USAirways No access to Dividend Miles and for a week the automated phone keeps telling me to call back Late Flightr. #FRUSTRATED #LivePersonPlease
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 12:24:34 -0800
+location: Boston

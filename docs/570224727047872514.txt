@@ -1,0 +1,7 @@
+570224727047872514
+United
+@united So they didn't drop my bag overnight &amp; now I'm leaving for a week. This is why you were supposed to hold on to the bag....
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 06:12:23 -0800
+location: Boulder, CO

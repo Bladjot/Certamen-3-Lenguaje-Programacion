@@ -1,0 +1,7 @@
+567860351569649664
+US Airways
+@USAirways I'm amazed at the lack of communication with the passengers.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 17:37:12 -0800
+location: Lexington

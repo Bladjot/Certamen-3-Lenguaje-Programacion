@@ -1,0 +1,7 @@
+567777625344593920
+US Airways
+@USAirways If you believe in keeping your customers happy, especially after a mistake was made on your part...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 12:08:29 -0800
+location: nan

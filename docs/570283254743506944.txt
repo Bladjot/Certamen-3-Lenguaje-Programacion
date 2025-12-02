@@ -1,0 +1,7 @@
+570283254743506944
+American
+@AmericanAir worst company ever please do not fly with them I repeat please do not fly !! They will not credit you if you're delayed
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 10:04:57 -0800
+location: new york city

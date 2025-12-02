@@ -1,0 +1,7 @@
+568139693574848513
+US Airways
+@USAirways I asked for some reimbursement something like miles added to my account and was told to call customer service
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 12:07:13 -0800
+location: nan

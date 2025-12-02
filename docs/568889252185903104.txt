@@ -1,0 +1,7 @@
+568889252185903104
+United
+@united thanks for moving my dad on to my my mom's flight. You helped make his birthday start with #FriendlyFriday Awesomeness! 4 paws up!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 13:45:41 -0800
+location: Deutschland

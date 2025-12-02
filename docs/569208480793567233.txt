@@ -1,0 +1,7 @@
+569208480793567233
+Virgin America
+Awesome! RT @VirginAmerica: Watch nominated films at 35,000 feet. #MeetTheFleet #Oscars http://t.co/DnStITRzWy
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 10:54:11 -0800
+location: Worldwide

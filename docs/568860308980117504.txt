@@ -1,0 +1,7 @@
+568860308980117504
+United
+@united UA1023 sitting on Tarmac at ORD when there are visibly gates open. Reassign our gate.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 11:50:41 -0800
+location: nan

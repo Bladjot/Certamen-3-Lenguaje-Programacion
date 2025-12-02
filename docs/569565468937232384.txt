@@ -1,0 +1,7 @@
+569565468937232384
+US Airways
+@USAirways flights to Dfw Cancelled Flightled today?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 10:32:44 -0800
+location: violet crown

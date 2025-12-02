@@ -1,0 +1,7 @@
+568493225788510209
+United
+@united 777 from SFO to HNL with ZERO entertainment systems???!!!#youareonyourown
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 11:32:01 -0800
+location: nan

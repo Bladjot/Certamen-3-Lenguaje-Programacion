@@ -1,0 +1,7 @@
+570064381410734080
+Southwest
+@SouthwestAir reference #: 261093929756
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 19:35:14 -0800
+location: nan

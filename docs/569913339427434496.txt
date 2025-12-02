@@ -1,0 +1,7 @@
+569913339427434496
+Virgin America
+@VirginAmerica hi, i did not get points on my elevate account for my most recent flight, how do i add the flight and points to my account?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 09:35:03 -0800
+location: nan

@@ -1,0 +1,7 @@
+569988297633583104
+United
+@united this is atrocious customer service.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:32:54 -0800
+location: Chicago & traveling the world

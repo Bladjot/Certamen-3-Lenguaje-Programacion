@@ -1,0 +1,7 @@
+569597711789502464
+US Airways
+@USAirways suggest you failures make a HUGE donation to @the_USO  Charlotte, NC as THEY provided GREAT customer service today, unlike you.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:40:51 -0800
+location: Columbus, Ohio

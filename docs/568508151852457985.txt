@@ -1,0 +1,7 @@
+568508151852457985
+United
+@united As it always is. Helps to communicate to customers.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 12:31:20 -0800
+location: nan

@@ -1,0 +1,7 @@
+569958873819279360
+Delta
+Oh wow. #sm “@JetBlue: Our fleet's on fleek. http://t.co/l0i8fnz3KU”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:35:59 -0800
+location: Phoenix, AZ // NJ

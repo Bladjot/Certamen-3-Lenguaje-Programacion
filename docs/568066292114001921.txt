@@ -1,0 +1,7 @@
+568066292114001921
+US Airways
+@USAirways is useless airways. Day 2 trying to get home on standby as a result of their Cancelled Flightlation. #USAirways
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 07:15:32 -0800
+location: nan

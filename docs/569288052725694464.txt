@@ -1,0 +1,7 @@
+569288052725694464
+US Airways
+@USAirways message me if you want to issue a refund so someone else can use my seats tomorrow AM #flightCancelled Flighted #custservicehasnonumber
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 16:10:23 -0800
+location: New York

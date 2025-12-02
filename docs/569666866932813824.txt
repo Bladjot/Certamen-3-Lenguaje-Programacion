@@ -1,0 +1,7 @@
+569666866932813824
+American
+@AmericanAir 8:30 departure?  Sure. Is there a catering strike at JFK?  @FoxNews @CNBC @BloombergRadio http://t.co/HPgXYZRW8o
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:15:39 -0800
+location: New York City

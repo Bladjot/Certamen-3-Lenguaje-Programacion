@@ -1,0 +1,7 @@
+568617163465957377
+Southwest
+@SouthwestAir I don't want to be too whiny. We accommodated several passengers whose earlier flight was Cancelled Flightled. Our flight was very long.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 19:44:30 -0800
+location: New York City

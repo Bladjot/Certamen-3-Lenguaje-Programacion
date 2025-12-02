@@ -1,0 +1,7 @@
+570114021854212096
+Virgin America
+@VirginAmerica hi! I just bked a cool birthday trip with you, but i can't add my elevate no. cause i entered my middle name during Flight Booking Problems 😢
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 22:52:29 -0800
+location: nan

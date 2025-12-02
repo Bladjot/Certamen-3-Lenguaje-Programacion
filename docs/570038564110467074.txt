@@ -1,0 +1,7 @@
+570038564110467074
+American
+@AmericanAir @USAirways need to be reported to the @BBB_media for their complete disregard for paying customers! #DoNotFlyWithThem
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 17:52:39 -0800
+location: Miami

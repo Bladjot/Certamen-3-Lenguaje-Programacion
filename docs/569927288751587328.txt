@@ -1,0 +1,7 @@
+569927288751587328
+Delta
+STOP. USING.THIS.WORD. IF. YOU'RE. A. COMPANY. RT @JetBlue: Our fleet's on fleek. http://t.co/Fd2TNYcTrB
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 10:30:29 -0800
+location: New York, NY

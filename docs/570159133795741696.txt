@@ -1,0 +1,7 @@
+570159133795741696
+American
+@AmericanAir @Slacksoft_uk I saw an American 767 in old colours at @HeathrowAirport on Saturday! Was surprised to see!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 01:51:45 -0800
+location: 127.0.0.1

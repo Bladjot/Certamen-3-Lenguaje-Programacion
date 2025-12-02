@@ -1,0 +1,7 @@
+568432260912959488
+Southwest
+@SouthwestAir using social business roadmap to develop intelligent path to embed social across enterprise #RaganDisney
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 07:29:46 -0800
+location: Minneapolis, MN

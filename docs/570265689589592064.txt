@@ -1,0 +1,7 @@
+570265689589592064
+American
+@americanair Can someone contact me about my awful experience with american airlines this weekend
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 08:55:10 -0800
+location: Los Angeles

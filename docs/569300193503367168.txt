@@ -1,0 +1,7 @@
+569300193503367168
+Delta
+@JetBlue didn't find them unfortunately :( but he was very helpful and took down my info incase they do get found
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 16:58:37 -0800
+location: Brooklyn

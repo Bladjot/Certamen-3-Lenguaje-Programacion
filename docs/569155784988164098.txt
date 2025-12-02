@@ -1,0 +1,7 @@
+569155784988164098
+Southwest
+@SouthwestAir Had a great trip this past week to Vegas for work; and had this pic over the Southwest on Southwest! http://t.co/a3YCFlaLxV
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 07:24:48 -0800
+location: nan

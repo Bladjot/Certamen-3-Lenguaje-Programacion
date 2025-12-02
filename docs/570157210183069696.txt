@@ -1,0 +1,7 @@
+570157210183069696
+US Airways
+@usairways My flight was Cancelled Flighted Saturday. Why was my luggage not at the airport? Today, I'm supposed to have it delivered. Pathetic
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 01:44:06 -0800
+location: Kentucky

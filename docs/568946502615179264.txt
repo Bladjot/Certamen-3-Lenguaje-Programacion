@@ -1,0 +1,7 @@
+568946502615179264
+Southwest
+@SouthwestAir it says I can't because my flight is in progress.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 17:33:11 -0800
+location: Omaha, NE

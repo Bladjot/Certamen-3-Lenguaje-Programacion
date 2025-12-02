@@ -1,0 +1,7 @@
+569849281533874176
+US Airways
+@USAirways I'm referring to email like this.  Just tell people when they GET the upgrade. Otherwise, we know already. http://t.co/N8UvCLMADA
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 05:20:30 -0800
+location: Your Dreams

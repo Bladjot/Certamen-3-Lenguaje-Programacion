@@ -1,0 +1,7 @@
+570142278729076736
+American
+@AmericanAir I have emailed several times.hand wrote a letter,went to airport,called.please fix this! Or @abc7newsBayArea please help!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 00:44:46 -0800
+location: san francisco califorania

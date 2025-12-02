@@ -1,0 +1,7 @@
+569709870729068544
+US Airways
+@USAirways have you heard about the debacle at DCA? What is happening with our New Orleans flight? #wewanttoknow
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 20:06:32 -0800
+location: Washington DC

@@ -1,0 +1,7 @@
+569937108095205376
+American
+@AmericanAir is there something wrong with the website? no matter what flight I select, it says it's no longer available.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 11:09:30 -0800
+location: nan

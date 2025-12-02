@@ -1,0 +1,7 @@
+569943700010172416
+American
+@AmericanAir @maxfitgirl29 next time fly Southwest...
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 11:35:41 -0800
+location: nan

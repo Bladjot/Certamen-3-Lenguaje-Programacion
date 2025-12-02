@@ -1,0 +1,7 @@
+569912835871879168
+American
+@AmericanAir I've been trying to call your reservations desk for past 12 hours and can't get through.  This is not what I expected.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:33:03 -0800
+location: nan

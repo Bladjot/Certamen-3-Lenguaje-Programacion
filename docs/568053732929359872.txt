@@ -1,0 +1,7 @@
+568053732929359872
+Southwest
+@SouthwestAir Landed in Nashville! Thanks for taking care of us! http://t.co/RYXbPLgMnK
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 06:25:38 -0800
+location: Nashville, TN

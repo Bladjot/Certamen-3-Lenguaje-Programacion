@@ -1,0 +1,7 @@
+570219942961922048
+United
+@united can someone please explain the process of of what happens to property found on a plane after passengers leave at Heathrow ?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 05:53:23 -0800
+location: nan

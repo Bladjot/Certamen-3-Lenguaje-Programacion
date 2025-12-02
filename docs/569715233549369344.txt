@@ -1,0 +1,7 @@
+569715233549369344
+United
+@united yes I did. Terrible service from your courrier
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 20:27:51 -0800
+location: Brossard

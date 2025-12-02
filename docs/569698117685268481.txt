@@ -1,0 +1,7 @@
+569698117685268481
+Delta
+@JetBlue Safety might be your priority but organization clearly is not.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 19:19:50 -0800
+location: New York City

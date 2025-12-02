@@ -1,0 +1,7 @@
+568883598281076738
+US Airways
+@USAirways any chance of a travel advisory or DCA this weekend?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 13:23:13 -0800
+location: nan

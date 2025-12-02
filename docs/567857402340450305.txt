@@ -1,0 +1,7 @@
+567857402340450305
+US Airways
+@USAirways where's my bag?  You called at noon promising it today, would like an update like your website promises.  I need that bag!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 17:25:29 -0800
+location: Long Island, NY

@@ -1,0 +1,7 @@
+568174139531513856
+United
+@united Will have to try standby in Denver tonight or will have to Cancelled Flight father son trip till next year. Thx for trying.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 14:24:05 -0800
+location: nan

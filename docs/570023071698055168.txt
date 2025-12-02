@@ -1,0 +1,7 @@
+570023071698055168
+United
+@united landed in Boston at 9 last night.  The 15 hours of traveling was rough tho.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 16:51:05 -0800
+location: Boston

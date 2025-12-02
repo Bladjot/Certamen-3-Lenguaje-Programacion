@@ -1,0 +1,7 @@
+568170493544673280
+Southwest
+@SouthwestAir we've now lost a whole day of our honeymoon... Very disappointed and frustrated with everything.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 14:09:36 -0800
+location: Canton, MA

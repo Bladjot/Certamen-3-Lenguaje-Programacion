@@ -1,0 +1,7 @@
+570085837821632512
+US Airways
+@USAirways  Instead of fair treatment, I got a nasty letter from a lady in senior management that illness forfeits miles like death.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 21:00:30 -0800
+location: nan

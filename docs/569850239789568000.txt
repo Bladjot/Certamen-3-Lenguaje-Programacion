@@ -1,0 +1,7 @@
+569850239789568000
+American
+@malhoit at least you got a response from @AmericanAir via Twitter. I went 0 for 2 yesterday.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 05:24:19 -0800
+location: Texas

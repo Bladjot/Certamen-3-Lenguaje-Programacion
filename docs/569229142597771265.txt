@@ -1,0 +1,7 @@
+569229142597771265
+Delta
+@JetBlue it seems I never received an ID, just a password.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 12:16:18 -0800
+location: Providence, RI

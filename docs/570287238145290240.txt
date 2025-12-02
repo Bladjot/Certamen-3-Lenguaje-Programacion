@@ -1,0 +1,7 @@
+570287238145290240
+Southwest
+@SouthwestAir sure, please follow me so I can do so?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:20:47 -0800
+location: Atlanta, GA

@@ -1,0 +1,7 @@
+568138663864852481
+US Airways
+@USAirways so mad I can't even believe  you guys Cancelled Flight my connecting flight after I leave the first stop, &amp; give me a useless hotel voucher
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 12:03:07 -0800
+location: nan

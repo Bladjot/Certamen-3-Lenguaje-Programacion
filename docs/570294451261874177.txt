@@ -1,0 +1,7 @@
+570294451261874177
+Delta
+@DeltaAssist now at 57 minutes waiting on Silver Elite line for someone to pick up! Help!
+sentiment: negative
+negativereason: longlines
+created: 2015-02-24 10:49:27 -0800
+location: Thataway

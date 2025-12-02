@@ -1,0 +1,7 @@
+569068027917922304
+Delta
+@JetBlue Fliers to Gain Access to WSJ Content - @zacks_com http://t.co/GouzrdT7ZF
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 01:36:05 -0800
+location: USA

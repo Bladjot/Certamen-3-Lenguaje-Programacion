@@ -1,0 +1,7 @@
+569346420139905024
+United
+@united Airline SUCKS! Customer Service SUCKS! NO courtesy! Incompetent - passengers do NOT matter- Bet the CEO is just doing fine though!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 20:02:19 -0800
+location: New York

@@ -1,0 +1,7 @@
+568899508601430016
+Southwest
+@SouthwestAir not if its travel Credit you used to buy and it expires on the day you find a lower rate
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 14:26:27 -0800
+location: nan

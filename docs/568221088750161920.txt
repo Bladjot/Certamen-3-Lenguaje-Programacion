@@ -1,0 +1,7 @@
+568221088750161920
+Delta
+@JetBlue They told us 10 minutes almost 40 minutes ago.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 17:30:39 -0800
+location: nan

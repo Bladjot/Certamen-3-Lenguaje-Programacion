@@ -1,0 +1,7 @@
+569909742447009792
+United
+@united  gate agent at EWR " if you are disabled or in a wheel chair, it's time to board, please step". STEP UP??? Lol
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 09:20:45 -0800
+location: CT, NY and most other states

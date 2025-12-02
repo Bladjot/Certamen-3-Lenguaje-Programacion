@@ -1,0 +1,7 @@
+569870657246404608
+US Airways
+@USAirways i have never been treated so poorly by an airline in my life, as a military family we do alot of flying..
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 06:45:27 -0800
+location: nan

@@ -1,0 +1,7 @@
+569745801121009664
+American
+@AmericanAir - for the past 5.5 hours, call volume is so high that no one can take my call to Cancelled Flight my itinerary? #YoureDoingItWrong 1/2
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 22:29:19 -0800
+location: 41.301208,-81.750618

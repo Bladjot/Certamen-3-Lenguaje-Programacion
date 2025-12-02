@@ -1,0 +1,7 @@
+569602407417692162
+US Airways
+@USAirways 3818 delayed. blue skies all over. #whyisusairALWAYSDELAYED???
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 12:59:31 -0800
+location: WCHOB, Buffalo, NY

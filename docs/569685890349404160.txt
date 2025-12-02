@@ -1,0 +1,7 @@
+569685890349404160
+American
+@AmericanAir is there only one call centre? I know it's busy right now, really need to speak to agent not computer
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:31:15 -0800
+location: Abbotsford

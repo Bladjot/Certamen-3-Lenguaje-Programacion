@@ -1,0 +1,7 @@
+567768552644423680
+US Airways
+@USAirways also your employees were LESS then helpful when @Jack_Kairys was checking his bag. Two just left their desks completely (1/2)
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 11:32:26 -0800
+location: nan

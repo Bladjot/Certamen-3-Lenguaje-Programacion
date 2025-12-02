@@ -1,0 +1,7 @@
+569782378270314498
+American
+@AmericanAir I certainly hope my LA /PBI on 25 th has a NEW plane . The seats on Feb 11 th flight ( in reverse) God awful
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 00:54:39 -0800
+location: world

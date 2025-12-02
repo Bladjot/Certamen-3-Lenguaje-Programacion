@@ -1,0 +1,7 @@
+569640163393073152
+United
+@united that I would get on early enough to not have to green tag. but no go. if not for Otis I would be still sitting at ORD
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 15:29:33 -0800
+location: Chicago

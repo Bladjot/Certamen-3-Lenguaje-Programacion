@@ -1,0 +1,7 @@
+569313492894752768
+United
+@united is the worst
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 17:51:28 -0800
+location: Columbus,Ohio

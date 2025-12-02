@@ -1,0 +1,8 @@
+570291813912858625
+United
+@united thats weak. See ya 👋
+Hey @VirginAmerica !!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 10:38:58 -0800
+location: NYC

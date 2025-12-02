@@ -1,0 +1,7 @@
+569620202045841408
+American
+@AmericanAir @tcunningham10 please call us back to rebook. 7403607771 we can't through!!!!! We need to get to columbus!!!!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 14:10:13 -0800
+location: nan

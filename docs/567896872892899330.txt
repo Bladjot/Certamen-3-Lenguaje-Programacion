@@ -1,0 +1,7 @@
+567896872892899330
+US Airways
+@USAirways I'm sick of living in an airport!! #getittogether
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 20:02:20 -0800
+location: nan

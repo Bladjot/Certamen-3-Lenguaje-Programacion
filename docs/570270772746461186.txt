@@ -1,0 +1,7 @@
+570270772746461186
+US Airways
+@USAirways 167 minutes?  "Im not trained in that". Cmon. Can't you do better than that?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 09:15:21 -0800
+location: nan

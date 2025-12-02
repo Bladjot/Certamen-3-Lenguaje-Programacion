@@ -1,0 +1,7 @@
+567855788699607040
+US Airways
+@USAirways I just hope that pilot had a good day off
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 17:19:04 -0800
+location: nan

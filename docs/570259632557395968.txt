@@ -1,0 +1,7 @@
+570259632557395968
+United
+@united Mobile boarding pass disappeared from phone while standing in line to board. Second time this week... Hmm.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 08:31:05 -0800
+location: Steamboat Springs, CO

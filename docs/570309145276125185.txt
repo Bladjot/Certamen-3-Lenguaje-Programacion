@@ -1,0 +1,7 @@
+570309145276125185
+Southwest
+@SouthwestAir although I'm not happy you Cancelled Flighted my flight home tomorrow (phx to atl then dca) I am happy on how easy it was to rebook
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 11:47:50 -0800
+location: ÜT: 38.965477,-77.428287

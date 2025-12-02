@@ -1,0 +1,7 @@
+569847788986462209
+American
+@AmericanAir wasn't just a delay. Your counter wouldn't take a valid CAC card as a valid ID which is needed for a TSA precheck on pass
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 05:14:34 -0800
+location: nan

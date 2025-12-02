@@ -1,0 +1,7 @@
+568881580015366145
+United
+@united thanks for delaying my flight for an hour, and then boarding us onto a flight that REEKS of vomit because it wasn't cleaned properly
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 13:15:12 -0800
+location: Salt Lake City, UT

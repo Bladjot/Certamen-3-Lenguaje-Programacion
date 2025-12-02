@@ -1,0 +1,7 @@
+568162290890964992
+Southwest
+@SouthwestAir is there a way to know who checked my bag on the curb? She was awesome!!! And want to be sure she gets a high five!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 13:37:00 -0800
+location: nan

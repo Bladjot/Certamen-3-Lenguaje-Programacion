@@ -1,0 +1,7 @@
+569676640692752385
+American
+@AmericanAir I just DMed you
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:54:29 -0800
+location: Philly

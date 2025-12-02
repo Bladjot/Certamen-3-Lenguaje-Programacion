@@ -1,0 +1,7 @@
+568525368572817408
+Virgin America
+@VirginAmerica first time flying Virgin, went to #SanFrancisco .Thanks for the smooth ride. Easily my new fav airline!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 13:39:45 -0800
+location: Portland, Oregon

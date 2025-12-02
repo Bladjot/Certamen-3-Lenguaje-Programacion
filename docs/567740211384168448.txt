@@ -1,0 +1,7 @@
+567740211384168448
+Delta
+@JetBlue tough choices but I did all simultaneously! As a business traveler, best experience in a long time. #wishmyflightwaslonger #what
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 09:39:49 -0800
+location: ELL LAY

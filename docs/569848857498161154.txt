@@ -1,0 +1,7 @@
+569848857498161154
+American
+@AmericanAir ok, I just received an email with my registration from your team. Thanks a lot
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 05:18:49 -0800
+location: Saint Maur des Fossés

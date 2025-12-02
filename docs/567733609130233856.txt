@@ -1,0 +1,7 @@
+567733609130233856
+United
+@united no worries about the tweets. We all should do what we can to make sure we, as in your tag line, "Fly the Friendly Skies."
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 09:13:35 -0800
+location: Bhutan

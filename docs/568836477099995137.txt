@@ -1,0 +1,7 @@
+568836477099995137
+Southwest
+@SouthwestAir so the fares I see for flights in fall are the ABSOULUTELY LOWEST they will be?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 10:15:59 -0800
+location: nan

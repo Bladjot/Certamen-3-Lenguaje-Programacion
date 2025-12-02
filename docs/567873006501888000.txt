@@ -1,0 +1,7 @@
+567873006501888000
+Delta
+@JetBlue supervisor humiliated us and was uncompromising. We were completely blindsided!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 18:27:29 -0800
+location: nan

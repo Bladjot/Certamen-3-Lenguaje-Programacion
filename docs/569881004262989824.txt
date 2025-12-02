@@ -1,0 +1,7 @@
+569881004262989824
+American
+@AmericanAir The website won't let me view my reservation due to "changes made outside http://t.co/nwF2FkA8fY". I'm on hold now to get help.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:26:33 -0800
+location: Evansville - LA - NOLA

@@ -1,0 +1,7 @@
+567745009890623488
+United
+@united spending the afternoon @ Mia. Not your fault.  No lounge? Very inconvenient.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 09:58:53 -0800
+location: nan

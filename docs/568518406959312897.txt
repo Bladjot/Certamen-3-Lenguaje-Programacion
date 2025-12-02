@@ -1,0 +1,7 @@
+568518406959312897
+Southwest
+@SouthwestAir when can I start Flight Booking Problems for next years super bowl time? 😩#help
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 13:12:05 -0800
+location: nan

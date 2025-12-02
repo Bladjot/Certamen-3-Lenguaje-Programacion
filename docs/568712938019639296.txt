@@ -1,0 +1,7 @@
+568712938019639296
+Delta
+@JetBlue Airways Hits New 12-Month High at $17.58 (JBLU) - WKRB News http://t.co/XvBjCzlMDA
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 02:05:05 -0800
+location: USA

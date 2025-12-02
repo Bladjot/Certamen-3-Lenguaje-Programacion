@@ -1,0 +1,7 @@
+568091623986319360
+Southwest
+@SouthwestAir it's ok...I forgive you guys.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 08:56:12 -0800
+location: nan

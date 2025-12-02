@@ -1,0 +1,7 @@
+568561033641480192
+Delta
+@JetBlue excellent. you guys are the best
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 16:01:28 -0800
+location: NYC

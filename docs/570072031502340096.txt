@@ -1,0 +1,7 @@
+570072031502340096
+American
+@AmericanAir what is going on with the flight 2417? It has been delay a lot .
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 20:05:38 -0800
+location: Mexico DF

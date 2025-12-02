@@ -1,0 +1,7 @@
+568183699658944512
+United
+@united the supervisor on situation- Stacey took all our details-no claim number given to us
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 15:02:04 -0800
+location: nan

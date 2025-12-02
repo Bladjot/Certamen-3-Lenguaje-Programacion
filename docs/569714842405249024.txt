@@ -1,0 +1,7 @@
+569714842405249024
+American
+“@AmericanAir: @nlrphoto Those are very beautiful photos!” Thx! Would marketing dept be interested in buying?
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 20:26:17 -0800
+location: nan

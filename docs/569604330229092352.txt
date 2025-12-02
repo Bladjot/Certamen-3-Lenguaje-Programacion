@@ -1,0 +1,7 @@
+569604330229092352
+American
+@AmericanAir ask the 10 people you left behind at Miami airport because you guys could not wait 5 minutes and ... http://t.co/XPM98Igqjn
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:07:09 -0800
+location: Washington DC

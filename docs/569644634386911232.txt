@@ -1,0 +1,7 @@
+569644634386911232
+Delta
+@JetBlue WELL...my paid tickets have NO assigned seats at all. So essentially I won't be on this flight unless I pay more.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 15:47:18 -0800
+location: Brooklyn =)

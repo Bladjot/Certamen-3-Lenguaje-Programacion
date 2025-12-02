@@ -1,0 +1,7 @@
+568435938264625152
+United
+@united is hiring - Flight Dispatcher - Chicago, IL (Network Operations Centerl) https://t.co/lio6oCpTEQ
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 07:44:23 -0800
+location: Chicago, IL

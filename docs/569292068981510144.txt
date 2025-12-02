@@ -1,0 +1,7 @@
+569292068981510144
+Southwest
+@SouthwestAir can't fly in precipitation and @Delta has planes that don't work after 5. 3rd airline had better be a charm tomorrow.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 16:26:20 -0800
+location: Joe Louis Arena/Goggin Ice Ctr

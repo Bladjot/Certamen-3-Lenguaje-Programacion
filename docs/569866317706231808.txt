@@ -1,0 +1,7 @@
+569866317706231808
+Delta
+@JetBlue  would love to go to Hawaii to visit pearl harbor.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 06:28:12 -0800
+location: nan

@@ -1,0 +1,7 @@
+569681184898162689
+Southwest
+@SouthwestAir no you are not, you just care about mighty dollar.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 18:12:33 -0800
+location: nan

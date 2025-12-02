@@ -1,0 +1,7 @@
+568910702070534144
+Southwest
+@SouthwestAir I would sell my nonexistent soul to go see #DestinationDragons
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 15:10:55 -0800
+location: nan

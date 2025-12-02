@@ -1,0 +1,7 @@
+569273451564785664
+United
+@united I keep getting kicked to an error message when trying to purchase a flight on http://t.co/p3N2w8JfpS. Have tried at least 4x.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 15:12:22 -0800
+location: Austin, TX

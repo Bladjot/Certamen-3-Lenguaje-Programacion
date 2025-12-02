@@ -1,0 +1,7 @@
+570046710870728704
+Southwest
+@SouthwestAir Katie, Gate C47, Denver International, fantastic customer service helping me and 2 new flyers; thx for amazing staff!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 18:25:01 -0800
+location: Waterford, MI

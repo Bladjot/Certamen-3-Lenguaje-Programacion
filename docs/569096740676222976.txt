@@ -1,0 +1,7 @@
+569096740676222976
+Delta
+@JetBlue today my family gets to experience #mosaic status w/ me! #LifeIsGood
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 03:30:10 -0800
+location: Salem, NH

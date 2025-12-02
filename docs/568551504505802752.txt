@@ -1,0 +1,7 @@
+568551504505802752
+Delta
+@JetBlue if I'm about to get on a plane, I think I deserve to know what the mechanical issues are for the flight being delayed.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 15:23:36 -0800
+location: nan

@@ -1,0 +1,7 @@
+568699390962958336
+United
+@united it seems like no one from United can help me. Lots of fingers pointed, zero people stepping up. At least the gate has Oreos
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 01:11:15 -0800
+location: nan

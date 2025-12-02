@@ -1,0 +1,7 @@
+569648492190179328
+United
+@united we needed to be at steamboat for a meeting by 3pm so we took a shuttle. The United customer service people said the bag would be on
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 16:02:38 -0800
+location: nan

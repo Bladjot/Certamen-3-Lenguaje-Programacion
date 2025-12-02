@@ -1,0 +1,7 @@
+569949297220980737
+Delta
+No JetBlue… Just… no “@JetBlue: Our fleet's on fleek. http://t.co/mB3IPGs8zQ”
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 11:57:56 -0800
+location: Ft. Lauderdale-Davie, Fl

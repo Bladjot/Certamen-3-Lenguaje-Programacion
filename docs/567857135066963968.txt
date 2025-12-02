@@ -1,0 +1,7 @@
+567857135066963968
+Delta
+@JetBlue well, your new baggage fees, fare structures and reduced legroom has turned you into every other hated carrier in the US. Congrats
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 17:24:25 -0800
+location: nan

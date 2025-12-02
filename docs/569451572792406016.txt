@@ -1,0 +1,7 @@
+569451572792406016
+Southwest
+@SouthwestAir Offers Atlanta Unprecedented Perk http://t.co/nustgpElSf http://t.co/Be0B4K1Xbt
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 03:00:09 -0800
+location: Atlanta, GA

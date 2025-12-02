@@ -1,0 +1,7 @@
+569034721683861505
+United
+@united I mean, your employees were really nice as I literally sobbed?
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 23:23:44 -0800
+location: Coming to a City Near You

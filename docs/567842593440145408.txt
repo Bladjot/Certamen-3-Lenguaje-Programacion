@@ -1,0 +1,7 @@
+567842593440145408
+Delta
+@JetBlue knew that ... has to be done at the Gate correct? If so what time does gate open
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 16:26:38 -0800
+location: Merrick

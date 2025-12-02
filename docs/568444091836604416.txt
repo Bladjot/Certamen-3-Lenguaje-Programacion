@@ -1,0 +1,7 @@
+568444091836604416
+US Airways
+@USAirways left us. had to stay on other flight until they got bags off. This sucks. Had to run with a baby and bags!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 08:16:47 -0800
+location: nan

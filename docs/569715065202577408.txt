@@ -1,0 +1,7 @@
+569715065202577408
+American
+@AmericanAir wow that's helpful.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 20:27:10 -0800
+location: nan

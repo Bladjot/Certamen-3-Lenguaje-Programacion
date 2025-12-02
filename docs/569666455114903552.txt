@@ -1,0 +1,7 @@
+569666455114903552
+Delta
+@JetBlue your gif game is strong.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 17:14:01 -0800
+location: Los Angeles, CA

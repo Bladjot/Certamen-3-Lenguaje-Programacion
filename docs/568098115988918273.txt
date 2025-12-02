@@ -1,0 +1,7 @@
+568098115988918273
+United
+@united  why is it so hard to add in meal preferences AFTER I booked tickets? I forgot to do it &amp; it's now impossible! I even called.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 09:22:00 -0800
+location: D.C.ish

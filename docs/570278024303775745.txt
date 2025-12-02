@@ -1,0 +1,7 @@
+570278024303775745
+United
+@united No, I need you guys to not over book planes. It's not a concern, I'll just travel with someone else moving forward.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 09:44:10 -0800
+location: Colorado Springs, Colorado

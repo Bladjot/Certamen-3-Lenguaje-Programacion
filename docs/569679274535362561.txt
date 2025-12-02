@@ -1,0 +1,7 @@
+569679274535362561
+American
+@AmericanAir @derekc21 , to my surprise  BA doesn't  have  me registered in the system , I was getting hopeful :(, Lets step it up , Okay ?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:04:57 -0800
+location: Innisfail, Alberta

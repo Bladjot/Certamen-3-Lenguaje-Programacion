@@ -1,0 +1,7 @@
+570198744907567106
+American
+@AmericanAir Thank you.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 04:29:09 -0800
+location: Somewhere In The World...

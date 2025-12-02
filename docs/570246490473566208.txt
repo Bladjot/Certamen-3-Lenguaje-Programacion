@@ -1,0 +1,7 @@
+570246490473566208
+Southwest
+@SouthwestAir Is there a way to receive a refund on a trip that was Cancelled Flight online instead of calling? Your phone lines are super busy.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 07:38:52 -0800
+location: Trapped in Baltimore.

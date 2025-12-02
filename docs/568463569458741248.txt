@@ -1,0 +1,7 @@
+568463569458741248
+US Airways
+@USAirways I've been on hold for 36 mins and counting cause you charged my credit card for bag but provided no receipt and said error. Awful
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 09:34:11 -0800
+location: nan

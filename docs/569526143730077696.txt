@@ -1,0 +1,7 @@
+569526143730077696
+United
+@united It is also inappropriate to lie to passengers to induce them into accepting a voucher by telling them you have availability on Late Flightr
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:56:28 -0800
+location: Atlanta, GA

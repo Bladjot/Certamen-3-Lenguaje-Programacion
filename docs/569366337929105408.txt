@@ -1,0 +1,7 @@
+569366337929105408
+United
+@united 24 seats available on the 2:15 pm from ORD to RDU...I need 2 seats please
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 21:21:27 -0800
+location: Wake Forest, NC

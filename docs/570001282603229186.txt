@@ -1,0 +1,7 @@
+570001282603229186
+American
+@AmericanAir is the company from hell with NO consideration for customers that give it hundreds of millions of dollars per year #SMH
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 15:24:30 -0800
+location: North Hollywood

@@ -1,0 +1,7 @@
+569961511440879616
+Delta
+“@JetBlue: Our fleet's on fleek. http://t.co/XX5QSCjlL1” @BrandsSayingBae #Freberg15
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:46:28 -0800
+location: Cadiz/Louisville, Kentucky

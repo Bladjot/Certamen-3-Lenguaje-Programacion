@@ -1,0 +1,7 @@
+570013289188630529
+American
+@AmericanAir after several miss communications I was able to get to ORD but I am not home yet and not sure I will get there due to her error
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 16:12:13 -0800
+location: Iowa City, IA

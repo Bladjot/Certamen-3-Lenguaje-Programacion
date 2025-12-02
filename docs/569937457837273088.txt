@@ -1,0 +1,7 @@
+569937457837273088
+US Airways
+@USAirways I would happily wait in the terminal near food, restrooms and non irritated passengers.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 11:10:53 -0800
+location: New Mexico

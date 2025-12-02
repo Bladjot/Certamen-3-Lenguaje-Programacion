@@ -1,0 +1,7 @@
+568187636449472513
+United
+@united thanks. Weather is understandable, but when every single domestic flight is delayed because of inbound int'l flights, it's crazy
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 15:17:43 -0800
+location: nan

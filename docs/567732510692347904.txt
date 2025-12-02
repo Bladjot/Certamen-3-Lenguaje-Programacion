@@ -1,0 +1,7 @@
+567732510692347904
+Southwest
+@SouthwestAir I've been on hold for an hour &amp; a half trying to change my flight to BNA. Not very happy with customer service right now!!!!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 09:09:13 -0800
+location: Nashville, TN

@@ -1,0 +1,7 @@
+569514688809181184
+Delta
+@JetBlue thx, social media person!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 07:10:57 -0800
+location: brooklyn

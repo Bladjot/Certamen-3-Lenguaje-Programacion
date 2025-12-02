@@ -1,0 +1,7 @@
+569599379893575680
+American
+@AmericanAir @brewcrewfan8 Is this real life, AA? Like, 2015 real life? You should be emailing/calling/DMing people you've inconvenienced.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:47:29 -0800
+location: Pekin

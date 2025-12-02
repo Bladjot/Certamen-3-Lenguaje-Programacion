@@ -1,0 +1,7 @@
+570286035118071808
+US Airways
+@USAirways @AshleyKAtherton Over an hour on hold so far
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 10:16:00 -0800
+location: nan

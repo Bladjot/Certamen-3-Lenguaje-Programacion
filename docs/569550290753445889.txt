@@ -1,0 +1,7 @@
+569550290753445889
+United
+@united I would appreciate a response regarding the pressurization failure on flight 1109. You seem to be responding to less serious issues
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 09:32:25 -0800
+location: ORLANDO, FL

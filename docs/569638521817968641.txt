@@ -1,0 +1,7 @@
+569638521817968641
+Delta
+@JetBlue Help - I left my Nikon camera under the seat in front of me. What do I do?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:23:01 -0800
+location: Stratford, CT

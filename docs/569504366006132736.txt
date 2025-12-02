@@ -1,0 +1,7 @@
+569504366006132736
+United
+@united @delta lost my luggage from ATL to  hdn luggage in denver and said @united will deliver my luggage to HDN airport claim# hdndl11785
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 06:29:56 -0800
+location: nan

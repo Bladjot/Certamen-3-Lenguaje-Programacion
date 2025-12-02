@@ -1,0 +1,7 @@
+568128753223794688
+US Airways
+@usairways would it kill you to not let 3,000 miles expire
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 11:23:44 -0800
+location: okinawa, japan

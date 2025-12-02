@@ -1,0 +1,8 @@
+568068513224654848
+Virgin America
+@VirginAmerica to battle @SouthwestAir on @DallasLoveField-@AUStinAirport route 
+http://t.co/6RLz0EBk2X via @usatoday
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 07:24:22 -0800
+location: nan

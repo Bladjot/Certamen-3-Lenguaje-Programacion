@@ -1,0 +1,7 @@
+567788982974619649
+United
+@united Hi again, any updates here?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 12:53:37 -0800
+location: NYC, Toronto

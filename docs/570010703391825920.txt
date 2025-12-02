@@ -1,0 +1,7 @@
+570010703391825920
+Southwest
+@SouthwestAir NOW you love me? After taking my money and only taking me halfway home. Sorry. Too Late Flight
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 16:01:56 -0800
+location: Boston

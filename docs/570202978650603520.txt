@@ -1,0 +1,7 @@
+570202978650603520
+American
+@americanair One question.. my wife didn't get the bonus. Should I call about it today?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 04:45:58 -0800
+location: nan

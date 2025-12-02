@@ -1,0 +1,7 @@
+570002150115254272
+United
+@united I took the exact same aircraft in to LAX 3 days ago. It fit, no problem. The agent today told some nonsense about a policy change
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 15:27:57 -0800
+location: New York City, NY

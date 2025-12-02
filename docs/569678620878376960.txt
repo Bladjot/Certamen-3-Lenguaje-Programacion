@@ -1,0 +1,7 @@
+569678620878376960
+American
+@AmericanAir FYI twice now I've tried the "we'll call you when someone is free" thing. Both times it called, I picked up, then it hung up.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:02:21 -0800
+location: San Antonio, TX

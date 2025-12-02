@@ -1,0 +1,7 @@
+569691079471050752
+American
+@AmericanAir just Cancelled Flightled my 7 am flight tomorrow with out informing me at all today, then booked one in 2 days, and no customer service
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 18:51:52 -0800
+location: nan

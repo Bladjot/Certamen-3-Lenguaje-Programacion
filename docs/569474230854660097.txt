@@ -1,0 +1,7 @@
+569474230854660097
+United
+@united one lady helping the 12 of us with luggage
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 04:30:11 -0800
+location: Atlantic Highlands, NJ

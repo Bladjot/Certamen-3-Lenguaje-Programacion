@@ -1,0 +1,7 @@
+567718292530688000
+Delta
+@JetBlue I hear that the new thing in your planes are the Fly-Fi. How I can check if the flight that Im going to take have it?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 08:12:43 -0800
+location: Puerto Rico

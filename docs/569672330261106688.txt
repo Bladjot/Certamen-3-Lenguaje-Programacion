@@ -1,0 +1,7 @@
+569672330261106688
+US Airways
+@USAirways @GregWallace66 Yea, they will give you 5 cents on the dollar!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:37:22 -0800
+location: New River AZ

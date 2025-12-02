@@ -1,0 +1,7 @@
+568055034296049664
+Southwest
+@SouthwestAir I, along with other passengers repeatedly asked Southwest personnel what was taking so long, where was our luggage.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 06:30:48 -0800
+location: Somewhere over the rainbow.

@@ -1,0 +1,7 @@
+569901679975522304
+United
+@united my UA3426 on 2/19 was also delayed by 2 hours, stretching my trip way past the midnight, extremely exhausting!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 08:48:43 -0800
+location: nan

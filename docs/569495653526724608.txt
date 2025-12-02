@@ -1,0 +1,7 @@
+569495653526724608
+Southwest
+@SouthwestAir CEO using #Vegas band to help ‘connect’ to people. http://t.co/89gKYuf1Qh  #aviation #business #marketing #consumermarketing
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 05:55:19 -0800
+location: NYC | DC | Charlotte | Vegas

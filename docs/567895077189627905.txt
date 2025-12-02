@@ -1,0 +1,7 @@
+567895077189627905
+United
+@united Ugh.  My bags were sent to Palm Springs and not to LAX as promised.  They better be at the hotel when I get there.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 19:55:12 -0800
+location: All Over The World

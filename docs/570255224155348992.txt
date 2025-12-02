@@ -1,0 +1,7 @@
+570255224155348992
+US Airways
+@USAirways Is there a phone line to call into that isn't being affected by "bad weather"? Trying to book a vacation, here... 👀
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:13:34 -0800
+location: Tampa, Florida

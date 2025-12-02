@@ -1,0 +1,7 @@
+568361830160175104
+Southwest
+@SouthwestAir Thank you for having flights going out of Nashville! You guys Rock! #DisneyPrincessHalfMarathon #girlsweekend #bffs
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 02:49:54 -0800
+location: nan

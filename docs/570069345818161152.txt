@@ -1,0 +1,7 @@
+570069345818161152
+American
+@AmericanAir Why is your cover photo of TWA? Just wondering.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 19:54:58 -0800
+location: AJ's Heart

@@ -1,0 +1,7 @@
+569668015047839744
+Southwest
+@SouthwestAir I want one!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:20:13 -0800
+location: Woodsboro, TX

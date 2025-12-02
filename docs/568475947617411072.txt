@@ -1,0 +1,7 @@
+568475947617411072
+US Airways
+“@USAirways: Reminder: From 2/28, we’ll be tweeting from @AmericanAir.  http://t.co/mFMNKmvOTR”RT I look 4ward to that follow back too!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 10:23:22 -0800
+location: North Carolina/LosAngeles

@@ -1,0 +1,7 @@
+568474442210283520
+Southwest
+@SouthwestAir why must the 4:45pm nonstop BOS-BNA flight stop running after August 7???
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 10:17:23 -0800
+location: 508--954--305--615

@@ -1,0 +1,7 @@
+567853709100720128
+Delta
+@JetBlue tell your employees that!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 17:10:49 -0800
+location: New York, New York

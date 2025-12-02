@@ -1,0 +1,7 @@
+569232738655412225
+Southwest
+@SouthwestAir is there any estimate on when the holding for you online will end? I'm at an hour and forty minutes now. I need to rebook!!!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 12:30:35 -0800
+location: Salt Lake City, Utah

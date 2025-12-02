@@ -1,0 +1,7 @@
+569957235033399297
+Delta
+@JetBlue We just landed in Vegas but not allowed to leave the plane just yet. Thanks for making me miss my flight at 1 pm. #fustrated
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 12:29:28 -0800
+location: nan

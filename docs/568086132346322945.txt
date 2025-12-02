@@ -1,0 +1,7 @@
+568086132346322945
+United
+@united There are Exit-Row window shades in approx 11% of the windows  of your RJ-145s. &lt;--a frequent flyer http://t.co/aOEaeszDLX
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 08:34:23 -0800
+location: nan

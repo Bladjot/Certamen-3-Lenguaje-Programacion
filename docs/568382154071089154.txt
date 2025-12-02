@@ -1,0 +1,7 @@
+568382154071089154
+Virgin America
+@VirginAmerica a brilliant brisk am in Boston in cue for vx363 http://t.co/rMZNIVGmg6
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 04:10:40 -0800
+location: California

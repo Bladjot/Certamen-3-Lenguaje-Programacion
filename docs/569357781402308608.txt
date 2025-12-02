@@ -1,0 +1,7 @@
+569357781402308608
+United
+@united I'm extremely disappointed w my service for this trip as a #United #MileagePlus Explorer Card holder.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 20:47:27 -0800
+location: Hoboken, NJ

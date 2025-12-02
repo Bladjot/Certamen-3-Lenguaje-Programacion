@@ -1,0 +1,7 @@
+567764858817773570
+US Airways
+@USAirways I was supposed to be on flight 1861 from Charlotte to RDU @ 8:20pm yesterday. Is the same flight scheduled for departure tonight?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 11:17:45 -0800
+location: Research Triangle Park, N.C.

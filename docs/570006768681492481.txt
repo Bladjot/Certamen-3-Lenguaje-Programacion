@@ -1,0 +1,7 @@
+570006768681492481
+American
+@AmericanAir My flight 1389 from Las Vegas to DFW was Cancelled Flightled! I've been on hold forever and I still have not spoken to anyone! Pls Help
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 15:46:18 -0800
+location: Frisco, Texas

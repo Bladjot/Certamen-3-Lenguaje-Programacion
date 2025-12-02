@@ -1,0 +1,7 @@
+569633282855301120
+American
+@AmericanAir Just landed - crew couldn't have been more gracious or accommodating. Although a long delay I appreciate your prompt response!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 15:02:12 -0800
+location: Los Angeles, CA

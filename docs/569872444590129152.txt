@@ -1,0 +1,7 @@
+569872444590129152
+Southwest
+@SouthwestAir pleaseeee resume direct flights from FLL to PHL. I don't want to fly with anyone else 😩😫😢
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 06:52:33 -0800
+location: Vineland & South Florida

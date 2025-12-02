@@ -1,0 +1,7 @@
+570052545298759680
+American
+@AmericanAir Asked for a waiver of a change fee for flight booked w/in past 24 hrs. Rep was rude. Just told me no. Didn't even try to help!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 18:48:12 -0800
+location: eating curly fries w/ the wife

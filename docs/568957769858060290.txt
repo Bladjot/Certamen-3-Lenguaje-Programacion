@@ -1,0 +1,7 @@
+568957769858060290
+US Airways
+@USAirways you have to be crazy! Treated my mom very poorly. Not happy! #usairwaysfail
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 18:17:57 -0800
+location: Florida

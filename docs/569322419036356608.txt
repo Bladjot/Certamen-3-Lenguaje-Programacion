@@ -1,0 +1,7 @@
+569322419036356608
+Delta
+@JetBlue I flew on a flight about 3 months ago. Me and my girlfriend got away with having sex in a restroom. Is it allowed now?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 18:26:56 -0800
+location: nan

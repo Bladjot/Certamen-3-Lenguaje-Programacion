@@ -1,0 +1,7 @@
+569989330057342977
+American
+@AmericanAir originating at SFO and going to LAX.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:37:00 -0800
+location: San Francisco

@@ -1,0 +1,7 @@
+569387211025727488
+US Airways
+@USAirways is the worst. Why on earth would @AmericanAir merge with them? I won't be flying either of them any time soon.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 22:44:24 -0800
+location: nan

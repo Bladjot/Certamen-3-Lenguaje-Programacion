@@ -1,0 +1,7 @@
+569682454757257216
+US Airways
+@USAirways  Interesting you forward compliments but never complaints!  World's worst airline #GoingForGreatnessFAIL
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 18:17:36 -0800
+location: nan

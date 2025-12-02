@@ -1,0 +1,7 @@
+569551994949648385
+US Airways
+@USAirways there is no extreme weather in Miami. Pick up the phone. Hire more people.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 09:39:12 -0800
+location: nan

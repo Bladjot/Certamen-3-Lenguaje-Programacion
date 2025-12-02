@@ -1,0 +1,7 @@
+568994622866915328
+US Airways
+@USAirways I will write CR. Not sure what good it'll do as the customer service I experienced was horrible.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 20:44:24 -0800
+location: nan

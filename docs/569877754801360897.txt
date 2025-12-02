@@ -1,0 +1,7 @@
+569877754801360897
+United
+@united. epic fail. @reagan. no jetway. been here 15 mins on tarmac!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 07:13:39 -0800
+location: Williamsburg, VA

@@ -1,0 +1,8 @@
+569627744021184513
+American
+@AmericanAir 
+No one answers phone, delayed/Cancelled Flightled flights. Rude employees. You only get (I'm sorry, we apologize) blah blah blah. Bad
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 14:40:12 -0800
+location: Rossford, Ohio

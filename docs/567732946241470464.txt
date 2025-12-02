@@ -1,0 +1,7 @@
+567732946241470464
+US Airways
+@USAirways still crickets from customer service.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 09:10:57 -0800
+location: Seattle, WA

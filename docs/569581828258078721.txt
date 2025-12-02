@@ -1,0 +1,7 @@
+569581828258078721
+US Airways
+@USAirways spent 1.5 hours in line trying to get on a flight home tonight only for it to be Cancelled Flightled an hour Late Flightr. Not even snowing at DCA
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 11:37:44 -0800
+location: Where you least need me to be

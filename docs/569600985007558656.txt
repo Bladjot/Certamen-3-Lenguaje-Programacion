@@ -1,0 +1,7 @@
+569600985007558656
+American
+@AmericanAir I hope you like the photo :) http://t.co/p7fSLuxEGW
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 12:53:52 -0800
+location: nan

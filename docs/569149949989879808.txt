@@ -1,0 +1,7 @@
+569149949989879808
+Southwest
+@SouthwestAir Cancelled Flightled my flight without explanation and won't pick up the phone...25 minutes and counting.   #customerservice @olive201
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 07:01:37 -0800
+location: nan

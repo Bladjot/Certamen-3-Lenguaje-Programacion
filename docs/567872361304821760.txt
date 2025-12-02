@@ -1,0 +1,7 @@
+567872361304821760
+Delta
+@JetBlue right now completely pissed off
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 18:24:56 -0800
+location: nan

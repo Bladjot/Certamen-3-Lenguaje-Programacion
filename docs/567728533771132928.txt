@@ -1,0 +1,7 @@
+567728533771132928
+US Airways
+@USAirways your customer service is horrible
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 08:53:24 -0800
+location: MiamiHoustonDCHouston

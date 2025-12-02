@@ -1,0 +1,7 @@
+568184134666981376
+Delta
+@JetBlue if u want to be helpful save me the trip from Westchester Cty to JFK, plus parking - my info is in the photo http://t.co/JI7xkS2jkk
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 15:03:48 -0800
+location: ÜT: 40.96513,-73.872957

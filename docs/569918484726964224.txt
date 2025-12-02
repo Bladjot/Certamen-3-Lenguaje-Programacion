@@ -1,0 +1,7 @@
+569918484726964224
+Southwest
+@SouthwestAir My bags are on the way to Chicago, without me! Help! I was confirmed for 2 flights and told there isn't room and I'm screwed.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 09:55:29 -0800
+location: nan

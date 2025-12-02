@@ -1,0 +1,7 @@
+569197515993534464
+Virgin America
+@virginamerica spruce moose!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 10:10:37 -0800
+location: Brooklyn

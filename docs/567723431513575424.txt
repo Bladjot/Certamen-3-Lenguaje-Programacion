@@ -1,0 +1,7 @@
+567723431513575424
+Southwest
+@SouthwestAir tried online and told I must call b/c of modifications to my reservation. Been on hold for almost 2 hours.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 08:33:08 -0800
+location: District of Corruption

@@ -1,0 +1,7 @@
+569178197499256832
+US Airways
+@USAirways Flight 1815 (N747UW) arrives at @FlyTPA following flight from @PHLAirport http://t.co/TtLwZgIyAg
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 08:53:51 -0800
+location: Englewood, Florida

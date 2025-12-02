@@ -1,0 +1,7 @@
+569558713079443456
+United
+@united hi yes need a free hotel stay in Honalulu due to 4 hour delayUA53, since we will miss our second flight to Kauai
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 10:05:53 -0800
+location: deep in the ❤ of Texas...

@@ -1,0 +1,7 @@
+570270818539839488
+Southwest
+@SouthwestAir done
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:15:32 -0800
+location: Duluth, MN

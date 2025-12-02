@@ -1,0 +1,7 @@
+568189520992198656
+United
+@united Is it possible to redeem miles for one part of a round trip itinerary without having to book two separate reservations?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 15:25:12 -0800
+location: Brooklyn, NY

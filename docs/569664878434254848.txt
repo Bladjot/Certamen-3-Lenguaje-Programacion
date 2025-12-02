@@ -1,0 +1,7 @@
+569664878434254848
+American
+@AmericanAir @sarahzou translation: we don't reinvest our mammoth profits into the customer service experience. 'Cause we don't care.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:07:45 -0800
+location: Pekin

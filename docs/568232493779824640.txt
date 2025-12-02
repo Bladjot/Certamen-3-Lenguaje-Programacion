@@ -1,0 +1,7 @@
+568232493779824640
+Southwest
+@southwestair Amazing view on the approach to LAX tonight. http://t.co/a68d5fULmH
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 18:15:58 -0800
+location: Rockwall, TX

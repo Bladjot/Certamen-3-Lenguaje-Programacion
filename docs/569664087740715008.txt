@@ -1,0 +1,7 @@
+569664087740715008
+American
+@AmericanAir unfriendly unhelpful agents. Unannounced gate changes. Delayed flight that we found out about by word of mouth
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:04:37 -0800
+location: nan

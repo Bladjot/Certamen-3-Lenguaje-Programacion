@@ -1,0 +1,7 @@
+568024504057913344
+Southwest
+@SouthwestAir any delays today @CAKairport to Orlando?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 04:29:29 -0800
+location: nan

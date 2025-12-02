@@ -1,0 +1,7 @@
+569919625640615936
+American
+@AmericanAir you can tweet but not call! You're like a bad boyfriend!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:00:02 -0800
+location: New York, NY

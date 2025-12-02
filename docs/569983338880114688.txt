@@ -1,0 +1,7 @@
+569983338880114688
+Delta
+So relieved I'm flying @JetBlue after listening to everyone at the neighboring gate bitch about Spirit. My airline's better than yours.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 14:13:12 -0800
+location: Somewhere

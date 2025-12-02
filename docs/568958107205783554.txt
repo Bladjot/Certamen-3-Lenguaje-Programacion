@@ -1,0 +1,7 @@
+568958107205783554
+United
+@united you phone customer service team is bad. Think it is time for me to consider switching airlines.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 18:19:18 -0800
+location: San Francisco

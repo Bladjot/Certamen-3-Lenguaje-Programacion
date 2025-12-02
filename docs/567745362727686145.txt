@@ -1,0 +1,7 @@
+567745362727686145
+United
+@united my mother's flight was delayed from phl-ord. We're on our way to NRT and the gate refused to upgrade. A platinum.  Blegh
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 10:00:17 -0800
+location: Houston, Texas

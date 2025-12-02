@@ -1,0 +1,7 @@
+570063451143462913
+American
+@AmericanAir I've just received the ticket. Thank you for your help
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 19:31:32 -0800
+location: nan

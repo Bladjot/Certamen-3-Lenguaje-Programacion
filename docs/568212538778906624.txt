@@ -1,0 +1,7 @@
+568212538778906624
+Delta
+@JetBlue I put it my "to" and "from" airports, click update and it tells me to put in my "to" and "from" airports.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 16:56:40 -0800
+location: #ManorvilleInExile

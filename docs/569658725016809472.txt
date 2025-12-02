@@ -1,0 +1,7 @@
+569658725016809472
+American
+@AmericanAir understand the weather but would be nice to hear an apology on the phone when you moved my flight to an inconvenient day
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:43:18 -0800
+location: Tucson

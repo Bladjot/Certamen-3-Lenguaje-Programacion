@@ -1,0 +1,7 @@
+568271741207891968
+United
+@united I would have made it if you hadn't already booked me on another flight and Cancelled Flighted my original reservation.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 20:51:55 -0800
+location: Rhode Island

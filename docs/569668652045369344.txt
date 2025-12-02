@@ -1,0 +1,7 @@
+569668652045369344
+American
+@AmericanAir Great seats on this aircraft!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:22:45 -0800
+location: nan

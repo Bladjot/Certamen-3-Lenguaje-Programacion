@@ -1,0 +1,7 @@
+569871433662271488
+United
+@united working with Lisa J at ORD. she's working hard for us, but this is still VERY disappointing. was on 634 to EWR.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 06:48:32 -0800
+location: chicago

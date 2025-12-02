@@ -1,0 +1,7 @@
+570069262586540032
+American
+@AmericanAir unable to access the website.  Will try again.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 19:54:38 -0800
+location: nan

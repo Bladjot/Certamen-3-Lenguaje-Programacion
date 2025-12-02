@@ -1,0 +1,7 @@
+568232942612447232
+Delta
+@JetBlue Amazingly Awesome customer service from your reservation agents tonight. Helping correct a mistake. I so love this airline. :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 18:17:45 -0800
+location: nan

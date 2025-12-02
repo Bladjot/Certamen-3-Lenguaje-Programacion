@@ -1,0 +1,7 @@
+570150741022617600
+American
+@AmericanAir no; I just expect a higher level of customer service &amp; for the flight crews to give us accurate information
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 01:18:24 -0800
+location: Texas

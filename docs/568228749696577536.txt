@@ -1,0 +1,7 @@
+568228749696577536
+United
+@united Very good flight, thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 18:01:05 -0800
+location: Chicago, IL

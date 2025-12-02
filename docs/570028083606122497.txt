@@ -1,0 +1,7 @@
+570028083606122497
+American
+@AmericanAir thanks, me too
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 17:11:00 -0800
+location: NC by day, DC by night....

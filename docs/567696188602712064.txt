@@ -1,0 +1,7 @@
+567696188602712064
+Delta
+@JetBlue A flight delay due to pilots oversleeping is apparently an uncontrollable irregularity that is not eligible for delay compensation.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 06:44:53 -0800
+location: nan

@@ -1,0 +1,7 @@
+570245513720647680
+Southwest
+@SouthwestAir Switching planes due to mechanical problems.  How does reboarding work? Was A49, now at end of long line.  Stuck in middle?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 07:34:59 -0800
+location: nan

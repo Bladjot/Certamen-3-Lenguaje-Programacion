@@ -1,0 +1,7 @@
+569374127187820545
+United
+@united poor showing today, no assistance to passengers who mis connected due to maintenance and waiting for baggage
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 21:52:25 -0800
+location: Vancouver, BC

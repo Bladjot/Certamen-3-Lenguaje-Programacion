@@ -1,0 +1,7 @@
+568611966937214976
+Southwest
+@SouthwestAir BETSY is the BESTY! Gettin' stuck at #LAS might not be bad for most..but I want home! #homewardbound #betsy #besty #thankyou
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 19:23:51 -0800
+location: nan

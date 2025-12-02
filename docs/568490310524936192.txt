@@ -1,0 +1,7 @@
+568490310524936192
+Delta
+@JetBlue Capital One and I explained the false fraud alert. Why did the Jet Blue representative issue me a new tkt if it wasn't resolved?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 11:20:26 -0800
+location: nan

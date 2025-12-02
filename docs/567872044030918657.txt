@@ -1,0 +1,7 @@
+567872044030918657
+Delta
+@JetBlue dispatcher keeps yelling and hung up on me!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 18:23:40 -0800
+location: nan

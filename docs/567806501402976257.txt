@@ -1,0 +1,7 @@
+567806501402976257
+Southwest
+@SouthwestAir when will the winners of #DestinationDragons be announced?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:03:13 -0800
+location: nan

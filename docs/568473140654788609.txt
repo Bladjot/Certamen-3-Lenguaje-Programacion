@@ -1,0 +1,7 @@
+568473140654788609
+United
+@united even so, change could not be made  online- instructed to call an agent- maybe the syastem should allow agents 2 link passengers!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 10:12:13 -0800
+location: iPhone: 40.773155,-73.872490

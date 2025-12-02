@@ -1,0 +1,7 @@
+569615410720432128
+American
+@americanair hi, you Cancelled Flightled our flight back to the US and now won't take our call. What are we supposed to do?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 13:51:11 -0800
+location: New York City

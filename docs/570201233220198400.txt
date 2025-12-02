@@ -1,0 +1,7 @@
+570201233220198400
+American
+@AmericanAir ...have you seen Blue? Go look it up :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 04:39:02 -0800
+location: Phila, PA

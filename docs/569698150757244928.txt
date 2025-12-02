@@ -1,0 +1,7 @@
+569698150757244928
+US Airways
+@USAirways - Janet &amp; my DEN-PHL  flight Cancelled Flightled Saturday, USAIR rescheduled automatically &amp; notified us by email at no additional cost.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 19:19:58 -0800
+location: Southeastern Pennsylvania USA

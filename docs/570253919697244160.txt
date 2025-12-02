@@ -1,0 +1,7 @@
+570253919697244160
+American
+@AmericanAir The flight was delayed 5 times. Spent almost 40min on the tarmac. I'll reconsider my future flight options.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 08:08:23 -0800
+location: Lake Arrowhead

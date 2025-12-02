@@ -1,0 +1,8 @@
+570072227942674432
+US Airways
+@USAirways cust svc means nothing! So disappointed. Trying since 730a to speak to a human I get bad weather not bad service.
+#socialtantrum
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 20:06:25 -0800
+location: Maryland

@@ -1,0 +1,7 @@
+570066231757180928
+American
+@AmericanAir thx for the apology.   A commitment to fix your broken system would be better.  Actually fixing it would be better still.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 19:42:35 -0800
+location: Seattle, WA, USA

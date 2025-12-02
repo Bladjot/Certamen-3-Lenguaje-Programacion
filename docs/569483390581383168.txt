@@ -1,0 +1,7 @@
+569483390581383168
+United
+@united thank you for flying me out of the mess at IAD and out to San Diego. http://t.co/tlPBaupIk5
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 05:06:35 -0800
+location: Northern Virginia

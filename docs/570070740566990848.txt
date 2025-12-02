@@ -1,0 +1,7 @@
+570070740566990848
+Delta
+@JetBlue #1680 Super smooth flight and landing. Nicely done.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 20:00:30 -0800
+location: DC SF

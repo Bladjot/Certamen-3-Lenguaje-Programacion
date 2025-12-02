@@ -1,0 +1,7 @@
+569312688272052224
+Southwest
+@SouthwestAir just sent another 4 drink coupons....I think I have over 30 coupons now. free drinks anyone?
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 17:48:16 -0800
+location: Los Angeles/SF/Palo Alto

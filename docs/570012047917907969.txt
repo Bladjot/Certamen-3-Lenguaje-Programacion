@@ -1,0 +1,7 @@
+570012047917907969
+US Airways
+@USAirways Yes, ground crew finally showed up so plane could depart very Late Flight.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 16:07:17 -0800
+location: Rhode Island

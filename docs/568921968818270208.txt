@@ -1,0 +1,7 @@
+568921968818270208
+United
+@united your agents forced me to check a carry on bag. When I received my bag I found your crew had stolen from me. U lost my business!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 15:55:42 -0800
+location: MN, MI, NM

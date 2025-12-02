@@ -1,0 +1,7 @@
+569620168671756288
+Delta
+@JetBlue of my tray table is broken what do i do?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 14:10:05 -0800
+location: nan

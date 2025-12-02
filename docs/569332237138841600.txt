@@ -1,0 +1,7 @@
+569332237138841600
+US Airways
+@USAirways Oh well. I'll get to Cancun eventually.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 19:05:57 -0800
+location: Troy, NY

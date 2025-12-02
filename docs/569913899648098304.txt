@@ -1,0 +1,7 @@
+569913899648098304
+American
+@AmericanAir done.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 09:37:16 -0800
+location: Buenos Aires, Argentina

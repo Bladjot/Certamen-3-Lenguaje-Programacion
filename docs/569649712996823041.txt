@@ -1,0 +1,7 @@
+569649712996823041
+American
+@AmericanAir arrived in lax from ord flight AA1657 NO LUGGAGE
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 16:07:29 -0800
+location: Brookfield, WI

@@ -1,0 +1,7 @@
+567873467401371648
+United
+Cc @DadBoner  #boldflavors “@united: We’re bringing Bourbon St. to 35,000 ft. with bold flavors, fresh ingredients and more dining options"
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 18:29:19 -0800
+location: des moines

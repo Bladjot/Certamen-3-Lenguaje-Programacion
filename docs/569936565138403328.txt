@@ -1,0 +1,7 @@
+569936565138403328
+United
+@united, this is the line in Denver to rebook due to weather issues. DO BETTER. http://t.co/tmccExYaaQ
+sentiment: negative
+negativereason: longlines
+created: 2015-02-23 11:07:20 -0800
+location: nan

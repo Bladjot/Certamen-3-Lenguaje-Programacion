@@ -1,0 +1,7 @@
+569657202325229568
+United
+@united flight to DFW from IAD Cancelled Flightled for mechanical can I get rental car to MDT-my origin
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:37:15 -0800
+location: Harrisburg

@@ -1,0 +1,7 @@
+568217681838641152
+US Airways
+@USAirways shout out to the pilots and FC attendant(Eliz) of US 673. Super strong crosswinds during landing. Eliz did a super job throughout
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 17:17:06 -0800
+location: nan

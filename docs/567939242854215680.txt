@@ -1,0 +1,7 @@
+567939242854215680
+United
+@united Thanks for your response. Bags came, but it was a long wait and priority tags weren't honored at all. Disappointing
+sentiment: negative
+negativereason: longlines
+created: 2015-02-17 22:50:41 -0800
+location: Montclair, NJ

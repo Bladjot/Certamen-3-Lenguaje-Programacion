@@ -1,0 +1,7 @@
+570010976608780288
+United
+@united That's not the issue. The fact that no one even called (despite promises) to confirm the bag's location is.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 16:03:01 -0800
+location: Coventry, Connecticut

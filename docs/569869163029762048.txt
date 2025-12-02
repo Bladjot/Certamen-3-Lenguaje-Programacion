@@ -1,0 +1,7 @@
+569869163029762048
+US Airways
+@USAirways Thank you.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 06:39:30 -0800
+location: Boston, MA

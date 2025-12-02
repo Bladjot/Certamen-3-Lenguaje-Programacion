@@ -1,0 +1,7 @@
+570045393565691904
+Virgin America
+@VirginAmerica @freddieawards Done and done! Best airline around, hands down!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 18:19:47 -0800
+location: Central Texas

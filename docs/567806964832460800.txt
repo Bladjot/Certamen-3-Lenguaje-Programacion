@@ -1,0 +1,7 @@
+567806964832460800
+Delta
+@JetBlue Airways Sees Significant Drop in Short Interest (JBLU) - Mideast Time http://t.co/SSBaUJtOuW
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:05:04 -0800
+location: USA

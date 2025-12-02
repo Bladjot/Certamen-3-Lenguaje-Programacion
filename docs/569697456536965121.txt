@@ -1,0 +1,7 @@
+569697456536965121
+Southwest
+@SouthwestAir All good... beers and #oscars2015 ar #DIA
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 19:17:12 -0800
+location: denver

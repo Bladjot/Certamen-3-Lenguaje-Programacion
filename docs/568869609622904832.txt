@@ -1,0 +1,7 @@
+568869609622904832
+US Airways
+@USAirways Shavon at customer service desk in Charlotte was fantastic! So helpful and smiling evn after what sounds like long day.Reward her
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 12:27:38 -0800
+location: Arlington Va

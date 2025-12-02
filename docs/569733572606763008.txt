@@ -1,0 +1,7 @@
+569733572606763008
+American
+@AmericanAir thanks for following up. I think it's fair to refund the ticket price and the two one way rental cars I had to buy.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 21:40:43 -0800
+location: nan

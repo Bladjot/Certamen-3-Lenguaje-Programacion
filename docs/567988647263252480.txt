@@ -1,0 +1,7 @@
+567988647263252480
+US Airways
+@USAirways great but that still does not help me..
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 02:07:00 -0800
+location: Washington, DC

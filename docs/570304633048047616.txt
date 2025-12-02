@@ -1,0 +1,7 @@
+570304633048047616
+American
+@AmericanAir Do you have any sort of live chat feature? We're in the UK right now and that call would cost us alot. :(
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:29:54 -0800
+location: nan

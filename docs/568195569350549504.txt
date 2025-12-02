@@ -1,0 +1,7 @@
+568195569350549504
+Delta
+@JetBlue, my dads vacation to SXM got delayed a day because of @AmericanAir shoddy service. Earliest FLL &gt; SXM flight? trying to hep him out
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 15:49:14 -0800
+location: Massachusetts

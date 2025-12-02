@@ -1,0 +1,7 @@
+570076595647426560
+Delta
+@JetBlue its domestic I just wanted more of an idea so I don't get surprised.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 20:23:46 -0800
+location: Boston, MA

@@ -1,0 +1,7 @@
+567840103122509825
+US Airways
+@USAirways UR service is so shitty. Pilot never showed up so we waited hours because another pilot was supposed to come but didn't #Cancelled Flighted
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 16:16:45 -0800
+location: nan

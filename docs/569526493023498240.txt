@@ -1,0 +1,7 @@
+569526493023498240
+Delta
+@JetBlue I knew there was a reason u were my favorite airline. Just read you answer on twitter in globe this morning. Great job
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 07:57:51 -0800
+location: nan

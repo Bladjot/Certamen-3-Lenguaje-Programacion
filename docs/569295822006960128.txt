@@ -1,0 +1,7 @@
+569295822006960128
+US Airways
+@USAirways the plane crew has been as professional and courteous as the gate agents were flustered.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 16:41:15 -0800
+location: New York

@@ -1,0 +1,7 @@
+568462314388656128
+Southwest
+@SouthwestAir Why doesn't mean TSA PreCheck show up on my mobile boarding pass? My KTN is linked to my account.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 09:29:11 -0800
+location: NorCal - Eugene - Indianapolis

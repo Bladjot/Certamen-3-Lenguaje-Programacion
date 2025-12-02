@@ -1,0 +1,7 @@
+568982494676172800
+Delta
+@JetBlue since high likelihood of snow at time of flight tomorrow, any chance I can rebook for Sunday?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 19:56:12 -0800
+location: Brooklyn, NY

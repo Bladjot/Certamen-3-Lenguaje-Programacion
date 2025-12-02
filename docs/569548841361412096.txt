@@ -1,0 +1,7 @@
+569548841361412096
+Southwest
+@SouthwestAir Arkansas Gov. plans to sign Governor SB-202 that legalizes discrimination of LGBT.Can you lend your voice to a state boycott?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 09:26:40 -0800
+location: Albuquerque, New Mexico, USA

@@ -1,0 +1,7 @@
+568584104641368064
+United
+@united WHAT?! Y'all have zero concept of customer service. Oh...and now my connection is delayed too!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 17:33:08 -0800
+location: nan

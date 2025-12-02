@@ -1,0 +1,7 @@
+568098769847218177
+Delta
+@JetBlue 's free wifi on board is the best thing that's happened since sliced bread
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 09:24:36 -0800
+location: nan

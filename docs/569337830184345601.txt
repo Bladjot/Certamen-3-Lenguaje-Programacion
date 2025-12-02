@@ -1,0 +1,7 @@
+569337830184345601
+United
+@united not completely.  Our flight was changed in July but we never received notification.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 19:28:11 -0800
+location: Boston, MA

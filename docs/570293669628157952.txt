@@ -1,0 +1,7 @@
+570293669628157952
+Delta
+@JetBlue Ok and in Dominican Republic what numbers?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:46:21 -0800
+location: nan

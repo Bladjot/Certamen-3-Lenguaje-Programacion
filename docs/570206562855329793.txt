@@ -1,0 +1,7 @@
+570206562855329793
+American
+@AmericanAir fantastic thanks! Will try and tweet a photo of the view :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 05:00:13 -0800
+location: Glasgow via Cork

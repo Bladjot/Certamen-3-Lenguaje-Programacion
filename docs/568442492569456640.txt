@@ -1,0 +1,7 @@
+568442492569456640
+US Airways
+@USAirways skys r sunny air is cold I can't wait to get to #CLT
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 08:10:26 -0800
+location: USA

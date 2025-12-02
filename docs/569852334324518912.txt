@@ -1,0 +1,7 @@
+569852334324518912
+United
+@united #epicfail on #CX as flight from Frankfurt to San Francisco now going to Chicago as flight crew out of hours due to de-icing delay
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 05:32:38 -0800
+location: Weston super Mare

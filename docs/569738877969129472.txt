@@ -1,0 +1,7 @@
+569738877969129472
+American
+@AmericanAir stuck in airplane both on way out of PHL and again in Houston. All passengers frustrated. Makes me want to avoid airline
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 22:01:48 -0800
+location: Austin, TX

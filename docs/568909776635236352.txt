@@ -1,0 +1,7 @@
+568909776635236352
+Delta
+@JetBlue so what about California
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 15:07:15 -0800
+location: South jamaica.. Queens

@@ -1,0 +1,7 @@
+570285578563891200
+United
+@united Have clients with an 11 hr layover at IAH (during the day). Will they have to claim &amp; recheck luggage. Or will it be taken care of?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:14:11 -0800
+location: Portland, OR

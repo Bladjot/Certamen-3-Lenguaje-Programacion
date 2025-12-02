@@ -1,0 +1,7 @@
+568436613384155136
+Delta
+@JetBlue trying to charge us $550 dollars cash for tickets we paid for months in advance #isthisreal #nevertoldus #jetblue #NeverAgain
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 07:47:04 -0800
+location: nan

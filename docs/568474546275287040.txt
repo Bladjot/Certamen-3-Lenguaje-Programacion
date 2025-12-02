@@ -1,0 +1,7 @@
+568474546275287040
+US Airways
+@USAirways Stuck in Philadelphia airport for 32 hours due to "maintenance". Dreading my flight back home. Disgusting.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 10:17:48 -0800
+location: Liverpool, UK

@@ -1,0 +1,7 @@
+569861209781989377
+Virgin America
+@VirginAmerica come back to #PHL already. We need you to take us out of this horrible cold. #pleasecomeback http://t.co/gLXFwP6nQH
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 06:07:54 -0800
+location: Earth

@@ -1,0 +1,7 @@
+570006737190854656
+American
+@AmericanAir every time I try to call, it tells me to try again Late Flightr and just hangs up.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 15:46:11 -0800
+location: Michigan, US

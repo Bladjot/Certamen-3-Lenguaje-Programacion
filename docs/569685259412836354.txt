@@ -1,0 +1,7 @@
+569685259412836354
+Southwest
+@SouthwestAir Tough I can take. Zero meaningful assistance while stranded for 2 days is another matter. Looking for signs you care abt cust.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:28:44 -0800
+location: Cambridge, MA

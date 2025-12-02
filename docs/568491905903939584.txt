@@ -1,0 +1,7 @@
+568491905903939584
+US Airways
+@USAirways your app is bad, and you should feel bad.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 11:26:47 -0800
+location: Chicago, IL

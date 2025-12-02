@@ -1,0 +1,7 @@
+568915741551886336
+United
+@united incompetent/rude service today. Missed my connecting flight, then the customer service desk was terrible to me. Really upset w untd.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 15:30:57 -0800
+location: Los Angeles, CA

@@ -1,0 +1,7 @@
+569879600907440129
+American
+@AmericanAir good morning, please let me know if I will be able to get those luggage tags.   Tx!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:20:59 -0800
+location: Chicago, IL

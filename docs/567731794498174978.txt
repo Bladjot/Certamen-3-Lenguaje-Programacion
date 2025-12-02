@@ -1,0 +1,7 @@
+567731794498174978
+Delta
+@JetBlue Hopefully next time! Can I send you my future itineraries so the next one can be planned when I'm there? 😂😂
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:06:22 -0800
+location: california ☀️

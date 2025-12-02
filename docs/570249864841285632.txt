@@ -1,0 +1,7 @@
+570249864841285632
+Southwest
+@SouthwestAir Customer Centricity is knowing people #ANAMarketers
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 07:52:17 -0800
+location: nan

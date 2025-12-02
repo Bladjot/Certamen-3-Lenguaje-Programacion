@@ -1,0 +1,7 @@
+569571772355489792
+United
+@united called back and I've been on hold. What is the issue?! I have a confirmation number and an email that shows how much I've paid
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 10:57:47 -0800
+location: Nueva York

@@ -1,0 +1,7 @@
+568380302114086912
+United
+@united EWR ppl told me to call 1800#, have 2x/day since Monday. Still at layover loc. have that ref # tho. Any help appreciated.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 04:03:18 -0800
+location: Germany

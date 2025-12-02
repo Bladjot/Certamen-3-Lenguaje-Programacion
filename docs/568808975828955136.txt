@@ -1,0 +1,7 @@
+568808975828955136
+United
+@united Delayed CMH to ORD. Ran to gate 1 min b4 connection -door closed no one around. Ignored by 1st agent, 2nd super rude. #thanksunited
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 08:26:42 -0800
+location: nan

@@ -1,0 +1,7 @@
+568160197367242752
+Delta
+@JetBlue can't change it. True blue points and I can't get to a phone
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 13:28:41 -0800
+location: Logan International Airport

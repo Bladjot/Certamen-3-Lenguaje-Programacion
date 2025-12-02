@@ -1,0 +1,7 @@
+569892361691463682
+American
+@AmericanAir thanks for the DM rescheduling. Unfortunately your operations process at LAX is chaos &amp; the reps refused to print the ticket
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 08:11:41 -0800
+location: Boston, MA

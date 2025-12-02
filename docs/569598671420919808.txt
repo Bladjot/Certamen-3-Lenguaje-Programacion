@@ -1,0 +1,7 @@
+569598671420919808
+American
+@AmericanAir I know.  After an hour I got a live person.  It messes up our arrival and car plans at two airports and is costing us more.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:44:40 -0800
+location: Seattle, WA

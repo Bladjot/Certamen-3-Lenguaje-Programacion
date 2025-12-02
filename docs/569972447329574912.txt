@@ -1,0 +1,7 @@
+569972447329574912
+US Airways
+@USAirways I'm shutting my data off for the flight. I want some response by the time I land.  You have 2 hours.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:29:55 -0800
+location: nan

@@ -1,0 +1,7 @@
+569881379825164288
+American
+@AmericanAir how can I get travel question answered quickly... Online and calling not helping with this busy day
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:28:03 -0800
+location: Chicago,IL

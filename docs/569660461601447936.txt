@@ -1,0 +1,7 @@
+569660461601447936
+United
+@united thanks for making everyone wait in the dark for an hour while Newark tries to figure out which gate to go to. #incompetence
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:50:12 -0800
+location: nan

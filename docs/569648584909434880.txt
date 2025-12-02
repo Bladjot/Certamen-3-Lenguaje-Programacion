@@ -1,0 +1,7 @@
+569648584909434880
+United
+@united ...would be on the next flight to Hayden/steamboat
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:03:00 -0800
+location: nan

@@ -1,0 +1,7 @@
+568606101412962304
+United
+@united How do you have a scheduled flight WITH NO CREW? Is there a competent person working at this airline?
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-19 19:00:33 -0800
+location: Buffalo, NY

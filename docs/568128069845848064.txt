@@ -1,0 +1,7 @@
+568128069845848064
+Southwest
+@SouthwestAir I don't have a conference number.  I spoke with Courtney in Texas and David before that. they finally fixed mine after an hour
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 11:21:01 -0800
+location: nan

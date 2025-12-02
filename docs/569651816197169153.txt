@@ -1,0 +1,7 @@
+569651816197169153
+American
+@AmericanAir yes. We spent the whole day talking to agents and someone finally offered to let him stay in a hotel
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 16:15:51 -0800
+location: nan

@@ -1,0 +1,7 @@
+569611549960044544
+Southwest
+@SouthwestAir you are a bunch of liars! Cancelled Flightled our flight and rebooked us four days Late Flightr!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 13:35:51 -0800
+location: nan

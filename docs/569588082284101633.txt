@@ -1,0 +1,7 @@
+569588082284101633
+United
+@united line full of worried customers and guy at desk says so sorry you will have to take care of your problems Late Flightr I don't have time.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:02:35 -0800
+location: nan

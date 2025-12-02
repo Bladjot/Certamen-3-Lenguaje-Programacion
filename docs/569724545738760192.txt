@@ -1,0 +1,7 @@
+569724545738760192
+American
+@AmericanAir yes. Shows Cancelled Flightled &amp; asks for her to contact you at 800 number.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 21:04:51 -0800
+location: Dallas

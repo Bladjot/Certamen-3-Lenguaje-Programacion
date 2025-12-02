@@ -1,0 +1,7 @@
+569370553963786241
+US Airways
+@USAirways I intend to..very much. My 4,000 followers will as well.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 21:38:13 -0800
+location: 39.0708° N, 106.9886° W

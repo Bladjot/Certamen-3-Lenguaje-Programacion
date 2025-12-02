@@ -1,0 +1,7 @@
+568487688510287873
+Delta
+@JetBlue I called jet blue to get an explanation, and make sure it would not happen in the future. I was told to write the fraud dept.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 11:10:01 -0800
+location: nan

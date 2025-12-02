@@ -1,0 +1,7 @@
+569989416426434560
+United
+@united the person is currently bettween gates 71A and 73 in LAX
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:37:21 -0800
+location: lalaland

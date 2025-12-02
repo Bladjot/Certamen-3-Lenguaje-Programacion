@@ -1,0 +1,7 @@
+569451362687143936
+United
+@united hey, it's 4am, guess what I'm doing? Not sleeping! Why? Cause you care so little about your customers you let them sleep in airports
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 02:59:19 -0800
+location: nan

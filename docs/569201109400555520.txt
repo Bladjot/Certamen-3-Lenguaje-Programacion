@@ -1,0 +1,7 @@
+569201109400555520
+United
+@united in the process of purchasing ticket, when prices changed. unbelievable. #RipOffs #PriceDiscrimination
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 10:24:54 -0800
+location: nan

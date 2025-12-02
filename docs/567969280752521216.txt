@@ -1,0 +1,7 @@
+567969280752521216
+Southwest
+@SouthwestAir @CourtSnod hopefully Nashville is open. I want to come home today
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 00:50:03 -0800
+location: nan

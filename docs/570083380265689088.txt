@@ -1,0 +1,7 @@
+570083380265689088
+Delta
+@JetBlue customer service says since my wife setup a family account that she now can't join mine for a year???  Help me fix please.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 20:50:44 -0800
+location: nan

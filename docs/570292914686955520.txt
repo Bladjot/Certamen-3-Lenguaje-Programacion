@@ -1,0 +1,7 @@
+570292914686955520
+Southwest
+@SouthwestAir Do you promise to not unfollow me? 😉
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:43:21 -0800
+location: Denver, CO

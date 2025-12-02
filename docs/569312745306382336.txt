@@ -1,0 +1,7 @@
+569312745306382336
+US Airways
+@USAirways don't think you guys could mess things up any more.. Never flying with you again!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 17:48:30 -0800
+location: America

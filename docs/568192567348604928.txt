@@ -1,0 +1,7 @@
+568192567348604928
+United
+@united why does it cost $547 to change the city of origin when the same flight on http://t.co/8FMZZOltv9 costs $165 #customerservicefail
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 15:37:19 -0800
+location: nan

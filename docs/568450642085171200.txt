@@ -1,0 +1,7 @@
+568450642085171200
+United
+@united need to chat with an actual human ASAP!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 08:42:49 -0800
+location: nan

@@ -1,0 +1,7 @@
+569672003403313154
+American
+@AmericanAir @jaynegelman How,about more@Blacklist too!!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:36:04 -0800
+location: nan

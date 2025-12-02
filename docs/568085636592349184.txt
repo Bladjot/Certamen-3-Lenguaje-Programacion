@@ -1,0 +1,7 @@
+568085636592349184
+United
+@united There is no excuse for leaving a minor to spend the night sobbing (9 hours) in a plastic chair. UA's actions? Terrible. # united
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 08:32:24 -0800
+location: New Canaan, Ct

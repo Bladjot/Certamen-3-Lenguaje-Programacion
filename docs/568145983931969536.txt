@@ -1,0 +1,7 @@
+568145983931969536
+Delta
+@JetBlue I thought the same thing after I sent it
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 12:32:12 -0800
+location: pnw

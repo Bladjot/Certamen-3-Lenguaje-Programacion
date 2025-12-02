@@ -1,0 +1,7 @@
+567885057085566977
+US Airways
+@USAirways me too. Me too.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 19:15:23 -0800
+location: nan

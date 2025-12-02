@@ -1,0 +1,7 @@
+569203010410119168
+United
+@united is to airlines as @comcast @XFINITY is to cable/internet
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 10:32:27 -0800
+location: nan

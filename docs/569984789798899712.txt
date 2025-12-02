@@ -1,0 +1,7 @@
+569984789798899712
+US Airways
+@USAirways THANK YOU for resolving the issue. On direct flight to sfo from @united
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 14:18:58 -0800
+location: Washington D.C.

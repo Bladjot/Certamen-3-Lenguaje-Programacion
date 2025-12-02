@@ -1,0 +1,7 @@
+569339467615506435
+United
+@united well this one missed the mark.  She was in a snit from the minute I stepped up to the counter
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 19:34:41 -0800
+location: #Westford #marketing

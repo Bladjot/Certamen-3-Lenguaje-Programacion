@@ -1,0 +1,7 @@
+567814334228774912
+United
+@united If you have had any issues with  United Airlines PLEASE retweet. Paid for a full fight ticket and was given a standby instead.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-17 14:34:21 -0800
+location: Canmore

@@ -1,0 +1,7 @@
+570198506222194692
+Delta
+@JetBlue we were supposed to be Vieques by 3pm
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 04:28:12 -0800
+location: nan

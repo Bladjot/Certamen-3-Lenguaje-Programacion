@@ -1,0 +1,7 @@
+567862628460158976
+Delta
+@JetBlue I will try that. Thanks! If all else fails I will just do the old fashioned method tomorrow morning.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 17:46:15 -0800
+location: nan

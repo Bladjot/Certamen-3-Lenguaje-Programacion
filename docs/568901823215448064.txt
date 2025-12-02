@@ -1,0 +1,7 @@
+568901823215448064
+Virgin America
+@VirginAmerica moved my seat with no notice. "Better seat" is cabin select not behind the row I selected👎 #DISAPPOINTED
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 14:35:38 -0800
+location: Los Angeles

@@ -1,0 +1,7 @@
+568494813655527424
+United
+@United does a great job of answering public messages. Direct private messages, not so much.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 11:38:20 -0800
+location: Columbus, Ohio

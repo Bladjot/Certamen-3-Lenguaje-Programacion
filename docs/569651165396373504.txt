@@ -1,0 +1,7 @@
+569651165396373504
+US Airways
+@USAirways pilot says that we are going to take off in 10 minutes. So maybe the systems came back online?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:13:16 -0800
+location: San Francisco, CA

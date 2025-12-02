@@ -1,0 +1,7 @@
+567874134174101504
+United
+@united mechanical delay occurred in Houston earlier today re: their flight to ORD
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 18:31:58 -0800
+location: Irvine

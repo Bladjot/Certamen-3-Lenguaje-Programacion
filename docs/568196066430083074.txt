@@ -1,0 +1,7 @@
+568196066430083074
+Southwest
+@SouthwestAir My flight was 952, leaving las vegas at 5:40pm, arriving at CHI-MID at 11:00 pm.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 15:51:13 -0800
+location: nan

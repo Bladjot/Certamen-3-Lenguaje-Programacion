@@ -1,0 +1,7 @@
+569540050821763072
+Delta
+@JetBlue they were amazing and thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 08:51:44 -0800
+location: New York, sort of!

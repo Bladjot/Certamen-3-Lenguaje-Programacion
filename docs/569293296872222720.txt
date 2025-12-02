@@ -1,0 +1,7 @@
+569293296872222720
+United
+@united I was rebooked thru SFO but arrive 9 hours Late Flight and miss activities. I asked to fly today with stop over. Was told I'd have to pay.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 16:31:13 -0800
+location: Boise

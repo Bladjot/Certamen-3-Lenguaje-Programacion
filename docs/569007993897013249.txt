@@ -1,0 +1,7 @@
+569007993897013249
+US Airways
+@USAirways you need to check information regarding hotels, shuttles, re routing flights, delayed flights
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 21:37:32 -0800
+location: somewhere only we know

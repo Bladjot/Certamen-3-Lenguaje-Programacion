@@ -1,0 +1,7 @@
+568150866890522628
+US Airways
+@USAirways strikes again...lost bags. And two of them. #theworst
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 12:51:37 -0800
+location: Charlotte, NC

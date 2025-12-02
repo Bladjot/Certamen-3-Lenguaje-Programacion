@@ -1,0 +1,7 @@
+568706817980796928
+United
+@united how are you going to rectify this? Please direct me to your complaints department #stickingToDelta
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 01:40:46 -0800
+location: nan

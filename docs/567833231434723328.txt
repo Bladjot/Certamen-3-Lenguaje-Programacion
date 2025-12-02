@@ -1,0 +1,7 @@
+567833231434723328
+Southwest
+@SouthwestAir Thanks for taking care of me Today!  Michele rocked the customer service! Gate 25 HOU
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 15:49:26 -0800
+location: nan

@@ -1,0 +1,7 @@
+570075916430397440
+US Airways
+@USAirways if it was so important, why did I wait on hold and then get hung up on by your computer?  #disappointed
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 20:21:04 -0800
+location: nan

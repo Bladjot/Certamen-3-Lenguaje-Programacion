@@ -1,0 +1,7 @@
+569098396914421763
+United
+@united it's been booked into first class with curbside delivery 24 hours from now. I'm counting on it! #TeamUSA
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 03:36:45 -0800
+location: Park City, UT

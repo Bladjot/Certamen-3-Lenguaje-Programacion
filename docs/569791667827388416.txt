@@ -1,0 +1,7 @@
+569791667827388416
+Southwest
+@SouthwestAir   Are flights going into Dallas this morning?   Thanks
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 01:31:34 -0800
+location: nan

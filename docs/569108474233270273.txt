@@ -1,0 +1,7 @@
+569108474233270273
+US Airways
+@USAirways quick, let's board a plane so that we can sit on runway for 2 hours #clockwork #scareways #neverfails @AUmilo1
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 04:16:48 -0800
+location: nashville via minnesota

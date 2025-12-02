@@ -1,0 +1,7 @@
+569192350607671297
+US Airways
+@USAirways chose you for a flight with very time sensitive arrival And you drop the ball. What gives? CLT #667 good way to lose my business
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 09:50:06 -0800
+location: Earth

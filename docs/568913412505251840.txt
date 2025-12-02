@@ -1,0 +1,7 @@
+568913412505251840
+Southwest
+@SouthwestAir http://t.co/tTXRSyNLxr doesn't work on my flight. Just fyi.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 15:21:42 -0800
+location: San Antonio, TX

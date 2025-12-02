@@ -1,0 +1,7 @@
+569925645204987904
+Southwest
+@SouthwestAir Thanks, Lindsey. Any idea when I'll get there?! Stuck in Denver and told to "listen to the intercom better".
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:23:57 -0800
+location: nan

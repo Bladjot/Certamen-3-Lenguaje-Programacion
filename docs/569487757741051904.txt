@@ -1,0 +1,7 @@
+569487757741051904
+US Airways
+@USAirways This was a real life exercise in crisis management which @USAirways failed miserably. Some compensation would go a long way.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 05:23:56 -0800
+location: nan

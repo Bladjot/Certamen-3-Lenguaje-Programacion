@@ -1,0 +1,7 @@
+568967744076410880
+United
+@united Will the airline refuse my Canadian passport with less than 6 months remaining validity? Going to US.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 18:57:35 -0800
+location: nan

@@ -1,0 +1,7 @@
+568981079278751744
+US Airways
+@USAirways - the worst! Hold time crazy, agents horrible, no accountability! #USAIRsucks
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 19:50:35 -0800
+location: Arizona

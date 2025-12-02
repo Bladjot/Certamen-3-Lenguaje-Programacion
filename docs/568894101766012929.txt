@@ -1,0 +1,7 @@
+568894101766012929
+US Airways
+@USAirways flight 413 my carryon is missing.stollen off plane or left at gate. Worst customer service. Doesn't seem to be anyone's concern.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 14:04:58 -0800
+location: Callahan, FL

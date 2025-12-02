@@ -1,0 +1,7 @@
+569737397350461440
+American
+@AmericanAir why won't u deliver my luggage? Almost two days and holding on the phone for over 4 hrs. Help!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 21:55:55 -0800
+location: Miami Beach

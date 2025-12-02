@@ -1,0 +1,7 @@
+568498446216400896
+Delta
+@JetBlue short stop at JFK before IAD
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 11:52:46 -0800
+location: D.C.

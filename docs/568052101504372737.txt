@@ -1,0 +1,7 @@
+568052101504372737
+Delta
+@JetBlue thanks for listening. Doesn't mean I don't appreciate you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 06:19:09 -0800
+location: New York, NY

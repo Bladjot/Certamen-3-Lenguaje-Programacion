@@ -1,0 +1,7 @@
+567737317432258560
+Southwest
+@SouthwestAir I am but it says yall are sold out. Me &amp; My coworkers would need to get out first available
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:28:19 -0800
+location: Nashville,TN

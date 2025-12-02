@@ -1,0 +1,7 @@
+569600023597428736
+US Airways
+@USAirways Its pretty ridiculous that at PHX sky harbor you have 4 (!) employees working check in on a SUNDAY afternoon. 30 min &amp; counting..
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 12:50:02 -0800
+location: Saint Louis, MO

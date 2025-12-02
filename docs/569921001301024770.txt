@@ -1,0 +1,7 @@
+569921001301024770
+American
+@AmericanAir Trying desperately to rebook my moms flight. Waited 10 hours for callback, got disconnected and they didn’t call back. #help
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 10:05:29 -0800
+location: San Francisco, CA

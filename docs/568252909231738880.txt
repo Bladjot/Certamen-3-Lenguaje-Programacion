@@ -1,0 +1,7 @@
+568252909231738880
+United
+@united @christinebpc ...and on some versions of the 738, row 11 has no window at all. Go ahead, check. We'll wait.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 19:37:05 -0800
+location: Princeton, NJ

@@ -1,0 +1,7 @@
+569604507405037569
+Delta
+@JetBlue flight from BOS - RSW tomorrow, all i need is my wife + 3yr old to sit together, but no option when checking in.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 13:07:51 -0800
+location: nan

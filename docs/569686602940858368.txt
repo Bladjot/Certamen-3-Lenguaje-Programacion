@@ -1,0 +1,7 @@
+569686602940858368
+US Airways
+@USAirways why the hell did you overbook a plane when you knew people actually had seat assignments. #inept #uncaring #piss poorplanning
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 18:34:05 -0800
+location: Does it really matter

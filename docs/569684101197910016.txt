@@ -1,0 +1,7 @@
+569684101197910016
+US Airways
+@USAirways I've been on hold for 90 minutes. This is terrible customer service. You messed up my reservation! http://t.co/oyLgeao7Y8
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:24:08 -0800
+location: Raleigh, NC

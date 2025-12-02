@@ -1,0 +1,7 @@
+569991566087073792
+American
+@AmericanAir I Cancelled Flightled my ticket and is taking two months ++ to refund and still waiting!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:45:53 -0800
+location: nan

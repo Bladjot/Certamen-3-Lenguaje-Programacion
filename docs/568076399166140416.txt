@@ -1,0 +1,7 @@
+568076399166140416
+Southwest
+@SouthwestAir can @Sagerooski &amp; I use your luggage scale to measure our weight loss? One scale for each foot @ home is not accurate anymore.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 07:55:42 -0800
+location: PlanoTexas

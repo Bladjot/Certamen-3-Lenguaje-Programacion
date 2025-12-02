@@ -1,0 +1,8 @@
+567871780188061696
+United
+@united You allow shady 3rd party services to sell your tickets and then refuse to help the customer, who's left holding the bag.
+#flyunited
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 18:22:37 -0800
+location: nan

@@ -1,0 +1,7 @@
+569937664964743169
+Delta
+@JetBlue Sent.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:11:42 -0800
+location: NY, LA

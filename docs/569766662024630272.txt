@@ -1,0 +1,7 @@
+569766662024630272
+American
+@AmericanAir still no reply to my email sent on 11th February. Even sent an email asking for acknowledgment that's it been recieved, nothing
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 23:52:12 -0800
+location: nan

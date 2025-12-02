@@ -1,0 +1,7 @@
+569734641193586688
+American
+@AmericanAir the service received by both of us was rude and well below my expectations of your airline. That is what's most frustrating
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 21:44:58 -0800
+location: nan

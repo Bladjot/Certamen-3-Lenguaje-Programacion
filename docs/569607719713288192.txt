@@ -1,0 +1,7 @@
+569607719713288192
+US Airways
+@USAirways #695 might have been Cancelled Flighted? mechanical issue. 6 hours Late Flightr 100 people still waiting and Zero information. Please send help.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:20:37 -0800
+location: nan

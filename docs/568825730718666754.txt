@@ -1,0 +1,7 @@
+568825730718666754
+United
+@united so going forward, I shouldn't be Flight Booking Problems Star Alliance flights through the United App?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 09:33:17 -0800
+location: nan

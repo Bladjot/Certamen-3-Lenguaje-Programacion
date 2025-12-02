@@ -1,0 +1,7 @@
+568110095646781440
+Southwest
+5 hour delay = shortly?“@SouthwestAir: @brendanpshannon Brendan, we are so sorry to keep you waiting. We'll have you in the air shortly!^RS”
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 10:09:36 -0800
+location: here there many wheres

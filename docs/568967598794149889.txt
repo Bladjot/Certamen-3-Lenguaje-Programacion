@@ -1,0 +1,7 @@
+568967598794149889
+United
+@united what time should I arrive at the airport for my 6:15 am domestic flight out of San Diego?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 18:57:01 -0800
+location: nan

@@ -1,0 +1,7 @@
+567785481161953280
+Virgin America
+@VirginAmerica should use this in their next airline commercial lol :: http://t.co/pXEXIlSjBs
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 12:39:42 -0800
+location: P H I L A D E L P H I A

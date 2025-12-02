@@ -1,0 +1,7 @@
+569708173831094272
+Southwest
+@SouthwestAir what robot is running this account. The same one that doesn't remember anything they ask. Same conversation over and over.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:59:47 -0800
+location: Aurora, OH

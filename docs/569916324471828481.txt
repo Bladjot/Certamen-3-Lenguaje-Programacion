@@ -1,0 +1,7 @@
+569916324471828481
+United
+@united In 2015, United is "unable" to look up a flight reservation by passenger name at the YYZ check-in counter - WOW smh #customerservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:46:54 -0800
+location: Toronto, Canada

@@ -1,0 +1,7 @@
+569576395778748416
+United
+Only 14 biz days (18 calendar) to respond to my inquiry @united ?  I hope your standards are universally adopted :-/ #BadCustomerService
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 11:16:09 -0800
+location: Houston, TX

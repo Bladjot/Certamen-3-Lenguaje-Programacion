@@ -1,0 +1,7 @@
+569710019333107714
+United
+@united you really screwed up dealing mechanical failure from Maui to San Francisco. Poor communication bad help in getting connections
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 20:07:07 -0800
+location: Bay Area, CA

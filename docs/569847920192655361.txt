@@ -1,0 +1,7 @@
+569847920192655361
+Virgin America
+@VirginAmerica should I be concerned that I am about to fly on a plane that needs to be delayed due to a "tech stop"?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 05:15:06 -0800
+location: nan

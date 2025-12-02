@@ -1,0 +1,7 @@
+567594579310825473
+United
+@united and don't hope for me having a nicer flight some other time, try to do things right. You sold me those tickets with that connetion
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 00:01:07 -0800
+location: nan

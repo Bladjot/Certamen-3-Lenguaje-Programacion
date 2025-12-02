@@ -1,0 +1,7 @@
+568535276546449409
+Delta
+@JetBlue what's the hold up with flight 1553? boarding should've taken place 30 minutes ago.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 14:19:07 -0800
+location: MiamiKlko

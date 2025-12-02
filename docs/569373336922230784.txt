@@ -1,0 +1,7 @@
+569373336922230784
+US Airways
+@USAirways delayed depart bc ur flight attendant wasn't there. Then after landing took 3 hrs to get a gate. Now it's another he and NO bags
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 21:49:16 -0800
+location: nan

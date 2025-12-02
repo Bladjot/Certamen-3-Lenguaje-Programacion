@@ -1,0 +1,7 @@
+568441576206286848
+Delta
+@JetBlue THANKS!! Her 80th bday is Saturday. We're having an aviation themed surprise party for her.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 08:06:47 -0800
+location: Long Island, NY

@@ -1,0 +1,7 @@
+570070449406812160
+US Airways
+@USAirways it is my fault but i bought online and i get twice why i buy twice it fault but i bougth ticket jfk to mccaren and usairways ++
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 19:59:21 -0800
+location: nan

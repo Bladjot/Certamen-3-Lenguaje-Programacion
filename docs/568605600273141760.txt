@@ -1,0 +1,7 @@
+568605600273141760
+Southwest
+@SouthwestAir Can you help me out with tickets to the Vegas event? I would be so stoked!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 18:58:33 -0800
+location: nan

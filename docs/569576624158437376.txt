@@ -1,0 +1,7 @@
+569576624158437376
+Southwest
+@SouthwestAir could I get a phone call from a customer service rep to get the issue resolved?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 11:17:04 -0800
+location: nan

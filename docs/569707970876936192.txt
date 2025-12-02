@@ -1,0 +1,7 @@
+569707970876936192
+United
+@united She is travelling from Melbourne (Australia ) to Bogota (Colombia) tomorrow
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 19:58:59 -0800
+location: nan

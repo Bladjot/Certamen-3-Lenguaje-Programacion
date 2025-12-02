@@ -1,0 +1,7 @@
+568082658741215235
+United
+@united JH: going to process my refund for wifi. its asking for a receipt #? I never received an email- you guys just whacked my credit card
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 08:20:34 -0800
+location: Austin, TX

@@ -1,0 +1,7 @@
+569588816438169600
+American
+@AmericanAir Flight Cancelled Flightled, can't go home until tomorrow. I could use dinner and a play, @AmericanAir! It's my first time in NYC.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 12:05:30 -0800
+location: nan

@@ -1,0 +1,7 @@
+569948928864600064
+Delta
+Too Late Flight. RT “@JetBlue: Our fleet's on fleek. http://t.co/nJ5Ga1gds5”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:56:28 -0800
+location: Bawston

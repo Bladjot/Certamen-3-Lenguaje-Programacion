@@ -1,0 +1,7 @@
+568646628795666432
+US Airways
+@USAirways Mobile boarding pass email.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 21:41:35 -0800
+location: 42.635976,-71.164046

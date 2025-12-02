@@ -1,0 +1,7 @@
+569200619430420480
+Virgin America
+@VirginAmerica I’m looking forward to watching the Oscars on my flight home tomorrow. I might even get something bubbly to drink! ;)
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 10:22:57 -0800
+location: Massachusetts

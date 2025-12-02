@@ -1,0 +1,7 @@
+570271896887017472
+American
+@AmericanAir thanks for the info Is there a number I can call to speak to a person? It's going to take an hour to type it out
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:19:50 -0800
+location: BK

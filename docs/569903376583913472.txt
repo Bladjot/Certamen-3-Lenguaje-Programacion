@@ -1,0 +1,7 @@
+569903376583913472
+US Airways
+@USAirways 603 &amp; 2705 DFW to PSP thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 08:55:27 -0800
+location: Dallas, TX

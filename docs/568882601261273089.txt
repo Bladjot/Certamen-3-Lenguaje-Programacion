@@ -1,0 +1,7 @@
+568882601261273089
+United
+@united its my one and only checked bag, which is checked to edinburgh, however i am being charged randomly from dc to newark
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 13:19:16 -0800
+location: Edinbrah

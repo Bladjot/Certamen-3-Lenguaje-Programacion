@@ -1,0 +1,7 @@
+568582726875516929
+Southwest
+@SouthwestAir where is the great customer service I have come to know/expect; you LUV dropped by EB check in and no help in sight!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 17:27:40 -0800
+location: nan

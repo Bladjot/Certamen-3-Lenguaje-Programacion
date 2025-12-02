@@ -1,0 +1,7 @@
+570007830083854338
+American
+@AmericanAir the group of minor children were broken up into groups. Some still in Miami. Delta has much better customer service!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 15:50:31 -0800
+location: nan

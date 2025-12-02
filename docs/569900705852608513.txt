@@ -1,0 +1,7 @@
+569900705852608513
+American
+@AmericanAir still no response from AA. great job guys!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 08:44:51 -0800
+location: New York City

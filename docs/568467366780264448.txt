@@ -1,0 +1,7 @@
+568467366780264448
+Southwest
+@SouthwestAir not to mention I now have to sit in the airport for 4 hours. You've ruined my trip. I am not happy and want compensation.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 09:49:16 -0800
+location: CT

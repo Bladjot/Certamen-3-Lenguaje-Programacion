@@ -1,0 +1,7 @@
+569585355319599104
+Delta
+@JetBlue I waited 3 hrs for my bags and my flight was only 2 hrs
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 11:51:45 -0800
+location: N Y

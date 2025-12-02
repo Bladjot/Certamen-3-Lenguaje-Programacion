@@ -1,0 +1,9 @@
+569620440613826561
+American
+@AmericanAir 
+
+Seats gvn away. 7 strangers in 2 Chicago. Rented van. Drove to toledo. No help, no offer, no hotel. http://t.co/nxQiJCoJNj
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 14:11:10 -0800
+location: Rossford, Ohio

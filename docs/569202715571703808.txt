@@ -1,0 +1,7 @@
+569202715571703808
+US Airways
+@USAirways the American Eagle plane you're using for CLT to RDU is disgusting! You should be ashamed! #disgusting #ew http://t.co/B4xhiRuGzV
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 10:31:17 -0800
+location: nan

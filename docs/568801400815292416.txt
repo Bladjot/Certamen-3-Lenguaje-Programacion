@@ -1,0 +1,7 @@
+568801400815292416
+Delta
+@JetBlue 290 to Boston
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 07:56:36 -0800
+location: nan

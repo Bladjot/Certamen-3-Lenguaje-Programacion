@@ -1,0 +1,7 @@
+570018445695148033
+United
+@united your customer service is terrible! Stood inline 3 hours no flights and 4 hours Late Flightr still no bag#disgutedindenver
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 16:32:42 -0800
+location: nan

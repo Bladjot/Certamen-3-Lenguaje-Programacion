@@ -1,0 +1,7 @@
+569699279566016512
+US Airways
+@USAirways Just discovered that they billed us $300 for the rescheduled flight, which cost me a second day of lost work.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 19:24:27 -0800
+location: Southeastern Pennsylvania USA

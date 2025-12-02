@@ -1,0 +1,7 @@
+569998992475627521
+American
+@AmericanAir No Meelan did not afford a supervisor to be included in the conversation, pls check the rec of the call #badcustomerservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 15:15:24 -0800
+location: nan

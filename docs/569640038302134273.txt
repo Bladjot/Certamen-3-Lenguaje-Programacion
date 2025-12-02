@@ -1,0 +1,7 @@
+569640038302134273
+American
+As am I, @AmericanAir - but thankfully there was a @united lounge next door. Really not impressed by oneworld partnerships :(
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 15:29:03 -0800
+location: USA

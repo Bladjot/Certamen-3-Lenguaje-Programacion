@@ -1,0 +1,7 @@
+569151232738095105
+Southwest
+@SouthwestAir Been on hold for over an hour - any chance someone can help me on here?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 07:06:42 -0800
+location: nan

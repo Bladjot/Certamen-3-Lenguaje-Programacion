@@ -1,0 +1,7 @@
+567859008230563840
+US Airways
+@USAirways what does "your reservation is 'out of sync.'" mean? On hold w customer service 12 min and want an idea what is up
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 17:31:52 -0800
+location: Wilmington, NC

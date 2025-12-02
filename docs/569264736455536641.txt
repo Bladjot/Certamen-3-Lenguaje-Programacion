@@ -1,0 +1,7 @@
+569264736455536641
+United
+@united u Cancelled Flighted my flight from IAD to JAX. Was supposed to use plane from BNA but u used that plane for another destination instead. 1/2
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 14:37:44 -0800
+location: nan

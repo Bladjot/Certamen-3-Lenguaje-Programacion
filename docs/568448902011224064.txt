@@ -1,0 +1,7 @@
+568448902011224064
+Southwest
+@SouthwestAir My DM won't go through but it is 261633561838. Please let me know if you need anything else.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 08:35:54 -0800
+location: Chicago

@@ -1,0 +1,7 @@
+569846853350457344
+United
+@united unhappy with your new mileage rules :( - was my main reason to keep flying united. Will have to take my business elsewhere
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 05:10:51 -0800
+location: iPhone: -33.875538,151.196533

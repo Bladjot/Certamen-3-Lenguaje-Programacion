@@ -1,0 +1,7 @@
+569939057247023104
+Delta
+😕 RT @JetBlue: Our fleet's on fleek. http://t.co/4KH92mKoTZ
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:17:14 -0800
+location: kingston, jamaica

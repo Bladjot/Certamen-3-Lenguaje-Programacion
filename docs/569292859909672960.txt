@@ -1,0 +1,7 @@
+569292859909672960
+Southwest
+@SouthwestAir Yes! Just a few minutes after my tweet. She was able to reschedule her flight. Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 16:29:29 -0800
+location: Houston, Texas

@@ -1,0 +1,7 @@
+569434598825992192
+US Airways
+@USAirways @jtrexsocial exactly! How? I've been disconnected 3 times!!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 01:52:42 -0800
+location: nan

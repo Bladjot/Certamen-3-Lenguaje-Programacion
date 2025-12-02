@@ -1,0 +1,7 @@
+568191101087019008
+Southwest
+@SouthwestAir Please update your website
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 15:31:29 -0800
+location: Chicago, IL

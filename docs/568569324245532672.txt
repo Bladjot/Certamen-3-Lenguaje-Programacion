@@ -1,0 +1,7 @@
+568569324245532672
+US Airways
+@USAirways @AskPayPal So I contacted my bank. They took the money out today. I also contacted @USAirways they said my reservation is
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 16:34:25 -0800
+location: On my phone, USA

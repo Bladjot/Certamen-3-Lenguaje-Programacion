@@ -1,0 +1,7 @@
+569961680530247681
+American
+@AmericanAir our flight attendant announced that we have transportation waiting for us for that flight so I think we'll make it.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:47:08 -0800
+location: Boston, MA

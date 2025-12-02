@@ -1,0 +1,7 @@
+568949545972961280
+United
+@united not tonight, we got a hotel and after 14hrs of traveling and still not reaching our destination we are disappointed. Thanks
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 17:45:16 -0800
+location: Buck-hio

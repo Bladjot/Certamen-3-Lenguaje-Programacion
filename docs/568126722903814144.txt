@@ -1,0 +1,7 @@
+568126722903814144
+Delta
+@JetBlue I may need to. I had a 40 minute layover and now have a 15 min delay on my first flight.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 11:15:40 -0800
+location: Buffalo NY/ Pinehurst NC

@@ -1,0 +1,7 @@
+569724186173640705
+United
+@united was forced  to book a flight on a different date than originally planned for a higher price $1130 felt like a bait and switch tactic
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 21:03:25 -0800
+location: H-town

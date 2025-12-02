@@ -1,0 +1,7 @@
+569864693998690304
+Southwest
+@SouthwestAir  Just sent DM. Thanks for your attentiveness to this matter.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 06:21:45 -0800
+location: Atlanta, GA

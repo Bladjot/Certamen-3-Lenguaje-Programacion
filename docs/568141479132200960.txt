@@ -1,0 +1,7 @@
+568141479132200960
+US Airways
+@USAirways is there gonna be a better day to call? I've called on 3 separate occasions the past couple of weeks and never get to a person.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 12:14:18 -0800
+location: Chicago, IL

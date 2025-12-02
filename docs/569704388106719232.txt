@@ -1,0 +1,7 @@
+569704388106719232
+American
+@AmericanAir found out my flight tomorrow was Cancelled Flightled &amp; got in the queue for a callback 3.5 hours ago…still nothing. Can I get rebooked??
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 19:44:45 -0800
+location: nan

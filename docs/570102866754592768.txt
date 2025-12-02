@@ -1,0 +1,7 @@
+570102866754592768
+American
+@AmericanAir  it's not cool that my flight was Cancelled Flightled after sitting on the plane for over an hour. 👎😡✈️ #notahappycustomer #leavingtomm
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 22:08:10 -0800
+location: MIA || CHI || NYC

@@ -1,0 +1,7 @@
+569906831352578049
+United
+@united and those three people were awesome working very long hours. It is easy to say sorry on Twitter but you should help your ppl @EWR
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 09:09:11 -0800
+location: nan

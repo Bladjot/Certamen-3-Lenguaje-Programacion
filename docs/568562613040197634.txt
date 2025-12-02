@@ -1,0 +1,7 @@
+568562613040197634
+United
+@united Your boarding process sucks. You should learn from @SouthwestAir
+sentiment: negative
+negativereason: longlines
+created: 2015-02-19 16:07:44 -0800
+location: Chicago, Illinois

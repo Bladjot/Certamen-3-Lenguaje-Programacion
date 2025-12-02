@@ -1,0 +1,7 @@
+567848107456749569
+US Airways
+@USAirways and if the flight is full?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 16:48:33 -0800
+location: Philadelphia Suburbs

@@ -1,0 +1,7 @@
+569826411206316032
+United
+@united an efficient layout at kiosks/bag drop lines would help as there is no definition to space. Additional friendly and helpful staff
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 03:49:37 -0800
+location: nan

@@ -1,0 +1,7 @@
+567775685796589568
+Southwest
+@SouthwestAir I just sent it over
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 12:00:46 -0800
+location: Cleveland, Ohio

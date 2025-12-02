@@ -1,0 +1,7 @@
+568629791869394945
+Southwest
+@SouthwestAir my sinuses had to contend with two painful landings rather than one, and we missed a preregistration window. Beyond frustrated
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 20:34:41 -0800
+location: New York, NY

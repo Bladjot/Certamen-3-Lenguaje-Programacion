@@ -1,0 +1,7 @@
+568094172508336128
+US Airways
+@USAirways Thank you!!! On our way to get her bag now - thanks to having that number 😊
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 09:06:20 -0800
+location: Fernandina Beach, FL

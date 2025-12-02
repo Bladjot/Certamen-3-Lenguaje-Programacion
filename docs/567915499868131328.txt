@@ -1,0 +1,7 @@
+567915499868131328
+Delta
+@JetBlue great trip today!  Thanks to the crew flying us home, they were fantastic! http://t.co/sk6W9XQaQB
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 21:16:21 -0800
+location: nan

@@ -1,0 +1,7 @@
+569419949007085568
+United
+@united nice. I wonder how you pick who to respond to? Maybe only happy customers are easier. I wonder how many of those you have left.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 00:54:29 -0800
+location: nan

@@ -1,0 +1,7 @@
+568951064688373760
+Southwest
+@SouthwestAir thanks for an awesome flight and connection! We were delayed but your staff and crew were purely amazing!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 17:51:19 -0800
+location: Douglaston, NY

@@ -1,0 +1,7 @@
+569287724471066625
+US Airways
+@USAirways an already pleasant flight from London to Charlotte (US733) was made fantastic by an amazing attendant. Thank you so much Robert!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 16:09:05 -0800
+location: London

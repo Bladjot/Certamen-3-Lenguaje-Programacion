@@ -1,0 +1,7 @@
+568589019925368833
+United
+@united another #DELAYED day. #Delayed outbound. #delayed inbound and now waiting at EWR for a gate to be ready. how is it not ready!??
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 17:52:40 -0800
+location: nan

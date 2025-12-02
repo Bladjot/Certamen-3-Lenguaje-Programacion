@@ -1,0 +1,7 @@
+567898186414710784
+Southwest
+@SouthwestAir really enjoying sitting at BWI with the door wide open and the a/c on as they fix a "baggage error" #sarcasm
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 20:07:33 -0800
+location: nan

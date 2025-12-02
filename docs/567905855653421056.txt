@@ -1,0 +1,7 @@
+567905855653421056
+US Airways
+@USAirways that link leads to a website that won't open on a cell phone.  Good job, shocking that your airline is folding.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 20:38:01 -0800
+location: Long Island, NY

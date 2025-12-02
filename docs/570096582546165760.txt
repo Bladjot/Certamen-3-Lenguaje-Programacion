@@ -1,0 +1,7 @@
+570096582546165760
+United
+@united airlines is the absolute worst. They have no idea what they are doing. #neveragain #UnitedAirlines
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 21:43:11 -0800
+location: Rochester, NY

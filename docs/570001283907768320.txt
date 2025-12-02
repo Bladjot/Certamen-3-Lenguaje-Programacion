@@ -1,0 +1,7 @@
+570001283907768320
+US Airways
+@USAirways so I get bumped to the 6pm to Birmingham which is now delayed because the pilots scheduled don't have enough hours together. Fail
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 15:24:30 -0800
+location: nan

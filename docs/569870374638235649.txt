@@ -1,0 +1,7 @@
+569870374638235649
+US Airways
+@USAirways &amp; @AmericanAir what are your weight restrictions for carry on luggage? Can find measurements but not weight restrictions. TIA
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 06:44:19 -0800
+location: nan

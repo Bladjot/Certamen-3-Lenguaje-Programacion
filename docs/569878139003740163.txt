@@ -1,0 +1,7 @@
+569878139003740163
+United
+@united 's new #flierfriendly is garbage. Just had to cry to get attendant to find a place for my medical supplies with limited overhead
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:15:10 -0800
+location: nan

@@ -1,0 +1,7 @@
+569348995136376833
+Delta
+@JetBlue Y U NO LET ME OUT AND MAKE FUN SIZE COOKIES #stuckonaplane #sos #babyfood
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 20:12:33 -0800
+location: New York

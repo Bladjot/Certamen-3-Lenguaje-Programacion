@@ -1,0 +1,7 @@
+567676626855419904
+Southwest
+@SouthwestAir won't answer their phones #HorribleService #NeverAgain #frustrated #AnswerThePhone
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 05:27:09 -0800
+location: America

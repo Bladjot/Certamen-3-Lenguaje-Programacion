@@ -1,0 +1,7 @@
+569664330163200000
+American
+@AmericanAir pls tell me how to get a person on the phone asap
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:05:34 -0800
+location: Philadelphia

@@ -1,0 +1,7 @@
+569972777593262080
+American
+@AmericanAir Miami-PhL flight Cancelled Flightled just as I got to the gate. No one from AA around, no one on the phone. Awful awful awful.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 13:31:14 -0800
+location: nan

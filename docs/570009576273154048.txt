@@ -1,0 +1,7 @@
+570009576273154048
+Southwest
+@SouthwestAir wifi is so slow! What is the point having one if can't get on the Internet?! Ugh...
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 15:57:27 -0800
+location: Carlsbad | CA

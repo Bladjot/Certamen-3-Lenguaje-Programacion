@@ -1,0 +1,7 @@
+569620782566875136
+American
+@AmericanAir is there not an email address I can send my issue to? you guys screwed up and rebooked my flight to the wrong day!  please help
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 14:12:32 -0800
+location: Plano, Texas

@@ -1,0 +1,7 @@
+568542018760286209
+Delta
+@JetBlue I want to enter the family pooling contest, it says "by 2/19" on the website, can I please enter still!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 14:45:54 -0800
+location: nan

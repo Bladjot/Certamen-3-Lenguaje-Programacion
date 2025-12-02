@@ -1,0 +1,7 @@
+568210483959836672
+United
+@united ^JT is the ORD to PHL flight at 9:15 PM (CDT) delayed? DM I'm kinda hoping not to be stranded at ORD either.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 16:48:30 -0800
+location: Wherever.

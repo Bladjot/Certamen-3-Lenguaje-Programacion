@@ -1,0 +1,7 @@
+568793432900177920
+United
+@united WTH be honest with your customers.  This better be the last change or we are driving home.  Has our plane left or not!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 07:24:56 -0800
+location: Elmira, NY

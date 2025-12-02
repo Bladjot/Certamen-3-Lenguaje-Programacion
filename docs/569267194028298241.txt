@@ -1,0 +1,7 @@
+569267194028298241
+Southwest
+@SouthwestAir AH - did DM, no reply. On hold now over 2hrs. Just spent over $1k to get a United flight tmrw to get home. #lame
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 14:47:30 -0800
+location: nan

@@ -1,0 +1,7 @@
+568945562705371136
+Southwest
+@SouthwestAir alist pref doesn't do any good if direct to atl is always wifiless. Flight 1701.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 17:29:27 -0800
+location: Fort Worth, TX

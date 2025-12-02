@@ -1,0 +1,7 @@
+568035703768154112
+United
+@united is pri boarding for "Active Military" or only "In Uniform?" 90% can't travel in uniform for OPSEC reason, even on official travel
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 05:14:00 -0800
+location: Denver, CO

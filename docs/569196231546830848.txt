@@ -1,0 +1,7 @@
+569196231546830848
+Delta
+@JetBlue No changes made. My son's pass printed on same conf #. Just mine not print after I expressed disapptment w/ JetBlue
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 10:05:31 -0800
+location: nan

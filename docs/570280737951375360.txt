@@ -1,0 +1,7 @@
+570280737951375360
+US Airways
+@USAirways You have no idea how upset and frustrated I am right now. I'll be sure to follow through with never flying with you again.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 09:54:57 -0800
+location: Saratoga Springs

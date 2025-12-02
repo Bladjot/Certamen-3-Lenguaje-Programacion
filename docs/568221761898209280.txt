@@ -1,0 +1,7 @@
+568221761898209280
+US Airways
+@USAirways on time today and from PHL! Nice work! #ThereIsAFirstForEverything
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 17:33:19 -0800
+location: dublin, ohio

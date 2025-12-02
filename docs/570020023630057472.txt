@@ -1,0 +1,7 @@
+570020023630057472
+US Airways
+@USAirways just now but no general announcement
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 16:38:58 -0800
+location: nan

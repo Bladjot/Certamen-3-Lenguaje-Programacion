@@ -1,0 +1,7 @@
+569922730008518656
+Southwest
+@SouthwestAir Awesome. Thanks! You guys rock!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:12:22 -0800
+location: Wilmington, North Carolina

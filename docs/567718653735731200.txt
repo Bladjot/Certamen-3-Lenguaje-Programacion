@@ -1,0 +1,7 @@
+567718653735731200
+Southwest
+@SouthwestAir Guys for real. I've been on hold for 4+ hours including one hangup. Please have someone reach out so I can get my $ back.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 08:14:09 -0800
+location: Brooklyn, NY

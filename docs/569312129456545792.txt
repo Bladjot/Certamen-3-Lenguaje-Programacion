@@ -1,0 +1,7 @@
+569312129456545792
+US Airways
+@USAirways so you strand my bag in Philly last Sat and strand me in Philly this Sat. thanks for the bullshit.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 17:46:03 -0800
+location: nan

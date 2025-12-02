@@ -1,0 +1,7 @@
+568788849440063489
+US Airways
+@USAirways suppose I need to tweet everyone how horrible your airline is for you to take notice. Let me try that route.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 07:06:43 -0800
+location: New York, New York

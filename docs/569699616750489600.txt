@@ -1,0 +1,7 @@
+569699616750489600
+US Airways
+@USAirways you're really fudgin up with all these delays 😡 #justwantmybed
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 19:25:47 -0800
+location: ODU swim and dive '17

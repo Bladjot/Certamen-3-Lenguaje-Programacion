@@ -1,0 +1,7 @@
+570218829546024960
+American
+@AmericanAir it's flight 5348
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 05:48:57 -0800
+location: the one and only TEXAS!!!!

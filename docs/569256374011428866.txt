@@ -1,0 +1,7 @@
+569256374011428866
+US Airways
+@USAirways I was told a "return call" by a human
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 14:04:30 -0800
+location: Flyover country

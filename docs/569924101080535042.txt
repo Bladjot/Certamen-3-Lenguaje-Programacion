@@ -1,0 +1,7 @@
+569924101080535042
+Delta
+@JetBlue I want you guys to be the first to fly to #Cuba, from NYC.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:17:49 -0800
+location: nan

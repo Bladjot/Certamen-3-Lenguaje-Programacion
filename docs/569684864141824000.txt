@@ -1,0 +1,7 @@
+569684864141824000
+American
+@AmericanAir we've been on hold for over 4 hrs, you Cancelled Flighted flt 2222 phl-dfw. Need assistance!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:27:10 -0800
+location: nan

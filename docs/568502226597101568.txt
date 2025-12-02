@@ -1,0 +1,7 @@
+568502226597101568
+Delta
+@JetBlue Landed at MCO before 9am and still don't have my bag. You were supposed to give it to Disney's Magical Express this AM.I am livid!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 12:07:47 -0800
+location: NY

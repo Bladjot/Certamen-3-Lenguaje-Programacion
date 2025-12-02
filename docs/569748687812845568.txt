@@ -1,0 +1,7 @@
+569748687812845568
+United
+@united that's why I blame your company. Because it had every opportunity to do a job and managed to fail each time for just lazy reasons
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 22:40:47 -0800
+location: Vancouver, CA

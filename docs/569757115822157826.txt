@@ -1,0 +1,7 @@
+569757115822157826
+American
+@AmericanAir I'm beyond confused here. why would you offer an earlier flight?? when they Cancelled Flightled 2222, I asked for TUES. please fix!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 23:14:16 -0800
+location: Plano, Texas

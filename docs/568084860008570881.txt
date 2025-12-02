@@ -1,0 +1,7 @@
+568084860008570881
+Southwest
+@SouthwestAir @love_dragonss oh my god LAUREN OH MY GOD OH MY GOD
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 08:29:19 -0800
+location: nan

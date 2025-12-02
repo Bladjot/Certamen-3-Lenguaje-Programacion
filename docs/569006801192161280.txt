@@ -1,0 +1,7 @@
+569006801192161280
+Delta
+@JetBlue thanks anyways @SouthwestAir has my back! Awesome rate &amp; amazing customer service #nomoreaggravation
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 21:32:47 -0800
+location: Boston

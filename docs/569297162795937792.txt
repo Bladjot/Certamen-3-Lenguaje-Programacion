@@ -1,0 +1,7 @@
+569297162795937792
+United
+@united I was on UA1069 today and left my sunglasses in seat 26F. Please help me get them back! #UnitedAirlines
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 16:46:35 -0800
+location: New York, NY

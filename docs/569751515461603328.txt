@@ -1,0 +1,7 @@
+569751515461603328
+United
+@united after a Cancelled Flighted flight, and 2 delays, you lost my luggage AGAIN! You're the WORST! Disgraceful! Awful company, horrible service!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 22:52:01 -0800
+location: nan

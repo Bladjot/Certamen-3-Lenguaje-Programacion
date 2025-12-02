@@ -1,0 +1,7 @@
+569143699017371649
+Delta
+@JetBlue When are you guys doing a dualcam with @RedReserve ?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 06:36:46 -0800
+location: Sub to me!

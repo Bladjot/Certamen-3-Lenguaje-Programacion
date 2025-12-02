@@ -1,0 +1,7 @@
+570284934771974144
+United
+@united iah to charlotte. Baggage claim rep latrice h. #customerservice non existent, Ignored customer then inappropriately touched customer
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 10:11:38 -0800
+location: Houston, TX

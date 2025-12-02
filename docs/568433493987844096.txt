@@ -1,0 +1,7 @@
+568433493987844096
+United
+@united I did, and as I thought, nothing happened
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 07:34:40 -0800
+location: nan

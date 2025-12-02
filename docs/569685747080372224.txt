@@ -1,0 +1,7 @@
+569685747080372224
+United
+@united, take a look at status of 683, sitting at ORD ... This ain't cool, yo.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:30:41 -0800
+location: Lexington, Ky

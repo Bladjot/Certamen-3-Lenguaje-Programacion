@@ -1,0 +1,7 @@
+569115097198690305
+United
+@United terrible illogical re-route after Cancelled Flightled connection. Then made me pay to check bag. Then lost bag. #ual
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 04:43:07 -0800
+location: ÜT: 42.706796,-71.210754

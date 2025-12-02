@@ -1,0 +1,7 @@
+567794198095872001
+Delta
+@JetBlue This could be the beginning of a BLUEtiful relationship :) #lifeneedsfrosting
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 13:14:20 -0800
+location: nan

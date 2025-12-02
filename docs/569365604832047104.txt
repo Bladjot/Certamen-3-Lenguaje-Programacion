@@ -1,0 +1,7 @@
+569365604832047104
+US Airways
+@USAirways just hit 4hrs.  what is typical wait time right now? should i drive 2h30m to the airport service desk?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 21:18:33 -0800
+location: Lewes, DE, USA

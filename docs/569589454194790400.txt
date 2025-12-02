@@ -1,0 +1,7 @@
+569589454194790400
+Southwest
+@SouthwestAir is hosting an @TheAcademy party in the terminal in Atlanta. #peanutsonaplatter
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 12:08:02 -0800
+location: Brooklyn

@@ -1,0 +1,7 @@
+568397140977979392
+US Airways
+@USAirways [Part 2 of 2] she tried calling cust serv and the system hung up and her. Twice. Are you having system issues? Please advise.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 05:10:13 -0800
+location: 40.0587, -75.3659

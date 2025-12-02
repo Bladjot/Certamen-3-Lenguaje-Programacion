@@ -1,0 +1,7 @@
+568540062306181120
+US Airways
+@USAirways i tried it but doesnt help very much and Reservation seems to be overwhelmed with some issues
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 14:38:08 -0800
+location: GERMANY

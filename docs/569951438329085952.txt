@@ -1,0 +1,7 @@
+569951438329085952
+American
+@AmericanAir but don't you worry... @Delta took good care of me... Your loss, their gain.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 12:06:26 -0800
+location: Bennington, NE

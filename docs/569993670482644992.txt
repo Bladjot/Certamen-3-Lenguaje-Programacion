@@ -1,0 +1,7 @@
+569993670482644992
+Delta
+STOP @JetBlue
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 14:54:15 -0800
+location: NY

@@ -1,0 +1,7 @@
+570307312675651585
+American
+@AmericanAir Believe me, I understand. Flight #2955. Was originally booked for Sunday. Flight was Cancelled Flighted and rescheduled for today.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 11:40:33 -0800
+location: Frisco, Texas

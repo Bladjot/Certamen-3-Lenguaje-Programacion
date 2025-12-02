@@ -1,0 +1,7 @@
+567752230111936512
+Southwest
+@SouthwestAir how about when there are Cancelled Flightlations you just have a link to rebook like you did for initial storm issues?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 10:27:34 -0800
+location: Washington DC

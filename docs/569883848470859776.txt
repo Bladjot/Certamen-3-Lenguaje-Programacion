@@ -1,0 +1,7 @@
+569883848470859776
+American
+@AmericanAir Any way that we could look at other options for today?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:37:52 -0800
+location: Texas

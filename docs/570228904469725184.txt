@@ -1,0 +1,7 @@
+570228904469725184
+Southwest
+@SouthwestAir has the smoooothest flight attendants. #SouthwestSmoothie http://t.co/Vr9k180LaI
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 06:28:59 -0800
+location: Birmingham, AL

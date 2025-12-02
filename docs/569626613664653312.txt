@@ -1,0 +1,7 @@
+569626613664653312
+Delta
+@JetBlue do you REALLY think it's okay to sit kids away from parents?! Srsly?! Esp after your landing gear failure?? http://t.co/x6SYW3MDVu
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 14:35:42 -0800
+location: nan

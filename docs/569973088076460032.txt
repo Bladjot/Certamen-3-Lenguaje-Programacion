@@ -1,0 +1,7 @@
+569973088076460032
+United
+@united Asked Flight attendant what typical compensation would be &amp; says we might get free TV. #Unacceptable
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 13:32:28 -0800
+location: San Francisco Bay Area

@@ -1,0 +1,7 @@
+570303720308809728
+US Airways
+@USAirways I've been on hold to change a date on a ticket for over 3 hours. Can someone please assist me? Unacceptable.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 11:26:17 -0800
+location: nan

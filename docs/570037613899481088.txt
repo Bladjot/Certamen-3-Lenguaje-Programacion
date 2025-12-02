@@ -1,0 +1,7 @@
+570037613899481088
+American
+@AmericanAir I have been checking consistently, and called multiple times. As a loyal AA customer, I'm disappointed.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 17:48:52 -0800
+location: nan

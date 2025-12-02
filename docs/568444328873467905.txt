@@ -1,0 +1,7 @@
+568444328873467905
+United
+@united what a joke. Hang up on customers!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 08:17:43 -0800
+location: PA

@@ -1,0 +1,7 @@
+568569972529745920
+US Airways
+@USAirways flight 1777 has been waiting for 30 minutes at RSW waiting for weight balance clearance. Come on, let us leave!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 16:36:59 -0800
+location: Vienna, VA

@@ -1,0 +1,7 @@
+569393942296432640
+US Airways
+@USAirways after pleading with car service to stay 3 hrs. past pick up they left me and my family but it's ok i have water and crackers!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 23:11:09 -0800
+location: Bronx, NY

@@ -1,0 +1,7 @@
+569662030984056834
+US Airways
+@USAirways What is happening? Have been sitting in Philly for hours. Pls take care of Flight 759 to Chicago. At least least us know! #soLate Flight
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:56:26 -0800
+location: Indiana

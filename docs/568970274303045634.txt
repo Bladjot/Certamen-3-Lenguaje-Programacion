@@ -1,0 +1,7 @@
+568970274303045634
+US Airways
+@USAirways experience exceptional service from Cherry at #DenverAirport.  #GreatService. #professionalism
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 19:07:39 -0800
+location: Rhode Island-Concord, NC-DMV

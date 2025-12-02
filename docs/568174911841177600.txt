@@ -1,0 +1,7 @@
+568174911841177600
+Southwest
+@SouthwestAir We need help changing a name on a company reservation....We tried calling customer relations but there is a busy signal.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 14:27:09 -0800
+location: Scottsdale, AZ

@@ -1,0 +1,7 @@
+568790015142178816
+US Airways
+@USAirways I've been standing on a very crowded bus for the past 30 mins for DCA-PIT. HELP! @AmericanAir http://t.co/jasKYPLWt5
+sentiment: negative
+negativereason: longlines
+created: 2015-02-20 07:11:21 -0800
+location: Washington, DC, USA

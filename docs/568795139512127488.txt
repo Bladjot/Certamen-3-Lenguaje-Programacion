@@ -1,0 +1,7 @@
+568795139512127488
+Virgin America
+.@VirginAmerica They were very understanding and helped me out.  Thx! #Comps
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 07:31:43 -0800
+location: 39.149054,  -77.273589

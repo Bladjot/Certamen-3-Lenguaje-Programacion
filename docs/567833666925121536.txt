@@ -1,0 +1,7 @@
+567833666925121536
+United
+@united can I get some help changing a ticket.  40 minutes on hold and counting....
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 15:51:10 -0800
+location: nan

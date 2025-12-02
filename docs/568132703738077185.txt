@@ -1,0 +1,7 @@
+568132703738077185
+Delta
+@JetBlue Oh no! I thought it did. :(
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 11:39:26 -0800
+location: Boston, MA

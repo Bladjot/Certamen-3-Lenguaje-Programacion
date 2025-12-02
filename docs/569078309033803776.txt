@@ -1,0 +1,7 @@
+569078309033803776
+Southwest
+@SouthwestAir app error - says click here, can't click not hyperlinked http://t.co/IH5w9nfKz2
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 02:16:56 -0800
+location: Indianapolis, IN

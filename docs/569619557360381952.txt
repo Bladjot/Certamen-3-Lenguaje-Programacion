@@ -1,0 +1,7 @@
+569619557360381952
+United
+@united stay more than 24h traveling ans sleeping on the airports floor
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:07:40 -0800
+location: nan

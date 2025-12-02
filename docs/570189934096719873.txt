@@ -1,0 +1,7 @@
+570189934096719873
+American
+@AmericanAir and @CVGairport get it together, perfect combination for delays and Cancelled Flightlations
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 03:54:08 -0800
+location: Waynesville, OHIO

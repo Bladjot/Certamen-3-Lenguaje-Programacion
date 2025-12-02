@@ -1,0 +1,7 @@
+569867582070591488
+American
+@AmericanAir does that mean my ktn is not in my reservation?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 06:33:13 -0800
+location: nan

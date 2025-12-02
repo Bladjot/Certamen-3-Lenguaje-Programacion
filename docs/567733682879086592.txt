@@ -1,0 +1,7 @@
+567733682879086592
+US Airways
+@USAirways Now I am probably going to miss my connection in Charlotte, so I will have to drive home for the funeral.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 09:13:52 -0800
+location: Queens

@@ -1,0 +1,7 @@
+570270918095695872
+United
+@united our travel booked thru United group dept. Okc ticket agent less than willing to help with our connection in LAX.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 09:15:56 -0800
+location: nan

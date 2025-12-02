@@ -1,0 +1,7 @@
+569697236982104065
+Southwest
+@SouthwestAir yes, please #companionpass
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 19:16:20 -0800
+location: New York, New York

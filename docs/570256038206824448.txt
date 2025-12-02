@@ -1,0 +1,7 @@
+570256038206824448
+American
+Happy #TT to my friends @AmericanAir . Hope the weather isn't causing you too many headaches.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 08:16:49 -0800
+location: Mount Dora, Florida

@@ -1,0 +1,7 @@
+569387765957308416
+US Airways
+@USAirways @AmericanAir Just had to buy a "safety" ticket online. You'll refund whichever ticket(s) are unused, in full, without penalty.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 22:46:36 -0800
+location: Lewes, DE, USA

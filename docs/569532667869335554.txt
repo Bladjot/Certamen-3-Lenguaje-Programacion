@@ -1,0 +1,7 @@
+569532667869335554
+US Airways
+@USAirways @ALfamilyoffour maybe if there was anyone answering the phone they would. "Please call back Late Flightr".For 18 hours? Not good enough
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 08:22:24 -0800
+location: Blackpool

@@ -1,0 +1,7 @@
+569846882291159040
+American
+@AmericanAir Not necessary.  I am confident the excellent in-flight staff will make the appropriate report.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 05:10:58 -0800
+location: nan

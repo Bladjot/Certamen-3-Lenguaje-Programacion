@@ -1,0 +1,7 @@
+569591393540288512
+American
+@AmericanAir Cancelled Flights my flight, doesn't send an email, text or call. Then puts me on way earlier flight I might miss now. Thanks AA!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 12:15:45 -0800
+location: New York City

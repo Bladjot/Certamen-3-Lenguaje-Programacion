@@ -1,0 +1,7 @@
+569923242015764480
+US Airways
+@USAirways They were breathing very heavily. but were super helpful. Thank you.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:14:24 -0800
+location: Watching @Interpol somewhere

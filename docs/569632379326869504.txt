@@ -1,0 +1,7 @@
+569632379326869504
+US Airways
+@USAirways Gave up after more than 2 hours on hold. Still need that receipt; last time it was promised, it never arrived. Help?!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:58:37 -0800
+location: Boston area

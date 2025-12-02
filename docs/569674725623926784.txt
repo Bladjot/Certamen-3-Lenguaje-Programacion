@@ -1,0 +1,7 @@
+569674725623926784
+American
+@americanair Plz bring more agents up to DFW AA Cstmr srvc ctr gates A, there are only 2 agents and 100+ ppl... http://t.co/uCvEU2hurZ
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 17:46:53 -0800
+location: Milwaukee

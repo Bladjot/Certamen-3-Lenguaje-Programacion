@@ -1,0 +1,7 @@
+569954275016765440
+American
+@AmericanAir I've been calling you for 3 straight days and no one picks up. Sure there are storms but there are also #customers Holler!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 12:17:43 -0800
+location: MPLS/ATX/BK

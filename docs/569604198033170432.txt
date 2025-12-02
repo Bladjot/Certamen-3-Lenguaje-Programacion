@@ -1,0 +1,7 @@
+569604198033170432
+Southwest
+@SouthwestAir ridiculous how you want to charge me $209 to change flights even with multiple seats available on the flight I needed
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 13:06:38 -0800
+location: nan

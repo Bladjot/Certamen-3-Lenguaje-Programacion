@@ -1,0 +1,7 @@
+568826215089475584
+United
+@united that may be true however after 4 weeks matter is still unresolved and I can not get through to a supervisor or manager to help
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 09:35:12 -0800
+location: Global

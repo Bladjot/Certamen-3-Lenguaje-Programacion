@@ -1,0 +1,7 @@
+569667782910058496
+American
+@AmericanAir @cyncyn661 Are you now flying 763s to Madrid from JFK or is this DFW/ORD? Huge !!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:19:18 -0800
+location: nan

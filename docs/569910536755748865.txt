@@ -1,0 +1,7 @@
+569910536755748865
+United
+@United has two whole people trying to schedule a flight's worth of missed connections. Shameful http://t.co/6kqLhVaP7G
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 09:23:55 -0800
+location: Arlington, VA

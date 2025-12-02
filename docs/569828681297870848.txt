@@ -1,0 +1,7 @@
+569828681297870848
+American
+@AmericanAir POOR EXPERIENCE 2day at ord chkin. 8 emp. w/3 cust. 10 waiting. Asked to speak w/supervisor. Told 20 min. In a mtg!! What?!?!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 03:58:39 -0800
+location: chicago, il

@@ -1,0 +1,7 @@
+567809695260639232
+Southwest
+@SouthwestAir I do need help Cancelled Flighting my flight back. Your calls times are ridiculous.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 14:15:55 -0800
+location: NASHVILLE,TN

@@ -1,0 +1,7 @@
+569668144198848514
+Delta
+@JetBlue id appreciate that. Would also you mind contacting the pilot of my flight and request that I be allowed to announce over intercom?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:20:44 -0800
+location: Los Angeles, CA

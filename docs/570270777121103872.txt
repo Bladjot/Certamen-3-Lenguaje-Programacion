@@ -1,0 +1,7 @@
+570270777121103872
+American
+@AmericanAir another day another grievance with this airline. No customer service
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 09:15:23 -0800
+location: LBK

@@ -1,0 +1,7 @@
+569630106940895233
+American
+@AmericanAir third you lost her bag &amp; after 50 mins of being on hold you told her she would "eventually get her bag" completely unacceptable
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 14:49:35 -0800
+location: Los Angeles, CA

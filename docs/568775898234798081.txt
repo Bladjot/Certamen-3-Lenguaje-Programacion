@@ -1,0 +1,7 @@
+568775898234798081
+Virgin America
+@virginamerica the manage itinerary section of your website seems to be broken for me https://t.co/2pUJvCElNg
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 06:15:16 -0800
+location: Brooklyn, NY

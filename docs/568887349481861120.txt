@@ -1,0 +1,7 @@
+568887349481861120
+US Airways
+@USAirways Wishing we had our luggage. 2 days now. Had to pay our way from St Thomas to San Juan. Spent extra $$$ because of this mess up.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 13:38:08 -0800
+location: nan

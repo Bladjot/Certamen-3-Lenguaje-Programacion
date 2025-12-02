@@ -1,0 +1,7 @@
+567811713870876672
+Southwest
+@SouthwestAir not as sorry as I was when I sat on a plane for 3 hours waiting for the engine to be fixed and THEN got my luggage lost, but k
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 14:23:56 -0800
+location: CSB/SJU

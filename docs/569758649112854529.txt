@@ -1,0 +1,7 @@
+569758649112854529
+US Airways
+@USAirways Like I thought this was America.  When did US Airways start operating under the rules of communist Russia?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 23:20:22 -0800
+location: Washington, D.C.

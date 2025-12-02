@@ -1,0 +1,7 @@
+569634575653183488
+Delta
+@JetBlue I think I have it selected already ☺️
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:07:20 -0800
+location: nan

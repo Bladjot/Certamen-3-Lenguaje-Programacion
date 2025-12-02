@@ -1,0 +1,7 @@
+569529020892651521
+Delta
+@JetBlue don't think any1 rly knows what's goin on. supposed 2 leave at 8:30a then 9a then 9:30a then 10a then 11a then 11:30a. Now 12
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 08:07:54 -0800
+location: nan

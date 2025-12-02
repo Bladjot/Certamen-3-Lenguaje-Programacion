@@ -1,0 +1,7 @@
+568501242248499201
+US Airways
+@USAirways US airways csr at Phoenix airport fixed the problem
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 12:03:53 -0800
+location: nan

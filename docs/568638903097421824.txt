@@ -1,0 +1,7 @@
+568638903097421824
+US Airways
+@USAirways offloading the plane?!?!?! This is ridiculous!!!!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 21:10:53 -0800
+location: DC

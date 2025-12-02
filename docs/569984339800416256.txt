@@ -1,0 +1,7 @@
+569984339800416256
+American
+@AmericanAir you flew me into Chi instead and I got a ride to MKE. U said my bags would go to MKE today. Is it on the Cancelled Flightled flight tho?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 14:17:11 -0800
+location: Milwaukee

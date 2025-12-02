@@ -1,0 +1,7 @@
+569678813602418688
+Southwest
+@SouthwestAir  how do you get one?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:03:07 -0800
+location: nan

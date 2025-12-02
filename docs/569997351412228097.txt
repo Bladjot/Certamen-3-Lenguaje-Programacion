@@ -1,0 +1,7 @@
+569997351412228097
+United
+@United fucked up, then voided my ticket, and KEPT MY MONEY.  Not even an apology. I will never fly with your airline again. #UnitedAirlines
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 15:08:53 -0800
+location: Liverpool, UK

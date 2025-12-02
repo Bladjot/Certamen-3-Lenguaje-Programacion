@@ -1,0 +1,7 @@
+568964010101514240
+US Airways
+@USAirways only sympathy she offered was holding a reservation until Monday night. That's pretty awesome if you ask me...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 18:42:45 -0800
+location: McKinney TX

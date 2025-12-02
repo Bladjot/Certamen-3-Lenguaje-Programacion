@@ -1,0 +1,7 @@
+568821349688471552
+Southwest
+@SouthwestAir - 800 is not int'l friendly
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 09:15:52 -0800
+location: Everywhere

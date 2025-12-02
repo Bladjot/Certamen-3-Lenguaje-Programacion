@@ -1,0 +1,7 @@
+569418652128296960
+United
+@united averaging 200 minute wait times tonight or what? I've gotten no help from you tonight.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 00:49:20 -0800
+location: nan

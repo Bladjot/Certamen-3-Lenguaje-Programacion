@@ -1,0 +1,7 @@
+568448242804871168
+Southwest
+@SouthwestAir having trouble reFlight Booking Problems a Cancelled Flighted flight. no one picking up phones and your site isn't working.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 08:33:16 -0800
+location: Gone West

@@ -1,0 +1,7 @@
+567815174045868032
+United
+@united no thanks
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:37:41 -0800
+location: san diego

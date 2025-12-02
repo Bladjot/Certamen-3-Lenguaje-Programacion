@@ -1,0 +1,7 @@
+567730390291714048
+US Airways
+@USAirways This is dating back to Nov. I have been sent back and forth between you and @eDreams_en. It's a disgrace.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 09:00:47 -0800
+location: Dublin Raised | Brooklyn Based

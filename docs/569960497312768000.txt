@@ -1,0 +1,7 @@
+569960497312768000
+Delta
+“@JetBlue: Our fleet's on fleek. http://t.co/FVYzjLDTON” 🚶🚶🚶🚶
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:42:26 -0800
+location: Melbourne, Aus

@@ -1,0 +1,7 @@
+568023874970861568
+United
+@united if you're listening, why are you the lowest provider of inflight wifi? Get with the times!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 04:26:59 -0800
+location: Brentwood, CA

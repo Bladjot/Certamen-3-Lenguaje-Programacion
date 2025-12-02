@@ -1,0 +1,7 @@
+569646347705561088
+American
+@AmericanAir @dfwairport listening to all the flights taking off over my house and kicking myself for Flight Booking Problems an AM flight tomorrow. Iceday?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 15:54:07 -0800
+location: Worldwide, based in Dallas, TX

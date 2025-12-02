@@ -1,0 +1,7 @@
+570215343530102784
+American
+@AmericanAir when will the merging of miles between you and @USAirways be complete? Wasn't it this month?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 05:35:06 -0800
+location: nan

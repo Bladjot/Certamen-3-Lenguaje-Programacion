@@ -1,0 +1,7 @@
+567831160978677760
+US Airways
+@USAirways flt 5302 CLT to DAY supposed to depart 5:51; the 6:20...still no crew. #schedule/contact the pilot!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 15:41:13 -0800
+location: Centerville, Ohio

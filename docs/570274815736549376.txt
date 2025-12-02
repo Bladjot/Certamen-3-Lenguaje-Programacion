@@ -1,0 +1,7 @@
+570274815736549376
+Southwest
+@SouthwestAir Yo, I'm trying to make a change to a reservation but whenever I select the flight it says, "Unable to price". Please help!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 09:31:25 -0800
+location: Denver, CO

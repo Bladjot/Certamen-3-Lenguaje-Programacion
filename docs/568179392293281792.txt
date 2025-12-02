@@ -1,0 +1,7 @@
+568179392293281792
+Delta
+@JetBlue do you sell open tickets? I have a sick relative and may have to travel at a moments notice. Sad but true.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 14:44:58 -0800
+location: South Miami Heights, Florida

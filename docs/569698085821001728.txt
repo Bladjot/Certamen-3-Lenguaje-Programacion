@@ -1,0 +1,7 @@
+569698085821001728
+United
+@United "delayed due to customer service" Huh? http://t.co/XlTV5z6sT1
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:19:42 -0800
+location: Boulder, Co

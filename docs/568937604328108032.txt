@@ -1,0 +1,7 @@
+568937604328108032
+US Airways
+@USAirways @AmericanAir are u paying incedentals? #noworstairline
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 16:57:49 -0800
+location: Stamford, Ct

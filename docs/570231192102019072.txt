@@ -1,0 +1,7 @@
+570231192102019072
+American
+@AmericanAir once again flying AA4285, once again 60+ min delay because of mechanical issues. Perhaps you should consider maintenance?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 06:38:05 -0800
+location: nan

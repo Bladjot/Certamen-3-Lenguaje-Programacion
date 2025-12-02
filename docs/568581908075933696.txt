@@ -1,0 +1,7 @@
+568581908075933696
+Southwest
+@SouthwestAir please do something about the speed of your WiFi connections on your planes.  It might as well be non-existent.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 17:24:25 -0800
+location: Raleigh, NC

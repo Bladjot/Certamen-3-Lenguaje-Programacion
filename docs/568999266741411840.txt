@@ -1,0 +1,7 @@
+568999266741411840
+Southwest
+@SouthwestAir Hey southwest! I wanna go to see @Imaginedragons ! You guys are a lot better then jet blue.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 21:02:51 -0800
+location: City of Angels

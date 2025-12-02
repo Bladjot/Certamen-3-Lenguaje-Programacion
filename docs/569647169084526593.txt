@@ -1,0 +1,7 @@
+569647169084526593
+Delta
+@JetBlue ok, tx. Will tell the guy sitting next to me at the gate
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:57:23 -0800
+location: Boston

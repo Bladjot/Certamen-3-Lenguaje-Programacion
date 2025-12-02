@@ -1,0 +1,7 @@
+569480220203474944
+United
+@united I tried.   We were hung up on, twice. After speaking with someone, then put on hold for 45 minutes.  No resolution.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 04:53:59 -0800
+location: ÜT: 43.492878,-96.790916

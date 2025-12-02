@@ -1,0 +1,7 @@
+570288799860846592
+Southwest
+@SouthwestAir they were moved to the 210pm flight #4649. Main concern now is luggage arriving with them. They were told that SW was having
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 10:26:59 -0800
+location: Fort Lauderdale

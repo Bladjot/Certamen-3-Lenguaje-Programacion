@@ -1,0 +1,7 @@
+569621698905022464
+US Airways
+@usairways @AmericanAir LAX connect from term 6 to term 4.  55min layover due to delay. US755-AA2595. Is this realistic? Can 2595 be held?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:16:10 -0800
+location: Lewes, DE, USA

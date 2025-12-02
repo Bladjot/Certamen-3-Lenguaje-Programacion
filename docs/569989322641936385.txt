@@ -1,0 +1,7 @@
+569989322641936385
+US Airways
+@USAirways can you help chairman? I am on flight 686 PHX connect 599 SJC will miss connection can you reroute please.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:36:59 -0800
+location: San Jose, Ca

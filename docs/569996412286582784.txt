@@ -1,0 +1,7 @@
+569996412286582784
+Virgin America
+@VirginAmerica hi! i'm so excited about your $99 LGA-&gt;DAL deal- but i've been trying 2 book since last week &amp; the page never loads. thx!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 15:05:09 -0800
+location: new york, new york

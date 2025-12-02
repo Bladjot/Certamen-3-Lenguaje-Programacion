@@ -1,0 +1,7 @@
+568811022049349633
+US Airways
+@USAirways I needed to be at my destination by lunchtime today. No one could get us on a flight, but I've since learned @Delta had one!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 08:34:50 -0800
+location: nan

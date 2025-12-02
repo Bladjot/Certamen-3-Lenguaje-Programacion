@@ -1,0 +1,7 @@
+569959975566467072
+US Airways
+@USAirways I find it funny that @PHLAirport responds but you don't. Your customer service is the worst. #wedontcarebecauseyoupaidalready
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 12:40:22 -0800
+location: Does it really matter

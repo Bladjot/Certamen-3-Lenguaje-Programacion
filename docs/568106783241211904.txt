@@ -1,0 +1,7 @@
+568106783241211904
+US Airways
+@USAirways your agent did not say
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 09:56:26 -0800
+location: nan

@@ -1,0 +1,7 @@
+569330646901895169
+United
+@united boarding a #plane would be much faster if you boarded back to front instead of front to back #MakesSense #efficiency #travel #flying
+sentiment: negative
+negativereason: longlines
+created: 2015-02-21 18:59:38 -0800
+location: San Diego, CA

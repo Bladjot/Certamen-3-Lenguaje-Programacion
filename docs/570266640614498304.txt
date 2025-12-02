@@ -1,0 +1,7 @@
+570266640614498304
+Southwest
+@SouthwestAir nothing you can do to help us restore some barely-expired #RapidRewards points?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 08:58:56 -0800
+location: Chicago

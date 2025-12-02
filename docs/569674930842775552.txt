@@ -1,0 +1,7 @@
+569674930842775552
+Southwest
+@SouthwestAir I changed my flight through St. Louis. Thanks for the reply though!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:47:42 -0800
+location: UTSA '13

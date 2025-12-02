@@ -1,0 +1,7 @@
+568527517910319104
+United
+@united thanks for making sure they hear the message!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 13:48:17 -0800
+location: BOS, SFO, NYC, ++

@@ -1,0 +1,7 @@
+568617016917168128
+Delta
+@JetBlue Washington DC (:
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 19:43:55 -0800
+location: Boston, MA

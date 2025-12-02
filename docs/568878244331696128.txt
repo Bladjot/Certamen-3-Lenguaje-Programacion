@@ -1,0 +1,7 @@
+568878244331696128
+Southwest
+@SouthwestAir get me on flight 4146 to denver and I'll be more than happy !!!!!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 13:01:57 -0800
+location: Dirty South Jerz

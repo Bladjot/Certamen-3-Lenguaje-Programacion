@@ -1,0 +1,7 @@
+570066554848743424
+Delta
+@JetBlue we would have been up in the air by now. Now our new plane we've been redirected to has mechanical errors aka more delays 2/3
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 19:43:52 -0800
+location: Portland, Maine

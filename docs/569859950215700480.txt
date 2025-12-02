@@ -1,0 +1,7 @@
+569859950215700480
+United
+@united good morning, any first class upgrades available for ua1619 Feb 25  rsw to ewr? I need 4 seats please
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 06:02:54 -0800
+location: Dartmouth, MA

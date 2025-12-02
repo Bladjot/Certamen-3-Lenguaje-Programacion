@@ -1,0 +1,7 @@
+569558377178603520
+US Airways
+@USAirways @corybronze  INCONVENIENCE? Are you people freaking nuts? This guy has TWO KIDS WITH HIM and you STRAND him in an airport! #FAIL
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 10:04:33 -0800
+location: nan

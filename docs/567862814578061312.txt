@@ -1,0 +1,7 @@
+567862814578061312
+US Airways
+@usairways Thanks to Kevin and team at F38ish at PHL for some great service recovery tonight. Appreciate it.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 17:47:00 -0800
+location: Salisbury, MD

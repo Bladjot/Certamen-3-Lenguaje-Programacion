@@ -1,0 +1,7 @@
+568802396907835393
+Virgin America
+@VirginAmerica happy to spend the day together. Let's do this!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 08:00:33 -0800
+location: San Francisco, CA

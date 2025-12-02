@@ -1,0 +1,7 @@
+569670844047192064
+Delta
+.@JetBlue ooookay @ABC that's silly of you. guess we're "watching" the oscars purely on Twitter reactions tonight. #oscars
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 17:31:27 -0800
+location: Brooklyn

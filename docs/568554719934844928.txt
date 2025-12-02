@@ -1,0 +1,7 @@
+568554719934844928
+Delta
+@JetBlue but thank you! Love, an anxious flyer.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 15:36:23 -0800
+location: nan

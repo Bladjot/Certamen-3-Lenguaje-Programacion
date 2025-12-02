@@ -1,0 +1,7 @@
+569143704109215745
+US Airways
+@USAirways paid to upgrade to first class, went up to Admirals club at PHX airport to be turned away because our flight is to CUN and not MC
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 06:36:47 -0800
+location: phoenix, AZ

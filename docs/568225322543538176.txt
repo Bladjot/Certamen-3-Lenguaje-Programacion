@@ -1,0 +1,7 @@
+568225322543538176
+Southwest
+@SouthwestAir Looks like 'On February 19, 2015, we will open our schedule for sale through October 30, 2015' - know what time that will be?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 17:47:28 -0800
+location: Boston, MA

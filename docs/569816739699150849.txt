@@ -1,0 +1,7 @@
+569816739699150849
+American
+@AmericanAir you delayed me for 15 hours in Chicago and still managed to lose my bag! Really not happy
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 03:11:12 -0800
+location: London

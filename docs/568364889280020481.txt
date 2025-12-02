@@ -1,0 +1,7 @@
+568364889280020481
+United
+@united rushed through the -6 degree weather to get to the airport on time. Too bad the pilots didn't do the same. #stillwaiting.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 03:02:03 -0800
+location: Lexington, Kentucky

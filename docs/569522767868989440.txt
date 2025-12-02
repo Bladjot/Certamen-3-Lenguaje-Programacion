@@ -1,0 +1,7 @@
+569522767868989440
+Delta
+@JetBlue flt1533 to Carta what is goin on?! 1st told plane coming from hangar, then gate change, now no one knows wat plane we're getting on
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:43:03 -0800
+location: nan

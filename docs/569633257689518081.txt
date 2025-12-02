@@ -1,0 +1,7 @@
+569633257689518081
+Delta
+@Jetblue  I will keep on tweeting until your CEO answers and personally apologizes to my wife and the passengers of flight 136. Just Wrong!!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 15:02:06 -0800
+location: Long Island - Arizona

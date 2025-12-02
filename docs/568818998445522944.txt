@@ -1,0 +1,7 @@
+568818998445522944
+United
+@united I left headphones in 2A on UA4689 from YHZ-EWR. It's a long shot to see them again. But worth a tweet anyway!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 09:06:32 -0800
+location: YHZ

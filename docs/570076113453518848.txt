@@ -1,0 +1,7 @@
+570076113453518848
+Southwest
+@SouthwestAir making me miss #TheBachelor right now #wah
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 20:21:51 -0800
+location: Los Angeles, CA

@@ -1,0 +1,7 @@
+569668536966053888
+Delta
+@jetblue I'm dissapointed in the way paseengers on flight 0510 in Santo Domingo have been treated. 9hrs to board the plane and no info given
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 17:22:17 -0800
+location: nan

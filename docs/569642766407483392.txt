@@ -1,0 +1,7 @@
+569642766407483392
+American
+@AmericanAir 62 inches !?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:39:53 -0800
+location: SCL

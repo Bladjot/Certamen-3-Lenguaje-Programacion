@@ -1,0 +1,7 @@
+570006830405046272
+American
+@AmericanAir that's the one. My original arrival time was 10:14am, after all said and done I may be there by 9:19pm central. Not impressed.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 15:46:33 -0800
+location: nan

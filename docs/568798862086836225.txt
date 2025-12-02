@@ -1,0 +1,7 @@
+568798862086836225
+Delta
+@JetBlue when your flights delayed :)))&gt;&gt;&gt;
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 07:46:31 -0800
+location: nyc

@@ -1,0 +1,7 @@
+568961737715789824
+United
+@united is UA938 still taking off at 9:05pm? I'm stuck on the tarmac on UA3462 waiting to get in.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 18:33:43 -0800
+location: Crowborough

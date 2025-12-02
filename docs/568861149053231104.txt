@@ -1,0 +1,7 @@
+568861149053231104
+Delta
+@JetBlue I have more flights that I'd love to redeem for some points but they're a little over a year old. Is there a historical limit?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 11:54:01 -0800
+location: Brooklyn, NY

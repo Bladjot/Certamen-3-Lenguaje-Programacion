@@ -1,0 +1,7 @@
+569324719993827329
+Southwest
+@SouthwestAir you have no baggage tracking system?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 18:36:05 -0800
+location: Washington, DC

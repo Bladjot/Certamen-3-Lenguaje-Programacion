@@ -1,0 +1,7 @@
+569799402119770113
+American
+@AmericanAir Can you respond to my DM?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 02:02:18 -0800
+location: San Diego

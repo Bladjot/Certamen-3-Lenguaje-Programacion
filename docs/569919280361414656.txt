@@ -1,0 +1,7 @@
+569919280361414656
+Southwest
+@SouthwestAir it eventually arrived. just seemed really slow. :)
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 09:58:39 -0800
+location: Redlands, CA

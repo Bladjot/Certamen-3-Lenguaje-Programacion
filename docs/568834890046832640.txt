@@ -1,0 +1,7 @@
+568834890046832640
+United
+@united @JedediahBila KP I am not traveling - we trying to cheer up Ms. Bila.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 10:09:40 -0800
+location: nan

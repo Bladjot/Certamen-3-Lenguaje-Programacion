@@ -1,0 +1,7 @@
+568180768804978688
+United
+@united I find this text funny, considering we are still sitting here because 2 seats need to be changed out. http://t.co/LoLuWfCi11
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 14:50:26 -0800
+location: nan

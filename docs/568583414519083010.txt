@@ -1,0 +1,7 @@
+568583414519083010
+Delta
+@JetBlue delayed flight bummer
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 17:30:24 -0800
+location: MA

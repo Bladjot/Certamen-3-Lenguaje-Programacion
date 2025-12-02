@@ -1,0 +1,7 @@
+569248672606597121
+US Airways
+@USAirways already did. I travel for a living, no help at all that it will take 3-4 weeks for any repair. And I have to pay to ship to TX.
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-21 13:33:54 -0800
+location: Knoxville, TN

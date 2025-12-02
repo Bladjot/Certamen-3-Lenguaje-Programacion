@@ -1,0 +1,7 @@
+568090000199270400
+United
+@united of course but they were just as helpless as everyone else .
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 08:49:45 -0800
+location: Wrigley, California ☀

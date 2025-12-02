@@ -1,0 +1,7 @@
+568499798099304449
+US Airways
+@usairways I don't think the US site allows that (unlike http://t.co/etfjqIwUvt). Can I use a US credit if I held on http://t.co/etfjqIwUvt?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 11:58:08 -0800
+location: Waynesboro, VA

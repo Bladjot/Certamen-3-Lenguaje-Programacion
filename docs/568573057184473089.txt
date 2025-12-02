@@ -1,0 +1,7 @@
+568573057184473089
+Southwest
+@SouthwestAir Making Miracles again! The customer service department gave me by far one of the friendliest phone calls ever. #wheelsup
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 16:49:15 -0800
+location: Chicago

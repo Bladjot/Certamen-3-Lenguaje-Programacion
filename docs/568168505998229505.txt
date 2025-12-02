@@ -1,0 +1,7 @@
+568168505998229505
+Delta
+@JetBlue Only wish your ground operation was as expedient as your Twitter response team! Delay just got extended!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 14:01:42 -0800
+location: nan

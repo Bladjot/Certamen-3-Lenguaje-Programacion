@@ -1,0 +1,7 @@
+570045585149063168
+American
+@AmericanAir if it I have not rebooked didn't get notified that it was Cancelled Flightled
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 18:20:33 -0800
+location: Minnesota

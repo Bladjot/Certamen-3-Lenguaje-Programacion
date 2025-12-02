@@ -1,0 +1,7 @@
+567870045981929473
+Southwest
+@SouthwestAir According to TV passenger interviews, the landing was far from "uneventful" with heavy (panic) breaking to
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 18:15:44 -0800
+location: Kalispell Montana

@@ -1,0 +1,7 @@
+568079239343439872
+Southwest
+@SouthwestAir When does PV get approved? I am ready to go!!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 08:06:59 -0800
+location: Sacramento, CA

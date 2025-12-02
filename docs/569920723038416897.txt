@@ -1,0 +1,7 @@
+569920723038416897
+American
+@AmericanAir now the second flight I was put on was Cancelled Flightled with no explanation!! Missed my first meeting!!#outraged😡😡
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 10:04:23 -0800
+location: nan

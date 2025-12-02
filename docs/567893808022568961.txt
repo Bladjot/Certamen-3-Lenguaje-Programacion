@@ -1,0 +1,7 @@
+567893808022568961
+United
+@united big up the pilot of 644 for turning 1hr on the tarmac to just a 20min delayed arrival
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 19:50:09 -0800
+location: OAK

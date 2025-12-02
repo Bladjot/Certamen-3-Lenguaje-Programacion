@@ -1,0 +1,7 @@
+569696881330167808
+United
+@United landed in den on time stuck waiting for gate for 30 min. Maybe an update would be a good idea capt?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 19:14:55 -0800
+location: ÜT: 33.987103,-118.399024

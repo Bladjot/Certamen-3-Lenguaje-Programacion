@@ -1,0 +1,7 @@
+570091270334509056
+US Airways
+@USAirways Hi. I'm in LGA but my luggage is in CLT. Have been told to come back tomorrow to collect. Do you guys want to cover my taxi fare?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 21:22:05 -0800
+location: Porkhampton, England

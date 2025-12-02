@@ -1,0 +1,7 @@
+569871068833435648
+American
+@AmericanAir Thanks, but that results in missing the conference I'm attending. Are there options to book earlier,or if not,receive a refund?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 06:47:05 -0800
+location: nan

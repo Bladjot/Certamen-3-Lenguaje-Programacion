@@ -1,0 +1,7 @@
+567935527481188352
+Delta
+@JetBlue Anywhere warm cause its freezing in NYC
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 22:35:56 -0800
+location: NYC

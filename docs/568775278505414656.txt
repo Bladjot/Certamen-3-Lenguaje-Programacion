@@ -1,0 +1,7 @@
+568775278505414656
+United
+@united gates were DEFINITELY NOT FULL. We were parked and wheels were chocked. Customer service called it an "UNMET ARRIVAL"!!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 06:12:48 -0800
+location: New Jersey

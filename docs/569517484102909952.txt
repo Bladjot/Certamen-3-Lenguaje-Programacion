@@ -1,0 +1,7 @@
+569517484102909952
+United
+@united right as we think we will take off, we stop to get de-iced. Why wasn't this done when the planes were sitting out all night?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 07:22:03 -0800
+location: nan

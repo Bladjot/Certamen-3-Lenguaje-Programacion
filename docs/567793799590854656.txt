@@ -1,0 +1,8 @@
+567793799590854656
+Delta
+@JetBlue 
+Apparently not.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 13:12:45 -0800
+location: Florida, USA

@@ -1,0 +1,7 @@
+568495601471647745
+Southwest
+@SouthwestAir 4467 and 152 on 2/25 and 503 and 25 on 2/26th.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 11:41:28 -0800
+location: Round Rock, TX

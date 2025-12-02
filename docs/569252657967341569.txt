@@ -1,0 +1,7 @@
+569252657967341569
+Delta
+@JetBlue It is physically impossible to make it to the airport, and our flight is scheduled to leave in less than 3 hours.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 13:49:44 -0800
+location: nan

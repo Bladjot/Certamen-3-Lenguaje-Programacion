@@ -1,0 +1,7 @@
+570297548726005761
+American
+@AmericanAir I Cancelled Flighted my flight. I really don’t need this much trouble.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 11:01:45 -0800
+location: North Saanich, BC

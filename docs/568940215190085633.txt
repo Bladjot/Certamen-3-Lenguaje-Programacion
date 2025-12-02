@@ -1,0 +1,7 @@
+568940215190085633
+US Airways
+@USAirways / @AmericanAir are incompetent.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 17:08:12 -0800
+location: Chicago

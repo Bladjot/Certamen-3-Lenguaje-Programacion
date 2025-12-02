@@ -1,0 +1,7 @@
+569647618932002816
+American
+@AmericanAir pretty impressed with the in flight entertainment. Full touch, usable, smooth, good selection.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 15:59:10 -0800
+location: nan

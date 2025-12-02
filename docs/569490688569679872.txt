@@ -1,0 +1,7 @@
+569490688569679872
+US Airways
+@USAirways I really appreciate there not being an easy way to get another flight when mine has been delayed over 2hrs for mechanical reasons
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 05:35:35 -0800
+location: Thicktown, Thickania

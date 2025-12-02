@@ -1,0 +1,7 @@
+568731988082999296
+United
+@united  oh united, how much I despise thee!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 03:20:47 -0800
+location: minneapolis

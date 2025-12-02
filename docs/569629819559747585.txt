@@ -1,0 +1,7 @@
+569629819559747585
+United
+@united why are your agents working so slowly to rebook people who are on #UA1481. We have all wasted an entire day at STT.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:48:26 -0800
+location: London, ON

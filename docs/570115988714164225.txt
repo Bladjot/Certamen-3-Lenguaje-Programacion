@@ -1,0 +1,7 @@
+570115988714164225
+American
+@AmericanAir but your flight crews &amp; ground crews have handled situation well. Texting notification let me catch a few winks during delay.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 23:00:18 -0800
+location: Houston

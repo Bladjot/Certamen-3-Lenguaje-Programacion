@@ -1,0 +1,7 @@
+568146157534367744
+Virgin America
+@VirginAmerica got it. All set - Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 12:32:54 -0800
+location: CT

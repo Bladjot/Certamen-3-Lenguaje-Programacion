@@ -1,0 +1,7 @@
+568779311261622272
+US Airways
+@USAirways that the flight was delayed &amp; closed the doors only to tell us we would not be leaving for an hour and a half. Bad, bad service
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 06:28:49 -0800
+location: On a beach

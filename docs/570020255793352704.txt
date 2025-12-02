@@ -1,0 +1,7 @@
+570020255793352704
+Delta
+@JetBlue we're home, you guys recovered, now we can laugh about it and the extra day in barbados. Will you open Cuba soon?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 16:39:54 -0800
+location: Long Island, NY

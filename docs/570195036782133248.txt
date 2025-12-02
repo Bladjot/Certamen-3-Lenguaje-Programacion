@@ -1,0 +1,7 @@
+570195036782133248
+Delta
+@JetBlue why are you always so amazing! #jetblue #trueblue http://t.co/iIMTJxcvLG
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 04:14:25 -0800
+location: boston ma

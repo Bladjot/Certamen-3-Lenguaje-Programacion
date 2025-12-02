@@ -1,0 +1,7 @@
+570160120698679296
+United
+@united customer service is atrocious! You have disrupted my travel plans, you have lost my luggage and it is impossible to TALK TO A HUMAN
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 01:55:40 -0800
+location: iPhone: 55.946030,-3.189382

@@ -1,0 +1,7 @@
+569982742198251520
+US Airways
+@USAirways I have never had a more unpleasant travel experience in my life. Now I might not get on my flight till tomorrow? This is insane
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 14:10:50 -0800
+location: Brooklyn, NY

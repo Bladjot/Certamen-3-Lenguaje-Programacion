@@ -1,0 +1,7 @@
+569974766393823233
+American
+@AmericanAir WHERE IS MY BAG?!?!?!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 13:39:08 -0800
+location: nan

@@ -1,0 +1,7 @@
+569734065697353729
+United
+@united I'm desperately trying to understand how my girlfriend is being treated with this Cancelled Flightled/delayed flight.  #unacceptable #ORD
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 21:42:41 -0800
+location: Grand Rapids

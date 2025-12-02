@@ -1,0 +1,7 @@
+570001183600812033
+American
+@AmericanAir No snow in St. Louis. Cold but no snow. Hub flights welcome.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 15:24:06 -0800
+location: St. Louis, Missouri USA

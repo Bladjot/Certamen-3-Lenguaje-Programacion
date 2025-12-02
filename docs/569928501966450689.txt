@@ -1,0 +1,7 @@
+569928501966450689
+American
+@AmericanAir okay. I just sent it.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:35:18 -0800
+location: nan

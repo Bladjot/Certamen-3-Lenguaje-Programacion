@@ -1,0 +1,7 @@
+569186762947493888
+United
+@united no announcement re extra baggage, "find an empty bin" down to aisle 20 back up with baggage to my seat row 7. YOUR agents argueing
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 09:27:53 -0800
+location: ONTARIO CANADA

@@ -1,0 +1,7 @@
+569536791830798336
+US Airways
+@USAirways worse experience. Clt to DC. Oversold by 20, lost CARRY ON luggage.Cancelled Flightled connecting flight to NYC. #flydelta
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 08:38:47 -0800
+location: nan

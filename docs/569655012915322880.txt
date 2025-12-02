@@ -1,0 +1,7 @@
+569655012915322880
+American
+@AmericanAir any idea what's up with flight AA3181?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 16:28:33 -0800
+location: Ann Arbor, MI

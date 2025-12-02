@@ -1,0 +1,7 @@
+569724257879502848
+United
+@united is it even legal for you guys to advertise flights that you cant honor??
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 21:03:42 -0800
+location: H-town

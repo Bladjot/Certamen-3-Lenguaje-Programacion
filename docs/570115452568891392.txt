@@ -1,0 +1,7 @@
+570115452568891392
+United
+@united It's still a valid flight. Just seems strange to delay for Late Flight inbound crew,  7 hours from now, when the plane is already here.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 22:58:10 -0800
+location: All over, but mostly NorCal

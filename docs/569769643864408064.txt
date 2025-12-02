@@ -1,0 +1,7 @@
+569769643864408064
+American
+@AmericanAir @robinreda being stuck two days in the airport is not something pretty normal. I am positive you can find a plane to Europe
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 00:04:03 -0800
+location: Londres

@@ -1,0 +1,7 @@
+569278644943757312
+Delta
+@JetBlue thanks for your prompt response. I know you put safety first. Unfortunately will hit freezing rain/sleet on ride home.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 15:33:00 -0800
+location: nan

@@ -1,0 +1,7 @@
+570054495943720960
+US Airways
+@USAirways Expedia reserved a ticket for me and 2 more for a USAW flight but only issued 1. They are not responsive.Thoughts?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 18:55:57 -0800
+location: nan

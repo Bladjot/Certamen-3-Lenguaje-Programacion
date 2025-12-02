@@ -1,0 +1,7 @@
+569667805643034624
+Southwest
+“@SouthwestAir: Companion Pass. Because everyone deserves #RedCarpet treatment and a +1 (even if it's your mom). http://t.co/QjKL4aBprG”
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:19:23 -0800
+location: nan

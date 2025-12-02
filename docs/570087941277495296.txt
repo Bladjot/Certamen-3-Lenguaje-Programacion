@@ -1,0 +1,7 @@
+570087941277495296
+Southwest
+@SouthwestAir wifi stays connected about the lifetime of a higgs boson
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 21:08:51 -0800
+location: la

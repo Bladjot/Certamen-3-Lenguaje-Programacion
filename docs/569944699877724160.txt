@@ -1,0 +1,7 @@
+569944699877724160
+American
+@AmericanAir Thank u! Did reach out to both and have not had a response yet. Lost and Found goes straight to VM.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:39:40 -0800
+location: New York

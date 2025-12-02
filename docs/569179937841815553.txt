@@ -1,0 +1,7 @@
+569179937841815553
+Delta
+@JetBlue Will do.  I'll tell him you say hey.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 09:00:46 -0800
+location: Virginia Beach, VA

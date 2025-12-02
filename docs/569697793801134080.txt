@@ -1,0 +1,7 @@
+569697793801134080
+United
+@united what about the poor customer service at checkin at Kansas KCI?!? That's it???
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:18:33 -0800
+location: Ireland

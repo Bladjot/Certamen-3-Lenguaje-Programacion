@@ -1,0 +1,7 @@
+567744627143213056
+Southwest
+@SouthwestAir Thanks a ton!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 09:57:21 -0800
+location: Nashville, TN

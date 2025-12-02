@@ -1,0 +1,7 @@
+569282844155125761
+Southwest
+@SouthwestAir I'm here @ChicagoMidway airport.  I've waited 3 hours for my bag. No one knows shit. Mgmt knows nothing.  #Very mad customer
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 15:49:41 -0800
+location: Colorado

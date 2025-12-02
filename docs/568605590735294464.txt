@@ -1,0 +1,7 @@
+568605590735294464
+US Airways
+@USAirways thanks for overFlight Booking Problems first class and automatically downgrading my upgrade 3 min before boarding. #ffstatusdontmatter #thenewaa
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 18:58:31 -0800
+location: World Traveler

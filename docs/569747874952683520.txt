@@ -1,0 +1,7 @@
+569747874952683520
+Delta
+@JetBlue flight was two days ago. Flight 1918 from POS.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 22:37:33 -0800
+location: nan

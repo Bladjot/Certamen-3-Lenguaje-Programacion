@@ -1,0 +1,7 @@
+569522479049400320
+US Airways
+@USAirways My family, friends and colleagues will NEVER  fly USAir again. Bad weather happens. The good airlines seem to communicate better.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 07:41:54 -0800
+location: nan

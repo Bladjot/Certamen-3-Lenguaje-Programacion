@@ -1,0 +1,7 @@
+568450407204139008
+Delta
+@JetBlue Utah, I think. And thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 08:41:53 -0800
+location: New York City

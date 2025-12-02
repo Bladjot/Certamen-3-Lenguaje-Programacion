@@ -1,0 +1,7 @@
+568057346607460354
+United
+@united I submitted a status match last week and have not heard back. Im a delta customer looking to switch to United. Please assist.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 06:40:00 -0800
+location: nan

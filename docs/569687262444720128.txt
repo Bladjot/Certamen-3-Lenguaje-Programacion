@@ -1,0 +1,7 @@
+569687262444720128
+US Airways
+@USAirways - I wouldn't need to wait on hold for 6+ hours if your website worked correctly - please respond!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:36:42 -0800
+location: nan

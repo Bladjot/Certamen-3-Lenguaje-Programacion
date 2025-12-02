@@ -1,0 +1,7 @@
+569986794797842433
+US Airways
+@USAirways your customer service # has a recording that says we are to busy to assist and hangs up. Great touch. #poorservice @GMA @CBSNews
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:26:56 -0800
+location: NY

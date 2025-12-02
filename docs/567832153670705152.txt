@@ -1,0 +1,7 @@
+567832153670705152
+US Airways
+@USAirways Thanks. It would be better from the gate agent at C14 in Charlotte boarding flight 1791.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 15:45:09 -0800
+location: Charlotte, North Carolina

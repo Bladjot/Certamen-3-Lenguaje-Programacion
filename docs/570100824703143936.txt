@@ -1,0 +1,7 @@
+570100824703143936
+American
+@AmericanAir gate agents disappeared and customer service agents were miserable and unhelpful. #letdown #neveragain
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 22:00:03 -0800
+location: nan

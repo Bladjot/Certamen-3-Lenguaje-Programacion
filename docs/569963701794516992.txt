@@ -1,0 +1,7 @@
+569963701794516992
+American
+@AmericanAir here is the ticket they gave me after lying, raising their voice. With no explanation on what happened http://t.co/31cFHtK60r
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 12:55:10 -0800
+location: nan

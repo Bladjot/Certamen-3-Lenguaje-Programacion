@@ -1,0 +1,7 @@
+568158732930191360
+Delta
+@JetBlue I can't pay 30 bucks xD
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 13:22:52 -0800
+location: Logan International Airport

@@ -1,0 +1,7 @@
+570255201069899776
+American
+@AmericanAir Can't unload flight #3322 because jetway is broken.  #steps #planB? #waiting nearly an hour
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 08:13:29 -0800
+location: Texas

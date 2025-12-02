@@ -1,0 +1,7 @@
+569862767236255744
+Southwest
+@SouthwestAir how about fixing the wifi!  3rd flight where it's not working. 800 series plane so not like it's an old plane.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 06:14:05 -0800
+location: Old Hickory, TN

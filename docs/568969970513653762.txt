@@ -1,0 +1,7 @@
+568969970513653762
+US Airways
+@USAirways literally the worst flying experience of my life, and I have flown a lot
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 19:06:26 -0800
+location: California

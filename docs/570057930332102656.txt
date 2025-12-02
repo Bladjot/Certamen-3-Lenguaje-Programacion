@@ -1,0 +1,7 @@
+570057930332102656
+United
+@united Thanks for the reminder. It's been a fun ride. http://t.co/pPVA4Rch9f
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 19:09:36 -0800
+location: nan

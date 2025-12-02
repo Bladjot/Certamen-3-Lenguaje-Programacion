@@ -1,0 +1,7 @@
+569970775517741056
+American
+@AmericanAir Hi, did the discount award policy for credit card holders change? No longer seeing the chart of specials on the site. Thanks!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:23:17 -0800
+location: NYC

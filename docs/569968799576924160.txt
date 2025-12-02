@@ -1,0 +1,7 @@
+569968799576924160
+US Airways
+@USAirways so it's a $25.00 bag fee for a golf bag on a domestic flight?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:15:25 -0800
+location: mclean, va

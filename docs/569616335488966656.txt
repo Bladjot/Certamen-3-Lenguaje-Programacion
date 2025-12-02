@@ -1,0 +1,7 @@
+569616335488966656
+American
+@AmericanAir fcuk you. Shit service. You got no fans.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:54:51 -0800
+location: nan

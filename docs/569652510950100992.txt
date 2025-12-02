@@ -1,0 +1,7 @@
+569652510950100992
+American
+@AmericanAir Kid upset, my staff upset (one accused of stealing fruit!!!!!) mistreatment due to airline policy of an Austic child.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 16:18:36 -0800
+location: everywhere

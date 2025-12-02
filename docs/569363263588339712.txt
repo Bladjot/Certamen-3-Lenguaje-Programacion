@@ -1,0 +1,7 @@
+569363263588339712
+US Airways
+@USAirways #Wronganswer. Talk is cheap. Customer service is the action of making things right for the customer. #fail again.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 21:09:14 -0800
+location: nan

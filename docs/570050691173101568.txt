@@ -1,0 +1,7 @@
+570050691173101568
+Southwest
+@SouthwestAir if I am enrolled in the ATL companion pass offer and booked 3 flights already before May 17 when can I start using the pass?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 18:40:50 -0800
+location: ATL

@@ -1,0 +1,7 @@
+569169274109100032
+US Airways
+@USAirways @SeanVRose Sean - keep in mind if you call...plan on being on hold for 3+ hours
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 08:18:24 -0800
+location: nan

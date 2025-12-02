@@ -1,0 +1,7 @@
+570213762948567040
+Delta
+@JetBlue Offering Special Fares to @GoPureGrenada @discovergrenada http://t.co/MBcEhCSZX3 @CaribbeJan @islandexpert http://t.co/2Zm4jkAlZl
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 05:28:49 -0800
+location: South Florida

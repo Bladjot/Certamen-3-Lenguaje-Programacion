@@ -1,0 +1,7 @@
+569650320613052416
+United
+@united what a long day of delays. Please get us to Dallas tonight!!!!  Fingers crossed!!!  #winterstorm2015 #whichisworsedenordfw.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:09:54 -0800
+location: nan

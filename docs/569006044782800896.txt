@@ -1,0 +1,7 @@
+569006044782800896
+United
+@united lax29108m make it happen please else on a cruise with no luggage tomorrow
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 21:29:47 -0800
+location: nan

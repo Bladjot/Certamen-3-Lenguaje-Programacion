@@ -1,0 +1,7 @@
+567890265416945664
+Delta
+@JetBlue's new CEO seeks the right balance to please passengers and Wall ... - Alaska Highway News http://t.co/tynchOeLac
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 19:36:04 -0800
+location: USA

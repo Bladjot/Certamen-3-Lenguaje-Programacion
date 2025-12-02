@@ -1,0 +1,7 @@
+568543722943614976
+Southwest
+@SouthwestAir do you have any tickets to the Atlanta show? I would love to go with my sister ♥️🙏
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 14:52:41 -0800
+location: nan

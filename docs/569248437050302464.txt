@@ -1,0 +1,7 @@
+569248437050302464
+Virgin America
+@VirginAmerica can you please get me to the new york area before monday afternoon
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 13:32:58 -0800
+location: okayville, population me

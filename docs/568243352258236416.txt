@@ -1,0 +1,7 @@
+568243352258236416
+Southwest
+@SouthwestAir if a passngr requires wheelchair to gt on plane then sits in an exit row, wld they b physically capable to help in emergency?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 18:59:07 -0800
+location: nan

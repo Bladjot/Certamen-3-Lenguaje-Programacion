@@ -1,0 +1,7 @@
+568547839636332544
+Delta
+@JetBlue offers hot tea and coffee...at the gate! You guys make me wonder why I have ever flown any other airlines! ☕✈👍
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 15:09:02 -0800
+location: MA & NJ

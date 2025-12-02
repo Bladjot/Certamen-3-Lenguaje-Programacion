@@ -1,0 +1,7 @@
+569757977785184256
+US Airways
+@USAirways there's over 50 people in line and only one agent!
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 23:17:42 -0800
+location: Washington, D.C.

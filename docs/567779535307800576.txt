@@ -1,0 +1,7 @@
+567779535307800576
+Delta
+@JetBlue Connecticut❄️
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 12:16:04 -0800
+location: Clinton, CT

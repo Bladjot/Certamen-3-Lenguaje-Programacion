@@ -1,0 +1,7 @@
+568149287948967936
+Southwest
+@SouthwestAir I'm not sure I did the messaging part right. Please let me know if you received it.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 12:45:20 -0800
+location: tampa, fl

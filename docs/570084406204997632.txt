@@ -1,0 +1,7 @@
+570084406204997632
+US Airways
+@USAirways   No one picks up the phone all day/  no opportunity to leave a voicemail
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 20:54:48 -0800
+location: nan

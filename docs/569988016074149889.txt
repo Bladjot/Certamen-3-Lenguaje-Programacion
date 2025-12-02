@@ -1,0 +1,7 @@
+569988016074149889
+American
+@AmericanAir oh I did. All I received back was an email saying " delays happen".. Uh huh..
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:31:47 -0800
+location: Gilbert, AZ

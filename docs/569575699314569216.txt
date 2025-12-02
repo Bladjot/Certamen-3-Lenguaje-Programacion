@@ -1,0 +1,7 @@
+569575699314569216
+Delta
+@JetBlue Perhaps you need to start recruiting @msbgu ;)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 11:13:23 -0800
+location: Washington, D.C.

@@ -1,0 +1,7 @@
+568180928746369027
+Southwest
+@SouthwestAir @LeeAnnHealey I was all, yeah sale fares! I got places to fly! Oh damn, right, I live where SWA doesn't fly. #why
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 14:51:04 -0800
+location: nan

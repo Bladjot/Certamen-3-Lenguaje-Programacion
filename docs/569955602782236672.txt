@@ -1,0 +1,7 @@
+569955602782236672
+United
+@united This must be a drone “@united: @KeamBleam We understand your frustration. Our Bag team is working hard to get your bag(s) to you..."
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 12:22:59 -0800
+location: Harlem, NYC

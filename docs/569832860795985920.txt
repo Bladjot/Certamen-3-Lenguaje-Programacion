@@ -1,0 +1,7 @@
+569832860795985920
+American
+@AmericanAir I Love American Airlines :D
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 04:15:15 -0800
+location: New York City

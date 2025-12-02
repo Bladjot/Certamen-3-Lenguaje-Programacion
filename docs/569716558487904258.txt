@@ -1,0 +1,7 @@
+569716558487904258
+United
+@united considering it. Currently gold on @delta. Why should I make the jump for an upcoming flight from SFO to Singapore?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 20:33:07 -0800
+location: San Francisco, Ca

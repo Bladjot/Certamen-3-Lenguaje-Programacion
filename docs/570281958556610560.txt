@@ -1,0 +1,7 @@
+570281958556610560
+American
+@AmericanAir lost my cats, missed their flights, kept them crated 30 hrs for a  would-be 5 hr trip. You'll never touch my pets again.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 09:59:48 -0800
+location: City by the Bay

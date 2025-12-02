@@ -1,0 +1,7 @@
+568394432900431872
+US Airways
+@USAirways lol thanks to you we had to switch to American http://t.co/Sl6BDRXfN8
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 04:59:27 -0800
+location: nan

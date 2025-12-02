@@ -1,0 +1,7 @@
+569641234769309696
+United
+@united EVERYTIME I fly UR airline I hate you even more ! Thanks for the terrible service on flight 1071
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 15:33:48 -0800
+location: nan

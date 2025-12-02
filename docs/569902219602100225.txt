@@ -1,0 +1,7 @@
+569902219602100225
+United
+@united follow back and I'll give you the details.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 08:50:52 -0800
+location: Bardstown, KY

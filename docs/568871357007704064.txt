@@ -1,0 +1,7 @@
+568871357007704064
+United
+@united Another terrible experience with United. Discrimination. Delays. And no help from customer service #united #notimpressed
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 12:34:35 -0800
+location: Chicago

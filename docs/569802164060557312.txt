@@ -1,0 +1,7 @@
+569802164060557312
+American
+@AmericanAir who do I need to talk to to get a full refund on my trip? Your call center offers no assistance.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 02:13:16 -0800
+location: Edmonton

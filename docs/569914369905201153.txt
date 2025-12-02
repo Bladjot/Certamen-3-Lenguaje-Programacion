@@ -1,0 +1,7 @@
+569914369905201153
+United
+@united Okay thanks if you could please update me. I was told at the airport someone would call me today but they haven't.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:39:08 -0800
+location: nan

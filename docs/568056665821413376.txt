@@ -1,0 +1,7 @@
+568056665821413376
+Delta
+.@JetBlue 4 min response time. I'm impressed! I'm in. It's official.  :-) #trueblue  JetBlue gets social.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 06:37:17 -0800
+location: New York

@@ -1,0 +1,7 @@
+570251909447192577
+US Airways
+@USAirways @Beamske how about a real live person talk to the person whose luggage was lost for 4 days and vacation wrecked . @yorkshire2002
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 08:00:24 -0800
+location: Kentucky

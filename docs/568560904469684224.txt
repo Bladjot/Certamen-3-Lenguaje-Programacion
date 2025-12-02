@@ -1,0 +1,7 @@
+568560904469684224
+Southwest
+@SouthwestAir will you please work out a contract with @triflight to offer service there..
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 16:00:57 -0800
+location: johnson city tn

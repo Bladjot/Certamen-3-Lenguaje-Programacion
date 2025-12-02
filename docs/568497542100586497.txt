@@ -1,0 +1,7 @@
+568497542100586497
+United
+@united I see you tweeting as little as 7 min ago. Are you just ignoring my CS request? #CantLogOutOfUnitedWifi
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 11:49:10 -0800
+location: nan

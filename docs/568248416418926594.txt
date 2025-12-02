@@ -1,0 +1,7 @@
+568248416418926594
+United
+@united Funny thing happened, we arrived on our flight from Denver at the same gate we are currently scheduled to depart for Sydney at! LOL!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 19:19:14 -0800
+location: Brisbane, Australiaaa!

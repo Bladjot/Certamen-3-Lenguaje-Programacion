@@ -1,0 +1,7 @@
+570293289045364736
+US Airways
+@USAirways getting sorted, thanks
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 10:44:50 -0800
+location: nan

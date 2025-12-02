@@ -1,0 +1,7 @@
+568422454609219584
+US Airways
+@USAirways they had to turn the seat cushions over and clean the area. Please explain this issue?
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-19 06:50:48 -0800
+location: Here. There. Everywhere.

@@ -1,0 +1,7 @@
+569643614113918976
+American
+@AmericanAir 1416 Cancelled Flightled? Can't get out for two days? No explanation?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 15:43:15 -0800
+location: nan

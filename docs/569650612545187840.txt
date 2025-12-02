@@ -1,0 +1,7 @@
+569650612545187840
+Delta
+@JetBlue hey me and my family have questions on a trip to Disney world that we are doing in April . Please follow me so I could dm you guys
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:11:04 -0800
+location: NYC ❄️ / COL

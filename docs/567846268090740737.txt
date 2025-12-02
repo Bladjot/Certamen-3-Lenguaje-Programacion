@@ -1,0 +1,7 @@
+567846268090740737
+Delta
+@JetBlue I agree!!!  If only there was a frequent tweeter discount so I could fly to see more friends! 😀@Tinman2IronMan @meggersrocks
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 16:41:15 -0800
+location: Arlington, Virginia

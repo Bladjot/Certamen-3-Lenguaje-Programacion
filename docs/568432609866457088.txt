@@ -1,0 +1,7 @@
+568432609866457088
+Delta
+@JetBlue managers telling us to write a letter because we're upset about our tickets to leave tomorrow getting Cancelled Flightled without any notice
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 07:31:09 -0800
+location: nan

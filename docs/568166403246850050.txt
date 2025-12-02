@@ -1,0 +1,7 @@
+568166403246850050
+United
+I will, if you can show me where this new program is beneficial to your longstanding loyal consumers... @united
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 13:53:21 -0800
+location: Arlington, VA

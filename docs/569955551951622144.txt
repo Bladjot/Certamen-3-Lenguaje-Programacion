@@ -1,0 +1,7 @@
+569955551951622144
+United
+@united Change made in just over 3 hours. For something that should have taken seconds online, I am not thrilled. Loved the agent, though.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 12:22:47 -0800
+location: San Francisco CA

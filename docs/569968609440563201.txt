@@ -1,0 +1,7 @@
+569968609440563201
+US Airways
+@USAirways is okay for u 2 Cancelled Flight change a flight when good 4 u but you cant logistically figure out what 2 do when a plane comes in on time
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 13:14:40 -0800
+location: Does it really matter

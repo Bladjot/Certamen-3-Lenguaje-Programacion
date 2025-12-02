@@ -1,0 +1,7 @@
+569075488926371841
+United
+@united we are trying to go as far away from King'sCollegeLondon as possible for #charity today. Would you help us ? #jailbreak #RAG
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 02:05:44 -0800
+location: Orleans/Tarpon Springs/London

@@ -1,0 +1,7 @@
+569876553196285952
+American
+@AmericanAir keep trying to call to change reservation and you keep hanging up on me
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:08:52 -0800
+location: Nashville

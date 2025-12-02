@@ -1,0 +1,7 @@
+569536168301211649
+US Airways
+@USAirways color me confused but why would i need to call and do this. Update your procedures and policies. You can see who is connecting
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 08:36:18 -0800
+location: America

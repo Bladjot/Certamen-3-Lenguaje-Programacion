@@ -1,0 +1,9 @@
+569542114234671104
+Southwest
+@SouthwestAir 
+
+Just realized I had the wrong departure date. Thanks for making changes easy!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 08:59:56 -0800
+location: Columbus, OH

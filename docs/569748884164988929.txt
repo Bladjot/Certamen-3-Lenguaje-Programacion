@@ -1,0 +1,7 @@
+569748884164988929
+United
+@united One of your workers refused to give me her name as a reference for my notes. Her tone &amp; language was very unprofessional.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 22:41:34 -0800
+location: SD || CA

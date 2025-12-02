@@ -1,0 +1,7 @@
+569678749056294913
+American
+@AmericanAir aa223 being ignored
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:02:52 -0800
+location: Cape Cod

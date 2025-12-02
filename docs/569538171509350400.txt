@@ -1,0 +1,7 @@
+569538171509350400
+United
+@united feeling like a true united customer stuck.on the tarmac in dc for over 2 hrs. UNITEDFAIL
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 08:44:16 -0800
+location: nan

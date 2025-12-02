@@ -1,0 +1,7 @@
+568599168949886977
+United
+@united 4840 WTF! Why can't you update your times in a timely manner? You've known the fight was more delayed! Ur service is awful! @CNN
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 18:33:00 -0800
+location: DC/SF/BFLO

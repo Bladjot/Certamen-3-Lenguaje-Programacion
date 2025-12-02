@@ -1,0 +1,7 @@
+568807947423375360
+US Airways
+@USAirways 2133. Flight now Cancelled Flightled. Have been rebooked on 2pm flight. If on time take off, I'll have spent 5 extra hours at DCA.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 08:22:37 -0800
+location: Indianapolis & environs

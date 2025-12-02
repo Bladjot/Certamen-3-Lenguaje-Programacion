@@ -1,0 +1,7 @@
+569946428547551233
+Southwest
+@SouthwestAir pretty terrible customer service. Sat on hold 10 min. Then a busy signal. Then disconnected. Do all airlines have to suck?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:46:32 -0800
+location: Missouri

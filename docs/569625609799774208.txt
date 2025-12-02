@@ -1,0 +1,7 @@
+569625609799774208
+Virgin America
+@VirginAmerica, @reallytallchris dropped a track on you... https://t.co/zv2pt6TRK9
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 14:31:43 -0800
+location: nan

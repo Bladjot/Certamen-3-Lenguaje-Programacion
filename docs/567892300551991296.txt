@@ -1,0 +1,7 @@
+567892300551991296
+US Airways
+@USAirways Awesome USAir, TYSVM &lt;3
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 19:44:10 -0800
+location: IL,USA

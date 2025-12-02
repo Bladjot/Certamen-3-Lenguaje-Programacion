@@ -1,0 +1,7 @@
+570047651875594240
+Delta
+@JetBlue if i ask ask the pilot will he tell me the name of our aiecraft
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 18:28:45 -0800
+location: Logan International Airport

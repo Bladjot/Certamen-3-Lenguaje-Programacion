@@ -1,0 +1,7 @@
+568123193577177089
+US Airways
+@USAirways my number is 214-725-1966.  CANT WAIT...LOL #usairsucks
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 11:01:39 -0800
+location: nan

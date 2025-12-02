@@ -1,0 +1,7 @@
+570067529206358016
+United
+@united agent helps the person in front of me.  Finishes up with them and then walks away.  The guy behind me is as shocked as I am.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 19:47:44 -0800
+location: Rocklin, CA

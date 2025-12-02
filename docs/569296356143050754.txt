@@ -1,0 +1,7 @@
+569296356143050754
+United
+@united congratulations united. Fail again. Sky at a gate with a plane full of people waiting on 2. Weather gets worse now we can't leave.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-21 16:43:22 -0800
+location: Montana, God's country

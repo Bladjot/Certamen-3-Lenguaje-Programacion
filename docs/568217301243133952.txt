@@ -1,0 +1,7 @@
+568217301243133952
+United
+@united Flight 1640 (N33289) arrives at @FlyTPA following flight from @iah http://t.co/RvCDA2nnme
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 17:15:36 -0800
+location: Englewood, Florida

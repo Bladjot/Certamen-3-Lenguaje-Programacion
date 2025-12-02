@@ -1,0 +1,7 @@
+567745903474540545
+Virgin America
+@VirginAmerica my flight (6000) scheduled for 1pm departure still says on time but no plane at gate. Any update on how long of a delay?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 10:02:26 -0800
+location: Washington, DC

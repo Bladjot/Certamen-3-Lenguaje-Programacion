@@ -1,0 +1,7 @@
+570058190647271424
+United
+@united not just refunded, but for those of us who are on vacation to get a free room night to make up for making us sleep in DIA
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 19:10:38 -0800
+location: nan

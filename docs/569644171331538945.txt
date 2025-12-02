@@ -1,0 +1,7 @@
+569644171331538945
+United
+@united seriously? 45 min on the plane at bhm and now 30 min in baggage and still no bags? #worstairlineever
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 15:45:28 -0800
+location: nan

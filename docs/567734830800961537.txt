@@ -1,0 +1,7 @@
+567734830800961537
+US Airways
+@USAirways when I call it says y'all are too busy and to call back Late Flightr.  this is terrible customer service.  what will you do about it?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 09:18:26 -0800
+location: Austin, TX

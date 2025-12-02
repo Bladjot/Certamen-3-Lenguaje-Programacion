@@ -1,0 +1,7 @@
+568373623737556992
+US Airways
+@USAirways can they change to correct last name? Did via reservations already but said can't change ticket name..
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 03:36:46 -0800
+location: nan

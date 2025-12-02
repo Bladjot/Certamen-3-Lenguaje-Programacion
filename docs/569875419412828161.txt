@@ -1,0 +1,7 @@
+569875419412828161
+American
+@AmericanAir how are the runways at DFW? Will you be flying Late Flightr today? Thanks.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:04:22 -0800
+location: The Republic of Texas

@@ -1,0 +1,7 @@
+568961016782036992
+United
+@united you're right. Good you caught the mechanical failure. Too bad there are no blankets. But ok.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 18:30:51 -0800
+location: Washington DC

@@ -1,0 +1,7 @@
+568893685397483522
+Southwest
+@SouthwestAir heyo! What is causing flight 1836 ewr to hou to be delayed?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 14:03:18 -0800
+location: BRKLYN, NY

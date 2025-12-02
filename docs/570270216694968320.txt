@@ -1,0 +1,7 @@
+570270216694968320
+Southwest
+@SouthwestAir I think I get a faster response on Twitter than I do when I call...what's up with that?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 09:13:09 -0800
+location: nan

@@ -1,0 +1,7 @@
+568843439107919872
+Southwest
+@SouthwestAir understood. Just frustrating, you buy early bird check on the day they go on sale at 6:30am and get mid 'b'. Feel ripped off.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 10:43:39 -0800
+location: nan

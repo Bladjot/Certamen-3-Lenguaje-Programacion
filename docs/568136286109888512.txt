@@ -1,0 +1,7 @@
+568136286109888512
+US Airways
+@USAirways I've done everything. Still no luck in finding my bag. I don't understand how my bag could have been misplaced. Very upsetting.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 11:53:40 -0800
+location: nan

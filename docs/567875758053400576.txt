@@ -1,0 +1,7 @@
+567875758053400576
+Southwest
+@SouthwestAir Glad it was finally resolved too. Too bad I can't get a free voucher to go with mine so I can have a friend travel next time!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 18:38:25 -0800
+location: nan

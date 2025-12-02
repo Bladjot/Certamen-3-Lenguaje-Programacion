@@ -1,0 +1,7 @@
+567800315093979138
+US Airways
+@USAirways I have now called 12 times in the last three days. That's unacceptable. I'm willing to wait on hold, but that's not an option.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 13:38:38 -0800
+location: Charlottesville, Virginia

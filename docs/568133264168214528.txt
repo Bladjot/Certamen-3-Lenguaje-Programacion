@@ -1,0 +1,7 @@
+568133264168214528
+Southwest
+@SouthwestAir 8FKQW is the conf #. Thanks for the reply
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 11:41:40 -0800
+location: Dallas, TX

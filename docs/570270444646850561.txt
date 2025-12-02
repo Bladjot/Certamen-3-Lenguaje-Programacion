@@ -1,0 +1,7 @@
+570270444646850561
+American
+@AmericanAir car accident on my way to the airport. Missed flight from rno to dca. Trying to resched but your line has 2 hr wait
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 09:14:03 -0800
+location: Washington, DC

@@ -1,0 +1,7 @@
+569878388464177152
+United
+@united space. Doctors' notes and everything. And on my first trip they lost my first suitcase. Among other issues- not pleased with #united
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 07:16:10 -0800
+location: nan

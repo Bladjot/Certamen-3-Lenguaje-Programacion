@@ -1,0 +1,7 @@
+569974423903715328
+American
+@AmericanAir I paid using Paypal online and after I was charged there was a "System Error" which is what I ended up calling about.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 13:37:46 -0800
+location: Michigan, US

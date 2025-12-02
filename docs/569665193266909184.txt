@@ -1,0 +1,7 @@
+569665193266909184
+American
+@AmericanAir its pulling away from gate to get your departure time then leaving us on tarmac claiming power issues that magically repaired
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:09:00 -0800
+location: Dallas, Texas

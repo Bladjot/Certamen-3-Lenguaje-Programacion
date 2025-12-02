@@ -1,0 +1,7 @@
+568804416662454272
+Delta
+@JetBlue mechanical failure isn't Boston' fault.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 08:08:35 -0800
+location: nan

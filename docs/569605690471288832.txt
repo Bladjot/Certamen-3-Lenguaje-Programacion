@@ -1,0 +1,7 @@
+569605690471288832
+US Airways
+@USAirways thank you for correctly interpreting my last tweet as non sarcastic and delaying my flight again. YYZ Terminal 3 dance party?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 13:12:34 -0800
+location: Kingston ontario Canada

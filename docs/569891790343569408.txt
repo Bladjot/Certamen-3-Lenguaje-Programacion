@@ -1,0 +1,7 @@
+569891790343569408
+American
+@AmericanAir No. I was told I got put on another flight and that I would get an email. Still haven't gotten one yet.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 08:09:25 -0800
+location: Evansville - LA - NOLA

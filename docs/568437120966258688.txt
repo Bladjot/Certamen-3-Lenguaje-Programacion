@@ -1,0 +1,7 @@
+568437120966258688
+United
+@united For my Grandma Ella's 80th, she would love a birthday greeting from your flight crew! She was a stewardess for Eastern Airlines.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 07:49:05 -0800
+location: Long Island, NY

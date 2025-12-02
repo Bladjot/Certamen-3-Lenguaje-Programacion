@@ -1,0 +1,7 @@
+569158629443502081
+Delta
+@JetBlue Fliers to Gain Access to WSJ Content - Analyst Blog - Nasdaq http://t.co/dWEse7Xidr
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 07:36:06 -0800
+location: USA

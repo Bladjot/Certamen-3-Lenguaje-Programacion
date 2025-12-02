@@ -1,0 +1,7 @@
+569653423836045312
+American
+@AmericanAir - very upset with my hometown airline. Stuck in Den Flt Cancelled Flightled. Others here with me got new Flt info
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 16:22:14 -0800
+location: nan

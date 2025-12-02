@@ -1,0 +1,7 @@
+567735239456194560
+Delta
+@JetBlue unfortunately no, but hoping I can catch one sometime in the near future!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:20:03 -0800
+location: San Francisco

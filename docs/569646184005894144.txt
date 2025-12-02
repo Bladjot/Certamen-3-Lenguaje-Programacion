@@ -1,0 +1,7 @@
+569646184005894144
+Delta
+@JetBlue how about free wifi on flt 1254 out of PBI to make up for 2.5 hr delay? Treat us right.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:53:28 -0800
+location: nan

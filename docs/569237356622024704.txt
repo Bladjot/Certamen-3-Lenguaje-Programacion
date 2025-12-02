@@ -1,0 +1,7 @@
+569237356622024704
+United
+@united I hope not to see the same issue on my return flight tomorrow
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 12:48:56 -0800
+location: nan

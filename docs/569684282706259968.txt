@@ -1,0 +1,7 @@
+569684282706259968
+United
+@united You load our plane at ORD knowing pilots are 2 hrs Late Flight, then discover plane needs to be fueled? #WTF #united #incompetent
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:24:51 -0800
+location: Los Angeles, CA

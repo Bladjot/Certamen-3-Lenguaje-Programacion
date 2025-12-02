@@ -1,0 +1,7 @@
+568132935037132800
+Virgin America
+@VirginAmerica Your back of seat entertainment system does not accept credit cards that  have an apostrophe in the surname. #apostrophefail
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 11:40:21 -0800
+location: San Francisco, CA

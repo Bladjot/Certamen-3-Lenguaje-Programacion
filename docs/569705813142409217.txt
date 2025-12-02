@@ -1,0 +1,7 @@
+569705813142409217
+United
+@united Thanks for the vague canned response that doesn't address the issue!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:50:25 -0800
+location: san francisco, ca

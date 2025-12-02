@@ -1,0 +1,7 @@
+569124496990466051
+US Airways
+@USAirways Sitting on the runway at phl for the last 30 min because the correct weights for the flight aren't in the system? #jobfail
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 05:20:28 -0800
+location: Earth

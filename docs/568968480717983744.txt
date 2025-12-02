@@ -1,0 +1,7 @@
+568968480717983744
+United
+@united you asked me to DM then ignore them. Please assist in changing to another flight today- 21 Feb fra to mco avoiding IAD.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 19:00:31 -0800
+location: Obersulzbach, Germany

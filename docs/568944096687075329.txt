@@ -1,0 +1,7 @@
+568944096687075329
+United
+@united made me remove 1 pound from my checked bag otherwise they would charge me $200. Loyal flier for 10 years - time for change.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 17:23:37 -0800
+location: Silver Spring

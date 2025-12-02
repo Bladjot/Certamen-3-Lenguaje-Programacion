@@ -1,0 +1,7 @@
+570099716379316224
+American
+@AmericanAir arrived +-10pm eastern. Had to deplane on the CRJs airstairs to an icy Tarmac. Valet bags sent to carousel, so it was 10:20pm.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 21:55:38 -0800
+location: nan

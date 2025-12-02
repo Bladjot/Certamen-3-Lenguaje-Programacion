@@ -1,0 +1,7 @@
+568142526110019584
+Virgin America
+@VirginAmerica Only thing I see on passbook is Virgin Mobile Mexico. How do I integrate?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 12:18:28 -0800
+location: CT

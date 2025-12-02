@@ -1,0 +1,7 @@
+569710072491745280
+United
+@united here we go again. 2 of 3 segments SFO--New York RT were delayed OVER 2 hrs each! Why do you suck so BAD!?!Maybe another line of bus?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 20:07:20 -0800
+location: Danville CA

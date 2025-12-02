@@ -1,0 +1,7 @@
+567738680945958913
+US Airways
+@USAirways I booked a flight yesterday but didnt receive an email confirmation and I my dividends number isn't registering. Please help.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-17 09:33:44 -0800
+location: nan

@@ -1,0 +1,7 @@
+569345076406693888
+US Airways
+@USAirways not happy w/ app Late Flightly. Last time I flew wouldn't let me check in, This time I checked in went on Late Flightr says I never checked in
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 19:56:58 -0800
+location: nan

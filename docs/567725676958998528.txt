@@ -1,0 +1,7 @@
+567725676958998528
+Delta
+@JetBlue what's the link for #FlyFi
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 08:42:03 -0800
+location: nan

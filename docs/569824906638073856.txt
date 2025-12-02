@@ -1,0 +1,7 @@
+569824906638073856
+United
+@united - 75% of a plane's passengers boarding in your "Premier" groups might be an indication of a broken process.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 03:43:39 -0800
+location: P.R.O.B.

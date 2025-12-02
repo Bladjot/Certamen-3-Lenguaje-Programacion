@@ -1,0 +1,7 @@
+568512284202438656
+US Airways
+@USAirways Your gate team are polite. But your planes are habitually Late Flight. In many cases, passengers are waiting for the flight crew!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 12:47:45 -0800
+location: The alternate universe

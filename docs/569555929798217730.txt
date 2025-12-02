@@ -1,0 +1,7 @@
+569555929798217730
+US Airways
+@USAirways overloads small plane with extra baggage and then. Has to take them off... Poor execution #4435, 75 minute delay...
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 09:54:50 -0800
+location: nan

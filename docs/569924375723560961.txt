@@ -1,0 +1,7 @@
+569924375723560961
+Delta
+Please don't. RT “@JetBlue: Our fleet's on fleek. http://t.co/gdzadXzBYA”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:18:54 -0800
+location: Chapel Hill, NC

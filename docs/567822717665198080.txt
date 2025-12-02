@@ -1,0 +1,7 @@
+567822717665198080
+US Airways
+@USAirways 2 and a half hours on hold... Hope it feels good to be a steaming pile of shit.  @AmericanAir paid far too much for you.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 15:07:40 -0800
+location: Vancouver, WA

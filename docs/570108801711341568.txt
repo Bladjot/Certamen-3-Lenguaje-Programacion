@@ -1,0 +1,7 @@
+570108801711341568
+United
+@united Outbound 2 bags 70 lbs bags Returning home 1 bag 50 lbs. What is your logic? And WHY? Am I writing to a Machine? Human HELP required
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 22:31:45 -0800
+location: Huntsville AL USA

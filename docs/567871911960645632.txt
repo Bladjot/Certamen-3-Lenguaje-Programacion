@@ -1,0 +1,7 @@
+567871911960645632
+Delta
+@JetBlue now when I call it's still at the warehouse and might be going out tonight
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 18:23:09 -0800
+location: nan

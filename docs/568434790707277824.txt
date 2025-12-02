@@ -1,0 +1,7 @@
+568434790707277824
+Southwest
+@SouthwestAir @FortuneMagazine I DO like your airlines, congrats! : )
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 07:39:49 -0800
+location: Northwest

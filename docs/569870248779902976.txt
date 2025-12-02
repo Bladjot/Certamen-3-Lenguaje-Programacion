@@ -1,0 +1,7 @@
+569870248779902976
+US Airways
+@USAirways i worked with you and bought my own rental car when you failed to get me to the location i paid to get to and now....
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 06:43:49 -0800
+location: nan

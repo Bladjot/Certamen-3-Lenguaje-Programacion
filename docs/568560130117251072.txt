@@ -1,0 +1,7 @@
+568560130117251072
+US Airways
+@USAirways we got our bags today. Thanks!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 15:57:53 -0800
+location: ÜT: 41.233943,-74.3966664

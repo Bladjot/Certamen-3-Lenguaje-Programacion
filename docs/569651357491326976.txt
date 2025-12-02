@@ -1,0 +1,7 @@
+569651357491326976
+American
+@AmericanAir Cancelled Flighted our flight and now are still delayed...NOT COOL.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 16:14:01 -0800
+location: New York, NY

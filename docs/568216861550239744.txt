@@ -1,0 +1,7 @@
+568216861550239744
+Delta
+@JetBlue works with Google #chrome but not Internet Explorer.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 17:13:51 -0800
+location: #ManorvilleInExile

@@ -1,0 +1,7 @@
+569830322357084160
+American
+@AmericanAir even when I did get through, no one knew anything about my bag. This is ridiculous, I still don't have my bag from Saturday.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 04:05:10 -0800
+location: nan

@@ -1,0 +1,7 @@
+569277477652172800
+US Airways
+@USAirways had to Cancelled Flight 4 of my flights because my versace biceps wouldn't stow completely under the seat in front of me.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 15:28:21 -0800
+location: Maine

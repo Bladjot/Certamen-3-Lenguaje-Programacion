@@ -1,0 +1,7 @@
+569678568692719616
+US Airways
+@USAirways   US AIRWAYS DON'T CARE FOR CUSTOMERS. Worst experience today with US airways.. Myself, wife and toddler
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:02:09 -0800
+location: nan

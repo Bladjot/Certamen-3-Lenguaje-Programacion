@@ -1,0 +1,7 @@
+569911555967442944
+Southwest
+@SouthwestAir yep. 99.99999999% certain it was on that flight.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 09:27:58 -0800
+location: nan

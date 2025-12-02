@@ -1,0 +1,7 @@
+569602897572450305
+Delta
+@JetBlue every time I look at the flight status, 30 more minutes is added to the delay. How about some points for trouble??
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 13:01:28 -0800
+location: nan

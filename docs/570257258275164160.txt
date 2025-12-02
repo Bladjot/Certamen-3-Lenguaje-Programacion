@@ -1,0 +1,7 @@
+570257258275164160
+American
+@AmericanAir Flight 2559 it's been delayed every hour since 8:55 am.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 08:21:39 -0800
+location: nan

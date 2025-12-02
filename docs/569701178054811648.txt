@@ -1,0 +1,7 @@
+569701178054811648
+United
+@united Made@it to the gate at 8:23 and they wouldn't let us on. http://t.co/xAToxBnsFa
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 19:32:00 -0800
+location: nan

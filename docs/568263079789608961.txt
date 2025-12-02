@@ -1,0 +1,7 @@
+568263079789608961
+United
+@united get a clue. I am a 1K/2mm miler and that is the response you give?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 20:17:30 -0800
+location: Mill Valley, CA

@@ -1,0 +1,7 @@
+570271791400112129
+United
+@united I will not be flying you again
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 09:19:24 -0800
+location: nan

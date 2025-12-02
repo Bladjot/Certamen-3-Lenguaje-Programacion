@@ -1,0 +1,7 @@
+569604425238454273
+American
+@AmericanAir my flt is at 7a tom. I have now rec'd notification that I'm going out from some other airport
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 13:07:32 -0800
+location: ÜT: 40.881241,-73.107717

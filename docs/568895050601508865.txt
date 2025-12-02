@@ -1,0 +1,7 @@
+568895050601508865
+US Airways
+@USAirways there is a travel advis for nyc and phil PA  -winter weather- but U.S. Air hasn't posted one yet. Can I still change flt wo pen?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 14:08:44 -0800
+location: nan

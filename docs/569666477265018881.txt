@@ -1,0 +1,7 @@
+569666477265018881
+Virgin America
+@VirginAmerica i need to change my flight thats scheduled in 9 hours and 120 min wait time on phone. Im calling intern. Help!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:14:06 -0800
+location: NYC

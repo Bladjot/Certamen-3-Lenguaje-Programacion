@@ -1,0 +1,7 @@
+569795913788428288
+Southwest
+@SouthwestAir thank you for Cancelled Flighting my flight, last minute of course, to #GIS2015. I'm now missing one full day of my trip thanks to this!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 01:48:26 -0800
+location: Effingham, IL

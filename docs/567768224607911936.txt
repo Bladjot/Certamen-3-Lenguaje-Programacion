@@ -1,0 +1,7 @@
+567768224607911936
+US Airways
+@USAirways @Jack_Kairys your site clearly explains we are allowed a carry on. This was allowed at PIT but not BOS. How does that make sense?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 11:31:08 -0800
+location: nan

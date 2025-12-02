@@ -1,0 +1,7 @@
+570014602903339008
+American
+@AmericanAir Was not on board you today just watched report unfold on Twitter but still am very proud!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 16:17:26 -0800
+location: Hants/Surrey, UK

@@ -1,0 +1,7 @@
+569180231782801408
+US Airways
+@USAirways seems to be the only airline without a dedicated line for status members
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 09:01:56 -0800
+location: nan

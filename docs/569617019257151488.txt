@@ -1,0 +1,7 @@
+569617019257151488
+United
+@united and I was denied an upgrade because of catering issues??? #poorservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:57:35 -0800
+location: nan

@@ -1,0 +1,7 @@
+569504763957653504
+Southwest
+@SouthwestAir while you clearly didn't care about our troubles yday thought I'd share bags took &gt;90min and came back absolutely drenched..
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 06:31:31 -0800
+location: nan

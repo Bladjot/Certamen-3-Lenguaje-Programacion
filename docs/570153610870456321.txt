@@ -1,0 +1,7 @@
+570153610870456321
+American
+@AmericanAir Thank you for the acknowledgement. The IFE didn't work all that well anyway so maybe time to upgrade to lower profile system.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 01:29:48 -0800
+location: Tucson

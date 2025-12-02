@@ -1,0 +1,7 @@
+568149600403660800
+United
+@united Thanks - it's very helpful to understand that the reduced price seats that are sold at check-in have priority over the certificates.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 12:46:35 -0800
+location: Fremont, California

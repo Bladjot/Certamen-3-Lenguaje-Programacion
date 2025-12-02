@@ -1,0 +1,7 @@
+569503518224211968
+Delta
+@JetBlue Great service from PBI to HPN! Thanks.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 06:26:34 -0800
+location: nan

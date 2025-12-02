@@ -1,0 +1,7 @@
+569648713980715010
+American
+@AmericanAir flight 3056 in D/FW now delayed 2 hours waiting sitting in plane for baggage to be loaded - why?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:03:31 -0800
+location: Springfield, Illinois

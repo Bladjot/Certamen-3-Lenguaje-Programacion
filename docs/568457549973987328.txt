@@ -1,0 +1,7 @@
+568457549973987328
+United
+@united whom can I call to discuss - as I was told that united has no phone contact with passengers  - this is absurd...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 09:10:16 -0800
+location: nan

@@ -1,0 +1,7 @@
+569728283568418816
+American
+@AmericanAir booked AA3370 departing JFK 2/25/15. It was booked via BA and I want to change my FF# to AA can you do that for me via Twitter?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 21:19:42 -0800
+location: nan

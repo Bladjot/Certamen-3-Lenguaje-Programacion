@@ -1,0 +1,7 @@
+569132310110588928
+Southwest
+@SouthwestAir Flight 4315 (N231WN) taxis at @FlyTPA prior to flight to @Fly_Nashville http://t.co/IDRa8keNoH
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 05:51:31 -0800
+location: Englewood, Florida

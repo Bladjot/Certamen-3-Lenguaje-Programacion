@@ -1,0 +1,7 @@
+569914552382418944
+American
+@AmericanAir is 2513 and 1555 on time or Cancelled Flightled?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 09:39:52 -0800
+location: 'Merica

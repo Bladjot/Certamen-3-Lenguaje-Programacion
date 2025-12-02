@@ -1,0 +1,7 @@
+569608866138173440
+United
+@United Personal Device Entertainment system is great but with app crashing every 10/15 mins I'm glad it's free for now.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 13:25:11 -0800
+location: Aylesbury United Kingdom

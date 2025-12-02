@@ -1,0 +1,7 @@
+568440930593697792
+Southwest
+@SouthwestAir unfortunately no, it's my lack of status that's the big problem. My company policy forces me to buy the cheapest tickets
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 08:04:13 -0800
+location: Seattle

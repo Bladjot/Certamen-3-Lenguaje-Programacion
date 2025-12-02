@@ -1,0 +1,7 @@
+569727223990775808
+American
+@AmericanAir She got to the gate just in time to watch the plane push back. 5 minutes was all she needed. Glad we’ve relatives nearby.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 21:15:29 -0800
+location: Raleigh, NC

@@ -1,0 +1,7 @@
+569683334311366656
+Southwest
+@SouthwestAir no delay. I pay $777.70 for BS A1 ticket. You boarded flight early. I'm last to board. Now have middle seat. Wasted $$$$!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:21:05 -0800
+location: South Texas

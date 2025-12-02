@@ -1,0 +1,7 @@
+570012549631975424
+US Airways
+@USAirways @AmericanAir need to check candy w working flight 449 iah to phx on usairways she is the reason I always choose @Delta #rude
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 16:09:16 -0800
+location: citizen of the world

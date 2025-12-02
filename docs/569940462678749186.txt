@@ -1,0 +1,7 @@
+569940462678749186
+US Airways
+@USAirways what's the deal with flight 5268 from DCA to PHL? We boarded on time, left the gate a few mins Late Flight and are now sat on Tarmac?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 11:22:49 -0800
+location: nan

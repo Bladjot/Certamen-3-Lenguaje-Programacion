@@ -1,0 +1,7 @@
+570082819025838080
+American
+@AmericanAir on our way now
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 20:48:30 -0800
+location: nan

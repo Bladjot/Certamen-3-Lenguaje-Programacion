@@ -1,0 +1,7 @@
+568126169008218112
+Southwest
+@SouthwestAir please expedite missing bag claim #3526665682. Thanks!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 11:13:28 -0800
+location: nan

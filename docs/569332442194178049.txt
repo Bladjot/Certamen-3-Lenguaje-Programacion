@@ -1,0 +1,7 @@
+569332442194178049
+Southwest
+@SouthwestAir Cancelled Flightled all flights Fort Lauderdale to Philly. USAir flights got to Philly with no problem. WTF is wrong with SW @USAirways
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 19:06:46 -0800
+location: Havertown, Pa.

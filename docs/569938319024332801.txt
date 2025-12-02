@@ -1,0 +1,7 @@
+569938319024332801
+American
+@AmericanAir You don't care about keeping your customers safe or at least you didn't care about my sister
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 11:14:18 -0800
+location: Belle MO

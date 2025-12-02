@@ -1,0 +1,7 @@
+569327664919498752
+US Airways
+@USAirways please respond to me. I've been on hold on the reservations line for an hour and 45 minutes. I would really appreciate it.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 18:47:47 -0800
+location: Denver, CO

@@ -1,0 +1,7 @@
+569727488131092481
+American
+@AmericanAir your customer service is a disgrace.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 21:16:32 -0800
+location: nan

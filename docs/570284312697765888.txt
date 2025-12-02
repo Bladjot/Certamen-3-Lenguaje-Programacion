@@ -1,0 +1,7 @@
+570284312697765888
+United
+@united Kewl. Will also let them know the overhead bin over my row was "Inop". I love a good abbreve.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:09:10 -0800
+location: Los Angeles

@@ -1,0 +1,7 @@
+569907323650633728
+US Airways
+@USAirways Hi guys! Are flights 5594 and 3937 still on time? The site and app are both down and I can't check. Thanks!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 09:11:08 -0800
+location: Melbourne, Australia

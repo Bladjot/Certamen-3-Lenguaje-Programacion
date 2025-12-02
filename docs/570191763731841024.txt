@@ -1,0 +1,7 @@
+570191763731841024
+American
+@AmericanAir is rising like the sun at DCA this morning.  @NATCA members have the best view. #avgeek http://t.co/VAhdekVOKe
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 04:01:24 -0800
+location: KFDK

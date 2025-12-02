@@ -1,0 +1,7 @@
+568258726668443648
+US Airways
+@USAirways : i was told my ticket expired but  i never recvd any notice  before it expired .This sucks.i paid 40k miles &amp; $125 for the tckt
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 20:00:12 -0800
+location: nan

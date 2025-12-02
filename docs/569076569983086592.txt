@@ -1,0 +1,7 @@
+569076569983086592
+Delta
+@JetBlue Thank you ! What about Paris ? Could we arrange something from there ?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 02:10:01 -0800
+location: Orleans/Tarpon Springs/London

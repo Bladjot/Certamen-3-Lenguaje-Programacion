@@ -1,0 +1,7 @@
+567918173992910848
+Delta
+@JetBlue People kept saying it was due to weather but there were flights going directly to boston even after our flight.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 21:26:58 -0800
+location: BOSTON

@@ -1,0 +1,7 @@
+568198057155641344
+Delta
+@JetBlue I'd fly to an airline who actually gave a crap about its fliers outside of generic apologies. Jet Blue is terrible #jetblue
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 15:59:08 -0800
+location: Denver, CO/NYC

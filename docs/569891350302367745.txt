@@ -1,0 +1,7 @@
+569891350302367745
+US Airways
+@USAirways Going to Manchester, UK now i'm going to miss a wedding. You going to rebook that too? Why have you chosen to Cancelled Flight my flight??
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 08:07:40 -0800
+location: Sheffield

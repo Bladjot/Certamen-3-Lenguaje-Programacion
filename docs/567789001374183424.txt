@@ -1,0 +1,7 @@
+567789001374183424
+Delta
+@JetBlue I would fly to Washington  DC to see the actual Constitution  and the Declaration of Independence, in honor of a US Navy friend.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 12:53:41 -0800
+location: Boston, Ma.

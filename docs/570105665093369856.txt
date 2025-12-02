@@ -1,0 +1,7 @@
+570105665093369856
+United
+@united thanks! Will you guys be getting the A380s anytime soon?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 22:19:17 -0800
+location: nan

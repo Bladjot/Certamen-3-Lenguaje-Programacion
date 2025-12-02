@@ -1,0 +1,7 @@
+569909945514233857
+American
+@AmericanAir wish you had a better mobile app.  You should look at the app from @united as it is much more seemless to check in
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:21:34 -0800
+location: Chicago, IL

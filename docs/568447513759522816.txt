@@ -1,0 +1,7 @@
+568447513759522816
+US Airways
+@USAirways thank you for refunding my bag fee.  I look forward to its return today I hope.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 08:30:23 -0800
+location: Anoka MN

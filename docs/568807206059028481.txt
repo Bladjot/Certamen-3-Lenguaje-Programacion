@@ -1,0 +1,7 @@
+568807206059028481
+Southwest
+@SouthwestAir If you could get me on the 12:15 flight! My 10:10 has been delayed until 1:05.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 08:19:40 -0800
+location: nan

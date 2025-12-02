@@ -1,0 +1,7 @@
+569654439646269440
+United
+@united I did. they told us the wrong carousel number.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:26:16 -0800
+location: moving forward...

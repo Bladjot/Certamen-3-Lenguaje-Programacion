@@ -1,0 +1,7 @@
+567897182545686528
+US Airways
+@USAirways Shout out to the red-headed gate agent for flt 3389 from DCA to CHS at 7:10 tonight. Didn't get her name but she was great!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 20:03:33 -0800
+location: Massachusetts

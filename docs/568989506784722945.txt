@@ -1,0 +1,7 @@
+568989506784722945
+United
+@united Thank you! Have a nice evening.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 20:24:04 -0800
+location: Plymouth, IN

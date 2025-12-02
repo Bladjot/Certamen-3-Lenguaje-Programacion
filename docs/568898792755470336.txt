@@ -1,0 +1,7 @@
+568898792755470336
+United
+@united as for volunteers to give up seats, people did! Now we sit for 25 minutes on plane waiting 4 them to add more people!  #letsgo
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 14:23:36 -0800
+location: Washington, DC

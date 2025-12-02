@@ -1,0 +1,7 @@
+569674565074481152
+American
+@AmericanAir the bags arent even loaded on the plane??? #Flight293
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 17:46:15 -0800
+location: NYCATL

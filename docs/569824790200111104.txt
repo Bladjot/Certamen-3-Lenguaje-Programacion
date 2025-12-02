@@ -1,0 +1,7 @@
+569824790200111104
+United
+@united Any news about the departure of the flight UA51?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 03:43:11 -0800
+location: Roma

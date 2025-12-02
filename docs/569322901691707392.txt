@@ -1,0 +1,7 @@
+569322901691707392
+US Airways
+@USAirways Don't want to clog your already-crowded line with a special meal request. Can someone DM me to sort out? #vegetarianproblems :)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 18:28:51 -0800
+location: nan

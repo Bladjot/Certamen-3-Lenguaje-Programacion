@@ -1,0 +1,7 @@
+569504172011356160
+United
+@United DO NOT FLY UNITED WITH CHECKED BAGGAGE! It will never find you!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 06:29:10 -0800
+location: nan

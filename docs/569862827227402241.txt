@@ -1,0 +1,7 @@
+569862827227402241
+American
+@AmericanAir in miami and the  agents Rachel Wong and Marisol Pimentel were very  pleasant in a world of chaos a BIG .thank u
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 06:14:20 -0800
+location: nan

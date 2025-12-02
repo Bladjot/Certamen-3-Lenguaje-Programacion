@@ -1,0 +1,7 @@
+569846678351540224
+United
+@united I need assistance. Due to your incompetence I need to reschedule a connection. I will NEVER fly @United again.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 05:10:10 -0800
+location: Punk is the preacher.

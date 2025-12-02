@@ -1,0 +1,7 @@
+567807278964023296
+Virgin America
+@VirginAmerica you got cheese pLate Flights too.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:06:19 -0800
+location: New York x Long Island

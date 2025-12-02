@@ -1,0 +1,7 @@
+569522307657388032
+Southwest
+@SouthwestAir need to Cancelled Flight a few more can you please check DM
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 07:41:14 -0800
+location: nan

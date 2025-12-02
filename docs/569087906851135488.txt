@@ -1,0 +1,7 @@
+569087906851135488
+United
+@united now arrives LAX @ 8:03 am
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 02:55:04 -0800
+location: Colorado

@@ -1,0 +1,7 @@
+569596469105299456
+Southwest
+@SouthwestAir @TheAcademy party in #hotlanta http://t.co/x5ZQssJtRB
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:35:55 -0800
+location: Brooklyn

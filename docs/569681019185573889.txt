@@ -1,0 +1,7 @@
+569681019185573889
+United
+@united yes. Bags came 1 hr after I arrived at baggage claim. Awful experience on the ground at BHM
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 18:11:53 -0800
+location: nan

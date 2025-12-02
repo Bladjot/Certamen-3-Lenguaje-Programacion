@@ -1,0 +1,7 @@
+569359780491476992
+United
+@united my luggage is set to go to DCA however, I am rerouted to Dulles. Currently in NOLO however bags are in Houston. Can you fix this?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 20:55:24 -0800
+location: nan

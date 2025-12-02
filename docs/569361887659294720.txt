@@ -1,0 +1,9 @@
+569361887659294720
+US Airways
+@USAirways its fine. 
+
+Just wondering where my money went...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 21:03:46 -0800
+location: Blue Ridge High School

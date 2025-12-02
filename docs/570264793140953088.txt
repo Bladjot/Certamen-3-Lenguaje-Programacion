@@ -1,0 +1,7 @@
+570264793140953088
+Southwest
+@SouthwestAir if you're going to charge for wifi, do us all a solid and make sure it doesn't take the length of the flight to open a page
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 08:51:36 -0800
+location: Perdido Key, FL

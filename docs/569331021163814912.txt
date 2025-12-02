@@ -1,0 +1,7 @@
+569331021163814912
+United
+@united boarding was decent, 3 useless agents that don't speak English (after 2.5hrs of hold) 6hrs of mech delay not so much
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 19:01:07 -0800
+location: Raleigh, NC

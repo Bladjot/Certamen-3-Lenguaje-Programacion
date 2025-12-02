@@ -1,0 +1,7 @@
+569577434657492992
+Delta
+@JetBlue w/ edits: Dear @msbgu , your MBAs need better benefits. They should work for us. How can we meet them?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 11:20:17 -0800
+location: Washington, D.C.

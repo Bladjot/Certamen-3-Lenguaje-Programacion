@@ -1,0 +1,7 @@
+570026514923675648
+United
+@united diverted and missed our connecting flight. Was just told that my bag is on it's way to MSY. If you only had people that cared
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 17:04:46 -0800
+location: nan

@@ -1,0 +1,7 @@
+569972073201688576
+United
+@united has been such a disappointment today. Simply put. Rather unpleased with things currently. Flight delayed; cant wait to just get home
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 13:28:26 -0800
+location: Swooning in New York, New York

@@ -1,0 +1,7 @@
+569232748663214080
+Southwest
+@SouthwestAir and @USAirways have Cancelled Flightled flights after 525 pm today due to winter storm. Travelers urged to contact carrier for info.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 12:30:37 -0800
+location: Ronkonkoma, NY

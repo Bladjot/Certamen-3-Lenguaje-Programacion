@@ -1,0 +1,7 @@
+569418962108162048
+US Airways
+@USAirways @KieranMahan needs two nights at a hotel in phoenix until he can get back to Philly because of plane equipment, crazy!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 00:50:34 -0800
+location: nan

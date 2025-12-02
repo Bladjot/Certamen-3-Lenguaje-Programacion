@@ -1,0 +1,7 @@
+568532221180534784
+Virgin America
+@VirginAmerica spending my birthday night with you, DAL-DCA. Get me home!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 14:06:59 -0800
+location: nan

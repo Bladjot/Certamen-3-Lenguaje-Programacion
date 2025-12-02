@@ -1,0 +1,7 @@
+569887742479486976
+American
+@AmericanAir - answer the phones.  Trying to change a reservation and haven't been able to get a human to pick up in two days.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:53:20 -0800
+location: nan

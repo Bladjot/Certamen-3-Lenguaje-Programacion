@@ -1,0 +1,7 @@
+569888646633017344
+US Airways
+@USAirways What is going on with flight 1826 from PHL to PHX? 10 mins to estimated departure nobody has board and no update.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 07:56:56 -0800
+location: nan

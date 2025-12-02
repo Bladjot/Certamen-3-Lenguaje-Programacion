@@ -1,0 +1,7 @@
+568026425535516674
+US Airways
+@USAirways tell them to get on that, please.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 04:37:07 -0800
+location: nan

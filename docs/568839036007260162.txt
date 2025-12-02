@@ -1,0 +1,7 @@
+568839036007260162
+US Airways
+@USAirways waiting for bags now over 25min in Phl bag claim!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 10:26:09 -0800
+location: nan

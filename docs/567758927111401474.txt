@@ -1,0 +1,7 @@
+567758927111401474
+Delta
+@JetBlue @JayVig I like the inflight snacks! I'm flying with you guys on 2/28! #JVMChat
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 10:54:11 -0800
+location: New York City

@@ -1,0 +1,7 @@
+569677478077136897
+American
+@AmericanAir it shouldn't happen but did and has put us and our gear in jeopardy. What steps do you take to protect customers if their items
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-22 17:57:49 -0800
+location: Orlando, FL

@@ -1,0 +1,7 @@
+570020147827752961
+US Airways
+@USAirways should, but didn’t.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 16:39:28 -0800
+location: BTR/DCA/IAD/MSY - etc

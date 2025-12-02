@@ -1,0 +1,7 @@
+568934521506107392
+United
+Hey @united, this is your job, don't give me the safety spin. This is the same plane that broke on the original flight out. #unitedSucks
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 16:45:34 -0800
+location: San Francisco

@@ -1,0 +1,7 @@
+568481017876623360
+Southwest
+@SouthwestAir your A-list program is a complete JOKE! Your company does not value loyal customers.Time to look for another "go-to" airliner
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 10:43:31 -0800
+location: West Coast

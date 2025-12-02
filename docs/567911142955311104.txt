@@ -1,0 +1,7 @@
+567911142955311104
+Delta
+@JetBlue awe you guys are great can't wait to travel with you again soon!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 20:59:02 -0800
+location: New York City, NY

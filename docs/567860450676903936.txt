@@ -1,0 +1,7 @@
+567860450676903936
+Delta
+@JetBlue Are there issues with the mobile boarding passes? My app keeps crashing when I try accessing. Thanks!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 17:37:36 -0800
+location: nan

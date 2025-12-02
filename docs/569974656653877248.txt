@@ -1,0 +1,7 @@
+569974656653877248
+Southwest
+@SouthwestAir: grrrrrr I need a flight there first! Maybe for my bday next month...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:38:42 -0800
+location: nan

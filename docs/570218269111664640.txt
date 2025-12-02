@@ -1,0 +1,7 @@
+570218269111664640
+American
+@AmericanAir please can you tell me why DFW has a weather advisory and RDU does not? the entire state of NC has shut down from ice &amp; snow!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 05:46:44 -0800
+location: usa::fr::uk

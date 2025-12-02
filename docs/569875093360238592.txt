@@ -1,0 +1,7 @@
+569875093360238592
+Southwest
+@SouthwestAir Please get back with my about my airtran credit Q4VNMB, I call and I'm being told that I will, but I never get email/call back
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:03:04 -0800
+location: nan

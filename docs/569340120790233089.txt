@@ -1,0 +1,7 @@
+569340120790233089
+United
+@united I'm rebooked on a flight tomorrow even though I had 1st class seat orig I have a lousy coach seat
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 19:37:17 -0800
+location: #Westford #marketing

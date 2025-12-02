@@ -1,0 +1,7 @@
+569689297084919808
+Southwest
+@SouthwestAir I understand. But it's consistent, and been consistent for years. It's known around the country.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 18:44:47 -0800
+location: Chicago

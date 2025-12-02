@@ -1,0 +1,7 @@
+570276414567493633
+American
+@AmericanAir robocalls me with another Cancelled Flightation. And then when I don’t accept the change it won’t let me connect to an agent. Just wow.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 09:37:47 -0800
+location: North Saanich, BC

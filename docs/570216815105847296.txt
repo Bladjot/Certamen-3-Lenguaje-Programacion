@@ -1,0 +1,7 @@
+570216815105847296
+American
+@AmericanAir when will you be issuing a weather advisory for RDU?? the entire state of NC has shut down from the overnight winter storm.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 05:40:57 -0800
+location: usa::fr::uk

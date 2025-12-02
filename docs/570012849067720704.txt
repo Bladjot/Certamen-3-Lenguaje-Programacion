@@ -1,0 +1,7 @@
+570012849067720704
+Delta
+@JetBlue No, it's weird!! I picked other cities just to test, those worked...not the one I want. Works on phone though, so I'll use that.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 16:10:28 -0800
+location: Boston, Austin, Kansas City

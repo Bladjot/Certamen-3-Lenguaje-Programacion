@@ -1,0 +1,7 @@
+570290730796777473
+US Airways
+@USAirways standby so far for two of us. With snow storm hitting Iowa tomorrow we could be stuck here for two days.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 10:34:40 -0800
+location: nan

@@ -1,0 +1,7 @@
+569684298107740160
+American
+@AmericanAir know that I could use that for a flight into Canada.  By they time they figured it out, it was too Late Flight to check our bags
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:24:55 -0800
+location: St. Catharines

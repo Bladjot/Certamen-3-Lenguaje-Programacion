@@ -1,0 +1,7 @@
+568759914514014208
+Southwest
+@SouthwestAir your employees at BWI have been amazing!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 05:11:45 -0800
+location: D{M}V

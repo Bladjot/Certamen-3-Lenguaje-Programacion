@@ -1,0 +1,7 @@
+568842944024875008
+Southwest
+@SouthwestAir So that's what happens when your power level goes over 9,000... feet in the air.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 10:41:41 -0800
+location: nan

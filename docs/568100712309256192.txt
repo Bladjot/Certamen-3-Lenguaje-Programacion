@@ -1,0 +1,7 @@
+568100712309256192
+US Airways
+@USAirways yes and our flight attendant (who is wonderful btw) secured the tray table so it's not flailing about. http://t.co/JhXWMuTx4G
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 09:32:19 -0800
+location: Seattle

@@ -1,0 +1,7 @@
+568834182694240256
+Delta
+@JetBlue @WSJ #JETBLUE treated me right as a #disabledtraveler thanks for a no hassle flight to @jamaica
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 10:06:52 -0800
+location: JAMAICA&USA

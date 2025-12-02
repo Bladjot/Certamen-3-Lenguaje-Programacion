@@ -1,0 +1,7 @@
+570229480821628928
+United
+@united I wonder if sharing all this on FB and insta would produce a number. 140 characters really limits my story telling.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 06:31:17 -0800
+location: nan

@@ -1,0 +1,7 @@
+569134718396051456
+Southwest
+@SouthwestAir great flight! And great view! http://t.co/auFM4xdaj2
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 06:01:05 -0800
+location: Den10

@@ -1,0 +1,7 @@
+567753194546421760
+Southwest
+@SouthwestAir no worries. We got thru eventually. I was just curious. Best of luck to you dealing with the weather!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 10:31:24 -0800
+location: nan

@@ -1,0 +1,7 @@
+569746687805095936
+United
+@united what the hell? Flight 746. Delayed since 3 pm, finally boarded and now sitting on the tarmac? Is this f&amp;&amp;%$cking plane Ever leaving?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 22:32:50 -0800
+location: nan

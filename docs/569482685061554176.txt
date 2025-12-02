@@ -1,0 +1,7 @@
+569482685061554176
+Southwest
+@SouthwestAir great example of customer service this morning at MSY headed to ATL. Alison and Bobbi were fantastic! Gate B8. Thank you.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 05:03:47 -0800
+location: nan

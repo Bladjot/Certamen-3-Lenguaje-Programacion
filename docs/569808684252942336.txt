@@ -1,0 +1,7 @@
+569808684252942336
+United
+@united I am impressed with your super-fast reply to @CGJase
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 02:39:11 -0800
+location: Beijing

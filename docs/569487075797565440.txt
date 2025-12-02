@@ -1,0 +1,7 @@
+569487075797565440
+US Airways
+@USAirways "good news. We've located the crew and made contact with them". flight was supposed to leave 4 minutes ago. #usairwaysfail
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 05:21:14 -0800
+location: Doylestown, PA

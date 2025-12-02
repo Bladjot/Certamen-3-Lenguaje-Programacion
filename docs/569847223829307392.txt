@@ -1,0 +1,7 @@
+569847223829307392
+American
+@AmericanAir Is it true, as FAs are saying, that you have no way to collect money from passengers (after door closing) who want a MCE seat?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 05:12:20 -0800
+location: Brooklyn by way of Chicago

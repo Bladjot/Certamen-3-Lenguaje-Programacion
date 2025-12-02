@@ -1,0 +1,7 @@
+569749422482960384
+United
+@united Tried filling out the status match form and got hit with an error message. How can I tell if it went through? http://t.co/JbDkxd6eFz
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 22:43:42 -0800
+location: San Francisco, Ca

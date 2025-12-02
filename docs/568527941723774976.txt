@@ -1,0 +1,7 @@
+568527941723774976
+US Airways
+@USAirways they say connections are good still...but another reFlight Booking Problems is the last thing I need today
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 13:49:58 -0800
+location: Connecticut

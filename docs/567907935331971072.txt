@@ -1,0 +1,7 @@
+567907935331971072
+Southwest
+@SouthwestAir you are the #Official airlines of #DivadaPouch aka #ThePoopQueen http://t.co/XXY2d2iMnP
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 20:46:17 -0800
+location: Clover, SC

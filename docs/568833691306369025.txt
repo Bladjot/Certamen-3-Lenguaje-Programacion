@@ -1,0 +1,7 @@
+568833691306369025
+Southwest
+@SouthwestAir will you please start offering services out of @triflight and @AshevilleAir to other airports.. Have to drive 3-4 hrs to use u
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 10:04:55 -0800
+location: johnson city tn

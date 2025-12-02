@@ -1,0 +1,7 @@
+570039630973829120
+Delta
+@JetBlue well our plane just landed at the international terminal... so they announced the 10 pm new time.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 17:56:53 -0800
+location: Los Angeles, CA

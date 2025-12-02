@@ -1,0 +1,7 @@
+569574646229684224
+United
+@united Thanks but why did this occur? You guys had 3 hours extra to get my bag on due to your delay. So that's 7 hours you had. #fail!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 11:09:12 -0800
+location: nan

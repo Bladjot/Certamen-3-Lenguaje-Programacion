@@ -1,0 +1,7 @@
+568109592338518016
+United
+@united just because you are a monopoly in @flySFO doesn't mean you treat your frequent fliers like crap.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 10:07:36 -0800
+location: california

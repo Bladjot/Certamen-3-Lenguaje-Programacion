@@ -1,0 +1,7 @@
+569942084393824256
+American
+@americanair just tried calling. got a high call volume at this moment message and then it said goodbye and hung up…
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:29:16 -0800
+location: Cary, NC

@@ -1,0 +1,7 @@
+569718802029666305
+American
+@AmericanAir @nrosenb1 it says changes can't be made online
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:42:01 -0800
+location: nan

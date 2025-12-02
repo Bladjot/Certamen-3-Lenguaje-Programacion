@@ -1,0 +1,7 @@
+569631041603788800
+American
+@AmericanAir u cant spell airline and I trusted you to get me home on time and safe you are the worst #gobankrupt http://t.co/aM9CuieWO4
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:53:18 -0800
+location: nan

@@ -1,0 +1,7 @@
+568909200832618496
+US Airways
+@USAirways 2 bad planes &amp; 3 gate changes= lots of exercise. #travelfail let's hope this plane works. I'm tired.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 15:04:57 -0800
+location: New York

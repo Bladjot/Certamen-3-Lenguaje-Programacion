@@ -1,0 +1,7 @@
+570289724453216256
+Virgin America
+@VirginAmerica I &lt;3 pretty graphics. so much better than minimal iconography. :D
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 10:30:40 -0800
+location: NYC

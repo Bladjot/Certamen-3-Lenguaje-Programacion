@@ -1,0 +1,7 @@
+570048915518533634
+Delta
+@JetBlue or she ;)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 18:33:47 -0800
+location: Logan International Airport

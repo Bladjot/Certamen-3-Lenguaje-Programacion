@@ -1,0 +1,7 @@
+570275153860386816
+United
+@united just flew to #TelAviv paid $100 from a third suitcase which didn't even make it on the plane! Besides for the impolite service...
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 09:32:46 -0800
+location: Jerusalem, Israel

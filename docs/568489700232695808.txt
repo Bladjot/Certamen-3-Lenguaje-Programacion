@@ -1,0 +1,7 @@
+568489700232695808
+Delta
+@JetBlue @NHLBruins repping the Bruins in Cleveland at Rock n Roll HOF &amp; The Christmas Story house #JetBlueBruins http://t.co/JKnWuGJ778
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 11:18:01 -0800
+location: nan

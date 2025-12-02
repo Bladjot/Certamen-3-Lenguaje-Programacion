@@ -1,0 +1,7 @@
+569611217301450752
+American
+@AmericanAir that's quite an impressive list of fees!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 13:34:31 -0800
+location: Oxford, MS

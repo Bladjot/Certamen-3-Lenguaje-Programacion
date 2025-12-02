@@ -1,0 +1,7 @@
+569591310589431808
+US Airways
+@USAirways I sympathize re:weather issues, but when times get tough, call in more folks. Over two hours on hold for 4-minute fix. #FAIL
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 12:15:25 -0800
+location: Carmel, IN

@@ -1,0 +1,7 @@
+569558791433416704
+US Airways
+@usairways Cancelled Flighted and rescheduled. said I'd have to pay $75 for earlier flight at next gate. Today @delta proactively offered same for $0
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 10:06:12 -0800
+location: nan

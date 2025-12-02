@@ -1,0 +1,7 @@
+569544350364889088
+United
+“@united: @4geiger It looks like form the photo that something burst out of your luggage. Is this correct? ^JH” always blame the customer
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-22 09:08:49 -0800
+location: Kingwood

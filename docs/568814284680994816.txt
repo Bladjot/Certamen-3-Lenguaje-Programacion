@@ -1,0 +1,7 @@
+568814284680994816
+US Airways
+@sarahpompei don't bother wasting your time!  @USAirways will send u a form letter &amp; let u choose a gift certificate. #worstcustomerservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 08:47:48 -0800
+location: nan

@@ -1,0 +1,7 @@
+570080608996556800
+American
+@AmericanAir thanks to AA / DART for getting me home in time for work this morning DEN-DFW... didn't have to waste a vaca day @dartmedia
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 20:39:43 -0800
+location: nan

@@ -1,0 +1,7 @@
+569273769652576256
+Southwest
+@SouthwestAir Officially a customer support game of wills... 2hr30 on hold... Who's the loser here? Oh yeah, that's me.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 15:13:37 -0800
+location: nan

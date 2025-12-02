@@ -1,0 +1,7 @@
+570006301968867328
+American
+@AmericanAir crew did the best they could but it was out of their control. You only get one chance of a honeymoon &amp; you failed miserably
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 15:44:27 -0800
+location: Tampa, Florida

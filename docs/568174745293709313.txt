@@ -1,0 +1,7 @@
+568174745293709313
+Virgin America
+@VirginAmerica FYI the info@virginamerica.com email address you say to contact in password reset emails doesn't exist. Emails bounce.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 14:26:30 -0800
+location: Long Beach, CA

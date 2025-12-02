@@ -1,0 +1,7 @@
+568537219822010368
+United
+@united @bwood we'd prefer everyone hear our complaints amount your airline
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 14:26:50 -0800
+location: nan

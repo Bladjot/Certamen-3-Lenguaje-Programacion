@@ -1,0 +1,7 @@
+569355673068118016
+Delta
+@JetBlue Airways to continue 'various commercial relationships' with #Lufthansa ... - @CAPA_Aviation http://t.co/vGqOihtRkH
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 20:39:05 -0800
+location: Global

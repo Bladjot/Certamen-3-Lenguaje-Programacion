@@ -1,0 +1,7 @@
+569811246096064512
+American
+@AmericanAir interested in possibly changing my flight to another day...need to see if there are any fees but your number is busy
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 02:49:22 -0800
+location: cali bound

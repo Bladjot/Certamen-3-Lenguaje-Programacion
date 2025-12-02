@@ -1,0 +1,7 @@
+568920546043408385
+Delta
+@JetBlue question, flying for the 1st time with my 16mont old son...do I need to bring anything for him? Birth certificate/S.S. card etc?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 15:50:02 -0800
+location: Here & There

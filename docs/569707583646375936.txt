@@ -1,0 +1,7 @@
+569707583646375936
+Delta
+@JetBlue ok thanks. Safety first.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 19:57:27 -0800
+location: Planet Brooklyn

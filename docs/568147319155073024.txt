@@ -1,0 +1,7 @@
+568147319155073024
+United
+@united, Thanks, but I didn't want to see 'we've started your flight search over' OR 'the fare &amp; rules for this itinerary has changed' again
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 12:37:31 -0800
+location: nan

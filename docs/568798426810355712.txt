@@ -1,0 +1,7 @@
+568798426810355712
+Southwest
+@SouthwestAir what do I need to do when TSA pre doesn't show for a flight of mine?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 07:44:47 -0800
+location: nan

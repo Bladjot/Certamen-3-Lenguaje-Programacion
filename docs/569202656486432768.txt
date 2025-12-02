@@ -1,0 +1,7 @@
+569202656486432768
+United
+@united great decision making skills flight ops IAH bag makes a 10 minute connection and I don't, flight pushed early. Disappointed!!!!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 10:31:03 -0800
+location: nan

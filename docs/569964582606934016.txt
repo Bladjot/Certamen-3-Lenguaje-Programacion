@@ -1,0 +1,7 @@
+569964582606934016
+United
+@united Can't leave the Tarmac ..united's gate agent cannot agree on a head count. 20 min now counting a 100 people max #epicfailunited
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 12:58:40 -0800
+location: nan

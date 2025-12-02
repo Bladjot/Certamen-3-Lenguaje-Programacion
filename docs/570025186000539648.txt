@@ -1,0 +1,7 @@
+570025186000539648
+Delta
+“@JetBlue: Our fleet's on fleek. http://t.co/7XMaV13G2W” http://t.co/Ela7TNtcIR
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 16:59:29 -0800
+location: Northeast by SoCal by Carolina

@@ -1,0 +1,7 @@
+569606281998299137
+US Airways
+@USAirways how hard is it to unload bags in order of arrival? 45 mins and counting for flight 699
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 13:14:55 -0800
+location: Los Angeles, CA

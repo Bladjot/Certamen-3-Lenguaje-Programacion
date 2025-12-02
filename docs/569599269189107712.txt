@@ -1,0 +1,7 @@
+569599269189107712
+American
+@AmericanAir weather is unavoidable. Understaffing is controllable
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:47:03 -0800
+location: Pilot Point, Republic of Texas

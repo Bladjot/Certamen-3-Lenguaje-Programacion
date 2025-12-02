@@ -1,0 +1,7 @@
+568519971971538945
+Virgin America
+@VirginAmerica It's fine. Already done with my purchase. But you should try it. Just go most of the way through then go back 3
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 13:18:18 -0800
+location: Vancouver, WA

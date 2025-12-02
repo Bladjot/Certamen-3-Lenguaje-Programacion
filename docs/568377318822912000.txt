@@ -1,0 +1,7 @@
+568377318822912000
+Southwest
+@SouthwestAir hates guitar players. Chgd for oversize AND extra bag on my acoustic guitar. Epic fail.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 03:51:27 -0800
+location: Canada

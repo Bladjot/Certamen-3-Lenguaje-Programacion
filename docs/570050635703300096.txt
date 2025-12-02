@@ -1,0 +1,7 @@
+570050635703300096
+American
+@AmericanAir Did the policy change? I've seen people with hamsters and rabbits before.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 18:40:37 -0800
+location: Los Angeles, CA

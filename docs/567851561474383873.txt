@@ -1,0 +1,7 @@
+567851561474383873
+Delta
+@JetBlue #fail My wife on the phone asking to switch flight times. In mid switch gets disconnected. Now Cancelled Flightled! No new time! No call back
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 17:02:17 -0800
+location: Greenwich, CT

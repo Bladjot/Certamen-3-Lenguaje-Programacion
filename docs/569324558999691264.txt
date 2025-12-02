@@ -1,0 +1,7 @@
+569324558999691264
+Virgin America
+@VirginAmerica @TTINAC11 I DM you
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 18:35:27 -0800
+location: Las Vegas, NV

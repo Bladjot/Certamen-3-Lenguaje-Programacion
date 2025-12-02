@@ -1,0 +1,7 @@
+568883464923000832
+Southwest
+@SouthwestAir Flight 3056. Only an hour long but one of the best flights I've ever had. Kudos to flight crew and airline in general.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 13:22:42 -0800
+location: city of Lost Angels

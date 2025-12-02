@@ -1,0 +1,7 @@
+568499629043687426
+Delta
+@JetBlue as requested, here's selfie somewhere over the Rocky's. #milehighselfieclub http://t.co/A1ChOxKPJp
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 11:57:28 -0800
+location: Boston, MA

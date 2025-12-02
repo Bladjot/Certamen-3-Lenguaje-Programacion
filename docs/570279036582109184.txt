@@ -1,0 +1,7 @@
+570279036582109184
+American
+@AmericanAir awesome. Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 09:48:12 -0800
+location: Little Rock, AR

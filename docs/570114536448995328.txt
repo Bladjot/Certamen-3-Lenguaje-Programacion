@@ -1,0 +1,7 @@
+570114536448995328
+United
+@united if I pay you $25 and $35 for my luggage to be delivered when I arrive. Why should I have to wait 3 additional days for its delivery?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 22:54:32 -0800
+location: New Jersey

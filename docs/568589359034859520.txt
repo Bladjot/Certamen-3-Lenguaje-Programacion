@@ -1,0 +1,7 @@
+568589359034859520
+United
+@united Leaving soon. Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 17:54:01 -0800
+location: ÜT: 38.988512,-77.161145

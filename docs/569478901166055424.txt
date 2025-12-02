@@ -1,0 +1,7 @@
+569478901166055424
+United
+@united now the weight restriction? 'We'll try to get as many of you as we can on this plane'
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 04:48:45 -0800
+location: Kingston, Ontario

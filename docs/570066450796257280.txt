@@ -1,0 +1,7 @@
+570066450796257280
+United
+@united  Delay DEN-CLE because they have to manually enter baggage tags? Really? Worst cust service day for this 1ker. #friendlyskies??
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 19:43:27 -0800
+location: Cleveland, OH

@@ -1,0 +1,7 @@
+569363796113764352
+United
+@united just DM'd
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 21:11:21 -0800
+location: Boston, MA

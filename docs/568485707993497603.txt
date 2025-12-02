@@ -1,0 +1,7 @@
+568485707993497603
+United
+@United, #deaffriendly? Getting there. Read your review on http://t.co/2Brt0aTHaU: http://t.co/WzNp5q1M0H
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 11:02:09 -0800
+location: nan

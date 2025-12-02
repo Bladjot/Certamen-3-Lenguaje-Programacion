@@ -1,0 +1,7 @@
+567802015527755776
+United
+@united Got it.  I am following the United page.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 13:45:24 -0800
+location: Southern New Jersey

@@ -1,0 +1,7 @@
+568425272304934912
+Delta
+@JetBlue = WORST. Booked in Oct. w/ email confirm &amp; NEVER INFORMED Cancelled Flightlation. Instructed "to mail written letter" http://t.co/c7Kzbvf8h8
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 07:02:00 -0800
+location: Washington, DC

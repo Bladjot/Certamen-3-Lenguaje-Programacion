@@ -1,0 +1,7 @@
+568155066668060672
+Delta
+@JetBlue I cheated on you, and I'm sorry. I'll never do it again. @SouthwestAir has given my wife and I the worst start to a honeymoon ever
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 13:08:18 -0800
+location: Canton, MA

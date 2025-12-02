@@ -1,0 +1,7 @@
+569811013786312704
+United
+@united really 1st flt frm IAD 2 IAH is - Late Flight &amp; -going via Nashville? #inconvenience. Downgraded but not on ticket
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 02:48:26 -0800
+location: US

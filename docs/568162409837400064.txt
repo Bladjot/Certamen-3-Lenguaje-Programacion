@@ -1,0 +1,7 @@
+568162409837400064
+United
+@united you should tell that to the staff at LAX then. I boarded group 5 at the very end of the queue as a Gold member. Thanks for nothing.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 13:37:29 -0800
+location: minneapolis

@@ -1,0 +1,7 @@
+569308130464698368
+US Airways
+@USAirways @rylietolbert15 wow you wouldn't say
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 17:30:10 -0800
+location: Sapere Aude

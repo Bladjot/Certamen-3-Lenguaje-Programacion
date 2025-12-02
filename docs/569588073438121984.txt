@@ -1,0 +1,7 @@
+569588073438121984
+US Airways
+@USAirways 1 hour and counting on hold :( why? http://t.co/clOB5qwMXR
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:02:33 -0800
+location: USA

@@ -1,0 +1,7 @@
+568905087608881152
+United
+@united Existing reservation is fine. I was talking about no longer having an 0600 CMH-ORD option. 0638 gets me in too Late Flight.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 14:48:37 -0800
+location: Powell, OH

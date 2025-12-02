@@ -1,0 +1,7 @@
+569278020441284608
+United
+@united If you follow me I will DM you my phone # which you can call.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 15:30:31 -0800
+location: Boston, MA

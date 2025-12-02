@@ -1,0 +1,7 @@
+568827741832916994
+United
+@united @44Stocker my wife Sarah stocker did also called but could not connect me to customer service
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 09:41:16 -0800
+location: nan

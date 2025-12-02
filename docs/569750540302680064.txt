@@ -1,0 +1,7 @@
+569750540302680064
+United
+@united 40 minutes on tarmac now. That's after 9 hour delay.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 22:48:08 -0800
+location: nan

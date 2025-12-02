@@ -1,0 +1,7 @@
+570033627939131392
+United
+@united These are great fares!!!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 17:33:02 -0800
+location: Honeoye Falls

@@ -1,0 +1,7 @@
+569863714704220160
+United
+@united flight 433 lets go you look like clowns no one is giving up 1st class for $500
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 06:17:51 -0800
+location: Needham, MA

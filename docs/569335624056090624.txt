@@ -1,0 +1,7 @@
+569335624056090624
+Southwest
+@SouthwestAir you have the worst service, you Cancelled Flightled all your flights FLL to PHL all @USAirways flights flew. Stuck in FL 3 days. #done
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 19:19:25 -0800
+location: Havertown, Pa.

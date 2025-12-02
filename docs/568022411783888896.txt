@@ -1,0 +1,7 @@
+568022411783888896
+US Airways
+@USAirways 5534. That's the flight I was placed on after original flight to Charlotte was Cancelled Flightled.  Now 5534 is on 1hr delay
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 04:21:10 -0800
+location: Any Martin Luther St.

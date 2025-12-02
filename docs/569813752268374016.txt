@@ -1,0 +1,7 @@
+569813752268374016
+United
+@united basically, I need to leave from Hawaii Late Flight evening (midnight) and get back to Philly Late Flight Monday night. Most trips get me in Tues
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 02:59:19 -0800
+location: Wilmington, Delaware

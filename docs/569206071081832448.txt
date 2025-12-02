@@ -1,0 +1,7 @@
+569206071081832448
+Southwest
+@SouthwestAir can you follow and we'll proceed?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 10:44:37 -0800
+location: nan

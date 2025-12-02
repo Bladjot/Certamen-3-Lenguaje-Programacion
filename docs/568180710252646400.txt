@@ -1,0 +1,7 @@
+568180710252646400
+Southwest
+@SouthwestAir that's why I fly y'all, that personalized service
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 14:50:12 -0800
+location: Nashville, TN

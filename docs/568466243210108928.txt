@@ -1,0 +1,7 @@
+568466243210108928
+United
+@united I was abused , threatened and forced to travel in a lower cabine (last seat) in yesterday's flight from Houston to Sao Paulo
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-19 09:44:48 -0800
+location: São Paulo / Brasil

@@ -1,0 +1,7 @@
+569907965223763970
+American
+@AmericanAir thx for showing me that your Twitter appreciates me more than your employees. Sure another airline would like my $1300 #nohotel
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:13:41 -0800
+location: nan

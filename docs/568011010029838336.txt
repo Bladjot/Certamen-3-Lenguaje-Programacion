@@ -1,0 +1,7 @@
+568011010029838336
+Delta
+@JetBlue can I change my flight if I already printed my boarding pass?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 03:35:52 -0800
+location: Merrick

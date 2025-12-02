@@ -1,0 +1,7 @@
+570250566573674496
+American
+@AmericanAir have your experts seen this? this is right at RDU airport. http://t.co/mPliO6DYgn
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 07:55:04 -0800
+location: usa::fr::uk

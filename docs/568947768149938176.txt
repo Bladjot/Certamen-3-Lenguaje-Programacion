@@ -1,0 +1,7 @@
+568947768149938176
+Southwest
+@SouthwestAir not frustrated, just an idea! Great crew. Thanks! #happycustomer
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 17:38:13 -0800
+location: Austin, Texas

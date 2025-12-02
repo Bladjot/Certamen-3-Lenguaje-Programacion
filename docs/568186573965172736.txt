@@ -1,0 +1,7 @@
+568186573965172736
+United
+@united no tag number. Luggage was taken off the weigh scale and appears to have been sent off on conveyor belt without any tag...
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 15:13:30 -0800
+location: nan

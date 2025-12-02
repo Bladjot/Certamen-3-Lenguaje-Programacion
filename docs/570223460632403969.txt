@@ -1,0 +1,7 @@
+570223460632403969
+US Airways
+@USAirways I really feel like your company needs evaluate their policies &amp; realize that transfers should be possible for tickets
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 06:07:21 -0800
+location: nan

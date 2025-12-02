@@ -1,0 +1,7 @@
+568565615327227904
+Southwest
+@SouthwestAir can you please DM me? I have a question for you :)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 16:19:40 -0800
+location: nan

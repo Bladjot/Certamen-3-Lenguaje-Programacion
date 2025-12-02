@@ -1,0 +1,7 @@
+568049646062444544
+United
+@united just give up.  Your service is terrible.  If I wasn't forced to use United on certain routes, I never would.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 06:09:24 -0800
+location: columbus, oh

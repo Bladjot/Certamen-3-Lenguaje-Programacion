@@ -1,0 +1,7 @@
+569672807715463168
+American
+@AmericanAir my flight I have reserved for tomorrow has been Cancelled Flightled. Can I Cancelled Flight my reservation and get a full refund?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 17:39:16 -0800
+location: Kingsville, TX

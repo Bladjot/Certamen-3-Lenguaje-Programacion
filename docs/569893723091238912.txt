@@ -1,0 +1,7 @@
+569893723091238912
+American
+@AmericanAir the most stressful morning and still had to pay to check a bag. LAX is a madhouse with a lot of angry customers. Yikes
+sentiment: negative
+negativereason: longlines
+created: 2015-02-23 08:17:06 -0800
+location: Boston, MA

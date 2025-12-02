@@ -1,0 +1,7 @@
+568096875435282432
+Delta
+@JetBlue Disappointed we weren't allowed to bring on an aircraft approved carseat on an empty plane. Not cool.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 09:17:04 -0800
+location: San Francisco

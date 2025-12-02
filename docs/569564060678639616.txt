@@ -1,0 +1,7 @@
+569564060678639616
+United
+@united we rebooked and disappointed we have to wait a whole day to start our vacation. At these fares United should have top notch service
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 10:27:08 -0800
+location: deep in the ❤ of Texas...

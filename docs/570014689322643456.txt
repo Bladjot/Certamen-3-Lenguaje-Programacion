@@ -1,0 +1,7 @@
+570014689322643456
+United
+@united Agent in LAS letting 20 customers know they can't help them rebook delayed flight to DEN #unfriendlyskies http://t.co/QuzVmK2rTR
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 16:17:46 -0800
+location: nan

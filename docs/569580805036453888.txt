@@ -1,0 +1,7 @@
+569580805036453888
+Virgin America
+@VirginAmerica thank you for checking in. tickets are purchased and customer is happy ;-)
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 11:33:40 -0800
+location: San Francisco

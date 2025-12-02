@@ -1,0 +1,7 @@
+568166390873653248
+US Airways
+@USAirways I paid for my ticket on @PayPal on the 13th and it still says pending. Is that normal? I just want the money out of my account.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 13:53:18 -0800
+location: On my phone, USA

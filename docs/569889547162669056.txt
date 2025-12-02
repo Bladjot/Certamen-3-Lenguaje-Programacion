@@ -1,0 +1,7 @@
+569889547162669056
+Delta
+@JetBlue nope. The "regular" line was multi-x faster. You literally direct all the wheelchairs and strollers into the same line as EMS.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-23 08:00:30 -0800
+location: Brooklyn, NY

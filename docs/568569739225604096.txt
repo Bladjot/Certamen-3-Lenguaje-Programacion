@@ -1,0 +1,7 @@
+568569739225604096
+Delta
+@JetBlue Airways Corporation (NASDAQ:JBLU) Update: @JetBlue says #Lufthansa ... - Markets Bureau http://t.co/aPY3zLSqUu
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 16:36:04 -0800
+location: USA

@@ -1,0 +1,7 @@
+570059605662834688
+United
+@united @AmericanAir spent hundreds to rectify the situation and you guys go quiet
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 19:16:15 -0800
+location: nan

@@ -1,0 +1,7 @@
+568491668858662914
+Delta
+@JetBlue I want to add, my flight to Mexico was on Air Canada. Same exact situation, but with none of the problems I've had with Jet Blue.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 11:25:50 -0800
+location: nan

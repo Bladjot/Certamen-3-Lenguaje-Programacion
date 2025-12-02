@@ -1,0 +1,7 @@
+567726092518031360
+Virgin America
+“@VirginAmerica: Book out of town with fares from $59/way (+restr). http://t.co/xRdTOV7nl8 http://t.co/4Y78byAckc” @JenniferDawnPro
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 08:43:42 -0800
+location: Las Vegas, NV

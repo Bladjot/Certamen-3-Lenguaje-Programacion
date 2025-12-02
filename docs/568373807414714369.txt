@@ -1,0 +1,7 @@
+568373807414714369
+US Airways
+@USAirways Empty 1st class, Chairman can't move up due 2 silly award travel rule trumping common sense - customer service fail again!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 03:37:30 -0800
+location: New York/N. Carolina

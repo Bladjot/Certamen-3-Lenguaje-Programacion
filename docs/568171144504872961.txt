@@ -1,0 +1,7 @@
+568171144504872961
+US Airways
+@USAirways Thanks for showing interest...3880 to Greenville, SC.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 14:12:11 -0800
+location: ÜT: 43.182918,-77.651224

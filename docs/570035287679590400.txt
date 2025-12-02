@@ -1,0 +1,7 @@
+570035287679590400
+Southwest
+@SouthwestAir @Imaginedragons I tried. 😔 It's okay
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 17:39:37 -0800
+location: nan

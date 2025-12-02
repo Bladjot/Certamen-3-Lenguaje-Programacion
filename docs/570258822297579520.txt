@@ -1,0 +1,7 @@
+570258822297579520
+Virgin America
+@VirginAmerica will you be making BOS&gt;LAS non stop permanently anytime soon?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:27:52 -0800
+location: Boston, MA

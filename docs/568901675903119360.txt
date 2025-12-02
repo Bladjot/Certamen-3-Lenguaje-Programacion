@@ -1,0 +1,7 @@
+568901675903119360
+United
+@united Can't beat the storm out of town if you wait to issue the policy until too Late Flight.  NWS issued storm warning already...
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 14:35:03 -0800
+location: Denver

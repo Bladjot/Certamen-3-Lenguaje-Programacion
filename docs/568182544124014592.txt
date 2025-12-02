@@ -1,0 +1,7 @@
+568182544124014592
+Delta
+@JetBlue I am heading to JFK now just on principle alone to deal w my lost &amp; damaged bag. #jetblue #jetbluesucks #jfk #badservice #fail
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 14:57:29 -0800
+location: ÜT: 40.96513,-73.872957

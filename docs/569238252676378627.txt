@@ -1,0 +1,7 @@
+569238252676378627
+Delta
+@JetBlue BOS to DCA 1098 at 7:16 pm.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 12:52:30 -0800
+location: Washington, DC

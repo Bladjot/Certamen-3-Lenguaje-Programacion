@@ -1,0 +1,7 @@
+568036095088160768
+United
+@united Monday evening.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 05:15:33 -0800
+location: nan

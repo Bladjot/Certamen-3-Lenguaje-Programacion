@@ -1,0 +1,7 @@
+569641880276893697
+American
+“@AmericanAir: @Dawn_Davis You're very welcome, Dawn. We love taking you flying. Let's do it again!” Again in 1 week!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 15:36:22 -0800
+location: ★ Chicago'ish ★

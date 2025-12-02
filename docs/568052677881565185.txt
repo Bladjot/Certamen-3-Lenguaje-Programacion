@@ -1,0 +1,7 @@
+568052677881565185
+United
+@united I need to speak with a supervisor or someone who is #willing to help me use a credit I have ASAP.  #letsworktogether
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 06:21:26 -0800
+location: New York, NY

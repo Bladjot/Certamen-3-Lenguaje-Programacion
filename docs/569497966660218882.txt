@@ -1,0 +1,7 @@
+569497966660218882
+Delta
+@JetBlue why is my 910 flight listed on time when its 904AM and I'm not on the plane yet? http://t.co/iEG2ObcEpp
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 06:04:30 -0800
+location: New York City

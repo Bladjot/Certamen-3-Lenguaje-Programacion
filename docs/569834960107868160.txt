@@ -1,0 +1,7 @@
+569834960107868160
+United
+@united Stopped flying @united 1 yr ago bc of aggressive policy on carryon @bdl listening to pssngrs forced to chk@preboard,#notcomingback
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 04:23:36 -0800
+location: nan

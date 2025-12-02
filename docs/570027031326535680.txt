@@ -1,0 +1,7 @@
+570027031326535680
+American
+@AmericanAir I need assistance reFlight Booking Problems a flight from dfw to lit
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 17:06:49 -0800
+location: nan

@@ -1,0 +1,7 @@
+568211263303639040
+US Airways
+@USAirways so far I've gotten six different answers
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 16:51:36 -0800
+location: New York

@@ -1,0 +1,7 @@
+569294079835705346
+US Airways
+@USAirways I made the change online, but couldn't check-in online, so had to call (3 hrs on hold btw). Shouldn't have been charged $25
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 16:34:20 -0800
+location: nan

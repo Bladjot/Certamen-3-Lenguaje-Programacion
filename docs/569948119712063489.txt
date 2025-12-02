@@ -1,0 +1,7 @@
+569948119712063489
+US Airways
+@USAirways US 728/Feb 21. Ground power shorts again for the third time. Weary German passenger deplanes. Makes me jealous. Auf wiedersehen!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 11:53:15 -0800
+location: nan

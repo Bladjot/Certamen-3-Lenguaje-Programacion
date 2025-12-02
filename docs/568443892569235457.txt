@@ -1,0 +1,7 @@
+568443892569235457
+Delta
+@JetBlue great flight and crew! Flight 51 from BOS to MCO
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 08:15:59 -0800
+location: New Jersey

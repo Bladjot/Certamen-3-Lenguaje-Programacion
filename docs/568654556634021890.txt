@@ -1,0 +1,7 @@
+568654556634021890
+United
+@united round trip*
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 22:13:06 -0800
+location: nan

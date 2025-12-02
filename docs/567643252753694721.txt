@@ -1,0 +1,7 @@
+567643252753694721
+US Airways
+@USAirways how's us 1797 looking today?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 03:14:32 -0800
+location: Brighton

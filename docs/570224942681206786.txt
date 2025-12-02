@@ -1,0 +1,7 @@
+570224942681206786
+American
+@AmericanAir living in DFW.. Your Hub.. Hate having to fly to JFK to get to Ireland
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 06:13:15 -0800
+location: Dallas,Tx

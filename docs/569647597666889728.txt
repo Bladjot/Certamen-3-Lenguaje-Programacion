@@ -1,0 +1,7 @@
+569647597666889728
+US Airways
+@USAirways holding your passengers hostage during your computer crash is not customer friendly, let us off the plane or get us moving
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:59:05 -0800
+location: nan

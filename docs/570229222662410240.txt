@@ -1,0 +1,7 @@
+570229222662410240
+American
+@AmericanAir I'll be sticking with @southwest in the future. No change fees, first bag free, and stellar customer service.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 06:30:15 -0800
+location: Pittsburgh, PA

@@ -1,0 +1,7 @@
+568119079371997186
+Virgin America
+@VirginAmerica thank you! See y'all soon! I'm excited to see the expansion of destinations. Spread those wings!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 10:45:18 -0800
+location: Austin, Texas

@@ -1,0 +1,7 @@
+569416650325303297
+United
+@united you can read the full story when I submit a case to your team about the pilot of flight 6232 and why we are sleeping in DIA
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 00:41:23 -0800
+location: nan

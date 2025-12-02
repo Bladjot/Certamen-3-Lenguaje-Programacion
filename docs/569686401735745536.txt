@@ -1,0 +1,7 @@
+569686401735745536
+American
+@AmericanAir hi my flight to DFW 2463 was Cancelled Flightled tonight. Called in and left my number for call back it's been 3hrs please help.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 18:33:17 -0800
+location: NYC/TX

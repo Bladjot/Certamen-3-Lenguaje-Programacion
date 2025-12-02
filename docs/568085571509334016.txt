@@ -1,0 +1,7 @@
+568085571509334016
+Southwest
+@SouthwestAir I've never met my favorite band and it would be sooo amazing to win destination dragons.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 08:32:09 -0800
+location: nan

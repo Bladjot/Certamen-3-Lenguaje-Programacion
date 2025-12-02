@@ -1,0 +1,7 @@
+570108377029685248
+US Airways
+@USAirways yes it landed at 11:40am. Should not take another 12+ hours to go 40 min drive. Was assured I would have this am.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 22:30:03 -0800
+location: nan

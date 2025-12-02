@@ -1,0 +1,7 @@
+569927739802652672
+Southwest
+@SouthwestAir  how many others didn't know you are stopping non stop flights to ATL and from to Hartford Ct as of April ?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:32:16 -0800
+location: CT

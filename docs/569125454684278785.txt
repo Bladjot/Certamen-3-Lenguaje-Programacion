@@ -1,0 +1,7 @@
+569125454684278785
+Delta
+@JetBlue going to San Juan!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 05:24:16 -0800
+location: nan

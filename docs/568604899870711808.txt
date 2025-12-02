@@ -1,0 +1,7 @@
+568604899870711808
+Southwest
+@SouthwestAir give me tickets to atlanta! I would do anything!  Anything 😆
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 18:55:46 -0800
+location: Ottawa,Canada

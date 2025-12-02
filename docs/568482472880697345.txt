@@ -1,0 +1,7 @@
+568482472880697345
+US Airways
+@USAirways was switched to an American Airlines flight, not by choice, and now I am charged $50 for bags? Thought y'all merged?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 10:49:18 -0800
+location: nan

@@ -1,0 +1,7 @@
+568444321113862145
+Southwest
+@SouthwestAir @FortuneMagazine well deserved!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 08:17:41 -0800
+location: nan

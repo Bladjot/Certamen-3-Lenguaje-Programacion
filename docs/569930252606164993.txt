@@ -1,0 +1,7 @@
+569930252606164993
+Delta
+delete your account @JetBlue
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 10:42:15 -0800
+location: New Brunswick, NJ

@@ -1,0 +1,7 @@
+568112232208293889
+US Airways
+@USAirways why would you board ppl on a plane b4 its their turn to de-ice? Why would you have ppl then wait through the hour long process?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 10:18:05 -0800
+location: Earth

@@ -1,0 +1,7 @@
+567842726861021184
+Delta
+@JetBlue why did I pay for extra space to be forced to put my backpack under my seat? Its my only bag. Flight 135. Unprofessional.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 16:27:10 -0800
+location: New York, New York

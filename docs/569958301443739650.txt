@@ -1,0 +1,7 @@
+569958301443739650
+US Airways
+@USAirways Don't blame it on weather. Rep at counter cost me entire day - not weather.  Printed Boarding Pass too Late Flight. #TakeResponsibility
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 12:33:43 -0800
+location: Washington D.C.

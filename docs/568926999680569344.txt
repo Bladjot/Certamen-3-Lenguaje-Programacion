@@ -1,0 +1,7 @@
+568926999680569344
+Southwest
+@SouthwestAir thanks! More concerned about the conflicting texts I was receiving my about my flight  Having to drive 10 hours now 😢
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 16:15:41 -0800
+location: Nashville, TN

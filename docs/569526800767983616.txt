@@ -1,0 +1,7 @@
+569526800767983616
+United
+@united you really need a better system for handling Cancelled Flightled flights http://t.co/3uBCoAsyws
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 07:59:05 -0800
+location: Bechtelsville, PA

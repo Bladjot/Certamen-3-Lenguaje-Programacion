@@ -1,0 +1,7 @@
+569698811708370944
+American
+@AmericanAir why do I have to wait for 2 hours to talk to someone when you changed my flight?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:22:35 -0800
+location: nan

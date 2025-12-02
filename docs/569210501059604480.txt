@@ -1,0 +1,7 @@
+569210501059604480
+Southwest
+@SouthwestAir can you provide direct assistance? My colleague and I cannot re-book b/c the ticket was booked via a corporate account. #help
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 11:02:13 -0800
+location: Roxbury Crossing, MA

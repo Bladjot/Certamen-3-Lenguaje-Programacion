@@ -1,0 +1,7 @@
+568860978231709697
+United
+@united thanks for having ground crews that are surprised when flights arrive. #beingsuckontarmacsucks!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 11:53:20 -0800
+location: USA

@@ -1,0 +1,7 @@
+569881123741937664
+US Airways
+@USAirways your phone system is not working at all I have been bumped again so now I am at 3 times I need to get out of mco
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 07:27:02 -0800
+location: nan

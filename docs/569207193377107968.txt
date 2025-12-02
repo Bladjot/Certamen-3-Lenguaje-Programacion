@@ -1,0 +1,7 @@
+569207193377107968
+United
+@united I'm on snowy roads to BWI. I Just called MileagePlus &amp; told flight was Cancelled Flighted 1 1/2 hours ago. I rcvd no notification. Pls help
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 10:49:04 -0800
+location: NYC & SEAsia

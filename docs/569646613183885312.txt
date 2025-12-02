@@ -1,0 +1,7 @@
+569646613183885312
+American
+@AmericanAir my flight has been delayed &amp; I can't talk reach anyone in customer service because of high call volume.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:55:10 -0800
+location: -тнαт νσι¢є ιиѕι∂є уσυя нєα∂

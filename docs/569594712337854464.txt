@@ -1,0 +1,7 @@
+569594712337854464
+American
+@AmericanAir thank you for quick responses.   #aa usually has fantastic customer service. That's why I was so shocked when it wasn't there
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 12:28:56 -0800
+location: Fort Worth, TX

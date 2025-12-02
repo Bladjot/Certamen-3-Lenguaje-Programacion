@@ -1,0 +1,7 @@
+570022265343123456
+American
+@AmericanAir everything for sorted out. Thanks for the help. Excited to get home tonight!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 16:47:53 -0800
+location: San Diego, CA

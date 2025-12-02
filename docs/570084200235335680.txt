@@ -1,0 +1,7 @@
+570084200235335680
+US Airways
+@USAirways  I open the credit card and earn 44,000+ miles, and you wont' credit the miles to my account to restore the forfeited miles
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 20:53:59 -0800
+location: nan

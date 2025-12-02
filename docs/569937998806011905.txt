@@ -1,0 +1,7 @@
+569937998806011905
+American
+@AmericanAir maybe you should stop tweeting and start calling. Or make it available for people to wait on-hold instead of hanging up on us.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:13:02 -0800
+location: nan

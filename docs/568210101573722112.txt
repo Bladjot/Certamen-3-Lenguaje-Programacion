@@ -1,0 +1,7 @@
+568210101573722112
+Southwest
+@SouthwestAir why can't you take me to Knoxville?? yall are my fav #help
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 16:46:59 -0800
+location: TX // IN

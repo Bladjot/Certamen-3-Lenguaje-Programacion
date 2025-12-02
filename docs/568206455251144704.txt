@@ -1,0 +1,7 @@
+568206455251144704
+Delta
+@JetBlue any good deals for March?! Looking to fly to Orlando!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 16:32:30 -0800
+location: nan

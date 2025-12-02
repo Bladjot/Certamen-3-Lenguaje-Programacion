@@ -1,0 +1,7 @@
+569304186548047872
+Delta
+@JetBlue Another awesome telephone experience with @JetBlue Thank you, Cory! #Greatcustomerservice✈☺
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 17:14:29 -0800
+location: nan

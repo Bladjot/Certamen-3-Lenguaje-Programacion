@@ -1,0 +1,7 @@
+568188595456118785
+Southwest
+@SouthwestAir Whoa. Thanks and that's what I wanted to hear! Early flight coming up. Thanks for the reply.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 15:21:32 -0800
+location: Denver

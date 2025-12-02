@@ -1,0 +1,7 @@
+570033439857979392
+American
+@AmericanAir - cluster continues-still on connecting instead of direct..bag charged and seats not together. #shafted
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 17:32:17 -0800
+location: nan

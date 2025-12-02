@@ -1,0 +1,7 @@
+569504299992141824
+Delta
+@JetBlue Issue is JFK. Pilot explained once JFK reopens we can get scheduled back there, but why can't we divert to LGA? Closer than ACY!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 06:29:40 -0800
+location: Larchmont, New York

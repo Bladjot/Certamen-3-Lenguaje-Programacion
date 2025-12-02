@@ -1,0 +1,7 @@
+569922365322338304
+US Airways
+@USAirways okay, great. Thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:10:55 -0800
+location: Washington, DC

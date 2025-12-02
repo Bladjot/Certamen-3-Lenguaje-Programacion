@@ -1,0 +1,7 @@
+570000364692484099
+United
+@SouthwestAir doesn't charge ticket change fees. Do they not incur the same mysterious "costs" that you incur, @united?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 15:20:51 -0800
+location: All over the damn place.

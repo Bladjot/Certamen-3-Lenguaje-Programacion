@@ -1,0 +1,7 @@
+569650273091584000
+American
+@AmericanAir Do you happen to know if that plane will be repainted, or fly "off into the sunset?"
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:09:43 -0800
+location: Vancouver, BC

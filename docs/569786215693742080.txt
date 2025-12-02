@@ -1,0 +1,7 @@
+569786215693742080
+American
+@AmericanAir So i was visiting SJU and was returning to Paris and they checked my bag at the gate in SJU, i arrived in paris and nothing,(1)
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 01:09:54 -0800
+location: nan

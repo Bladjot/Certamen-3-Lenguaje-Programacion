@@ -1,0 +1,7 @@
+569912776199704578
+United
+@united Cancelled Flights flt from EWR. "No crew".Tells wife &amp; 4 yr old to "get to NY to catch @AirCanada" to YYZ! Good #customerservice is dead.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 09:32:48 -0800
+location: Toronto, ON.....for now.

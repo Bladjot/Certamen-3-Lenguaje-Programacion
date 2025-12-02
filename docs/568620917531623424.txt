@@ -1,0 +1,7 @@
+568620917531623424
+US Airways
+@USAirways - I bet you don't, but I'm the paying customer here. I know how to check for flight delays, thank you.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 19:59:25 -0800
+location: nan

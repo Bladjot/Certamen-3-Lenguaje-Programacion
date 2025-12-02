@@ -1,0 +1,7 @@
+570068045500194816
+Delta
+@JetBlue try harder. Take a winners attitude to your work.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 19:49:48 -0800
+location: Portland, Maine

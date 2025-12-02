@@ -1,0 +1,7 @@
+569612307363266560
+American
+@AmericanAir not sure why I would bother when the agent at the airport didnt help &amp; nobody on phone would. Ticket Cancelled Flightled for no reason.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:38:51 -0800
+location: In the kitchen

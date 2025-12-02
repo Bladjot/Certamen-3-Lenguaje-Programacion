@@ -1,0 +1,7 @@
+570174713072369664
+Delta
+@JetBlue Flight 1447 (N351JB) "JBLU" arrives at @FlyTPA following flight from Westchester County Airport http://t.co/xX2M2jxQep
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 02:53:39 -0800
+location: Englewood, Florida

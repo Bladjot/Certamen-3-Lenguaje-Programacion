@@ -1,0 +1,7 @@
+568101606585020416
+Southwest
+@SouthwestAir it was this one but looks like the problem is now fixed. https://t.co/CFI1E3KXA9
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 09:35:52 -0800
+location: Houston, Texas

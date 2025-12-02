@@ -1,0 +1,7 @@
+567791323597524992
+Southwest
+@SouthwestAir what is DM?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 13:02:55 -0800
+location: nan

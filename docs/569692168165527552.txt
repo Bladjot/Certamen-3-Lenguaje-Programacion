@@ -1,0 +1,7 @@
+569692168165527552
+American
+“@AmericanAir:  "Jason, you'll end up missing your connection. Please see our DFW agents for assistance.” Nope! Hasn't taken off yet, still!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:56:11 -0800
+location: nan

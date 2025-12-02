@@ -1,0 +1,7 @@
+569639972615135232
+American
+@AmericanAir delayed.....wow
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:28:47 -0800
+location: Washington DC

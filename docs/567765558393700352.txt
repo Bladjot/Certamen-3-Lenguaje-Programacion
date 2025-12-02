@@ -1,0 +1,7 @@
+567765558393700352
+United
+@united I just need to get to RIC tonight. I've been in EWR for 24hrs now.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 11:20:32 -0800
+location: Usually in a plane

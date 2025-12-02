@@ -1,0 +1,7 @@
+568931996891807744
+United
+@united Terminal 1 gate B3. Flt 1299. Then take her to Terminal 5. Gate M13. Swiss Air LX009
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 16:35:32 -0800
+location: nan

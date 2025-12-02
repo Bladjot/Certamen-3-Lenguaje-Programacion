@@ -1,0 +1,7 @@
+568654382620782592
+United
+@united well. As of yet, our checked bag has already vanished and we haven't left the airport yet.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 22:12:24 -0800
+location: Chicago

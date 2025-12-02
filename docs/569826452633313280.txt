@@ -1,0 +1,7 @@
+569826452633313280
+American
+@AmericanAir Eventually the call got through. Not sure what changed. Thank you a lot though!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 03:49:47 -0800
+location: nan

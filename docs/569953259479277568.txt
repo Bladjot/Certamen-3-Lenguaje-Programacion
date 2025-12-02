@@ -1,0 +1,7 @@
+569953259479277568
+Delta
+Don't show these to Larry Fedora. RT @JetBlue: Our fleet's on fleek. http://t.co/qqlzk2jkzR
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 12:13:40 -0800
+location: Tiger Town

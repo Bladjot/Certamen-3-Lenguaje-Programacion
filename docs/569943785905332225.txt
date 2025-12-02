@@ -1,0 +1,7 @@
+569943785905332225
+Delta
+Who Okay'd this?!?! RT @JetBlue Our fleet's on fleek. http://t.co/knUVuOVhub
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:36:02 -0800
+location: Gates Ave- Brooklyn

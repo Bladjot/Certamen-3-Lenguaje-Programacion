@@ -1,0 +1,7 @@
+570277667519332353
+United
+@united A measly $50 e-certificate is not how you appreciate loyal customers after they wait 3hrs on the tarmac during UA1116. #unacceptable
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 09:42:45 -0800
+location: San Francisco Bay Area

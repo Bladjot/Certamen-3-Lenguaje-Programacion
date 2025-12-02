@@ -1,0 +1,7 @@
+568743141861228544
+Delta
+@JetBlue Has D.C. Thinking About Summer With New Nantucket Service - Broadway World http://t.co/dS22ceeEnj
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 04:05:06 -0800
+location: USA

@@ -1,0 +1,7 @@
+568545648284340224
+United
+@united just delayed my flight to SLC by 2.5 hours. What gives? #snowforce
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 15:00:20 -0800
+location: San Francisco, CA

@@ -1,0 +1,7 @@
+570240043022991361
+United
+@united @simonroesner you'll need to upgrade the seats too, even in economy plus it's like sitting on a concrete bench.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 07:13:15 -0800
+location: Europe

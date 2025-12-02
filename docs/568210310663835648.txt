@@ -1,0 +1,7 @@
+568210310663835648
+Delta
+@JetBlue To DC this summer and help local youth get ready to return to school with math refresher courses. #FlyItForward
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 16:47:49 -0800
+location: nan

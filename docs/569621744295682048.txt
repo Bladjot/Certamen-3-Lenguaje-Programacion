@@ -1,0 +1,7 @@
+569621744295682048
+Delta
+@JetBlue from San Diego with a 4 hour delay to JFK!Even you have a Amex  JetBlue, even having over 50.000 travel miles, you're still nothing
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:16:21 -0800
+location: New York

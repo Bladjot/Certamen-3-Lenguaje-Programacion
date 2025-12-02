@@ -1,0 +1,7 @@
+569669516185063424
+United
+@united i sure will
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 17:26:11 -0800
+location: Everywhere

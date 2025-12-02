@@ -1,0 +1,7 @@
+569497031322030081
+United
+@united Good luck with the no-enertainment-on-6-hour-flights strategy. Innovation at work. Hello @jetblue http://t.co/HI76BOavXY
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 06:00:47 -0800
+location: Williamsburg, Brooklyn

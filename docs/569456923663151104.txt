@@ -1,0 +1,7 @@
+569456923663151104
+US Airways
+@USAirways how do you manage to place a family of 5 into a plain with none of them sitting next to each other one of them being a 3yr old
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 03:21:25 -0800
+location: iPhone: 36.845329,-75.993790

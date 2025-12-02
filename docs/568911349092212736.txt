@@ -1,0 +1,7 @@
+568911349092212736
+Southwest
+@SouthwestAir I would die if I got tickets to #DestinationDragons and you would be invited to my funeral
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 15:13:30 -0800
+location: nan

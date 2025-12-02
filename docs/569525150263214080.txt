@@ -1,0 +1,7 @@
+569525150263214080
+US Airways
+@USAirways Collectively since Friday I've been on hold with customer service for over 3 hrs. My issue is not resolved... so frustrated!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:52:31 -0800
+location: Pittsburgh, Pa

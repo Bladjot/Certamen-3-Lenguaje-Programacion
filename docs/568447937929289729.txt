@@ -1,0 +1,7 @@
+568447937929289729
+Southwest
+@SouthwestAir please hire an efficiency consultant to manage your PHX baggage checkin. Way to many open kiosks with 100's of ppl waiting
+sentiment: negative
+negativereason: longlines
+created: 2015-02-19 08:32:04 -0800
+location: Dallas, TX

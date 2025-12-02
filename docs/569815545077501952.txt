@@ -1,0 +1,7 @@
+569815545077501952
+American
+@AmericanAir Your rubbish at Social Media! In the air two hours Late Flight but that's better than being Cancelled Flightled!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 03:06:27 -0800
+location: UK

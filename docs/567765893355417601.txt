@@ -1,0 +1,7 @@
+567765893355417601
+US Airways
+@USAirways unfortunately not. I think I watched it take off from the bus. Rebooked for a Late Flightr flight now #planestrainsandautomobiles
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 11:21:52 -0800
+location: Beavercreek Ohio

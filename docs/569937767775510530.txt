@@ -1,0 +1,7 @@
+569937767775510530
+Delta
+“@JetBlue: Our fleet's on fleek. http://t.co/ar0VayLmFc” Really Jet Blue? Lmao
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:12:07 -0800
+location: Manhattan , New York

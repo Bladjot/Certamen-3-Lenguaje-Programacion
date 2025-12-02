@@ -1,0 +1,7 @@
+568639207846989824
+United
+@united I'm searching for flights to redeem with miles and getting different search results with 2 user accounts. Any reason why?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 21:12:06 -0800
+location: Los Angeles, California

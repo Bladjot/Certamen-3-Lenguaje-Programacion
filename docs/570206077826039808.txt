@@ -1,0 +1,7 @@
+570206077826039808
+Delta
+@JetBlue boarding the back of the airplane first. Like a boss. #sosmart #jetblue #frequentflyerappreciates #alsoyayforsnacks
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 04:58:17 -0800
+location: central mass

@@ -1,0 +1,7 @@
+569578297945919488
+US Airways
+@USAirways this has been my WORST flying experience with you guys, you need to do better
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 11:23:43 -0800
+location: New York

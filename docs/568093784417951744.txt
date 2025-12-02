@@ -1,0 +1,7 @@
+568093784417951744
+Delta
+@JetBlue Just a thought!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 09:04:47 -0800
+location: Manhattan

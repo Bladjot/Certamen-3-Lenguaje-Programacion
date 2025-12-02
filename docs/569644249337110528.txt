@@ -1,0 +1,7 @@
+569644249337110528
+US Airways
+@USAirways really? 8 hr delay in Virgin Island and not even a food voucher.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:45:47 -0800
+location: Indiana!

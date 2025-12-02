@@ -1,0 +1,7 @@
+568868127364096000
+Virgin America
+@VirginAmerica Is there anything going on with the website? I've been getting a lot of errors past 30 minutes.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 12:21:45 -0800
+location: Rijswijk ♡ The Netherlands

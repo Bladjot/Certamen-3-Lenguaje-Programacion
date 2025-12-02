@@ -1,0 +1,7 @@
+569874933549027328
+American
+@AmericanAir hahahaha! This is crazy! Well here's to another night at the airport!!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 07:02:26 -0800
+location: nan

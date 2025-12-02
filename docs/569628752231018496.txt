@@ -1,0 +1,7 @@
+569628752231018496
+Delta
+@JetBlue Your scheduling skills failed. The delay went from four hours to nearly six. Don't tell me you were snowbound in PBI.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:44:12 -0800
+location: Sarasota, FL

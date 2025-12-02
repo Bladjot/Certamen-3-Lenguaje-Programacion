@@ -1,0 +1,7 @@
+569695998894673920
+American
+@AmericanAir yes and the auto rebook confirmed an outbound that departs after the return flight.  # fire the software programmers
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 19:11:25 -0800
+location: Tampa, Fl

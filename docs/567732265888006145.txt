@@ -1,0 +1,7 @@
+567732265888006145
+US Airways
+@USAirways The phone line disconnects. How can I be in the queue to be answered when the phone line simply disconnects when I call?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 09:08:14 -0800
+location: DC / MIA

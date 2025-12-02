@@ -1,0 +1,7 @@
+569508336594505728
+Delta
+@jetblue all your online resources  say we're on time, but clearly we are not.  This is not very information age of you...
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 06:45:43 -0800
+location: The Old Dominion

@@ -1,0 +1,7 @@
+569738748885278720
+United
+@united maybemange the airline alittlebetter. Arrived at LAX and no GATE! #howisthatpossible always the same thing w/u
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 22:01:17 -0800
+location: Los Angeles

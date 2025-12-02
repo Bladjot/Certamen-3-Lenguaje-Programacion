@@ -1,0 +1,7 @@
+569017002439761920
+Southwest
+@SouthwestAir at troubadour with @Imaginedragons .#DestinationDragons http://t.co/rKlQXXaWhc
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 22:13:19 -0800
+location: Rhode Island ,Mass,CT

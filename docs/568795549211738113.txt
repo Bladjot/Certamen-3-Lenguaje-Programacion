@@ -1,0 +1,7 @@
+568795549211738113
+US Airways
+@USAirways Handled on the phone. Unfortunately it wiped out an entire trip, which is why I'm so displeased.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 07:33:21 -0800
+location: Delaware

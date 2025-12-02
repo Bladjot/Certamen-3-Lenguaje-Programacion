@@ -1,0 +1,7 @@
+569826992251473921
+United
+@united hi -- @united was. Thank you!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 03:51:56 -0800
+location: Dallas, Texas

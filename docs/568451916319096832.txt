@@ -1,0 +1,8 @@
+568451916319096832
+Southwest
+@SouthwestAir boarding passes now compatible with #iPhone #Passbook 
+http://t.co/1ESmMnIZEk
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 08:47:52 -0800
+location: nan

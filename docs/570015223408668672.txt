@@ -1,0 +1,7 @@
+570015223408668672
+US Airways
+@USAirways Thanks! Sent you DM re: baggage issues.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 16:19:54 -0800
+location: nan

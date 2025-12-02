@@ -1,0 +1,7 @@
+568984098909237248
+United
+@united not even mentioning how rude the customer service was to us. As a business owner, I'd be mortified if my employees acted as yours
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 20:02:35 -0800
+location: Gig Harbor

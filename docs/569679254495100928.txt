@@ -1,0 +1,7 @@
+569679254495100928
+American
+@AmericanAir Unfortunately that is not true. A robot apologizes and hangs up. So how do I get help?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:04:53 -0800
+location: nan

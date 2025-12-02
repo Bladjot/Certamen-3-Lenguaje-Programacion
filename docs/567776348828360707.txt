@@ -1,0 +1,7 @@
+567776348828360707
+Delta
+@JetBlue I would love for you to fly my best friend home to PVD for a weekend. 😊 http://t.co/cH0NmjyMgh
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 12:03:24 -0800
+location: ✈️✈️

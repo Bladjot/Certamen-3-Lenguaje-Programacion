@@ -1,0 +1,7 @@
+570142665246965760
+American
+@AmericanAir lovely flight back from MIA to LHR - great crew - thanks :-))
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 00:46:18 -0800
+location: Wiltshire, UK

@@ -1,0 +1,7 @@
+568504198385373184
+Southwest
+@SouthwestAir why doesn't your terminal B in LGA have pre-check? Makes me want to never fly your airline
+sentiment: negative
+negativereason: longlines
+created: 2015-02-19 12:15:37 -0800
+location: NYC or a plane

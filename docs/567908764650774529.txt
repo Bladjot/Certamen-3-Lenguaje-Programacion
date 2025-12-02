@@ -1,0 +1,7 @@
+567908764650774529
+US Airways
+@USAirways half an inch of snow in Charlotte #overwhelming
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 20:49:35 -0800
+location: nan

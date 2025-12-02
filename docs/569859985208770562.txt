@@ -1,0 +1,7 @@
+569859985208770562
+United
+@united as a freq flyer it makes me sad to see cust needing assistance treated so poorly. #ServiceFail
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:03:02 -0800
+location: Houston, Texas

@@ -1,0 +1,7 @@
+568118442454355968
+Delta
+@JetBlue thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 10:42:46 -0800
+location: Mill Creek, WA

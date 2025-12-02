@@ -1,0 +1,7 @@
+568919673548337152
+US Airways
+@USAirways I did &amp; was told I asked to many questions. bag might still be on flight 413. Should be easy to check when it lands in Seattle.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 15:46:34 -0800
+location: Callahan, FL

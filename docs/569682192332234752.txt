@@ -1,0 +1,7 @@
+569682192332234752
+US Airways
+@USAirways in line for 90 min after mechanical issues caused me to miss my flight. 1 rep for 20 upset people. http://t.co/XFWXsRwkHa
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 18:16:33 -0800
+location: nan

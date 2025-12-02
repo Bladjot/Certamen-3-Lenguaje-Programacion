@@ -1,0 +1,7 @@
+568851512509800448
+United
+@united hey! DM not working. UA 307!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 11:15:43 -0800
+location: New Jersey

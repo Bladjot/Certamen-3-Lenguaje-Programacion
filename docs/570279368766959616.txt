@@ -1,0 +1,7 @@
+570279368766959616
+American
+@AmericanAir These birds could fly to South America for example #Argentina
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:49:31 -0800
+location: nan

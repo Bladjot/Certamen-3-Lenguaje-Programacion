@@ -1,0 +1,7 @@
+569864720305553409
+US Airways
+@USAirways I will. Is it down or is just me?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 06:21:51 -0800
+location: Boston, MA

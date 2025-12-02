@@ -1,0 +1,7 @@
+567871439585435648
+United
+@united Hours on the phone...hung up on...all I want is to be on a different flight (same day) that has an open seat. #greatservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 18:21:16 -0800
+location: nan

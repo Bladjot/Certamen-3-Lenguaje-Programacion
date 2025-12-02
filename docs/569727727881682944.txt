@@ -1,0 +1,7 @@
+569727727881682944
+American
+@AmericanAir I need to know what to do? My flight has been Cancelled Flightled and I can't speak to anyone. Help!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 21:17:30 -0800
+location: Midlothian, TX

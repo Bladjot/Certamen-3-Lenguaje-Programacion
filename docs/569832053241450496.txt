@@ -1,0 +1,7 @@
+569832053241450496
+American
+@AmericanAir husband &amp; I complain about same flight. He gets voucher, I get nothing. Because he flew biz!? Who do I email about this?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 04:12:03 -0800
+location: London

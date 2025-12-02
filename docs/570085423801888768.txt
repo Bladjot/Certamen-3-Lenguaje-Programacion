@@ -1,0 +1,7 @@
+570085423801888768
+US Airways
+@USAirways  I'm glad this airline is going to be swallowed by American!!! American always picks up the phone and solves problems.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 20:58:51 -0800
+location: nan

@@ -1,0 +1,7 @@
+569883558749335552
+US Airways
+@USAirways Wife and I flew to Italy recently. Bought tickets via Finnair, flights operated by USAir. Didn't get dividend miles credited.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 07:36:42 -0800
+location: Newark, DE

@@ -1,0 +1,7 @@
+568931759150084096
+United
+@united Help! My girlfriend Amy Lloyd is going to miss our flt to Zurich bc of your fault. She needs a golf cart to meet her at ORD (1)
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 16:34:36 -0800
+location: nan

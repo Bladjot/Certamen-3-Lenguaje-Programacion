@@ -1,0 +1,7 @@
+569975650691330048
+American
+@AmericanAir @kanne822 @SouthwestAir is better than AA.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 13:42:39 -0800
+location: Greenbow, Alabama

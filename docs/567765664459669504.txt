@@ -1,0 +1,7 @@
+567765664459669504
+Delta
+@JetBlue, I normally ❤️ you, but this Late Flightst flight experience was the worst. 2 hours on runway, no wifi &amp; tv not working properly
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 11:20:57 -0800
+location: New York, NY

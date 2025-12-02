@@ -1,0 +1,7 @@
+569592590632247297
+American
+@AmericanAir Has AA Flight 296 from San Antonio to Dallas been Cancelled Flighted?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 12:20:30 -0800
+location: Pueblo, CO

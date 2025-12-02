@@ -1,0 +1,7 @@
+568161901089132544
+United
+@united Missing crew, passenger doc problems, frozen toilets, and now we're off the plane. Give me my money back.  UA3466
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 13:35:27 -0800
+location: nan

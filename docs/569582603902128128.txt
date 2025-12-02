@@ -1,0 +1,7 @@
+569582603902128128
+Delta
+@JetBlue backlog is an hour at most, this is over two!  Unacceptable!!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 11:40:49 -0800
+location: NYC

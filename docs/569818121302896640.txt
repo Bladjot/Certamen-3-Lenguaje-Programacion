@@ -1,0 +1,7 @@
+569818121302896640
+American
+@AmericanAir your customer service is inferior to that of a nationalized third world nation's airline. Get it together.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 03:16:41 -0800
+location: nan

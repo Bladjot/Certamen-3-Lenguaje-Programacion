@@ -1,0 +1,7 @@
+570204930520190978
+American
+@AmericanAir 3659 from SGF -&gt; DFW. You might want to clear off the ice for the planes landing. 😳
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 04:53:43 -0800
+location: Missouri State University

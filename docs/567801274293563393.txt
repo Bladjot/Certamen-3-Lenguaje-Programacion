@@ -1,0 +1,7 @@
+567801274293563393
+US Airways
+@USAirways I have been rebooked but It has been handled very unprofessionally. Cancelled Flightations happen but the disorganization is uncalled for.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 13:42:27 -0800
+location: nan

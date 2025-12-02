@@ -1,0 +1,7 @@
+568187959276646401
+US Airways
+@USAirways the Late Flightr flight to Charleston is leaving before the flight scheduled earlier.  That's so wrong
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 15:19:00 -0800
+location: Queens, New York

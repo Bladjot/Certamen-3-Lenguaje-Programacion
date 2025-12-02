@@ -1,0 +1,7 @@
+569308292893290496
+Delta
+@JetBlue I did not! She's a woman who's a lead, she was working at gate c26.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 17:30:48 -0800
+location: sweatertown, new england

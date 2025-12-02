@@ -1,0 +1,7 @@
+569574737929576448
+US Airways
+@USAirways and no offers to provide us with a hotel or anything for a flight that is over 19 hours away!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 11:09:34 -0800
+location: Westeros

@@ -1,0 +1,7 @@
+567893201719156736
+Virgin America
+@VirginAmerica That's classy.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 19:47:44 -0800
+location: USA

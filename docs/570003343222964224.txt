@@ -1,0 +1,7 @@
+570003343222964224
+US Airways
+@USAirways strikes again--Late Flight crew #3/4 for the trip and maintenance #2/4.  Worth the extra $200/trip for less hassle and fewer delays
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 15:32:41 -0800
+location: nan

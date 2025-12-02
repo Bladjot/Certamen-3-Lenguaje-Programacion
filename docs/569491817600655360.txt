@@ -1,0 +1,7 @@
+569491817600655360
+United
+@united @wamo66 after 2 hours and 20 minutes most of which I was on hold I was able to get the Cancelled Flightled flight changed to Delta.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 05:40:04 -0800
+location: nan

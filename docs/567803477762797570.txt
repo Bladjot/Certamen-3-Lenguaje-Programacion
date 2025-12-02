@@ -1,0 +1,7 @@
+567803477762797570
+US Airways
+@USAirways Feeling helpless at Tanpa airport. How can I talk to someone. Flight delayed 4 times. Need help. Missed connections will be prob
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 13:51:13 -0800
+location: Nashua, NH

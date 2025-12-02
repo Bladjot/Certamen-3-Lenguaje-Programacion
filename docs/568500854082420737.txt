@@ -1,0 +1,7 @@
+568500854082420737
+US Airways
+@USAirways still in yuma waiting for 2702 to go. Looks like I might miss 2696 to MontereyRegionalAirport need options please
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 12:02:20 -0800
+location: Monterey County, CA

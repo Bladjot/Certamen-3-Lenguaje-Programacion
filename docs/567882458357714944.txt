@@ -1,0 +1,7 @@
+567882458357714944
+United
+@united 12/13EWR-LAX UA1151 my seat/armrest broken discover after takeoff. flight full.FA filed report, who to chat with for partial refund?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 19:05:03 -0800
+location: nan

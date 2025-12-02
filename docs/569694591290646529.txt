@@ -1,0 +1,7 @@
+569694591290646529
+American
+@AmericanAir what is the status of flight 1675 tomorrow
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 19:05:49 -0800
+location: nan

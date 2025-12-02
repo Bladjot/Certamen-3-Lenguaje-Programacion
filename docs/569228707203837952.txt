@@ -1,0 +1,7 @@
+569228707203837952
+United
+@united troubling news, time to raise the bar on legroom! http://t.co/nmbHNGnMkI
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 12:14:34 -0800
+location: ÜT: 39.768182,-86.167261

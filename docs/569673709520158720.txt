@@ -1,0 +1,7 @@
+569673709520158720
+American
+@AmericanAir I need to get from Albuquerque, NM, USA, to Cebu, Philippines. I'm providing educational help for 800 kids. Can you help me?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:42:51 -0800
+location: Albuquerque, New Mexico

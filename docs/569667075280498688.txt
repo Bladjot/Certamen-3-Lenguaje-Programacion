@@ -1,0 +1,7 @@
+569667075280498688
+Southwest
+@SouthwestAir I continue to be amazed by the amazing customer service.  Thank you SWA!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:16:29 -0800
+location: nan

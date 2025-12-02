@@ -1,0 +1,7 @@
+567821166775156736
+United
+@united Call customer service and of course they just say "theres nothing we can do" and then offer a transfer and disconnect the line.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 15:01:30 -0800
+location: nan

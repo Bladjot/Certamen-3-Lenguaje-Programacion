@@ -1,0 +1,7 @@
+568146952635854848
+Delta
+@JetBlue Statement on #Lufthansa Incentive Offer - Stockhouse http://t.co/obF9jbPc6A
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 12:36:03 -0800
+location: USA

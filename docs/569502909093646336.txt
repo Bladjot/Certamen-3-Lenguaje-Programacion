@@ -1,0 +1,7 @@
+569502909093646336
+United
+@united I am still in the airport waiting for my flight.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 06:24:09 -0800
+location: nan

@@ -1,0 +1,7 @@
+569989043456380928
+US Airways
+@USAirways your airway is a joke. I have never dealt with worse service
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:35:52 -0800
+location: Florida Raised, NYC Based

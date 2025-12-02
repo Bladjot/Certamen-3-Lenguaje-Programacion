@@ -1,0 +1,7 @@
+569646446586171392
+United
+.@united all other ANA ticket holders get to use the lounge, too. But not us. Because United booked us. #grumpykim
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:54:31 -0800
+location: Kingston, Canada

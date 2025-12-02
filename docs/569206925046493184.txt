@@ -1,0 +1,7 @@
+569206925046493184
+United
+@united I interviewed yesterday as a flight attendant I was the last person the recruiter said they lost my file n came back to interview me
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 10:48:00 -0800
+location: nan

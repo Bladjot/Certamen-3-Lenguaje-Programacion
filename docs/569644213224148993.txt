@@ -1,0 +1,7 @@
+569644213224148993
+Southwest
+@SouthwestAir Leave BUR ten minutes Late Flight and arrive in SJC a minute before we were supposed to... Impressed! #gettingbetter 👍
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 15:45:38 -0800
+location: nan

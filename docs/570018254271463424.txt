@@ -1,0 +1,8 @@
+570018254271463424
+Delta
+@JetBlue Am I the only one who had to look that up? I must be getting old...
+ #damn
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 16:31:56 -0800
+location: nan

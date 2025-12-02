@@ -1,0 +1,7 @@
+569757907048202240
+US Airways
+@USAirways And by the way, I'm planning it while I've Ben waiting in the line at customer service in PHX...for over an hour!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 23:17:25 -0800
+location: Washington, D.C.

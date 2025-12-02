@@ -1,0 +1,7 @@
+569531387629318144
+US Airways
+@USAirways I have been calling for 3 days!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 08:17:18 -0800
+location: Great Barrington, MA

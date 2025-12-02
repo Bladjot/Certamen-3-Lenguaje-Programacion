@@ -1,0 +1,7 @@
+569604659712811009
+American
+@AmericanAir nah u boofin u dont talk like any humans i know. Respond like u actually have a brain. And again i dont want customer relations
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:08:28 -0800
+location: nan

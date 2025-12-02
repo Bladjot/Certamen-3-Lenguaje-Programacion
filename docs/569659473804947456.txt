@@ -1,0 +1,7 @@
+569659473804947456
+Delta
+@JetBlue aha, ok. Thanks! Was worried there might not be a seat at all :) Will do it at the airport tomorrow then!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 16:46:16 -0800
+location: San Francisco, CA

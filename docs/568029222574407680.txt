@@ -1,0 +1,7 @@
+568029222574407680
+US Airways
+@USAirways we are boarding now but have yet to depart.  Thanks for the response.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 04:48:14 -0800
+location: Any Martin Luther St.

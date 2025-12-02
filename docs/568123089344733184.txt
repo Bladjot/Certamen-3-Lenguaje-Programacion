@@ -1,0 +1,7 @@
+568123089344733184
+Delta
+@JetBlue I sent you an email
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 11:01:14 -0800
+location: new orleans

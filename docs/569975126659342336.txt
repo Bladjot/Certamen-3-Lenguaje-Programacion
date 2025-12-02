@@ -1,0 +1,7 @@
+569975126659342336
+American
+@AmericanAir there's an employee at gate 45 of JFK telling people their bag doesn't fit and needs to be checked when it clearly fits #AA291
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:40:34 -0800
+location: CHI/ATX

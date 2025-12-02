@@ -1,0 +1,7 @@
+570100829396406272
+American
+@AmericanAir thanks  you always be my airline of choice when possible
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 22:00:04 -0800
+location: College Station

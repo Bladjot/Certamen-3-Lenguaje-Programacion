@@ -1,0 +1,7 @@
+567829349727211521
+Delta
+@JetBlue Still love you guys. But get me to Vegas already! ☀️🌴✈️🍸🎲
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 15:34:01 -0800
+location: Miami, FL

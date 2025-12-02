@@ -1,0 +1,7 @@
+568947596242235392
+Southwest
+@SouthwestAir no her lunch was over by the time she got her call answered
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 17:37:32 -0800
+location: nan

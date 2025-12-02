@@ -1,0 +1,7 @@
+569602860020850688
+US Airways
+@USAirways  Flight 4454 aircraft at gate, but no crew?  Will be 2+ hours Late Flight to destination. Come on!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 13:01:19 -0800
+location: Windermere, Florida

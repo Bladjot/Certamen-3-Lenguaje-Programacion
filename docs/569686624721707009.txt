@@ -1,0 +1,7 @@
+569686624721707009
+US Airways
+@USAirways - how do I get an answer to my question?  Holding for hours , after 6x getting your message just said you aren't taking calls.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:34:10 -0800
+location: nan

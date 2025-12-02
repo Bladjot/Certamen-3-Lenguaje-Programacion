@@ -1,0 +1,7 @@
+568154816414789632
+US Airways
+@USAirways I realize the weather but day after day our flights keep getting Cancelled Flighted. Please prioritize ur passengers and help them
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 13:07:18 -0800
+location: nan

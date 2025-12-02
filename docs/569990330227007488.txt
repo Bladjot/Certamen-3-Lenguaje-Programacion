@@ -1,0 +1,7 @@
+569990330227007488
+Delta
+@JetBlue Im just saying change can be amazing, like Miami. 😉
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:40:59 -0800
+location: Long Island

@@ -1,0 +1,7 @@
+569970626057801728
+US Airways
+@USAirways doesn't take into account the $450 it cost 2 rent a car 2 drive home
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:22:41 -0800
+location: Does it really matter

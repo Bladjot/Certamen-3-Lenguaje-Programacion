@@ -1,0 +1,7 @@
+567895874598215680
+Delta
+@JetBlue don't know if u define that as a #ControllableIrregularity
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 19:58:22 -0800
+location: nan

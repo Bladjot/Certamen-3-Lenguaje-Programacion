@@ -1,0 +1,7 @@
+567864058742845440
+Delta
+@JetBlue Why not just take her info in the beginning and if cut off, call back? We do that in my medical practice. We are frequent flyers :(
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 17:51:56 -0800
+location: Greenwich, CT

@@ -1,0 +1,7 @@
+569827602589835265
+American
+@AmericanAir can you please help? you've now rebooked me incorrectly after flight was Cancelled Flightled. please fix my flt to Tuesday!!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 03:54:21 -0800
+location: Plano, Texas

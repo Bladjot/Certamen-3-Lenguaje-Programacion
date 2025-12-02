@@ -1,0 +1,7 @@
+569675608969465856
+American
+@AmericanAir approaching three hours sitting in the plane on the ground at DFW on #AmericanAirlines flight 3056 - Oscar performance
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:50:23 -0800
+location: Springfield, Illinois

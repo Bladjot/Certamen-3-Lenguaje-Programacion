@@ -1,0 +1,7 @@
+569670523765960704
+American
+@AmericanAir thanks for the show! 👍
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:30:11 -0800
+location: Ciudad Juárez MX. [CJS/MMCS]

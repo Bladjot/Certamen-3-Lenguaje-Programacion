@@ -1,0 +1,7 @@
+568275733736353792
+United
+@united hey I left my favorite blanket on the plane bring it back home to me:-(
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 21:07:47 -0800
+location: nan

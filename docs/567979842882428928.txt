@@ -1,0 +1,7 @@
+567979842882428928
+US Airways
+@USAirways @Forsyth_Factor hope for no weather delays no help to reroute and your on your own for lodging non stop is the way to go
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 01:32:01 -0800
+location: nan

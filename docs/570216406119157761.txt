@@ -1,0 +1,7 @@
+570216406119157761
+American
+@AmericanAir mission accomplished today, Thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 05:39:19 -0800
+location: Indianapolis

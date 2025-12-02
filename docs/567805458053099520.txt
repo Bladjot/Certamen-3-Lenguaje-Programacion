@@ -1,0 +1,7 @@
+567805458053099520
+Delta
+@JetBlue No not yet. I will notify them. I'm new at this! 😊
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 13:59:05 -0800
+location: NY

@@ -1,0 +1,7 @@
+569960311022850048
+United
+@united Arriving 25 minutes early is nice, but not if equipment isn't ready. Waiting 30 minutes for luggage, so far. Time gains wiped out.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 12:41:42 -0800
+location: New York, NY

@@ -1,0 +1,7 @@
+570044019897556994
+US Airways
+@USAirways and @FlyKnoxville - bad weather should not be an excuse for not following established luggage procedures. #NoClothesNoInfo
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 18:14:19 -0800
+location: Knoxville

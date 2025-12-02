@@ -1,0 +1,7 @@
+569661901468270592
+American
+@AmericanAir yeah that's not helping. Having my bag shipped to the correct city the first time probably would have helped.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 16:55:55 -0800
+location: nan

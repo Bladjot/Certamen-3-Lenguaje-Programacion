@@ -1,0 +1,7 @@
+569144072843063296
+United
+@united I'm afraid not... I fly or service every week and I'm just unhappy..spend too much money to be unhappy
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 06:38:15 -0800
+location: nan

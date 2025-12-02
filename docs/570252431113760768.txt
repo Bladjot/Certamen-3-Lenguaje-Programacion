@@ -1,0 +1,7 @@
+570252431113760768
+American
+@AmericanAir #AmericanAirlines says most bags left in Miami have been returned following mechanical glitch &gt;&gt; http://t.co/Ib8kyjBCJM
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 08:02:29 -0800
+location: ÜT: 26.72488,-80.13666

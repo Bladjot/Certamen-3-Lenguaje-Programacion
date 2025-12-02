@@ -1,0 +1,7 @@
+568775146703589376
+US Airways
+@USAirways the plane is moving and it's no ice. We are moving to the end of the runway to sit because LGA has one runway open.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 06:12:16 -0800
+location: On a beach

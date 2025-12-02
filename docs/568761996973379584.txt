@@ -1,0 +1,7 @@
+568761996973379584
+Southwest
+@SouthwestAir you do a great job of achieving that at most cities, just not at BWI.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 05:20:01 -0800
+location: nan

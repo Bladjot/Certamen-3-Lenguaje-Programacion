@@ -1,0 +1,7 @@
+569496068255195137
+US Airways
+@USAirways how do I reserve my seat on the AA flight I transfer to from ORD to EVV?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 05:56:58 -0800
+location: Blue Ridge High School

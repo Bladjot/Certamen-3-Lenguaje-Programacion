@@ -1,0 +1,7 @@
+569995961570856960
+United
+@united should NOT sell tickets for @SilverAirways on http://t.co/onhXHCO6bK.  has terrible service and UA staff cannot reach Silver
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 15:03:21 -0800
+location: nan

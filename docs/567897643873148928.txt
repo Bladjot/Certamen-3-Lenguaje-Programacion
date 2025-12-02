@@ -1,0 +1,7 @@
+567897643873148928
+US Airways
+@USAirways flt 4439 is on the ground, but you don't have a gate for us at dca. Why is this happening?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 20:05:23 -0800
+location: Washington, DC

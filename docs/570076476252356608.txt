@@ -1,0 +1,7 @@
+570076476252356608
+Southwest
+@SouthwestAir When will your phone agents be able to give the correct departure times for CUN? When can we checkin online for international?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 20:23:18 -0800
+location: nan

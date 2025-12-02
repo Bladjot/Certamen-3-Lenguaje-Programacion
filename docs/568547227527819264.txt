@@ -1,0 +1,7 @@
+568547227527819264
+United
+@united thanks! Everything a-ok now.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 15:06:36 -0800
+location: San Juan Capistrano

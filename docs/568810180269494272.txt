@@ -1,0 +1,7 @@
+568810180269494272
+United
+@united I will be calling customer service. 2 delayed flights today now, luggage misplaced, a disaster across the board.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 08:31:29 -0800
+location: New York City, baby

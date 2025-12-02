@@ -1,0 +1,7 @@
+569252439548952576
+US Airways
+@USAirways @PHLAirport Cancelled Flighted flight due to weather no problem, but wait for luggage for 4 hours?? IT MUST BE DELIVERED!!
+sentiment: negative
+negativereason: longlines
+created: 2015-02-21 13:48:52 -0800
+location: nan

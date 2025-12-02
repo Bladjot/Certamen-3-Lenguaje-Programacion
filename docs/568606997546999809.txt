@@ -1,0 +1,7 @@
+568606997546999809
+United
+@united enough already with the poor service, old planes, ridiculous routing. 1k and time to find a new airline with status match.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 19:04:07 -0800
+location: nan

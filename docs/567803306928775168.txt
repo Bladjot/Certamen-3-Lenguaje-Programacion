@@ -1,0 +1,7 @@
+567803306928775168
+US Airways
+@USAirways won't waive $200 fee due to #neptune. Can't use credit w/o paying fee. Couldnt get to destination to use their tic #waivethefee
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 13:50:32 -0800
+location: South Shore, MA

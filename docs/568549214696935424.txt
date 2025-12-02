@@ -1,0 +1,7 @@
+568549214696935424
+United
+@united On flight 1712 to Houston delayed duecto engine trouble. Willl you hold my connection to Argentina at Houston since I'm Late Flight now?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 15:14:30 -0800
+location: nan

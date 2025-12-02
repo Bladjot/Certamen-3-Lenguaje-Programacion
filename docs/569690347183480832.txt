@@ -1,0 +1,7 @@
+569690347183480832
+American
+@AmericanAir delta rerouted 6 of my bags onto aa977 MIA-CUR. How can I see if they made it onto the flight?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 18:48:57 -0800
+location: nan

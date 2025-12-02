@@ -1,0 +1,7 @@
+568671211430891520
+United
+@united Any chance you are allowing reFlight Booking Problems yet for travel out of Denver this weekend due to impending storm?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 23:19:16 -0800
+location: nan

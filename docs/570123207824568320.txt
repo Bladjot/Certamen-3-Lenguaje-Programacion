@@ -1,0 +1,7 @@
+570123207824568320
+American
+@AmericanAir that's absolutely horrible customer service. The person supposed to call me can't immediately call back when disconnected???
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 23:28:59 -0800
+location: las vegas/nashville, TN

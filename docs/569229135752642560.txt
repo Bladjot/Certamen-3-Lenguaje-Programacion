@@ -1,0 +1,7 @@
+569229135752642560
+US Airways
+@USAirways you are cutting into my pregame time.  Go @KentuckyMBB !!!!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 12:16:16 -0800
+location: CT, USA

@@ -1,0 +1,7 @@
+570001983408635904
+US Airways
+@USAirways Can you follow, so I can DM you?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 15:27:17 -0800
+location: nan

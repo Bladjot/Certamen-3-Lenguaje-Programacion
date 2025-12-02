@@ -1,0 +1,7 @@
+568438312177762304
+Southwest
+@SouthwestAir oh my god thank you so much!!! I just sent you a DM
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 07:53:49 -0800
+location: Vegas

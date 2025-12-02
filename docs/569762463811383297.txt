@@ -1,0 +1,7 @@
+569762463811383297
+United
+@united not happening.  Delta took care of us.  Peace!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 23:35:31 -0800
+location: Portland, OR

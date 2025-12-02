@@ -1,0 +1,7 @@
+569370010751094784
+United
+@united look at all the delta flights that landed while your pilots claimed they couldn't fly 6232 to JAC. http://t.co/6Kp4m0R1f7
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 21:36:03 -0800
+location: nan

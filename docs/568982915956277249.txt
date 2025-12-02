@@ -1,0 +1,7 @@
+568982915956277249
+United
+@United thanks to Lea in the Chicago office for her help in switching our Cancelled Flighted flights!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 19:57:53 -0800
+location: Exactly where I want to be!

@@ -1,0 +1,7 @@
+567797906977083392
+US Airways
+@USAirways I'm traveling around the world until the end of the year. 800 numbers do me no good.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 13:29:04 -0800
+location: Here, There and Everywhere

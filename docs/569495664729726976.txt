@@ -1,0 +1,7 @@
+569495664729726976
+US Airways
+@USAirways GF was on hold for 4 hours and call was dropped!!! HELP!!!!! Need a flight!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 05:55:21 -0800
+location: VT

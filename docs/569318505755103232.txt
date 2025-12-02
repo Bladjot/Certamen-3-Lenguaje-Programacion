@@ -1,0 +1,7 @@
+569318505755103232
+United
+@united it's been over 3 hours...at what point do you let people off of the plane? @FoxNews @CNN @msnbc
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 18:11:23 -0800
+location: nan

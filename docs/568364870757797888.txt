@@ -1,0 +1,7 @@
+568364870757797888
+Southwest
+@SouthwestAir are passengers automatically rebooked on other flights if original is Cancelled Flighted for weather etc?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 03:01:59 -0800
+location: Powell, TN

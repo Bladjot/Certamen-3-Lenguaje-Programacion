@@ -1,0 +1,7 @@
+569703802783145984
+American
+@AmericanAir How do I check? Reservation for Joe Watson and Kelsey Jennings. We were on hold for 2 hours. Waiting for call back now. ETA?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:42:25 -0800
+location: tejas

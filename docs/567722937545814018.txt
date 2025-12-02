@@ -1,0 +1,7 @@
+567722937545814018
+Southwest
+@SouthwestAir finally!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 08:31:10 -0800
+location: Nashville, TN

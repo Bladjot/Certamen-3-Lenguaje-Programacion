@@ -1,0 +1,7 @@
+569589028590391298
+US Airways
+@USAirways i will be on this plane while on the ground longer than i will be in the air. US5235
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 12:06:21 -0800
+location: Chicago, IL

@@ -1,0 +1,7 @@
+568106916897034241
+US Airways
+@USAirways not patient - originally 11:51 and now 4:41.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 09:56:58 -0800
+location: nan

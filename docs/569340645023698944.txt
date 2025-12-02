@@ -1,0 +1,7 @@
+569340645023698944
+United
+@united sitting in Denver airport waiting for a plane to be refueled. For an hour and a half! Hurry the fuck up United, you fucking retards
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 19:39:22 -0800
+location: nan

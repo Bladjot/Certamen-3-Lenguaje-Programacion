@@ -1,0 +1,7 @@
+568450237028798464
+United
+@united yes when I landed.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 08:41:12 -0800
+location: Near Washington, DC

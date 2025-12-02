@@ -1,0 +1,7 @@
+569891267666006016
+Southwest
+@SouthwestAir to end its daily #B737-700 flights from #Washington Reagan to #FtMyers on 8AUG #avgeek
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 08:07:20 -0800
+location: Abu Dhabi

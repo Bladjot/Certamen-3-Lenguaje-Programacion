@@ -1,0 +1,7 @@
+569296707982221312
+Southwest
+@SouthwestAir Thanks for sending my kid to the #DestinationDragons concert Vegas @Imaginedragons So awesome! http://t.co/G9b6e0a2sZ
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 16:44:46 -0800
+location: AREA 51 NEVADA

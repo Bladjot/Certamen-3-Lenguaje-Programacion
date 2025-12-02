@@ -1,0 +1,7 @@
+569633545737490433
+United
+@united I'll let you know week after next when I do another coast-coast RT again.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:03:15 -0800
+location: Global- Mostly Silicon Valley

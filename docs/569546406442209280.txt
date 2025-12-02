@@ -1,0 +1,7 @@
+569546406442209280
+US Airways
+@USAirways Your customer service line keeps telling me call back Late Flightr and disconnects. How can I talk to someone about my flight?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 09:16:59 -0800
+location: nan

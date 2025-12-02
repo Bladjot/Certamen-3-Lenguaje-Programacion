@@ -1,0 +1,7 @@
+570287408438120448
+Virgin America
+@VirginAmerica @virginmedia I'm flying your #fabulous #Seductive skies again! U take all the #stress away from travel http://t.co/ahlXHhKiyn
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 10:21:28 -0800
+location: nan

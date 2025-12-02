@@ -1,0 +1,7 @@
+569716908787933184
+US Airways
+@USAirways give us no information and an attitude.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:34:30 -0800
+location: Philadelphia, PA

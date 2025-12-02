@@ -1,0 +1,7 @@
+570215492838920193
+American
+@AmericanAir  zoom in on the sauce and potatoes.  This stuff is vile.  And I mean vile. http://t.co/m2PHoavRxC
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 05:35:42 -0800
+location: nan

@@ -1,0 +1,7 @@
+568483591623208961
+Virgin America
+@VirginAmerica i would like help with some flights please.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 10:53:44 -0800
+location: nan

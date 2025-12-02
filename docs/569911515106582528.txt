@@ -1,0 +1,7 @@
+569911515106582528
+United
+@united 1.75 hour delay.  Nothing says sorry like a voucher.  Missing time with family.  #family #precioustime
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 09:27:48 -0800
+location: nan

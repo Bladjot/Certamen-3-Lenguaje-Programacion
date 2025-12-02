@@ -1,0 +1,7 @@
+569638848214507520
+Delta
+@JetBlue thanks for help. Can't wait to travel with! And get out of the snow.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 15:24:19 -0800
+location: Merrimack NH

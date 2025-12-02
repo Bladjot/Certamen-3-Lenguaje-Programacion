@@ -1,0 +1,7 @@
+569698461911683073
+American
+@AmericanAir she doesn't have Twitter.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 19:21:12 -0800
+location: Los Angeles, CA

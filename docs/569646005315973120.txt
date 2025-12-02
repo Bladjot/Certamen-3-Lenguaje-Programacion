@@ -1,0 +1,7 @@
+569646005315973120
+United
+@united Good evening, UA. Can you assist with an issue via DM?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:52:45 -0800
+location: Washington, D.C.

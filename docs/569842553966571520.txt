@@ -1,0 +1,7 @@
+569842553966571520
+United
+@united and learn how to book flights. http://t.co/MHHS9RUpLv
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 04:53:46 -0800
+location: Sheboygan

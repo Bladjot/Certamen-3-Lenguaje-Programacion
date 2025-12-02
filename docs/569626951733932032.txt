@@ -1,0 +1,8 @@
+569626951733932032
+American
+@AmericanAir we are waiting flight 919 !
+We are at JFK for about 24h !! #NewYork #919 #viracopos #AmericanAirlines http://t.co/3FheS0lPMU
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:37:03 -0800
+location: Pocos de Caldas

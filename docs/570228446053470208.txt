@@ -1,0 +1,7 @@
+570228446053470208
+United
+@united Could this email be resent as it doesnt appear to have arrived.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 06:27:10 -0800
+location: Larne

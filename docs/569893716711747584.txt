@@ -1,0 +1,7 @@
+569893716711747584
+American
+@AmericanAir its only 1500 characters, i will respond via formal letter. Trust me, I have plenty to say.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 08:17:04 -0800
+location: Inter/Outer-Continental U.S.

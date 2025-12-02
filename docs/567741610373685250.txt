@@ -1,0 +1,7 @@
+567741610373685250
+Southwest
+@SouthwestAir any idea on flights to Nashville tomorrow being clear or Cancelled Flightled
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:45:22 -0800
+location: nan

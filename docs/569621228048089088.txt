@@ -1,0 +1,7 @@
+569621228048089088
+American
+@AmericanAir 1491 DEN -&gt; DFW. We don't want to be ticketed on a new flight, just refunded for our Cancelled Flighted flight.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 14:14:18 -0800
+location: Dallas, TX

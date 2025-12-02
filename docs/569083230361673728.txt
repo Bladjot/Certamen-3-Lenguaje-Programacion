@@ -1,0 +1,7 @@
+569083230361673728
+Virgin America
+@VirginAmerica - the passenger in 7D, Flt 338 that assaulted me shouldn't have flown. I trust he's banned. Crew filed report to @FAANews
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 02:36:29 -0800
+location: nan

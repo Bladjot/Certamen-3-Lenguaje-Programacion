@@ -1,0 +1,7 @@
+569242798953594880
+Southwest
+@SouthwestAir Hi I just got a message that part of my flights is Cancelled Flightled. I can't rebook online and nobody answers my phone call. Help me
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 13:10:33 -0800
+location: 명동서식 37.56638,126.984994

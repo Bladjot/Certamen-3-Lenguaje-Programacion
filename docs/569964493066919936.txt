@@ -1,0 +1,7 @@
+569964493066919936
+American
+@AmericanAir thanks. Delivery status??
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 12:58:19 -0800
+location: DC

@@ -1,0 +1,7 @@
+568490223417602050
+Virgin America
+@VirginAmerica love you guys, but pls get some direct routes LAS to AUS!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 11:20:05 -0800
+location: The World

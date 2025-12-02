@@ -1,0 +1,7 @@
+568166478572204032
+US Airways
+@USAirways to CLT from JFK nasty planes, dirty seats &amp; floors, rude flight attendants- hopefully AA can get you cleaned up #disgusting #vile
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 13:53:39 -0800
+location: New York, New York

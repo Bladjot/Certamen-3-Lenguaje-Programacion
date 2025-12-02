@@ -1,0 +1,7 @@
+570285115655348226
+United
+@united i DMed you the details
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:12:21 -0800
+location: NYC

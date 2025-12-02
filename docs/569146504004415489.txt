@@ -1,0 +1,7 @@
+569146504004415489
+Southwest
+@SouthwestAir my wife has now been on hold for 90 minutes....I get weather is bad, but this is insane. #customerservice #customerloyalty
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 06:47:55 -0800
+location: nan

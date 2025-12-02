@@ -1,0 +1,7 @@
+570011341483843584
+Virgin America
+@VirginAmerica  DREAM http://t.co/oA2dRfAoQ2 http://t.co/lWWdAc2kHx
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 16:04:28 -0800
+location: Turks and caicos

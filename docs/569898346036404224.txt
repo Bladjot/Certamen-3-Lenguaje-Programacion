@@ -1,0 +1,7 @@
+569898346036404224
+US Airways
+@USAirways I'm sure the people are working very hard, but the systems should assist with IVR prompting, offering call backs, hold wait times
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 08:35:28 -0800
+location: Richmond, VA

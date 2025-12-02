@@ -1,0 +1,7 @@
+569595245945597952
+United
+@united trying to check in for tomorrow's flight. website keeps timing out. what's up?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:31:03 -0800
+location: QCϟDC

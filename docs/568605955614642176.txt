@@ -1,0 +1,7 @@
+568605955614642176
+Southwest
+@SouthwestAir appreciate the reply, hopefully those LAX agents get the memo. Cheers!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 18:59:58 -0800
+location: City of Angels

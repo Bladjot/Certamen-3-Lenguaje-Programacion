@@ -1,0 +1,7 @@
+567806905617281024
+Virgin America
+@VirginAmerica On all your flights?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:04:50 -0800
+location: On a bar floor in Denver.

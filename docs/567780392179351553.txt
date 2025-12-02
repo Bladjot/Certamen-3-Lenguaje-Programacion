@@ -1,0 +1,7 @@
+567780392179351553
+Southwest
+@SouthwestAir not yet! Supposed to get it early evening tonight. Don't want to have to go to the store and buy new necessities.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 12:19:29 -0800
+location: nan

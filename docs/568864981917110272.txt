@@ -1,0 +1,7 @@
+568864981917110272
+US Airways
+@nrhodes85: look! Another apology. DO NOT FLY @USAirways
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 12:09:15 -0800
+location: nan

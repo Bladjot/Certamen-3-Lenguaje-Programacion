@@ -1,0 +1,7 @@
+569215035089690624
+Southwest
+@SouthwestAir thanks so much just had to make a Cancelled Flightlation! I've sent u the info.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 11:20:14 -0800
+location: North Texas

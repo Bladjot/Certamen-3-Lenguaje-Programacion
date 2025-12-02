@@ -1,0 +1,7 @@
+568022599843893248
+US Airways
+@USAirways gate agents are now working with everyone to resolve connecting flight issues which is my concern
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 04:21:55 -0800
+location: Any Martin Luther St.

@@ -1,0 +1,7 @@
+570291699731308545
+Delta
+@JetBlue just wondering if the website is having issues today. Trying to book a flight with my visa I always use and its rejecting it.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 10:38:31 -0800
+location: nan

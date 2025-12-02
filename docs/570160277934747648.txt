@@ -1,0 +1,7 @@
+570160277934747648
+United
+@united Thank you for the cheese platter and abundance of entertainment options. Time just flew by.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 01:56:17 -0800
+location: New York City, NY

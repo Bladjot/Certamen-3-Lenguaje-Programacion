@@ -1,0 +1,7 @@
+568391392528969730
+Southwest
+@SouthwestAir I love you guys! Had to take a few other airlines this week...makes me love and appreciate y'all so much more! #onlywaytofly
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 04:47:22 -0800
+location: nan

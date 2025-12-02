@@ -1,0 +1,7 @@
+569361587032748032
+US Airways
+@USAirways You landed me at #BWI instead of @Reagan_Airport  and have no plans for me to make it home to DC. How do you suggest I get home?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 21:02:35 -0800
+location: nan

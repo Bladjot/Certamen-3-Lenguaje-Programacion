@@ -1,0 +1,7 @@
+567821242029359104
+Southwest
+@SouthwestAir what's yall corporate number bc yall are not trying to accommodate me at all!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 15:01:48 -0800
+location: Nashville by way of New York

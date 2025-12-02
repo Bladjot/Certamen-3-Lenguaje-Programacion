@@ -1,0 +1,7 @@
+569754680626008064
+United
+@United so you jacked out my cousins trip to Portland and then Cancelled Flightled her return trip?! No more United
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 23:04:36 -0800
+location: Portland, OR

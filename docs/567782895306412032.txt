@@ -1,0 +1,7 @@
+567782895306412032
+United
+@united Sure did! Only waited about 15min. Yay!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 12:29:25 -0800
+location: nan

@@ -1,0 +1,7 @@
+567766512392364032
+Southwest
+@SouthwestAir Just sent you a DM with the details.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 11:24:19 -0800
+location: nan

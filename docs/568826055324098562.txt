@@ -1,0 +1,7 @@
+568826055324098562
+Delta
+@JetBlue sent :-) curious to see what kind of comp we get.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 09:34:34 -0800
+location: San Francisco

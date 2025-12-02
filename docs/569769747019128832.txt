@@ -1,0 +1,7 @@
+569769747019128832
+American
+@AmericanAir @robinreda that can be a stop over before Paris. You are an embarrassment
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 00:04:28 -0800
+location: Londres

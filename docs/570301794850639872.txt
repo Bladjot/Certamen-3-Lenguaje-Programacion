@@ -1,0 +1,7 @@
+570301794850639872
+Southwest
+@SouthwestAir poor performance all around! Paid for Express checkin weeks ago and can't even leverage it #bullshit
+sentiment: negative
+negativereason: longlines
+created: 2015-02-24 11:18:38 -0800
+location: Burlington, Ma

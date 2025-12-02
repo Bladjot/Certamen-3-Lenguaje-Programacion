@@ -1,0 +1,7 @@
+569670882207129601
+US Airways
+@USAirways @AmericanAir Not providing pilots for your flights: is this a new feature of your merger? #efficencies
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 17:31:36 -0800
+location: Chicago, IL

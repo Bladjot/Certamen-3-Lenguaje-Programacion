@@ -1,0 +1,7 @@
+569165709516759042
+Virgin America
+@VirginAmerica thanks guys! Sweet route over the Rockies #airplanemodewason
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 08:04:14 -0800
+location: Las Piedras, Peru

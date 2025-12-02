@@ -1,0 +1,7 @@
+569457108355289088
+US Airways
+@USAirways worst experience ever!!!!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 03:22:09 -0800
+location: America

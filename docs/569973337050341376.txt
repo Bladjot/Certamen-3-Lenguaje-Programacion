@@ -1,0 +1,7 @@
+569973337050341376
+American
+@AmericanAir my wife is stuck in #Brownsville any chance she can get any flight out? She needs to be at work tomorrow morning.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 13:33:27 -0800
+location: Bartlesville, OK

@@ -1,0 +1,7 @@
+568096711450566657
+United
+@united Learn to hold connections. They texted me there is another flight Late Flightr - my connection hasn't left and were pulling into the gate
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 09:16:25 -0800
+location: columbus, oh

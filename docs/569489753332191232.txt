@@ -1,0 +1,7 @@
+569489753332191232
+US Airways
+@USAirways My bags were supposed to be delivered to NYC last night (missing since Thurs) but are not here. Can someone call me?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 05:31:52 -0800
+location: nan

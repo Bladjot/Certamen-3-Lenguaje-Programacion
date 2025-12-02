@@ -1,0 +1,7 @@
+568811771315814401
+US Airways
+@USAirways thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 08:37:48 -0800
+location: babynole'18

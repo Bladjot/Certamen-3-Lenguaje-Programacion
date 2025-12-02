@@ -1,0 +1,7 @@
+570288809532891137
+American
+@AmericanAir “Inconvenient” is such a convenient word.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 10:27:02 -0800
+location: North Saanich, BC

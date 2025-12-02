@@ -1,0 +1,7 @@
+569841254655270912
+American
+@AmericanAir @Active_Aly thx. We have already been on the iberia website, and seat reservation is unavailable. Hopefully we can call them.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 04:48:36 -0800
+location: London, England

@@ -1,0 +1,7 @@
+568622422309482496
+Southwest
+@SouthwestAir I love imagine dragons o flipping much, pls #DestinationDragons
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 20:05:24 -0800
+location: nan

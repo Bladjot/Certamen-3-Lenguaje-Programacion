@@ -1,0 +1,7 @@
+567727499367682048
+Southwest
+@SouthwestAir do you think the flights out of Nashville will be Cancelled Flighted tomorrow?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 08:49:18 -0800
+location: TN

@@ -1,0 +1,7 @@
+569346960181870592
+US Airways
+@USAirways flight 837 passengers stuck on plane in Philly. Where is the gangway?  We can't hear the pilot
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 20:04:27 -0800
+location: Gloucester, MA

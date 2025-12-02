@@ -1,0 +1,7 @@
+569655113477988352
+American
+@AmericanAir - Can you please give me a travel agent support phone number? I cant find it on your website. Thanks.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:28:57 -0800
+location: Southern Wisconsin

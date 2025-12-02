@@ -1,0 +1,7 @@
+567820647465803776
+US Airways
+@USAirways It was US 893. The gate was open after about 50 mins waiting. What a great way to finish an 18 hour delayed arrival!!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 14:59:26 -0800
+location: Chicago

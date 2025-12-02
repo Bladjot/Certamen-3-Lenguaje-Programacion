@@ -1,0 +1,7 @@
+568882079091400705
+United
+@united Thank U for the 1hr delay then boarding us onto a plane that reeks of vomit, flight attendant indicated it wasn't cleaned properly.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 13:17:11 -0800
+location: Salt Lake City, UT

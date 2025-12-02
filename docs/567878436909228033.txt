@@ -1,0 +1,7 @@
+567878436909228033
+Southwest
+@SouthwestAir thank you for your help resolving my problem Shannon ROCKS - even though Rhonda didn't !!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 18:49:04 -0800
+location: nan

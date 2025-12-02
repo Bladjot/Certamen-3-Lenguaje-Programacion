@@ -1,0 +1,7 @@
+569902284710084608
+US Airways
+@USAirways 1899. Thanks
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 08:51:07 -0800
+location: Mentor/Columbus

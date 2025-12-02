@@ -1,0 +1,7 @@
+570259420287868928
+Virgin America
+@VirginAmerica I love the hipster innovation. You are a feel good brand.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 08:30:15 -0800
+location: Los Angeles

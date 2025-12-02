@@ -1,0 +1,7 @@
+567729325810917377
+US Airways
+@USAirways No kidding. Oy.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 08:56:33 -0800
+location: Downers Grove

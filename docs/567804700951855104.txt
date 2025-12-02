@@ -1,0 +1,7 @@
+567804700951855104
+US Airways
+@USAirways Thank you. And thanks for being so accommodating.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 13:56:04 -0800
+location: Portland, ME

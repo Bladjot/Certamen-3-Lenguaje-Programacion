@@ -1,0 +1,7 @@
+570013523650048002
+Virgin America
+@VirginAmerica are flights leaving Dallas for Seattle on time Feb 24?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 16:13:09 -0800
+location: nan

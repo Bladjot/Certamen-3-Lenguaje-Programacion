@@ -1,0 +1,7 @@
+570001706676842497
+Delta
+Social agencies, this is why we can't have nice things. @JetBlue: Our fleet's on fleek. http://t.co/QRxz0bGbtq
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 15:26:11 -0800
+location: Brooklyn, NY

@@ -1,0 +1,7 @@
+569932216966516736
+American
+@AmericanAir I don't like making a scene but this hasn't been addressed properly. Please have them do that.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 10:50:04 -0800
+location: Brooklyn, NY

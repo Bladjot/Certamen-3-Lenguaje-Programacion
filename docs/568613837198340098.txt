@@ -1,0 +1,7 @@
+568613837198340098
+Southwest
+@SouthwestAir Yes! How about #DestinationDragons in San Diego?!?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 19:31:17 -0800
+location: San Diego, California

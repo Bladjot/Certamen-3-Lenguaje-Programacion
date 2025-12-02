@@ -1,0 +1,7 @@
+570301670892146688
+United
+@united flying gla-mco in a few weeks. How long do we have to be at airport for before departure for both international and domestic? Ta
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:18:08 -0800
+location: Kilmarnock, now Edinburgh.

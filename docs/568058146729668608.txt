@@ -1,0 +1,7 @@
+568058146729668608
+Southwest
+@SouthwestAir Thank you for your time!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 06:43:10 -0800
+location: Somewhere over the rainbow.

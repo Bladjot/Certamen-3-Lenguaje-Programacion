@@ -1,0 +1,7 @@
+568248245563969536
+United
+@united I forgot that Intl flights out of LAX don't go from Intl Terminal! Easiest re-check in ever! woo!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 19:18:33 -0800
+location: Brisbane, Australiaaa!

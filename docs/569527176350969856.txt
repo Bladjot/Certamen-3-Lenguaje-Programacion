@@ -1,0 +1,7 @@
+569527176350969856
+Southwest
+@SouthwestAir Thanks for the terrible service! Stranded in MDW for 2 days, &amp; now can't find confirmation for rebooked flight from MKE.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 08:00:34 -0800
+location: Cambridge, MA

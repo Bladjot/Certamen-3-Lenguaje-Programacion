@@ -1,0 +1,7 @@
+568821070767255552
+Delta
+@JetBlue Challenge accepted. First 5 crew members to send pics in the chairs get FREE tickets to visit us. #wager #IsItSummerYet
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 09:14:46 -0800
+location: West Berlin, NJ

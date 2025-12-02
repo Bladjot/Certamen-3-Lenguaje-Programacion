@@ -1,0 +1,7 @@
+569683696422244352
+Delta
+@JetBlue okay so anything using contactless EMV should work, just your internal testing and training is currently Apple Pay specific?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:22:32 -0800
+location: Texas

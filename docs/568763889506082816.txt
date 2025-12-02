@@ -1,0 +1,7 @@
+568763889506082816
+Delta
+@JetBlue Oh I will. #Disney bound. #workhard #playsoon
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 05:27:33 -0800
+location: East Greenwich,RI

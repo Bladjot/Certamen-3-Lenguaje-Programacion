@@ -1,0 +1,7 @@
+570292371340062720
+US Airways
+@USAirways Sadly I'm currently booked on one of your flights tomorrow that I will be changing if I can.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 10:41:11 -0800
+location: nan

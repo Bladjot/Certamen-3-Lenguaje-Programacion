@@ -1,0 +1,7 @@
+569676387113672704
+US Airways
+@USAirways got off stand by list and on earlier flight to DCA. What is the status of my checked bag? Was supposed to be on #4047 thanks
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 17:53:29 -0800
+location: DC|LA

@@ -1,0 +1,7 @@
+569271994212069376
+Delta
+@JetBlue Exciting times ahead! 😁🎉
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 15:06:34 -0800
+location: Long Island, New York

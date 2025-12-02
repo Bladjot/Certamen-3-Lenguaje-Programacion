@@ -1,0 +1,7 @@
+568416519073468416
+Southwest
+@SouthwestAir aww thanks!! Other than that, love it!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 06:27:13 -0800
+location: Orlando, Florida

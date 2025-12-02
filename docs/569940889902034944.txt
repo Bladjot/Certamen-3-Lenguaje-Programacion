@@ -1,0 +1,7 @@
+569940889902034944
+American
+@AmericanAir due to road conditions
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:24:31 -0800
+location: Allen, TX

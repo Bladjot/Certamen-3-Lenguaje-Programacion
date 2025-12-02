@@ -1,0 +1,7 @@
+569008601009762305
+United
+@united That is not what your reservations desk just told me.  They said there were plenty of seats
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 21:39:56 -0800
+location: Hong Kong

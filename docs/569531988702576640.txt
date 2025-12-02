@@ -1,0 +1,7 @@
+569531988702576640
+United
+@united DM'd you 4 hrs ago at your request. No response to be found .... just like my bag.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 08:19:42 -0800
+location: nan

@@ -1,0 +1,7 @@
+568491224946098176
+US Airways
+@USAirways Only for one flight, though. The 2nd leg my kids are sitting scattered about the aircraft.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 11:24:04 -0800
+location: nan

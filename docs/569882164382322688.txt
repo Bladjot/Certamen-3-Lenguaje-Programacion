@@ -1,0 +1,7 @@
+569882164382322688
+United
+@united is the worst. Worst reservation policies. Worst costumer service. Worst worst worst. Congrats, @Delta you're not that bad!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:31:10 -0800
+location: Milwaukee, WI

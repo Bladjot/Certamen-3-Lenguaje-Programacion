@@ -1,0 +1,7 @@
+569033300662218752
+US Airways
+@USAirways @AmericanAir flight 849's four subsequent delays destroyed my travel plans this evening. Looking to resolve this matter.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 23:18:05 -0800
+location: nan

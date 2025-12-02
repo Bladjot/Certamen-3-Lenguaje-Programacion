@@ -1,0 +1,7 @@
+569961117235191809
+US Airways
+@USAirways I have a flight voucher/confirmation code but there is no where for me to enter it on your checkout page while Flight Booking Problems. Pls help
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 12:44:54 -0800
+location: nan

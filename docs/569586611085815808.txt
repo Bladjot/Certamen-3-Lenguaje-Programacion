@@ -1,0 +1,7 @@
+569586611085815808
+Delta
+@JetBlue hope so! looks nice and warm in San Juan 🌴
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 11:56:45 -0800
+location: the burg nj

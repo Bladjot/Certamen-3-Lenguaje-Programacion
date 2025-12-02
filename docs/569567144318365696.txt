@@ -1,0 +1,7 @@
+569567144318365696
+Southwest
+@SouthwestAir Flight 52 got Cancelled Flightled 6 hrs before takeoff. No Customer Service. Been on hold for 30 minutes.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 10:39:23 -0800
+location: Wichita

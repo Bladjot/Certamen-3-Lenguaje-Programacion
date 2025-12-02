@@ -1,0 +1,7 @@
+569903725449322496
+US Airways
+@USAirways @HutchinsJim Yes, I made the flight and got my workout in too.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 08:56:51 -0800
+location: Carmel, IN

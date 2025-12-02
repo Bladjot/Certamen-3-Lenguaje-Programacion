@@ -1,0 +1,7 @@
+568613245839224832
+Southwest
+@SouthwestAir do we get to pick which @Imaginedragons show? #DestinationDragons
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 19:28:56 -0800
+location: a cell tower

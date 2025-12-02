@@ -1,0 +1,7 @@
+568561858875142144
+United
+@united my fingers are crossed that they are more capable of getting baggage from point A-&gt;B than United Airlines!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 16:04:45 -0800
+location: nan

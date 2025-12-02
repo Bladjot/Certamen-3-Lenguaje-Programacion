@@ -1,0 +1,7 @@
+568134534857764864
+US Airways
+@USAirways so I would have to go though the entire process again just to get you people on the phone???????? #usairwayssucks
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 11:46:43 -0800
+location: nan

@@ -1,0 +1,7 @@
+569879623317659648
+United
+@united passengers should have been rerouted to match the intended arrival time (even if you have to incur cost to put us in other airlines)
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 07:21:04 -0800
+location: San Francisco, California

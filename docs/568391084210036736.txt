@@ -1,0 +1,8 @@
+568391084210036736
+Virgin America
+@VirginAmerica CEO says #Southwest &amp; #jetblue have strayed from low cost model.
+http://t.co/96Sctomh29
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 04:46:09 -0800
+location: Charlotte, NC

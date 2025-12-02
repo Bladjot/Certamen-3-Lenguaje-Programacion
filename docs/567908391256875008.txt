@@ -1,0 +1,7 @@
+567908391256875008
+US Airways
+@USAirways Already filed a report personally at the airport, however they have no idea where it is even with a tracking number.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 20:48:06 -0800
+location: Under your bed

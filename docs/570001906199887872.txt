@@ -1,0 +1,7 @@
+570001906199887872
+United
+@united your helpful agents in Club helped.  I am just out baggage fees and a night of my life.stop doing business with @SilverAirways
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 15:26:59 -0800
+location: nan

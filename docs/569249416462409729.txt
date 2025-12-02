@@ -1,0 +1,7 @@
+569249416462409729
+United
+@united not sure why u call it customer care.  Should be customer we don't care
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 13:36:51 -0800
+location: Global

@@ -1,0 +1,7 @@
+569890333456117760
+Southwest
+@SouthwestAir to start 2xdaily #B737-700 flights from #OrangeCounty to #Portland OR on 8AUG #avgeek
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 08:03:38 -0800
+location: Abu Dhabi

@@ -1,0 +1,7 @@
+568557220473884672
+United
+@united would be hard to be worse than last time but I'm sure you'll give it a shot
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 15:46:19 -0800
+location: nan

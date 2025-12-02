@@ -1,0 +1,7 @@
+569506974930481153
+US Airways
+@USAirways flight today Cancelled Flighted  in phl, dozens of other flights still going. On hold for 3hrs. I need to get to my job interview!!!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 06:40:18 -0800
+location: Philadelphia

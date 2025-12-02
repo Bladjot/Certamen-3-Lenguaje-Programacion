@@ -1,0 +1,7 @@
+569870128915083264
+US Airways
+@USAirways I've been on hold for 30 minutes and counting. #unacceptable
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:43:21 -0800
+location: nan

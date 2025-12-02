@@ -1,0 +1,7 @@
+568984446487166976
+Delta
+@JetBlue thank you
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 20:03:57 -0800
+location: Brooklyn, NY

@@ -1,0 +1,7 @@
+569783738210525184
+US Airways
+@USAirways How many agents do you have working to handle the thousands of calls?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 01:00:03 -0800
+location: Great Barrington, MA

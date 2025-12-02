@@ -1,0 +1,7 @@
+569484085397057536
+United
+@united can you not get the first flight of the day off the ground on time?   #1531.  Let's go.......
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 05:09:21 -0800
+location: nan

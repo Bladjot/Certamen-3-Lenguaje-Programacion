@@ -1,0 +1,7 @@
+569305705750114305
+Delta
+@JetBlue figured it out 4 flight 2morrow. Hard to believe with oil so low, and the killing u make that even part of a hotel can't be comp'd
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 17:20:32 -0800
+location: Rochester, NY

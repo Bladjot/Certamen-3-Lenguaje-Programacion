@@ -1,0 +1,7 @@
+569687056542244864
+American
+@AmericanAir several hrs Late Flight and 140 characters won't do it. Cheers though
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:35:53 -0800
+location: London, UK

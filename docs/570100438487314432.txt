@@ -1,0 +1,7 @@
+570100438487314432
+United
+@united 32 people getting pretty tired about no action on solving the problem plus missing a day of vacation and skiing
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 21:58:31 -0800
+location: Ottawa, Canada

@@ -1,0 +1,7 @@
+567814095626575873
+Southwest
+@SouthwestAir iiiii need help with my flight schedule!!! haha
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:33:24 -0800
+location: on the water☀

@@ -1,0 +1,7 @@
+568903479722246144
+United
+@united I know. I’m sure you hear it all the time — don’t like the new seats. I’m a small guy, 5’ 6” and I feel the new planes are tight
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 14:42:13 -0800
+location: Culver City, CA

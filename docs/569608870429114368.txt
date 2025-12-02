@@ -1,0 +1,7 @@
+569608870429114368
+United
+@united stuck in YYZ because staff took a break? Not happy 1K....
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:25:12 -0800
+location: Oak Park, IL

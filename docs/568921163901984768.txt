@@ -1,0 +1,7 @@
+568921163901984768
+United
+@united Why haven't you released a travel advisory for IAD for tomorrow????!!!!!!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 15:52:30 -0800
+location: ÜT: 38.763515,-77.718226

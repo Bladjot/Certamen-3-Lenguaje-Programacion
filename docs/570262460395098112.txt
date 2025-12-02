@@ -1,0 +1,7 @@
+570262460395098112
+Southwest
+@SouthwestAir unfortunately I don't even have that. My phone died before o had a chance to grab it. It was from OMA to SAN from 3/27-4/2
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:42:20 -0800
+location: Duluth, MN

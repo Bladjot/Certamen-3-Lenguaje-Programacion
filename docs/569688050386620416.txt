@@ -1,0 +1,7 @@
+569688050386620416
+American
+@AmericanAir if you could get the gate crew to help us off FLT 5350 that would be great....
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:39:50 -0800
+location: New York, NY

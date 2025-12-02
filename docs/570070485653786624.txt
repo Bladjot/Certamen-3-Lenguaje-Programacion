@@ -1,0 +1,7 @@
+570070485653786624
+American
+@AmericanAir We tried with multiple people. I already sat on the phone for an hour and a half and got nowhere.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 19:59:29 -0800
+location: Los Angeles, CA

@@ -1,0 +1,7 @@
+567899634833690624
+Southwest
+@SouthwestAir update 35 minutes into this pilot has turned off a/c. No longer freezing, but we are enjoying waiting for reload of all bags
+sentiment: negative
+negativereason: longlines
+created: 2015-02-17 20:13:18 -0800
+location: nan

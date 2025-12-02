@@ -1,0 +1,7 @@
+569654749055864832
+United
+@united I don't know my flight details bc I need to explore some options which I'm unable to do bc the site won't let me.Seems to be ongoing
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:27:30 -0800
+location: driving, probably

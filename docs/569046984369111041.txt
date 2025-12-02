@@ -1,0 +1,7 @@
+569046984369111041
+Delta
+@JetBlue yeah that's all been done. Define "incidentals"? How much can I spend on gear so this trip is not a waste?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 00:12:28 -0800
+location: New York, NY

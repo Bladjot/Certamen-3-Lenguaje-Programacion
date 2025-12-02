@@ -1,0 +1,7 @@
+569228668918222849
+United
+@united 1632 was phenomenal frm gate (SEA) to gate (IAD)
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 12:14:25 -0800
+location: washington dc

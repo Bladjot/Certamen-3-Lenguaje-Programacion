@@ -1,0 +1,7 @@
+567734128011784192
+United
+.@united we rebooked. But @casleah and I had to split up and take different flights because a pilot ran out of hours? Frustrating.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 09:15:38 -0800
+location: Kanasa City

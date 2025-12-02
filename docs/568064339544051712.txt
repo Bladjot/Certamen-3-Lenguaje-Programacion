@@ -1,0 +1,7 @@
+568064339544051712
+Southwest
+@SouthwestAir why do your MDW gates have so many fewer seats than your planes?
+sentiment: negative
+negativereason: longlines
+created: 2015-02-18 07:07:47 -0800
+location: New York, NY

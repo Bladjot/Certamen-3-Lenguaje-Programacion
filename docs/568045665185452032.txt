@@ -1,0 +1,7 @@
+568045665185452032
+Delta
+@JetBlue Social Media Takes Flight with Fly #LikeAGirl - What brand lesson can we learn?  #SMM #Brand  https://t.co/nTGl2WnQVM
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 05:53:35 -0800
+location: Chicago, an Airplane or Train

@@ -1,0 +1,7 @@
+569529412196167682
+US Airways
+@USAirways Thanks for Cancelled Flighting my flight tomorrow and not reFlight Booking Problems me on another one. #usairwaysfail
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 08:09:27 -0800
+location: nan

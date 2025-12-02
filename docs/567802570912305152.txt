@@ -1,0 +1,7 @@
+567802570912305152
+US Airways
+@USAirways Flight Cancelled Flighted because of #Neptune Could not get to my destination. #notmyfault  #waive$200fee #ripoff #poorcustomerservice
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 13:47:36 -0800
+location: South Shore, MA

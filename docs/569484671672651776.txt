@@ -1,0 +1,7 @@
+569484671672651776
+United
+@united A day Late Flightr, one delayed &amp; one Cancelled Flightled flight, I'm at a gate with no seat assign. Lots of standby ppl also waiting.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 05:11:40 -0800
+location: PDX

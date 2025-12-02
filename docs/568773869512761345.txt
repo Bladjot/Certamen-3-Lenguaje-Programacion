@@ -1,0 +1,7 @@
+568773869512761345
+US Airways
+@USAirways Thks US #1786 2/19 PHL to FLL. Overall 1st class has improved with more food now on PHL to FLL and most crews are super.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 06:07:12 -0800
+location: Haverford, PA & Wilton Manors

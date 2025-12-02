@@ -1,0 +1,7 @@
+570280008557547520
+Delta
+@JetBlue I did see that! Working on picking up a trip or two as we type.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 09:52:03 -0800
+location: New York-ish + Airport Bars

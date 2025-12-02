@@ -1,0 +1,7 @@
+570293527982301184
+Southwest
+@SouthwestAir never mind, I moved my flight to tomorrow. Thanks for the help!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 10:45:47 -0800
+location: nan

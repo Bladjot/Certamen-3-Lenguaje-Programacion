@@ -1,0 +1,7 @@
+567731598871642112
+Southwest
+@SouthwestAir thank you. I was given this same reply 2 years ago. Can you direct me to an area I can learn more about the improvements?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 09:05:35 -0800
+location: nan

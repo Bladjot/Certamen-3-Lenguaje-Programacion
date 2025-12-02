@@ -1,0 +1,7 @@
+569954583209881600
+Southwest
+@SouthwestAir I appreciate the response, but the constant changing of the flight time is frustrating to say the least. #toughtomakeplans
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 12:18:56 -0800
+location: nan

@@ -1,0 +1,7 @@
+568882321119510528
+Southwest
+@SouthwestAir, thanks for being so good to us #military folk. It's cold in #StLouis but I sure enjoyed my flight. http://t.co/RcdH183Q1J
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 13:18:09 -0800
+location: Opelika, Alabama

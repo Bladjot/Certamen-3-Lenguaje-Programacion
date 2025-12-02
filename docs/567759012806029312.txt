@@ -1,0 +1,7 @@
+567759012806029312
+Virgin America
+@VirginAmerica thanks! Y'all have some of the best customer service left in the industry.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 10:54:31 -0800
+location: Texas

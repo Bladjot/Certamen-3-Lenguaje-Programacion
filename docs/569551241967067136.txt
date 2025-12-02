@@ -1,0 +1,7 @@
+569551241967067136
+United
+@united really enjoying my Sunday on hold...over 1 hour. Perhaps a better client experience is needed. http://t.co/8VnCKgZxl1
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 09:36:12 -0800
+location: Dallas

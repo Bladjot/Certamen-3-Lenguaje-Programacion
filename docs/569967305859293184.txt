@@ -1,0 +1,7 @@
+569967305859293184
+United
+@united #UnitedAirlines Pls Fix #AspenBaggageFail issues. Had to pay my own way to #Aspen after flight Cancelled Flight. Left us in the cold in DEN.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 13:09:29 -0800
+location: Harlem, NYC

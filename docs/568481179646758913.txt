@@ -1,0 +1,7 @@
+568481179646758913
+US Airways
+@USAirways now you have over 50 people in line. This is stupid!!! What the heck!
+sentiment: negative
+negativereason: longlines
+created: 2015-02-19 10:44:09 -0800
+location: Monterey County, CA

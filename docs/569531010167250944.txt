@@ -1,0 +1,7 @@
+569531010167250944
+United
+@united last week we also had maintenance issues and a flat tire. Another flight last week was Cancelled Flighted. Your track record is the WORST!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 08:15:48 -0800
+location: nan

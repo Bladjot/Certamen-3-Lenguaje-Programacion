@@ -1,0 +1,7 @@
+568018287302447104
+US Airways
+@USAirways Thx to gate agt John Pascucci for finding us a flight from CLT to PVD after our original one was Cancelled Flightled http://t.co/YiwLhQhZgp
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 04:04:47 -0800
+location: Providence, Rhode Island

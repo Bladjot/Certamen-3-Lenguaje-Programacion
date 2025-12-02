@@ -1,0 +1,7 @@
+570264179216510976
+American
+@AmericanAir You're right. Someone is up to something...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:49:09 -0800
+location: DFW Airport, TX

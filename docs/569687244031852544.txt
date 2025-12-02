@@ -1,0 +1,7 @@
+569687244031852544
+Delta
+@JetBlue such a bummer.  But I understand it's a business deal. Thanks for answering me!  Much less sad now.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:36:37 -0800
+location: New York, NY

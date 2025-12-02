@@ -1,0 +1,7 @@
+569540405676654592
+Virgin America
+@VirginAmerica - Your site seems a little wonked right now. May want to have a look. Tried on two browsers. No CSS? http://t.co/8qsQMM7KF2
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 08:53:08 -0800
+location: nan

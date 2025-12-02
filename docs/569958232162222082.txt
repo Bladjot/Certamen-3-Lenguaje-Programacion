@@ -1,0 +1,7 @@
+569958232162222082
+American
+@AmericanAir can I redeem AAdavantage miles on LAN flights?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:33:26 -0800
+location: New York, NY

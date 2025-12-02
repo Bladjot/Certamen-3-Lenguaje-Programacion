@@ -1,0 +1,7 @@
+568518985056002049
+Virgin America
+@virginamerica not really the experience I was hoping 4, I ws forced 2 check in a small carry on, w/ nothing but empty cabin space on board
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 13:14:23 -0800
+location: ”Straight Outta Jersey”

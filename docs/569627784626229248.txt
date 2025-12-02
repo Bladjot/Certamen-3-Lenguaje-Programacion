@@ -1,0 +1,7 @@
+569627784626229248
+American
+@AmericanAir 3231DTW to LAG at 4:45. Flight Cancelled Flightled with no notice. Given a voucher to a dirty hotel, with no food vouchers or apology.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 14:40:21 -0800
+location: New York, NY

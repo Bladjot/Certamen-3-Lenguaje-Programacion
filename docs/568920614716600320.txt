@@ -1,0 +1,7 @@
+568920614716600320
+Virgin America
+@VirginAmerica way to take advantage of #MayweatherPacquiao :)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 15:50:19 -0800
+location: nan

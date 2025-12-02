@@ -1,0 +1,7 @@
+570289521113366531
+Southwest
+@SouthwestAir oh look you just delayed our flight an additional half hour now arriving at 6 officially five hours after planned. 😡😡😡😡😤😤😤
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 10:29:51 -0800
+location: nan

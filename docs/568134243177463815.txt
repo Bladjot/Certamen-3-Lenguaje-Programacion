@@ -1,0 +1,7 @@
+568134243177463815
+United
+@united Just boarded UA1297, was refused from carrying overhead bag as no space, in plane now with loads of space #fail #customerexperience
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 11:45:33 -0800
+location: DFW & SF

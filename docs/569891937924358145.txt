@@ -1,0 +1,7 @@
+569891937924358145
+American
+@AmericanAir Cancelled Flighting my flight today because of weather in Dallas without being charged?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 08:10:00 -0800
+location: Chicago,IL

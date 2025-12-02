@@ -1,0 +1,7 @@
+569448465991737345
+United
+@united no my concerns were not addressed
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 02:47:48 -0800
+location: #Westford #marketing

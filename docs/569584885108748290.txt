@@ -1,0 +1,7 @@
+569584885108748290
+US Airways
+@USAirways Flight 4210 been sitting @Bradley_Airport gate 27 for 10 min w door open since we arrived. Still no jet bridge. Can someone help?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 11:49:53 -0800
+location: Pittsfield, MA

@@ -1,0 +1,7 @@
+569238450794209280
+US Airways
+@USAirways -beg to differ. 4 things booked wrong and still not fixed. Get your act together! #USAirSucks
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 12:53:17 -0800
+location: Arizona

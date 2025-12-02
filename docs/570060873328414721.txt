@@ -1,0 +1,7 @@
+570060873328414721
+US Airways
+@USAirways ... I f@$%ing hate you.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 19:21:18 -0800
+location: St. Louis to Parris Island, SC

@@ -1,0 +1,7 @@
+569600599588630529
+American
+@AmericanAir please help us get home tomorrow!!!!!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:52:20 -0800
+location: nan

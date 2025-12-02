@@ -1,0 +1,7 @@
+569342508553121795
+US Airways
+@USAirways on hold 3 hours !!!!!! What's the number to speak to someone this is unacceptable I need to change flights
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 19:46:46 -0800
+location: NYC

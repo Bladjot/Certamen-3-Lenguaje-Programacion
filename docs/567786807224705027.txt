@@ -1,0 +1,7 @@
+567786807224705027
+US Airways
+@usairways I just want to get home before Wednesday... Joke is over, 50hrs of Cancelled Flightlations and delays is enough!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 12:44:58 -0800
+location: nan

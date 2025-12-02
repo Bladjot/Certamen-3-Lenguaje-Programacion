@@ -1,0 +1,7 @@
+569810928449003521
+American
+@AmericanAir No I do not have them yet. Called for baggage status 5 times yesterday.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 02:48:06 -0800
+location: Alexandria, VA

@@ -1,0 +1,7 @@
+569592177312923650
+American
+@AmericanAir my flight was Cancelled Flightled from Laguardia to Louisville Ky and i am  stuck at the airport. Do you guys compensate for this?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 12:18:52 -0800
+location: KY

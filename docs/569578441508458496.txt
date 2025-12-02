@@ -1,0 +1,7 @@
+569578441508458496
+United
+@united I'm DMing my info and no is assisting. My flight home left before m first flight had even landed
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 11:24:17 -0800
+location: SE AZ By Way of HV

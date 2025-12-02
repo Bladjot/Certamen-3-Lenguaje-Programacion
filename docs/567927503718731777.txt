@@ -1,0 +1,7 @@
+567927503718731777
+United
+@united, wtf is your username and/or email addr signin STILL unavailable? Been trying to login since Sunday
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 22:04:03 -0800
+location: Brisbane

@@ -1,0 +1,7 @@
+568924781837455360
+Delta
+@JetBlue any news on flight 122 pbi-boston delay? Can we wait to arrive at airport based on reported 1 and 1/2 hour delay?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 16:06:52 -0800
+location: nan

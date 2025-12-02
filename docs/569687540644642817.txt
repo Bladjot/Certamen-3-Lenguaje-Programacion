@@ -1,0 +1,7 @@
+569687540644642817
+Southwest
+@SouthwestAir especially if it's your mom! #IChangedYourDiaper
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:37:48 -0800
+location: Between FL & MN

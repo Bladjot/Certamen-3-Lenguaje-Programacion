@@ -1,0 +1,7 @@
+569734991862607872
+United
+@united even after running to gate from your connecting flight, your customer service not let us in the plane that was just parked. Stranded
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 21:46:21 -0800
+location: EP TX

@@ -1,0 +1,7 @@
+569614361574158336
+US Airways
+@USAirways has the WORST customer service and their flights are always delayed
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:47:01 -0800
+location: nan

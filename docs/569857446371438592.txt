@@ -1,0 +1,7 @@
+569857446371438592
+American
+@AmericanAir Phone just disconnects if you stay on the line. Need to checkout of hotel in 2 hrs &amp; have no place to go. Can't keep calling.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 05:52:57 -0800
+location: Bellevue, WA

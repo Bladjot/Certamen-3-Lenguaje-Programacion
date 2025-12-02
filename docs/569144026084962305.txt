@@ -1,0 +1,7 @@
+569144026084962305
+US Airways
+@USAirways check in at St. Louis is so rude, even the TSA is nicer than them.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 06:38:04 -0800
+location: nan

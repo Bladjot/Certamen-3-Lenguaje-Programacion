@@ -1,0 +1,7 @@
+569919793572261888
+American
+@AmericanAir Don't require us to memorize a five-word phrase and remember it after we hear another six million options
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 10:00:42 -0800
+location: nan

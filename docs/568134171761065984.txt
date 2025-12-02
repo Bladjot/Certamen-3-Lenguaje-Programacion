@@ -1,0 +1,7 @@
+568134171761065984
+United
+@united get your act right! You just lost customers because your staff wouldn't let us take our approved carry-on on a half empty flight!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 11:45:16 -0800
+location: San Francisco Bay Area, USA

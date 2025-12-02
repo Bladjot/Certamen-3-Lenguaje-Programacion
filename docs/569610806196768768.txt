@@ -1,0 +1,7 @@
+569610806196768768
+Southwest
+@SouthwestAir done
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 13:32:53 -0800
+location: nan

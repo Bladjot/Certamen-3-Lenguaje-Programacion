@@ -1,0 +1,7 @@
+568083251866152960
+US Airways
+@USAirways you got me home 30 hours after you were supposed to... I was living in an airport, you offered no monetary assistance!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 08:22:56 -0800
+location: nan

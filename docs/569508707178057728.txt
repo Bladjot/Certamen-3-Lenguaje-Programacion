@@ -1,0 +1,7 @@
+569508707178057728
+Southwest
+@SouthwestAir Make the world a better place: Visit an elderly relative.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 06:47:11 -0800
+location: nan

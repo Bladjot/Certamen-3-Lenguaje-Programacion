@@ -1,0 +1,7 @@
+568063386321158145
+US Airways
+@USAirways thanks so much!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 07:04:00 -0800
+location: NYC/London

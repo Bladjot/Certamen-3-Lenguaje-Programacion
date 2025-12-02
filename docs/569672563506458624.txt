@@ -1,0 +1,7 @@
+569672563506458624
+Delta
+@JetBlue you're still the best
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:38:17 -0800
+location: Boston, MA

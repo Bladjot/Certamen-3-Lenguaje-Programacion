@@ -1,0 +1,7 @@
+568999631956393984
+US Airways
+@USAirways I'm glad you're sorry that I'm homeless for the night. Makes me feel secure.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 21:04:18 -0800
+location: Asheville, NC

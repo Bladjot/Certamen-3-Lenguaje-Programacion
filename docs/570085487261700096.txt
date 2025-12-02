@@ -1,0 +1,7 @@
+570085487261700096
+US Airways
+@USAirways  I've never been treated this badly
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 20:59:06 -0800
+location: nan

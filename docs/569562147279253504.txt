@@ -1,0 +1,7 @@
+569562147279253504
+United
+@united Adding reservation to iOS app doesn't show up on desktop site when logged in. And miles can't be redeemed for upgrades thru your app
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 10:19:32 -0800
+location: Earth

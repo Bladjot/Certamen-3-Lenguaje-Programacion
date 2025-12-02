@@ -1,0 +1,7 @@
+570271479616573440
+American
+@AmericanAir @beantownmatty Sounds like a date!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 09:18:10 -0800
+location: nan

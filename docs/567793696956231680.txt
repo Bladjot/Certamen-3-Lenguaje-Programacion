@@ -1,0 +1,7 @@
+567793696956231680
+United
+@united thanks for the offer, but I finally made it to my destination, albeit hours Late Flight.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 13:12:21 -0800
+location: chicago, il

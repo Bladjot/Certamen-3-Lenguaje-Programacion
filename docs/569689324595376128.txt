@@ -1,0 +1,7 @@
+569689324595376128
+US Airways
+@USAirways help! I've been on hold for almost two hours. Trying 2 get home.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:44:53 -0800
+location: Washington, DC

@@ -1,0 +1,7 @@
+568204182676578304
+United
+@united I knew I should've flew @VirginAmerica lol
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 16:23:28 -0800
+location: I'm just a kid from Oak Harbor

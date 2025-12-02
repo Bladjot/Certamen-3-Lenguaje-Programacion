@@ -1,0 +1,7 @@
+567916726668644352
+US Airways
+@USAirways 25 mins after the scheduled departure and still sitting in terminal. Communication would be lovely... http://t.co/pkAxUNYfn2
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 21:21:13 -0800
+location: nan

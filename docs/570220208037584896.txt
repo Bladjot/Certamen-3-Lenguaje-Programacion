@@ -1,0 +1,7 @@
+570220208037584896
+American
+@AmericanAir why thank you!! Yayayay!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 05:54:26 -0800
+location: the one and only TEXAS!!!!

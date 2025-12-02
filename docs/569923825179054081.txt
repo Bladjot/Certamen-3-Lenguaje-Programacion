@@ -1,0 +1,7 @@
+569923825179054081
+Delta
+@JetBlue Hopefully now my application for JetBlue donut designer will finally go through the proper channels.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:16:43 -0800
+location: NYC

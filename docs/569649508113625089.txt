@@ -1,0 +1,7 @@
+569649508113625089
+American
+@AmericanAir I've got a BA flight as your airport couldn't accommodate us. We were left without any info. No vouchers for food,nothing.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 16:06:40 -0800
+location: nan

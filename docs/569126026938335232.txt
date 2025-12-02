@@ -1,0 +1,7 @@
+569126026938335232
+Southwest
+@SouthwestAir I'm going to need you to answer your phones. Being on hold for an hour isn't okay.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 05:26:33 -0800
+location: Louisville, KY

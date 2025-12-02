@@ -1,0 +1,7 @@
+568881357583097857
+United
+@united just landed. Might want to check flight 304 plane from Houston. That sound was during takeoff &amp; landing http://t.co/QKquRagGoO
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 13:14:19 -0800
+location: USA

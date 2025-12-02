@@ -1,0 +1,7 @@
+569952408450805760
+United
+@united I was originally trying to share details but the link Jimmy Samartzis Vice President - Customer Experience sent me expired.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 12:10:18 -0800
+location: nan

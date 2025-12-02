@@ -1,0 +1,7 @@
+569857415027564545
+American
+@AmericanAir do you know if there is wifi on this flight? If so how much is it? Thank you :-)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 05:52:49 -0800
+location: nan

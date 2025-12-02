@@ -1,0 +1,7 @@
+569654988877668354
+American
+@AmericanAir your maint delay left us stuck in den!! Flight 1080.  Been on plane for 7 hrs.  Stop flying broke french planes!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:28:27 -0800
+location: nan

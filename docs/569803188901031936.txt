@@ -1,0 +1,7 @@
+569803188901031936
+American
+@AmericanAir waited in the airport for two days to get home, not weather reLate Flightd. Dealt with horrible customer service. Finally switched to
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 02:17:21 -0800
+location: Edmonton

@@ -1,0 +1,7 @@
+568929641756368896
+Southwest
+@SouthwestAir how can customers get in touch with you internationally from Mexico for lost baggage
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 16:26:11 -0800
+location: Austin, TX

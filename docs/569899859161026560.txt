@@ -1,0 +1,7 @@
+569899859161026560
+US Airways
+@USAirways That is the height of rudeness, and without question the worst customer service I have ever experienced.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 08:41:29 -0800
+location: Watching @Interpol somewhere

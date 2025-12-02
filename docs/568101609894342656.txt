@@ -1,0 +1,7 @@
+568101609894342656
+United
+2/2 @united You don't really care about our comfort, you care about profitability. That's fine, just own up to it. #unfriendlyskies
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 09:35:53 -0800
+location: NYC

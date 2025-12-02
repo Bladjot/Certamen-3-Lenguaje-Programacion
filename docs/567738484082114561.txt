@@ -1,0 +1,7 @@
+567738484082114561
+Southwest
+@SouthwestAir I also find it ridiculous that I've been tweeting to you since 3:50 AM EST and have still received no response. 9 hours?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 09:32:57 -0800
+location: Cambridge, MA

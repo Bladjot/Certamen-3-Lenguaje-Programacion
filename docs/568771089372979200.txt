@@ -1,0 +1,7 @@
+568771089372979200
+United
+@united I really have a hard time believing that 4 planes in this terminal are all delayed for mechanical issues. #whatgives #dullessucks
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 05:56:09 -0800
+location: nan

@@ -1,0 +1,7 @@
+569940889591795712
+US Airways
+@USAirways, I'm expecting 400% reimbursement for the unprofessional decisions with US728 on 21 Feb. Check your very full complaint box.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 11:24:31 -0800
+location: nan

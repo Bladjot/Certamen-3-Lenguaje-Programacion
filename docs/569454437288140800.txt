@@ -1,0 +1,7 @@
+569454437288140800
+United
+@united This has been the WORST flight experience I've ever had. Thank you for ending my vacation on such a bad note.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 03:11:32 -0800
+location: PDX

@@ -1,0 +1,7 @@
+569608282442047488
+American
+@AmericanAir flight Cancelled Flighted out of LAX for tomorrow due to connection in DFW. Help please? we can go out of orange or burbank
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 13:22:52 -0800
+location: Ohio

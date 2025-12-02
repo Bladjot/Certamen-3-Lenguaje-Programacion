@@ -1,0 +1,7 @@
+569672361890295808
+American
+@AmericanAir thanks to FA Shawn for spectacular service on FLT 79 LHRDFW and to FA Susan for such a warm engaging onboard welcome
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:37:29 -0800
+location: San Diego, CA

@@ -1,0 +1,7 @@
+570050402294636544
+Southwest
+@SouthwestAir very disappointed in your customer service right now. definitely not feeling the luv. what's worse, 2nd time this winter.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 18:39:41 -0800
+location: New Orleans, LA, USA

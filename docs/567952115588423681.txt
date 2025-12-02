@@ -1,0 +1,7 @@
+567952115588423681
+United
+@united How can you not know where my bags are?  You knew where they were 6 hours ago. You are killing me!  Worst service. Ever.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 23:41:51 -0800
+location: All Over The World

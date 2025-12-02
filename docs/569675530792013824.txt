@@ -1,0 +1,7 @@
+569675530792013824
+American
+@AmericanAir - We have; they were useless. Baggage service called before 9 to tell us we would have bags by 3. Now, maybe midnight.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 17:50:05 -0800
+location: Massachusetts

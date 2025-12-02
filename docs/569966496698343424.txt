@@ -1,0 +1,7 @@
+569966496698343424
+American
+@AmericanAir 2nd time in 4 days that my flight has been delayed and my gate agent hasn't said anything! Thanks for the memories. #NeverAgain
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 13:06:16 -0800
+location: New York, NY

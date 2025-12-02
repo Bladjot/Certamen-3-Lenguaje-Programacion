@@ -1,0 +1,7 @@
+569614436660432896
+Southwest
+@SouthwestAir extremely frustrating travel experience in Denver! Instead of landing in SEA on Saturday, now it's Monday afternoon!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 13:47:19 -0800
+location: no where

@@ -1,0 +1,7 @@
+568192942088843264
+Delta
+@JetBlue I can't say what airline I am on right now, but I sincerely miss you. #bestairline
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 15:38:48 -0800
+location: Los Angeles

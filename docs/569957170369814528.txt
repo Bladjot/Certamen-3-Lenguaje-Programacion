@@ -1,0 +1,7 @@
+569957170369814528
+American
+@AmericanAir to realize your customer service leaves much to be desired and the folks handling the calls could care less...and it shows.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 12:29:13 -0800
+location: Dallas

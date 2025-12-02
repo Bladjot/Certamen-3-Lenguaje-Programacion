@@ -1,0 +1,7 @@
+569737333827887105
+American
+@AmericanAir - Whoooo Hooooo just crossed 25,367!!! At my current pace I should reach 152,202 for the year.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 21:55:40 -0800
+location: nan

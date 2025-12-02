@@ -1,0 +1,7 @@
+569641587766009856
+American
+@AmericanAir the fact that that rule makes it poor customer service. I can Cancelled Flight/change on @SouthwestAir with no penalty or hoops.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:35:12 -0800
+location: Boston, MA

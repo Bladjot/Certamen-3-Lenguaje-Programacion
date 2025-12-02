@@ -1,0 +1,7 @@
+568382196081229824
+US Airways
+@USAirways if a passenger is to large to put down the armrest and now is using part of my seat, what is my recourse?  #nothappy
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 04:10:50 -0800
+location: Tacoma Washington

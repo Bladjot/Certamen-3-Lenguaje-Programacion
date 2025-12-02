@@ -1,0 +1,7 @@
+570262676481421312
+US Airways
+@USAirways 2day: no coffee &amp; 1 working toilet.  Then I read domestic airlines whining re: foreign competition.  Coincidence?  No  #openskies
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 08:43:11 -0800
+location: nan

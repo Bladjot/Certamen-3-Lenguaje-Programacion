@@ -1,0 +1,7 @@
+569749233344983040
+United
+@united Is flight 746 going to sit on the tarmac FOREVER?????????
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 22:42:57 -0800
+location: nan

@@ -1,0 +1,7 @@
+568087085120233473
+United
+@united yes, I know that. The question is "why is that still the case"? #fail
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 08:38:10 -0800
+location: Brisbane

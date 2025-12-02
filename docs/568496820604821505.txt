@@ -1,0 +1,7 @@
+568496820604821505
+Virgin America
+@VirginAmerica what happened to direct flights from SFO-FLL? Looking in May, only see connecting #help #dontdothistome
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 11:46:18 -0800
+location: san francisco

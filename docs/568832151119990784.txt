@@ -1,0 +1,7 @@
+568832151119990784
+United
+@united your website is a complete joke when using safari!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 09:58:47 -0800
+location: Celebration, FL

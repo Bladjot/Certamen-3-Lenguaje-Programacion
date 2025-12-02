@@ -1,0 +1,7 @@
+570017987349995521
+Southwest
+@SouthwestAir following. Thank you.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 16:30:53 -0800
+location: Canada

@@ -1,0 +1,7 @@
+568113601480757248
+US Airways
+@USAirways I don't mind waiting, I mind waiting on a plane, when I shouldn't have had to.  The airport has more room and you know.. food!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 10:23:32 -0800
+location: Earth

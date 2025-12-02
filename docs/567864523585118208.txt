@@ -1,0 +1,7 @@
+567864523585118208
+US Airways
+@USAirways delayed my flight 3 times before Cancelled Flighting it, had angry and rude workers, and are now providing no helpful service at all
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 17:53:47 -0800
+location: nan

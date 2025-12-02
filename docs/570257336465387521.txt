@@ -1,0 +1,7 @@
+570257336465387521
+American
+@AmericanAir why does it feel like I'm being nickeled and dime to enjoy a flight with AA? I purchased a tkt but have to pay extra for a seat
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 08:21:58 -0800
+location: nan

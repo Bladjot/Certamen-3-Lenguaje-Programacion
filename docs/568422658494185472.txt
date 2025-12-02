@@ -1,0 +1,7 @@
+568422658494185472
+Delta
+@JetBlue the free wifi makes up for the television not working... It's staticy #ithelpsabit
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 06:51:37 -0800
+location: nan

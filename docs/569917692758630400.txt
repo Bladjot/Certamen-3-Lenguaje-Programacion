@@ -1,0 +1,7 @@
+569917692758630400
+US Airways
+@USAirways how do I get a hold of customer service? I've called multiple times &amp; have been on hold for 30+ mins only to have to hang up
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:52:21 -0800
+location: Pittsburgh, PA

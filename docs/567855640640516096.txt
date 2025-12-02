@@ -1,0 +1,7 @@
+567855640640516096
+Southwest
+@SouthwestAir Thank you!  #thankful #feelingtheluv
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 17:18:29 -0800
+location: nan

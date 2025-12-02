@@ -1,0 +1,7 @@
+569960303514923009
+American
+@AmericanAir Least you could do would be to refund me the one-way ticket I had to buy since you weren't able to accommodate. Thank you.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 12:41:40 -0800
+location: nan

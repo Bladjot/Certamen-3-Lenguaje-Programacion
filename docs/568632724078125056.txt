@@ -1,0 +1,7 @@
+568632724078125056
+Delta
+@JetBlue service for baggage at JFK is incomprehensible. No employee knows where our luggage is frM flight 424 LAX to NYC ITS AN HR WAIT NOW
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 20:46:20 -0800
+location: nan

@@ -1,0 +1,7 @@
+569725805066002432
+United
+@united will lose my bag but won't give me free pretzels #frauds
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 21:09:51 -0800
+location: nan

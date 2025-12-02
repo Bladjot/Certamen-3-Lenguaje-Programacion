@@ -1,0 +1,7 @@
+568282853240209408
+Delta
+@JetBlue Marks 15th Year With 'Bluemanity' Plane Design - http://t.co/E5NaxBUe4s http://t.co/KlxivnbCYh
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 21:36:05 -0800
+location: USA

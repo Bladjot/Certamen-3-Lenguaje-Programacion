@@ -1,0 +1,7 @@
+568877748967444480
+US Airways
+@USAirways I keep calling your help line (800) 428-4322 and it keeps saying they are too busy to help &amp; to call back Late Flightr. FOR A WEEK NOW!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 12:59:59 -0800
+location: Asheville, NC

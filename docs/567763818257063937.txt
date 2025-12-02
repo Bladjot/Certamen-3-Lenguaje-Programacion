@@ -1,0 +1,7 @@
+567763818257063937
+Delta
+@JetBlue @KyleJudah It doesn't matter who you directed me to. It's the principle of the matter. When I gate checked the stroller it was
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 11:13:37 -0800
+location: Boston, MA

@@ -1,0 +1,7 @@
+569660666014859264
+American
+@AmericanAir Hi AA friends! My sis's flight AA362 DFW&gt;&gt;MKE was Cancelled Flighted due to weather. Any way you can help here? What are her options?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 16:51:01 -0800
+location: San Francisco, California

@@ -1,0 +1,7 @@
+567805039583199235
+US Airways
+@USAirways It's the rude and arrogant gate personnel. Uncalled for. Unprofessional. #theworst
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 13:57:25 -0800
+location: Charlotte, North Carolina

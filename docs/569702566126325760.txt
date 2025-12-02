@@ -1,0 +1,7 @@
+569702566126325760
+United
+@united i did but i got nothing from it. Just dissapointment =(
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:37:30 -0800
+location: nan

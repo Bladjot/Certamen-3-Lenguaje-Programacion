@@ -1,0 +1,7 @@
+568064947214782464
+US Airways
+@USAirways for a response in 3-4 days? No thanks
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 07:10:12 -0800
+location: Lowell, Ma

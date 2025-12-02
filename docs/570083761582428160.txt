@@ -1,0 +1,7 @@
+570083761582428160
+US Airways
+@USAirways  - I had 20,748 miles in  my account and was informed I'd forfeit them bc of 33 months of inactivity - I
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 20:52:15 -0800
+location: nan

@@ -1,0 +1,7 @@
+569681786860654592
+American
+@AmericanAir won't answer the reservation line!  Nice service.  We may be stuck...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:14:56 -0800
+location: nan

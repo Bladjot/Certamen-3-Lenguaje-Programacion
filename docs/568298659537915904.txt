@@ -1,0 +1,7 @@
+568298659537915904
+United
+@united the best seats should be for paying customers and we should get to board first #badcustomerservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 22:38:53 -0800
+location: nan

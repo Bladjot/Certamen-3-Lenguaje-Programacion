@@ -1,0 +1,7 @@
+569890099917246464
+Delta
+@JetBlue @jeff_hofmann @DeniseJTaylor @LaurieAMeacham Good one! And indeed, it's JetBlue's finest day in history!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 08:02:42 -0800
+location: Salt Lake City, Utah

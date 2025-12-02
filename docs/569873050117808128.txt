@@ -1,0 +1,7 @@
+569873050117808128
+United
+@united has the best customer experience via twitter - huge fan!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 06:54:57 -0800
+location: Cambridge, MA

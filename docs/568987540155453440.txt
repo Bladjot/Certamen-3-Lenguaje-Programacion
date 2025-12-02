@@ -1,0 +1,7 @@
+568987540155453440
+Delta
+@JetBlue of course !!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 20:16:15 -0800
+location: Where my pockets can take me

@@ -1,0 +1,7 @@
+569325005823217664
+US Airways
+@USAirways @usairways -Really? U land me in Philly 1.5 hours before my flight, wait 1.5 hours behind a plane you got stuck,
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 18:37:13 -0800
+location: nan

@@ -1,0 +1,7 @@
+570271904508092416
+American
+Just got off the phone @AmericanAir customer service. Only 8 minutes to get my issue resoled. You guys are awesome.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 09:19:51 -0800
+location: nan

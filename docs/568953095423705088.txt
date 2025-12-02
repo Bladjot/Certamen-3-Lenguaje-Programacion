@@ -1,0 +1,7 @@
+568953095423705088
+Southwest
+@SouthwestAir we're doing our best; sitting at a gate waiting (while not being given information why we're delayed) isn't making this easy
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 17:59:23 -0800
+location: Tucker,  GA

@@ -1,0 +1,7 @@
+570086399627685888
+United
+@united flight ua3576, gate b1. And tell ray I somehow made it on to the 736 flight out of IAH and didn't have to wait for the 917 one. :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 21:02:44 -0800
+location: nan

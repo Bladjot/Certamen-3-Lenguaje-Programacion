@@ -1,0 +1,7 @@
+569226723738324992
+Southwest
+@SouthwestAir no. Told to call cust service on monday
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 12:06:41 -0800
+location: nan

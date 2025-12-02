@@ -1,0 +1,7 @@
+569629305023569922
+American
+@AmericanAir there's a direct from Miami w a seat but u rebooked niece Tuesday. Can't get through on phones? #customerservicefail
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:46:24 -0800
+location: Miami

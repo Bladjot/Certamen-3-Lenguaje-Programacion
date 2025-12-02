@@ -1,0 +1,7 @@
+568226026209341441
+United
+@united i now see it's 72 hours. Thanks
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 17:50:16 -0800
+location: nan

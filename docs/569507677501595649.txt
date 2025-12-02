@@ -1,0 +1,7 @@
+569507677501595649
+US Airways
+@USAirways but need to confirm please help
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 06:43:05 -0800
+location: south beach/ LA / NC

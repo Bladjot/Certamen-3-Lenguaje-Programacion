@@ -1,0 +1,7 @@
+568608850569338880
+United
+@united recent services have been very bad. My NC trip was aweful. Very disappointed and never again.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 19:11:28 -0800
+location: nan

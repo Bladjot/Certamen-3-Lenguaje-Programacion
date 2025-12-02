@@ -1,0 +1,7 @@
+569860677650636801
+American
+@AmericanAir why Cancelled Flight #1605 on 6/25 &amp; 6/28? Flights now 4 hrs longer &amp;  have layovers. Too Late Flight to find a reasonably priced alternative.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 06:05:47 -0800
+location: @MontgomeryCoMD / SYR / HHI

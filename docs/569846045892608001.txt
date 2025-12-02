@@ -1,0 +1,7 @@
+569846045892608001
+American
+@AmericanAir If you care, could you have someone call me to explain what is going on.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 05:07:39 -0800
+location: Baltimore, Maryland

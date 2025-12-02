@@ -1,0 +1,7 @@
+568846061307084800
+Southwest
+@SouthwestAir thank you! DMing now.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 10:54:04 -0800
+location: washington, dc

@@ -1,0 +1,7 @@
+569642306640306176
+American
+@AmericanAir Am on web site requesting refund for Cancelled Flightled flight. It requires numerical document number. Where get it?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:38:04 -0800
+location: nan

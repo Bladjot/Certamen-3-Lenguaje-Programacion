@@ -1,0 +1,7 @@
+568445415768477696
+Southwest
+@SouthwestAir @FortuneMagazine Congrats!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 08:22:02 -0800
+location: Worldwide

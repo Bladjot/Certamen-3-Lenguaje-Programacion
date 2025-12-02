@@ -1,0 +1,7 @@
+569366383458275329
+US Airways
+@USAirways Get new planes then. Got on this plane at 7:50 its 10:20 now and still on tarmac. How ru going to compensate me for this?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 21:21:38 -0800
+location: 39.0708° N, 106.9886° W

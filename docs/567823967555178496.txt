@@ -1,0 +1,7 @@
+567823967555178496
+Southwest
+@SouthwestAir I have been in contact and know there are changes but it's a destination you should really evaluate! Thanks
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 15:12:38 -0800
+location: Do as you wish, with integrity

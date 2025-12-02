@@ -1,0 +1,7 @@
+568762437832478720
+Southwest
+@southwestair SWEET!!! Glad to hear it. I'll keep you guys in mind next time!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 05:21:46 -0800
+location: Reno, NV, USA, Earth, Sol

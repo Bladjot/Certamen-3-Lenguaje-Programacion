@@ -1,0 +1,7 @@
+568588797182648320
+Delta
+@JetBlue that's what they told me half an hour ago
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 17:51:47 -0800
+location: Miami | Puerto Rico

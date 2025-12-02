@@ -1,0 +1,7 @@
+569659367001186304
+American
+@AmericanAir you should be contacting her for a refund - dm me and I will provide phone number
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:45:51 -0800
+location: Los Angeles, CA

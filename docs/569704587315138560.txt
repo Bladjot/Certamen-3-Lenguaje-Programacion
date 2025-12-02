@@ -1,0 +1,7 @@
+569704587315138560
+Southwest
+@SouthwestAir crew of WN3946 SAN-SFO was brilliant! Rita was hilarious. I know I've been down on you before, but this was a great flight
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 19:45:32 -0800
+location: San Francisco, CA

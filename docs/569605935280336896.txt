@@ -1,0 +1,7 @@
+569605935280336896
+American
+@AmericanAir @naomi_cooper Are you out of your mind, AA? What is the point of this Twitter acct? Form letters in 140 characters or less?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 13:13:32 -0800
+location: Pekin

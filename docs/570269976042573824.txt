@@ -1,0 +1,7 @@
+570269976042573824
+US Airways
+@USAirways any direct number to dividend miles account info? Every Time I try them I get actually hung up on
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 09:12:12 -0800
+location: nan

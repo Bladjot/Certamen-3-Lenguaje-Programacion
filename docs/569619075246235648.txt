@@ -1,0 +1,7 @@
+569619075246235648
+US Airways
+@USAirways Cancelled Flights my flight to NY 3 times, then once I make it here they decided for S&amp;Gs they'll Cancelled Flight my return flight too. Thanks.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 14:05:45 -0800
+location: G-Town, Geneva NY

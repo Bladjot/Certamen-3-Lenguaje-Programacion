@@ -1,0 +1,7 @@
+569905773276307457
+US Airways
+@USAirways Another dead end.  They only handle AA L&amp;F.  They gave me the same failed # I already had. 610-362-7498(99) VM full.  #lost
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 09:04:59 -0800
+location: New Haven, CT

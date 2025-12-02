@@ -1,0 +1,7 @@
+567857491284877312
+United
+@united captain "we apologize for the delay, the company is looking for an open gate (glance starboard side, see 5 open gates)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 17:25:50 -0800
+location: nan

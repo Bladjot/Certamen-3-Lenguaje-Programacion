@@ -1,0 +1,7 @@
+569589379385008129
+Southwest
+@SouthwestAir Just watched crew on flight 380 help elderly lady off plane...#firstclass
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 12:07:45 -0800
+location: Indianapolis

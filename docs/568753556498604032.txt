@@ -1,0 +1,7 @@
+568753556498604032
+US Airways
+@USAirways can you help me reroute my trip?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 04:46:29 -0800
+location: Nantucket

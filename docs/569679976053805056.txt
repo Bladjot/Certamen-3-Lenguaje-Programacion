@@ -1,0 +1,7 @@
+569679976053805056
+US Airways
+@USAirways @AmericanAir major issues getting out of Boston, but your crew has been exceptional. Let's see how things roll out in Philly.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 18:07:45 -0800
+location: USA

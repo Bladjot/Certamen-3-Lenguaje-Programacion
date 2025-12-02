@@ -1,0 +1,7 @@
+568128390487789568
+Delta
+@JetBlue thanks. Line moved quick. Already done.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 11:22:18 -0800
+location: The Suite Lounge

@@ -1,0 +1,7 @@
+569494421345046528
+US Airways
+@USAirways #Overbooked SXM-CLT delayed deplaning extra passengers. #missedconnection #forcedovernight #CLT, no lodging/food. Disappointed.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 05:50:25 -0800
+location: San Francisco

@@ -1,0 +1,7 @@
+568200350697717760
+US Airways
+@USAirways you run a piece of shit airline!!  Thanks for ruining AA
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 16:08:14 -0800
+location: Dallas, TX

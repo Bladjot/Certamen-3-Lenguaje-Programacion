@@ -1,0 +1,7 @@
+569673900805783552
+American
+@americanair anxious to see how you all care for customers you’ve inconvenienced #Cancelled Flightledflight
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 17:43:36 -0800
+location: Hutchinson, KS

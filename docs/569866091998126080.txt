@@ -1,0 +1,7 @@
+569866091998126080
+American
+@AmericanAir tisk tisk. Rude flight attendants yet again. I can't hang my suit up because I didn't buy first class? @Delta when will I learn
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 06:27:18 -0800
+location: nan

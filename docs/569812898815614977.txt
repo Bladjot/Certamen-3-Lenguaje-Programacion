@@ -1,0 +1,7 @@
+569812898815614977
+United
+@united this is the second time my flights been Cancelled Flightled... Like really?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 02:55:56 -0800
+location: nan

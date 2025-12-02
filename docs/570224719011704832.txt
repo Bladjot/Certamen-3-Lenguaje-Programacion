@@ -1,0 +1,7 @@
+570224719011704832
+Southwest
+@SouthwestAir I called the 800 # and the rep there was pleasant but less than helpful! Told me I was SOL. Train them for consistent #CX!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 06:12:21 -0800
+location: Manchester, NH

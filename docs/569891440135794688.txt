@@ -1,0 +1,7 @@
+569891440135794688
+American
+@AmericanAir Thank You! CC: @packermama1
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 08:08:02 -0800
+location: nan

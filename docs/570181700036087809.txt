@@ -1,0 +1,7 @@
+570181700036087809
+American
+@AmericanAir just wow Regina just told me I can't file or request a lost bag statement until I finish my travel.  So until I get to DC argg
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 03:21:25 -0800
+location: nan

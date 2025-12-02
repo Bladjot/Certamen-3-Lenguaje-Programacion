@@ -1,0 +1,7 @@
+569678975049588737
+United
+@united please tell CLT flight 4232 needs a gate. Waiting now for 15 mins.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:03:46 -0800
+location: nan

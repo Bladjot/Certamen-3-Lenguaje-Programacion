@@ -1,0 +1,7 @@
+569617807916322817
+American
+@AmericanAir aftr 10 hrs bng held hstg at mia bc aa refsd to get med bags. bag fnd aa then refsd to fix tkts they cnceld said $360 to fly
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:00:43 -0800
+location: nan

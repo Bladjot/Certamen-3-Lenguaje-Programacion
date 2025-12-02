@@ -1,0 +1,7 @@
+569958935907733504
+United
+@united @FlyEIA yes, they said it took more than an hour!
+sentiment: negative
+negativereason: longlines
+created: 2015-02-23 12:36:14 -0800
+location: Atlanta

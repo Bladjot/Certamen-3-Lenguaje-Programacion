@@ -1,0 +1,7 @@
+568760785113120768
+Southwest
+@SouthwestAir hello. my flight is Cancelled Flightled for #destinationdragons and no one at your desk at KCI knows what the fuck is happening!!!!!!!!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 05:15:12 -0800
+location: Missouri, unfortunately.

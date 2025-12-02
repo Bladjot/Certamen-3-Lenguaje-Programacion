@@ -1,0 +1,7 @@
+569547782039728129
+US Airways
+@USAirways if I try and call your reservations line will someone answer the phone now or will I be on hold for an hour again?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 09:22:27 -0800
+location: 20001

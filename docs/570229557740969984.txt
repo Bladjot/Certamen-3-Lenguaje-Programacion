@@ -1,0 +1,7 @@
+570229557740969984
+American
+@AmericanAir thanks for the recommendation. We've been sitting here for 45 minutes, last update was 35 min ago.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 06:31:35 -0800
+location: iPhone: 37.621227,-122.386002

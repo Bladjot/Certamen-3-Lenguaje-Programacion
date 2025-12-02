@@ -1,0 +1,7 @@
+568399913358221312
+United
+@united Is it customary to upgrade a flight attendant in uniform vs passengers? One is in 1B on flt 1020 now to IAH
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 05:21:14 -0800
+location: nan

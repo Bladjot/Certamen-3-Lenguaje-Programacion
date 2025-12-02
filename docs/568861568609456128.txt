@@ -1,0 +1,7 @@
+568861568609456128
+Southwest
+@SouthwestAir one of my bags didn't make it to my destination. I have the claim ticket. Any way to help out with a status on the location?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 11:55:41 -0800
+location: Dallas, TX

@@ -1,0 +1,7 @@
+568523051853197312
+Southwest
+@SouthwestAir @DreSparkles Thank you! I finally made it to my destination
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 13:30:32 -0800
+location: Gridley, CA.

@@ -1,0 +1,7 @@
+568976326666768384
+United
+@united UA7985 is a coshared flight w/ ANA. Unable to check in 24 hrs prior.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 19:31:42 -0800
+location: nan

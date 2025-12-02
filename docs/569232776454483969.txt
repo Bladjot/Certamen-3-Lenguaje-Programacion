@@ -1,0 +1,7 @@
+569232776454483969
+Southwest
+@SouthwestAir standing in Las Vegas and our flight says on time, but reps are telling us that all flights to Denver are Cancelled Flightled. HELP
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 12:30:44 -0800
+location: nan

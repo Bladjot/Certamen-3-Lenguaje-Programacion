@@ -1,0 +1,7 @@
+569559149933142016
+US Airways
+@USAirways @USAirways I used my AAdvantage Number connected to the USAirways when I booked tickets for friends. Will it benefit my account?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 10:07:37 -0800
+location: nan

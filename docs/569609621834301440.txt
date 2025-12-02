@@ -1,0 +1,7 @@
+569609621834301440
+US Airways
+@USAirways and after six hours even the gate agent got fed up and left us all on line in front of an empty desk. Stay classy US Air.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 13:28:11 -0800
+location: nan

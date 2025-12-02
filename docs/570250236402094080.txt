@@ -1,0 +1,8 @@
+570250236402094080
+American
+@AmericanAir 
+Can you tell me what that means? I work and just need an estimated time of arrival please? I need my laptop for work. Thanks
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 07:53:45 -0800
+location: nan

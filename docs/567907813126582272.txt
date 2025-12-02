@@ -1,0 +1,7 @@
+567907813126582272
+Southwest
+@SouthwestAir I'm trying to get home to Nashville. I've been stuck in Dallas 2 days will my flight get out in the morning
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 20:45:48 -0800
+location: nan

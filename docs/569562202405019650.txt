@@ -1,0 +1,7 @@
+569562202405019650
+Virgin America
+@virginamerica why don't any of the pairings include red wine?! Only white is offered :( #redwineisbetter
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 10:19:45 -0800
+location: Washington, DC

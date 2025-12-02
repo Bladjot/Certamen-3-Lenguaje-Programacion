@@ -1,0 +1,7 @@
+570199267668676609
+American
+@AmericanAir Delayed: AA3186 - Missed due to delay: AA3186 - New flight now delayed: AA2401
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 04:31:13 -0800
+location: Los Angeles

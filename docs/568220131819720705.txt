@@ -1,0 +1,7 @@
+568220131819720705
+Delta
+@JetBlue I just submitted feedback for you @gripeo. Not a good way 2 handle baggage or customers: http://t.co/F6COpX1Fvj
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-18 17:26:51 -0800
+location: ÜT: 40.96513,-73.872957

@@ -1,0 +1,7 @@
+568863902106320896
+US Airways
+@USAirways it's painful being on hold to you!! Really 25 minutes to change a flight!! http://t.co/ocqk0JFXuA
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 12:04:57 -0800
+location: London

@@ -1,0 +1,7 @@
+567802255215460353
+US Airways
+@USAirways  If you can waive a fee at time of Cancelled Flightation, you CAN WAIVE IT AT A FUTURE DATE! #usairways #ripoff #poorcustomerservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 13:46:21 -0800
+location: South Shore, MA

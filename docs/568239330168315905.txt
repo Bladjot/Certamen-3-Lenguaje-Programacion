@@ -1,0 +1,7 @@
+568239330168315905
+Delta
+@JetBlue it says it is now 9:58 you owe me
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 18:43:08 -0800
+location: Saint Leo

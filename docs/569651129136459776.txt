@@ -1,0 +1,7 @@
+569651129136459776
+American
+@AmericanAir why a different airport! I have no way of getting to a different airport.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 16:13:07 -0800
+location: ÜT: 40.881241,-73.107717

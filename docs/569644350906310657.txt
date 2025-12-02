@@ -1,0 +1,7 @@
+569644350906310657
+Southwest
+@SouthwestAir now I can't board thanks. You guys moved me to standby. I've been holding this boarding pass since 7pm yesterday
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:46:11 -0800
+location: nan

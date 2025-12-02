@@ -1,0 +1,7 @@
+569645505950695424
+Delta
+@JetBlue thanks for the update. 'Preciate it. Hope it gets here. Been delayed 2 days getting back
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:50:46 -0800
+location: Boston

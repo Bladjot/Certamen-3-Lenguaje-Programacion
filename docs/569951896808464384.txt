@@ -1,0 +1,7 @@
+569951896808464384
+American
+@AmericanAir great job and great service in and out of SDF this weekend during the winter storm.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 12:08:16 -0800
+location: iPhone: 41.890884,-87.631195

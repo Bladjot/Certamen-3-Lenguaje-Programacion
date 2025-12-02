@@ -1,0 +1,7 @@
+568963218703564800
+United
+@united my flight landed 50 min, but we are being told to stay on the plane, haven't pulled up to the gate &amp; have little to no information.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 18:39:36 -0800
+location: Ho-Flo/Columbus/NYC

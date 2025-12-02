@@ -1,0 +1,7 @@
+568100935769006080
+US Airways
+@USAirways On hold for an hour...connected to the wrong department by your automated system...transferred and now another 45 min &amp; counting
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 09:33:12 -0800
+location: nan

@@ -1,0 +1,7 @@
+568187334111289344
+Delta
+@JetBlue ok. I'll book JB to JFK then book to ATH. Thank you.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 15:16:31 -0800
+location: nan

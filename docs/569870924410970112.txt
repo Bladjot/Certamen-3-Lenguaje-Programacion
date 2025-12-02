@@ -1,0 +1,7 @@
+569870924410970112
+US Airways
+@USAirways I will NEVER fly us airways or american again and I will share this nightmare of a story to all the many others we know who fly
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 06:46:30 -0800
+location: nan

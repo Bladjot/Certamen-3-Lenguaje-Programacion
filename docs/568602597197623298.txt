@@ -1,0 +1,7 @@
+568602597197623298
+Delta
+@JetBlue Can I bring my dog on board?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 18:46:37 -0800
+location: 10 ring

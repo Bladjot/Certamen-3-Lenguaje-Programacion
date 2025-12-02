@@ -1,0 +1,7 @@
+569894088209596416
+Southwest
+@SouthwestAir @coachGS what's even better is the price changed in the 2 minutes since I talked to the lady and they still honored the cheap1
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 08:18:33 -0800
+location: Sac City, IA

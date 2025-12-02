@@ -1,0 +1,7 @@
+569948966873370625
+Virgin America
+@VirginAmerica hi I just booked a flight but need to add baggage, how can I do this?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:56:37 -0800
+location: London, England

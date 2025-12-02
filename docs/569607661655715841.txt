@@ -1,0 +1,7 @@
+569607661655715841
+American
+@AmericanAir flights been Cancelled Flightled, can't get through to the desk and nothing showing online under my reservation - what do I do?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 13:20:23 -0800
+location: nan

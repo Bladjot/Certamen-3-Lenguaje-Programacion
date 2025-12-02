@@ -1,0 +1,7 @@
+569673758501412865
+American
+@AmericanAir VERY upset that I cannot select seats for Tuesday flight online or over the phone. Terrible customer service :( Please help!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 17:43:02 -0800
+location: London, England

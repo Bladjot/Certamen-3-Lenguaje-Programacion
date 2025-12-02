@@ -1,0 +1,7 @@
+569917869296758784
+American
+@AmericanAir I've been trying to reach your customer service for TWO days. I have received zero response. Never traveling AA again.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:53:03 -0800
+location: nan

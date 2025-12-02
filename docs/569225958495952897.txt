@@ -1,0 +1,7 @@
+569225958495952897
+US Airways
+@USAirways Yes, it's February. Bad weather happens every winter. If you guys don't have the business sense to forecast that I'm at a loss.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 12:03:38 -0800
+location: Downtown Phoenix (#dtphx), AZ

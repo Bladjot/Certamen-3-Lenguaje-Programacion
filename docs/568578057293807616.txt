@@ -1,0 +1,7 @@
+568578057293807616
+Southwest
+@SouthwestAir Is there any way to get entry to the Las Vegas event to see @Imaginedragons perform? #DestinationDragons
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 17:09:07 -0800
+location: nan

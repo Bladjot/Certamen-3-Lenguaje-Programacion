@@ -1,0 +1,7 @@
+568944054303625217
+Southwest
+@SouthwestAir we had early bird, and it was great. Your employees were awesome. It was 3 passengers who killed the buzz.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 17:23:27 -0800
+location: Ohio

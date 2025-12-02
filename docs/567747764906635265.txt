@@ -1,0 +1,7 @@
+567747764906635265
+United
+@united Is there a direct number to call to request a refund?  Its telling me its not valid as I changed the ticket.  No number on site
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 10:09:50 -0800
+location: Southern New Jersey

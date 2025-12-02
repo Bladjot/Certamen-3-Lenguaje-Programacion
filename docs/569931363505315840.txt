@@ -1,0 +1,7 @@
+569931363505315840
+American
+@AmericanAir am on hold for the 2nd time today. Need help with confirming the new flights you arranged for me. Can you expedite this?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 10:46:40 -0800
+location: Toronto

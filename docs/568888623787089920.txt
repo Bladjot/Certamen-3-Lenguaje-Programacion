@@ -1,0 +1,7 @@
+568888623787089920
+Southwest
+@SouthwestAir no one I call knows anything about it so I'm just wondering how to get any? #DestinationDragons
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 13:43:12 -0800
+location: nan

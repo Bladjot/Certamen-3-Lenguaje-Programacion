@@ -1,0 +1,7 @@
+570016052895092736
+United
+@united boarding time shows 35 min and your gate agent started at 45. showed up at 4:00 and they had to check bag. http://t.co/zCBJyo6lsN
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 16:23:12 -0800
+location: San Francisco, CA

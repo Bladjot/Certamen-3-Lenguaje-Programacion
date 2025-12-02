@@ -1,0 +1,7 @@
+568848699960332288
+United
+@united what I don't understand isn't flight that I paid premium for getting Cancelled Flighted and the best you can do is next available flight...
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 11:04:33 -0800
+location: nan

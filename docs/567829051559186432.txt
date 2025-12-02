@@ -1,0 +1,7 @@
+567829051559186432
+Virgin America
+@VirginAmerica YES FYI  MY BFF
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 15:32:50 -0800
+location: nan

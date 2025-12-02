@@ -1,0 +1,7 @@
+567729135733465088
+US Airways
+@USAirways thank you for blowing my vacation. Couldn't get me anywhere today to make my reservation and also lost 2 bags of mine!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 08:55:48 -0800
+location: Ohio

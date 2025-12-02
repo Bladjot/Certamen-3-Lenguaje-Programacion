@@ -1,0 +1,7 @@
+570060846241611777
+American
+@AmericanAir thanks
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 19:21:11 -0800
+location: Minnesota

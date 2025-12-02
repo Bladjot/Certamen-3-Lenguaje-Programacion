@@ -1,0 +1,7 @@
+569155666440355840
+Southwest
+@SouthwestAir - I get that weather delays are not in your hands, but is there nothing else you can offer for the massive inconvenience?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 07:24:19 -0800
+location: Boston, MA

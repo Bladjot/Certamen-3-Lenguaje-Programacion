@@ -1,0 +1,7 @@
+570271704972464129
+Southwest
+@SouthwestAir 3rd time flying southwest in two years. Have another trip back to mx on October.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:19:04 -0800
+location: nan

@@ -1,0 +1,7 @@
+568836930550534145
+Southwest
+@SouthwestAir will do. Thank you.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 10:17:47 -0800
+location: Astoria, New York

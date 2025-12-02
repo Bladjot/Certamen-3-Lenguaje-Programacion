@@ -1,0 +1,7 @@
+569215076655214592
+Delta
+@JetBlue  What are your rules on checked baggage and carry ons from SLC to SJO?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 11:20:24 -0800
+location: Costa Rica

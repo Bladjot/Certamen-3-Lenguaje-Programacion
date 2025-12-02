@@ -1,0 +1,7 @@
+570175761468030977
+United
+@united to speak to a real person to get this resolved politely and efficiently. (2/2)
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 02:57:49 -0800
+location: Nottingham

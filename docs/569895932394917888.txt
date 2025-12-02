@@ -1,0 +1,7 @@
+569895932394917888
+American
+@AmericanAir pretty frustrating when you can't even stay on hold to get help after a flight Cancelled Flightation!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 08:25:53 -0800
+location: Chesapeake, VA

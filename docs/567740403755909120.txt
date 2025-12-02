@@ -1,0 +1,7 @@
+567740403755909120
+Southwest
+@SouthwestAir Finally! Integration w/ passbook is a great Valentine gift - better then chocoLate Flight. You do heart me.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 09:40:35 -0800
+location: Austin, TX

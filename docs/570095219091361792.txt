@@ -1,0 +1,7 @@
+570095219091361792
+Delta
+@JetBlue after my second call to customer service and the fifth person I talked to, an amazing rep fixed it in about 5 mins! :) #persistence
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 21:37:46 -0800
+location: nan

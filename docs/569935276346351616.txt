@@ -1,0 +1,7 @@
+569935276346351616
+Southwest
+@SouthwestAir When will the flight resume? I don's see it in the open schedule. :/
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 11:02:13 -0800
+location: Baltimore,MD

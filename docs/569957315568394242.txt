@@ -1,0 +1,7 @@
+569957315568394242
+US Airways
+@USAirways too Late Flight.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 12:29:47 -0800
+location: nan

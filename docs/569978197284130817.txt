@@ -1,0 +1,7 @@
+569978197284130817
+Southwest
+@SouthwestAir Any idea why TSA Pre-Check isn't showing for my next flight tomorrow? The number is in my profile...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:52:46 -0800
+location: Philadelphia, PA

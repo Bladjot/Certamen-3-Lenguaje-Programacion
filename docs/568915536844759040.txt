@@ -1,0 +1,7 @@
+568915536844759040
+Southwest
+@SouthwestAir tweet just popped up on my phone with @amin_aur follows. Missing my favorite Southwest pilot and brother.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 15:30:08 -0800
+location: Memphis, Tennessee

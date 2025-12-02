@@ -1,0 +1,7 @@
+568528082841112576
+Delta
+@JetBlue that is my point! They are only offering me a flight the next day and expect me to now pay for a hotel because they Cancelled Flightled.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 13:50:32 -0800
+location: Logan.Utah

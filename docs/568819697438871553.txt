@@ -1,0 +1,7 @@
+568819697438871553
+Delta
+@JetBlue what's a good address to send feedback over email?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 09:09:18 -0800
+location: Boston, USA

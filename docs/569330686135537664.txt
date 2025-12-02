@@ -1,0 +1,7 @@
+569330686135537664
+US Airways
+@USAirways cannot book to redeem companion fair without speaking to agent. $99 vs $1200, this is a family emergency #unacceptable
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 18:59:47 -0800
+location: nan

@@ -1,0 +1,7 @@
+569138500626292736
+Southwest
+@SouthwestAir Are we sure flights will not be Cancelled Flighted after 1200 I am trying to make plans in STL
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 06:16:07 -0800
+location: South Carloina

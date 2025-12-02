@@ -1,0 +1,7 @@
+569504566380797952
+US Airways
+@USAirways Good grief! Flight Cancelled Flightled. Been on hold since 0400.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 06:30:44 -0800
+location: US of A

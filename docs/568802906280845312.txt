@@ -1,0 +1,7 @@
+568802906280845312
+United
+@united I need a breakdown of what the "international surcharge" on my flights cover. Please help
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 08:02:35 -0800
+location: nan

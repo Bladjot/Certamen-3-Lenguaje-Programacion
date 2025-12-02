@@ -1,0 +1,7 @@
+568923795228139521
+US Airways
+@USAirways rudest crew member experience! Throwing shade and calling out customers. #reachingnewlows
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 16:02:57 -0800
+location: nan

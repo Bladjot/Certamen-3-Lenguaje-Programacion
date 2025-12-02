@@ -1,0 +1,7 @@
+569579153604743171
+Delta
+@JetBlue no baggage crew update!  Your staff is incompetent with no answers after 2 hours....
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 11:27:07 -0800
+location: NYC

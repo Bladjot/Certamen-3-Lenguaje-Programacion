@@ -1,0 +1,7 @@
+568511969335984128
+United
+@united Rude grouchy agent at Dulles check-in just got my 19 hour trip off to a lousy start. He needs a nap or something.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-19 12:46:30 -0800
+location: Arlington Virginia

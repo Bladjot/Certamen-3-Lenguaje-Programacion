@@ -1,0 +1,7 @@
+568925938840240128
+Southwest
+@SouthwestAir I will tell marry a lamp if you give me tickets to the Vegas show please I am desperate
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 16:11:28 -0800
+location: nan

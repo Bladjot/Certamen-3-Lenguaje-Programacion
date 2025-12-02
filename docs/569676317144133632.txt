@@ -1,0 +1,7 @@
+569676317144133632
+American
+@AmericanAir on hold for 3 hours...got an agent, immediately txfd me to change cncdld flight...told it would be 1 min, 80 min Late Flightr, waiting
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:53:12 -0800
+location: nan

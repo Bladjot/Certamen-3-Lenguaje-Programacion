@@ -1,0 +1,7 @@
+569226044118581248
+US Airways
+@USAirways What's the seat assignment policy? Why let us choose a seat only to change it on us two weeks Late Flightr?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 12:03:59 -0800
+location: nan

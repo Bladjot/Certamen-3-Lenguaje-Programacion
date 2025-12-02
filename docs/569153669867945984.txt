@@ -1,0 +1,7 @@
+569153669867945984
+United
+@united officially has the most inefficient boarding procedure. There is no reason it should take 45 mins to board a plane!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 07:16:23 -0800
+location: State College, PA

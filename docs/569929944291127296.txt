@@ -1,0 +1,7 @@
+569929944291127296
+American
+@AmericanAir exceptional customer service from AA - my misplaced item was waiting for me at checkin followed by a smooth flight. Thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:41:02 -0800
+location: the one, the only.... NYC

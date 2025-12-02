@@ -1,0 +1,7 @@
+569514902748061696
+Delta
+@JetBlue Charleston - from your app guys as of a few minutes ago!!! http://t.co/sEUlpvfn95
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 07:11:48 -0800
+location: Connecticut

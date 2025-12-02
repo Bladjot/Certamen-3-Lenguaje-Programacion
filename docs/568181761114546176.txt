@@ -1,0 +1,7 @@
+568181761114546176
+Delta
+@JetBlue u now have my gears grinding. The JFK baggage office told me I need to bring the bag back right now if not they will close my claim
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-18 14:54:22 -0800
+location: ÜT: 40.96513,-73.872957

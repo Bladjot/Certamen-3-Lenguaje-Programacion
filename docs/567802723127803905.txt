@@ -1,0 +1,7 @@
+567802723127803905
+United
+@united The guidelines say 10x9x17, my bag is 20x15.7x8.7, so it's a bit taller than the guidelines. Is that gonna be a problem?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 13:48:13 -0800
+location: The Netherlands

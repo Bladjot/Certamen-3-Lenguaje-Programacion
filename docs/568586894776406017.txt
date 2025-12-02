@@ -1,0 +1,7 @@
+568586894776406017
+Delta
+@JetBlue it is absurd that I have waited more than 45mins because the flight attendant assigned for my flight is Late Flight. You dont have others?
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-19 17:44:14 -0800
+location: Miami | Puerto Rico

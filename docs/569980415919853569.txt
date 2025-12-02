@@ -1,0 +1,7 @@
+569980415919853569
+United
+@united I used to be a committed #ContinentalAirlines flyer until merger. I remember now why I switched to @SouthwestAir #CommunicationFail
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 14:01:35 -0800
+location: San Antonio, Texas

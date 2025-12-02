@@ -1,0 +1,8 @@
+567800671572926464
+Southwest
+@SouthwestAir flight 1613 Cancelled Flightled??? My wife is stuck in Phoenix on the way from slc to san
+Thanks a lot southwest!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 13:40:03 -0800
+location: Park City

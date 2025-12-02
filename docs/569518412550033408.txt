@@ -1,0 +1,7 @@
+569518412550033408
+Southwest
+@SouthwestAir when are you starting routes to #Hawaii and #Canada?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 07:25:45 -0800
+location: columbus

@@ -1,0 +1,7 @@
+568165260605014016
+Southwest
+@SouthwestAir @ PIT- Gate A1! Big shout out to the lady trying to track him down!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 13:48:48 -0800
+location: nan

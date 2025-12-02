@@ -1,0 +1,7 @@
+568600552814174208
+Delta
+@JetBlue Thank you. I really would have preferred Jet Blue. You guys have the best seats in the business.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 18:38:30 -0800
+location: 10 ring

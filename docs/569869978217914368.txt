@@ -1,0 +1,8 @@
+569869978217914368
+US Airways
+@USAirways Will tweet all day until I get 
+a live cust rep. I will make sure the world knows you don't care about your customers health.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:42:45 -0800
+location: nan

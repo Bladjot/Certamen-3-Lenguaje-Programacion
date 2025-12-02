@@ -1,0 +1,7 @@
+567745845781864449
+Southwest
+@SouthwestAir thank you, someone finally answered and was able to change my flight that was Cancelled Flighted bc of ice. Thank you for response
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 10:02:12 -0800
+location: Nashville, TN

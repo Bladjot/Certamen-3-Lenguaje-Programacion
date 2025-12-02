@@ -1,0 +1,7 @@
+569907336485019648
+Virgin America
+@VirginAmerica - Let 2 scanned in passengers leave the plane than told someone to remove their bag from 1st class bin? #uncomfortable
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 09:11:12 -0800
+location: nan

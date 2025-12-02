@@ -1,0 +1,7 @@
+569706320212787200
+Southwest
+@SouthwestAir It was never really "lost" it was put on another flight WITH my knowledge we just weren't sure what flight but I have it - TY!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 19:52:26 -0800
+location: Kansas City

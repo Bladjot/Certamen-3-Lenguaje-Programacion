@@ -1,0 +1,7 @@
+569975508756267008
+US Airways
+@USAirways been on hold for 45 minutes. Is there a better time to call? This is getting ridiculous
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:42:05 -0800
+location: nan

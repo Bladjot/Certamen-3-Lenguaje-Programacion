@@ -1,0 +1,7 @@
+569596665864130562
+United
+@united I have tried and you have failed. Still no wifi ever, last row in the middle and I fly every week. Thanks for nothing.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 12:36:42 -0800
+location: Chicago

@@ -1,0 +1,7 @@
+567801559788068864
+Southwest
+@SouthwestAir When are you going to be flying in and out of Nashville? The Deicer is in. Are you short on planes and is it tomorrow morning?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 13:43:35 -0800
+location: Nashville Tennessee

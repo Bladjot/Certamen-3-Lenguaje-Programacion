@@ -1,0 +1,7 @@
+569655584540266496
+United
+@United and here i thought American was bad. Horrible Service. Over 2:30 min Late Flight. No excuse!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:30:49 -0800
+location: Martinsburg,WV

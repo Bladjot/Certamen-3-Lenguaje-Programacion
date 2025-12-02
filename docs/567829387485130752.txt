@@ -1,0 +1,7 @@
+567829387485130752
+Southwest
+@SouthwestAir Awesome - thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 15:34:10 -0800
+location: Dallas

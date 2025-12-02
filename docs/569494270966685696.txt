@@ -1,0 +1,7 @@
+569494270966685696
+US Airways
+@USAirways you need to figure your scheduling out! #worstflightexperienceever #getmehome
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 05:49:49 -0800
+location: Wisconsin

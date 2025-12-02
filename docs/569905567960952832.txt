@@ -1,0 +1,7 @@
+569905567960952832
+Southwest
+@SouthwestAir my friends from Boston stuck in Denver. Her name Jane. @RnCahill  Please contact her.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 09:04:10 -0800
+location: Denver, CO

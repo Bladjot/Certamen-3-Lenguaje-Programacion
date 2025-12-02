@@ -1,0 +1,7 @@
+569879818063507457
+US Airways
+@USAirways @AmericanAir at 9:05am after the plane left: "why were there no agents and why were the doors closed so early?"
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 07:21:51 -0800
+location: BK

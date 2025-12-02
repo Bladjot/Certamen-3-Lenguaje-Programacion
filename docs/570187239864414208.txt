@@ -1,0 +1,7 @@
+570187239864414208
+American
+@AmericanAir this has to be the absolute WORST EXPERIENCE EVER!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 03:43:26 -0800
+location: McKinney TX

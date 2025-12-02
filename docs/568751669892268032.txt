@@ -1,0 +1,7 @@
+568751669892268032
+US Airways
+@USAirways gonna miss connecting flight.. Delayed flying out of Boston
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 04:38:59 -0800
+location: Nantucket

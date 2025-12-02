@@ -1,0 +1,7 @@
+568075902493593600
+US Airways
+@USAirways I hope so. Last I spoke to the baggage team... they weren't sure what city my bag was in.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 07:53:44 -0800
+location: nan

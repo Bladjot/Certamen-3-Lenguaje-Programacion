@@ -1,0 +1,7 @@
+568787046778720256
+Southwest
+@SouthwestAir sure thing
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 06:59:34 -0800
+location: nan

@@ -1,0 +1,7 @@
+570238126611963905
+American
+@AmericanAir..still here. feet are freezing b/c doors have been open. Flt time was 8:30.  We have fuel but now waiting for "rampers" #AA4285
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 07:05:38 -0800
+location: Washington DC

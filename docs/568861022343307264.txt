@@ -1,0 +1,7 @@
+568861022343307264
+Delta
+@JetBlue has the worst customer service out of any airline company. #dontflythem
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 11:53:31 -0800
+location: Buffalo, New York, Florida

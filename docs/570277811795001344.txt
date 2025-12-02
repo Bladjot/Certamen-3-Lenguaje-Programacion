@@ -1,0 +1,7 @@
+570277811795001344
+Delta
+@JetBlue your wifi is a lie and i hate you
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 09:43:20 -0800
+location: nan

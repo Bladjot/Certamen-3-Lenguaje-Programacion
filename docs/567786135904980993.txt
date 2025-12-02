@@ -1,0 +1,7 @@
+567786135904980993
+United
+@united Thank you. Yes, I was hoping to speak with someone directly, but appreciate the link nonetheless. :)
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 12:42:18 -0800
+location: West Coast of America

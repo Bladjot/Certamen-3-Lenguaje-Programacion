@@ -1,0 +1,7 @@
+568846499431337984
+United
+Can I put sun in my carry on? RT “@united: @ant_kneee Right now 0 would be a heat wave, so enjoy the warmth! Can you bring some home? ^JJ”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 10:55:48 -0800
+location: Chicago & Worldwide

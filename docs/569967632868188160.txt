@@ -1,0 +1,7 @@
+569967632868188160
+United
+@united Just checking in again - what is the status of our claim.   It is going on 2 months with no attention to this?   We are very upset.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:10:47 -0800
+location: Vancouver/Beverly Hills

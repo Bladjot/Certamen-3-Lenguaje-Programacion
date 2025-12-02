@@ -1,0 +1,7 @@
+568424596657078272
+United
+@united I’ve filled out the form twice. No email. I have a lost item code. Can you verify it was received?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 06:59:19 -0800
+location: New York City (Silicon Alley)

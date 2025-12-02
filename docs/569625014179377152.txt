@@ -1,0 +1,7 @@
+569625014179377152
+US Airways
+@USAirways Can you guys please give an update?  Been sitting on Tarmac on flight 601 yet the website still says it's on time?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:29:21 -0800
+location: Washington, D.C.

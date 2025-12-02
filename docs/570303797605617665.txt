@@ -1,0 +1,7 @@
+570303797605617665
+Southwest
+@SouthwestAir my flight was delayed 4 hrs. I'm 5 months pregnant &amp; supposed to be caring for my mom whose in surgery now. Very upset.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 11:26:35 -0800
+location: Columbus, OH

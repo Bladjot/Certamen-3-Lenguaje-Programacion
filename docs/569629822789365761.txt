@@ -1,0 +1,7 @@
+569629822789365761
+American
+@AmericanAir second, she sat on the Tarmac for 3 hrs only to be told it would be 30 mins
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 14:48:27 -0800
+location: Los Angeles, CA

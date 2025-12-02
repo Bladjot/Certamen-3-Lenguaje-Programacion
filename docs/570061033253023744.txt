@@ -1,0 +1,7 @@
+570061033253023744
+US Airways
+@USAirways you say to call travel agency and they say we cant refund because usairways didnt accept this.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 19:21:56 -0800
+location: nan

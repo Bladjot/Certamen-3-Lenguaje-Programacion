@@ -1,0 +1,7 @@
+569678397158268929
+American
+@AmericanAir @MO3TVida just so you know, reservations team has a 2+ hr callback time
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:01:28 -0800
+location: Milwaukee

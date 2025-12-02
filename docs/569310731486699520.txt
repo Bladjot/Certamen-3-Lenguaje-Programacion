@@ -1,0 +1,7 @@
+569310731486699520
+United
+@united thanks for the reply. To clarify, the airfare is similar to your likely intended peer group. The $3 beer charge, however, is not
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 17:40:30 -0800
+location: nan

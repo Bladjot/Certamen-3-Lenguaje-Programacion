@@ -1,0 +1,7 @@
+570081165459259392
+American
+@AmericanAir sent
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 20:41:56 -0800
+location: nan

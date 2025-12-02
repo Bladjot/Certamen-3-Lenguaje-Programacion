@@ -1,0 +1,7 @@
+567737449938685952
+Southwest
+@SouthwestAir no flights out of #nashville today? Are you kidding me?!?! Why are other airlines flying and you're not?! So frustrated!!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 09:28:50 -0800
+location: Fort Lauderdale

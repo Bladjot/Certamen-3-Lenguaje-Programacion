@@ -1,0 +1,7 @@
+567734573464027136
+Delta
+@JetBlue @EllaHenderson Ah! Wish I was there! Good luck!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:17:24 -0800
+location: Seattle

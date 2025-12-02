@@ -1,0 +1,7 @@
+568423848732991488
+US Airways
+@USAirways that's it?!?!?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 06:56:20 -0800
+location: Here. There. Everywhere.

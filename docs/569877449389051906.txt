@@ -1,0 +1,7 @@
+569877449389051906
+United
+@united at the gate! IAD to RDU
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:12:26 -0800
+location: syracuse

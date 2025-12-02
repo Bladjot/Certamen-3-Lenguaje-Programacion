@@ -1,0 +1,7 @@
+570233869212856320
+Delta
+@JetBlue it will be glowing. Your crew and your aircraft sparkled. You guys know about @nokidhungry right? Might be a good partnership:)
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 06:48:43 -0800
+location: nan

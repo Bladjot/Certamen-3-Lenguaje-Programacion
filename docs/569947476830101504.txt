@@ -1,0 +1,7 @@
+569947476830101504
+Delta
+JetBlue reading the NYTimes. “@JetBlue: Our fleet's on fleek. http://t.co/lvIrTDtqly”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:50:42 -0800
+location: New Yawk

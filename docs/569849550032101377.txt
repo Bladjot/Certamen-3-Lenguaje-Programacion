@@ -1,0 +1,7 @@
+569849550032101377
+American
+@AmericanAir would also like say kind move on adding the points !
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 05:21:34 -0800
+location: nan

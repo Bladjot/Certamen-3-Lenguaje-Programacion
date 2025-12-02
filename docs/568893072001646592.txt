@@ -1,0 +1,7 @@
+568893072001646592
+United
+@united or us air: http://t.co/Eis9hcNPrO
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 14:00:52 -0800
+location: Purcellville, VA

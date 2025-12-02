@@ -1,0 +1,7 @@
+567725125194493953
+US Airways
+@USAirways it was supposed to be a carry on and in Pittsburgh  coming to Boston it was a carry on
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 08:39:52 -0800
+location: nan

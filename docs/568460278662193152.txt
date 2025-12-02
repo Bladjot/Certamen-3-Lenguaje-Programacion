@@ -1,0 +1,7 @@
+568460278662193152
+United
+@united They inquire and then do nothing about it...pretend they’re interested. Responded to your DM and no response back...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 09:21:06 -0800
+location: Costa Mesa, CA

@@ -1,0 +1,7 @@
+570000614794489856
+United
+@United never heard of this? http://t.co/QDebyaHqfM
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 15:21:51 -0800
+location: New York City, NY

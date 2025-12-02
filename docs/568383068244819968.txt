@@ -1,0 +1,7 @@
+568383068244819968
+Southwest
+@SouthwestAir love how "friendly" your staff is when asking for updates on delayed flights causing missed connections. #horribleattitudes
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 04:14:18 -0800
+location: Rochester, Michigan

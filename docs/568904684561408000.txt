@@ -1,0 +1,7 @@
+568904684561408000
+United
+@united please tell me I'm going to make my connecting flight from O'hare to #STL #SouthBendINWhere 🙏 http://t.co/qGwK10dEwv
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 14:47:01 -0800
+location: nan

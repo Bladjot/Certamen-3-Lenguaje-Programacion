@@ -1,0 +1,7 @@
+569222108200476672
+Delta
+Thank U 😘 “@JetBlue: @ItsLaLoca But of course! Safety is always 1st!  We'll make sure to handle her with CARE and LOVE!  :)”
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 11:48:20 -0800
+location: ÜT: 27.947395,-82.215546

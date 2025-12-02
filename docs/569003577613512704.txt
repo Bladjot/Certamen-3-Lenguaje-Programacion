@@ -1,0 +1,7 @@
+569003577613512704
+United
+@united how much longer will it take? It a guitar, not a royal commission!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 21:19:59 -0800
+location: Vancouver, Canada

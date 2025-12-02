@@ -1,0 +1,7 @@
+569262088008417280
+Southwest
+@SouthwestAir Flight 2646.  Four hours in the plane on the ground at BWI.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-21 14:27:12 -0800
+location: Helena-West Helena, AR

@@ -1,0 +1,7 @@
+568742080715104256
+Southwest
+@SouthwestAir luxury! Only 40 people on this flight. I'm going to get spoiled.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 04:00:53 -0800
+location: nan

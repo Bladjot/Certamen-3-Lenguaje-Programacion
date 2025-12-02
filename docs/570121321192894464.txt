@@ -1,0 +1,7 @@
+570121321192894464
+Delta
+@JetBlue wants Customs at Long Beach Airport for future international flights. By @EricBradleyPT http://t.co/J6Hb4JDvER cc: @BrianSumers
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 23:21:29 -0800
+location: Southern California

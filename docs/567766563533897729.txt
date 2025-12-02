@@ -1,0 +1,7 @@
+567766563533897729
+Southwest
+@SouthwestAir please PM me the number where I can lodge formal complaints. Thx
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 11:24:31 -0800
+location: Cambridge, MA

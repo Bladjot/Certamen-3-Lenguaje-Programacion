@@ -1,0 +1,7 @@
+569645048696053761
+United
+@united you guys suck, 2 1/2 delay to get out of ers and didn't even have curtesy to let me know,  #UnitedAirlines
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:48:57 -0800
+location: earth

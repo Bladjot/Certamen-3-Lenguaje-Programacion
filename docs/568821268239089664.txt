@@ -1,0 +1,7 @@
+568821268239089664
+Southwest
+@SouthwestAir ha, ha not a make or break for me either way!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 09:15:33 -0800
+location: Phoenix, Arizona

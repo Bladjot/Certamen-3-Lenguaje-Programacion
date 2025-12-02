@@ -1,0 +1,7 @@
+569114772211437568
+US Airways
+@USAirways you've completely ruined a pro athlete's ability to prepare for a race. Now you won't help him get the bike he needs to the DR?!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 04:41:49 -0800
+location: Asheville, NC

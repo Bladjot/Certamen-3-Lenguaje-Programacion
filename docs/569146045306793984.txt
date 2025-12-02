@@ -1,0 +1,7 @@
+569146045306793984
+Southwest
+@SouthwestAir I've been on hold for 2 hours!  When will you answer??
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 06:46:06 -0800
+location: nan

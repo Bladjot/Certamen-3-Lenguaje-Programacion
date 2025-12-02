@@ -1,0 +1,7 @@
+568895188338380801
+United
+@united you might be the only airline not offering waivers...keep up the good fight
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 14:09:17 -0800
+location: Purcellville, VA

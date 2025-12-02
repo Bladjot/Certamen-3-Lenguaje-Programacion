@@ -1,0 +1,7 @@
+570178443167571968
+American
+Lol great answer.. “@AmericanAir: @JayFranceschi Our agents are checking in passengers as quickly as possible. We appreciate your patience.”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 03:08:28 -0800
+location: nan

@@ -1,0 +1,7 @@
+568609263485984768
+Southwest
+@SouthwestAir  Just picked up my bag at SEATAC all the clothes are soaking wet... #bagawim http://t.co/nGxAl9OmL6
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-19 19:13:07 -0800
+location: Seattle

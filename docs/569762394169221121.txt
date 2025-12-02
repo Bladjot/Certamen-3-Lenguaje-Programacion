@@ -1,0 +1,7 @@
+569762394169221121
+US Airways
+@USAirways I've flown 6 figured worth of miles in my lifetime.  This was my first and last ever flight on US Airways
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 23:35:15 -0800
+location: Washington, D.C.

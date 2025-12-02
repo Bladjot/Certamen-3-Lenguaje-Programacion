@@ -1,0 +1,7 @@
+569666708278878208
+Southwest
+@SouthwestAir https://t.co/OQUKSo3s2O subscribe please https://t.co/OQUKSo3s2O
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:15:01 -0800
+location: México

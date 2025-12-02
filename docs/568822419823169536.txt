@@ -1,0 +1,7 @@
+568822419823169536
+US Airways
+@USAirways Literally all that says is "Case open"  What good is that to me?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 09:20:07 -0800
+location: Washington, DC

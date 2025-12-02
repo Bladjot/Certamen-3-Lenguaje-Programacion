@@ -1,0 +1,7 @@
+568910988361244672
+US Airways
+@USAirways thanks for nothing
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 15:12:04 -0800
+location: South Carolina

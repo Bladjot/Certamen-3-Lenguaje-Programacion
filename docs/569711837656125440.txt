@@ -1,0 +1,7 @@
+569711837656125440
+Delta
+@JetBlue any idea what's going on at terminal five at JFK? Seems to be zero traffic movement
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 20:14:21 -0800
+location: Right Coast

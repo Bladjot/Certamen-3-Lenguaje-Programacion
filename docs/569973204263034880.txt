@@ -1,0 +1,7 @@
+569973204263034880
+US Airways
+@USAirways Your exchange/credit policies are worthless and shadier than the White House. Dissatisfied to the nines right now.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 13:32:56 -0800
+location: nan

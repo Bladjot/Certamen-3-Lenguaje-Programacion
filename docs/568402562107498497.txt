@@ -1,0 +1,7 @@
+568402562107498497
+US Airways
+@USAirways Flight US 723 from @DublinAirport to @PHLAirport passing over @LoveLoughNeagh at 20,000 ft this morning. http://t.co/FRd0cAy6DA
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 05:31:45 -0800
+location: Loch nEathach Co Aontroim

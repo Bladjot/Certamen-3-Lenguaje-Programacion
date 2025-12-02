@@ -1,0 +1,7 @@
+569525760337162241
+United
+@united involuntarily bumped your passenger and can't guarantee them another flight for three days!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 07:54:57 -0800
+location: Atlanta, GA

@@ -1,0 +1,7 @@
+569854540494868481
+United
+@united wi-fi on 737-800 (aircraft 3511) didn't work entire ORD-DCA flight this morning
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 05:41:24 -0800
+location: Frequently DC/NYC/San Diego

@@ -1,0 +1,7 @@
+569933816963342337
+Virgin America
+@VirginAmerica why can't you supp the biz traveler like @SouthwestAir  and have customer service like @JetBlue #neverflyvirginforbusiness
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:56:25 -0800
+location: nan

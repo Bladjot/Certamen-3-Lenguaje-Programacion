@@ -1,0 +1,7 @@
+568081678272307201
+Southwest
+@SouthwestAir when will sw return to customer service?  Business travelers made sw now sw ignores us.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 08:16:41 -0800
+location: ABQ

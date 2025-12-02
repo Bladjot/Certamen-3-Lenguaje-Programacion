@@ -1,0 +1,7 @@
+569643262459269120
+Virgin America
+@VirginAmerica is flight 882 Cancelled Flightled and what do I do if it is?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:41:51 -0800
+location: nan

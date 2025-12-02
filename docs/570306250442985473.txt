@@ -1,0 +1,7 @@
+570306250442985473
+American
+@AmericanAir it's not just frustrating--it was PAID for! how do we get a refund?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 11:36:20 -0800
+location: San Antonio, Republic of Texas

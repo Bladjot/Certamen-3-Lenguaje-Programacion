@@ -1,0 +1,7 @@
+569703866997952512
+American
+@AmericanAir @Cowboycerrone  ratchet airway!. ......
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 19:42:41 -0800
+location: nan

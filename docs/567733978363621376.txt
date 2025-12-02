@@ -1,0 +1,7 @@
+567733978363621376
+Southwest
+@SouthwestAir disappointed with customer service right now, my flight was only one Cancelled Flightled at my airport &amp; now I'm losing 2 days from trip
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 09:15:03 -0800
+location: nan

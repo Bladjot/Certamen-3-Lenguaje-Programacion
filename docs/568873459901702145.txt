@@ -1,0 +1,7 @@
+568873459901702145
+US Airways
+@USAirways have checked all day.  CHO needs added.  Please evaluate.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 12:42:56 -0800
+location: nan

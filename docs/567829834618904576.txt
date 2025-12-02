@@ -1,0 +1,7 @@
+567829834618904576
+United
+@united FYI: continuous texts and emails I am getting about the delay while held captive on the tarmac are not that helpful.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 15:35:56 -0800
+location: San Francisco, CA

@@ -1,0 +1,7 @@
+569229441739522048
+US Airways
+@USAirways #Unbelievable that for 2 consecutive days I can't get through to a person.  On hold over 2 hours and still going
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 12:17:29 -0800
+location: nan

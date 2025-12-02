@@ -1,0 +1,7 @@
+569924793232785408
+Delta
+nope. RT @JetBlue: Our fleet's on fleek. http://t.co/9SHhTvIOTI
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 10:20:34 -0800
+location: Pittsburgh — now & forever

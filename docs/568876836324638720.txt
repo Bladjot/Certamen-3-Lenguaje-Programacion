@@ -1,0 +1,7 @@
+568876836324638720
+Southwest
+@SouthwestAir will there a non-stop flight from Midway to Boise for this summer season? Looking to book at labor day trip.  Ty
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 12:56:21 -0800
+location: Chicago, IL

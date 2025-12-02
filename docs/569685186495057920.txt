@@ -1,0 +1,7 @@
+569685186495057920
+US Airways
+@USAirways So far....my phone wait time is longer than @ABCNetwork's #Oscars coverage. #WhatCustomerService
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:28:27 -0800
+location: Raleigh, NC

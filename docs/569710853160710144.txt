@@ -1,0 +1,7 @@
+569710853160710144
+United
+@united I tried the online tracking and they said something like "attempting to locate luggage"
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 20:10:26 -0800
+location: GLP

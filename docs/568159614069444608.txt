@@ -1,0 +1,7 @@
+568159614069444608
+Southwest
+@SouthwestAir A-list preferred line phone wait was 15 minutes. I hung up, not feeling A-list-ey!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 13:26:22 -0800
+location: nan

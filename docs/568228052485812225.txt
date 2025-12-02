@@ -1,0 +1,7 @@
+568228052485812225
+Delta
+@JetBlue is yr site having trouble for mobile check in ?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 17:58:19 -0800
+location: san francisco CA

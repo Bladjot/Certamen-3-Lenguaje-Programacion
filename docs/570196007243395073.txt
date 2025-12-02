@@ -1,0 +1,7 @@
+570196007243395073
+American
+@AmericanAir thank you for the robotic and non helpful assistance.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 04:18:16 -0800
+location: Winston-Salem, NC

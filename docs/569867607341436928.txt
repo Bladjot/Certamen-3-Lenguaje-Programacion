@@ -1,0 +1,7 @@
+569867607341436928
+American
+@AmericanAir I've tried ten times now last night and this morning...how many times should I try? Have meetings to make tonight in ATX.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:33:19 -0800
+location: Texas

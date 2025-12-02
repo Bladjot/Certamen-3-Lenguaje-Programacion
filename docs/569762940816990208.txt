@@ -1,0 +1,9 @@
+569762940816990208
+American
+.@AmericanAir @USAirways Add insult to injury you guys "misplaced" my bag. 
+
+Can't believe you have to pay money to be treated this poorly.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 23:37:25 -0800
+location: PDX JFK SFO BDL

@@ -1,0 +1,7 @@
+569599867716132864
+Virgin America
+Always have it together!!! You're welcome! RT @VirginAmerica: @jessicajaymes You're so welcome.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 12:49:25 -0800
+location: hollywood, california

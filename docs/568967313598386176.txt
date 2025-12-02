@@ -1,0 +1,7 @@
+568967313598386176
+United
+@united I sent a DM re an existing reservation but no one has responded
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 18:55:53 -0800
+location: nan

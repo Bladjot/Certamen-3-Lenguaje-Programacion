@@ -1,0 +1,7 @@
+569566673235271680
+Southwest
+@SouthwestAir waiting over a half hour for my checked baggage to be delivered! No updates from any ground crew
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 10:37:31 -0800
+location: Rockville, Maryland

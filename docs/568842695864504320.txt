@@ -1,0 +1,7 @@
+568842695864504320
+Delta
+@JetBlue OOH! Good one! Speaking of #MiAmore - Just know that #IAdore https://t.co/fWZClBvuG4 Loving #LoveSongFriday
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 10:40:41 -0800
+location: New York, NY

@@ -1,0 +1,7 @@
+567883246433878018
+United
+@united so you are saying that customer care does not report to anyone? Their response is humiliating for a company that serves the public.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 19:08:11 -0800
+location: nan

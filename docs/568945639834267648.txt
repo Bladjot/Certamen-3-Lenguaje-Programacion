@@ -1,0 +1,7 @@
+568945639834267648
+Southwest
+@SouthwestAir can you help me with reFlight Booking Problems? My flight was Cancelled Flighted. FWHEI6
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 17:29:45 -0800
+location: Omaha, NE

@@ -1,0 +1,7 @@
+569947367203450880
+Delta
+@JetBlue why bro
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:50:16 -0800
+location: nan

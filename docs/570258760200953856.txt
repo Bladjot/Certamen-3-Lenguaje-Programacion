@@ -1,0 +1,7 @@
+570258760200953856
+United
+@united thx for update
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 08:27:37 -0800
+location: searching for coffee

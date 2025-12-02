@@ -1,0 +1,7 @@
+569354882370572289
+US Airways
+@USAirways what's going on with passengers diverted to CLT on FLL to PHL flight that left at 830 tonight?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 20:35:56 -0800
+location: Miami, Florida

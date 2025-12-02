@@ -1,0 +1,7 @@
+569907773309214721
+United
+@united 3 hours to rebook but 8 hours l8r the same problem again. Arrive at gate stopped cause now infant is sitting in 4 yr old lap
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 09:12:56 -0800
+location: Taipei

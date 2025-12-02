@@ -1,0 +1,7 @@
+569687291007881216
+American
+@AmericanAir I have tried to talk to someone for almost 6 hrs! you Cancelled Flightled my flight and you won't pick up the phone. pathetic &amp; very sad
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:36:49 -0800
+location: nan

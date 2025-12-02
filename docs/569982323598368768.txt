@@ -1,0 +1,7 @@
+569982323598368768
+American
+@AmericanAir how is US4623 going to be on time when they are still deplaning at 4:08? This is BS.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 14:09:10 -0800
+location: BTR/DCA/IAD/MSY - etc

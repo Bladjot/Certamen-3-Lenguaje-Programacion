@@ -1,0 +1,7 @@
+570195784358100993
+Southwest
+@SouthwestAir it's a new day and a new chance for you to do the right thing it's never too Late Flight to be honest.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 04:17:23 -0800
+location: nan

@@ -1,0 +1,7 @@
+569740316577632256
+United
+@united 24 hrs since flight landed and ZERO info on my missing bag? rough ETA would be hugely helpful + restore some confidence
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 22:07:31 -0800
+location: nan

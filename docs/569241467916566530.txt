@@ -1,0 +1,7 @@
+569241467916566530
+US Airways
+@USAirways   my miles will expire on 2/29 and it could take someone 10 days to respond...I have over 150000 miles that I do not lose i❤usair
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 13:05:16 -0800
+location: Boston, MA

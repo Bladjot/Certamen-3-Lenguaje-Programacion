@@ -1,0 +1,7 @@
+569623156337586177
+US Airways
+@USAirways please help! No bags, no way to get through to customer service since 8AM this morning! Help!!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 14:21:58 -0800
+location: NYC

@@ -1,0 +1,7 @@
+569709992175116288
+United
+@united if you don't like delayed bags, why do you let it happen so much?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 20:07:01 -0800
+location: nan

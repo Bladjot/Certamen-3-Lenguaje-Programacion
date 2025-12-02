@@ -1,0 +1,7 @@
+568119831519739904
+US Airways
+@scm1133 @USAirways we hate delays!! have you tried any of these?! http://t.co/7STktJXAN1 (although we're not sure what a timbit is...)
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 10:48:17 -0800
+location: Atlanta

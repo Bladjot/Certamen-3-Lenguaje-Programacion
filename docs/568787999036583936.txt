@@ -1,0 +1,7 @@
+568787999036583936
+United
+@united I'm sure you will offer me nothing for the inconvenience you have put me through TWICE this month. Tweets don't cut it
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 07:03:21 -0800
+location: NYC

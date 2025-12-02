@@ -1,0 +1,7 @@
+569587242672398336
+American
+@AmericanAir Please bring American Airlines to #BlackBerry10
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 11:59:15 -0800
+location: Nigeria,lagos

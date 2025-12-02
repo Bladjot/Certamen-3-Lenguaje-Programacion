@@ -1,0 +1,7 @@
+568944687077199872
+Delta
+@JetBlue @markie_post I'd like to see Markie too.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 17:25:58 -0800
+location: Earth

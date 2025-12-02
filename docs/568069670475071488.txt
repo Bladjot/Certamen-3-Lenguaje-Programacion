@@ -1,0 +1,7 @@
+568069670475071488
+Southwest
+@southwestair TWO hours on the plane at the gate?!? This is undignified behavior for you. And the apology isn’t enough. #freedrinkcoupons
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 07:28:58 -0800
+location: Nashville/Franklin

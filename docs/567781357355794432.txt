@@ -1,0 +1,7 @@
+567781357355794432
+United
+@united probably wouldn't be doing it had someone returned my call or email. Case number 8273993
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 12:23:19 -0800
+location: nan

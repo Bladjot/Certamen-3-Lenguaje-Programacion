@@ -1,0 +1,7 @@
+568961064651460608
+Delta
+@JetBlue what's up with the broken tv in seat 6F on flight 1818 today? Planned to catch the @cavs game!!! Nooooo
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 18:31:03 -0800
+location: As global as possible

@@ -1,0 +1,7 @@
+568521376245501956
+Delta
+@JetBlue I can't do that flight. I need a Late Flightr one! I need you to change my flight. You guys changed it and now I can't do that time!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 13:23:53 -0800
+location: Logan International Airport

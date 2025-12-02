@@ -1,0 +1,7 @@
+569605877512024064
+American
+@AmericanAir I wasn't important this morning when you would not seat my wife and I together or allow me to choose seats at Flight Booking Problems!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:13:18 -0800
+location: Dallas, Texas

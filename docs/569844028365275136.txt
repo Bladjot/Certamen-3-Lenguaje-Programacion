@@ -1,0 +1,7 @@
+569844028365275136
+American
+@AmericanAir Pathetic answer. Just found out my bag has been sitting at LGA for 20 hours and no call from you to lmk or delivery of bag. BAD
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 04:59:38 -0800
+location: Miami Beach

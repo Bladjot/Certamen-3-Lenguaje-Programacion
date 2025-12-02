@@ -1,0 +1,7 @@
+568944928266412032
+Delta
+@JetBlue do you think snow in boston on 2/24 will effect my flight?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 17:26:56 -0800
+location: Logan International Airport

@@ -1,0 +1,7 @@
+569544528299995137
+US Airways
+@usairways 2+ hr wait &amp; really bad exp @PHLAirport. luggage won't arrive w/ me Do I really have 2go back LAS airport 2 pick up when arrives?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 09:09:31 -0800
+location: Philadelphia, PA

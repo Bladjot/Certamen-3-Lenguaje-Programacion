@@ -1,0 +1,7 @@
+569855866255462401
+American
+@AmericanAir Will 2396 be Cancelled Flightled tonight?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 05:46:40 -0800
+location: Hawaii/Dallas/Tucson/LA

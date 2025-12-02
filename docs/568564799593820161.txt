@@ -1,0 +1,7 @@
+568564799593820161
+United
+@united thanks for trying to take my money without notice. In any other industry, you Cancelled Flight a service, a refund is issued. Cont…
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 16:16:26 -0800
+location: lexington KY

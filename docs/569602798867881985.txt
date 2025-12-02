@@ -1,0 +1,7 @@
+569602798867881985
+American
+.@AmericanAir I can't even get on the phone with your reservations team. The system automatically disconnects us.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:01:04 -0800
+location: Ocean Ridge, FL

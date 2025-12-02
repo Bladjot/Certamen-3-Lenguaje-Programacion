@@ -1,0 +1,7 @@
+568638610385158145
+US Airways
+“@USAirways: @jdbwaffles We're excited to have you fly with us, JB! When will this be?” Spring Break !!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 21:09:44 -0800
+location: nan

@@ -1,0 +1,7 @@
+569918774788419584
+American
+@AmericanAir @British_Airways trying to speak with an agent about my flight to London tonight but can't get anyone from AA.  Can you help?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:56:39 -0800
+location: nan

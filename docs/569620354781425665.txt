@@ -1,0 +1,7 @@
+569620354781425665
+United
+@united i will just send my confirmation number when I get home safe and sound. This is why i pay so expensive services to you!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 14:10:50 -0800
+location: nan

@@ -1,0 +1,7 @@
+567901996763602945
+United
+@united tried to check it 40 mins before a flight rather than 45 mins and we are stonewalled by your employees...
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 20:22:41 -0800
+location: NA, SA, Europe

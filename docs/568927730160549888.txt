@@ -1,0 +1,7 @@
+568927730160549888
+United
+@united any chance you'll ever do CPUs on your JFK-LAX like @AmericanAir?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 16:18:35 -0800
+location: New York, NY

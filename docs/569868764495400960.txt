@@ -1,0 +1,7 @@
+569868764495400960
+United
+@united at this point I made it home on my own.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 06:37:55 -0800
+location: Nashville, TN

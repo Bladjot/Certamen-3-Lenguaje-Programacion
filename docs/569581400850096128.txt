@@ -1,0 +1,7 @@
+569581400850096128
+US Airways
+@USAirways flight 838 now leaving after 6 hour mechanical delay. Need lodging voucher and meals tonight in st Thomas who do I see?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 11:36:02 -0800
+location: Madbury, NH

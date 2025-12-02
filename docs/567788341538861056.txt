@@ -1,0 +1,7 @@
+567788341538861056
+United
+@united 3359 which you finally Cancelled Flightled.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 12:51:04 -0800
+location: Washington, DC

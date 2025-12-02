@@ -1,0 +1,7 @@
+569716270184173568
+American
+@AmericanAir to my destination. After waiting 2 hours and missing our second flight with them. Our #luggage made the flight though...
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 20:31:58 -0800
+location: Philadelphia, PA

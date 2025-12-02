@@ -1,0 +1,7 @@
+569318651502989312
+Virgin America
+@VirginAmerica Flight from BOS &gt; LAS tomorrow was Cancelled Flightled. No notification; wait times are 1+ hour. Will you rebook on another airline?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 18:11:58 -0800
+location: Boston, MA

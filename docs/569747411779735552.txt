@@ -1,0 +1,7 @@
+569747411779735552
+American
+@AmericanAir you Cancelled Flightled my flight tomorrow (without telling me) and I want to rebook-please help me book a new flight! What # can I call?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 22:35:43 -0800
+location: Seattle, WA

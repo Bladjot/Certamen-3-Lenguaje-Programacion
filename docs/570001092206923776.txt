@@ -1,0 +1,7 @@
+570001092206923776
+American
+@AmericanAir Took a flight yesterday fron TPA-DFW-AUS. Bag went to IAH. Today bag went to IAH-DFW and then back to IAH. Still no bag!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 15:23:45 -0800
+location: nan

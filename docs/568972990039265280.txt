@@ -1,0 +1,7 @@
+568972990039265280
+United
+@united Sure.  Follow for a sec and I will.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 19:18:26 -0800
+location: Omaha, Nebraska

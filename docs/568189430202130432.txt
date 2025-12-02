@@ -1,0 +1,7 @@
+568189430202130432
+United
+@united I'm flying @AmericanAir on the way back. I rarely fly them but let's see if they are any better....
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 15:24:51 -0800
+location: San Francisco

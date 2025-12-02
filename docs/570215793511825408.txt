@@ -1,0 +1,7 @@
+570215793511825408
+US Airways
+@USAirways &amp; @AmericanAir: 1 flight Cancelled Flightled yesterday and now a delay today has robbed my daughter of 2 days with her grandparents. Thanks
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 05:36:53 -0800
+location: East Coast/New England

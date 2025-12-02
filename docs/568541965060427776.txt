@@ -1,0 +1,7 @@
+568541965060427776
+US Airways
+@USAirways no problem.  Things worked out at airport.   Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 14:45:42 -0800
+location: nan

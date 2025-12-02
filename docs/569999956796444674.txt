@@ -1,0 +1,7 @@
+569999956796444674
+US Airways
+@USAirways while I’m asking… 2 of my 11 non upgraded flights, Attendants came &amp; greeted me &amp; thanked me for my business b/c I was Exec Plat.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 15:19:14 -0800
+location: BTR/DCA/IAD/MSY - etc

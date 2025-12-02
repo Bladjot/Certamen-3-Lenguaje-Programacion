@@ -1,0 +1,7 @@
+569944355261304833
+American
+@AmericanAir "bag has not yet been located". Again, 5th time I've checked it. How can tracking my bag be this hard for your system?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 11:38:18 -0800
+location: DC

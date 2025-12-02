@@ -1,0 +1,7 @@
+570115366023770112
+United
+@united Thanks for the lack of help and the canned response from the 1K desk!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 22:57:50 -0800
+location: nan

@@ -1,0 +1,7 @@
+568829852721106944
+Southwest
+@SouthwestAir very frustrated. Bought early bird at 6:30am on day tickets were released and got mid-B ticket. Spend $50 for nothing
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 09:49:39 -0800
+location: nan

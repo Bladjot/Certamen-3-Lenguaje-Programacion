@@ -1,0 +1,7 @@
+568894687911632896
+Southwest
+@SouthwestAir I filled in the form on the website too. Darn it all. I guess I'll just have to cross my fingers.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 14:07:17 -0800
+location: USA, USA!

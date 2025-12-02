@@ -1,0 +1,7 @@
+568223380375076864
+US Airways
+@USAirways finally rectified my flight situation! Thanks again
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 17:39:45 -0800
+location: nan

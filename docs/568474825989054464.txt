@@ -1,0 +1,7 @@
+568474825989054464
+US Airways
+THE END: RT @USAirways: Reminder: From 2/28, we’ll be tweeting from @AmericanAir. You should join us: http://t.co/NBpCJCpEW9
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 10:18:54 -0800
+location: Dallas/Fort Worth

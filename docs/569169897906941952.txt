@@ -1,0 +1,7 @@
+569169897906941952
+United
+@united really needs to start upgrading their planes. No TVs &amp; then the "inflight wifi" is currently unavailable #UnitedAirlines
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 08:20:52 -0800
+location: New York

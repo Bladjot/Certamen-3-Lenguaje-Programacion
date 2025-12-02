@@ -1,0 +1,7 @@
+568090924141703169
+United
+@united ha, this happened 10 years ago. i haven't flown with you since.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 08:53:25 -0800
+location: Chicago

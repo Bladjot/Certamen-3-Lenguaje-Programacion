@@ -1,0 +1,7 @@
+569626297116176384
+United
+@united still sucks. I don't understand why you have two cust service agents for a long line at Houston international b gate #unitedsucks
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 14:34:27 -0800
+location: nan

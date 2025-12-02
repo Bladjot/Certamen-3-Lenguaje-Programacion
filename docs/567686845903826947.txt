@@ -1,0 +1,7 @@
+567686845903826947
+United
+@united clicked on the link and got this? #confused http://t.co/xMAQcucWZl
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 06:07:45 -0800
+location: Houston

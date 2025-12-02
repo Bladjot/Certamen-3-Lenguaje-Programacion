@@ -1,0 +1,7 @@
+568917054004334592
+US Airways
+@USAirways Cancelled Flightled our original flight to aruba. Now on the way home we were told we don't have seats. Never flying @usairways again
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 15:36:10 -0800
+location: nan

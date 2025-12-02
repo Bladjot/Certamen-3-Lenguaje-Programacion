@@ -1,0 +1,7 @@
+568888806805512192
+Southwest
+@SouthwestAir rules.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 13:43:55 -0800
+location: chicago, il

@@ -1,0 +1,7 @@
+568063122755485696
+US Airways
+@USAirways little help to us! My husband has been on hold for an hour for something that take 5 minutes to complete.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 07:02:57 -0800
+location: nan

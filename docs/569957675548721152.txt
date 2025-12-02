@@ -1,0 +1,7 @@
+569957675548721152
+American
+@AmericanAir Just called regarding my bag, came in yesterday and no one notified more or updated the online record locator #customerservice
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 12:31:13 -0800
+location: nan

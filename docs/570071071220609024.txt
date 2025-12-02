@@ -1,0 +1,7 @@
+570071071220609024
+US Airways
+@USAirways Well, that's a problem considering I need to book a flight tonight for this weekend... is there anything you can do?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 20:01:49 -0800
+location: Austin, TX | Atlanta, GA

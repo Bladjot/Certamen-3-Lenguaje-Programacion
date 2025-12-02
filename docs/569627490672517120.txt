@@ -1,0 +1,7 @@
+569627490672517120
+United
+@united have you read your own same day travel change policy?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 14:39:11 -0800
+location: nan

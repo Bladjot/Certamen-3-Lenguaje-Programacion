@@ -1,0 +1,7 @@
+567753071833665536
+US Airways
+@USAirways No I missed the funeral so I had to take a train back to Newark
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 10:30:55 -0800
+location: nan

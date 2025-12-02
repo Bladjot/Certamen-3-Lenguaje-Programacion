@@ -1,0 +1,7 @@
+567760797062152192
+Southwest
+@SouthwestAir I think I'm shot. Can't find a flight that arrives before business (SAN) on thu. Really want to go too.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-17 11:01:37 -0800
+location: Where you want to be!

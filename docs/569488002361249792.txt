@@ -1,0 +1,7 @@
+569488002361249792
+US Airways
+@USAirways - almost 2 hrs 30 mins on hold - any idea how much longer?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 05:24:54 -0800
+location: Cambridge, Ma

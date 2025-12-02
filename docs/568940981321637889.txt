@@ -1,0 +1,7 @@
+568940981321637889
+Southwest
+@SouthwestAir you are lucky to have people like Annamarie and Norris at BWI. I hope they get recognized for excellent cust. service
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 17:11:15 -0800
+location: nan

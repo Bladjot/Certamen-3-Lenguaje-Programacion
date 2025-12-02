@@ -1,0 +1,7 @@
+569586660909973504
+Virgin America
+@VirginAmerica is there special assistance if I travel alone w/2 kids and 1 infant? Priority boarding?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 11:56:57 -0800
+location: nan

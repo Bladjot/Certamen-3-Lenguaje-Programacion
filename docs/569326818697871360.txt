@@ -1,0 +1,7 @@
+569326818697871360
+United
+@united OMG!!! you just bumped me off the last flight. Can this get any worse.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 18:44:25 -0800
+location: Rhode Island

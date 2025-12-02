@@ -1,0 +1,7 @@
+569960024455454721
+US Airways
+@USAirways customer service failure aside, one would think you guys would care about inaccurate manifests. I'm sure TSA would.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 12:40:33 -0800
+location: Arlington, VA

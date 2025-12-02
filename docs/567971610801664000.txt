@@ -1,0 +1,7 @@
+567971610801664000
+Virgin America
+@VirginAmerica Thanks for making my flight from LAX to JFK a nightmare by forcing me to check my carry on bag at the gate. (1)
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 00:59:19 -0800
+location: nan

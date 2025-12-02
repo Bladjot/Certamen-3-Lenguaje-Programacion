@@ -1,0 +1,7 @@
+568900770860392448
+United
+@united don't need your apologies, need my bag. Took 56 minutes from landing to get it. Unacceptable.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 14:31:28 -0800
+location: Los Angeles

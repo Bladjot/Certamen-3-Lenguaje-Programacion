@@ -1,0 +1,7 @@
+569233400592257024
+Southwest
+@SouthwestAir any particular reason it's 20+ minutes and counting to speak to a human being?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 12:33:13 -0800
+location: NYC/Columbus/Chicago

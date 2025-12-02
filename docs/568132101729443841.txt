@@ -1,0 +1,7 @@
+568132101729443841
+US Airways
+@USAirways the only way to assist, is to actually answer the phone.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 11:37:03 -0800
+location: nan

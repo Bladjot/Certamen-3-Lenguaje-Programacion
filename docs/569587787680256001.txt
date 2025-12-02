@@ -1,0 +1,9 @@
+569587787680256001
+United
+@united 
+
+There must be 100 people waiting in line for customer service at DEN to deal with flight Cancelled Flightations.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:01:25 -0800
+location: nan

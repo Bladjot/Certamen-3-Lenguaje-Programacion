@@ -1,0 +1,7 @@
+570033554492690432
+US Airways
+@USAirways every single time i fly you guys i am delayed at least 30 minutes. Every time. On flight 5612 out of #CLT to nola.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 17:32:44 -0800
+location: New Orleans, LA

@@ -1,0 +1,7 @@
+568636973964898305
+Delta
+@JetBlue why did you just Cancelled Flight flight 670 last minute?!?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 21:03:14 -0800
+location: San Francisco, CA

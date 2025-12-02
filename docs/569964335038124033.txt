@@ -1,0 +1,7 @@
+569964335038124033
+American
+@AmericanAir I don't believe it's acceptable to have a ticket # changed after check in time &amp; not be notified. Apparently that's standard.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 12:57:41 -0800
+location: nan

@@ -1,0 +1,7 @@
+569664077049384961
+American
+@AmericanAir flight 3056 still sitting at DFW waiting for baggage to be loaded
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:04:34 -0800
+location: Springfield, Illinois

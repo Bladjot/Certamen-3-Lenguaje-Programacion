@@ -1,0 +1,7 @@
+569662789377064960
+United
+@united deceptive marketing practices promised me if i booked flights i would retain my status now they are not granting. Neverflyunited
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:59:27 -0800
+location: nan

@@ -1,0 +1,7 @@
+567816074898513920
+United
+@united A 3rd party service you use to sell your tickets has ripped me off. Excellent service United is offering.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 14:41:16 -0800
+location: nan

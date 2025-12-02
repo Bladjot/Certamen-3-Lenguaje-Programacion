@@ -1,0 +1,7 @@
+568428971504889856
+United
+@united "where we trick you into making us look popular on Twitter by being the worst airline" #wellplayed #jokesonus
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 07:16:42 -0800
+location: nan

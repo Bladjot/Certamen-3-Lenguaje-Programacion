@@ -1,0 +1,7 @@
+569135011322064897
+US Airways
+@USAirways DCA to RSW at 8:30am Cancelled Flightled.  Rebook to Charlotte Cancelled Flightled.  Can we rebook selves online???
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 06:02:15 -0800
+location: Washington, DC

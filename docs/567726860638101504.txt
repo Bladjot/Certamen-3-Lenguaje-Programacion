@@ -1,0 +1,7 @@
+567726860638101504
+United
+@united why am i mot getting my refund?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 08:46:46 -0800
+location: Jerusalem-London-Antwerp

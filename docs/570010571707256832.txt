@@ -1,0 +1,7 @@
+570010571707256832
+Virgin America
+@VirginAmerica wow this just blew my mind
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 16:01:25 -0800
+location: Oakland via Midwest

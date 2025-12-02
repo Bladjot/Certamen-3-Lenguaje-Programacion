@@ -1,0 +1,7 @@
+569853327359516672
+American
+@AmericanAir I would purchase it if I was there by choice but you guys Cancelled Flightled my flight and have me stuck at DFW for 7 hours!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 05:36:35 -0800
+location: Southern California

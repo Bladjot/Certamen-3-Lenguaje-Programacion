@@ -1,0 +1,7 @@
+569930199036497920
+US Airways
+@USAirways Wow unbelievable how you treat your customers at Puerto Rico airport! 👍
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:42:02 -0800
+location: TotalWorldJaxxination

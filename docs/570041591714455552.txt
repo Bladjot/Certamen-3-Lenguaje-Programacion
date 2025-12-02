@@ -1,0 +1,7 @@
+570041591714455552
+Southwest
+@SouthwestAir thankyou :))❤️
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 18:04:40 -0800
+location: CT

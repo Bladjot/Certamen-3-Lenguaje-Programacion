@@ -1,0 +1,7 @@
+569938796986433537
+Delta
+@JetBlue I'm sick of y'all.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 11:16:12 -0800
+location: oh so magical.

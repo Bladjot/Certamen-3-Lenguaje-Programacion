@@ -1,0 +1,7 @@
+569642757767081984
+American
+@AmericanAir Thank you. Good suggestion. I checked and we were not rebooked. We'll keep checking and looking for other flights
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 15:39:51 -0800
+location: Ocean Ridge, FL

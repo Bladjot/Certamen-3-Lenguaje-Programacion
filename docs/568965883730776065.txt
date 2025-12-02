@@ -1,0 +1,7 @@
+568965883730776065
+United
+@united or how about next time my bag is underweight you guys credit me $200. Or how about I take my business to an airline that cares.
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-20 18:50:12 -0800
+location: Silver Spring

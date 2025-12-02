@@ -1,0 +1,7 @@
+569387614265954304
+United
+@united flight Cancelled Flightled to Denver service agent offered me a non jet salt lake to Denver or red eye out of Atlanta then hung up on me.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 22:46:00 -0800
+location: Oklahoma

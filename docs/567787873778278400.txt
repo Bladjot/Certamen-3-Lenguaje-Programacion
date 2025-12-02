@@ -1,0 +1,7 @@
+567787873778278400
+Virgin America
+.@VirginAmerica not only was it great, but you return my calls the day after. Couldn't ask for more. #myVXexperience
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 12:49:12 -0800
+location: New York City

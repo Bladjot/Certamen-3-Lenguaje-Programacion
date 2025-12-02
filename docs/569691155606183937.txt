@@ -1,0 +1,7 @@
+569691155606183937
+American
+@AmericanAir you all should really be ashamed. The entire business class cabin is empty and almost all of first class...
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 18:52:10 -0800
+location: NYCATL

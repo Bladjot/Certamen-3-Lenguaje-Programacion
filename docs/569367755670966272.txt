@@ -1,0 +1,7 @@
+569367755670966272
+United
+@united Pick
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 21:27:05 -0800
+location: Wake Forest, NC

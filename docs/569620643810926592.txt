@@ -1,0 +1,7 @@
+569620643810926592
+American
+@AmericanAir I have an issue that requires a bit more than a tweet to explain, do y’all have an email?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 14:11:59 -0800
+location: Tiffin, Ohio

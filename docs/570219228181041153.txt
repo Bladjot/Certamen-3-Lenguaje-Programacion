@@ -1,0 +1,7 @@
+570219228181041153
+Southwest
+@SouthwestAir   I hate evolved seating. knees in the seat pocket http://t.co/forNpF69Ky
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 05:50:32 -0800
+location: Galt Gulch

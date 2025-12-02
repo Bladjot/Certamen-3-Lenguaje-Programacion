@@ -1,0 +1,7 @@
+568408653562294272
+United
+@united Thanks JT
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 05:55:58 -0800
+location: New York, NY

@@ -1,0 +1,7 @@
+568161313274404864
+Southwest
+@SouthwestAir yall still fly in the cold right?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 13:33:07 -0800
+location: Zamunda

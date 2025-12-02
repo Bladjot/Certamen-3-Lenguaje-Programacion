@@ -1,0 +1,7 @@
+569134333166002177
+US Airways
+@USAirways how do I find an email address regarding reativation of dividend miles. Nothing on website
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 05:59:33 -0800
+location: Boston, MA

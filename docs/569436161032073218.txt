@@ -1,0 +1,7 @@
+569436161032073218
+US Airways
+@USAirways @AmericanAir Flying from Orlando to Philly to Charlotte to Lynchburg. Saw advisory re Philly. Wld like to fly from Orl to Char
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 01:58:55 -0800
+location: Thicktown, Thickania

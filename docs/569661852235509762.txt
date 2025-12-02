@@ -1,0 +1,7 @@
+569661852235509762
+American
+@AmericanAir I did 50 times and no one was helpful I'm missing work nd school nd the manager REM from mia told me he didn't want to talk us
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:55:44 -0800
+location: nan

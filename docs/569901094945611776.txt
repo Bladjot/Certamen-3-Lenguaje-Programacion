@@ -1,0 +1,7 @@
+569901094945611776
+United
+@united switched to fly united from delta for the past two trips and was very disappointed. Now my UA4646 on 2/23 is delayed by 3 hours!!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 08:46:23 -0800
+location: nan

@@ -1,0 +1,7 @@
+567783892711526400
+Delta
+“@JetBlue: We’re looking for our next #FlyingItForward flier from DC Tell us where you'd fly &amp; why http://t.co/MCSI0dzpnz” @geekandahalf
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 12:33:23 -0800
+location: Austin, Texas, USA

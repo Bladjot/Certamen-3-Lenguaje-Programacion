@@ -1,0 +1,7 @@
+567881731967229953
+US Airways
+@USAirways a flight update doesn't help when we are waiting 20+ min at our arrival waiting for a plane to leave our gate. Who can I write?😑
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 19:02:10 -0800
+location: Washingon, DC

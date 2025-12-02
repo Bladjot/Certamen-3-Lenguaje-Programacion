@@ -1,0 +1,7 @@
+569838141273559040
+American
+@AmericanAir you bet make this screw up right (for once). Things I need in bag for my job and you have "grounded" me today #painandsuffering
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 04:36:14 -0800
+location: nan

@@ -1,0 +1,7 @@
+569153071093297152
+Southwest
+@SouthwestAir How can we get refund instead of credit for flight that you Cancelled Flightled? We couldn't switch to a flight tomorrow.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 07:14:01 -0800
+location: North Bethesda, MD

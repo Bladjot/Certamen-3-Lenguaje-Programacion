@@ -1,0 +1,7 @@
+570166071640133632
+American
+@AmericanAir We did talk with Delta for about hour over phone, and I got a number from Delta that they asked to give to AA, which I did.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 02:19:19 -0800
+location: Finn between Detroit & Toledo

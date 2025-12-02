@@ -1,0 +1,7 @@
+568919230671794176
+United
+@united I just had an interview how long does it take before you hear back
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 15:44:49 -0800
+location: nan

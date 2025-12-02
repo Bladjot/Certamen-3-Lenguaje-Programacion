@@ -1,0 +1,7 @@
+569815182265978880
+United
+@united thanks for the upgrade today great way to start my week! Cc: @CiscoJimFrench @cobedien
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 03:05:00 -0800
+location: DOM-ination

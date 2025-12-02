@@ -1,0 +1,7 @@
+569163696041172992
+Southwest
+@SouthwestAir hello #SouthwestAir I'm  happy to be flying with you this morning DAL-MDW #4053 looking forward to a comfortable fight
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 07:56:14 -0800
+location: Dallas, TX Memphis, TN, MS

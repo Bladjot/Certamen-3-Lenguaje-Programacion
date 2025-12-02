@@ -1,0 +1,7 @@
+568138172133183488
+US Airways
+@USAirways Priorities should have been made. Considering a pending snow storm, why delay a flight for an hour &amp; a half? I'd like an answer.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 12:01:10 -0800
+location: Detroit, MI

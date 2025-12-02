@@ -1,0 +1,7 @@
+570304740279640064
+US Airways
+@USAirways shout out to Cathy at the Vegas airport check-in for hooking us up!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:30:20 -0800
+location: Paper Street

@@ -1,0 +1,7 @@
+568569646389067776
+US Airways
+@USAirways @AskPayPal completed. If that's the case then why does it still say "in progress" on Paypal's website. I reserved on the 13th.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 16:35:41 -0800
+location: On my phone, USA

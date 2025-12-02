@@ -1,0 +1,7 @@
+569539074106789889
+US Airways
+@USAirways You suck!!  Do you even know the meaning of contingency plan?????
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 08:47:51 -0800
+location: Washington, DC

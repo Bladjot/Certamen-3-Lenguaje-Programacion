@@ -1,0 +1,7 @@
+568172001300340736
+Southwest
+@SouthwestAir I am trying to book another flight and apply my credits that I had from another flight but I can't find them.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 14:15:35 -0800
+location: Los Angeles/Chicago

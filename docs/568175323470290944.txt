@@ -1,0 +1,7 @@
+568175323470290944
+US Airways
+@USAirways Marsha M. at Myrtle Beach is the greatest! She deserves all the respect and praise there is! #ThankYouForEverything
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 14:28:47 -0800
+location: Fort Worth, TX

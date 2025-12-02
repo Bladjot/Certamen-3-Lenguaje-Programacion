@@ -1,0 +1,7 @@
+570286359983886336
+Southwest
+@SouthwestAir  appreciate y'all getting the gate issue figured GRR. Plenty open gates, yet we sit and wait on tarmac
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 10:17:18 -0800
+location: Grandville, Michigan

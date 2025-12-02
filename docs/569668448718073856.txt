@@ -1,0 +1,7 @@
+569668448718073856
+American
+@AmericanAir 901 #Miami to #Rio to participate at @RCM_Oficial representing @CisnerosMedia #yourstoryhere
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:21:56 -0800
+location: Seat 4B

@@ -1,0 +1,7 @@
+569512132494159872
+US Airways
+@USAirways been on hold 2 hours for a Cancelled Flighted flight. I understand the delay. I don't understand you auto-reFlight Booking Problems me on TUESDAY. HELP!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 07:00:48 -0800
+location: The Land of Twitter

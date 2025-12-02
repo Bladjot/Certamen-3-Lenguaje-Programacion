@@ -1,0 +1,7 @@
+569995514558550016
+Southwest
+@SouthwestAir thank you. Great customer service so far. Accidents happen I understand. Hopefully everything works out.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 15:01:35 -0800
+location: nan

@@ -1,0 +1,7 @@
+567760664752824321
+United
+@united 1 refused boarding with Nexus. nexus confirmed she should not be refused
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 11:01:05 -0800
+location: nan

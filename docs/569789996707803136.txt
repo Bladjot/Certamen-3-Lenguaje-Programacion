@@ -1,0 +1,7 @@
+569789996707803136
+American
+@AmericanAir @Cowboycerrone You apologise for HIS frustrations &amp; HIS disappointment but NOT your terrible service? #BlameShiftOverload
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 01:24:56 -0800
+location: nan

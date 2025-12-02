@@ -1,0 +1,7 @@
+568898634923843586
+US Airways
+@USAirways nothing important to do.  Why was I told to wait in the @AmericanAir line?  #patiencerunningout
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 14:22:58 -0800
+location: Stamford, Ct

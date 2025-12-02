@@ -1,0 +1,7 @@
+570157409458642944
+US Airways
+@usairways I will make sure to never use your incompetent airlines again. My luggage has been out for delivery for 24 hours.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 01:44:54 -0800
+location: Kentucky

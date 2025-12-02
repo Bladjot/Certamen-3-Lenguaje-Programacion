@@ -1,0 +1,7 @@
+568138996112445440
+US Airways
+@USAirways the voucher you give us for a hotel is useless you call the number they say no rooms available what do you expect me to do?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 12:04:26 -0800
+location: nan

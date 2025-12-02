@@ -1,0 +1,7 @@
+569714127792254976
+Virgin America
+@VirginAmerica thanks to your outstanding NYC-JFK crew who moved mountains to get me home to San Francisco tonight!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 20:23:27 -0800
+location: San Francisco

@@ -1,0 +1,7 @@
+569267891721375745
+Delta
+@JetBlue not cool. At the gate, turns out my flight from FLL to JAX is delayed, yet app says on time. Not a good start.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 14:50:16 -0800
+location: Miami/Ft. Lauderdale, FL

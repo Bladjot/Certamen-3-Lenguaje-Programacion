@@ -1,0 +1,7 @@
+569971949440524288
+Southwest
+@SouthwestAir LUV! your new Luv Television Commercials. Traveled on your airline last year return trip from NYC...#feltthelove
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 13:27:56 -0800
+location: nan

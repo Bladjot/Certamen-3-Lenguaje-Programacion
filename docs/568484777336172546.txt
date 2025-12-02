@@ -1,0 +1,7 @@
+568484777336172546
+United
+@united we followed the baggage rules on your website and was still charges $150. But only going one way
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 10:58:27 -0800
+location: PA

@@ -1,0 +1,7 @@
+570024324666564610
+American
+.@AmericanAir No. I watched these bags be abandoned at depart gate. Watched for &gt;40 mins until owner returned, 20+ mins after I reported
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 16:56:04 -0800
+location: Austin, Texas area

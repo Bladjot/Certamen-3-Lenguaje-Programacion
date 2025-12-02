@@ -1,0 +1,7 @@
+568882182686707712
+Southwest
+@SouthwestAir thanks for losing my luggage
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 13:17:36 -0800
+location: looking for alaska

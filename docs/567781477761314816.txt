@@ -1,0 +1,7 @@
+567781477761314816
+US Airways
+@usairways told no gates open at #ORD, needed to wait 20mins. Still waiting after about 4 mins.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-17 12:23:47 -0800
+location: Chicago

@@ -1,0 +1,7 @@
+569752206343348224
+American
+@AmericanAir why arent callings going thru it doesnt have me wait or anything and automated stuff is messed up
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 22:54:46 -0800
+location: nan

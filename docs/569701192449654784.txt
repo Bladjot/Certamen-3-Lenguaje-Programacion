@@ -1,0 +1,7 @@
+569701192449654784
+US Airways
+@USAirways Instructions say to CALL. I'm just doing what it said to do.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:32:03 -0800
+location: Santa Cruz, CA

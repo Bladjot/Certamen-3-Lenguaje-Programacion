@@ -1,0 +1,7 @@
+568411504497856512
+United
+@united Please consider letting flyers with no overhead bin items board/deplane first (after first class). Make sense?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 06:07:17 -0800
+location: raleigh, nc

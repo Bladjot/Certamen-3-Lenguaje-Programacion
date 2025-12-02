@@ -1,0 +1,7 @@
+569555072067051520
+US Airways
+@USAirways 45 minutes and moved two feet in BZE. 👎 http://t.co/AwGjkjIIac
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 09:51:25 -0800
+location: World

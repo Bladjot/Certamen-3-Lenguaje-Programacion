@@ -1,0 +1,7 @@
+569869374103793664
+American
+@AmericanAir it's not about the weather. It's about the fact that I can't get ahold of anyone to help. BUT you can tweet me back.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:40:21 -0800
+location: Bentonville, Arkansas

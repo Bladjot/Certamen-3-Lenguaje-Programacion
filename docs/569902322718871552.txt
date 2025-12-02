@@ -1,0 +1,7 @@
+569902322718871552
+American
+@AmericanAir SJC-&gt;LAX. After the fourth time, I gave up!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 08:51:16 -0800
+location: nan

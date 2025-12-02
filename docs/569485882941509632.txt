@@ -1,0 +1,7 @@
+569485882941509632
+Southwest
+@SouthwestAir Can you give me info on Flt 681 out of BDL? I see it's Cancelled Flightled.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 05:16:29 -0800
+location: Gloucester, MA

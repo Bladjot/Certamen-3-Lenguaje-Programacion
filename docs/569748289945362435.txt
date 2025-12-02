@@ -1,0 +1,7 @@
+569748289945362435
+United
+@united also didn't ice the frozen metal walkway. Wasted 40 minutes because no one knew how to do simple jobs.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 22:39:12 -0800
+location: Vancouver, CA

@@ -1,0 +1,7 @@
+569228788481069057
+Southwest
+@SouthwestAir   Where the heck are the bags for Chicago 408. It has been an hour
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 12:14:53 -0800
+location: Virginia

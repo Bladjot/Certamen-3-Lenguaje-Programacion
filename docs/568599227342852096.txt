@@ -1,0 +1,7 @@
+568599227342852096
+Delta
+@JetBlue Hi. I'm trying to find a flight to the Middle East.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 18:33:14 -0800
+location: 10 ring

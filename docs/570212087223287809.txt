@@ -1,0 +1,7 @@
+570212087223287809
+US Airways
+@USAirways knows customer service!! Thank you for starting our 2 week vacay on an amazing note! Thank you sarita!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 05:22:10 -0800
+location: MN

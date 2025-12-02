@@ -1,0 +1,7 @@
+568064382627921920
+Delta
+@JetBlue I was not allowed to drop my bag off for my flight that I was running 10min Late Flight for. Turns out it left over an hour Late Flight.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 07:07:57 -0800
+location: NYC

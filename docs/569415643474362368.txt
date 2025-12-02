@@ -1,0 +1,7 @@
+569415643474362368
+United
+@united what's with the layover in Canada from the UA125? Is that scheduled?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 00:37:23 -0800
+location: Berlin, Germany

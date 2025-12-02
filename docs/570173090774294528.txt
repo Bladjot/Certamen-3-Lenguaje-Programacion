@@ -1,0 +1,7 @@
+570173090774294528
+United
+@united did our bags leave Washington yet? That would be convenient seeing as we left there a day ago. #UnitedAirlines #lostluggage
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 02:47:12 -0800
+location: mentor, Ohio

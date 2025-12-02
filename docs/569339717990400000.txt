@@ -1,0 +1,7 @@
+569339717990400000
+Delta
+@JetBlue flight 790 you had us stuck on the plane for nearly 4 hrs. Set to take off only for flight control to deny us. THE WORST SERVICE
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 19:35:41 -0800
+location: SOUL CLAP/ STAR TIME/BBE

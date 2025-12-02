@@ -1,0 +1,7 @@
+569311498301870080
+Virgin America
+@VirginAmerica If only you guys had flights from CMH.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 17:43:33 -0800
+location: nan

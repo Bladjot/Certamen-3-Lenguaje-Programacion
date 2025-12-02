@@ -1,0 +1,7 @@
+569884438504427520
+American
+@AmericanAir I've been in line for over half hour trying to see a representative, now I might even miss the next flight too, unacceptable
+sentiment: negative
+negativereason: longlines
+created: 2015-02-23 07:40:12 -0800
+location: ⋆city of lost angels⋆

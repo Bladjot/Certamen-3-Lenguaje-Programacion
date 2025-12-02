@@ -1,0 +1,7 @@
+568434014672916480
+Southwest
+@SouthwestAir Is there an email address I can send some thoughts to? This experience was really not good &amp; I have some feedback.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 07:36:44 -0800
+location: iPhone: 44.912468,-93.318619

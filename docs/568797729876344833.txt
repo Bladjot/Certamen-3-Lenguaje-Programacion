@@ -1,0 +1,7 @@
+568797729876344833
+Southwest
+@SouthwestAir have been doing that for hours already
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 07:42:01 -0800
+location: nan

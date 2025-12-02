@@ -1,0 +1,7 @@
+568860520796725248
+Delta
+@JetBlue what's up with the random delay on flight 1729? Any chance of it being a false alarm?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 11:51:31 -0800
+location: Brooklyn, NY

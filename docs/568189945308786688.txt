@@ -1,0 +1,7 @@
+568189945308786688
+Delta
+@JetBlue hi! Is it possible to upgrade to a Mint seat on an already booked ticket? Thanks!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 15:26:54 -0800
+location: New York & LA

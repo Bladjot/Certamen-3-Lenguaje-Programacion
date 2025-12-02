@@ -1,0 +1,7 @@
+569917363891499008
+United
+@united, and now while waiting for new pilot the door on plane BROKE. why am I global services status  on an airline that's unsafe? STUNNING
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 09:51:02 -0800
+location: nan

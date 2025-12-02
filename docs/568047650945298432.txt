@@ -1,0 +1,7 @@
+568047650945298432
+United
+@united we are never going to get to out gate at this rate.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 06:01:28 -0800
+location: Ottawa, Canada

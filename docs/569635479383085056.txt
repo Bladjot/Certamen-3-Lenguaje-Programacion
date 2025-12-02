@@ -1,0 +1,7 @@
+569635479383085056
+US Airways
+@USAirways after a crappy flight due to delays and rude staff members I'm happy to report after paying $25 to check my luggage it's ruined
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:10:56 -0800
+location: nan

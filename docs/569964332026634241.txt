@@ -1,0 +1,7 @@
+569964332026634241
+Southwest
+@SouthwestAir Thanks for getting us to paradise safely! http://t.co/KDzQcZlpyR
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 12:57:40 -0800
+location: nan

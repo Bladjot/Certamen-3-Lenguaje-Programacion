@@ -1,0 +1,7 @@
+569588375037960192
+Southwest
+@SouthwestAir wife's flight to DAL just got Cancelled Flightled. What does she do to find options to get back home?  1708 PHX-&gt;DAL
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 12:03:45 -0800
+location: Dallas, Tx

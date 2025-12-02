@@ -1,0 +1,7 @@
+569999529677852672
+United
+@united I've never experienced worst customer service. Placing blame on codeshare partners and not assuming responsibility is unacceptable
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 15:17:32 -0800
+location: nan

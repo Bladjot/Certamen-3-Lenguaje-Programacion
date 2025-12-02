@@ -1,0 +1,7 @@
+568198349393768448
+United
+@united thanks for the re-upgrade to 1st class. It may be a 45 min flight, but it is appreciated.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 16:00:17 -0800
+location: BTR/DCA/IAD/MSY - etc

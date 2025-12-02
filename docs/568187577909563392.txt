@@ -1,0 +1,7 @@
+568187577909563392
+Southwest
+@SouthwestAir @Imaginedragons  Did they pick someone for Destination Dragons?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 15:17:29 -0800
+location: indiana

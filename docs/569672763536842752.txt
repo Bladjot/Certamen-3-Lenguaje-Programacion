@@ -1,0 +1,7 @@
+569672763536842752
+US Airways
+@USAirways I have contacted them but only got an automated response that won't give me the code.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:39:05 -0800
+location: Tuscaloosa, Alabama

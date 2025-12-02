@@ -1,0 +1,7 @@
+568492898553102337
+United
+@united how do you log out of wifi in flight? Don't see any option and made typo when logging in. HELP!!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 11:30:43 -0800
+location: nan

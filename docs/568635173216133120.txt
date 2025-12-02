@@ -1,0 +1,7 @@
+568635173216133120
+US Airways
+@USAirways I will. Thank you for at least tweeting me back:) better than most. 👌
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 20:56:04 -0800
+location: Arkansas, USA

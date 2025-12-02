@@ -1,0 +1,7 @@
+570177745759678466
+American
+@AmericanAir Ps, I was right.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 03:05:42 -0800
+location: Nashville/Space

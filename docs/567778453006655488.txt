@@ -1,0 +1,7 @@
+567778453006655488
+Southwest
+@SouthwestAir been on the phone for about an hour waiting..can you please answer, Thank You!  #notcool
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 12:11:46 -0800
+location: New Orleans/Dallas

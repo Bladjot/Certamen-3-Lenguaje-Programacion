@@ -1,0 +1,7 @@
+568203369053077505
+United
+@united My feedback and concerns via your site aren’t going to improve my poor airport experiences.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 16:20:14 -0800
+location: Cardiff and London

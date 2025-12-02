@@ -1,0 +1,7 @@
+568457955223453696
+US Airways
+@USAirways. On phone hold for 30+ mins trying to speak to an agent. Can't change reservation online. Sigh. #badcustomerexperience
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 09:11:52 -0800
+location: Twittersphere

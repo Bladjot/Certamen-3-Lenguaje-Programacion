@@ -1,0 +1,7 @@
+569956201934385152
+United
+@united thanks. Just a program comment; the system assigned seats behind each other even though pairs were available. I changed it back.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 12:25:22 -0800
+location: Oakland by way of Chicago

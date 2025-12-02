@@ -1,0 +1,7 @@
+569312396097003520
+Delta
+@JetBlue thanks for a speedy flight time recovery.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 17:47:07 -0800
+location: Miami/Ft. Lauderdale, FL

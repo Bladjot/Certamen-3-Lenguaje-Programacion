@@ -1,0 +1,7 @@
+569588578159697920
+US Airways
+@USAirways has failed me all day long, should I blame it on @AmericanAir ?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 12:04:34 -0800
+location: Newtonville, MA

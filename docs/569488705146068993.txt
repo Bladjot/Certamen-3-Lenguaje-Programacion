@@ -1,0 +1,7 @@
+569488705146068993
+United
+@united your service need work - check out this Bush airport "customer service line" last nt #unitedagainstunited http://t.co/g00sAozgtv
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 05:27:42 -0800
+location: nan

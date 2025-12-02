@@ -1,0 +1,7 @@
+570298117544906754
+American
+@AmericanAir still waiting for a flight... I should get my money back
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 11:04:01 -0800
+location: nan

@@ -1,0 +1,7 @@
+567782686077747200
+US Airways
+@USAirways any updates on flight 5202 from ORF to PHL no one at gate...  ;(
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 12:28:35 -0800
+location: Virginia Beach

@@ -1,0 +1,7 @@
+568070386627305472
+US Airways
+@USAirways Hey! I booked a flight (Isabelle Gramp, Boston to LAX), and it said that it charged my credit card but the transaction didn't go
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 07:31:49 -0800
+location: Melbourne, Australia

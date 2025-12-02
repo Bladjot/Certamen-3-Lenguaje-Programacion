@@ -1,0 +1,7 @@
+569673473607344128
+Southwest
+@SouthwestAir really shouldn't offer sweeps if your link isn't going to work! B http://t.co/nOfG0TQHYN
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:41:54 -0800
+location: South

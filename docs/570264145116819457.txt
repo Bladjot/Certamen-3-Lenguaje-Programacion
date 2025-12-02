@@ -1,0 +1,7 @@
+570264145116819457
+Virgin America
+@VirginAmerica I love this graphic. http://t.co/UT5GrRwAaA
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 08:49:01 -0800
+location: nan

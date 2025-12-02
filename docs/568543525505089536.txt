@@ -1,0 +1,7 @@
+568543525505089536
+Virgin America
+@VirginAmerica I was so glad it was mentioned. I took my first virgin flight a few years back and it was a transformative experience.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 14:51:54 -0800
+location: SD/LA/PS

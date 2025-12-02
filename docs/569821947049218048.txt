@@ -1,0 +1,7 @@
+569821947049218048
+United
+@united Cancelled Flightled a flight cause the crew needed sleep.But it's totally okay to wake me up at 3am just to let me know it's Cancelled Flightled, again.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 03:31:53 -0800
+location: nan

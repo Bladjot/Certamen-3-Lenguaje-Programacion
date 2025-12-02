@@ -1,0 +1,7 @@
+568413198518329344
+Delta
+@JetBlue Thank you for the JetBlue Credit. Nice save :-)
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 06:14:01 -0800
+location: nan

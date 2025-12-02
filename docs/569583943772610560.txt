@@ -1,0 +1,7 @@
+569583943772610560
+United
+@united the emails/calls over the past months about flight changes were helpful wish you would have sent them on the Cancelled Flightlation yesterday
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 11:46:09 -0800
+location: nan

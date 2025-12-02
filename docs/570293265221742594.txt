@@ -1,0 +1,7 @@
+570293265221742594
+United
+@united Do I need to use a Chase United Club pass for my 8yr old son, or can he come in with me on my pass?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:44:44 -0800
+location: South Carolina

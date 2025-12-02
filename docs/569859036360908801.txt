@@ -1,0 +1,7 @@
+569859036360908801
+American
+@AmericanAir @MallowFairy And how many times, exactly, should we call and leave our number for a call back? Because that hasn't worked.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 05:59:16 -0800
+location: Seattle

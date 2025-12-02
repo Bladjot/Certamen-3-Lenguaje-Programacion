@@ -1,0 +1,7 @@
+570179236633432065
+American
+@AmericanAir is it right to provide faulty seats on flights plus damage a $350 bag and not replace and shrug the damage off? Flights from...
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 03:11:38 -0800
+location: Manchester

@@ -1,0 +1,7 @@
+569916586682945536
+US Airways
+@USAirways I called the number and they said no one is available to take my call...guys this is insane
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:47:57 -0800
+location: South

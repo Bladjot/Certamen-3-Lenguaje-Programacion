@@ -1,0 +1,7 @@
+568690023513526272
+United
+@united has the worst flight attendants. They are like those angry and drunk aunts that we all have. Everything has to be an argument.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 00:34:02 -0800
+location: Bellevue Washington

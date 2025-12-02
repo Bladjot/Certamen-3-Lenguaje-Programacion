@@ -1,0 +1,7 @@
+569956742122983424
+American
+@AmericanAir will do on another airline that's more accommodating of its customers. Unable to simply change passengers with notice is simply
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 12:27:31 -0800
+location: Dallas

@@ -1,0 +1,7 @@
+568949828518084608
+Southwest
+@SouthwestAir -17mph winds and would do anything to be in Florida right now.. help a sister out!!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 17:46:24 -0800
+location: nan

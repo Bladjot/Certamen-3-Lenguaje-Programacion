@@ -1,0 +1,7 @@
+568231742449922049
+United
+@united negative. Done wasting time with amateurs at customer service. Thanks for at least offering.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 18:12:59 -0800
+location: Q's, Staples Center

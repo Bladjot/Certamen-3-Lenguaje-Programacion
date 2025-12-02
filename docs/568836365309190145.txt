@@ -1,0 +1,7 @@
+568836365309190145
+Delta
+@JetBlue We already won the tickets but she's totally on a beach right now. #flightlanding #sunscreen #feelsgood http://t.co/5PvG2hJXKp
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 10:15:32 -0800
+location: Philadelphia

@@ -1,0 +1,7 @@
+569666244317618177
+American
+@AmericanAir You have the worst customer service of any airlines I've ever encountered. Flat out awful
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:13:11 -0800
+location: Springfield, MO

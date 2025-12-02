@@ -1,0 +1,7 @@
+567767341090361344
+United
+@united I don't see how I need to spend an extra $100 bc of ur equipment failure.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-17 11:27:37 -0800
+location: The Lone Star State

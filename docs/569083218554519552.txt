@@ -1,0 +1,7 @@
+569083218554519552
+US Airways
+@USAirways Umm, can you define 'extra time'?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 02:36:27 -0800
+location: Raxacoricofallapatorius

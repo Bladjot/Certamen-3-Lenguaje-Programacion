@@ -1,0 +1,7 @@
+568482893913333762
+US Airways
+@USAirways Cancelled Flightled due to maintenance. The plane was there for 10 hours. Get your shit together because there are a lot of people unhappy.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 10:50:58 -0800
+location: Liverpool, UK

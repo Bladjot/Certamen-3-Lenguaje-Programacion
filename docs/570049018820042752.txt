@@ -1,0 +1,7 @@
+570049018820042752
+Delta
+@JetBlue I like " Follow @JetBlue "
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 18:34:11 -0800
+location: Logan International Airport

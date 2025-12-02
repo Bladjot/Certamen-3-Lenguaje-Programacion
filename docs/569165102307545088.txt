@@ -1,0 +1,7 @@
+569165102307545088
+Southwest
+@SouthwestAir Can't DM you because you don't follow me.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 08:01:49 -0800
+location: Long Island, NY

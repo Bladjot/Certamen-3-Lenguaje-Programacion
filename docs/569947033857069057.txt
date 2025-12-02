@@ -1,0 +1,7 @@
+569947033857069057
+US Airways
+@USAirways @AmericanAir trying to chg ticket for staff member leaving org before she can fly.We're a nonprofit-can't you make an exception?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:48:56 -0800
+location: Northern Virginia

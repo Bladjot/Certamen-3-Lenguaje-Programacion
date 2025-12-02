@@ -1,0 +1,7 @@
+568086068135895040
+Southwest
+@SouthwestAir I just wanted Southwest to know that I don't think they're as great as I used to anymore. Nothing to look into.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 08:34:07 -0800
+location: Tennessee

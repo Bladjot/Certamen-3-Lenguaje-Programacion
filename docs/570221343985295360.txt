@@ -1,0 +1,7 @@
+570221343985295360
+Southwest
+@SouthwestAir would be great if I atleast was next to my husband who is flying in the same reservation
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 05:58:57 -0800
+location: Detroit

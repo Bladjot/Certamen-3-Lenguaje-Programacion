@@ -1,0 +1,7 @@
+569746542275354625
+American
+@AmericanAir do you have the phone number of a supervisor i can speak to regarding my travels today
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 22:32:15 -0800
+location: College Station

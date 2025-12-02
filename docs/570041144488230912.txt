@@ -1,0 +1,7 @@
+570041144488230912
+American
+@AmericanAir why do you continually play the "according to federal regulations" every 58 seconds. I could see if you had quicker service...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 18:02:54 -0800
+location: Cleveland, OH

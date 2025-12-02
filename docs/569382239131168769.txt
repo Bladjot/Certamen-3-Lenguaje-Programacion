@@ -1,0 +1,7 @@
+569382239131168769
+Delta
+@JetBlue thank you! I know the weather in #Boston isn't great. Everyone's tired
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 22:24:39 -0800
+location: nan

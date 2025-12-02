@@ -1,0 +1,7 @@
+570058070224728064
+American
+@AmericanAir of delays and trapped on planes with no water or air. Never ever ever again. #neveragain #aafail
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 19:10:09 -0800
+location: Miami, FL

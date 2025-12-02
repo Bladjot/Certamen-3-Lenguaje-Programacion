@@ -1,0 +1,7 @@
+568859651980156928
+Southwest
+Includes @KCIAirport “@SouthwestAir: Inclement weather may impact scheduled service in. ReFlight Booking Problems options available: http://t.co/KeyrpFlHil”
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 11:48:04 -0800
+location: Kansas City, MO

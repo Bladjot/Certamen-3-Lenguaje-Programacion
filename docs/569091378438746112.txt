@@ -1,0 +1,7 @@
+569091378438746112
+Delta
+@JetBlue word thanks
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 03:08:52 -0800
+location: ravioli

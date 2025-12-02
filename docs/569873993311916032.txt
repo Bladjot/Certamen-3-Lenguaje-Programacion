@@ -1,0 +1,7 @@
+569873993311916032
+American
+@AmericanAir work would be much better with my lesson plans and music for my classes today.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 06:58:42 -0800
+location: nan

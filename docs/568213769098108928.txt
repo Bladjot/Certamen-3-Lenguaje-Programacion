@@ -1,0 +1,7 @@
+568213769098108928
+Delta
+@JetBlue wow you guys answer people wow you care I love jet blue
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 17:01:34 -0800
+location: nan

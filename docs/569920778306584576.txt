@@ -1,0 +1,7 @@
+569920778306584576
+American
+@AmericanAir Thanks but don't understand why they couldn't have used the tug at the next gate over, ground crew took a break? #unacceptable
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 10:04:36 -0800
+location: Aspen, Colorado

@@ -1,0 +1,7 @@
+570010882069151744
+Delta
+@JetBlue you found my camera!  Thank you!  You rock!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 16:02:39 -0800
+location: Stratford, CT

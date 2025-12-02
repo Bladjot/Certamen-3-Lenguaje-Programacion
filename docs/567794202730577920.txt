@@ -1,0 +1,7 @@
+567794202730577920
+US Airways
+@USAirways can I get free wifi since the flight 1808 was Cancelled Flightled?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 13:14:21 -0800
+location: nan

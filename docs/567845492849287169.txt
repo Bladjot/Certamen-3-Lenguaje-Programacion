@@ -1,0 +1,7 @@
+567845492849287169
+United
+@united now finally in memphis. Landed 30 minutes ago. Still no bags. Paying for a service that just gets worse...
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 16:38:10 -0800
+location: Memphis

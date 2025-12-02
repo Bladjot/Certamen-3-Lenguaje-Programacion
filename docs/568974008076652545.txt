@@ -1,0 +1,7 @@
+568974008076652545
+Southwest
+@SouthwestAir how do I find travel funds I have available to use f/ past changed flights? don't see an option in my account.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 19:22:29 -0800
+location: Chicago

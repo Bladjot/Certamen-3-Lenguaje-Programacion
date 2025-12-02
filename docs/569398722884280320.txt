@@ -1,0 +1,7 @@
+569398722884280320
+US Airways
+@USAirways been on hold for almost 2 hours trying to rebook my Cancelled Flighted flight. What in the world?!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 23:30:09 -0800
+location: nan

@@ -1,0 +1,7 @@
+569245152406953984
+US Airways
+@USAirways- can you tell me what the policy is for preboarding with small children? Is that still a thing?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 13:19:55 -0800
+location: nan

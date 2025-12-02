@@ -1,0 +1,7 @@
+569620512139145216
+American
+@AmericanAir  please call us back to rebook!!! 7403607771. We need to get back to Columbus!!!!!! Please help
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:11:27 -0800
+location: nan

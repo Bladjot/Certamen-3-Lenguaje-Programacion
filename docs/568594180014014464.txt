@@ -1,0 +1,7 @@
+568594180014014464
+United
+@united so our flight into ORD was delayed because of Air Force One, but the last flight to SBN is at 8:20, 5 mins from now we just landed.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 18:13:11 -0800
+location: nan

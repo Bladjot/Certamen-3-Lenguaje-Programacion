@@ -1,0 +1,7 @@
+568852176799277057
+Southwest
+Thank you for your help, Shannon! Great customer service, @SouthwestAir.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 11:18:22 -0800
+location: Astoria, New York

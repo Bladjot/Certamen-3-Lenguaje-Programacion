@@ -1,0 +1,7 @@
+568496664677363712
+US Airways
+@USAirways oh the irony. A dog who will not spot barking in waiting area is now right in front of me! Please send me a cocktail coupon stat
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 11:45:41 -0800
+location: Monterey County, CA

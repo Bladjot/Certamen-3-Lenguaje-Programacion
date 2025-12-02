@@ -1,0 +1,7 @@
+567774229249421312
+US Airways
+@USAirways can you please DM me, my flight has been delayed going into CLT which will force me to miss my connection to LGA at 10:05pm
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 11:54:59 -0800
+location: nan

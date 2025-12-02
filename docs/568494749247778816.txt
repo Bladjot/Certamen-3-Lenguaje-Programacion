@@ -1,0 +1,7 @@
+568494749247778816
+United
+@united I work in customer support- extremely saddened United won't waive change fee for flights I had to Cancelled Flight due to east coast storms.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 11:38:04 -0800
+location: iPhone: 40.732048,-73.994102

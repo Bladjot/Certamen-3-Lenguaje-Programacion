@@ -1,0 +1,7 @@
+568540063216197632
+Delta
+@JetBlue you reimbursed everyone on the flight a portion of their ticket. I still love JetBlue! Best American airline!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 14:38:08 -0800
+location: Naples, Fl

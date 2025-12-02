@@ -1,0 +1,7 @@
+569699965527666688
+United
+@united You suck. Flight delayed equipment probs again. Miss connection by 2 minutes and you won't let us on even though it's at the gate.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 19:27:10 -0800
+location: nan

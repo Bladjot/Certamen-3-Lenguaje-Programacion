@@ -1,0 +1,7 @@
+569572942381649920
+Virgin America
+@VirginAmerica having problems Flight Booking Problems on the web site. keeps giving me an error and to contact by phone.  phone is 30 minute wait.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 11:02:26 -0800
+location: San Francisco

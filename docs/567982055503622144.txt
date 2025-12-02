@@ -1,0 +1,7 @@
+567982055503622144
+Southwest
+@SouthwestAir  flight at 630 from fll kiosk just opened. Rude attendants because now everyone is Late Flight. http://t.co/2Boh2Mh3cb
+sentiment: negative
+negativereason: longlines
+created: 2015-02-18 01:40:49 -0800
+location: nan

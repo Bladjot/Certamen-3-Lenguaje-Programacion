@@ -1,0 +1,7 @@
+569630240512876546
+Delta
+@JetBlue cool! Are there stairs at JFK? I can walk short distances but not stairs.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 14:50:07 -0800
+location: nan

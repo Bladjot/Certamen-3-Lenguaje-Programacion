@@ -1,0 +1,7 @@
+568584434376577024
+United
+@united Doumented via link. However, now that it has been over four months with no response, what do you suggest? Or shall I not expect one?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 17:34:27 -0800
+location: New York | Nomad

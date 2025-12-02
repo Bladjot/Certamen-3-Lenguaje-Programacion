@@ -1,0 +1,7 @@
+569705524138090496
+American
+@AmericanAir Group Cancelled Flights close to a thousand #flights Monday http://t.co/v1RADYKEP2
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 19:49:16 -0800
+location: Phoenix AZ

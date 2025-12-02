@@ -1,0 +1,7 @@
+568749392083206144
+Delta
+@JetBlue Hey any chance you have an update on Flight 99 Hartford to D.C.?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 04:29:56 -0800
+location: The Eastside of the Far Side

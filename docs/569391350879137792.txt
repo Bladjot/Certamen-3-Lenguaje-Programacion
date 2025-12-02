@@ -1,0 +1,7 @@
+569391350879137792
+US Airways
+@USAirways abandoned 40 Boston bound fliers...someone in management needs to #saveface and #showup
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 23:00:51 -0800
+location: nan

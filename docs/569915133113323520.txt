@@ -1,0 +1,7 @@
+569915133113323520
+United
+@united b) I contacted you directly, and the phone service was Laissez Faire at best.  The problem isn't a Cancelled Flightled a flight.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:42:10 -0800
+location: Grand Rapids

@@ -1,0 +1,7 @@
+568115014139162625
+United
+@united every time I check a bag with your airline I'm confident I will be wearing the same clothes for 3 days.  Please prove me wrong.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 10:29:09 -0800
+location: Houston TX

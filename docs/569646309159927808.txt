@@ -1,0 +1,7 @@
+569646309159927808
+US Airways
+@USAirways @AmericanAir will one of you please answer the phone?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:53:58 -0800
+location: Chicago, IL

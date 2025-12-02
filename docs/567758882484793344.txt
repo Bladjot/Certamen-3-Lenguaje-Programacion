@@ -1,0 +1,7 @@
+567758882484793344
+United
+@united u lost my bag and would not refund my bag fee? Does that make sense to you? And yes I already called cust svc. They said no.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 10:54:00 -0800
+location: fairfield county, connecticut

@@ -1,0 +1,7 @@
+568868944557133825
+United
+@united please provide update on UA 791. This flight has been stranded by united with no information from the crew on the plane.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 12:25:00 -0800
+location: nan

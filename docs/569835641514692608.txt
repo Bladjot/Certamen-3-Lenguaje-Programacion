@@ -1,0 +1,7 @@
+569835641514692608
+American
+@AmericanAir trying to change my flight and you just hang up on ppl bc call volume is high. That's a joke, right?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 04:26:18 -0800
+location: A tiny place in the universe

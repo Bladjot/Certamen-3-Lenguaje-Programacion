@@ -1,0 +1,7 @@
+568958322306650113
+US Airways
+@USAirways new slogan should be "if you don't want to arrive on time, pick us"
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 18:20:09 -0800
+location: Columbus, OH

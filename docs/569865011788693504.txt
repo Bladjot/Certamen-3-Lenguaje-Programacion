@@ -1,0 +1,7 @@
+569865011788693504
+United
+@united how about starting without the robotic response?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:23:01 -0800
+location: Louisville

@@ -1,0 +1,7 @@
+569678931785228288
+Delta
+@JetBlue  if only the show was on the flight.  No ABC.  Oh well.  I'll live.  #nexttime #andthewinneris...
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 18:03:36 -0800
+location: NYC

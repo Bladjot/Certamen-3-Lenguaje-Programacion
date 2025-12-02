@@ -1,0 +1,7 @@
+569534372954681344
+US Airways
+@USAirways first flight Cancelled Flightled, connecting flight delayed so will completely miss next connection no response on hold 2 hrs HELP me
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 08:29:10 -0800
+location: nan

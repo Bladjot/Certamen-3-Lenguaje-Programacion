@@ -1,0 +1,7 @@
+569586373042278400
+United
+@united CMH gate staff a disaster..#3345 overbooked, no volunteers, no boarding, 20 min Late Flight trying to figure out issue #bringbackrealstaff
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 11:55:48 -0800
+location: Lewis Center, OH

@@ -1,0 +1,7 @@
+569296877902041088
+Delta
+@JetBlue is the best!  Can't wait to use my travel bank $ for a FUN trip.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 16:45:27 -0800
+location: metro Boston

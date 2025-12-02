@@ -1,0 +1,7 @@
+570280755252895745
+American
+@AmericanAir I am looking for help on USAirways award travel booked for wife and two boys, no seats assigned.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 09:55:02 -0800
+location: Connecticut

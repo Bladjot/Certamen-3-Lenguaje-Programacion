@@ -1,0 +1,7 @@
+569306871242366977
+US Airways
+“@USAirways: @TMadCLE We don't like to hear this. We're sorry that it's taking so long to get through.” Stop sending generic responses
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 17:25:09 -0800
+location: Cleveland, OH

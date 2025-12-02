@@ -1,0 +1,7 @@
+568142966570807296
+Delta
+@JetBlue FYI - your android app is set to not be applicable with the Nexus 6 - please fix (its a phone, not a tablet). Cheers!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 12:20:13 -0800
+location: Brooklyn, NY

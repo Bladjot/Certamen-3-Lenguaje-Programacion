@@ -1,0 +1,7 @@
+569598406181695488
+American
+@AmericanAir i was also told by agents my issues "aren't their prob" K fine. I get it. But have some compassion 4 others dealing w/this!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:43:37 -0800
+location: nan

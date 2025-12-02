@@ -1,0 +1,7 @@
+568098977545134080
+Southwest
+.@SouthwestAir 3 days &amp; still not home. Not even off the ground. 3. Days. #PastMyPatienceExpirationDate
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 09:25:25 -0800
+location: Beaufort, South Carolina

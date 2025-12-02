@@ -1,0 +1,7 @@
+569649820798881792
+United
+@united -How is it that all my flight times were changed without any official notification? Almost missed my flight this morning. Not cool!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:07:55 -0800
+location: nan

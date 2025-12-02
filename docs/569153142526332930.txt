@@ -1,0 +1,7 @@
+569153142526332930
+Delta
+@JetBlue Port-Au-Prince, Haiti for continued food distribution, medical supplies, &amp; orphan care!  #flyingitforward http://t.co/fn2QXybT9K
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 07:14:18 -0800
+location: boise, idaho

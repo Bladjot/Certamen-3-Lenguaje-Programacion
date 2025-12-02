@@ -1,0 +1,7 @@
+570177012360462336
+American
+@AmericanAir machines are broken, lines are out the door for self service, cust. Support, and bag check in.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-24 03:02:47 -0800
+location: nan

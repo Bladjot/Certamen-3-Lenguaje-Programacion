@@ -1,0 +1,7 @@
+568199122903293952
+United
+@united thank you for getting our daughter home when @americanair Cancelled Flightled all their flights to Nashville
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 16:03:22 -0800
+location: Franklin, Tennessee

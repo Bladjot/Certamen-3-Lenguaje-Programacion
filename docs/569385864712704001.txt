@@ -1,0 +1,7 @@
+569385864712704001
+United
+@united your unhelpful team? Sure I did. I'm in Bangkok, my bag in Chicago. Are u going to pay for my accommodation s until my bag arrives??
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 22:39:03 -0800
+location: ☁️

@@ -1,0 +1,7 @@
+569464183374385152
+US Airways
+@USAirways 4 hours on hold to change a Cancelled Flightled flight. Completely unacceptable!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 03:50:16 -0800
+location: nan

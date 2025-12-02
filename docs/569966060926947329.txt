@@ -1,0 +1,7 @@
+569966060926947329
+American
+@AmericanAir what's the best number to use?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:04:33 -0800
+location: Seattle, WA

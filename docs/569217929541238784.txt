@@ -1,0 +1,7 @@
+569217929541238784
+US Airways
+@USAirways if my flight's been Cancelled Flightled, and I can't reach anyone over the phone or ticketing agents, safe to assume I wasn't rebooked?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 11:31:44 -0800
+location: Washington, DC

@@ -1,0 +1,7 @@
+568056811401703424
+Southwest
+@SouthwestAir Finally got me home #BNASnow
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 06:37:52 -0800
+location: Nashville Tennessee

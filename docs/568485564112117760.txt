@@ -1,0 +1,7 @@
+568485564112117760
+Delta
+@JetBlue has screwed me over for the last time.  @SouthwestAir, glad to give you my business. #JetScrew #AwfulCustomerService
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 11:01:35 -0800
+location: Los Angeles, CA

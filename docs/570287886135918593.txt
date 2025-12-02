@@ -1,0 +1,7 @@
+570287886135918593
+Delta
+@JetBlue flying w/ infant for the 1st time, can I bring a canister of powder formula for a carry on and/or use my plastic formula divider?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:23:22 -0800
+location: ÜT: 40.907502,-73.85468

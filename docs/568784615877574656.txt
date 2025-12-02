@@ -1,0 +1,7 @@
+568784615877574656
+Southwest
+@SouthwestAir save mile to visit family in 2015 and this will impact how many times I can see my mother.  I planned and you change the rules
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 06:49:54 -0800
+location: nan

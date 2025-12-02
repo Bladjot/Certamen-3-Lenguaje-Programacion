@@ -1,0 +1,7 @@
+569204038811717632
+Southwest
+@SouthwestAir thx - i managed to figure it out by trying diff confirmation #s as i booked. just annoying it's not readily available!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 10:36:32 -0800
+location: Chicago

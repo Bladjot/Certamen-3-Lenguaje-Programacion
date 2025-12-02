@@ -1,0 +1,7 @@
+568231913040814080
+US Airways
+@USAirways you used to have an evening flight DCA-DSM and an early AM return. Now it's middle of the work day for both. Inconvenient.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 18:13:39 -0800
+location: nan

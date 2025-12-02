@@ -1,0 +1,7 @@
+569890109803220993
+American
+@AmericanAir the app doesn't allow Canadian address. I used the mobile Canadian site and it will not let you select a passenger.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 08:02:44 -0800
+location: Brantford

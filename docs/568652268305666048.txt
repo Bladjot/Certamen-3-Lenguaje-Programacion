@@ -1,0 +1,7 @@
+568652268305666048
+Delta
+@JetBlue Love you, bae. #JetBae
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 22:04:00 -0800
+location: Salt Lake City, Utah

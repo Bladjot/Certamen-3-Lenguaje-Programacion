@@ -1,0 +1,7 @@
+568101669809946624
+Delta
+@JetBlue marks 15th year with new "Bluemanity" plane design - Sun Sentinel http://t.co/SjVEelween
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 09:36:07 -0800
+location: USA

@@ -1,0 +1,7 @@
+569938799397990401
+Southwest
+@SouthwestAir Completely understand Act of God weather-reLate Flightd Cancelled Flightlation, but 4 days without reimbursement of any kind is #unacceptable
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 11:16:13 -0800
+location: nan

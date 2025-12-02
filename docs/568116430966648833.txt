@@ -1,0 +1,7 @@
+568116430966648833
+Southwest
+@SouthwestAir why would I want to when the last time I did, you screwed me out of my early boarding that I PAID FOR.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 10:34:46 -0800
+location: nan

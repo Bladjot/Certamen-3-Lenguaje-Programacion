@@ -1,0 +1,7 @@
+567880908528832513
+Southwest
+@SouthwestAir can't wait! Thanks for the response!❤️
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 18:58:53 -0800
+location: Indiana

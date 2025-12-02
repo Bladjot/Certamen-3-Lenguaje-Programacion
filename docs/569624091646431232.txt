@@ -1,0 +1,7 @@
+569624091646431232
+Delta
+@JetBlue if you can't guarantee parents will sit with their children, don't sell tickets with that promise! #jetblue http://t.co/HDoXiM6NZ2
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:25:41 -0800
+location: nan

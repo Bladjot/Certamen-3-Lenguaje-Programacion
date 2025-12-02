@@ -1,0 +1,7 @@
+569591765793165312
+American
+@AmericanAir I understand the weather issue but you can't expect passengers to wait 24 hours inside airports for whatever reason. Outrageous
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 12:17:14 -0800
+location: London

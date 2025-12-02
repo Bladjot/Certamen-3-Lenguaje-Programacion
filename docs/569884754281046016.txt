@@ -1,0 +1,7 @@
+569884754281046016
+American
+@AmericanAir can you?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 07:41:28 -0800
+location: prensa: @talentolatinotv

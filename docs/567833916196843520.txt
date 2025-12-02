@@ -1,0 +1,7 @@
+567833916196843520
+United
+@united Why do I pay more for Coach Plus to be told preboarding that all overhead bins will be full for me
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 15:52:10 -0800
+location: Los Angeles

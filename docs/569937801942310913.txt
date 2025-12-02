@@ -1,0 +1,7 @@
+569937801942310913
+American
+@AmericanAir When will callers from the East Coast be able to speak to an actual human for reservation support? All agents busy call Late Flightr..
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:12:15 -0800
+location: nan

@@ -1,0 +1,7 @@
+569658152741957634
+American
+@AmericanAir Hi ho, hi ho. It's off to work I go. #WeeklyCommuteOnAA http://t.co/JQHg4jTm4w
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:41:02 -0800
+location: nan

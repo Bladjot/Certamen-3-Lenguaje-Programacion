@@ -1,0 +1,7 @@
+568853321659736064
+Delta
+@JetBlue where do I add my AA loyalty number to my Jetblue reservation?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 11:22:55 -0800
+location: New York City

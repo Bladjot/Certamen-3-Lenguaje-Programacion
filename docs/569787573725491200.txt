@@ -1,0 +1,7 @@
+569787573725491200
+American
+@AmericanAir me because it might not be so urgent for you but it really is for me. (5)
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 01:15:18 -0800
+location: nan

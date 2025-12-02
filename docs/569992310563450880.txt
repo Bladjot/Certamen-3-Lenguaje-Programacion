@@ -1,0 +1,7 @@
+569992310563450880
+American
+@AmericanAir probs the worst customer service ever. Replied to complaint I submitted 6 weeks ago bout damaged bag... Not even replacing it!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:48:51 -0800
+location: Manchester

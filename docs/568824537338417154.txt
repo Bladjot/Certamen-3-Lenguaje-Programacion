@@ -1,0 +1,7 @@
+568824537338417154
+American
+@AmericanAir - how long does it take to get credit to my AA account? Traveled in Jan &amp; only one leg reported. Asked for credit, no response.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 09:28:32 -0800
+location: nan

@@ -1,0 +1,7 @@
+569972250385862656
+US Airways
+@USAirways only happened because u couldn't get us home the next day. #flydelta #flysouthwest #flyjetblue #theyareallbetter #stillnobags
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 13:29:08 -0800
+location: Does it really matter

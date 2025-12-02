@@ -1,0 +1,7 @@
+569676250312249344
+American
+@AmericanAir flight attendants on AA2402 were spectacular.Fed the ENTIRE cabin then food from coach. Why do you keep serving this vile food
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 17:52:56 -0800
+location: nan

@@ -1,0 +1,7 @@
+569941082420568064
+United
+@united yes at 2am...but now back on a plane again and delayed again due to baggage loading issue... http://t.co/NfAQHhr09j
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 11:25:17 -0800
+location: San Francisco

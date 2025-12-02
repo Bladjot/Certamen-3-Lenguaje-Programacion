@@ -1,0 +1,7 @@
+569946703522091008
+United
+@united I was told it was due to be on UA23 which flies direct to Dublin, so why did it go to London? This is a complete shambles!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 11:47:37 -0800
+location: nan

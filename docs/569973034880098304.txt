@@ -1,0 +1,7 @@
+569973034880098304
+American
+@americanair the best is your 800 message saying to use website and your website is saying you need to call.  If you don't answer, #hardtodo
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:32:15 -0800
+location: san marcos,ca

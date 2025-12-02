@@ -1,0 +1,7 @@
+568629820306952192
+Delta
+@JetBlue that is great. But once it gets to Buffalo will it be able to leave and get to JFK? Or there's issues still at Buffalo airport?
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 20:34:48 -0800
+location: nan

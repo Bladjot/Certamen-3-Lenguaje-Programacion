@@ -1,0 +1,7 @@
+569938880495026176
+Delta
+@JetBlue toss this ticket...it's great PR and I'm sure every college student following me will be willing to rock out wit too 👀👀
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 11:16:32 -0800
+location: nan

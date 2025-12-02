@@ -1,0 +1,7 @@
+569686415665025024
+American
+@AmericanAir not in any way that I am happy with or find acceptable.   If I could speak to a human maybe that would happen
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:33:20 -0800
+location: nan

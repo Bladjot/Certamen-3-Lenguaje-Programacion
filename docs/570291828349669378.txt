@@ -1,0 +1,7 @@
+570291828349669378
+Delta
+@JetBlue Yeah I have! I'm on it!! Looking for specific dates - I will just keep checking daily for a fare drop
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:39:02 -0800
+location: Somewhere eating swine...

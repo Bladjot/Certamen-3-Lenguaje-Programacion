@@ -1,0 +1,7 @@
+567820352329523200
+Southwest
+@SouthwestAir can't checkin online for 2:00 flight tmrw fr. Cancun. "Undefined error" &amp; 800# not working.Family of 4 don't want Cgroup! Help
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 14:58:16 -0800
+location: nan

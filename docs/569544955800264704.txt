@@ -1,0 +1,7 @@
+569544955800264704
+US Airways
+@USAirways, I know you're dealing with the weather, but @PHLAirport is a hot mess. Pls send reinforcements
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 09:11:13 -0800
+location: Philadelphia, PA

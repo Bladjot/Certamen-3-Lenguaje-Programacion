@@ -1,0 +1,7 @@
+569149498183659520
+United
+@united My flight was Cancelled Flighted and I'm needing some help reFlight Booking Problems.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 06:59:49 -0800
+location: Springfield, MO

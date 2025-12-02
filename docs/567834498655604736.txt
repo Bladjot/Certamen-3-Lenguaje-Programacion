@@ -1,0 +1,7 @@
+567834498655604736
+United
+@United: I feel very well informed. yes, the flight is indeed delayed. Thank you. http://t.co/FuCHZRZjg5
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 15:54:28 -0800
+location: San Francisco, CA

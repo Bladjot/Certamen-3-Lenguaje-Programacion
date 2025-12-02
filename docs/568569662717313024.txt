@@ -1,0 +1,7 @@
+568569662717313024
+Delta
+@JetBlue thanks so much!! ❤️✨ very relaxing flight!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 16:35:45 -0800
+location: nan

@@ -1,0 +1,7 @@
+569863194929471488
+American
+@AmericanAir Fine. Would you have them call me? I left a message, was told it would be 2 hours for a call. Haven't heard anything yet.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:15:47 -0800
+location: Baltimore, Maryland

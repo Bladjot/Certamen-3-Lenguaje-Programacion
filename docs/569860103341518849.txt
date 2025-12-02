@@ -1,0 +1,7 @@
+569860103341518849
+American
+@AmericanAir I called the EP line and 4 hours Late Flightr I was called back.  I sat on hold for over a hour to US Airways and then cut off
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:03:30 -0800
+location: Las Vegas

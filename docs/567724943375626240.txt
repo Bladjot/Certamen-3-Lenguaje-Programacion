@@ -1,0 +1,7 @@
+567724943375626240
+US Airways
+@USAirways You need to contact me ASAP. #Furious
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 08:39:08 -0800
+location: Dublin Raised | Brooklyn Based

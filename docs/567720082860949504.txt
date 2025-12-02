@@ -1,0 +1,7 @@
+567720082860949504
+Southwest
+@SouthwestAir tried to rebook online but it says that I have to pay $200 for difference in price. Please help
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-17 08:19:50 -0800
+location: Chicagoland Area

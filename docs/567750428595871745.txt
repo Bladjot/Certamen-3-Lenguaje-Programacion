@@ -1,0 +1,7 @@
+567750428595871745
+United
+@United just played the Most bizarre "safety" video I've ever seen... http://t.co/Hlm2Oks6xl
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 10:20:25 -0800
+location: ÜT: 40.635407,-73.991869

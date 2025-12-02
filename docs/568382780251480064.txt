@@ -1,0 +1,7 @@
+568382780251480064
+Delta
+@JetBlue any concern about Cancelled Flightled flights due to the cold weather in NJ Saturday am? Do you Cancelled Flight at 0 degrees?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 04:13:09 -0800
+location: nan

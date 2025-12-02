@@ -1,0 +1,7 @@
+568625014037045248
+United
+@united it wasn't a delay so much as a straight Cancelled Flightlation. Weather wasn't an issue either.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 20:15:42 -0800
+location: Los Angeles, CA

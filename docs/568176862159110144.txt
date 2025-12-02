@@ -1,0 +1,7 @@
+568176862159110144
+United
+@united I was patient when they refused to switch my flight Bc of my checked bag then Cancelled Flightled the one I was on
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 14:34:54 -0800
+location: NJ

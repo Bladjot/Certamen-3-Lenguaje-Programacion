@@ -1,0 +1,7 @@
+568970172062691328
+Southwest
+@SouthwestAir every other city on your nationwide sale has fabulous fares. Why nothing from Buffalo? except for 2 cities?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 19:07:14 -0800
+location: new york

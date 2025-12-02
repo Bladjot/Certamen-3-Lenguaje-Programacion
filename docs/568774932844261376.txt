@@ -1,0 +1,7 @@
+568774932844261376
+US Airways
+@USAirways of course weather was a joke 43 beats 5 degrees in PHL! ⛄️☀️
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 06:11:25 -0800
+location: Haverford, PA & Wilton Manors

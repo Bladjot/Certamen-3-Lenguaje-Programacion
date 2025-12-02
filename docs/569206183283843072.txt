@@ -1,0 +1,7 @@
+569206183283843072
+Southwest
+@SouthwestAir My husband is responding to him and he insist to remove him from the seat. BTW signs are in both English and Spanish.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 10:45:04 -0800
+location: Florida

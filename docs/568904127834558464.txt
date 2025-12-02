@@ -1,0 +1,7 @@
+568904127834558464
+Delta
+@JetBlue, why must you always delay my Late Flight night Orlando flights? 💔
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 14:44:48 -0800
+location: New York City

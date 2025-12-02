@@ -1,0 +1,7 @@
+567832250110337024
+US Airways
+@USAirways 3+ hours on hold... oh, wait, for less than 5 minutes a useless CSR talked to me and put me back on hold for the last 30 minutes.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 15:45:32 -0800
+location: Vancouver, WA

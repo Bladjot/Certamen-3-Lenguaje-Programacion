@@ -1,0 +1,7 @@
+569201516881448960
+United
+Meanwhile, they fucked my flight. @united: The festivities are already in full swing at the United Fairway Club, overlooking the 17th hole..
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 10:26:31 -0800
+location: San Francisco

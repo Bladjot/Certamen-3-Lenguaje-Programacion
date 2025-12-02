@@ -1,0 +1,7 @@
+568134503987851264
+Southwest
+@SouthwestAir Is the 1,750 bonus at 1800Flowers still on or did it expire 2/14/15?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 11:46:35 -0800
+location: Chicago, IL

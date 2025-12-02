@@ -1,0 +1,7 @@
+569992886256832512
+American
+@AmericanAir @USAirways over an hour on the phone the best you can tell me is it was sent maybe my bank misplaced it...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:51:08 -0800
+location: McKinney TX

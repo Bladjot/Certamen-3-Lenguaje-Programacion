@@ -1,0 +1,7 @@
+569674205920411648
+American
+@AmericanAir My wife &amp; infant daughter are on AA3195 ABI-DFW. En route but delayed. Can y’all hold AA1458 to RDU so they can connect?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:44:49 -0800
+location: Raleigh, NC

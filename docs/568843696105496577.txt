@@ -1,0 +1,7 @@
+568843696105496577
+US Airways
+@USAirways It wasn't weather this morning.  AWE1701 diverted back to BOS due to mechanical issues.  So far lost one of 3 days :(
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 10:44:40 -0800
+location: Grand Forks, ND

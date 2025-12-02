@@ -1,0 +1,7 @@
+568545438976102400
+Delta
+@JetBlue keep going back and forth with being able to board and then not. But great agents in savannah!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 14:59:30 -0800
+location: nan

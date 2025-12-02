@@ -1,0 +1,7 @@
+569908805724712961
+US Airways
+@USAirways how do you get your aa frequent flyer number to appear in a USAir reservation?? Frustrating
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:17:02 -0800
+location: Shawano WI

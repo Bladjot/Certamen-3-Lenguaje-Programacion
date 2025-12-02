@@ -1,0 +1,7 @@
+570101777934086146
+American
+@AmericanAir I love the Admiral Clubs! Thanks, hey can you follow me?
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 22:03:50 -0800
+location: nan

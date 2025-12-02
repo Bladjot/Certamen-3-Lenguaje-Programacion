@@ -1,0 +1,7 @@
+569586235259404288
+Southwest
+@SouthwestAir good to be back. See you all again in several weeks.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 11:55:15 -0800
+location: #DFWLittleRockMempLAVegas#MS#

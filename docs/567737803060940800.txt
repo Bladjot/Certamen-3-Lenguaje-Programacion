@@ -1,0 +1,7 @@
+567737803060940800
+Delta
+@JetBlue they are rude and unhelpful. They suggested I catch a flight tomorrow I was supposed to be home today at 2 am and work is waiting
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 09:30:14 -0800
+location: Yauco, Puerto Rico

@@ -1,0 +1,7 @@
+569788202174713856
+American
+@AmericanAir How best to talk with an agent to reschedule Cancelled Flighted flight? No one answers at AA. Know it's busy, but need help.Thanks
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 01:17:48 -0800
+location: nan

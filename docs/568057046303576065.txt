@@ -1,0 +1,7 @@
+568057046303576065
+United
+@united right... Are you guys charging for the air we breathe next?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 06:38:48 -0800
+location: New York

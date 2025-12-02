@@ -1,0 +1,7 @@
+569555930028748800
+US Airways
+@USAirways @JosephTReis Dont bother. They dont pick up the phone. Worst customer service going
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 09:54:50 -0800
+location: 39.0708° N, 106.9886° W

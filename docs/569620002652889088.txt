@@ -1,0 +1,7 @@
+569620002652889088
+United
+@united ridiculous! I have to be refunded whenever I get at my final destination or not!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 14:09:26 -0800
+location: nan

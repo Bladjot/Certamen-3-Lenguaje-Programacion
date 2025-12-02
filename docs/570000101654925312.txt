@@ -1,0 +1,7 @@
+570000101654925312
+American
+@AmericanAir We've sent you more info via DM.  I truly hope you resolve this very quickly. #media #filmcrew #cnn #nbc
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 15:19:48 -0800
+location: Orlando, FL

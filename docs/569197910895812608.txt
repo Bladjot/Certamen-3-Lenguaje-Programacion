@@ -1,0 +1,7 @@
+569197910895812608
+Southwest
+@SouthwestAir any official word whether flight 3403 from BWI to Manchester is Cancelled Flightled? I've got an 8hr drive in snow if it is 😢
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 10:12:11 -0800
+location: NH

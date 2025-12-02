@@ -1,0 +1,7 @@
+569034282485698560
+United
+@united @danahajek : she means to say there has been so many complaints today (this week, this month) that she can't respond b/c she's alone
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 23:21:59 -0800
+location: Chicago Illinois Crime.Inc

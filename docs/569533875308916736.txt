@@ -1,0 +1,7 @@
+569533875308916736
+Delta
+@JetBlue they are now being sent off the plane? Does anyone at JetBlue have a clue?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 08:27:11 -0800
+location: nan

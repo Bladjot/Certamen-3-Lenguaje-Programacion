@@ -1,0 +1,7 @@
+569115621213884417
+Southwest
+@SouthwestAir Suggestions: tell customers approximate wait times when they are on hold (50 min now...) and allow them to Cancelled Flight online!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 04:45:12 -0800
+location: nan

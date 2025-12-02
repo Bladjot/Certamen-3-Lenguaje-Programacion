@@ -1,0 +1,7 @@
+569271943188209667
+United
+@united employees almost seem happy when delivery terrible customer service.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 15:06:22 -0800
+location: Pittsburgh

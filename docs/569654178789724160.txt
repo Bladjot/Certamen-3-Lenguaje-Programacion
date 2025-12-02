@@ -1,0 +1,7 @@
+569654178789724160
+American
+@AmericanAir - don't understand why I have zero Flt info- no email- 2 he wait time on ph lines- so much for Advan Mem :(
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:25:14 -0800
+location: nan

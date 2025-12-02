@@ -1,0 +1,7 @@
+568662343170674688
+Virgin America
+@VirginAmerica WTF is happening in PDX Late Flight March such that one way from SFO is ~$550?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 22:44:02 -0800
+location: San Francisco, CA

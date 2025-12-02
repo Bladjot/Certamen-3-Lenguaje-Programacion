@@ -1,0 +1,7 @@
+569683456990580736
+American
+@AmericanAir "We'll drop off your luggage 24 hours after your flight" is ridiculous.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 18:21:35 -0800
+location: Urbana, IL

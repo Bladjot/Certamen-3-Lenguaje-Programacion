@@ -1,0 +1,7 @@
+570205604314255360
+US Airways
+@USAirways well then that is a horrible flaw in your system. 2 hours in the past day I've wasted. I've got a job &amp; family this is crazy
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 04:56:24 -0800
+location: nan

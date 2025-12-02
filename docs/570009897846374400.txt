@@ -1,0 +1,7 @@
+570009897846374400
+Southwest
+@SouthwestAir oh, ok!  all good!  looking forward to escaping the cold for a bit!  thanks!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 15:58:44 -0800
+location: darien, il

@@ -1,0 +1,7 @@
+567829088380919809
+Delta
+@JetBlue Gary who is serving us at FLL airport counter is really TRUE BLUE! Makes me feel at home even when a JetBlue flight is delayedl
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 15:32:59 -0800
+location: Boston, MA

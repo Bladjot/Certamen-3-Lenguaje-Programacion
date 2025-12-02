@@ -1,0 +1,7 @@
+567906937423073280
+Delta
+@JetBlue What about if I booked it through Orbitz? My email is correct, but there's a middle party.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 20:42:19 -0800
+location: Provo, UT

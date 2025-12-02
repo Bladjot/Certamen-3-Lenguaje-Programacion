@@ -1,0 +1,7 @@
+570110386827087872
+United
+@united so 8 hotels for 32 people but feel like we are being held hostage because someone has our boarding passes so we can't leave! #FAIL
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 22:38:03 -0800
+location: Ottawa, Canada

@@ -1,0 +1,7 @@
+568724024362037248
+Delta
+@JetBlue Is it June yet? 😊
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 02:49:08 -0800
+location: North Shore Massachusetts

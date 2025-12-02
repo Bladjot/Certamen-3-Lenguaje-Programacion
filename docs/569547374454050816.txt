@@ -1,0 +1,7 @@
+569547374454050816
+Delta
+@JetBlue if someone had bothered to inform us that the airport closed, that would have helped.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 09:20:50 -0800
+location: New York City

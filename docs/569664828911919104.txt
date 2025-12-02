@@ -1,0 +1,7 @@
+569664828911919104
+American
+@AmericanAir OMG ANSWER YOUR PHONE I HAVE BEEN ON HOLD FOR 1.5 hours. Cancelled FlightED FLIGHTS SUCK
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:07:33 -0800
+location: southeast

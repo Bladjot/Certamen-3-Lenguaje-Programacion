@@ -1,0 +1,7 @@
+569591945816772608
+Southwest
+@SouthwestAir BTW I was completely unable to buy wifi for my flight using Galaxy S4. Couldn't zoom out or scroll to touch "Buy"
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 12:17:57 -0800
+location: Washington, DC

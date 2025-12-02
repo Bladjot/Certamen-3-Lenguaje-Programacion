@@ -1,0 +1,7 @@
+569522534724403201
+US Airways
+@USAirways what is the expected wait time to speak to someone via 800 number?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:42:08 -0800
+location: Franklin, TN

@@ -1,0 +1,7 @@
+570265596220166144
+United
+@united OKC ticket agent Roger McLarren(sp?) LESS than helpful with our Intl group travel problems Can't find a supervisor for help.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 08:54:47 -0800
+location: nan

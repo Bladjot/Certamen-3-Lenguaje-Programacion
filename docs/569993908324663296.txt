@@ -1,0 +1,7 @@
+569993908324663296
+American
+@AmericanAir Yes, thanks I found those, didn't see the gray tab at first :)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:55:12 -0800
+location: Los Angeles, CA

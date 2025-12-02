@@ -1,0 +1,7 @@
+569587844693536768
+US Airways
+@USAirways  you Cancelled Flighted &amp; rescheduled my flight &amp; still getting updates &amp; can't find my current flight on my account http://t.co/8Je1h3666w
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 12:01:39 -0800
+location: Wonderland

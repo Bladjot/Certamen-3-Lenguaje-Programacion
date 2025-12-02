@@ -1,0 +1,7 @@
+570217760430493698
+Delta
+@JetBlue if you can get us on a flight to Vieques all will be good. Right now, not looking promising.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 05:44:42 -0800
+location: nan

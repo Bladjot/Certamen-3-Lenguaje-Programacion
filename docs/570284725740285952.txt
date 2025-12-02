@@ -1,0 +1,7 @@
+570284725740285952
+Southwest
+@SouthwestAir I'm following now
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:10:48 -0800
+location: woodstock, Ontario, Canada

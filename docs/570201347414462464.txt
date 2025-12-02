@@ -1,0 +1,7 @@
+570201347414462464
+American
+@AmericanAir was hoping for 8A if possible, for some frozen views along the way!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 04:39:29 -0800
+location: Glasgow via Cork

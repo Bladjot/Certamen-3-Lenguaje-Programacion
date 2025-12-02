@@ -1,0 +1,7 @@
+569301386262745089
+Southwest
+@SouthwestAir Have a cup coffee and relax while you check out the New Deals and Promotions at Avon, twice a month at Doug @dcoadavon
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 17:03:22 -0800
+location: San Diego

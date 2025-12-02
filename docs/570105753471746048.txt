@@ -1,0 +1,7 @@
+570105753471746048
+American
+@AmericanAir please allow me to speak with someone. A dialogue would solve this issue better and faster than emailing.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 22:19:38 -0800
+location: nan

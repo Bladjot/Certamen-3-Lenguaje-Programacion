@@ -1,0 +1,7 @@
+569522879764807680
+Delta
+@JetBlue just had a horrible experience with check in agent at fort myers, I'll document and send details, off to Boston
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:43:30 -0800
+location: Naples, FL, Boston, MA

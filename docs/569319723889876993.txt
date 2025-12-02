@@ -1,0 +1,7 @@
+569319723889876993
+US Airways
+@USAirways Bravo handling MSP to PHX # 2023 today. Delayed, Late Flightr Cancelled Flightled. Missed surprise 60th bday which was reason for trip.Never again
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 18:16:14 -0800
+location: Mabel, MN

@@ -1,0 +1,7 @@
+568672436977168385
+United
+@united agent Rick Clifton in SEA-HOU , told him my father is dying and needed to get my handbag on the cabin. he did nothing #shameful
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 23:24:09 -0800
+location: Seattle, WA

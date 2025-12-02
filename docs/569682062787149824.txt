@@ -1,0 +1,7 @@
+569682062787149824
+American
+@AmericanAir And gold status too.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:16:02 -0800
+location: DFW

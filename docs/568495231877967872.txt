@@ -1,0 +1,7 @@
+568495231877967872
+Southwest
+@SouthwestAir PWM direct to Orlando on Saturdays, why is this only happening in March? I thought it was going to be a permanent thing. :(
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 11:40:00 -0800
+location: Maine

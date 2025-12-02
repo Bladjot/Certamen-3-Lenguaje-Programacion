@@ -1,0 +1,7 @@
+569343781092401152
+Delta
+@JetBlue can you let me know status of flight #454 PBI-JFK delayed 2.5hours now on board problem with hatch..
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 19:51:49 -0800
+location: New York City

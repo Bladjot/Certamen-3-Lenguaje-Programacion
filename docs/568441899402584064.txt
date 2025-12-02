@@ -1,0 +1,7 @@
+568441899402584064
+Southwest
+@SouthwestAir I got a phishing email claiming to be from Southwest. I can forward to you if you'd like to investigate.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 08:08:04 -0800
+location: Pittsburgh, PA

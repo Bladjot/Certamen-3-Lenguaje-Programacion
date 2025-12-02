@@ -1,0 +1,7 @@
+567735983370539008
+United
+@united feck guys. Stop Cancelled Flightling flights from EWR to RIC the weather is fine I both locations!!!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 09:23:01 -0800
+location: Usually in a plane

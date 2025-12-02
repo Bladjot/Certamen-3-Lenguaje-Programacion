@@ -1,0 +1,7 @@
+569665177135812608
+United
+@united I need help with a missing bag.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 17:08:56 -0800
+location: Cincinnati, OH

@@ -1,0 +1,7 @@
+568457483301339136
+United
+@united messaged you as requested- and called your baggage team again. It's STILL in Newark. please help or let me know next steps!!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 09:10:00 -0800
+location: Germany

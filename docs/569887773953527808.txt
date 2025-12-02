@@ -1,0 +1,7 @@
+569887773953527808
+American
+@AmericanAir I tried that &amp; they have been disrespectful not professional &amp; my 2nd flight been Cancelled Flighted I have to get home for a surgeryHELP
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 07:53:27 -0800
+location: nan

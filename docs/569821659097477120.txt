@@ -1,0 +1,7 @@
+569821659097477120
+American
+@AmericanAir got call saying flight Cancelled Flightled but checked online and it isn't Cancelled Flightled. No where near bad weather. I have job interview
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 03:30:44 -0800
+location: nan

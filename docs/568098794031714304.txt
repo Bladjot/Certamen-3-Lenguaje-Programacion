@@ -1,0 +1,7 @@
+568098794031714304
+Delta
+@JetBlue is the greatest airline ever 💕✈️💺 #TrueBluePoints #jetbluemember
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 09:24:41 -0800
+location: nan

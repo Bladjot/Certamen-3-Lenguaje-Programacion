@@ -1,0 +1,7 @@
+570082420936052737
+US Airways
+@USAirways not yet. But we will see shortly.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 20:46:55 -0800
+location: nan

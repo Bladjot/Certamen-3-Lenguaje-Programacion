@@ -1,0 +1,7 @@
+570055898367799296
+United
+@united I'm very frustrated and have wasted 2 days now due to your equipment failures.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 19:01:31 -0800
+location: Gainesville GA

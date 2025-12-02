@@ -1,0 +1,7 @@
+569352134774415360
+Delta
+@JetBlue is amazing. Had a short delay. They gave me $150 credit! It was literally pretty much my fault I missed the flight.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 20:25:01 -0800
+location: Lynn, MA

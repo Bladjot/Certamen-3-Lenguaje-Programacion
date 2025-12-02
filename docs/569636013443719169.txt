@@ -1,0 +1,7 @@
+569636013443719169
+United
+@united now maintenance issues with flight 5639 and more issues with passengers that will miss connections needing to get off
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:13:03 -0800
+location: nan

@@ -1,0 +1,7 @@
+567953560362733568
+United
+@united @gg8929 I'm sorry United isn't able to keep its word 'cuz their IT is totally inadequate but they still says it's a customer fault!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 23:47:35 -0800
+location: nan

@@ -1,0 +1,8 @@
+570265780186710017
+US Airways
+@USAirways to my legal last name. So it's not technically a name change,
+I just used the wrong name
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:55:31 -0800
+location: nan

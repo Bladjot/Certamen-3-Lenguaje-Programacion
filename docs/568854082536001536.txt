@@ -1,0 +1,7 @@
+568854082536001536
+United
+@united why do I have to go thru the details of the flight I want w/ the recording to then repeat ALL when a real person gets on the line?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 11:25:56 -0800
+location: Washington, DC

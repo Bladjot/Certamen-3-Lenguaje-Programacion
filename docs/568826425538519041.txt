@@ -1,0 +1,7 @@
+568826425538519041
+US Airways
+@USAirways yes had to go pick up and pay 40 cab ride very rude employee poor customer service
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 09:36:02 -0800
+location: nan

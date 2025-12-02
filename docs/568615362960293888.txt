@@ -1,0 +1,7 @@
+568615362960293888
+US Airways
+@USAirways Wow! Your miles program is Ripoff,Quick ticket fee 75$ I hope you all end up on unemployment.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 19:37:21 -0800
+location: nan

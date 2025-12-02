@@ -1,0 +1,7 @@
+569282312203997185
+United
+@united thanks ... not sure arranged move to the earlier flight but I'm at the gate with a seat assignment.  Super nice agent at gate C4 ORD
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 15:47:34 -0800
+location: nan

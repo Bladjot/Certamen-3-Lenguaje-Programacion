@@ -1,0 +1,7 @@
+570143200935063552
+American
+@AmericanAir gah this is so frustrating! Nobody has my address here in the USA. Where are my bags!?!? So disorganised!!!!!!!!!!!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 00:48:26 -0800
+location: 'Straya'

@@ -1,0 +1,7 @@
+567771662167179264
+Delta
+@JetBlue heard about the charge for 1st bag and tighter seats - no need to be a loyal JB customer anymore!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 11:44:47 -0800
+location: nan

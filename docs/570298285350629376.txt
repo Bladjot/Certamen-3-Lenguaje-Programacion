@@ -1,0 +1,7 @@
+570298285350629376
+American
+@AmericanAir I don't think you should help him at all based on his behavior. The voucher and cot seem like enough lol 😃
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:04:41 -0800
+location: Dallas, TX

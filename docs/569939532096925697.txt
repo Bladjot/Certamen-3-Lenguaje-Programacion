@@ -1,0 +1,7 @@
+569939532096925697
+Delta
+BLOCK ME BIKE RT @JetBlue: Our fleet's on fleek. http://t.co/2z3hGqPRSG
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:19:08 -0800
+location: From Capitol Heights With Love

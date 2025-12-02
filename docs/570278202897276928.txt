@@ -1,0 +1,7 @@
+570278202897276928
+US Airways
+@USAirways @AmericanAir I love you guys &amp; I'm gonna let you finish, but I've been on hold for 1 hour trying to book a flight w/ my voucher.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 09:44:53 -0800
+location: nan

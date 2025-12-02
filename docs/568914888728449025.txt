@@ -1,0 +1,7 @@
+568914888728449025
+Delta
+@JetBlue flight1407, it's been a long day! Arrived from London at 11 this morning
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 15:27:34 -0800
+location: Leighton Buzzard

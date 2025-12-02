@@ -1,0 +1,7 @@
+569720325165830144
+American
+@AmericanAir I'm going to speak with customer service at the airport tomorrow morning and see what my options are. I need a flight tomorrow
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 20:48:05 -0800
+location: Kingsville, TX

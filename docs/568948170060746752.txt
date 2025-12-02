@@ -1,0 +1,7 @@
+568948170060746752
+US Airways
+@usairways Need to change div miles ticket after travel started due to weather advisory. Told not possible unless flight Cancelled Flightled. AnyHelp?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 17:39:48 -0800
+location: Knoxville

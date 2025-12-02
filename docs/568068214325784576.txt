@@ -1,0 +1,7 @@
+568068214325784576
+Virgin America
+@VirginAmerica #thankyou the DAL-AUS route makes my day!!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 07:23:11 -0800
+location: austin dallas chile london

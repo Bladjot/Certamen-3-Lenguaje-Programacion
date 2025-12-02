@@ -1,0 +1,7 @@
+569970235392073729
+American
+@AmericanAir why can't you hire a staff that is helpful, informed and nice to it's customers?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:21:08 -0800
+location: New York, NY

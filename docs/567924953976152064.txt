@@ -1,0 +1,7 @@
+567924953976152064
+United
+@united I want my bags. There is vital equipment in there. You are royally screwing me. I'm cranky and want an update.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 21:53:55 -0800
+location: All Over The World

@@ -1,0 +1,7 @@
+568152817656930305
+Delta
+@JetBlue @pilyoc dont talk about my friend @JetBlue like that. #thefutureisweird
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 12:59:22 -0800
+location: Inquiries: CAA  •  Miller PR

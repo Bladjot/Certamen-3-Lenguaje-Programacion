@@ -1,0 +1,7 @@
+569646827567501312
+American
+@AmericanAir I'm great thanks keep up the good work
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 15:56:01 -0800
+location: hertz's couch

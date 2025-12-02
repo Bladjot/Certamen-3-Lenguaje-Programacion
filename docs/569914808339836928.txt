@@ -1,0 +1,7 @@
+569914808339836928
+American
+@AmericanAir because your plane's toilet wasn't working and they needed gas. This is flight 1081 leaving Dulles going to LAX. Do some...
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 09:40:53 -0800
+location: nan

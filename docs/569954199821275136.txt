@@ -1,0 +1,7 @@
+569954199821275136
+American
+@AmericanAir it's GTSVYB. It says it's Cancelled Flightled when I try to check.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 12:17:25 -0800
+location: Michigan, US

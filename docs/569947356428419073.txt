@@ -1,0 +1,7 @@
+569947356428419073
+Delta
+.@JetBlue Delete this tweet.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:50:13 -0800
+location: Denmark

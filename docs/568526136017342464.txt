@@ -1,0 +1,7 @@
+568526136017342464
+United
+@united i would like to know if its possiable to checkin online or must it be done at Schiphol?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 13:42:48 -0800
+location: Alphen aan den Rijn

@@ -1,0 +1,7 @@
+567905220828606466
+Delta
+@JetBlue That's pretty nice. Are flight credits automatically given after the flight? I also wish there were a lounge I could sleep in.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 20:35:30 -0800
+location: Provo, UT

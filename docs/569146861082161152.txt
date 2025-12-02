@@ -1,0 +1,7 @@
+569146861082161152
+Delta
+@JetBlue I would like to receive offers.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 06:49:20 -0800
+location: nan

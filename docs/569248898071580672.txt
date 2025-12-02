@@ -1,0 +1,7 @@
+569248898071580672
+United
+@united I fly @AmericanAir normally.  This doesn't happen to me with them.  I'll let your flyers provide their own feedback. Thank you.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 13:34:48 -0800
+location: Washington, DC

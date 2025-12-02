@@ -1,0 +1,7 @@
+569729072697352192
+US Airways
+@USAirways it still says that I can't check into my flight because the information is incorrect but everything is entered correctly
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 21:22:50 -0800
+location: Michigan ➡️ Florida

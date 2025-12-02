@@ -1,0 +1,7 @@
+568081558625759233
+US Airways
+@USAirways Why not have an option for a call back? I'm just sitting here burning through my minutes waiting for an error to be fixed.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 08:16:12 -0800
+location: Charlottesville, VA.

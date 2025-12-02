@@ -1,0 +1,7 @@
+569201943131738113
+Virgin America
+@VirginAmerica Very nicely done. 👏
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 10:28:13 -0800
+location: Las Vegas

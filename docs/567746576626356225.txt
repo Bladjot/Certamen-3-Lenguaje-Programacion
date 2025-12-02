@@ -1,0 +1,7 @@
+567746576626356225
+Delta
+@JetBlue CEO battles to please Wall St and flyers - from @NZherald http://t.co/Q4Amiw7FSw
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 10:05:06 -0800
+location: USA

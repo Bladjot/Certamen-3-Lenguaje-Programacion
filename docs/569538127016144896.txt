@@ -1,0 +1,7 @@
+569538127016144896
+Delta
+@JetBlue Flight 1533 JFK to Cartagena all at this airport bar singing the opposite of your praises! We're making a pact to never fly u again
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 08:44:05 -0800
+location: New York, New York

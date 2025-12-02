@@ -1,0 +1,7 @@
+569866461172387841
+US Airways
+@USAirways @AmericanAir on hold for 8 hours yesterday w/o speaking to an agent on hold again w/ 2 phones ~30 mins let the bashing begin...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:28:46 -0800
+location: BK

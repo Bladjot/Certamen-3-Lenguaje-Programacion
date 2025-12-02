@@ -1,0 +1,7 @@
+570212118059995136
+American
+@AmericanAir thanks for the great customer service. Family made it back to SAT safely. The weather at DFW made things a little worrisome.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 05:22:17 -0800
+location: Washington, D.C.

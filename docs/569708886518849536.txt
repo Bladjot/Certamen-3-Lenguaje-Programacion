@@ -1,0 +1,7 @@
+569708886518849536
+American
+@AmericanAir is AA951 to São Paulo taking off today? Your colleagues won't tell us any thing
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:02:37 -0800
+location: nan

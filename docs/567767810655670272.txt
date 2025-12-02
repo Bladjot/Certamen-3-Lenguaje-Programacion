@@ -1,0 +1,7 @@
+567767810655670272
+United
+@united each flight is worse than last! flight attendants don't even know whether the plane is equipped with power outlets at the seats!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 11:29:29 -0800
+location: NYC

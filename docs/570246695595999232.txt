@@ -1,0 +1,7 @@
+570246695595999232
+Southwest
+@SouthwestAir ok thank you  i hope  so too
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 07:39:41 -0800
+location: Everywhere You Wish You Were!

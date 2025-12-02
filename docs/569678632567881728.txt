@@ -1,0 +1,7 @@
+569678632567881728
+US Airways
+@USAirways - had to call to find out I was re-booked tomorrow, why ask for my number an email for day of info
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 18:02:24 -0800
+location: WITSEC League

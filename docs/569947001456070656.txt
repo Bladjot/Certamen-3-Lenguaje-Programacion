@@ -1,0 +1,7 @@
+569947001456070656
+US Airways
+@USAirways How can I speak to a human? Need 2 find bag delayed 2/21. Website and 800 # are telling me 2 different things! Got hung up on 2x
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:48:48 -0800
+location: Philadelphia, PA

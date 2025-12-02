@@ -1,0 +1,7 @@
+569650936911683586
+Delta
+@JetBlue Tx for the info. Just don't understand why you couldn't accurately estimate departure time earlier. Weather in ny is fine now.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:12:21 -0800
+location: Brooklyn, NY

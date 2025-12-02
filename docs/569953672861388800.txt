@@ -1,0 +1,7 @@
+569953672861388800
+Southwest
+@SouthwestAir I can. Doesn't it seem fair that if our bags need to fit under our seats, we should need to fit in them?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 12:15:19 -0800
+location: nan

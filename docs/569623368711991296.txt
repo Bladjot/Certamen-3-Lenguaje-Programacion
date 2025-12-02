@@ -1,0 +1,7 @@
+569623368711991296
+Delta
+@JetBlue why are there so many delays to north east cities?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:22:48 -0800
+location: 3Ø4

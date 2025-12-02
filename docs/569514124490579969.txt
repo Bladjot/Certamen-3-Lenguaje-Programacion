@@ -1,0 +1,7 @@
+569514124490579969
+United
+@united with about 25 people trying to get on flights
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 07:08:42 -0800
+location: california

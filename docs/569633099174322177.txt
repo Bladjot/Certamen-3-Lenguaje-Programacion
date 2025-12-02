@@ -1,0 +1,7 @@
+569633099174322177
+US Airways
+@usairways HI again! How you suggested I contacted u via phone, sent a mail with the original ticket &amp; the result: http://t.co/214i0RTIH4
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:01:28 -0800
+location: Bavaria, Germany

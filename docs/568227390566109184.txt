@@ -1,0 +1,7 @@
+568227390566109184
+Southwest
+@SouthwestAir do new flights come out at midnight?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 17:55:41 -0800
+location: nan

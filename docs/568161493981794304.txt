@@ -1,0 +1,7 @@
+568161493981794304
+Delta
+@JetBlue any chance you will by this summer?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 13:33:50 -0800
+location: NY

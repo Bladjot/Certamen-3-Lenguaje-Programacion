@@ -1,0 +1,7 @@
+570015432750399488
+American
+@AmericanAir thanks for following up- it finally worked!! Fingers crossed the new flight works.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 16:20:44 -0800
+location: San Diego

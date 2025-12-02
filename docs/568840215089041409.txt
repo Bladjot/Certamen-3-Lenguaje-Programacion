@@ -1,0 +1,7 @@
+568840215089041409
+US Airways
+@USAirways we have seats.  on phone Iwas  told I was getting error msg due to paid 1st class upgrd. told to check in after 12am.sound right?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 10:30:50 -0800
+location: nan

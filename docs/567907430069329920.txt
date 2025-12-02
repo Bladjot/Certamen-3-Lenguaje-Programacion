@@ -1,0 +1,7 @@
+567907430069329920
+United
+@united :take note of this great example of @JetBlue actually making good for an extremely inconvenient situation. http://t.co/t3Gnk2N7LD
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 20:44:17 -0800
+location: Brooklyn, NY

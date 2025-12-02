@@ -1,0 +1,7 @@
+569533799815630848
+United
+@united 30 hours Late Flightr still no answers stuck in Houston. Keep getting put on phantom flights that never apeared. #BadCustomerService
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 08:26:53 -0800
+location: nan

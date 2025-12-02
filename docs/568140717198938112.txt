@@ -1,0 +1,7 @@
+568140717198938112
+Delta
+@JetBlue insensitive? #FoodAllergies are life-threatening. Unsolicited UNEDUCATED opinions are inappropriate, reckless &amp; dangerous to (1/3)
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 12:11:17 -0800
+location: Boston

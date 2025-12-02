@@ -1,0 +1,7 @@
+569806030584057856
+American
+@AmericanAir @USAirways wonderful FC FA on flight 2062 pre dawn!  Nice start to the day!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 02:28:38 -0800
+location: Rockville, MD

@@ -1,0 +1,7 @@
+569094744615157760
+United
+@united is ridiculous! UA6 delayed for 3.5 hours and counting. Should have booked with a diff airline that takes it seriously #unitedsucks
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 03:22:15 -0800
+location: nan

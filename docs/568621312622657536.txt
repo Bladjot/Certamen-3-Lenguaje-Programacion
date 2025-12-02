@@ -1,0 +1,7 @@
+568621312622657536
+Southwest
+@SouthwestAir I would love to go to the Atlanta show ♥️
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 20:01:00 -0800
+location: nan

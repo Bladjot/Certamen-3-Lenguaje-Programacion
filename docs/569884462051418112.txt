@@ -1,0 +1,7 @@
+569884462051418112
+American
+@AmericanAir - So does that mean your other flights going into Buffalo from other locations, you don't care about their safety?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 07:40:18 -0800
+location: St. Catharines

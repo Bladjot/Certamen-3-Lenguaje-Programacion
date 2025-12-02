@@ -1,0 +1,7 @@
+568025019068108800
+Delta
+@JetBlue they say they have no update. I don't work I don't get paid.  Jet blue has my money but no flight. Argh!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 04:31:32 -0800
+location: nan

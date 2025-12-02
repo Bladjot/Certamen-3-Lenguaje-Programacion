@@ -1,0 +1,7 @@
+568087744078954497
+United
+@united there's no reason it should take 7-10 days to respond.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 08:40:47 -0800
+location: nan

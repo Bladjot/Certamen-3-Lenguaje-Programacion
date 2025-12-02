@@ -1,0 +1,7 @@
+570033062202863616
+United
+@united what's a good number to call to speak with someone about how you can fix what you did to 50 people and their luggage on Saturday?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 17:30:47 -0800
+location: nan

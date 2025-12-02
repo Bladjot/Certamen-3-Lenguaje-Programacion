@@ -1,0 +1,7 @@
+568523935853051906
+Southwest
+@SouthwestAir Flight Booking Problems all my Late Flight summer travel! Did the AUS-CUN direct flight disappear?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 13:34:03 -0800
+location: New York City

@@ -1,0 +1,7 @@
+569995212296200192
+American
+@AmericanAir already spoke to that line, unwilling to help - really poor support #hitawall
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 15:00:23 -0800
+location: nan

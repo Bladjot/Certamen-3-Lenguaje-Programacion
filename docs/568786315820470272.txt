@@ -1,0 +1,7 @@
+568786315820470272
+US Airways
+@USAirways thanks for helping with #reFlight Booking Problems #Cancelled Flightedflight Yvonne Anthony.  You will help us get to Tel Aviv on time.  #HappyFriday
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 06:56:39 -0800
+location: nan

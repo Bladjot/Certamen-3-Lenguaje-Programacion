@@ -1,0 +1,7 @@
+569537388986421249
+Delta
+@JetBlue she helped me with my problem so easily and was so nice, you guys rock!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 08:41:09 -0800
+location: • PSU '19 • faith •

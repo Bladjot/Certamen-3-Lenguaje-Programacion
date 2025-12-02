@@ -1,0 +1,7 @@
+568274855814152192
+United
+@united I want a hotel room and a whiskey.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 21:04:18 -0800
+location: NYC - DC - LA

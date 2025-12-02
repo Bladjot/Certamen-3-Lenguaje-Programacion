@@ -1,0 +1,7 @@
+570042828983820288
+American
+@AmericanAir Do we get a class discount on your wifi? I will be flying your airlines at approx. 4 Am?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 18:09:35 -0800
+location: The Onion Land

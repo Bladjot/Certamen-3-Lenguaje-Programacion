@@ -1,0 +1,7 @@
+567771225104338944
+US Airways
+@USAirways charging $200 2 change a flight is a rip off the reason I have 2 is out of my hands &amp; I want 2 reschedule same flight but in July
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-17 11:43:03 -0800
+location: Newtown, Pa

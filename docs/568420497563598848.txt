@@ -1,0 +1,7 @@
+568420497563598848
+Delta
+@JetBlue I have been on phone with rep for over 30 min and was transferred after asking not to be. She was the worse rep I ever had
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 06:43:02 -0800
+location: nan

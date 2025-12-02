@@ -1,0 +1,7 @@
+568085366441246720
+Southwest
+@SouthwestAir @love_dragonss LAUREN OMG BEST AIRLINE EVER
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 08:31:20 -0800
+location: nan

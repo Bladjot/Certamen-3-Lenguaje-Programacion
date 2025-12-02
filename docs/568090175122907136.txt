@@ -1,0 +1,7 @@
+568090175122907136
+Southwest
+@SouthwestAir now it's delayed until 3:55. Getting yelled at by attendants not to bother them. Getting worse
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 08:50:27 -0800
+location: nan

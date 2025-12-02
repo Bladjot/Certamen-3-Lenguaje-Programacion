@@ -1,0 +1,7 @@
+568137557935960066
+Southwest
+@SouthwestAir once or twice a year. Hard to get vacation time from work sometimes. But love flying with you guys!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 11:58:43 -0800
+location: nan

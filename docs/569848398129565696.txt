@@ -1,0 +1,7 @@
+569848398129565696
+US Airways
+@USAirways first, luggage got stuck in a different city, now I get them back today &amp; one of your employees stole a pair of gloves from me!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 05:17:00 -0800
+location: New York

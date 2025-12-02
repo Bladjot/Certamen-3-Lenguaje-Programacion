@@ -1,0 +1,7 @@
+569668644529147904
+American
+Is rudeness and poor customers service a job requirement at @AmericanAir ? Been waiting 28hrs and still haven't even seen one plane😡
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:22:43 -0800
+location: nan

@@ -1,0 +1,7 @@
+567910969856229377
+Delta
+@JetBlue yes! Announced we will take off. You're on it! Thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 20:58:21 -0800
+location: NYC

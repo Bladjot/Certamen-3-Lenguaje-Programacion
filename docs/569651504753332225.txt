@@ -1,0 +1,7 @@
+569651504753332225
+American
+@AmericanAir delayed for two hours at ORD--&gt;CDG the one time I need to be there to catch a train... 😒
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:14:37 -0800
+location: washington, dc

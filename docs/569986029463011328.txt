@@ -1,0 +1,7 @@
+569986029463011328
+United
+@united @dfpietra THAT'S your response?  Shaking my head back and forth with a tsk. You can do better-from customer service to your apology
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:23:53 -0800
+location: West Hollywood, CA

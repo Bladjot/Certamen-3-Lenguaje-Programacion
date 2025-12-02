@@ -1,0 +1,7 @@
+570185364746461184
+American
+@AmericanAir re-staff and commence new policies because your industry is so embarrassed by you.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 03:35:59 -0800
+location: Mitten

@@ -1,0 +1,7 @@
+569656858400694272
+American
+@AmericanAir At what e-mail adress can I send your CEO Mr. Doug Parker a letter that he hopefully reads?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:35:53 -0800
+location: Mexicali, B.C.

@@ -1,0 +1,7 @@
+570284855163883520
+US Airways
+@USAirways 59 minutes now. Nice customer service you got going on.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 10:11:19 -0800
+location: nan

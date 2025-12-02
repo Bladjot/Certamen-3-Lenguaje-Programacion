@@ -1,0 +1,7 @@
+567835334572130304
+Southwest
+@SouthwestAir can I use points to book a rental car?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 15:57:48 -0800
+location: nan

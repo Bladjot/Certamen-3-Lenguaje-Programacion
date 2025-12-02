@@ -1,0 +1,7 @@
+568438142673555457
+US Airways
+@USAirways I've been on hold for 40 minutes just to get a receipt. I know you guys are busy but I think it's time to higher more staff!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 07:53:08 -0800
+location: Boston

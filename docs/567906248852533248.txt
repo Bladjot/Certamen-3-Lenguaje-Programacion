@@ -1,0 +1,7 @@
+567906248852533248
+US Airways
+@USAirways your saving grace was our flight attendant Dallas who was amazing. wish he would transfer to Delta where I would see him again
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 20:39:35 -0800
+location: salt lake city, utah

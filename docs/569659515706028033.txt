@@ -1,0 +1,7 @@
+569659515706028033
+American
+@AmericanAir fight got Cancelled Flighted can u help me rebook a flight?  Call center is too busy to answer calls or even put me on hold #yuck
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 16:46:26 -0800
+location: nan

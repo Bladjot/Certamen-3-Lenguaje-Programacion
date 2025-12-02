@@ -1,0 +1,7 @@
+569163241781403648
+US Airways
+@USAirways - I'm currently missing a basketball game due to your lost bag policy #terribleservice #wheresmyrefund
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 07:54:26 -0800
+location: nan

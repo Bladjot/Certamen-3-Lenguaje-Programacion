@@ -1,0 +1,7 @@
+569969267589947394
+American
+@AmericanAir Need to hold or get a call back. Just get hung up on by your phone system for 6+ hours now.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:17:17 -0800
+location: Here. But I want to be there.

@@ -1,0 +1,7 @@
+570302375510056960
+United
+@united I understand, but it's tough when there is no way to get to the airport w/o serious risk of an accident. It's a steep price.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:20:56 -0800
+location: Berkeley Heights, NJ

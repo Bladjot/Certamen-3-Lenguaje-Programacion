@@ -1,0 +1,7 @@
+569130625053155328
+Southwest
+@SouthwestAir  at fort launder dale and the gate agent can't switch flights to an earlier flight but we can on our phone...ridiculous
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 05:44:49 -0800
+location: nan

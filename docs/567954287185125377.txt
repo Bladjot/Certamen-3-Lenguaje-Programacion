@@ -1,0 +1,7 @@
+567954287185125377
+Southwest
+@HillAConlin @SouthwestAir hi! get a solar charger from Amazon! Game changer to plug usb into charge. :)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 23:50:28 -0800
+location: nan

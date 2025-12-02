@@ -1,0 +1,7 @@
+567778512548167680
+US Airways
+@USAirways thanks Travis at PHL A East checkin for knowing baggage policies. Skis &amp; boots count as 1. Teach your mgr who didn't know
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 12:12:00 -0800
+location: nan

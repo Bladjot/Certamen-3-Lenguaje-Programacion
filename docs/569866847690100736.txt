@@ -1,0 +1,7 @@
+569866847690100736
+Southwest
+@SouthwestAir customer service is rude and bothered by our calls. Has no idea what is going on and sighed heavily on the phone. Unbelievable
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:30:18 -0800
+location: Saint Louis, MO USA

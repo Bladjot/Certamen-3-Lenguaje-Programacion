@@ -1,0 +1,7 @@
+569710876682366977
+American
+@AmericanAir today, after 6 yrs., no longer my preferred airline.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 20:10:32 -0800
+location: Chicago

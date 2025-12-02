@@ -1,0 +1,7 @@
+569546858122616833
+US Airways
+@USAirways My hubby has a 5hr layover in DFW fm the cxl'd flt. Pls help get him home sooner if you can! Any room on S/by 2 BWI or PHL today?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 09:18:47 -0800
+location: Baltimore, MD

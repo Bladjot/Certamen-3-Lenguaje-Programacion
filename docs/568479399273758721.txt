@@ -1,0 +1,7 @@
+568479399273758721
+Southwest
+@SouthwestAir @Imaginedragons #DestinationDragons Any tix to spare? I wanna go see the show on Friday in LA with my friend @HayleyMad!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 10:37:05 -0800
+location: Los Angeles, CA

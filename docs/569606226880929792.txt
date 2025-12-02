@@ -1,0 +1,7 @@
+569606226880929792
+American
+@AmericanAir @cheerUPDATES So you're saying the call center is understaffed?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:14:41 -0800
+location: Pekin

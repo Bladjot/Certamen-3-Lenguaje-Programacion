@@ -1,0 +1,7 @@
+570121673099190272
+American
+@AmericanAir Cancelled Flightled flight from fresno then rebooked for LAX now flight Cancelled Flightled again and its midnight with no more hotel available???
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 23:22:53 -0800
+location: nan

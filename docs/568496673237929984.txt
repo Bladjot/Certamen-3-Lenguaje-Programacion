@@ -1,0 +1,7 @@
+568496673237929984
+United
+@united or did you mean 24-26?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 11:45:43 -0800
+location: nan

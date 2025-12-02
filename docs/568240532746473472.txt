@@ -1,0 +1,7 @@
+568240532746473472
+Southwest
+@SouthwestAir So there were 134 early-bird check-ins, because I was told there were no flythroughs? Good flight, otherwise ~
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 18:47:55 -0800
+location: Chicago

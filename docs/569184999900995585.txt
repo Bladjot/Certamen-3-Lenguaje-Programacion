@@ -1,0 +1,7 @@
+569184999900995585
+United
+@united once again your lack of customer service astounds me! You are the worst airline in the history of airlines! Train your staff!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 09:20:53 -0800
+location: Winnipeg, Manitoba

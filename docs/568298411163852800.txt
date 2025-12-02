@@ -1,0 +1,7 @@
+568298411163852800
+United
+@united this happens all the time.  United pilots are always in the exit row.  America treats there customers better than their employees.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 22:37:54 -0800
+location: nan

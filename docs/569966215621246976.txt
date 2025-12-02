@@ -1,0 +1,7 @@
+569966215621246976
+Delta
+@JetBlue you really should be more proactive with passengers when you know the entertainment system isn't working. At least let me get a mag
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 13:05:09 -0800
+location: Brooklyn, NY

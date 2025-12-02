@@ -1,0 +1,7 @@
+569760128343220224
+US Airways
+@USAirways What was the point of the merger?  Why not just go out of business if your not turning a profit anymore?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 23:26:14 -0800
+location: Washington, D.C.

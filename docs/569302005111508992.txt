@@ -1,0 +1,7 @@
+569302005111508992
+United
+@united Still do not have my bag, it's in the CLT airport. Was originally told I would have it by 2pm.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 17:05:49 -0800
+location: Hoboken, NJ

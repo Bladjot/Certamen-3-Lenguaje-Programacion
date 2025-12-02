@@ -1,0 +1,7 @@
+569283532167757826
+Delta
+@JetBlue what crew? No one here is helping.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 15:52:25 -0800
+location: Wellesley, MA

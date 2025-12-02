@@ -1,0 +1,7 @@
+569626703959494656
+American
+@AmericanAir most horrendous service ever !! On off two planes. Been in Phil for 10 hrs. Now captain can't get flight info to print? #wtf
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:36:04 -0800
+location: nan

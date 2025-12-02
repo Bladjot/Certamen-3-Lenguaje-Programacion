@@ -1,0 +1,7 @@
+568836642825375744
+United
+@united I get that. But doing it by giving inaccurate/misleading info doesn't seem like a great way to do it. #hopethegearmakesitintact
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 10:16:38 -0800
+location: nan

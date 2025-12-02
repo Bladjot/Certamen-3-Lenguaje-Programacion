@@ -1,0 +1,7 @@
+569040346262282241
+US Airways
+@USAirways landed at Phoenix, but we had to board a flight quickly to Vegas so no time at the airport. What now?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 23:46:05 -0800
+location: nan

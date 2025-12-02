@@ -1,0 +1,7 @@
+569651579307069440
+American
+@AmericanAir flight from JFK to EGE was cxld after on runway for an hour. Flight moved to 7am but they won't give luggage back. Nice.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 16:14:54 -0800
+location: New York, NY

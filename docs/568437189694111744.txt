@@ -1,0 +1,7 @@
+568437189694111744
+Delta
+@JetBlue Apparently the pilot had made some announcement about engine trouble and losing fuel too quickly.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 07:49:21 -0800
+location: Waltham, MA

@@ -1,0 +1,7 @@
+569317718886903809
+United
+@united why are there no early morning flights from HNL to anywhere in the continental US? Example- Monday 4/20. Need flight to PHL
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 18:08:16 -0800
+location: Wilmington, Delaware

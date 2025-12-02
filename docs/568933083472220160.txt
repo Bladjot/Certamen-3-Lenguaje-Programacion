@@ -1,0 +1,7 @@
+568933083472220160
+United
+@united Thank You
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 16:39:52 -0800
+location: Denver

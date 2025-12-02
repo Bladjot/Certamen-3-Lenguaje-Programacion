@@ -1,0 +1,7 @@
+569253311813185537
+Virgin America
+@VirginAmerica Keep up the great work :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 13:52:20 -0800
+location: Los Angeles, California

@@ -1,0 +1,7 @@
+567858373527470080
+Southwest
+@SouthwestAir Black History Commercial is really sweet. Well done.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 17:29:21 -0800
+location: La Florida

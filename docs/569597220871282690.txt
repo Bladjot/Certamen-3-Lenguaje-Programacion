@@ -1,0 +1,7 @@
+569597220871282690
+American
+@AmericanAir You didn't respond to my DM. You tweeted the same canned tweet you're telling everyone else.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:38:54 -0800
+location: Dallas, TX

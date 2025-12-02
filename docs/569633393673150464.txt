@@ -1,0 +1,7 @@
+569633393673150464
+Delta
+@JetBlue I have to say that JetBlue has officially lost a customer. What a waste of all the points I have too! I am yet to be in a flight..
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 15:02:38 -0800
+location: nan

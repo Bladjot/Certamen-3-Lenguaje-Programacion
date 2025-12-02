@@ -1,0 +1,7 @@
+570020852210774016
+United
+@united thank you. I flew into Newark from Vail/Eagle.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 16:42:16 -0800
+location: nan

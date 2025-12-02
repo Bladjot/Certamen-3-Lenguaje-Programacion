@@ -1,0 +1,7 @@
+568538790244909056
+Southwest
+@SouthwestAir YOU ARE THE EASIEST AIRLINE TO DEAL WITH.. I LOVEEEE YOU SO MUCH
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 14:33:05 -0800
+location: Los Angeles

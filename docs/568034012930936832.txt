@@ -1,0 +1,7 @@
+568034012930936832
+Delta
+@JetBlue your agents at IAD have compounded this problem by not making any announcements #jetbluemess
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 05:07:16 -0800
+location: nan

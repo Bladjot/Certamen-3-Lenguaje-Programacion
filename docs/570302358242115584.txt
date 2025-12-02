@@ -1,0 +1,7 @@
+570302358242115584
+American
+@AmericanAir thanks
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 11:20:52 -0800
+location: New York Tri-State

@@ -1,0 +1,7 @@
+567799412538494976
+US Airways
+@usairways It was 9º, and some of us had left coats in our luggage in anticipation of cramped overhead bins :|
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 13:35:03 -0800
+location: Boston, MA

@@ -1,0 +1,7 @@
+567899319157669888
+Southwest
+@SouthwestAir I need some help with a reservation
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 20:12:03 -0800
+location: 42.102725,-87.970154

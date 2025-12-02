@@ -1,0 +1,7 @@
+569206711443181569
+Southwest
+@SouthwestAir @bgr1061 luv SWA myself and my employees use you always!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 10:47:10 -0800
+location: Austin

@@ -1,0 +1,7 @@
+567822780135124992
+Southwest
+@SouthwestAir very poor customer service thru out each of my cxl flights😔 I should've flew @Delta
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 15:07:55 -0800
+location: Rite behind my $$

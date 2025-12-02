@@ -1,0 +1,7 @@
+569459455273897984
+US Airways
+@USAirways have you ever lost luggage with an infant and a 4 year old? Then customer service never answered the phone. I've tried all night.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 03:31:28 -0800
+location: West Virginia

@@ -1,0 +1,7 @@
+568960217976864769
+Delta
+@JetBlue I bein calling JetBlue no respond I leave my number no call back I think JetBlue is loosing a customer
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 18:27:41 -0800
+location: new york

@@ -1,0 +1,7 @@
+569667082499035137
+United
+@united customer service sucks!  They hang up after waiting an hour and talking for 5 minutes.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:16:31 -0800
+location: Michigan

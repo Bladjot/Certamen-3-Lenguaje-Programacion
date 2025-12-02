@@ -1,0 +1,7 @@
+570295981985681409
+American
+@AmericanAir don't worry. I'll be sending a letter with what I expect from you for compensation. I fly twice a week w/you guys...for now
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 10:55:32 -0800
+location: Plano, TX

@@ -1,0 +1,7 @@
+568797413529538562
+United
+@united traveling from FRA thru IAD to MCO tomorrow, concerned abt IAD weather. Can't change until advisory issued? Any advice?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 07:40:45 -0800
+location: Obersulzbach, Germany

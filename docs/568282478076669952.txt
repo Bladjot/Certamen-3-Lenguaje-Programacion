@@ -1,0 +1,7 @@
+568282478076669952
+US Airways
+@USAirways no. Other than being on my credit card statement, I have not received anything from you and so I have no way to look it up myself
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 21:34:35 -0800
+location: nan

@@ -1,0 +1,7 @@
+569710446112067584
+American
+@AmericanAir Thanks. Two hours to go inflight, then hotel.  Hang in there with all the DFW travel delays AA team.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 20:08:49 -0800
+location: nan

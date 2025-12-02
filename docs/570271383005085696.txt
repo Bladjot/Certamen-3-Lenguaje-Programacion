@@ -1,0 +1,7 @@
+570271383005085696
+American
+@AmericanAir I'm frustrated by all of the @USAirways attitude toward #ExecPlat members. #thenewamerican
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 09:17:47 -0800
+location: Arkansas

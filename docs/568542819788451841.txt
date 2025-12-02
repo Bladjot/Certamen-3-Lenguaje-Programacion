@@ -1,0 +1,7 @@
+568542819788451841
+Delta
+@JetBlue 1st flight of the morning, flying with a toddler. Will the plane be heated to a comfortable temp before boarding starts. #ItsCold
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 14:49:05 -0800
+location: South Park, Pa

@@ -1,0 +1,7 @@
+569936861398994945
+United
+@united done. Want me to send a screen shot of the second call, which is now at over 45 minutes?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:08:31 -0800
+location: San Francisco CA

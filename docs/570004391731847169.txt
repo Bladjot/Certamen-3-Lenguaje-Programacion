@@ -1,0 +1,7 @@
+570004391731847169
+Virgin America
+@VirginAmerica wish you flew out of Atlanta... Soon?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 15:36:51 -0800
+location: Los Angeles / Atlanta

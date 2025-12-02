@@ -1,0 +1,7 @@
+568475305675001857
+US Airways
+@USAirways what an amazing day. Delayed 4 hrs bc frozen h2o on plane Now sitting @ gate on same plane 4 30 mins still waiting! #flight1797
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 10:20:49 -0800
+location: nan

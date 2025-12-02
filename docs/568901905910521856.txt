@@ -1,0 +1,7 @@
+568901905910521856
+US Airways
+@USAirways if you get my bag from E Gate to B Gate at the Charlotte airport before my 6 pm flight (Late Flight cause of yall) I’ll ride US for life
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 14:35:58 -0800
+location: Atlanta, Ga

@@ -1,0 +1,7 @@
+569976620158578688
+Virgin America
+@VirginAmerica heyyyy guyyyys.. been trying to get through for an hour. can someone call me please? :/
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:46:30 -0800
+location: next city

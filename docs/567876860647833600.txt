@@ -1,0 +1,7 @@
+567876860647833600
+Southwest
+@SouthwestAir can u better define the "plus one smaller type" item on carry on requirements?.. small backpacks?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 18:42:48 -0800
+location: washington

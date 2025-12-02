@@ -1,0 +1,7 @@
+569353669738688512
+United
+@united i will never fly with you again. i went on vacation this week and you lost my bags both ways. now i have no clothes. thankyou
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 20:31:07 -0800
+location: nan

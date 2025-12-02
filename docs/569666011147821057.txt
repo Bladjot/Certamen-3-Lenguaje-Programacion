@@ -1,0 +1,7 @@
+569666011147821057
+Delta
+@JetBlue well but for now the only thng we can do is wait for someone to explain us the situation with responsibility http://t.co/ML1JaCpmch
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 17:12:15 -0800
+location: ÜT: 18.463449,-70.003608

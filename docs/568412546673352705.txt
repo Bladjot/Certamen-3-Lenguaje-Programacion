@@ -1,0 +1,7 @@
+568412546673352705
+United
+@united followed and messaged. Thanks so much for the help.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 06:11:26 -0800
+location: Germany

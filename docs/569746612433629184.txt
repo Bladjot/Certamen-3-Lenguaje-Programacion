@@ -1,0 +1,7 @@
+569746612433629184
+US Airways
+@USAirways now U horrible people say you have no where for her to sleep?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 22:32:32 -0800
+location: nan

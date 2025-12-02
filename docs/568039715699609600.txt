@@ -1,0 +1,7 @@
+568039715699609600
+US Airways
+@USAirways last name Pordes
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 05:29:56 -0800
+location: nan

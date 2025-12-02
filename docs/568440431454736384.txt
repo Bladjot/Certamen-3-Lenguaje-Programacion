@@ -1,0 +1,7 @@
+568440431454736384
+US Airways
+@USAirways found great prices thru US Air for honeymoon. Website wont work and been on hold for more than a hour now after being told 10 min
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 08:02:14 -0800
+location: Denver

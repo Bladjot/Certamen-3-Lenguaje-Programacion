@@ -1,0 +1,7 @@
+569143443512897536
+US Airways
+@USAirways can you please post wait time-have been on hold for two hours
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 06:35:45 -0800
+location: Pittsford, Vermont

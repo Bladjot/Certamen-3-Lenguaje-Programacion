@@ -1,0 +1,7 @@
+570258476695302144
+United
+@united thank you !
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:26:30 -0800
+location: Chicago, IL, USA

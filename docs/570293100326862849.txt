@@ -1,0 +1,7 @@
+570293100326862849
+Southwest
+@SouthwestAir I managed to get sorted out over the phone. Good luck dealing with the snow in Texas!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 10:44:05 -0800
+location: Eau Claire

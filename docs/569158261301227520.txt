@@ -1,0 +1,7 @@
+569158261301227520
+Southwest
+@SouthwestAir too long to wait for bags when they could have been on the next flight out. The party of 4 could have waited in Albany
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 07:34:38 -0800
+location: Albany, NY

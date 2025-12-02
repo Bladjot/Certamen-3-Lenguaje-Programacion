@@ -1,0 +1,7 @@
+569665258605842434
+United
+@united I understand the intention, but it pales in comparison to a day of lost wages for both my wife and I because of the delay.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 17:09:16 -0800
+location: North

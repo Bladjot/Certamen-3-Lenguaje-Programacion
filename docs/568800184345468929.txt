@@ -1,0 +1,7 @@
+568800184345468929
+Southwest
+@SouthwestAir FJBFSC  all I need is receipt showing the 776.20 charge I have on my Amex not the 656.xx that I keep getting sent
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 07:51:46 -0800
+location: nan

@@ -1,0 +1,7 @@
+570079699595980802
+United
+@united can you ask your guys with flight 1146 to BWI to wait for us to get off a delayed flight from San Diego? Pretty please?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 20:36:06 -0800
+location: Washington, DC

@@ -1,0 +1,7 @@
+568177152924860416
+Delta
+@JetBlue to allow payment by #Apple Pay - Patriarc http://t.co/bdUaUZFhW2
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 14:36:04 -0800
+location: USA

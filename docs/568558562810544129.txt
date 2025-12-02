@@ -1,0 +1,7 @@
+568558562810544129
+Delta
+@JetBlue oh yes! I hope you expand to other airports soon so I can fly you to see my family each year!!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 15:51:39 -0800
+location: NYC

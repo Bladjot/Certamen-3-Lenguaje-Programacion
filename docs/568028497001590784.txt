@@ -1,0 +1,7 @@
+568028497001590784
+Delta
+@JetBlue @drwinston001 I think we'll need a selfie as proof...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 04:45:21 -0800
+location: London

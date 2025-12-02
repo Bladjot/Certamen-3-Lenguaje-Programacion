@@ -1,0 +1,7 @@
+570066859330019329
+Delta
+@JetBlue you can do better than this. And you can do better for me and all the passengers. #flight108 jfk to pwm.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 19:45:05 -0800
+location: Portland, Maine

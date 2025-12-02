@@ -1,0 +1,8 @@
+568629558716592128
+Southwest
+@SouthwestAir Why do airlines change ticket prices in the middle of the day
+#annoyed
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 20:33:46 -0800
+location: nan

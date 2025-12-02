@@ -1,0 +1,7 @@
+568440681531875328
+Delta
+@JetBlue Hey guys! Your Flight Booking Problems system ran my first and middle names together at time of Flight Booking Problems. Is that going to be a #TSAnightmare ?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 08:03:14 -0800
+location: Chasing the dream

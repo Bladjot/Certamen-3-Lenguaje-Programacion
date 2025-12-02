@@ -1,0 +1,7 @@
+568810681279111168
+US Airways
+@USAirways Yes, I get that. I’m asking: Specifically, what will you do with the feedback I’ve given you?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 08:33:29 -0800
+location: 42.635976,-71.164046

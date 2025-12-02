@@ -1,0 +1,7 @@
+569892980712013824
+Delta
+@JetBlue Mark T.  in Austin was great handling my bag issue.  #thanks
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 08:14:09 -0800
+location: Cape Cod Ma

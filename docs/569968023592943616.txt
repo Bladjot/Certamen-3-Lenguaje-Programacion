@@ -1,0 +1,7 @@
+569968023592943616
+Delta
+@JetBlue hi guys, do you have a general enquires email address please? Thanks David.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:12:20 -0800
+location: London UK & USA

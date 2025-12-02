@@ -1,0 +1,7 @@
+569910053249142785
+American
+@AmericanAir Retrain in Customer Service first, make proper adjustments when Cancelled Flightling flights. Own up to your Mistakes.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 09:21:59 -0800
+location: Everywhere

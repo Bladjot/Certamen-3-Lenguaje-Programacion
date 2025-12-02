@@ -1,0 +1,7 @@
+568063182230724608
+US Airways
+@USAirways No, this is a systemic problem. Mail comes from 153.69.214.203 but USAirways SPF record disallows it. DM me for more detail
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 07:03:11 -0800
+location: nan

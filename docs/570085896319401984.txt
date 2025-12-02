@@ -1,0 +1,7 @@
+570085896319401984
+American
+@AmericanAir Thank you
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 21:00:44 -0800
+location: North Texas

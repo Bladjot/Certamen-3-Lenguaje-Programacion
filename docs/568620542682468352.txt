@@ -1,0 +1,7 @@
+568620542682468352
+Delta
+@JetBlue look what I capture at Uvf http://t.co/Lj2ZXZN8kG
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 19:57:56 -0800
+location: Dubai

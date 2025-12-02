@@ -1,0 +1,7 @@
+567810573002620928
+Delta
+seriously, I want to work on the JetBlue social team RT @JetBlue: @vincenzolandino http://t.co/eiGaJyzcW2
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:19:24 -0800
+location: NYC | CT

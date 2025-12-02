@@ -1,0 +1,7 @@
+569987608912142337
+Delta
+@JetBlue once again my flight is delayed. I hope I dont miss my  connecting. Please don't fuck me... I have a girlfriend -_-
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 14:30:10 -0800
+location: Portland, Maine

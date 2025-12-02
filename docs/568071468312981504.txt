@@ -1,0 +1,7 @@
+568071468312981504
+Delta
+@JetBlue Celebrates 15-Year Anniversary With New Livery - @CNNMoney http://t.co/p7skxZVe1A
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 07:36:06 -0800
+location: USA

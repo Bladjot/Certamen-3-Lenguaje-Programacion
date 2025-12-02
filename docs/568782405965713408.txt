@@ -1,0 +1,7 @@
+568782405965713408
+United
+@united Will do! Thanks!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 06:41:07 -0800
+location: Minnesota, USA

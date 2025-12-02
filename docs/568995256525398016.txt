@@ -1,0 +1,7 @@
+568995256525398016
+United
+@united to Late Flight now, but in future flights, train staff better to handle emergency situations, and ground staff in Customer Service
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 20:46:55 -0800
+location: Washington

@@ -1,0 +1,7 @@
+569953628687101954
+American
+@AmericanAir thank you. They are processing my refund.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 12:15:08 -0800
+location: Hampton Roads

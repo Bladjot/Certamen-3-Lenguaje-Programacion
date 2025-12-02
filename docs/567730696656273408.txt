@@ -1,0 +1,7 @@
+567730696656273408
+Delta
+@JetBlue @EllaHenderson omg!  Wish I had a flight today!  Haha there's always next time!  Have fun at #LFT5
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 09:02:00 -0800
+location: NY

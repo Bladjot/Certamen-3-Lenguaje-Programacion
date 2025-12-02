@@ -1,0 +1,7 @@
+569675848770408448
+Delta
+@JetBlue Love you guys😍😍😍 http://t.co/3X9NRUOvtS
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:51:21 -0800
+location: Mexico-Colombia

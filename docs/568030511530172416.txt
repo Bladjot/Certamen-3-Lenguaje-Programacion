@@ -1,0 +1,7 @@
+568030511530172416
+US Airways
+@USAirways stuck in cae need reFlight Booking Problems for next flight possibly dm for more info
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 04:53:22 -0800
+location: nan

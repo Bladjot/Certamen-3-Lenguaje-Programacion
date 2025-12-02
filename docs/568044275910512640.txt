@@ -1,0 +1,7 @@
+568044275910512640
+Southwest
+@SouthwestAir Flight 4110 MCO to ISP delayed. Any details on why?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 05:48:03 -0800
+location: Suffolk County, New York

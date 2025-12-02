@@ -1,0 +1,7 @@
+570036463729020928
+American
+@AmericanAir daughter record loc. is KYBILC. She is traveling with 3 y.o. and needs to be in adjacent seats, not across isle.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 17:44:18 -0800
+location: SE USA

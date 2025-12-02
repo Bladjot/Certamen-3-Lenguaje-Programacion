@@ -1,0 +1,7 @@
+568998681715695618
+Southwest
+@southwestair Landed an hour Late Flight from IND to DEN, and 40+ min Late Flightr, our bags are not here. Not cool.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 21:00:31 -0800
+location: Charleston, SC

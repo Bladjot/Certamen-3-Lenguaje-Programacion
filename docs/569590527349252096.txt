@@ -1,0 +1,7 @@
+569590527349252096
+Delta
+@JetBlue wondering if it's possible for my colleague and I to get on an earlier flight LAX&gt;JFK tomorrow. Can you help?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:12:18 -0800
+location: New York, NY

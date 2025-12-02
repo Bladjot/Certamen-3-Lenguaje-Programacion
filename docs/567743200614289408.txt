@@ -1,0 +1,7 @@
+567743200614289408
+US Airways
+@USAirways missing my reservations due to a Cancelled Flightled flight. Make it right by giving me first class tomorrow. Make your customers happy.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 09:51:41 -0800
+location: Worthington, Ohio

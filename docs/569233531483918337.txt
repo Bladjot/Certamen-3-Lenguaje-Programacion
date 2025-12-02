@@ -1,0 +1,7 @@
+569233531483918337
+United
+@united appreciate getting put on hold for 20min and then getting hung up on because I was requesting help for big group. I'll try #Delta
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 12:33:44 -0800
+location: 31.790466, -85.971558

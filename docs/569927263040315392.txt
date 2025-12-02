@@ -1,0 +1,7 @@
+569927263040315392
+United
+@united Great! I'm ready to go home.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:30:22 -0800
+location: New Haven, CT

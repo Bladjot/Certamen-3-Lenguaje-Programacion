@@ -1,0 +1,7 @@
+569172065724428288
+United
+@united customer service: 16hr delay coupon can only be redeemed on website which has $200 higher prices than Expedia, call wait time 55mins
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 08:29:29 -0800
+location: nan

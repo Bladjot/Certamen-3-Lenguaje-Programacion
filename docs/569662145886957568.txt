@@ -1,0 +1,7 @@
+569662145886957568
+American
+@AmericanAir I understand flight Cancelled Flightation but not being able to get through to change that flight for 6 hrs is not acceptable.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 16:56:54 -0800
+location: Jacksonville Florida

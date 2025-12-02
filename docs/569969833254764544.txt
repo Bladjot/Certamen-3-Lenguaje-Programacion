@@ -1,0 +1,7 @@
+569969833254764544
+Southwest
+@SouthwestAir  Poor customer service displayed over the weekend during the storm. I was stuck on the tarmac for 2.5 hours with no answer!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:19:32 -0800
+location: nan

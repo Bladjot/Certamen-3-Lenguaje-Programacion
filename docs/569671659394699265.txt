@@ -1,0 +1,7 @@
+569671659394699265
+American
+@AmericanAir at JFK flight to Boston delayed 20 min waiting for catering they are boarding flight to LAX waiting for over and hour WTF?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:34:42 -0800
+location: Los Angeles

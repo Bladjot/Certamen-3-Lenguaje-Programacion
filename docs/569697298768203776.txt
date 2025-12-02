@@ -1,0 +1,7 @@
+569697298768203776
+United
+@United maybe find a different gate #ua1758
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 19:16:35 -0800
+location: ÜT: 33.987103,-118.399024

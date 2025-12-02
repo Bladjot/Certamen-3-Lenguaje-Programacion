@@ -1,0 +1,7 @@
+569650423318982657
+Delta
+“@JetBlue: @FinleyBklynCFS So glad to hear. Thanks for sharing the video.” Me and JetBlue are #BFF 🙏
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 16:10:19 -0800
+location: nan

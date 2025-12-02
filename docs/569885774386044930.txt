@@ -1,0 +1,7 @@
+569885774386044930
+American
+@AmericanAir thank you
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:45:31 -0800
+location: nan

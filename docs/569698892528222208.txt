@@ -1,0 +1,7 @@
+569698892528222208
+Southwest
+@SouthwestAir me again! I was just trying to rebook fare on wanna get away pricing and it disappeared in time I refreshed. Is this normal?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 19:22:55 -0800
+location: Chicago by way of California

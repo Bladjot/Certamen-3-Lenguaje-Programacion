@@ -1,0 +1,7 @@
+567734002287513602
+Southwest
+@SouthwestAir could you tell me if any upgrades are available on a flight out of STL tomorrow morning.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:15:08 -0800
+location: St. Louis

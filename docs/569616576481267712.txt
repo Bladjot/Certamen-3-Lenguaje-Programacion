@@ -1,0 +1,7 @@
+569616576481267712
+Delta
+@JetBlue What confirmation number?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 13:55:49 -0800
+location: Providence, RI

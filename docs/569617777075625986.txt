@@ -1,0 +1,7 @@
+569617777075625986
+US Airways
+@USAirways No I need the corporate office number please as that is who is dealing with this for me. It's a 480 number.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 14:00:35 -0800
+location: nan

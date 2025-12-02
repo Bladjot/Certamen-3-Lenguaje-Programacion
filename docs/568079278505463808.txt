@@ -1,0 +1,7 @@
+568079278505463808
+Virgin America
+@VirginAmerica Very poor experience. First computer problem now seat malfunction. Stuck. Missing meeting in San Diego.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 08:07:09 -0800
+location: USA

@@ -1,0 +1,7 @@
+568202590032236544
+Delta
+@JetBlue Headphone jack not working on my flight.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 16:17:08 -0800
+location: Boston, MA

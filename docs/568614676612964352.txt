@@ -1,0 +1,7 @@
+568614676612964352
+Southwest
+@SouthwestAir Hi! I ❤️ your company and fly all the time. I was wondering if you could please share this link &amp; read! http://t.co/lO6LghPcdU
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 19:34:37 -0800
+location: nan

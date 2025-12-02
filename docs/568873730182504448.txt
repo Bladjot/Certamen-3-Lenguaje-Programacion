@@ -1,0 +1,7 @@
+568873730182504448
+United
+@united thank you.. Appreciate the response
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 12:44:01 -0800
+location: San Francisco

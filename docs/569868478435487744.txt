@@ -1,0 +1,7 @@
+569868478435487744
+American
+@AmericanAir - trying to track down backs for two of my attendees #help
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 06:36:47 -0800
+location: Atlanta, GA

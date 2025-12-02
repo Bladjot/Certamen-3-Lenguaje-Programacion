@@ -1,0 +1,7 @@
+570045645714620417
+American
+@AmericanAir still on hold. After you hung up on me the first time (another 45 minutes!) http://t.co/IMRLAu77iH
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 18:20:47 -0800
+location: Cleveland, OH

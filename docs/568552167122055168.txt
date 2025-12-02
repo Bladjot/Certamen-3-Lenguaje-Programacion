@@ -1,0 +1,7 @@
+568552167122055168
+US Airways
+@USAirways platinum flyer bought tkt in AA. Also both accounts are linked. So WHY can't I check in for flight tomorrow?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 15:26:14 -0800
+location: nan

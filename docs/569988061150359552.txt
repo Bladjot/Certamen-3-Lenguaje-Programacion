@@ -1,0 +1,7 @@
+569988061150359552
+United
+@united #albanyairport delayed departure to check bags at gate claiming space filled and walk on to open spaces a delay #poorcustomerservice
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 14:31:58 -0800
+location: Killington, Vt

@@ -1,0 +1,7 @@
+570084883332239360
+Delta
+@JetBlue Hey guys do you have a tail number assigned yet to flight 1373 for tomorrow?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 20:56:42 -0800
+location: nan

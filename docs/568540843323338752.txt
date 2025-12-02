@@ -1,0 +1,7 @@
+568540843323338752
+United
+@united care less about the person - although he walked away while I was complaining.  A man at 10p at LAX club.  More.....
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 14:41:14 -0800
+location: nan

@@ -1,0 +1,7 @@
+569110078403551232
+Southwest
+@SouthwestAir how is tkt in the A grp for a cxld flight gets stuck at the back of the Cs when your site, phone and agents took 1h to rebook
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 04:23:10 -0800
+location: Somerville, MA

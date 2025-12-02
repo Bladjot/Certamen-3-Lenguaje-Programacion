@@ -1,0 +1,7 @@
+569970599377788928
+United
+@united I'm trying to get to my final destination, we need compensation. Just about 2hrs of personal time wasted.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 13:22:35 -0800
+location: San Francisco Bay Area

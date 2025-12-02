@@ -1,0 +1,7 @@
+569952605721337856
+Delta
+Why we can't have nice things. RT @JetBlue: Our fleet's on fleek. http://t.co/HP9RPPCvHx
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:11:05 -0800
+location: nan

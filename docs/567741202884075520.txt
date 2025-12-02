@@ -1,0 +1,7 @@
+567741202884075520
+Southwest
+@SouthwestAir is having a sale! I'm delighted!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 09:43:45 -0800
+location: Minneapolis, Minnesota

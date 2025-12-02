@@ -1,0 +1,7 @@
+570016890996666368
+American
+@AmericanAir Lady at B1 ABQ for 5347 on 2/23 was of a great service to all among several Cancelled Flightlations
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 16:26:31 -0800
+location: Charlotte, NC

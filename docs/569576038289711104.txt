@@ -1,0 +1,7 @@
+569576038289711104
+Southwest
+@SouthwestAir think you have great people working for you.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 11:14:44 -0800
+location: nan

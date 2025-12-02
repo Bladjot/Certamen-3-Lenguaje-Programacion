@@ -1,0 +1,7 @@
+568072770103308288
+US Airways
+@USAirways thanks :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 07:41:17 -0800
+location: Melbourne, Australia

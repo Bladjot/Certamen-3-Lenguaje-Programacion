@@ -1,0 +1,7 @@
+569482263345307648
+Virgin America
+@VirginAmerica Plans to Include Austin to its Dallas Route - TopNews Arab #Emirates http://t.co/aqZWecOkk2
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 05:02:06 -0800
+location: FL410

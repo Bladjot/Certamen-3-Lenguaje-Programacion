@@ -1,0 +1,7 @@
+568893092927029249
+Southwest
+@SouthwestAir Cancelled Flights arrivals &amp; departures in Nashville as of 5pm. That and more weather headlines @ 4pm #LiveOnFOX17 #FebruaryFreezeFox17
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 14:00:57 -0800
+location: Nashville, TN

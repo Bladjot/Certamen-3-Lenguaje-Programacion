@@ -1,0 +1,7 @@
+568996575617409026
+Delta
+@JetBlue says the person who hasn't been delayed for hours and now sitting on a runway with a wailing baby ;)
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 20:52:09 -0800
+location: nan

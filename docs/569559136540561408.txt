@@ -1,0 +1,7 @@
+569559136540561408
+Delta
+@JetBlue At what time?  All these passengers were sitting on a hot plane with no air and no communication for over 2 hours. Just wrong
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 10:07:34 -0800
+location: Long Island - Arizona

@@ -1,0 +1,7 @@
+568533372709908480
+Southwest
+@SouthwestAir I'm excited too, but perhaps you could scale your excitement back by a few weeks...
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 14:11:33 -0800
+location: Chicago

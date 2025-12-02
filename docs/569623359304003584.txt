@@ -1,0 +1,7 @@
+569623359304003584
+US Airways
+@USAirways horrible cust service exp at DIA today. Wife waited 3 hrs on the plane b/f flight 695 was Cancelled Flightled. Still waiting for bags.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:22:46 -0800
+location: nan

@@ -1,0 +1,7 @@
+568592695699976192
+US Airways
+@USAirways  #USAirways disappoints AGAIN! #Cancelled Flighted flights #Missed appointments #Promised refund is a lie
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 18:07:17 -0800
+location: nan

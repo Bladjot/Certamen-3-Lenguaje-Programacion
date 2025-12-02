@@ -1,0 +1,7 @@
+570286882623369217
+United
+@united How does United refuse to reissue a $400 lost voucher when their plane didn't take off due to mechanics? #badcustomerservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 10:19:22 -0800
+location: USA

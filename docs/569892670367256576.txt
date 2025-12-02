@@ -1,0 +1,7 @@
+569892670367256576
+American
+@AmericanAir thank you for responding rather quickly btw
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 08:12:55 -0800
+location: Chicago,IL

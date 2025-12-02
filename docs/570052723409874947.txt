@@ -1,0 +1,7 @@
+570052723409874947
+American
+@AmericanAir @Rizzilient After days, I finally got the automated service to call me back but it hung on me! This is beyond ridicules.  help!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 18:48:54 -0800
+location: nan

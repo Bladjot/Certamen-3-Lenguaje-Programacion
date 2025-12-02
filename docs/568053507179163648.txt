@@ -1,0 +1,7 @@
+568053507179163648
+US Airways
+@USAirways How long does it take to receive ticket # from @AmericanAir for itin booked via http://t.co/79waJk7EyT on US flights?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 06:24:44 -0800
+location: South Carolina

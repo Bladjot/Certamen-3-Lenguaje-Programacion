@@ -1,0 +1,7 @@
+569886612538023936
+American
+@AmericanAir got off the phone w/ rep now flight has disappeared. Locator IRRLCD she said I was rescheduled. Help please.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 07:48:51 -0800
+location: nan

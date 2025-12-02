@@ -1,0 +1,7 @@
+568492682152189952
+Virgin America
+@VirginAmerica partners with @Visa Checkout as mobile payment method to help boost mobile conversion rates #etailwest #payments #visa
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 11:29:52 -0800
+location: new york

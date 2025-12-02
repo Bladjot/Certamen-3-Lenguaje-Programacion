@@ -1,0 +1,7 @@
+569671413671591937
+US Airways
+@USAirways your service at PHL is abysmal. An hour on the runway waiting for a gate, no information anywhere, missed my connection abysmal!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:33:43 -0800
+location: New York

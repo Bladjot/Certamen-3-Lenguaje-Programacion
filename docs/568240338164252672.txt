@@ -1,0 +1,7 @@
+568240338164252672
+Delta
+@JetBlue What happened w/#19 from BOS-SAN? My mother is onboard &amp; the crew was evasive as to why they had to return to BOS the first time.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 18:47:08 -0800
+location: Waltham, MA

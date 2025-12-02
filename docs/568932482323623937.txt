@@ -1,0 +1,7 @@
+568932482323623937
+United
+@united "Dear Ted. We don't care about you nor the Mileage Plus Card you pay a lot for. Bye bye. -- United"
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 16:37:28 -0800
+location: nan

@@ -1,0 +1,7 @@
+569204692401590273
+Southwest
+@SouthwestAir there's a current Cancelled Flightlation in Indianapolis, my girlfriend is stranded. Any ideas, or help you can provide?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 10:39:08 -0800
+location: nan

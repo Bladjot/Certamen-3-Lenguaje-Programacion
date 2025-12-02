@@ -1,0 +1,7 @@
+568526809387544576
+US Airways
+@USAirways this is going to take up to an hour--not okay USAir. Not okay. This is ruining everything.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 13:45:28 -0800
+location: Paradise Falls

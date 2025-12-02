@@ -1,0 +1,7 @@
+567802937394655232
+Southwest
+@SouthwestAir think you need to follow me for a DM
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 13:49:04 -0800
+location: nan

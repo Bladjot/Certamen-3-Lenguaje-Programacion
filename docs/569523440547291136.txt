@@ -1,0 +1,7 @@
+569523440547291136
+United
+.@united Our newest delay, right now http://t.co/96fTLZWtvO
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 07:45:44 -0800
+location: nan

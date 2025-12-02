@@ -1,0 +1,7 @@
+569671231001092096
+Delta
+@JetBlue @julesdameron "Considering?" #Accessibility is an absolute MUST! #Equality
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:33:00 -0800
+location: nan

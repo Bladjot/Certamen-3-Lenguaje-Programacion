@@ -1,0 +1,7 @@
+569856109613166593
+United
+@united they're not, actually. gate agent was so rude. now standing in a line waiting for reFlight Booking Problems. missed the only flight to STI. awful.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 05:47:38 -0800
+location: chicago

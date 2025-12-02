@@ -1,0 +1,7 @@
+569645294708609025
+American
+.@AmericanAir ReFlight Booking Problems for the following day is unacceptable. DMing you that and our phone number.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 15:49:56 -0800
+location: New York City

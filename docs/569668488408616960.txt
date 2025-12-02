@@ -1,0 +1,7 @@
+569668488408616960
+United
+@united Appreciated, but in this case we waited an extra 55 minutes for a lost mechanic to fax the log. Fax...like in the 80s.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:22:06 -0800
+location: Mexico City

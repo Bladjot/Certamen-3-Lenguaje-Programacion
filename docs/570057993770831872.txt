@@ -1,0 +1,7 @@
+570057993770831872
+American
+@AmericanAir LITERALLY just told me they'd rather have an empty seat than my mom get to come earlier &amp; take me to Dr. appointment. WOW
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 19:09:51 -0800
+location: Los Angeles, CA

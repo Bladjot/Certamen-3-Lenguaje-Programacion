@@ -1,0 +1,7 @@
+568543965026390016
+Southwest
+@SouthwestAir iPhone App Adds Passbook Support #Airlines #Travel http://t.co/lJzDTHD9Bv
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 14:53:38 -0800
+location: nan

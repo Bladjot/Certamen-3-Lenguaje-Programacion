@@ -1,0 +1,7 @@
+570110504254857217
+US Airways
+@USAirways : You Make the Reservation; We'll Make the Excuses! #usairwaysfail
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 22:38:31 -0800
+location: nan

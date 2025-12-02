@@ -1,0 +1,7 @@
+569185842876571648
+United
+@united Total BS.have 1st class seats for connecting flight. Your crew Late Flight. We miss connection. Had next plane. Yet u don't honor it??
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 09:24:14 -0800
+location: Ontario, Canada

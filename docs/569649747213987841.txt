@@ -1,0 +1,7 @@
+569649747213987841
+American
+@AmericanAir today's wait was a violation of #dot #passengerbillofrights http://t.co/GxvFumn3iZ
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 16:07:37 -0800
+location: nan

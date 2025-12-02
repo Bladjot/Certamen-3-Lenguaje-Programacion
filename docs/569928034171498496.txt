@@ -1,0 +1,7 @@
+569928034171498496
+United
+@united from MEX NRT (dates TBD) but I'm getting a 200 to 300 USD difference in my quotations through September when compared to MEX BKK
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:33:26 -0800
+location: Mexico City

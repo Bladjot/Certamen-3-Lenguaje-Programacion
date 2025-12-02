@@ -1,0 +1,7 @@
+569663577226915840
+American
+@AmericanAir i have tried getting help from agents, the phone, twitter, and FB. Can no one at American Airlines help me?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:02:35 -0800
+location: KY

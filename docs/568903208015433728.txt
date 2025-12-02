@@ -1,0 +1,7 @@
+568903208015433728
+US Airways
+@USAirways it MIGHT have went through. No confirmation. "Please wait" then same form.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 14:41:09 -0800
+location: nan

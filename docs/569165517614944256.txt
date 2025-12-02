@@ -1,0 +1,7 @@
+569165517614944256
+US Airways
+@usairways - thanks for the 5+ hour flight from PIT to PHX with zero entertainment. Guess why I have a quarter million + miles on Delta
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 08:03:28 -0800
+location: Wexford, PA

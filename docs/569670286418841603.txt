@@ -1,0 +1,7 @@
+569670286418841603
+American
+@AmericanAir no worries even though I was talking about seat assignment :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:29:14 -0800
+location: O.K.C.

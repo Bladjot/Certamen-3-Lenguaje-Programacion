@@ -1,0 +1,7 @@
+568644286306242561
+US Airways
+@USAirways I am following you now
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 21:32:17 -0800
+location: nan

@@ -1,0 +1,7 @@
+568387362239205376
+Delta
+@JetBlue flight 577  fll to sfo. No speed line even though I paid for it. No coffee on flight. and my non stop now has an unscheduled stop
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 04:31:21 -0800
+location: South Florida

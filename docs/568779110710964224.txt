@@ -1,0 +1,7 @@
+568779110710964224
+US Airways
+@USAirways why would you not give us the option to get off the plane instead of sit on it for an hour and a half when you knew at the gate
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 06:28:02 -0800
+location: On a beach

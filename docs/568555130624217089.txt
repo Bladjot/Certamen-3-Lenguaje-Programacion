@@ -1,0 +1,7 @@
+568555130624217089
+United
+@united service staff to is less than friendly!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 15:38:01 -0800
+location: Pursuit of Happiness

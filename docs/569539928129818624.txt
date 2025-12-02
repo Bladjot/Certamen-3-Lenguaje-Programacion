@@ -1,0 +1,7 @@
+569539928129818624
+Delta
+@JetBlue and have empty "help" desks
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 08:51:15 -0800
+location: austin

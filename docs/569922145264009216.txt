@@ -1,0 +1,7 @@
+569922145264009216
+United
+@united there are a lot of unhappy cold people on the bridge in freezing temps for an hour. Not given any info.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 10:10:02 -0800
+location: CT, NY and most other states

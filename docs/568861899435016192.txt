@@ -1,0 +1,7 @@
+568861899435016192
+US Airways
+@USAirways - Check-in staff at PHX are awesome! Great traffic control for general boarding.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 11:57:00 -0800
+location: Phoenix, AZ

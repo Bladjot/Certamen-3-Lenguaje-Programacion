@@ -1,0 +1,7 @@
+568970344154836993
+Delta
+@JetBlue flight 1183 to Orlando.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 19:07:55 -0800
+location: Central Perk

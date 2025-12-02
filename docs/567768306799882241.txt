@@ -1,0 +1,7 @@
+567768306799882241
+Delta
+@JetBlue 2:55 tomorrow from RIC to BOS. Looking good or am I better rescheduling?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 11:31:27 -0800
+location: Jamestown Virginia

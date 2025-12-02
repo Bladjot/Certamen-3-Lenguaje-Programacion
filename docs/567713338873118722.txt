@@ -1,0 +1,7 @@
+567713338873118722
+Southwest
+@SouthwestAir thanks do yall expect to be operational tomorrow out of Nashville?
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 07:53:02 -0800
+location: Nashville,TN

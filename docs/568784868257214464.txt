@@ -1,0 +1,7 @@
+568784868257214464
+Delta
+@JetBlue beautiful ride. Thanks again:)
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 06:50:54 -0800
+location: East Greenwich,RI

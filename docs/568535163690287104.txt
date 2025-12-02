@@ -1,0 +1,7 @@
+568535163690287104
+US Airways
+@USAirways do you post travel alerts on your website? Traveling to Bdl on Sunday morning.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 14:18:40 -0800
+location: nan

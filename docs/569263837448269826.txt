@@ -1,0 +1,7 @@
+569263837448269826
+Virgin America
+@VirginAmerica you stink. Flight Cancelled Flighted from PSP to JFK and no notification or ability to rebook #disappointed.  #expected better
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 14:34:09 -0800
+location: New York City

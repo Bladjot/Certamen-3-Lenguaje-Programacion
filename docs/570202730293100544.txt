@@ -1,0 +1,7 @@
+570202730293100544
+American
+@AmericanAir but not sufficiently sorry to actually *do* anything about it, I guess. Your systems are presumably beyond reproach or reform.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 04:44:59 -0800
+location: SR2

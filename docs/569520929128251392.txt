@@ -1,0 +1,7 @@
+569520929128251392
+Southwest
+@SouthwestAir Although the wait was long due to weather r/scheduling, a phone call and super rep solved the issue! Thank you!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 07:35:45 -0800
+location: Upstate New York

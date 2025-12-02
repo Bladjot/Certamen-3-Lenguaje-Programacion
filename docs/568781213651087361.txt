@@ -1,0 +1,7 @@
+568781213651087361
+United
+@united education of that staff is needed - he also turned away other first class cabin passengers with mileage plus.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 06:36:23 -0800
+location: Chicago, IL

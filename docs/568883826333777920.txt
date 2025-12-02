@@ -1,0 +1,7 @@
+568883826333777920
+US Airways
+@USAirways @AmericanAir who runs the show at the airport have a boarding pass says us airways and I have to wait in American line #yousuck
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 13:24:08 -0800
+location: Stamford, Ct

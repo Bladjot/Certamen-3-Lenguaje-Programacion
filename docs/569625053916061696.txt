@@ -1,0 +1,7 @@
+569625053916061696
+US Airways
+@USAirways provided the best service for me today! Thank you so much :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 14:29:30 -0800
+location: Tampa

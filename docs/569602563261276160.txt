@@ -1,0 +1,7 @@
+569602563261276160
+American
+@AmericanAir @russelneiss No, American. This is simple. How about YOU call HER back with the info for her new flight. Basic customer service
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:00:08 -0800
+location: Pekin

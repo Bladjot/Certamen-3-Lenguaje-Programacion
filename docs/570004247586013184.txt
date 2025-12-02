@@ -1,0 +1,7 @@
+570004247586013184
+United
+@united I am signed up for notifications. This is the first trip I was not updated on. Not sure why this happened.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 15:36:17 -0800
+location: nan

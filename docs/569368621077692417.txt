@@ -1,0 +1,7 @@
+569368621077692417
+United
+@united - not only 2 hour delay - double booked seat nit parked at wrong gate - incompetence at its finest - been waiting  for over 1 hr
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 21:30:32 -0800
+location: USA

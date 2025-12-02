@@ -1,0 +1,7 @@
+570264292169162752
+Southwest
+@SouthwestAir Barzegar charges tourists 700 euros [!] a night for their stay in the tent village he runs. http://t.co/igSVzvrbbN
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:49:36 -0800
+location: nan

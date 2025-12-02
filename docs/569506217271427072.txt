@@ -1,0 +1,7 @@
+569506217271427072
+Delta
+@JetBlue why don't YOU tell them to update the boards?!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 06:37:17 -0800
+location: New York City

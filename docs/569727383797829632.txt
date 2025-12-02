@@ -1,0 +1,7 @@
+569727383797829632
+American
+@AmericanAir Joanna did a WONDERFUL job!  Thank her for me?
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 21:16:07 -0800
+location: Madison, WI

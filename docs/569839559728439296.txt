@@ -1,0 +1,7 @@
+569839559728439296
+United
+@united and after being on hold for an hour the day before to sort it out and being told it's fine it should be fine when you arrive to fly
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 04:41:52 -0800
+location: ÜT: 50.97861,-114.000116

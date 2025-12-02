@@ -1,0 +1,7 @@
+567727490567639041
+Delta
+@JetBlue I have a internal bleed in my foot, and I am flying next Tuesday, what should I. Do :( these. Leeds come randomly. I
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 08:49:16 -0800
+location: Logan International Airport

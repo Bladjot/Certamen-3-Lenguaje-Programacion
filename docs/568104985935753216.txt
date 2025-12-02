@@ -1,0 +1,7 @@
+568104985935753216
+US Airways
+@USAirways must be nice to take your customer service phone off the hook! #fendforyourself
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 09:49:18 -0800
+location: Palm Springs, CA

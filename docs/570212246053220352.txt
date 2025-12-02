@@ -1,0 +1,7 @@
+570212246053220352
+United
+@united we were not given the option of using our United TravelBank in a recent Flight Booking Problems! Any help in using or recouping these funds? Thanks!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 05:22:48 -0800
+location: Southern California

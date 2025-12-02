@@ -1,0 +1,7 @@
+568871330495406080
+Delta
+@JetBlue messaged you, thanks
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 12:34:28 -0800
+location: New York

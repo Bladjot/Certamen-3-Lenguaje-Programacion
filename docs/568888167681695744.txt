@@ -1,0 +1,7 @@
+568888167681695744
+Delta
+@JetBlue thanks for your reply. It was flight 1572.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 13:41:23 -0800
+location: New York, NY

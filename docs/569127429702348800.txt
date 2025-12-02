@@ -1,0 +1,7 @@
+569127429702348800
+Southwest
+@SouthwestAir Cancelled Flightled my flight won't refund me and told me 2 call customer service n been holding for 30 minutes still waitin #BadService
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 05:32:07 -0800
+location: Omaha, NE

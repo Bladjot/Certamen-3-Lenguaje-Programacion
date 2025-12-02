@@ -1,0 +1,7 @@
+569851972645466112
+American
+@AmericanAir My flight 1108 was Cancelled Flightled. I need to be rebooked, and I can't do it online and they aren't answering calls. Help!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 05:31:12 -0800
+location: nan

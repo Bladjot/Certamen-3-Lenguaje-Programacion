@@ -1,0 +1,7 @@
+569946571577536512
+United
+@united 45+ min at EWR baggage claim #stillnobags #ridiculous
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 11:47:06 -0800
+location: nan

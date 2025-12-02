@@ -1,0 +1,7 @@
+568663147189415936
+Virgin America
+@virginAmerica Other carriers are less than half price for a round trip fare. I am stunned. http://t.co/UKdjjijroW
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 22:47:14 -0800
+location: San Francisco, CA

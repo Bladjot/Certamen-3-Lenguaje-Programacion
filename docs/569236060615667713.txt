@@ -1,0 +1,7 @@
+569236060615667713
+United
+@united I'm flying UA but *G with A3
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 12:43:47 -0800
+location: nan

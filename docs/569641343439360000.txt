@@ -1,0 +1,7 @@
+569641343439360000
+American
+@AmericanAir a phone call or email when you Cancelled Flight a flight would be lovely.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:34:14 -0800
+location: Arlington, VA

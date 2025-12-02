@@ -1,0 +1,7 @@
+569157073906176000
+Delta
+@JetBlue oh definitely. I kind of only fly JetBlue.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 07:29:55 -0800
+location: LA & Boston

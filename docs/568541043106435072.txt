@@ -1,0 +1,7 @@
+568541043106435072
+US Airways
+@USAirways please change direct flights from RIC to JFK instead of LGA. Pleeeeease! LGA is the pits.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 14:42:02 -0800
+location: Virginia

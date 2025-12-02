@@ -1,0 +1,7 @@
+567898269961101313
+US Airways
+@USAirways YOU ARE THE BEST AIRWAYS!!! FOLLOW ME PLEASE;)🙏🙏🙏✌️✌️✌️🙏🙏🙏
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 20:07:53 -0800
+location: Russia, Россия

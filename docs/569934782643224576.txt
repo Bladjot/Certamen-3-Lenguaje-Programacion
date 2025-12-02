@@ -1,0 +1,7 @@
+569934782643224576
+US Airways
+@USAirways sitting here in PHL with all of your rude Customer Service Agents!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:00:15 -0800
+location: nan

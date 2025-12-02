@@ -1,0 +1,7 @@
+568862787193081856
+Delta
+@JetBlue dang. Pandora? Does it look like it may get pushed back more or is this likely it?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 12:00:32 -0800
+location: Brooklyn, NY

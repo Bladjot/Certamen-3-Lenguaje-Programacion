@@ -1,0 +1,7 @@
+568764097015058432
+Southwest
+@SouthwestAir it is working on a different device, though. Any help is appreciated.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 05:28:22 -0800
+location: nan

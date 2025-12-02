@@ -1,0 +1,7 @@
+569933879299186688
+United
+@united Would be helpful if you could refresh boarding time info on boarding passes for delayed flights
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:56:40 -0800
+location: SF, CA

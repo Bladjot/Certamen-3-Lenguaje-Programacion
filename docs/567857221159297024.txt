@@ -1,0 +1,7 @@
+567857221159297024
+US Airways
+@USAirways flt 470 Tampa to CLT is very Late Flight gonna miss conn to BOS what can you do?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 17:24:46 -0800
+location: Nashua, NH

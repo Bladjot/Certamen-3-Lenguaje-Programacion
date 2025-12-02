@@ -1,0 +1,7 @@
+569724705063596032
+United
+@united does asap mean two hours worth of delay and a return to the terminal to count the luggage a third time? #gottogetbetter
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 21:05:29 -0800
+location: ÜT: 31.333857,-94.724549

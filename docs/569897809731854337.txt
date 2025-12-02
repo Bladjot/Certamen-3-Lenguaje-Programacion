@@ -1,0 +1,7 @@
+569897809731854337
+American
+@AmericanAir Howdy, having trouble getting rebooked after flight Cancelled Flightled. Can't get thru via phone and Web erroring out. Can you help?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 08:33:20 -0800
+location: nan

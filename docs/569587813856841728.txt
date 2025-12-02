@@ -1,0 +1,7 @@
+569587813856841728
+American
+“@AmericanAir: @TilleyMonsta George, that doesn't look good. Please follow this link to start the refund process: http://t.co/4gr39s91Dl”😂
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:01:31 -0800
+location: nan

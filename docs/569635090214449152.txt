@@ -1,0 +1,7 @@
+569635090214449152
+United
+@united your gate attendant had some snobby remarks, your customer service is like playing poker with my sisters kids!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 15:09:23 -0800
+location: Corpus Christi

@@ -1,0 +1,7 @@
+569621883282280448
+American
+@AmericanAir AA2416 on time and awesome flight. Great job American!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 14:16:54 -0800
+location: nan

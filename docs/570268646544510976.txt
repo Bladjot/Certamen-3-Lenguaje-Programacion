@@ -1,0 +1,7 @@
+570268646544510976
+American
+@AmericanAir It is now going to be reported to the police due to the sexual assult sad that you didn't care
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 09:06:55 -0800
+location: Belle MO

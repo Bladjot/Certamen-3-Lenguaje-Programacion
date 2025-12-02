@@ -1,0 +1,7 @@
+570271205300703232
+United
+@united your announcement for pre boarding only addresses mobility. My disability requires me to travel with a lot of stuff. Do I preboard?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:17:05 -0800
+location: nan

@@ -1,0 +1,7 @@
+568326927695491072
+Southwest
+@SouthwestAir Flt 463 San Jose, CA -&gt; Denver, CO. Delayed 2 hrs but easily best flight + touchdown in all my years flying. Keep it up!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 00:31:13 -0800
+location: Denver, CO. USA

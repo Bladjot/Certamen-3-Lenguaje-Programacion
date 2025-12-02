@@ -1,0 +1,7 @@
+569411383265075203
+United
+@united new 737 plane; wifi: not working. Entertainment: non existent. New Seats: seriously uncomfortable. Really? #unitedfail UA1550
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 00:20:27 -0800
+location: San Francisco

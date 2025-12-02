@@ -1,0 +1,7 @@
+569217342380445696
+US Airways
+@USAirways @AmericanAir WHERE IS MY BAG ?#SOS ITIS BEING LOST FOR MORE THAN 24 HOURS ! #POORCUSTUMERSERVICE
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 11:29:24 -0800
+location: GLOBAL CITIZEN

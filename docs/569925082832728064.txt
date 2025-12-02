@@ -1,0 +1,7 @@
+569925082832728064
+Delta
+Bruh...real tweet from @JetBlue "Our fleet's on fleek. http://t.co/dqny4aKTg9"
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:21:43 -0800
+location: USA

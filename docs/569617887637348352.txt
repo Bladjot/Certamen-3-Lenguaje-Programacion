@@ -1,0 +1,7 @@
+569617887637348352
+American
+@AmericanAir really American Airlines , service is Las Vegas is shocking, absolute jokers take your reputation more seriously!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:01:02 -0800
+location: nan

@@ -1,0 +1,7 @@
+568962582934978562
+United
+@united passengers seated, crew ready #WheresThePilot? Flt1088 from ORD. Hope he isn't at the bar.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 18:37:05 -0800
+location: San Diego

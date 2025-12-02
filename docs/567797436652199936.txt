@@ -1,0 +1,8 @@
+567797436652199936
+Delta
+@JetBlue 
+But if customer service ment anything to you.... you would try. Quoting policy is never effective customer service.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 13:27:12 -0800
+location: Florida, USA

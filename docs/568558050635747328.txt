@@ -1,0 +1,7 @@
+568558050635747328
+United
+@united are you telling me that you are now Cancelled Flighting my flight ??
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 15:49:37 -0800
+location: nan

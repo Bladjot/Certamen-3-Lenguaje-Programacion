@@ -1,0 +1,7 @@
+568908255310827520
+Delta
+@JetBlue Thanks. Which day of the week is the direct?  The flights I saw went thru JFK   ☀️
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 15:01:12 -0800
+location: shopping. anywhere

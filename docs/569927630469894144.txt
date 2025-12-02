@@ -1,0 +1,7 @@
+569927630469894144
+United
+@united is there a United gold number? I've been on hold 24 minutes and think I may be lost in nowhereland. Have a gold reservation. Help.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:31:50 -0800
+location: Rochester, NY

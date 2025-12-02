@@ -1,0 +1,7 @@
+569463954155700224
+US Airways
+@USAirways We've been on hold for over 7 hours after my wife's flight was Cancelled Flighted.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 03:49:21 -0800
+location: nan

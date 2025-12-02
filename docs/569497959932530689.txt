@@ -1,0 +1,7 @@
+569497959932530689
+Delta
+@JetBlue ok should I start looking into other flights?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 06:04:29 -0800
+location: nan

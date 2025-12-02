@@ -1,0 +1,7 @@
+568809330151022592
+Delta
+@JetBlue's CEO battles to appease passengers and Wall Street - Waterbury Republican American http://t.co/D1eRGPdWsJ
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 08:28:06 -0800
+location: UK

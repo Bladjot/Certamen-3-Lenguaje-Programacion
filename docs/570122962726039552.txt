@@ -1,0 +1,7 @@
+570122962726039552
+American
+@AmericanAir *does = doesn't
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 23:28:01 -0800
+location: Houston

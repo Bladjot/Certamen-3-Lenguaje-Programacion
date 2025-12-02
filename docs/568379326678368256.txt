@@ -1,0 +1,7 @@
+568379326678368256
+United
+@united Thank you!! 😊
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 03:59:26 -0800
+location: Monterrey

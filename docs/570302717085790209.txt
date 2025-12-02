@@ -1,0 +1,7 @@
+570302717085790209
+US Airways
+@USAirways thanks 4 making it impossibly expensive 2 change 2 a flight leaving less than 24 hrs earlier than my reservation #1lesscustomer
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 11:22:18 -0800
+location: nan

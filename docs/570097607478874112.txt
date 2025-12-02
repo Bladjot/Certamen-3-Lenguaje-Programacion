@@ -1,0 +1,7 @@
+570097607478874112
+Southwest
+@SouthwestAir you need to redeem yourself. I lost respect for you tonight #lostbags #filmjobnoequipment
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 21:47:16 -0800
+location: South Florida

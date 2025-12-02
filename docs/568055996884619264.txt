@@ -1,0 +1,7 @@
+568055996884619264
+Southwest
+@SouthwestAir looking for cheap flight to vegas
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 06:34:38 -0800
+location: nan

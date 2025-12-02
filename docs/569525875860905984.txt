@@ -1,0 +1,7 @@
+569525875860905984
+Delta
+@JetBlue That's not what I heard. Weather was fine this morning. Flight 136 was circling for some time.Someone forgot to clean the runway.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 07:55:24 -0800
+location: Long Island - Arizona

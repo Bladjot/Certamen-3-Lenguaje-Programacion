@@ -1,0 +1,7 @@
+567909106553483264
+US Airways
+@USAirways of course never again tho . Thanks for tweetin ur concern but not Doin anythin to fix what happened. I'll choose wiser next time
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 20:50:56 -0800
+location: nan

@@ -1,0 +1,7 @@
+569700953164615681
+American
+@AmericanAir why are you still selling tickets when you haven't rebooked people to arrive at their destinations on time?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 19:31:06 -0800
+location: Portland, Orygun

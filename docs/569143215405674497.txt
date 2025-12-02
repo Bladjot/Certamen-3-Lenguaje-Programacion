@@ -1,0 +1,7 @@
+569143215405674497
+Southwest
+@SouthwestAir Can I book a flight on my own and get reimbursed by you?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 06:34:51 -0800
+location: Ohio

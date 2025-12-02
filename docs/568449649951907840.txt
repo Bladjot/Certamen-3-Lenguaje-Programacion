@@ -1,0 +1,7 @@
+568449649951907840
+US Airways
+@USAirways @CakeNDeath Question is will he and his lady behave...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 08:38:52 -0800
+location: Philadelphia

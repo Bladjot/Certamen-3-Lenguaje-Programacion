@@ -1,0 +1,7 @@
+568215154569166848
+United
+@united we had a wonderful flight attendant named Leah that was with us from lga to den, then den to anchorage!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 17:07:04 -0800
+location: Staten Island, NY

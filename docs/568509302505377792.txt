@@ -1,0 +1,7 @@
+568509302505377792
+Delta
+@JetBlue Crisis averted! Flight #69 from BOS to FLL is boarding. Let's hope the new pilots aren't Clarence Oveur and Roger Murdock. :-)
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 12:35:54 -0800
+location: South Florida

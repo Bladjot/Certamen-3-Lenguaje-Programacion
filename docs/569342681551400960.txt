@@ -1,0 +1,7 @@
+569342681551400960
+US Airways
+@USAirways please help on hold 3 hours can't change flights I'm stuck here
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 19:47:27 -0800
+location: NYC

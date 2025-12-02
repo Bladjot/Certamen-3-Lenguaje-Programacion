@@ -1,0 +1,7 @@
+570188934564737024
+United
+@united checking to see why flight 3466 (atl-ord) got Cancelled Flighted?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 03:50:10 -0800
+location: nan

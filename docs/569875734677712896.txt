@@ -1,0 +1,7 @@
+569875734677712896
+United
+@united 2nd flight in two weeks that you have lost my bag!  Taking my 1K status to @AmericanAir #neveragain #WORSTCUSTOMERSERVICE
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 07:05:37 -0800
+location: Maui, Hawaii

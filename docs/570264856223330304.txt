@@ -1,0 +1,7 @@
+570264856223330304
+Southwest
+@SouthwestAir do you know that your lost baggage portal http://t.co/hUcLXluV5h doesn't work on mobile? It's a 404 http://t.co/O4ZR27Qpcr
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 08:51:51 -0800
+location: Los Angeles, CA

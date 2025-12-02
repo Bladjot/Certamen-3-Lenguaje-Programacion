@@ -1,0 +1,7 @@
+569538770808266754
+United
+@united so? Found anything or just showing off? You do realise that the morning flight that you Cancelled Flightled was more pricey than the evening?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 08:46:39 -0800
+location: London

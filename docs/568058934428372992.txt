@@ -1,0 +1,7 @@
+568058934428372992
+United
+@united Great, thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 06:46:18 -0800
+location: nan

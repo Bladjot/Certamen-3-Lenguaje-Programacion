@@ -1,0 +1,7 @@
+567776364351074304
+US Airways
+@USAirways please please please let my plane back to the gate so I can get off as I will miss connection due to CLT closing. 2034
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 12:03:28 -0800
+location: Washington, DC

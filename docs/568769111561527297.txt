@@ -1,0 +1,7 @@
+568769111561527297
+US Airways
+@USAirways Paid for a Choice Seat my Choice is to NOT have big man next to me in my seat, too. #oldseatnocushion #worstflight #nohelponboard
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 05:48:18 -0800
+location: Flying Giraffe Travel

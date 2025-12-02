@@ -1,0 +1,7 @@
+568556238012678144
+United
+“@united: @SonyaSloanMD Happy to have had you on board. Please share details here: http://t.co/2TrgEMteBZ ^KP” Done!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 15:42:25 -0800
+location: Houston, TX, USA

@@ -1,0 +1,7 @@
+569520712379052032
+United
+@united DM'ed you
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 07:34:53 -0800
+location: Fredericksburg, VA

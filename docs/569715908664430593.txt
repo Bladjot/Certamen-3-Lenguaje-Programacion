@@ -1,0 +1,7 @@
+569715908664430593
+American
+@AmericanAir flights out of Dallas on Tuesday are not going to be Cancelled Flightled correct?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 20:30:32 -0800
+location: Dallas | Los Angeles

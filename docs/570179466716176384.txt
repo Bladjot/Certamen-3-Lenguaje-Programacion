@@ -1,0 +1,7 @@
+570179466716176384
+Delta
+@JetBlue haha. TY. Do you know what time that lane opens at Logan?
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 03:12:32 -0800
+location: Logan International Airport

@@ -1,0 +1,7 @@
+569703417628770304
+American
+@AmericanAir what are the odds my bag was picked up by someone not me while in another country? Because it says it hasn't been located yet.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 19:40:53 -0800
+location: nan

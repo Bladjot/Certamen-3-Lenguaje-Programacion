@@ -1,0 +1,7 @@
+569587140490866689
+American
+@AmericanAir we have 8 ppl so we need 2 know how many seats are on the next flight. Plz put us on standby for 4 people on the next flight?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 11:58:51 -0800
+location: dallas, TX

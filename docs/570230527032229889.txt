@@ -1,0 +1,7 @@
+570230527032229889
+US Airways
+@USAirways Your policy needs a serious revision for babies.  Fortunately I have choices and choose @Southwest from here on out.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 06:35:26 -0800
+location: Hudson Valley, NY

@@ -1,0 +1,7 @@
+567806843310907392
+Southwest
+@southwestair #fattuesday Great job celebrating #mardigras today at Atlanta Airport. Another reason I'm nuts for you! http://t.co/8WBzOrRn3C
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 14:04:35 -0800
+location: http://goo.gl/eZTfG

@@ -1,0 +1,7 @@
+569698882797641728
+US Airways
+@USAirways Thanks for ruining my last night of vacation because I have to worry about my flight because y'all don't have record of it
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 19:22:52 -0800
+location: Michigan ➡️ Florida

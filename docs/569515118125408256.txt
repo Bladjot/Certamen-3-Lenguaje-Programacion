@@ -1,0 +1,7 @@
+569515118125408256
+United
+@united thank you for fully boarding flight 1689 this morning before noticing we had no pilots. #fail
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 07:12:39 -0800
+location: New York, NY

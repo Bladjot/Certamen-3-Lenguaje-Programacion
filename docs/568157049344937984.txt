@@ -1,0 +1,7 @@
+568157049344937984
+United
+@united I had to change airports to actually get a flight out when my flight from FAY was Cancelled Flightled twice. $180 taxi ride to RDU--reimburse?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 13:16:11 -0800
+location: Texas, USA

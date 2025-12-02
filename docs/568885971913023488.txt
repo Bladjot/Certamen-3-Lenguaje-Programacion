@@ -1,0 +1,7 @@
+568885971913023488
+Southwest
+@SouthwestAir okaaaaay UGH IM 8 MIN AWAY
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 13:32:39 -0800
+location: TX | CA

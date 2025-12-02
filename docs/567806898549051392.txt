@@ -1,0 +1,7 @@
+567806898549051392
+United
+@united yes still need assistance I don't have a flight home due to change in flight u made I miss all connections !
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 14:04:48 -0800
+location: Nova Scotia

@@ -1,0 +1,7 @@
+569626882053787649
+US Airways
+@USAirways epic fail @ CLT ystrdy w/Cancelled Flightled flights. No staff, no communication &amp; no refund for unused portion of tix. Keep it classy guys
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 14:36:46 -0800
+location: nan

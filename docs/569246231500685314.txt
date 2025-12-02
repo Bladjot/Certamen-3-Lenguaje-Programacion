@@ -1,0 +1,7 @@
+569246231500685314
+US Airways
+@USAirways to a booked hotel for the night so I had to find him a room at midnight. Then say his bags will be on the plane, but can't (2/3)
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 13:24:12 -0800
+location: Asheville, NC

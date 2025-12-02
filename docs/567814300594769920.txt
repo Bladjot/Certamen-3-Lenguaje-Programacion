@@ -1,0 +1,7 @@
+567814300594769920
+Southwest
+@SouthwestAir Thank you. I know ya'll can't control the weather. I appreciate ya'll working to get my flight rebooked the last two days.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 14:34:13 -0800
+location: nan

@@ -1,0 +1,7 @@
+568488247514554369
+Delta
+@JetBlue actually they said the fraud issue was never resolved. but why then did they issue me a new ticket of the phone?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 11:12:14 -0800
+location: nan

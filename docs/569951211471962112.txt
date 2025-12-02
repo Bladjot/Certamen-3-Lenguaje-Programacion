@@ -1,0 +1,7 @@
+569951211471962112
+Delta
+@JetBlue shows us their sense of humor with these tongue-in-cheek flight etiquette videos: http://t.co/GGuAA1JvDF
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 12:05:32 -0800
+location: nan

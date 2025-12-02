@@ -1,0 +1,7 @@
+570192105752039427
+Southwest
+@SouthwestAir darn! I bought it on the wrong device! No way to switch I'm sure?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 04:02:46 -0800
+location: Hopatcong, NJ

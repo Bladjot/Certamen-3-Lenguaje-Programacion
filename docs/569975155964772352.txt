@@ -1,0 +1,7 @@
+569975155964772352
+Southwest
+@SouthwestAir that was supposed to say "boo" not book. booo.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:40:41 -0800
+location: nan

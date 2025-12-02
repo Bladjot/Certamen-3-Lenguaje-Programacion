@@ -1,0 +1,7 @@
+569606374591746050
+American
+@AmericanAir since we are leaving tomorrow to miami can you do one thing right and deliver the bags to the airport?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 13:15:17 -0800
+location: nan

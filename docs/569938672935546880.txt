@@ -1,0 +1,7 @@
+569938672935546880
+US Airways
+@USAirways is charging me $200 to NOT take my flight. Lol. That is the last time I fly with them.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 11:15:43 -0800
+location: Los Angeles, CA

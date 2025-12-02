@@ -1,0 +1,7 @@
+570050323017920512
+United
+@united the aircraft closest to gate was for the other flight and the one closest to our gate was going to Chicago.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 18:39:22 -0800
+location: San Francisco

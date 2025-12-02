@@ -1,0 +1,7 @@
+568070338438963200
+United
+@united This is with regard to a flight from a couple weeks ago. I'm very frustrated with your policies &amp; expressing that.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 07:31:37 -0800
+location: nan

@@ -1,0 +1,7 @@
+569597072350978048
+American
+@AmericanAir I DMed you my AA &amp; phone #s &amp; you can't have someone call me? What was the point of your response? You didn't resolve anything!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:38:19 -0800
+location: Dallas, TX

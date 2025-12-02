@@ -1,0 +1,7 @@
+569584431544971264
+Southwest
+@SouthwestAir how can I check to see if my flight to NYC is expected to be delayed or Cancelled Flightled for this Tuesday?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 11:48:05 -0800
+location: Texas

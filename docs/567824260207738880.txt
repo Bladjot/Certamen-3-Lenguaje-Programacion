@@ -1,0 +1,7 @@
+567824260207738880
+Delta
+@JetBlue so happy you can accommodate peanut/treenut allergies on flight! 1st online cover from air provider
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 15:13:47 -0800
+location: nan

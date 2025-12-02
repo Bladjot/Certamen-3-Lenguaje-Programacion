@@ -1,0 +1,7 @@
+570193307139239936
+American
+@AmericanAir That’s a rather clunky process. Whoever designed that clearly doesn’t understand e-mail 101.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 04:07:32 -0800
+location: Wichita, Kansas

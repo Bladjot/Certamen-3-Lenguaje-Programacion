@@ -1,0 +1,7 @@
+570135402306080768
+American
+@AmericanAir terror story my luggage was delayed both ways on an international flight for over 5 days total #angrycustomer
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 00:17:27 -0800
+location: North Hollywood

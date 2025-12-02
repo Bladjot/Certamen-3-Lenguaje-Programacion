@@ -1,0 +1,7 @@
+570250252382416896
+Southwest
+@SouthwestAir traditionally used sledge hammer - low $ taking share from driving | now scalpel approach through data science  #ANAmarketers
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 07:53:49 -0800
+location: Austin, Texas

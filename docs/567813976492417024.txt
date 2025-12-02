@@ -1,0 +1,7 @@
+567813976492417024
+Southwest
+@SouthwestAir can you make a premium wifi that I can pay $30 for that is decent? #slow-fi
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 14:32:56 -0800
+location: Oakdale, CA

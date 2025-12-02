@@ -1,0 +1,7 @@
+569845041440677888
+American
+@AmericanAir  help. Flight to Dallas was Cancelled Flightled this morning from cle. on hold for  3 hours. Need to be booked on next flight out.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 05:03:39 -0800
+location: nan

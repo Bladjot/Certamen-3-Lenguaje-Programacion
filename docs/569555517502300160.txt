@@ -1,0 +1,7 @@
+569555517502300160
+US Airways
+@USAirways might possibly be THE WORST airline ever! I think it's time to brush up on customer service! #sorude
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 09:53:11 -0800
+location: nan

@@ -1,0 +1,7 @@
+569209016276004864
+Southwest
+@SouthwestAir follow for a DM please. Need to confirm a Cancelled Flighted reservation
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 10:56:19 -0800
+location: nan

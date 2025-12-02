@@ -1,0 +1,7 @@
+570257935911096320
+American
+@AmericanAir I'm sure they did. It's certainly chilly back East today! 😮
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:24:21 -0800
+location: United States of America

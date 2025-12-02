@@ -1,0 +1,7 @@
+568782673587658752
+US Airways
+@USAirways it would be nice to just pull up to the gate. Still sitting here
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 06:42:11 -0800
+location: Nantucket

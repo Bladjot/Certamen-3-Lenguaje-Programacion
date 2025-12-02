@@ -1,0 +1,7 @@
+570007995813273600
+Delta
+Stop. Please. RT @JetBlue: Our fleet's on fleek. http://t.co/EUl6sDURbU
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 15:51:11 -0800
+location: Houston, TX

@@ -1,0 +1,7 @@
+568787202341081088
+United
+@united or you'll Cancelled Flight my flight like you just did
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 07:00:11 -0800
+location: Red Bank, NJ

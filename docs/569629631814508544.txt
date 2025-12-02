@@ -1,0 +1,7 @@
+569629631814508544
+US Airways
+@USAirways hello! I never received a confirmation code for my flights (though they are confirmed--so says the automated reply). Any ideas?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 14:47:42 -0800
+location: Tuscaloosa, Alabama

@@ -1,0 +1,7 @@
+569210743133831168
+US Airways
+@USAirways #SOS WHERE IS MY BAG ?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 11:03:11 -0800
+location: GLOBAL CITIZEN

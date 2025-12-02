@@ -1,0 +1,7 @@
+569693551589756928
+American
+@AmericanAir AA45 ... JFK to LAS.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 19:01:41 -0800
+location: Boston

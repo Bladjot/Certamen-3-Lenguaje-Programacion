@@ -1,0 +1,7 @@
+568695647202717696
+United
+@united I'll be impressed if I actually get a response! 😜
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 00:56:22 -0800
+location: Los Angeles, CA

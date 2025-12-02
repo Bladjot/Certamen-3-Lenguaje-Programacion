@@ -1,0 +1,7 @@
+569881035682521088
+Southwest
+@SouthwestAir unveils 4 new routes, including  2 from #Ohio http://t.co/4uRzvBPJKO via @usatoday
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:26:41 -0800
+location: nan

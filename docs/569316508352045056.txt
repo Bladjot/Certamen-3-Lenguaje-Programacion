@@ -1,0 +1,7 @@
+569316508352045056
+United
+@united more and more delays! No CS help at all! No notifications!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 18:03:27 -0800
+location: Chicago, IL

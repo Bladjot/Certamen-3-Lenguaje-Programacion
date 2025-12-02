@@ -1,0 +1,7 @@
+568955862124863488
+United
+@united Don't know her last name, but Karen at your call center is terrific.  Friendly, helpful.  Terrific representative. Kudos.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 18:10:22 -0800
+location: Omaha, Nebraska

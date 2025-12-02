@@ -1,0 +1,7 @@
+569468659648872448
+US Airways
+@USAirways truly been the worst experience this weekend. Delayed, rerouted 3x, now not boarding A 715 flight and says flight is "on time"
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 04:08:03 -0800
+location: Washington DC

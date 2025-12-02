@@ -1,0 +1,7 @@
+567782346833686528
+United
+@united Hi JH, my experience with United has been entirely disgusting but yes, I'd like assistance in getting compensated for my bag.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 12:27:15 -0800
+location: New York | Los Angeles

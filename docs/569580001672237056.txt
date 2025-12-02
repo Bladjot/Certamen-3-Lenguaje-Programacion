@@ -1,0 +1,7 @@
+569580001672237056
+Delta
+@JetBlue Awesome! #bestairlineever
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 11:30:29 -0800
+location: NYC

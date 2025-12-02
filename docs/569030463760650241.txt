@@ -1,0 +1,7 @@
+569030463760650241
+Southwest
+@SouthwestAir had a great LA flight with Clarence and Frank! Those 2 guys are a hoot! 😜😂 thanks
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 23:06:49 -0800
+location: New York

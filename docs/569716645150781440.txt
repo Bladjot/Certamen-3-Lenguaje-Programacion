@@ -1,0 +1,7 @@
+569716645150781440
+Delta
+@JetBlue is a joke. Missed my connecting flight by 5 minutes. Last flight of the day and they don't hold it.  5 minutes.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:33:27 -0800
+location: OP NY

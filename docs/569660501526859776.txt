@@ -1,0 +1,7 @@
+569660501526859776
+American
+@AmericanAir tomorrows flight Cancelled Flighted. I understand. Three hour wait for a call back and now 60 minutes on hold. Not cool.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:50:22 -0800
+location: nan

@@ -1,0 +1,7 @@
+569532566610571265
+Delta
+@JetBlue things happen it's ok just wish I was on the beach and not in the airport
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 08:21:59 -0800
+location: nan

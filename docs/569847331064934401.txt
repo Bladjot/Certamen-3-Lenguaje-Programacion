@@ -1,0 +1,7 @@
+569847331064934401
+American
+@AmericanAir is DFW accepting any arrivals or departures today?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 05:12:45 -0800
+location: Bentonville  Arkansas

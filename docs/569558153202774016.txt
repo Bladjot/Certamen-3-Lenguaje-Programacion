@@ -1,0 +1,7 @@
+569558153202774016
+US Airways
+@USAirways @TheHaileyTate Another blatant lie from @USAirways
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 10:03:40 -0800
+location: 39.0708° N, 106.9886° W

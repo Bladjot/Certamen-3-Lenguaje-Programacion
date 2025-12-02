@@ -1,0 +1,7 @@
+570215711416537088
+Southwest
+@SouthwestAir I "heart" Southwest but those commercials aimed to satisfy a nano-smattering of travelers to few destinations.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 05:36:34 -0800
+location: Kansas City

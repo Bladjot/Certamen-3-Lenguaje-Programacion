@@ -1,0 +1,7 @@
+569544730184261632
+United
+@united can you assign seats
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 09:10:19 -0800
+location: nan

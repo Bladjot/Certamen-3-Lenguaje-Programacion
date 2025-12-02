@@ -1,0 +1,7 @@
+568658885361438720
+Southwest
+@SouthwestAir would love to win tickets and take my son to Imagine Dragons in Provo Saturday night.  Crossed fingers. #DestinationDragons
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 22:30:18 -0800
+location: nan

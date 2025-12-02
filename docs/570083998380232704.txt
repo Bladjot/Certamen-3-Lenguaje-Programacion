@@ -1,0 +1,7 @@
+570083998380232704
+US Airways
+@USAirways  you took the miles out of my account and told me that I could restore by paying $150 or opening a credit card
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 20:53:11 -0800
+location: nan

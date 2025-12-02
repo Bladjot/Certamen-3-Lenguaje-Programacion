@@ -1,0 +1,7 @@
+569905559652012032
+US Airways
+@USAirways  Houston Gate 17 customer Service needs to treat people with respect. There are hardly people waiting! #chillpill #usairwaysfail
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 09:04:08 -0800
+location: Pennsylvania

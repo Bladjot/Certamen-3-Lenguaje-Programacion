@@ -1,0 +1,7 @@
+568171002208886784
+Delta
+@JetBlue Done! Also looks like you opened some up on my flight to Vegas on Sunday! 💙
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 14:11:37 -0800
+location: NY

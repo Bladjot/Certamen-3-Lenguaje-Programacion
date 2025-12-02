@@ -1,0 +1,7 @@
+568956535679758337
+Delta
+@JetBlue me again :) you don't have ABC on Inflight TV, do you? (If so, what channel? #SharkTank is on!)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 18:13:03 -0800
+location: Boston, MA

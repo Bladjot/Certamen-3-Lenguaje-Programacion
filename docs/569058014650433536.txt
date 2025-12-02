@@ -1,0 +1,7 @@
+569058014650433536
+United
+@united no. U guys suck. I'll never fly with u again. And ur supervisors suck too.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 00:56:17 -0800
+location: nan

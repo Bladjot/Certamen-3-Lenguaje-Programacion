@@ -1,0 +1,7 @@
+568595620002279424
+Virgin America
+@VirginAmerica I requested a mileage challenge for status several weeks ago online but haven't heard back. How do I get help with this?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 18:18:54 -0800
+location: nan

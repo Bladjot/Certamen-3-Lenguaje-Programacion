@@ -1,0 +1,7 @@
+568458813189197824
+United
+@united your customer service is lacking and you owe me a @GoPro camera. I also appreciate not being interrupted every time I speak Thanks
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 09:15:17 -0800
+location: Chicago, Il

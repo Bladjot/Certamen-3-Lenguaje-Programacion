@@ -1,0 +1,7 @@
+569488587135295488
+Southwest
+@SouthwestAir I've DM'd you. Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 05:27:14 -0800
+location: Nashville, TN

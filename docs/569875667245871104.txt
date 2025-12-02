@@ -1,0 +1,7 @@
+569875667245871104
+Southwest
+@SouthwestAir may want to direct that to the people at @FurryFiesta tok
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:05:21 -0800
+location: Grand Island, Nebraska, USA

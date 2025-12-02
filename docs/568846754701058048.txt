@@ -1,0 +1,7 @@
+568846754701058048
+US Airways
+@USAirways me and my wife will be flying out of atlanta to vegas on March 7th since couldn't get any out of tricities here in Tn
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 10:56:49 -0800
+location: johnson city tn

@@ -1,0 +1,7 @@
+568554411078889473
+Delta
+@JetBlue I don't want to seem crazy! Have already asked twice!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 15:35:09 -0800
+location: nan

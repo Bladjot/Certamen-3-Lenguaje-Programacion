@@ -1,0 +1,7 @@
+570087950156898305
+American
+@AmericanAir you have Cancelled Flightled my flights because of my last name. Do the right thing and reinstate my tickets
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 21:08:53 -0800
+location: Arlington VA

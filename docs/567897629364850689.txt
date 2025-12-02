@@ -1,0 +1,7 @@
+567897629364850689
+Southwest
+@southwestair Flight 4146 Phi to Den was staffed by a great crew. #freecomedyshow #newlifetimecustomer
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 20:05:20 -0800
+location: nan

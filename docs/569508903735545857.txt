@@ -1,0 +1,7 @@
+569508903735545857
+United
+@united apparently sleeping in B terminal wasn't the worst situation. Someone told other UA passengers they had to sleep at baggage claim.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 06:47:58 -0800
+location: nan

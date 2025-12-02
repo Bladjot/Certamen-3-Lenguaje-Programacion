@@ -1,0 +1,7 @@
+569916152283041792
+United
+@united e-ticket # 0162389030167, refund request # 16866853, case id # 8465981
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 09:46:13 -0800
+location: Pittsburgh, PA

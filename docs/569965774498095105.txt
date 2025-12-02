@@ -1,0 +1,7 @@
+569965774498095105
+Delta
+@JetBlue hi I flew with your airline once in Australia and saw zero kangaroos. Had this been rectified
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:03:24 -0800
+location: Glasgow

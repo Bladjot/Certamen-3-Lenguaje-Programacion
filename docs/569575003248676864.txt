@@ -1,0 +1,7 @@
+569575003248676864
+Virgin America
+@VirginAmerica  - Is Flight 713 from Love Field to SFO definitely Cancelled Flightled for Monday, February 23?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 11:10:37 -0800
+location: nan

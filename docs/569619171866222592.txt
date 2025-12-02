@@ -1,0 +1,7 @@
+569619171866222592
+United
+@united Lied to my face at the gate about upgrades. Thanks. #badservice #unitedsucks
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:06:08 -0800
+location: nan

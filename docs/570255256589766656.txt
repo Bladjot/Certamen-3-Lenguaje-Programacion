@@ -1,0 +1,7 @@
+570255256589766656
+Southwest
+@SouthwestAir strives to be 'Customer Centric' in everything they do - communications, advertising, customer journey, etc. #ANAmarketers
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 08:13:42 -0800
+location: Austin, Texas

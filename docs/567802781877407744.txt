@@ -1,0 +1,7 @@
+567802781877407744
+US Airways
+@USAirways thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 13:48:27 -0800
+location: Virginia Beach

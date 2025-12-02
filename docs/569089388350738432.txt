@@ -1,0 +1,7 @@
+569089388350738432
+Southwest
+@SouthwestAir rocks - @AmericanAir horror
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 03:00:58 -0800
+location: nan

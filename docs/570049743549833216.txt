@@ -1,0 +1,7 @@
+570049743549833216
+United
+@united GRK13575M is the file reference
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 18:37:04 -0800
+location: Global

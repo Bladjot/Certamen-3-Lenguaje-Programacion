@@ -1,0 +1,7 @@
+567837218628362241
+Delta
+@JetBlue Flight 152 (N559JB) "Here's Looking at Blue Kid" departs @MCO enroute to @BostonLogan http://t.co/qeaDA92MW6
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 16:05:17 -0800
+location: Englewood, Florida

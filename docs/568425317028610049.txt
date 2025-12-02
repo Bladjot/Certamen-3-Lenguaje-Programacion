@@ -1,0 +1,7 @@
+568425317028610049
+Southwest
+@SouthwestAir Thanks! Will do
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 07:02:11 -0800
+location: Melbourne, Australia

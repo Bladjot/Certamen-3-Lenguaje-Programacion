@@ -1,0 +1,8 @@
+569970865607090176
+Southwest
+@SouthwestAir 10+ people pre boarded
+Only 1 needed a wheel chair off the plane... Was NOT the case boarding
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 13:23:38 -0800
+location: nan

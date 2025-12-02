@@ -1,0 +1,7 @@
+568966873880137728
+United
+@united I am going to a service desk now to see what the options are.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 18:54:08 -0800
+location: Edmonton, Alberta, Canada

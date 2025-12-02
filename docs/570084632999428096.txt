@@ -1,0 +1,7 @@
+570084632999428096
+Delta
+@JetBlue I spent an hour on the phone with customer service only to find out that they can't help. Need help with family pooling asap.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 20:55:42 -0800
+location: nan

@@ -1,0 +1,7 @@
+567917894144770049
+Delta
+@JetBlue I understand but everyone said different things and there was a flight out Late Flightr that night but only one of us got to take it
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 21:25:52 -0800
+location: BOSTON

@@ -1,0 +1,7 @@
+570128633957736448
+American
+@AmericanAir after losing my bags for 4 days&amp;charging me $475 to"arrange pick up"in argentina,claiming tollfree: won't reimburse me. Help!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 23:50:33 -0800
+location: san francisco califorania

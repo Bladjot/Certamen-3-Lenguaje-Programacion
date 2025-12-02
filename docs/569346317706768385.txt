@@ -1,0 +1,7 @@
+569346317706768385
+Delta
+Can You please help to save my daughters life @JetBlue for details Go here @Help_Lindsey
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 20:01:54 -0800
+location: nan

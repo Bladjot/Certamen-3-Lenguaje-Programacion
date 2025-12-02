@@ -1,0 +1,7 @@
+568591158777122818
+United
+@united booked flight in sept to get best price for April to usa, checked now and they are €67 cheaper, what a con unhappy customer #ripoff
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 18:01:10 -0800
+location: nan

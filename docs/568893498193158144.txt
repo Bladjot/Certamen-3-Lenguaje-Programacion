@@ -1,0 +1,7 @@
+568893498193158144
+Southwest
+@SouthwestAir when will you have flight from DAL to PVD?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 14:02:34 -0800
+location: nan

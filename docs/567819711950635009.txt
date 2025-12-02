@@ -1,0 +1,7 @@
+567819711950635009
+US Airways
+@USAirways flight 4524  first a 2 hour wait for a deadhead crew  then deadhead crew takes overhead bin space paying customers annoyed
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 14:55:43 -0800
+location: nan

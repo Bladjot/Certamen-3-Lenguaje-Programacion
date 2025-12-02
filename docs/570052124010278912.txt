@@ -1,0 +1,7 @@
+570052124010278912
+US Airways
+@USAirways I've been on hold for over an hour.  Not doing so well in the customer service department.  #weak
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 18:46:32 -0800
+location: nan

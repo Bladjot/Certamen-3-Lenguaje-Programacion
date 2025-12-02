@@ -1,0 +1,7 @@
+570232676491202561
+Delta
+@JetBlue I was returning from @FoodNetwork #SOBEWFF so I had limited carry on space in my tummy. Next flight I'll try that snack!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 06:43:59 -0800
+location: nan

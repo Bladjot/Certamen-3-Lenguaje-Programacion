@@ -1,0 +1,7 @@
+569945386569363456
+United
+Flight Booking Problems for a travel writers trip I am hosting and need to be happy when I land! Do you have the cute PJs AA does? @united
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:42:23 -0800
+location: #Omaha

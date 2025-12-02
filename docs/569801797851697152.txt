@@ -1,0 +1,7 @@
+569801797851697152
+American
+@AmericanAir why wont you find my luggage without blaming everyone else?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 02:11:49 -0800
+location: Edmonton

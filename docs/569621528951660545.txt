@@ -1,0 +1,7 @@
+569621528951660545
+United
+@united is by far THE WORST airline I've ever had the misfortune of flying with in all the 44 countries I've flown to!!! It's outrageous!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 14:15:30 -0800
+location: ÜT: 50.97861,-114.000116

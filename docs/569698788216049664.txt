@@ -1,0 +1,7 @@
+569698788216049664
+United
+@united You're trying to solve problem of your own making. Charging for checked luggage forces checking at gate. Brilliant.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:22:30 -0800
+location: Utah

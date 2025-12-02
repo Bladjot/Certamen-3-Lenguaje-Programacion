@@ -1,0 +1,7 @@
+570238950801059840
+Delta
+@JetBlue Annnndddd, I just booked my flight. That was easy.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 07:08:55 -0800
+location: All over ...

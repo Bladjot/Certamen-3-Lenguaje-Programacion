@@ -1,0 +1,7 @@
+568612181480243200
+Delta
+@JetBlue thank you very very much!! 💙💙
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 19:24:43 -0800
+location: NY

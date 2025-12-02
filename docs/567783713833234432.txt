@@ -1,0 +1,7 @@
+567783713833234432
+US Airways
+@USAirways The airline is embarrassing itself. I get that bad weather isn't your fault, but your response to it couldn't have been worse.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 12:32:40 -0800
+location: Washington, DC, USA

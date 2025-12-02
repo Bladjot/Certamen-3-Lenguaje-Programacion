@@ -1,0 +1,7 @@
+570242420643917824
+American
+@AmericanAir DM me and I can explain the whole story. I should have been on an earlier flight not US1937
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 07:22:42 -0800
+location: nan

@@ -1,0 +1,7 @@
+569947823426441216
+Delta
+Peak #Caucasity RT @JetBlue Our fleet's on fleek. http://t.co/cSNRPVY9b9
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:52:04 -0800
+location: Queens, New York

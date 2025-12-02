@@ -1,0 +1,7 @@
+569657128866095104
+US Airways
+@USAirways where's our luggage? Been waiting more than an hour! Flight 2118.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 16:36:57 -0800
+location: New York, New York

@@ -1,0 +1,7 @@
+568211991757770752
+Delta
+@JetBlue Why doesn't your "Best Fare Finder" work?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 16:54:30 -0800
+location: #ManorvilleInExile

@@ -1,0 +1,7 @@
+567764034418909186
+Southwest
+@SouthwestAir Another great flight &amp; crew, Las Vegas-Chicago #3397. Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 11:14:29 -0800
+location: Indy

@@ -1,0 +1,7 @@
+569644675352662016
+Delta
+@JetBlue yes. They are working on it. Hoping bag is on the next flight and will deliver home...
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 15:47:28 -0800
+location: New York

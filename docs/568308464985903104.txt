@@ -1,0 +1,7 @@
+568308464985903104
+United
+@united ^GJ I will. You have to agree that 7+ hours Late Flight for arrival is unacceptable. I only hope and pray my bag is here.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 23:17:51 -0800
+location: Houston, TX

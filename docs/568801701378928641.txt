@@ -1,0 +1,7 @@
+568801701378928641
+Delta
+@JetBlue Oh that totally looks on par with @AmericanAir's Admirals Club; any way you can slide us a couple passes? ;)
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 07:57:48 -0800
+location: New York

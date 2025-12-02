@@ -1,0 +1,7 @@
+569965494519734272
+United
+@united thanks for listening! I definitely was not the only person in line who thought it was absurd.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 13:02:17 -0800
+location: nan

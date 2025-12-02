@@ -1,0 +1,7 @@
+568954266628575232
+United
+@united you guys suck!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 18:04:02 -0800
+location: NY & NJ

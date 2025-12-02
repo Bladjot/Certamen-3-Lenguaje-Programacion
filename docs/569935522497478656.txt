@@ -1,0 +1,7 @@
+569935522497478656
+US Airways
+@USAirways flights &amp; "customer relations" are extremely disappointing. Faced too many problems to type. apology=$25 towards a flight. A JOKE
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:03:12 -0800
+location: nan

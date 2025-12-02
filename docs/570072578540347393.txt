@@ -1,0 +1,7 @@
+570072578540347393
+American
+@AmericanAir the Late Flightst usair4603. Earlier 4591
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 20:07:48 -0800
+location: Bedford, NH

@@ -1,0 +1,7 @@
+569610871934205954
+American
+@AmericanAir you have to run the engine to troubleshoot an issue before boarding the plane!?! How about another plane? #aa2227 #miatoiah
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 13:33:09 -0800
+location: nan

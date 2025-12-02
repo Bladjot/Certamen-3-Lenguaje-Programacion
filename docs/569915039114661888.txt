@@ -1,0 +1,7 @@
+569915039114661888
+American
+@AmericanAir and feel free to email me mikehertz7@gmail.com - don't worry, we're not going anywhere but this damn Tarmac for a bit!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 09:41:48 -0800
+location: nan

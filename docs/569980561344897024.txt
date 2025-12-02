@@ -1,0 +1,7 @@
+569980561344897024
+US Airways
+@USAirways - HA! flight to CTL delayed! Going to miss connection. Can you please transfer me to another airline asap? http://t.co/1XdLbiBClP
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 14:02:10 -0800
+location: Washington D.C.

@@ -1,0 +1,7 @@
+567810209088847873
+Virgin America
+@VirginAmerica Man of steel flies to more cities though...and with more frequency too.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 14:17:57 -0800
+location: SF Bay Area/ Las Vegas

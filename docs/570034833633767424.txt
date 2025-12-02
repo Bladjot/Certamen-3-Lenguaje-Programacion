@@ -1,0 +1,7 @@
+570034833633767424
+Southwest
+@SouthwestAir thanks for the great customer service today! 👍👌
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 17:37:49 -0800
+location: nan

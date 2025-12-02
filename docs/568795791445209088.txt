@@ -1,0 +1,7 @@
+568795791445209088
+United
+@united enjoyed #heathrow lounge so much i almost missed my @airnzusa flight!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 07:34:19 -0800
+location: In First Class

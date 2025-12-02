@@ -1,0 +1,7 @@
+569611581920808960
+American
+@AmericanAir @macario2 but you are Late Flight again!! Again and again! Where are the crew?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 13:35:58 -0800
+location: Pocos de Caldas

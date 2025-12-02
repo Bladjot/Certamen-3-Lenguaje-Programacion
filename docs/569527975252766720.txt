@@ -1,0 +1,7 @@
+569527975252766720
+United
+@united Out of curiosity, when a flight is arranged, are pilots notified? There are a lot of "pilots haven't arrived yet" announcements.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 08:03:45 -0800
+location: Alexandria, VA

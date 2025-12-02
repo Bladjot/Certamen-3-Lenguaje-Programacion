@@ -1,0 +1,7 @@
+568972394297077760
+Virgin America
+@VirginAmerica, you're doing a great job adding little luxuries/aesthetics that improve the air travel experience. Thank you. Keep it up!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 19:16:04 -0800
+location: USA

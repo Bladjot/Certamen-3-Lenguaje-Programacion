@@ -1,0 +1,7 @@
+569920484856475649
+US Airways
+@USAirways takes my money at once but then requires 7 to 10 days to process a refund? Why does your auto attendant hang up? #usairwaysfail
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:03:26 -0800
+location: nan

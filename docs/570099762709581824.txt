@@ -1,0 +1,7 @@
+570099762709581824
+United
+@united yes I do.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 21:55:50 -0800
+location: Madison, NJ

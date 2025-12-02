@@ -1,0 +1,7 @@
+569542242983124992
+Delta
+@JetBlue Landing! As usual great flight wiyh a great crew. Hello sunny West Palm Beach ! #jetbluerocks
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 09:00:26 -0800
+location: nan

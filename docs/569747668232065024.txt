@@ -1,0 +1,7 @@
+569747668232065024
+United
+@united checked me in through security under the wrong name and given the wrong boarding pass. #AirlineSecurity
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 22:36:44 -0800
+location: New York/New Jersey depends on

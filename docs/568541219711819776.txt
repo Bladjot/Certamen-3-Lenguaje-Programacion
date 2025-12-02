@@ -1,0 +1,7 @@
+568541219711819776
+Delta
+@JetBlue Vegas, San Francisco, Baltimore, San Diego and Philadelphia so far! I'm a very frequent business traveler.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 14:42:44 -0800
+location: Burlington, MA

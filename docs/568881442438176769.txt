@@ -1,0 +1,7 @@
+568881442438176769
+US Airways
+@USAirways this is ridiculous #planebroken can't wait to board this one home 5 hours Late Flightr #neverontime #brutal #paymytab
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 13:14:39 -0800
+location: Stamford, Ct

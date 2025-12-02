@@ -1,0 +1,7 @@
+569657504273027073
+American
+@AmericanAir Flight  AA1691 LAX to LAS closes too early and gate agents give us hassles #PatheticCX
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:38:27 -0800
+location: Kitchen, office or on the road

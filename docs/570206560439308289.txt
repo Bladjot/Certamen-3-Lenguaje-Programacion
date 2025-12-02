@@ -1,0 +1,7 @@
+570206560439308289
+Southwest
+@SouthwestAir I was not the one traveling. I was asking for my sister who was waiting on my nephew in Midland...flight eventually landed
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 05:00:12 -0800
+location: DFW

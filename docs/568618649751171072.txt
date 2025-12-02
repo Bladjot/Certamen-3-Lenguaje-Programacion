@@ -1,0 +1,7 @@
+568618649751171072
+US Airways
+@USAirways my buddies are currently delayed 3.5 hours and counting in DCA on their ways to CAE for a golf week, any compensation? #FlyDelta
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 19:50:25 -0800
+location: Columbia, SC

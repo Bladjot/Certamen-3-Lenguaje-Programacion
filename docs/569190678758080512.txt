@@ -1,0 +1,7 @@
+569190678758080512
+Delta
+@JetBlue I fly w/u as much as I can, however your kiosks were broken in SYR and there was 1 woman working the ticket counter.. She had a
+sentiment: negative
+negativereason: longlines
+created: 2015-02-21 09:43:27 -0800
+location: CONCRETE JUNGLE

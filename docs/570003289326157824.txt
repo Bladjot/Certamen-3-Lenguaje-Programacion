@@ -1,0 +1,7 @@
+570003289326157824
+American
+@AmericanAir that's unacceptable
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 15:32:28 -0800
+location: McKinney TX

@@ -1,0 +1,7 @@
+569179898532761600
+Southwest
+@SouthwestAir I've been on hold for over an hour and counting…just need a simple name change http://t.co/5Siczx1oez
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 09:00:37 -0800
+location: Baton Rouge, LA

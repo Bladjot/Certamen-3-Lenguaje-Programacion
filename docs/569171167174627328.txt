@@ -1,0 +1,7 @@
+569171167174627328
+US Airways
+@USAirways @PRof_Solutions Be prepared for 3+ hours hold times
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 08:25:55 -0800
+location: nan

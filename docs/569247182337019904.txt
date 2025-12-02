@@ -1,0 +1,7 @@
+569247182337019904
+United
+@united Rhonda C. at Atlanta airport redeemed you guys. She got us straightened out.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 13:27:59 -0800
+location: 31.790466, -85.971558

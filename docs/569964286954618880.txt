@@ -1,0 +1,7 @@
+569964286954618880
+Delta
+No they didn't -.- “@JetBlue: Our fleet's on fleek. http://t.co/58B7swRpmq”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:57:30 -0800
+location: Miami Beach FL

@@ -1,0 +1,7 @@
+570254375081414656
+American
+@AmericanAir Are you expecting delays/Cancelled Flightlations at Dallas on 25/26th due to the snow? Nothing like Monday I hope!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:10:12 -0800
+location: London, UK

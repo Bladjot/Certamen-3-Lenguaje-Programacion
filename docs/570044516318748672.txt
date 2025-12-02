@@ -1,0 +1,7 @@
+570044516318748672
+Southwest
+@SouthwestAir Kudos to bag handler at DTW gate 21 at 7:10 pm. Ran to keep bags from hitting ground in 9 degree temp! http://t.co/5tXU5tSFkJ
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-23 18:16:18 -0800
+location: Houston, TX

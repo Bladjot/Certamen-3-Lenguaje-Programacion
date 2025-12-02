@@ -1,0 +1,7 @@
+568643928720850944
+United
+@united nawww. United is my fave airline.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 21:30:52 -0800
+location: Arlington Virginia

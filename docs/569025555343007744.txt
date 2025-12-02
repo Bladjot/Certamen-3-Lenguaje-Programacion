@@ -1,0 +1,7 @@
+569025555343007744
+Southwest
+@SouthwestAir why did I not receive drink coupons with 65,000 points? But all my friends did?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 22:47:19 -0800
+location: Chicago, IL

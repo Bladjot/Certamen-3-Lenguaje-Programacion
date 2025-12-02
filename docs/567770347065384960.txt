@@ -1,0 +1,7 @@
+567770347065384960
+Southwest
+@SouthwestAir I got a flight at 11:55am on Thursday but looking for something tomorrow, anything available?
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 11:39:34 -0800
+location: nan

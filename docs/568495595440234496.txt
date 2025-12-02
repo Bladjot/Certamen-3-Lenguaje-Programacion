@@ -1,0 +1,7 @@
+568495595440234496
+Delta
+@JetBlue Seems a few of my friends speak highly as well. Now we just need to find a decent priced way to go from YVR to SEA and overnight.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 11:41:26 -0800
+location: Richmond BC

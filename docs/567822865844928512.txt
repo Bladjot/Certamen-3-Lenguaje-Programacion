@@ -1,0 +1,7 @@
+567822865844928512
+United
+@united if your policy changed, you must advise at the time of purchase.  Same if you choose to vary it by airport!  We want a FULL refund!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 15:08:15 -0800
+location: nan

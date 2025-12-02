@@ -1,0 +1,7 @@
+569615540089700353
+American
+@AmericanAir hi how are you
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 13:51:42 -0800
+location: hertz's couch

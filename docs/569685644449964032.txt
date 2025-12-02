@@ -1,0 +1,7 @@
+569685644449964032
+American
+@AmericanAir you guys fail again.. all I need to do is use my voucher for a ticket but I can't do it online #yourphonesystemsucks
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 18:30:16 -0800
+location: nan

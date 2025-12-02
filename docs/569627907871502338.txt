@@ -1,0 +1,7 @@
+569627907871502338
+Delta
+@JetBlue, thanks for not guarantee that you can not deli ever my bags to my hotel, when bag missed connection. #sFO #customerservicenot
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 14:40:51 -0800
+location: nan

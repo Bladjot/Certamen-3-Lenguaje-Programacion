@@ -1,0 +1,7 @@
+569729821397291008
+American
+@AmericanAir How is hanging up on customers because of "high volume" customer service? Tried to resolve via DM-still waiting.So bad. #aafail
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 21:25:49 -0800
+location: Sloop

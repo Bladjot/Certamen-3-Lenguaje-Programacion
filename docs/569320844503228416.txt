@@ -1,0 +1,7 @@
+569320844503228416
+Southwest
+@SouthwestAir finally boarded. Looks like I'll make it to my final destination but my baggage won't # baggagefail #bagsflyfreebutnotwithme
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 18:20:41 -0800
+location: Tallahassee, FL

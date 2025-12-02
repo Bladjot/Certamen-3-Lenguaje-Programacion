@@ -1,0 +1,7 @@
+567759874403344384
+US Airways
+@USAirways I want my money back. Now we're sitting on the runway. After a 2 hour delay, waiting for the baggage to begin loading.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 10:57:57 -0800
+location: Queens

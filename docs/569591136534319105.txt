@@ -1,0 +1,7 @@
+569591136534319105
+American
+@AmericanAir 3078 is overweight so you pull 2 dozen passengers off? Why not luggage? Seriously?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 12:14:44 -0800
+location: nan

@@ -1,0 +1,7 @@
+568896227917451264
+Delta
+.@JetBlue Ah grasshopper, your twitterz kung fu no good.  Hire geeks. http://t.co/8MWItRi9kF
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 14:13:24 -0800
+location: planet earth

@@ -1,0 +1,7 @@
+569387570364198913
+US Airways
+@USAirways Hooray! I've now been on hold for over an hour. I've never loved Southwest more.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 22:45:50 -0800
+location: Franklin, TN

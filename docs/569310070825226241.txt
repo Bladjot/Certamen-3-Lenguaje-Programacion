@@ -1,0 +1,7 @@
+569310070825226241
+Delta
+@JetBlue would you say a delay is more likely? Thanks so much.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 17:37:52 -0800
+location: New Jersey

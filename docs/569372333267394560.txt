@@ -1,0 +1,7 @@
+569372333267394560
+Southwest
+@SouthwestAir flight Cancelled Flightled out of BWI to PBI. Can't get out until Monday. What are the chances the seats open up for a flight on 2/22?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 21:45:17 -0800
+location: Hershey, PA

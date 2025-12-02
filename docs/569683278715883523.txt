@@ -1,0 +1,7 @@
+569683278715883523
+US Airways
+@USAirways why won't you help me get my luggage back? I'm a teen trying to change the world in DC #Flight5182 #usairways
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 18:20:52 -0800
+location: Earth

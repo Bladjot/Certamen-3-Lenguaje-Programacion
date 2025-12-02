@@ -1,0 +1,7 @@
+570299252141903873
+American
+@AmericanAir This is exactly why ill be flying AA from @Dulles_Airport to Dallas! Only airline I trust!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 11:08:32 -0800
+location: Virginia

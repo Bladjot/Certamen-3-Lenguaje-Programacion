@@ -1,0 +1,7 @@
+567807640660619267
+Virgin America
+@VirginAmerica Good point!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:07:45 -0800
+location: Hollywood, FL

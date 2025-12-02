@@ -1,0 +1,7 @@
+570260735294607360
+American
+@AmericanAir why are @USAirways gold forced to pay for an upgrade? Open seats in 1st and not offered to Gold/Sapphire
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 08:35:28 -0800
+location: Pittsburgh, PA

@@ -1,0 +1,7 @@
+569970324810240000
+Southwest
+@SouthwestAir best airline 👌
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 13:21:29 -0800
+location: nan

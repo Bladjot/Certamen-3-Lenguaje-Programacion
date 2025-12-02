@@ -1,0 +1,7 @@
+567767738886545408
+US Airways
+@USAirways never in my life have I dealt with such poor customer service, irresponsible staff and lack of care LGA-IAH day 2, baggage in NC?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 11:29:12 -0800
+location: nan

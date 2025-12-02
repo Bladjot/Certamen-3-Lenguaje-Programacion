@@ -1,0 +1,7 @@
+570260118043914240
+United
+@united why am I to believe they will help when customer service couldn't? Like I said, I want a number to someone who can fix what you did.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 08:33:01 -0800
+location: nan

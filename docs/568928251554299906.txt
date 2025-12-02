@@ -1,0 +1,7 @@
+568928251554299906
+United
+@united I took care of it myself. Had to rent a car and drive 3 hours to retrieve my belongings. Due to united errors.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 16:20:40 -0800
+location: Austin, Texas

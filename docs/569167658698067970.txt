@@ -1,0 +1,7 @@
+569167658698067970
+US Airways
+@USAirways "Owen F" at DCA Gate 42: #rude.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 08:11:59 -0800
+location: Buffalo, NY

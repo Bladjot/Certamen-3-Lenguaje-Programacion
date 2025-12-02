@@ -1,0 +1,7 @@
+568654208674586624
+United
+@united a rapid trip plane ticket from Idaho to California that doesn't have problems would be wonderful
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 22:11:43 -0800
+location: nan

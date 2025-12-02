@@ -1,0 +1,7 @@
+570291642550386689
+United
+@united I flew back w other company since United didnt have an earlier flight
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 10:38:17 -0800
+location: USA

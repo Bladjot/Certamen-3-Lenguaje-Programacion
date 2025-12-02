@@ -1,0 +1,7 @@
+570222414400860160
+American
+@AmericanAir thank you for replying. Trying to figure out how to get from there from DFW
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 06:03:12 -0800
+location: Dallas,Tx

@@ -1,0 +1,7 @@
+569310328862830592
+Delta
+@JetBlue Re: Flight 8088 SXM&gt;JFK what time does bus leave hotel on Feb 22?  Mass confusion here.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 17:38:54 -0800
+location: nan

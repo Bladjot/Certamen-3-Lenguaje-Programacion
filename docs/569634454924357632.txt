@@ -1,0 +1,7 @@
+569634454924357632
+American
+@AmericanAir while I'm sensitive to this fact, I don't believe that warrants poor service. A little help &amp; compassion goes a long way.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:06:52 -0800
+location: nan

@@ -1,0 +1,7 @@
+568882629409411072
+US Airways
+@USAirways Yes thank you. Appreciate u checking...
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 13:19:22 -0800
+location: ÜT: 38.955822,-94.728202

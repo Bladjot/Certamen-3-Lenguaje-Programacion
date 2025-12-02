@@ -1,0 +1,7 @@
+570097456786104320
+American
+@AmericanAir Are you expecting any delays out of #DFW tomorrow morning?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 21:46:40 -0800
+location: nan

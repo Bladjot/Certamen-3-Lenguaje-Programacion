@@ -1,0 +1,7 @@
+569631375487139841
+American
+@AmericanAir u Cancelled Flightled my flight for tomorrow and tell me to call reservations but then refuse to take my call!!!  #not cool #hateful
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 14:54:37 -0800
+location: Cool suburb N. of Dallas

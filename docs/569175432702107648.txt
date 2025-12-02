@@ -1,0 +1,7 @@
+569175432702107648
+Southwest
+@SouthwestAir flight 3970, bna-rdu had the most excellent crew today
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 08:42:52 -0800
+location: Nashville, TN

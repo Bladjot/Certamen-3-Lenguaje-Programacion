@@ -1,0 +1,7 @@
+569906662061944834
+American
+@AmericanAir flight 353
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 09:08:31 -0800
+location: Dallas, TX

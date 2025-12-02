@@ -1,0 +1,7 @@
+568745705864626176
+Delta
+@JetBlue flight 99 to DCA 2 delays, I'm all for erring on the side of safety but it's an inconvenience to people with connecting flights!!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 04:15:17 -0800
+location: Quincy, Ma by way of The #413

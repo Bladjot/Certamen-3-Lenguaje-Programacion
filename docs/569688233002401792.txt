@@ -1,0 +1,7 @@
+569688233002401792
+American
+@AmericanAir Dallas/Fort Worth flight number 5320
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:40:33 -0800
+location: nan

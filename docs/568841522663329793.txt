@@ -1,0 +1,7 @@
+568841522663329793
+Southwest
+@SouthwestAir's CEO Kelly draws record crowd to @BWI_Airport Business Partnership breakfast http://t.co/CVba4olcBl http://t.co/wTa5pX70A5
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 10:36:02 -0800
+location: Annapolis, MD USA

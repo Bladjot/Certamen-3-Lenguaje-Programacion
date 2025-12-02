@@ -1,0 +1,7 @@
+568589571929350144
+Delta
+@JetBlue Yep. 1 hour at Logan. Gangway broke and cabin crew stuck on plane. They just arrived. Passengers request butt massages.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 17:54:52 -0800
+location: Jamestown Virginia

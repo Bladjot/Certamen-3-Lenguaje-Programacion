@@ -1,0 +1,7 @@
+569616934225846273
+American
+@AmericanAir the reservation system won't even let us leave our phone #. I have no way to fix that you rebooked me on wrong day!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 13:57:14 -0800
+location: Plano, Texas

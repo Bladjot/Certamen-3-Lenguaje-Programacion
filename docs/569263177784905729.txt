@@ -1,0 +1,7 @@
+569263177784905729
+Southwest
+@SouthwestAir i hope i can be apart of the team with this job opening!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 14:31:32 -0800
+location: Nwps  CA.

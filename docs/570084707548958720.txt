@@ -1,0 +1,7 @@
+570084707548958720
+US Airways
+@USAirways The help/complaint forms on the website can be used only if the matter applies to an actual ticketed flight
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 20:56:00 -0800
+location: nan

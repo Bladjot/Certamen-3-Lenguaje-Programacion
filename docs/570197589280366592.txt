@@ -1,0 +1,7 @@
+570197589280366592
+United
+.Thnx for the response @united bot. It seems this 'improvement' could be easily attained. Is your 1st Class service really only worth $50?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 04:24:33 -0800
+location: Brooklyn

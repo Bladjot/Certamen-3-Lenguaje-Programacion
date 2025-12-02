@@ -1,0 +1,7 @@
+568959916498509824
+US Airways
+@USAirways @keithlaw  I flew US Air for the first time yesterday, got propositioned by the flight attendant....true story!  #Creditcardsales
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 18:26:29 -0800
+location: nan

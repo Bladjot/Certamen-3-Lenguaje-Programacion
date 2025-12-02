@@ -1,0 +1,7 @@
+570244951914782721
+Delta
+@JetBlue you don't need to cut services, charge more and give a better flying experience. That's why I use jet blue in the first place
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 07:32:45 -0800
+location: nan

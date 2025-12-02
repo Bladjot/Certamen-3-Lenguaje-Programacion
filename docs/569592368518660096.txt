@@ -1,0 +1,7 @@
+569592368518660096
+US Airways
+@USAirways @AmericanAir as a Gold Dividends member, why can't I get anyone on phone to handle my Cancelled Flighted American flight tonight 😡
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:19:37 -0800
+location: United States

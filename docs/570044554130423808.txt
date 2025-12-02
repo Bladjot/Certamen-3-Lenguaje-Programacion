@@ -1,0 +1,7 @@
+570044554130423808
+United
+Decisions Decisions @MandarinJourney @united:  We'd love for you to try our service. We offer status match too. http://t.co/xbQqqbRgVF ^KP”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 18:16:27 -0800
+location: #Omaha

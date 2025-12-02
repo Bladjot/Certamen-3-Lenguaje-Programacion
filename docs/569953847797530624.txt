@@ -1,0 +1,7 @@
+569953847797530624
+Delta
+@JetBlue when can we start Flight Booking Problems flights for November?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:16:01 -0800
+location: nan

@@ -1,0 +1,7 @@
+570210411926016001
+Southwest
+@SouthwestAir the flight isn't that empty.... Is this rude or not? http://t.co/4RL0p5JChB
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 05:15:30 -0800
+location: Florida

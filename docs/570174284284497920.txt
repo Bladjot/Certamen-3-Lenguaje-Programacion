@@ -1,0 +1,7 @@
+570174284284497920
+American
+@AmericanAir @Delta Maybe? Long trip, Late Flight night &amp; queues at baggage claims in two terminals, no good. I thought I paid for it 50$ instead.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 02:51:57 -0800
+location: Finn between Detroit & Toledo

@@ -1,0 +1,7 @@
+569546319666110464
+Southwest
+@SouthwestAir if I am a rapid awards member, does my points apply after I have taken my round trip?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 09:16:38 -0800
+location: Columbus, OH

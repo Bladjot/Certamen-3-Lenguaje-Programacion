@@ -1,0 +1,7 @@
+569963701987450880
+Delta
+😂😂😂 “@JetBlue: Our fleet's on fleek. http://t.co/BBaONx9txD”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:55:10 -0800
+location: at Lil Kim's House

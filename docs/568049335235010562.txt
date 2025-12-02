@@ -1,0 +1,7 @@
+568049335235010562
+United
+@united Club in Denver is dope 👌
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 06:08:10 -0800
+location: Chicago

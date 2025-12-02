@@ -1,0 +1,7 @@
+569971775011999744
+Southwest
+@SouthwestAir is it possible to add travel arranged by my employer to my upcoming travel? I can retrieve a reservation, but that's it.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:27:15 -0800
+location: Redlands, CA

@@ -1,0 +1,7 @@
+569641810571763712
+American
+@AmericanAir one of my luggage didn't made it onto my flight, hope it really gets here tomorrow, as I was told 😓😭
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 15:36:05 -0800
+location: ☀️SoFla☀️

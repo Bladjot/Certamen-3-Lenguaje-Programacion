@@ -1,0 +1,7 @@
+569745375713558528
+American
+@AmericanAir you called back just to put me on hold. It's midnight. Literally just want to know how I'm getting home and I'm getting no help
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 22:27:37 -0800
+location: nan

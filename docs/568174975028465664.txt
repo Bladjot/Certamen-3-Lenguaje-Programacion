@@ -1,0 +1,7 @@
+568174975028465664
+US Airways
+@USAirways Joined Silver Preferred because I heard customer service was so great, pity I was misguided.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 14:27:24 -0800
+location: nan

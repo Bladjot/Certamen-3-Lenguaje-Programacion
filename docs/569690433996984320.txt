@@ -1,0 +1,7 @@
+569690433996984320
+American
+@AmericanAir The delay is nothing but the personnel being so combative up to the point of saying "what's the hury,  the plane is not leaving
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:49:18 -0800
+location: Santo Domingo

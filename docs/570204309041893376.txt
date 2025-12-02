@@ -1,0 +1,7 @@
+570204309041893376
+Delta
+@JetBlue sooo earlier i said i couldnt fly with you for my school trip but now i can! 😏
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 04:51:15 -0800
+location: nan

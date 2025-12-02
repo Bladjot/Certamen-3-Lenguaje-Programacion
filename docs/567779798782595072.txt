@@ -1,0 +1,7 @@
+567779798782595072
+Southwest
+@SouthwestAir Hi there! I just got my known traveler# and would like to add it to a flight that I already purchased. What's my best option?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 12:17:07 -0800
+location: Santa Ana, California

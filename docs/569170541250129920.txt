@@ -1,0 +1,7 @@
+569170541250129920
+United
+@United lounge @ #Heathrow Used by @AirNZUSA http://t.co/6hJucP694l
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 08:23:26 -0800
+location: In First Class

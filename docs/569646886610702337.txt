@@ -1,0 +1,7 @@
+569646886610702337
+US Airways
+@USAirways Flt 4609 landed over half an hour ago. Not a single bag yet on the baggage claim. Hate you so much right now.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 15:56:15 -0800
+location: Pony Paradise, VA

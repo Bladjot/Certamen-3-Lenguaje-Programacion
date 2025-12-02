@@ -1,0 +1,7 @@
+570222481618948096
+US Airways
+@USAirways seriously???  did you not see that I've spent 2 days - for multiple hours on hold just to have to hang up after the hours?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 06:03:28 -0800
+location: Maryland

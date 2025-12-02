@@ -1,0 +1,7 @@
+570060776301424641
+American
+@AmericanAir You found my lost luggage, won't bring it to me until tomorrow. Next day if the weather isn't nicer. Terrible service
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 19:20:54 -0800
+location: Kansas City, MO

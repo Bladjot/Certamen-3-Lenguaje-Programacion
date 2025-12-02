@@ -1,0 +1,7 @@
+570053838499143680
+United
+@united That's correct—I've spent hours trying to book online only to receive an error when clicking final purchase button. (1/2)
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 18:53:20 -0800
+location: Brooklyn, NY

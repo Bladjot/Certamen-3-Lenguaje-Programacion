@@ -1,0 +1,7 @@
+570249435029970945
+American
+@AmericanAir do you offer group pricing discounts by any chance?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 07:50:34 -0800
+location: Largo florida

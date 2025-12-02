@@ -1,0 +1,7 @@
+570219138125324288
+US Airways
+@USAirways can i please have someone call me 781 879 4505
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 05:50:11 -0800
+location: nan

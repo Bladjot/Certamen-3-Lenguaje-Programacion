@@ -1,0 +1,7 @@
+568141442951942146
+United
+@united when southwest did this to us -- a mechanical problem at least they gave us round trip vouchers. Will you step up to the pLate Flight too?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 12:14:10 -0800
+location: Jersey City, NJ

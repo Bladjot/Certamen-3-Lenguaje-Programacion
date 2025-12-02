@@ -1,0 +1,7 @@
+568471991889612800
+US Airways
+@USAirways they finally answered. They were rude and didn't help me at all.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 10:07:39 -0800
+location: nan

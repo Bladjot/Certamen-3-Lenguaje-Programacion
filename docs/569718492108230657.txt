@@ -1,0 +1,7 @@
+569718492108230657
+US Airways
+@USAirways and @AmericanAir aren't as merged as the marketing departments would have us believe. Maybe @Delta or @united can get me home?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 20:40:48 -0800
+location: nan

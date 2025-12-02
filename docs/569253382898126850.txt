@@ -1,0 +1,7 @@
+569253382898126850
+United
+@united has me #stranded (weather NOT to blame). 1hr+ hold to speak to an agent that doesn't understand the concept of time zones, thanks!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 13:52:37 -0800
+location: Raleigh, NC

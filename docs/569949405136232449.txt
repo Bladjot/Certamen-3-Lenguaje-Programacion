@@ -1,0 +1,7 @@
+569949405136232449
+US Airways
+@USAirways US 728/Feb 21 Kim Y says: leaving on 15 minutes once paperwork is done. Wheels up ~ 1.5 hours Late Flightr.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 11:58:21 -0800
+location: nan

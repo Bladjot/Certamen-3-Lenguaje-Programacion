@@ -1,0 +1,7 @@
+569670634718023680
+American
+@AmericanAir that's ok, thanks for letting me know. Appreciate all the responses.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:30:37 -0800
+location: London

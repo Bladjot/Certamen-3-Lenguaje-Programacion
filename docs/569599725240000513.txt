@@ -1,0 +1,7 @@
+569599725240000513
+US Airways
+@usairways I have been on hold for over 3 hours.  Please help! http://t.co/tyXAZtMQ1U
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:48:51 -0800
+location: nan

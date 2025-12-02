@@ -1,0 +1,7 @@
+568440682584477696
+US Airways
+@USAirways never imagined it would be so hard to SPEND money through US Air. Stubbornly hoping someone will come back to the phone.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 08:03:14 -0800
+location: Denver

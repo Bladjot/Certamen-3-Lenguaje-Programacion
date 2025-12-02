@@ -1,0 +1,7 @@
+568882014415249408
+Virgin America
+@VirginAmerica already contacted Central Baggage &amp; sent DM. @RenttheRunway is charging me for the dress that was in the lost suitcase #help
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 13:16:56 -0800
+location: nan

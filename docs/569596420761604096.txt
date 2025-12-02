@@ -1,0 +1,7 @@
+569596420761604096
+American
+@AmericanAir half hour Late Flight leaving DFW...no attempt at an explanation
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 12:35:43 -0800
+location: nan

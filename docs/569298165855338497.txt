@@ -1,0 +1,7 @@
+569298165855338497
+Virgin America
+@VirginAmerica thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 16:50:34 -0800
+location: BAYAREA✈️NYC

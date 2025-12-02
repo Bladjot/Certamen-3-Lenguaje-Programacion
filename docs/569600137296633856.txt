@@ -1,0 +1,7 @@
+569600137296633856
+American
+@AmericanAir Thank you.....you do the same!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 12:50:30 -0800
+location: Caribbean, New York and Miami.

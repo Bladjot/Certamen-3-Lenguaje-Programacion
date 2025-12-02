@@ -1,0 +1,7 @@
+570278803399798784
+American
+@AmericanAir extremely upset that your baggage handlers decide to go in my luggage and take my belongings
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-24 09:47:16 -0800
+location: Posted

@@ -1,0 +1,7 @@
+567947508208377858
+Delta
+@JetBlue Finally taking off! LAS-FLL-SJU #letsgo
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 23:23:32 -0800
+location: Los Angeles, CA

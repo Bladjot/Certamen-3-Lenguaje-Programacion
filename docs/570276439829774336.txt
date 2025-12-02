@@ -1,0 +1,7 @@
+570276439829774336
+US Airways
+@USAirways She spoke with someone this AM and was told that breast pumps aren't medical equipment and that she should have "planned better."
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 09:37:53 -0800
+location: Denver, CO

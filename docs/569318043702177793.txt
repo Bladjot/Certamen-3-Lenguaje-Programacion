@@ -1,0 +1,7 @@
+569318043702177793
+Southwest
+@SouthwestAir crazy how every airline flew out to the northeast tonight except you
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 18:09:33 -0800
+location: 10/5/13

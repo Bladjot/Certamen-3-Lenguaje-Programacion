@@ -1,0 +1,7 @@
+569938848156930050
+Delta
+You know what ... RT “@JetBlue: Our fleet's on fleek. http://t.co/WJYAs2D94n”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:16:25 -0800
+location: ON.

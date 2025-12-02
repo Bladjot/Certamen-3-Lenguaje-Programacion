@@ -1,0 +1,7 @@
+567874261085454338
+US Airways
+@USAirways how about an update? 2hrs delayed, this obviously isnt up 2 date, havent boarded http://t.co/L7lWjaZiOA
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 18:32:29 -0800
+location: Atlanta, GA

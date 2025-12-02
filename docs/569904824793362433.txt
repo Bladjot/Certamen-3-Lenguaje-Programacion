@@ -1,0 +1,7 @@
+569904824793362433
+United
+@united just confirmed a seat! Crisis averted! Beers won't be missed now
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 09:01:13 -0800
+location: Georgia

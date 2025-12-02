@@ -1,0 +1,7 @@
+569912753479147521
+American
+@AmericanAir customer service is terrible.Been waiting 6 weeks for a reply to an email. Not helpful at all and keep brushing off problems!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:32:43 -0800
+location: nan

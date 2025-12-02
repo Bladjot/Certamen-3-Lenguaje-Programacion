@@ -1,0 +1,7 @@
+568267732556255232
+Southwest
+@SouthwestAir any chance I can get tix for @VelourLive @Imaginedragons? I have been tweeting since January 26 about it #DestinationDragons
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 20:36:00 -0800
+location: nan

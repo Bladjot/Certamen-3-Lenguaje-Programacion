@@ -1,0 +1,7 @@
+569982023667838979
+Southwest
+@SouthwestAir How many tickets are left?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:07:58 -0800
+location: Las Vegas

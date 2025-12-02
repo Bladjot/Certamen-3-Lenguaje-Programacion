@@ -1,0 +1,7 @@
+568502279193681921
+Delta
+@JetBlue Apparently, the substitute pilots for flight #69 from BOS to FLL can't be found. No info is avail from the counter. How about you?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 12:08:00 -0800
+location: South Florida

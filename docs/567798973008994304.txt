@@ -1,0 +1,7 @@
+567798973008994304
+Delta
+@JetBlue love traveling with Jetblue. Cant wait to go to Paris oui oui!!! NYC was awesomeee!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 13:33:19 -0800
+location: nan

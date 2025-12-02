@@ -1,0 +1,7 @@
+569738845895335936
+United
+@united Not to belabor my point,but shouldn't I be able to put a laptop bag above my seat?  Why is it announced to leave it for rollers? Thx
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 22:01:40 -0800
+location: nan

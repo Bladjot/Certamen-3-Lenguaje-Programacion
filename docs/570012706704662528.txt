@@ -1,0 +1,7 @@
+570012706704662528
+United
+@united did you have seen my message today?? About a mcdonnell Douglas dc 10 model?? I will hear it if you read it, Goodnight now
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 16:09:54 -0800
+location: Winterfell

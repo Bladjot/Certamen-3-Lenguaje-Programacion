@@ -1,0 +1,7 @@
+568139007617597440
+Southwest
+@SouthwestAir good to know NOW!  Three sets of travelers in just 20 mins standing here waiting for mins to pass by.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-18 12:04:29 -0800
+location: nan

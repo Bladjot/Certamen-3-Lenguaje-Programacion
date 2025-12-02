@@ -1,0 +1,7 @@
+568474189818146816
+US Airways
+@USAirways I'll sincerely regret Dividend miles! Good things coming to an end :(
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 10:16:23 -0800
+location: nan

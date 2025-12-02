@@ -1,0 +1,7 @@
+569638470538301442
+American
+@AmericanAir is rude a hiring requirement at key west airport shaking my head
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:22:49 -0800
+location: nan

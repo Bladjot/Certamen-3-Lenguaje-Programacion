@@ -1,0 +1,7 @@
+569923394990419968
+Virgin America
+@VirginAmerica Can't bring up my reservation online using Flight Booking Problems code
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:15:00 -0800
+location: Chicago

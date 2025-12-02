@@ -1,0 +1,7 @@
+569711923148689408
+American
+@AmericanAir ticks me off.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 20:14:41 -0800
+location: Sac City, IA

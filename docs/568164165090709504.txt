@@ -1,0 +1,7 @@
+568164165090709504
+United
+@united Is your company motto: "I do not care!!!"  I heard several times from your employees to your clients in the past week."  #idonotcare
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 13:44:27 -0800
+location: nan

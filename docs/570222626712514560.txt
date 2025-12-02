@@ -1,0 +1,7 @@
+570222626712514560
+Delta
+@JetBlue Was nice to see your Veterans Advantage Program at the gate on Sunday @ MCO.Keep up the good work at  JetBlue
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 06:04:03 -0800
+location: NY,NY

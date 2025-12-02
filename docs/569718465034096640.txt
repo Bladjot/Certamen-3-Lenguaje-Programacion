@@ -1,0 +1,7 @@
+569718465034096640
+American
+@AmericanAir our ft 1261 TUS/DFW (w/cx to LGA) tomorrow Cancelled Flighted,  4 hrs so far waiting for call back. What should we do? Need to get to nyc
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:40:41 -0800
+location: Brooklyn, NY

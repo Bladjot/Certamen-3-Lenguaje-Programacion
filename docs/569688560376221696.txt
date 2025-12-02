@@ -1,0 +1,7 @@
+569688560376221696
+United
+@united sitting on UAL 683 - a comedy of errors.  UAL is incompetent
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 18:41:51 -0800
+location: nan

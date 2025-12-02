@@ -1,0 +1,7 @@
+569690664029462529
+American
+@AmericanAir they don't even give an option to hold.. Just say lines are busy Plz try Late Flightr
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:50:13 -0800
+location: nan

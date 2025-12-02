@@ -1,0 +1,7 @@
+569532310716080129
+United
+@united you guys are horrible! First we get stuck in the snow for a hr in ewr now sitting in cmh saying it could be 30min for a gate
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 08:20:58 -0800
+location: Irving Texas

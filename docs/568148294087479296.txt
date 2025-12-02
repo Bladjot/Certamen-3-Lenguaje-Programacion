@@ -1,0 +1,7 @@
+568148294087479296
+United
+@united airlines claims to have a low fare guarantee, but they won't honor a lower fare that I found.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 12:41:23 -0800
+location: nan

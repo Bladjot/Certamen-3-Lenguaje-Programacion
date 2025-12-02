@@ -1,0 +1,7 @@
+569306302964506624
+United
+@united could really use your help getting our bags at IAD. We're headed to YOW but now going to YXU
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 17:22:54 -0800
+location: Ottawa, ON

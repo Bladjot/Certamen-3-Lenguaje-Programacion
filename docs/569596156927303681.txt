@@ -1,0 +1,7 @@
+569596156927303681
+American
+@AmericanAir 30 minutes flight from OKC and then make us wait, 30 minutes cause the gate isn't empty.  #epicfail #poorplanning
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 12:34:41 -0800
+location: Cool suburb N. of Dallas

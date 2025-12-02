@@ -1,0 +1,7 @@
+570053168349851648
+American
+@AmericanAir is there another line I can call when I am on hold for 5 hours? Also how can I get compensated for this loss of time and money?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 18:50:41 -0800
+location: nan

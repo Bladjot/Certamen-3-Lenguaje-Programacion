@@ -1,0 +1,7 @@
+569928419435286528
+United
+@united no chance I wait in ORD all afternoon for another flight after you screwed me. Hold 5396
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 10:34:58 -0800
+location: NEIN, London, or Maui.

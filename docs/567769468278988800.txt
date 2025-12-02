@@ -1,0 +1,7 @@
+567769468278988800
+Delta
+@JetBlue's new CEO seeks the right balance to please passengers and Wall ... - Times Colonist http://t.co/NzDXRvszWv
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 11:36:04 -0800
+location: USA

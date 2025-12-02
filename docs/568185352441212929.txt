@@ -1,0 +1,7 @@
+568185352441212929
+US Airways
+@USAirways. I'm delayed in Cha, will miss my connection in Charlotte for lga.  Not good
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 15:08:39 -0800
+location: Queens, New York

@@ -1,0 +1,7 @@
+569870445710671872
+US Airways
+@USAirways @AmericanAir - Burned a lot of time and cell minutes working through this flight issue - hopefully we fly home in the morning.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:44:36 -0800
+location: Southeastern Pennsylvania USA

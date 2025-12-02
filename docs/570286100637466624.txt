@@ -1,0 +1,7 @@
+570286100637466624
+United
+@united yes, we've been with the agents for the last 50 minutes. One of the agents have been very rude, but thankfully Ladan has been nice.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 10:16:16 -0800
+location: DC

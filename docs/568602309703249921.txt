@@ -1,0 +1,7 @@
+568602309703249921
+US Airways
+@USAirways I already HAVE, four times
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 18:45:29 -0800
+location: nan

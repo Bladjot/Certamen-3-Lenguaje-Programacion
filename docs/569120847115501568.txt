@@ -1,0 +1,7 @@
+569120847115501568
+United
+@united First Officer of UA 1514 checking our 757 prior to departure from EWR yesterday while on his cell. Safety ??? http://t.co/1TFH2v0a7z
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 05:05:58 -0800
+location: nan

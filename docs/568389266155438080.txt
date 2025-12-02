@@ -1,0 +1,7 @@
+568389266155438080
+Southwest
+@SouthwestAir trying to get to Mexico in September! How about affordable nonstop flights????
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 04:38:55 -0800
+location: nan

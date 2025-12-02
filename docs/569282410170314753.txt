@@ -1,0 +1,7 @@
+569282410170314753
+Southwest
+@SouthwestAir how you gonna Cancelled Flight my flight but run flights at the exact same time? Cmon fam
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 15:47:57 -0800
+location: nan

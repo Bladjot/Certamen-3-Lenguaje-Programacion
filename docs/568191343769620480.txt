@@ -1,0 +1,7 @@
+568191343769620480
+Delta
+@JetBlue I would go to Italy to visit my relatives and see the house my dad left when he passed.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 15:32:27 -0800
+location: nan

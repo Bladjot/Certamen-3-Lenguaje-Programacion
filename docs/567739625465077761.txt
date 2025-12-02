@@ -1,0 +1,7 @@
+567739625465077761
+US Airways
+@USAirways will my known traveler no. transfer over from @AmericanAir ? when I check in at t-24 as an AA elite I can get choice seats?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:37:29 -0800
+location: Seattle, WA / 36,000 feet

@@ -1,0 +1,7 @@
+569999632920674304
+American
+@AmericanAir Also Agent not aware clearly of http://t.co/FWKJ49B1LE
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 15:17:57 -0800
+location: nan

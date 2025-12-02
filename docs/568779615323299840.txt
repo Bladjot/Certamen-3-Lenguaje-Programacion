@@ -1,0 +1,7 @@
+568779615323299840
+Delta
+Then you better #HoldOn - #EverythingsGonnaBeAlright @jetblue 4 our #brandloveaffair https://t.co/64kN6GEEP8 #TrueBlueLove #travel #business
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 06:30:02 -0800
+location: New York, NY

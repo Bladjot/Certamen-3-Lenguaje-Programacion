@@ -1,0 +1,7 @@
+567790926857531393
+United
+@united thank you! 😊
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 13:01:20 -0800
+location: Glasgow

@@ -1,0 +1,7 @@
+569931387073105920
+United
+The saga of the @MelissaAFrancis bag delay w/ @United - will there be a reunion or will she be forced to go shopping? Stay tuned.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 10:46:46 -0800
+location: New York

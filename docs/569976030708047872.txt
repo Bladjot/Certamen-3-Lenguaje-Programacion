@@ -1,0 +1,7 @@
+569976030708047872
+American
+@AmericanAir Delaney and Shawn at DFW showed exceptional customer service today. Will happily choose AA whenever possible now! Thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 13:44:10 -0800
+location: nan

@@ -1,0 +1,7 @@
+568155246616121344
+Southwest
+Bingo! “@SouthwestAir: Thank you for bringing this to our attention. We'll be happy to reach out to Noah so we can make this right. ^MR”
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 13:09:01 -0800
+location: Southern California, USA

@@ -1,0 +1,7 @@
+569890741666717697
+American
+@AmericanAir thank you for NOT Cancelled Flighting all flights and putting my husbands life in danger driving in this weather. #safetyfirst
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 08:05:15 -0800
+location: nan

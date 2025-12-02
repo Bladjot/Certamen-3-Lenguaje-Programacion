@@ -1,0 +1,7 @@
+569700277244141568
+Southwest
+@SouthwestAir Thanks for helping my mom after @allegiantair wouldn't let her get on her plane in Orlando! You're the best! #customerservice
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 19:28:25 -0800
+location: Forest City, IA

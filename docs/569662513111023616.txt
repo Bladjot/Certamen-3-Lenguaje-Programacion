@@ -1,0 +1,7 @@
+569662513111023616
+Delta
+@JetBlue you quite possibly ruined my entire first day in South Florida bc of your disorganization. #GetItTogether
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 16:58:21 -0800
+location: New York City

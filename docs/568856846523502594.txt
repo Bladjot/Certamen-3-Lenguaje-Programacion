@@ -1,0 +1,7 @@
+568856846523502594
+Southwest
+@SouthwestAir 4 hour delay in ATL due to "air traffic control"....love missing an entire day of my vacation #unhappycustomer #mytimeismoney
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 11:36:55 -0800
+location: nan

@@ -1,0 +1,7 @@
+569338605057015808
+US Airways
+@USAirways And cherry on top-flight 880 was on runway after we landed ON TIME for 45 mins. Still didn't get half the luggage.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 19:31:15 -0800
+location: Virginia

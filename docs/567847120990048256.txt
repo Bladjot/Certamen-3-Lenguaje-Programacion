@@ -1,0 +1,7 @@
+567847120990048256
+US Airways
+@USAirways i dont need to check status of my flight because i was ON the plane and you had a door malfunction. Get it together!!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 16:44:38 -0800
+location: Global

@@ -1,0 +1,7 @@
+570290034009636865
+American
+@AmericanAir OK I will call them likely tmrw UK time to question the process getting the change charge reversed due to a bereavement
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:31:54 -0800
+location: nan

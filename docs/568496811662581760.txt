@@ -1,0 +1,7 @@
+568496811662581760
+US Airways
+@USAirways How will I change it?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 11:46:16 -0800
+location: Washington, DC

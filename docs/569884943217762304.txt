@@ -1,0 +1,7 @@
+569884943217762304
+American
+@AmericanAir I had to pay extra $$ cos that flight was "no longer available" just because it wouldn't accept my US Card for a 1 way into NYC
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 07:42:13 -0800
+location: New York

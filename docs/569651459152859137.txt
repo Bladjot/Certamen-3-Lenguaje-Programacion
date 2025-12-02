@@ -1,0 +1,7 @@
+569651459152859137
+US Airways
+@USAirways pilot for flight 729 didn't show until after departure ⌚️ &amp; now there's a broken computer. Next time flying @United. #ALWAYSLate Flight
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:14:26 -0800
+location: H-Town Houston, Texas

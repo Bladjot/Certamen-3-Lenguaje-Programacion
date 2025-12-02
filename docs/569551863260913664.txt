@@ -1,0 +1,7 @@
+569551863260913664
+Southwest
+@SouthwestAir we didn't nothing was ruined just wet. Just frustrating when after traveling for 12 hours you can't change into clean clothes
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-22 09:38:40 -0800
+location: nan

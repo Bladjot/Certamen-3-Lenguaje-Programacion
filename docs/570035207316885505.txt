@@ -1,0 +1,7 @@
+570035207316885505
+Southwest
+@SouthwestAir happy to enter your sweepstakes again #nutsaboutsouthwest
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 17:39:18 -0800
+location: NE Ohio

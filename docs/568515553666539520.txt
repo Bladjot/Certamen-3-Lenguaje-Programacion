@@ -1,0 +1,7 @@
+568515553666539520
+United
+@united kind of cool to run into your boss man at SFO. http://t.co/bm9O2K5X5J
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 13:00:45 -0800
+location: Chicago and an airplane

@@ -1,0 +1,7 @@
+569884071758835712
+US Airways
+@USAirways thanks for Cancelled Flighting flight 5097 today. Now missing required training. Not a happy customer.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 07:38:45 -0800
+location: TLH

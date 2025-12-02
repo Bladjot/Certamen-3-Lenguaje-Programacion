@@ -1,0 +1,7 @@
+568821402389893120
+US Airways
+@USAirways no you not sorry. I am trying 2 add a day 2 my vacation but there is a $200 charge just 2 change flights
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 09:16:05 -0800
+location: nan

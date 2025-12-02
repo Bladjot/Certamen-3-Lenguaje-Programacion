@@ -1,0 +1,7 @@
+569322175175352322
+US Airways
+@USAirways I'm on flight 623 from DIA to Ontario tomorrow morning. no access to the airport via taxi or shuttle. What should I do?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 18:25:58 -0800
+location: Denver, CO

@@ -1,0 +1,7 @@
+570225396404359168
+Delta
+@JetBlue 's Once upon a sale that does not include BTV, as usual!  #jetbluehatesbtv
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 06:15:03 -0800
+location: Vermont

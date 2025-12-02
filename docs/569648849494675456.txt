@@ -1,0 +1,7 @@
+569648849494675456
+American
+@AmericanAir message and pics sent...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:04:03 -0800
+location: U.S.A.

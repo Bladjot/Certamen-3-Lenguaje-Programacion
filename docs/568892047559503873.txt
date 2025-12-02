@@ -1,0 +1,7 @@
+568892047559503873
+Southwest
+@SouthwestAir THANK YOU SO MUCH!! http://t.co/tGSB1DfPS3
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 13:56:48 -0800
+location: Dodger Stadium | Disneyland

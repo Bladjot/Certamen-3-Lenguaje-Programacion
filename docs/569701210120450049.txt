@@ -1,0 +1,7 @@
+569701210120450049
+American
+@AmericanAir on top of that my online record was unavailable as well and then couldn't get anyone on the phone.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:32:07 -0800
+location: New York City

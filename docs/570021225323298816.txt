@@ -1,0 +1,10 @@
+570021225323298816
+American
+@AmericanAir @barrettkarabis what a joke you can mail
+The receipt !! Yet. We can't mail
+Them
+A payment and fly before hand right
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 16:43:45 -0800
+location: new york city

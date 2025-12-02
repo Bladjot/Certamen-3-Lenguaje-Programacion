@@ -1,0 +1,7 @@
+569604066239762432
+Southwest
+@SouthwestAir  Mad love http://t.co/4ojrSDWPkK NYC-
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 13:06:06 -0800
+location: everywhere, all the time.

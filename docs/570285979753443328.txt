@@ -1,0 +1,7 @@
+570285979753443328
+Southwest
+@SouthwestAir sent!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:15:47 -0800
+location: Around...

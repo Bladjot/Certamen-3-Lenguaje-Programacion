@@ -1,0 +1,7 @@
+568760613792579584
+Delta
+@JetBlue Felt a bit like they were adding insult to injury, since we'll be in terminal 5 for seven hours until the next flight :/
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 05:14:32 -0800
+location: New York

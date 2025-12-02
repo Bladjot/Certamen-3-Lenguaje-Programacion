@@ -1,0 +1,7 @@
+568169732895051777
+US Airways
+@USAirways Thanks. Suggestion: stop the promo messages after a bit and just run music &amp; a msg that says "call volume is high." #vrm
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 14:06:35 -0800
+location: SBA, BOS, JFK, EWR, SFO, LHR

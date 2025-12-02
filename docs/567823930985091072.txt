@@ -1,0 +1,7 @@
+567823930985091072
+Southwest
+@SouthwestAir I know one thing @Delta would NEVER treat their customers like this!!!!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 15:12:29 -0800
+location: Nashville by way of New York

@@ -1,0 +1,7 @@
+569715860241129472
+American
+@AmericanAir that luggage you forgot...#mia.....he just won an oscar😄💝💝💝
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 20:30:20 -0800
+location: Houston TX

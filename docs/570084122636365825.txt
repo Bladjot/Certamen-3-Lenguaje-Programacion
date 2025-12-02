@@ -1,0 +1,7 @@
+570084122636365825
+Southwest
+@SouthwestAir forget wedding fairs. How about discounts for nonprofits? We donate part of our worth every single day
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 20:53:41 -0800
+location: California

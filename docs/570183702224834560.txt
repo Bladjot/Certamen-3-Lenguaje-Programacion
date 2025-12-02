@@ -1,0 +1,7 @@
+570183702224834560
+United
+@united kudos for not Cancelled Flightling flights from DFW this morning.   United usually first to panic...
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 03:29:22 -0800
+location: nan

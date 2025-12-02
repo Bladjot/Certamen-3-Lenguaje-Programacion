@@ -1,0 +1,7 @@
+569607706358779904
+American
+@americanair Greatest Newark Gate Agents ever: David Deane, Norma Sedholm and Luz Calderon just made me feel like a king. #AmericanAirlines
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 13:20:34 -0800
+location: NEW YORK CITY

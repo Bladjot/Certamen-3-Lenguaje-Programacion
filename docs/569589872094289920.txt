@@ -1,0 +1,7 @@
+569589872094289920
+United
+@united Waiting for 3494 EWR-ORD, delayed 47 mins. Might miss 5491 ORD-YWG at 6pm CT. Any room on 5644 ORD-YWG in case I miss connex?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 12:09:42 -0800
+location: New York NY

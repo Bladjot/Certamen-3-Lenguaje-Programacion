@@ -1,0 +1,7 @@
+568115928044404736
+Delta
+@JetBlue friendly, engaging, personable, handled clarifying questions about baggage fees well, and took an interest in what I was doing.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 10:32:46 -0800
+location: Mill Creek, WA

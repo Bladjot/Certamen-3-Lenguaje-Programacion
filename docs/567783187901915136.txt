@@ -1,0 +1,7 @@
+567783187901915136
+Southwest
+@SouthwestAir employees spreading a bit of #MardiGras cheer at 7:30 this morning in Atlanta  #NFTYConvention http://t.co/ttbtY89Ilo
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 12:30:35 -0800
+location: nan

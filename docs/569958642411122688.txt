@@ -1,0 +1,7 @@
+569958642411122688
+American
+@AmericanAir Heard back at 7:30 am today, was put on flight tomorrow AM, arriving home at 4 pm. Meaning I'd have to take a 2nd day off work.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 12:35:04 -0800
+location: nan

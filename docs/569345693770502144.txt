@@ -1,0 +1,7 @@
+569345693770502144
+Delta
+@JetBlue You can pass that along to my wife, daughter, daughter's friend, my elderly mother-in-law.  They spent several hours waiting.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 19:59:25 -0800
+location: ÜT: 42.487548,-71.103035

@@ -1,0 +1,7 @@
+568809407120855041
+US Airways
+@USAirways delayed I'm charlotte big surprise
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 08:28:25 -0800
+location: nan

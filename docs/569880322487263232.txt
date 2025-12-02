@@ -1,0 +1,7 @@
+569880322487263232
+United
+@united Late Flight crew into #btv last nite delayed todays flt. Will miss connection to #cun. Why do I have to play for hotel tonight in #ewr?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 07:23:51 -0800
+location: Burlington, Vermont

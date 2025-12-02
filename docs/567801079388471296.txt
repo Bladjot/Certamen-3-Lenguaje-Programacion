@@ -1,0 +1,7 @@
+567801079388471296
+Southwest
+@SouthwestAir your social media team just said "sorry". Thankfully submitting a complaint got resolution from an amazing rep who called.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 13:41:41 -0800
+location: nan

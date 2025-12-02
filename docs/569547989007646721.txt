@@ -1,0 +1,7 @@
+569547989007646721
+United
+@united getting ready to book a flight to San Juan. Was wondering, Does United waive baggage fees for military personnel. Thanks.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 09:23:16 -0800
+location: nan

@@ -1,0 +1,7 @@
+569983587572789248
+US Airways
+@USAirways She was put on hold on that number for a loooooong time too.  No help. #lostandforgotten
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:14:11 -0800
+location: New Haven, CT

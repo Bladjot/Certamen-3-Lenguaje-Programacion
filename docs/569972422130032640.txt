@@ -1,0 +1,7 @@
+569972422130032640
+American
+@AmericanAir AA1675 flight out of Jamaica was Cancelled Flightled yesterday due to "weather", while other flights were still landing at DFW
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 13:29:49 -0800
+location: DFW

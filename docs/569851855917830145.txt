@@ -1,0 +1,7 @@
+569851855917830145
+American
+@AmericanAir Its the ABC's of PR, let your customers have the most info possible. Might want to go brush up on the basics...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 05:30:44 -0800
+location: Memphis

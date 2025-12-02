@@ -1,0 +1,7 @@
+569861417689419776
+American
+@AmericanAir is there anyone online that can help... the flight leaves in 3 hrs
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 06:08:44 -0800
+location: cali bound

@@ -1,0 +1,7 @@
+567831392526036992
+Delta
+@JetBlue yes, today. Flight is full now. They said no to me at gate :(
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 15:42:08 -0800
+location: NYC

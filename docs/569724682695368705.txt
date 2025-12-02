@@ -1,0 +1,7 @@
+569724682695368705
+United
+@united Apart from being on hold for over 2 hours and having talked to 5 people and the problem still not resolved!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 21:05:23 -0800
+location: nan

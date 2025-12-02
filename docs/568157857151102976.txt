@@ -1,0 +1,7 @@
+568157857151102976
+Delta
+@JetBlue BEST SEAT ON A E190 to board early. READY. SET. GO!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 13:19:23 -0800
+location: Logan International Airport

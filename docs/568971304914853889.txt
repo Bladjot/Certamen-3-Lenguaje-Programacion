@@ -1,0 +1,7 @@
+568971304914853889
+US Airways
+@USAirways would be less annoying if road conditions weren't getting worse with every min U keep passengers captive for no good reason.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 19:11:44 -0800
+location: Knoxville, TN

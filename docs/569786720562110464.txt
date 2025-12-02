@@ -1,0 +1,7 @@
+569786720562110464
+American
+@AmericanAir my two coats were in that bag so i have been in france with no coat, walking around with a T shirt and one clean pair.(3)
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 01:11:54 -0800
+location: nan

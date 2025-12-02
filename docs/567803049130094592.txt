@@ -1,0 +1,7 @@
+567803049130094592
+US Airways
+@USAirways no wonder you are the lowest rated airline in america. #shameful #USAirways
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 13:49:30 -0800
+location: nan

@@ -1,0 +1,7 @@
+568417913914441728
+US Airways
+@USAirways phone support rebooked but orig flt was Late Flight. Made it!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 06:32:46 -0800
+location: Scruffyville

@@ -1,0 +1,7 @@
+568216196132302848
+US Airways
+@USAirways It's not double booked. I spoke with CS and we've got a plan to fix this. It's still an amateur mistake that should never happen.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 17:11:12 -0800
+location: Redmond, WA

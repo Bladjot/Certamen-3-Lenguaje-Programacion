@@ -1,0 +1,7 @@
+569677591055106048
+American
+@AmericanAir is profiting in the billions and throwing crap at the people who put them there. American is a hurting brand
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 17:58:16 -0800
+location: nan

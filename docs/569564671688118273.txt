@@ -1,0 +1,7 @@
+569564671688118273
+United
+@united flight 5903 stranded on Tarmac in Chicago. No gates available?! Plane getting very hot and uncomfortable.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 10:29:34 -0800
+location: New York, USA

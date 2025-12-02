@@ -1,0 +1,7 @@
+569666892882952192
+Delta
+@JetBlue thanks but still annoying. Especially if I miss my flight. 😉 Can I tweet at the TSA??
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 17:15:45 -0800
+location: nan

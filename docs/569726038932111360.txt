@@ -1,0 +1,7 @@
+569726038932111360
+Southwest
+@SouthwestAir you're right, I do. I've been traveling all day and you guys dropped the ball. Making for a long night.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 21:10:47 -0800
+location: Nashville & Memphis

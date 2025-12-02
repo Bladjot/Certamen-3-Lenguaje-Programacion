@@ -1,0 +1,7 @@
+570094701371469825
+Virgin America
+@VirginAmerica Are the hours of operation for the Club at SFO that are posted online current?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 21:35:43 -0800
+location: California, San Francisco

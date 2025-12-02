@@ -1,0 +1,7 @@
+569886516505407488
+American
+@AmericanAir =UNAmerican Airlines just lies and poor customer services...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:48:28 -0800
+location: Everywhere

@@ -1,0 +1,7 @@
+569580275182772225
+US Airways
+@USAirways care to elaborate on why CHA to DCA is Cancelled Flightled this evening?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 11:31:34 -0800
+location: Where you least need me to be

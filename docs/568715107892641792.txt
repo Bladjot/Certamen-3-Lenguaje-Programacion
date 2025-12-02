@@ -1,0 +1,7 @@
+568715107892641792
+United
+@united  Thank you for a wonderful global first class flight on your 777 to FRA. Great service. (cont) http://t.co/46n9kDcsxU
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 02:13:42 -0800
+location: Tulsa, OK

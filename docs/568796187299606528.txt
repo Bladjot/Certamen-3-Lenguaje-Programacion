@@ -1,0 +1,7 @@
+568796187299606528
+US Airways
+@USAirways I fly quite a bit, and it's not difficult to communicate. If agents let people know what's happening, arrangements can be made
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 07:35:53 -0800
+location: West Palm

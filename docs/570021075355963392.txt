@@ -1,0 +1,7 @@
+570021075355963392
+United
+@united also, the mere fact that I have to go online to issue a statement vice calling and talking to some directly is one good example.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 16:43:09 -0800
+location: san diego

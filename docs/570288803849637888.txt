@@ -1,0 +1,7 @@
+570288803849637888
+Delta
+@JetBlue thanks great recap. I wouldn't have been able to sleep!  I was nervous the bad guy was getting away. 😉
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 10:27:00 -0800
+location: Canton MA

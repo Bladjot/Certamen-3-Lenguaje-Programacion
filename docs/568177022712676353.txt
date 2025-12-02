@@ -1,0 +1,7 @@
+568177022712676353
+Southwest
+@SouthwestAir snapchat, iMessage, instagram......
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 14:35:33 -0800
+location: nan

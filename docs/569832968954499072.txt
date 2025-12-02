@@ -1,0 +1,7 @@
+569832968954499072
+US Airways
+@USAirways Is your refund system down?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 04:15:41 -0800
+location: Boston, MA

@@ -1,0 +1,7 @@
+569631973859139584
+American
+@AmericanAir has Cancelled Flighted their last 3 flight into SHV tonight &amp; all flights for tomorrow, Feb. 23, out of SHV and multiple flight into SHV.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 14:57:00 -0800
+location: Shreveport, Louisiana

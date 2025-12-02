@@ -1,0 +1,7 @@
+569882830328569856
+American
+@AmericanAir  when do you anticipate decisions for Cancelled Flightlations at DFW tomorrow morning? Need to rearrange hotel reservations, etc. ASAP!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 07:33:49 -0800
+location: nan

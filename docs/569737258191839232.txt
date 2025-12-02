@@ -1,0 +1,7 @@
+569737258191839232
+American
+@AmericanAir would like to talk to someone, please follow.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 21:55:22 -0800
+location: nan

@@ -1,0 +1,7 @@
+569970659297792000
+US Airways
+@USAirways look out for flying rocks this time! It's a bird it's a plane! Nah never mind it's just a rock...
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 13:22:49 -0800
+location: VT

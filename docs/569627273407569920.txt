@@ -1,0 +1,7 @@
+569627273407569920
+Delta
+@JetBlue so the prefference option is not something that you honor? So why having it as one of the services if not applied?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:38:19 -0800
+location: New York

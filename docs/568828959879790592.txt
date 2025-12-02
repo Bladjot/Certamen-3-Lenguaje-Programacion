@@ -1,0 +1,7 @@
+568828959879790592
+Southwest
+@SouthwestAir y airline I fly with, but haven't seen anything like this yet!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 09:46:07 -0800
+location: Pocono Raceway

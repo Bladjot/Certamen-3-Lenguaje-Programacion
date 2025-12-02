@@ -1,0 +1,7 @@
+570058295689523200
+US Airways
+@USAirways finally spoke with someone. I have to email the refund dept. I love you guys, but 6 hours in line to be told no dice sucks.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-23 19:11:03 -0800
+location: nan

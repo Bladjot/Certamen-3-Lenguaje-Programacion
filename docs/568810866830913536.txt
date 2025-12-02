@@ -1,0 +1,7 @@
+568810866830913536
+United
+@united what do I do if something is missing from my checked baggage?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 08:34:13 -0800
+location: nan

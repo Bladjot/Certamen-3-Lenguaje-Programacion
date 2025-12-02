@@ -1,0 +1,7 @@
+568140468854198272
+US Airways
+@USAirways I spent more on the room &amp; transportation then I did the whole flight
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 12:10:17 -0800
+location: nan

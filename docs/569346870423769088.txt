@@ -1,0 +1,7 @@
+569346870423769088
+Delta
+@JetBlue thanks! Yes! order me a rum and coke and get me a hotel voucher because the floor and chairs aren't so cushy here...!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 20:04:06 -0800
+location: new york

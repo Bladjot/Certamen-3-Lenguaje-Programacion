@@ -1,0 +1,7 @@
+568895587900207104
+Delta
+@JetBlue Did you discontinue nonstop service from SJC to BOS? Can't find 471 or 472 anywhere
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 14:10:52 -0800
+location: SJ-BOS-SJ

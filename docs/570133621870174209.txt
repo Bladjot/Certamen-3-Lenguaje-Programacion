@@ -1,0 +1,7 @@
+570133621870174209
+American
+@AmericanAir they are giving cots to the people that did not get hotel rooms...that is terrible..
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 00:10:22 -0800
+location: nan

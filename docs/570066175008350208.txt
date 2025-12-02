@@ -1,0 +1,7 @@
+570066175008350208
+Delta
+“@JetBlue: Our fleet's on fleek. http://t.co/Vxn2J36M7V” this happened
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 19:42:22 -0800
+location: nan

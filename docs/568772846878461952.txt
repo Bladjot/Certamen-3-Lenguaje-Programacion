@@ -1,0 +1,7 @@
+568772846878461952
+Southwest
+@SouthwestAir Repeating this is policy is basically repeating "Fuck you" to your customers. I'll be shopping for a new airline ASAP
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 06:03:08 -0800
+location: Baltimore, MD

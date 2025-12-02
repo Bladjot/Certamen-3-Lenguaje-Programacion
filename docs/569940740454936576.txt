@@ -1,0 +1,7 @@
+569940740454936576
+American
+@AmericanAir I love very much your planes, can you please follow me back? It's an amazing bussines!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 11:23:56 -0800
+location: nan

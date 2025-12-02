@@ -1,0 +1,7 @@
+569800909942886400
+American
+@AmericanAir love how you can't get an agent on the phone and the automated system hangs up on you
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 02:08:17 -0800
+location: nan

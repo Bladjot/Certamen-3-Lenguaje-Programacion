@@ -1,0 +1,7 @@
+569510774957170690
+Southwest
+@SouthwestAir no after 75 mins of hold, I finally hung up! Ridiculous wait times. Can you assist in Cancelled Flighting reservation?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 06:55:24 -0800
+location: nan

@@ -1,0 +1,7 @@
+567873087108161536
+Delta
+@JetBlue I have the emails that they are on their way
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 18:27:49 -0800
+location: nan

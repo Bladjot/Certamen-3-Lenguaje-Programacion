@@ -1,0 +1,7 @@
+569944807830736896
+American
+@AmericanAir I have the app - after my nonsense flight Cancelled Flightation yesterday I wasn't able to use the app or kiosk today. Hour long line.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 11:40:05 -0800
+location: nan

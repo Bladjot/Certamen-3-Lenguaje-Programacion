@@ -1,0 +1,7 @@
+569186566247051265
+United
+@united bags arrived - I sure miss the customer focused days when I used to fly @ContinentalAir1 Here's hoping @united wakes up
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 09:27:07 -0800
+location: nan

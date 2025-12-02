@@ -1,0 +1,7 @@
+568178355452792832
+Southwest
+@SouthwestAir I dunno my travel information.. like what?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 14:40:50 -0800
+location: nan

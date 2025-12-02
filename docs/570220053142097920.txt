@@ -1,0 +1,7 @@
+570220053142097920
+American
+@AmericanAir we're all being told by emergency services to stay home for the next 24-48 hours.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 05:53:49 -0800
+location: usa::fr::uk

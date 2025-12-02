@@ -1,0 +1,7 @@
+568152863962238976
+US Airways
+@USAirways surprisingly quick response time by you and them. Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 12:59:33 -0800
+location: Boston, MA | San Jose, CA

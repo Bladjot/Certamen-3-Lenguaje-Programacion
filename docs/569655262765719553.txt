@@ -1,0 +1,7 @@
+569655262765719553
+Delta
+@JetBlue what happens when I have a confirmed flight but no seat available during online checkin except for Even More Space upgrades?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 16:29:32 -0800
+location: San Francisco, CA

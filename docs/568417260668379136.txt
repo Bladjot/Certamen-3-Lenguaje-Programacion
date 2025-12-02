@@ -1,0 +1,7 @@
+568417260668379136
+Delta
+@JetBlue How is it possible the only way to contact your fraud department is mailing a physical letter? No telephone? No email? REALLY??
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 06:30:10 -0800
+location: nan

@@ -1,0 +1,7 @@
+567845726220357632
+Virgin America
+@VirginAmerica is that #thestarter??😁
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 16:39:05 -0800
+location: Cork.Ireland

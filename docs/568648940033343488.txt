@@ -1,0 +1,7 @@
+568648940033343488
+United
+@united I would appreciate an answer on why we weren't alerted flight had been Cancelled Flighted until plane landed.  #showsomerespect
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 21:50:46 -0800
+location: nan

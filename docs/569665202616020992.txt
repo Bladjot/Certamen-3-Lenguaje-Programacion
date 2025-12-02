@@ -1,0 +1,7 @@
+569665202616020992
+US Airways
+@USAirways Can you advise on what's happening with departure delays from CLT?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:09:02 -0800
+location: nan

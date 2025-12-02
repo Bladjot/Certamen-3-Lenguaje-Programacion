@@ -1,0 +1,7 @@
+568210186755813376
+Delta
+@JetBlue good luck. Thanks.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 16:47:20 -0800
+location: nan

@@ -1,0 +1,7 @@
+569661509988708352
+American
+@AmericanAir Hopefully you guys are willing to cover my lovely car rental and living charges...I love being here for two extra days..
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 16:54:22 -0800
+location: Russell, KS

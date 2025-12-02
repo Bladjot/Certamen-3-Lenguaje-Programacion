@@ -1,0 +1,7 @@
+568572753403650049
+United
+@united Lost my wallet on flight 1007 yesterday from Houston to Bogota. Filled out your online form. No response yet.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 16:48:02 -0800
+location: nan

@@ -1,0 +1,7 @@
+570053734639792129
+United
+@united Today was not your finest. All could have been prevented by one gate agent advising 200 passengers.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 18:52:56 -0800
+location: Chicago, IL

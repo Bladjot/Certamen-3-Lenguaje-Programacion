@@ -1,0 +1,7 @@
+568935917341286400
+US Airways
+@USAirways @AmericanAir thought u merged but #USAirways sucks #worstever http://t.co/myNZitCovn
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 16:51:07 -0800
+location: Stamford, Ct

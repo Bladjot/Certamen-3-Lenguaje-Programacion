@@ -1,0 +1,7 @@
+567785752751505412
+Delta
+@JetBlue what is the name of this tailfin? http://t.co/qxV45MV0Ug
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 12:40:47 -0800
+location: North Carolina

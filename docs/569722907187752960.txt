@@ -1,0 +1,7 @@
+569722907187752960
+United
+@united quick (serious) question - any resources/ratings showing the quality of service is better than 8th place? http://t.co/deWIthPeW2
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 20:58:20 -0800
+location: San Francisco, Ca

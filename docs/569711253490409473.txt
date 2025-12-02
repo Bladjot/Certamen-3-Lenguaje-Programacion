@@ -1,0 +1,7 @@
+569711253490409473
+American
+“@AmericanAir Thanks for info on super large passengers- the extra seat Mr. Big needed was the one i was sitting in already #customerservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:12:02 -0800
+location: New Haven, CT

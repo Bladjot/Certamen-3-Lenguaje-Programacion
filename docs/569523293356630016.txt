@@ -1,0 +1,7 @@
+569523293356630016
+US Airways
+@USAirways my option is to use twitter. Most of the people working for u have no clue what they do. they tell you to go to A4 but its b16
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:45:09 -0800
+location: Bruxelle-Paris-Marseille-(BPM)

@@ -1,0 +1,7 @@
+568775493727551488
+US Airways
+@USAirways doesn't seem likely bc your team failed to scan my bag in LAX and you recycle bagtag numbers that doesn't help #usairwaysfail
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 06:13:39 -0800
+location: nan

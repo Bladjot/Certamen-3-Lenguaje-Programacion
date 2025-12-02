@@ -1,0 +1,7 @@
+568071159285022720
+United
+@united how come it's cheaper to fly to BKK than NRT even though to get to BKK you take an extra flight, from NRT!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 07:34:53 -0800
+location: Mexico City

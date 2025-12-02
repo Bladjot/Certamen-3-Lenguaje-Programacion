@@ -1,0 +1,7 @@
+569924393976987649
+Southwest
+@SouthwestAir a companion pass flyer to other airlines because it's being abused @ every airport...
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 10:18:58 -0800
+location: nan

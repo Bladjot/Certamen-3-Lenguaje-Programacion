@@ -1,0 +1,7 @@
+569581977889869825
+United
+@united Thanks so much , my passport was recovered
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 11:38:20 -0800
+location: nan

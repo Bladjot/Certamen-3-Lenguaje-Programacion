@@ -1,0 +1,7 @@
+570037336886546432
+United
+Yes!! Thanks so much!!! 💜“@united: @whitterbug We see you spoke with our Reservations team and they've reinstated the flight. Thanks. ^EY”
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 17:47:46 -0800
+location: Houston, TX

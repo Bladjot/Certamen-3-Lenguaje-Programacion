@@ -1,0 +1,7 @@
+569741366642618368
+United
+@united UA flight 1247. SFO to LAX took my carry on at gate. I'm Group 2, overhead bins are empty
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 22:11:41 -0800
+location: Boston, MA

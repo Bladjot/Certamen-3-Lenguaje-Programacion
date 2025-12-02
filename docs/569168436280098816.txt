@@ -1,0 +1,7 @@
+569168436280098816
+Southwest
+@SouthwestAir VERY frustrated. Saw seats avail. online for pref alt. flight, unable to book online, lost those seats during &gt;2 hr phone hold
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 08:15:04 -0800
+location: Salt Lake City

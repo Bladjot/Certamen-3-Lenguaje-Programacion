@@ -1,0 +1,7 @@
+569392511732588544
+US Airways
+@USAirways flight 1898 landed over 2 hours ago and they still haven't gotten to the gate.. What's the hold uppp 😭😭 #imtired #wannagohome
+sentiment: negative
+negativereason: longlines
+created: 2015-02-21 23:05:28 -0800
+location: Brooklyn, NY

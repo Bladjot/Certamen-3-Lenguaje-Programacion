@@ -1,0 +1,7 @@
+570261514340474880
+Southwest
+@SouthwestAir  on hold with customer service; you may be quicker.  I rebooked trip for a lower fare.  Where did the difference in $ go?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 08:38:34 -0800
+location: nan

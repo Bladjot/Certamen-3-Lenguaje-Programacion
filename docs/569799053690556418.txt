@@ -1,0 +1,7 @@
+569799053690556418
+American
+@AmericanAir if you could let me know where I'm staying tonight (if you've booked anything) that would be great. Do I have to go to the
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 02:00:55 -0800
+location: San Diego

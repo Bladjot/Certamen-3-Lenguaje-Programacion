@@ -1,0 +1,7 @@
+570260383862108160
+United
+@united What is your phone number. I can't find who to call about a flight reservation.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 08:34:05 -0800
+location: Sterling Heights, MI

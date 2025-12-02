@@ -1,0 +1,7 @@
+569322456776892417
+United
+.@united Your airline is again rated the WORST in America so you've got your work cut out for you. It's bc you treat customers like garbage.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 18:27:05 -0800
+location: Boston, MA

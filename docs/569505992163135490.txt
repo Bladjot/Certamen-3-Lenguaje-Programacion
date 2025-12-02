@@ -1,0 +1,7 @@
+569505992163135490
+US Airways
+@USAirways how does it feel to have almost everyone hate you?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 06:36:24 -0800
+location: scrummy hooker

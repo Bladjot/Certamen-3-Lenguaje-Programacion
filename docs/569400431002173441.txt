@@ -1,0 +1,7 @@
+569400431002173441
+United
+@united all set. Figured it out at the baggage office!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 23:36:56 -0800
+location: Little Rhody

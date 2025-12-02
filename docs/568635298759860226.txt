@@ -1,0 +1,7 @@
+568635298759860226
+Delta
+@JetBlue on your 1503 flight JFK to PR. They got the doors open on this frigid temperature. #icyflight
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 20:56:34 -0800
+location: The Big Manzana

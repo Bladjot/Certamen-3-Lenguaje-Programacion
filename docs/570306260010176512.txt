@@ -1,0 +1,7 @@
+570306260010176512
+American
+@AmericanAir 1hr 46 min. Cost of flight change $788. Was $188 2hrs ago b/f drop call. Cancelled Flighted flight. Asked 4 refund.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 11:36:22 -0800
+location: Washington, DC

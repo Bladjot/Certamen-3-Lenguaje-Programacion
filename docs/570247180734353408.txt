@@ -1,0 +1,7 @@
+570247180734353408
+American
+@AmericanAir Oh they seem  to have reappeared now lol
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 07:41:37 -0800
+location: nan

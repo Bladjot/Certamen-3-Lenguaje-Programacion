@@ -1,0 +1,7 @@
+567735766416392194
+Southwest
+.@SouthwestAir you've got a mess here at DTW but your staff is doing great.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 09:22:09 -0800
+location: Michigan

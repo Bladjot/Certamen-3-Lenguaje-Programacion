@@ -1,0 +1,7 @@
+570250371110539264
+American
+@AmericanAir Is large Wichita Falls Airport not receiving any arrivals? I have called and no one answers. I been waiting for 1 day
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 07:54:17 -0800
+location: nan

@@ -1,0 +1,7 @@
+569931753768382464
+Delta
+Why @JetBlue let someone from black Twitter in their multimedia department?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:48:13 -0800
+location: nan

@@ -1,0 +1,7 @@
+570012257549070337
+Virgin America
+@VirginAmerica I'm #elevategold for a good reason: you rock!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 16:08:07 -0800
+location: Los Angeles

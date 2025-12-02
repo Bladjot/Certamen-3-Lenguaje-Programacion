@@ -1,0 +1,7 @@
+570082289939406848
+American
+@AmericanAir I am traveling from AUH to IAD via etihad and then from IAD to DFW via AA. Will I be able to retrieve my checked bag in IAD?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 20:46:24 -0800
+location: The Great State of TEXAS

@@ -1,0 +1,7 @@
+570080545461407745
+American
+@AmericanAir even followed me, but I still can't get them to answer their phones. Worst. Customer "service". Ever. #customerservice #fail
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 20:39:28 -0800
+location: LA

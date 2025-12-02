@@ -1,0 +1,7 @@
+569960833884803072
+Delta
+............. RT @JetBlue: Our fleet's on fleek. http://t.co/X7iLzqdwe2
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:43:46 -0800
+location: Flexin in Zamunda

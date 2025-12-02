@@ -1,0 +1,7 @@
+569876152036290560
+American
+@AmericanAir Will do. Appreciate the replies though.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 07:07:17 -0800
+location: Russell, KS

@@ -1,0 +1,7 @@
+570018532727103489
+American
+@AmericanAir btr trained gate agts. Im a frequent flyer &amp; have nvr had issue w/my bag 2day I was forced 2 gate check while priority boarding
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 16:33:03 -0800
+location: nan

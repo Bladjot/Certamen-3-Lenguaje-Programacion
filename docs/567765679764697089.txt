@@ -1,0 +1,7 @@
+567765679764697089
+Southwest
+@SouthwestAir do you do auto callbacks so I don't have to wait on hold?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 11:21:01 -0800
+location: USA

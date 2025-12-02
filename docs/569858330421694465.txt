@@ -1,0 +1,7 @@
+569858330421694465
+American
+@AmericanAir Telling frustrated customers "we are super busy, please call back Late Flightr kthxbai" and then hanging up is not the best practice.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 05:56:28 -0800
+location: nan

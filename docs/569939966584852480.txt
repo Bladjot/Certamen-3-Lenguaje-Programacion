@@ -1,0 +1,7 @@
+569939966584852480
+Delta
+@JetBlue @martysg Spoke to Corp. Customer Support already.  Shame.  Probably a reasonable and cheaper resolution to be had.  Regards
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 11:20:51 -0800
+location: nan

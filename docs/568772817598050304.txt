@@ -1,0 +1,7 @@
+568772817598050304
+Southwest
+@SouthwestAir yeah... that's not what happened. I'm really pissed. This is the kind of thing I expect from US or Austrian, not you.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 06:03:01 -0800
+location: Tempe, AZ & World Wide

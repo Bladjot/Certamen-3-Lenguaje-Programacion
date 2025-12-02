@@ -1,0 +1,7 @@
+569659878693695488
+United
+@United Claudia in IAH terminal b travel assistance has me all set. Great service. Thank you.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 16:47:53 -0800
+location: nan

@@ -1,0 +1,7 @@
+569940998035345408
+Delta
+@JetBlue Not really. I have a flight to catch at 1 pm in Vegas. I'm praying I don't miss the flight!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:24:57 -0800
+location: nan

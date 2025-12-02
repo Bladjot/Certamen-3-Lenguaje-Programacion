@@ -1,0 +1,7 @@
+570116487278501888
+American
+@AmericanAir you guys Cancelled Flightled my flight for today and booked me for tomorrow, so unfortunately i have rebooked. Thanks
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 23:02:17 -0800
+location: nan

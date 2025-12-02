@@ -1,0 +1,7 @@
+569591647685775361
+United
+@united @Lmuschel he is traveling with me on a sep reservation number F3KxB8
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:16:45 -0800
+location: nan

@@ -1,0 +1,7 @@
+568951601777512448
+United
+@united thank you for 7 hrs at terminal D in Dulles airport http://t.co/IG2dgctt2M
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 17:53:27 -0800
+location: Washington DC

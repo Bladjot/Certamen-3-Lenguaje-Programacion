@@ -1,0 +1,7 @@
+570092210466611200
+American
+@AmericanAir your online site doesn't have flights listed in chronological order, resulting in a mis-purchase. Anything that can be done?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 21:25:49 -0800
+location: Cincity, ❤️hio

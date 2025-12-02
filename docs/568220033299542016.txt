@@ -1,0 +1,7 @@
+568220033299542016
+US Airways
+@USAirways I have been doing that all day. Can't find my bag anywhere bc they're saying it was never scanned &amp; technically never left LAX.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 17:26:27 -0800
+location: nan

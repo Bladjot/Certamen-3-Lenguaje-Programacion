@@ -1,0 +1,7 @@
+568124733851443200
+Delta
+@JetBlue their names are both Angel (seriously - how cool is that!). Truly FANTASTIC service!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 11:07:46 -0800
+location: nan

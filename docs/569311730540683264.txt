@@ -1,0 +1,7 @@
+569311730540683264
+Delta
+@JetBlue thank you for taking care of me with a drink since my in-flight entertainment wasn't working #goodcustomerservice
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 17:44:28 -0800
+location: Southern California

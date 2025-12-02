@@ -1,0 +1,7 @@
+569947389383065600
+Delta
+Stop the madness "@JetBlue: Our fleet's on fleek. http://t.co/Q5a7jtkI5K”
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:50:21 -0800
+location: nan

@@ -1,0 +1,7 @@
+569937143314849792
+United
+@united I will do delayed baggage claim when I land. Hopefully the bag isn't broken into, damaged or lost w/c will result in more complaints
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-23 11:09:38 -0800
+location: Stockholm, Sweden

@@ -1,0 +1,7 @@
+568225166527991808
+US Airways
+@USAirways I would be willing to pay anything to change a flight! @AllegiantTravel does not! help!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 17:46:51 -0800
+location: Puerto Rico

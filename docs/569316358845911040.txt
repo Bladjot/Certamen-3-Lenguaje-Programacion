@@ -1,0 +1,7 @@
+569316358845911040
+Virgin America
+@VirginAmerica Only way to fly! #Elevate #Gold
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 18:02:51 -0800
+location: LaLa Land

@@ -1,0 +1,7 @@
+568637034761302017
+Southwest
+@SouthwestAir last 5 flights have all consistently ran behind schedule what's up with that ??
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 21:03:28 -0800
+location: Las Vegas

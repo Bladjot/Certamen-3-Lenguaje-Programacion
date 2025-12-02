@@ -1,0 +1,7 @@
+570103559318081536
+American
+Why doesn't @AmericanAir allow for conversations between upset customers and their customer service?  #worstcustomerserviceever
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 22:10:55 -0800
+location: nan

@@ -1,0 +1,7 @@
+569604033083789312
+Delta
+@JetBlue at what point in delays can I take a different flight to my destination?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 13:05:58 -0800
+location: nan

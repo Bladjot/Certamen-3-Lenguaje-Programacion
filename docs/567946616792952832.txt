@@ -1,0 +1,7 @@
+567946616792952832
+United
+@united  treats service members like crap never flying again with them #UnitedAirlines  @CNN
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 23:20:00 -0800
+location: Wherever the Army sends me

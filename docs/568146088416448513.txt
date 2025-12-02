@@ -1,0 +1,7 @@
+568146088416448513
+Delta
+@JetBlue lots of people scratching heads and looking at screens ignoring passengers
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 12:32:37 -0800
+location: ft Lauderdale

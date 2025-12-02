@@ -1,0 +1,7 @@
+569883077289181184
+American
+@AmericanAir can't get thru to anyone on phone
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:34:48 -0800
+location: New England

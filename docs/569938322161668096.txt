@@ -1,0 +1,7 @@
+569938322161668096
+United
+@united don't see a justifiable cost to get on an early flight with seats. No airline charges to conveniently get their passengers in early
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 11:14:19 -0800
+location: PDX

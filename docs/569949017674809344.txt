@@ -1,0 +1,7 @@
+569949017674809344
+American
+@AmericanAir still not taking calls ?   Storm ended 2 days ago. Be like pats and #doyourjob
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:56:49 -0800
+location: nan

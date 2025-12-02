@@ -1,0 +1,7 @@
+567900433542488064
+Southwest
+@SouthwestAir I am scheduled for the morning, 2 days after the fact, yes..not sure why my evening flight was the only one Cancelled Flightled
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 20:16:29 -0800
+location: Washington D.C.

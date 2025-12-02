@@ -1,0 +1,7 @@
+569373375988150272
+US Airways
+@USAirways @_RobPrice  how can he try again it will be 5-6 hours before he gets help.  Contingency plans non existent.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 21:49:25 -0800
+location: NYC

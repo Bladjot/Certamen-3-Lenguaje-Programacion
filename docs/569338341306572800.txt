@@ -1,0 +1,7 @@
+569338341306572800
+United
+@united yes. On a nonstop to Memphis tomorrow morning. With the snow coming in I got my fingers crossed it will go.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 19:30:13 -0800
+location: Oxford, MS

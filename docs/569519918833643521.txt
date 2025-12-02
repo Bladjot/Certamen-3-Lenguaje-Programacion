@@ -1,0 +1,7 @@
+569519918833643521
+US Airways
+@USAirways @AmericanAir Almost half hour on hold.  My cell phone battery is dying.  Thanks for your loyalty from a "Platinum" member
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:31:44 -0800
+location: Great Barrington, MA

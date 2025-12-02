@@ -1,0 +1,7 @@
+568881975177515009
+US Airways
+@USAirways why I can't book a flight to PRN through your website?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 13:16:46 -0800
+location: Somewhere in the Milky Way

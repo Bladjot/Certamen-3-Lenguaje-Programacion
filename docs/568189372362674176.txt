@@ -1,0 +1,7 @@
+568189372362674176
+US Airways
+@USAirways PLEASE improve your phone system! Going through multiple prompts &amp; menus just to be told to call back Late Flightr = MAJOR FAIL
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 15:24:37 -0800
+location: nan

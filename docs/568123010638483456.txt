@@ -1,0 +1,7 @@
+568123010638483456
+US Airways
+@USAirways Have him call me.  I cant wait to see if anything happens.  Your service really sucks.#usairwayssucks
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 11:00:55 -0800
+location: nan

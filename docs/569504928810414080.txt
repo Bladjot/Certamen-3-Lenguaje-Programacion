@@ -1,0 +1,7 @@
+569504928810414080
+US Airways
+@USAirways waiting for you to figure it out. This is unacceptable.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 06:32:10 -0800
+location: America

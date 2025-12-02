@@ -1,0 +1,7 @@
+567754056924672000
+US Airways
+@USAirways Fabulous - thank you so much! Looking forward to taking to the skies with you! :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 10:34:50 -0800
+location: Ohio

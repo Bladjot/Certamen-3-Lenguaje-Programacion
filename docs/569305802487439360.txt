@@ -1,0 +1,7 @@
+569305802487439360
+Delta
+@JetBlue Tomorrow wouldn’t have been soon enough! Thank you for the info!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 17:20:55 -0800
+location: NY

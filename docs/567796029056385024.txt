@@ -1,0 +1,7 @@
+567796029056385024
+Delta
+@JetBlue thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 13:21:37 -0800
+location: North Carolina

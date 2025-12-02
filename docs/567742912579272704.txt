@@ -1,0 +1,7 @@
+567742912579272704
+US Airways
+@USAirways it's not a consolation because my bags are somewhere else, which is a real impediment to me going on a different vacation
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 09:50:33 -0800
+location: Ohio

@@ -1,0 +1,7 @@
+569934048346251264
+Delta
+“@JetBlue: Our fleet's on fleek. http://t.co/RkwugmanM9” lmao you know a white person said this
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:57:20 -0800
+location: interstellar

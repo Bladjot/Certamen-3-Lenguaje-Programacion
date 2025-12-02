@@ -1,0 +1,7 @@
+570106114202861568
+American
+@AmericanAir 2284, four hours Late Flightrs and we are finally flying out...too bad I missed my event
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 22:21:04 -0800
+location: Living my dreams in motion

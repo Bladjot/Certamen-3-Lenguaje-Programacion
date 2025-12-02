@@ -1,0 +1,7 @@
+568574989688901632
+US Airways
+@USAirways still no rep can talk 3 days Late Flightr. U r asking me to checkin to my flight tmrw and my refund is being requested.  Deal w this!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 16:56:55 -0800
+location: Austin, TX

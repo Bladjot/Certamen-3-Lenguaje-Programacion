@@ -1,0 +1,7 @@
+568437324587012096
+United
+@united can you help from there? UA4935 can't take off without missing galley cart that no one can find. Pax all seated for last hour.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 07:49:53 -0800
+location: San Francisco, CA

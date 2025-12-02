@@ -1,0 +1,7 @@
+569322372995551232
+United
+@united what's the best way to get your tickets? Print off at home or go to check in desk?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 18:26:45 -0800
+location: Saskatchewan

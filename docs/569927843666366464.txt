@@ -1,0 +1,7 @@
+569927843666366464
+American
+@AmericanAir @EdPlotts don't bother trying to get anywhere with their customer service team either as take 2+ months and counting to reply
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:32:41 -0800
+location: Bromyard

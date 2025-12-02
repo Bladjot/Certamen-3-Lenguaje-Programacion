@@ -1,0 +1,7 @@
+569903377598914562
+Southwest
+@SouthwestAir Glad to know I'll be flying the luv airline tomorrow ;)
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 08:55:28 -0800
+location: Columbus, OH

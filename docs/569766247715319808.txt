@@ -1,0 +1,7 @@
+569766247715319808
+American
+@AmericanAir flight Cancelled Flighted! I'm trying to get to #chicago. What are me and @justynmoro gonna do. #flying#flight#travel
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 23:50:33 -0800
+location: Pride Rock

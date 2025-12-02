@@ -1,0 +1,7 @@
+568467150475812864
+Southwest
+@SouthwestAir you need to get your act together. You new this morning at 830 our plane was malfunctioning. Yet I've been delayed 3 times ..
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 09:48:24 -0800
+location: CT

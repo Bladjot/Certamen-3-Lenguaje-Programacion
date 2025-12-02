@@ -1,0 +1,7 @@
+569682545375354880
+US Airways
+@USAirways @PHLAirport we don't control your stupidity in not having room to have a plane come in. You better not mess with us now.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:17:57 -0800
+location: Does it really matter

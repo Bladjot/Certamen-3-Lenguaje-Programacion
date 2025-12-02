@@ -1,0 +1,7 @@
+569526294477725697
+United
+@united how are conditions in BOS today? I'm in UA994. Everything appears to be in time but I wanted to check.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 07:57:04 -0800
+location: AustinTX-AUS/CaliColombia-CLO

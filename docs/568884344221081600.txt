@@ -1,0 +1,7 @@
+568884344221081600
+United
+@united not 100% sure, however my ticket included one checked bag, therefore this charge was extra and completely unanticipated.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 13:26:11 -0800
+location: Edinbrah

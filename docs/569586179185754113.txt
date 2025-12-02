@@ -1,0 +1,7 @@
+569586179185754113
+United
+@united Waiting half an hour for my checked bag at EWR (&amp; that was Priority); disappointing, usually you guys are good.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 11:55:02 -0800
+location: New York, NY

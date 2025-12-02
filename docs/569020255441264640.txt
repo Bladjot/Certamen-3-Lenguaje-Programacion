@@ -1,0 +1,7 @@
+569020255441264640
+Southwest
+@SouthwestAir Do you have childrens rates for flights?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 22:26:15 -0800
+location: north bend, wa

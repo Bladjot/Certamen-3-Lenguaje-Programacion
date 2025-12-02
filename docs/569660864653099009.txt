@@ -1,0 +1,7 @@
+569660864653099009
+Southwest
+@SouthwestAir sitting in Newark because flight 4179 was Cancelled Flightled for no apparent reason.  All I was told was sorry after 2.5 hrs waiting
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 16:51:48 -0800
+location: nan

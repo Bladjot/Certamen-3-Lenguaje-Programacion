@@ -1,0 +1,7 @@
+570078355770339328
+US Airways
+@USAirways yay for glitchy tracking system!  My bags made it to my destination and not Laguardia like the app said!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 20:30:46 -0800
+location: Denver, CO

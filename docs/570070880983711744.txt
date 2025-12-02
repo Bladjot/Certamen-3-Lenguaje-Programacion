@@ -1,0 +1,7 @@
+570070880983711744
+Southwest
+@SouthwestAir we can let #bags flutter because we charge travelers that had to change dates #fullprice and we don't let them travel
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 20:01:04 -0800
+location: Kansas City MO

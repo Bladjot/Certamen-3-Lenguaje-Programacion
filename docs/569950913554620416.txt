@@ -1,0 +1,7 @@
+569950913554620416
+Delta
+Just in case you needed confirmation that "on fleek" is dead &amp; gone. RT @JetBlue: Our fleet's on fleek. http://t.co/G4O6yX7TMJ
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 12:04:21 -0800
+location: Sunny Cali by way of NYC

@@ -1,0 +1,7 @@
+570182972554371072
+American
+@AmericanAir I'm flying into DCA my bag is at IAD.  I am already Late Flight for my meetings at work.  I will call the number when I land 😭
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 03:26:28 -0800
+location: nan

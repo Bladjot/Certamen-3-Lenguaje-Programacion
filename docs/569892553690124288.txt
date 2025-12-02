@@ -1,0 +1,7 @@
+569892553690124288
+US Airways
+@USAirways DOMINICK L. at La Guardia airport NYC gives the absolute best customer service! Thanku! Checking in made easy!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 08:12:27 -0800
+location: east coast

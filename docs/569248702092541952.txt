@@ -1,0 +1,7 @@
+569248702092541952
+Southwest
+@SouthwestAir could you add me to that list? Been on hold for an hour 15
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 13:34:01 -0800
+location: nan

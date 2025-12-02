@@ -1,0 +1,7 @@
+567806884191944705
+Virgin America
+@VirginAmerica Dad on Segway is the best part of this whole infographic!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 14:04:45 -0800
+location: Waltham, MA

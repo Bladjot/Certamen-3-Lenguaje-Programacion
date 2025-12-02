@@ -1,0 +1,7 @@
+567895664769785856
+Delta
+@JetBlue the gate agent said our original plane got de-icing fluid in the engine that created a short so they took the plane out of service
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 19:57:32 -0800
+location: nan

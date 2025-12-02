@@ -1,0 +1,7 @@
+570088310334484480
+American
+@AmericanAir My bag flew with AA while I flew with Delta, and I'm still not sure whose final carrier is referred to.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 21:10:19 -0800
+location: Finn between Detroit & Toledo

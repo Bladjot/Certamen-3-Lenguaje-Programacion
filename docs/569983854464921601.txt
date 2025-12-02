@@ -1,0 +1,7 @@
+569983854464921601
+American
+@AmericanAir I understand they're busy &amp; doing their best. My frustration is an automated call changing my flight w/o allowing me to talk
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:15:15 -0800
+location: PNW

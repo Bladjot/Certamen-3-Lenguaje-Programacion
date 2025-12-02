@@ -1,0 +1,7 @@
+568050773910622209
+US Airways
+@USAirways so you're going to make me wait that long on the phone line when you can help me? # that's part of the problem
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 06:13:53 -0800
+location: Houston Texas

@@ -1,0 +1,7 @@
+568122284474544128
+United
+@united Cancelled Flighting. bought a ticket for a friend but cant get the credit under my name
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 10:58:02 -0800
+location: Chasing Carmen San Diego

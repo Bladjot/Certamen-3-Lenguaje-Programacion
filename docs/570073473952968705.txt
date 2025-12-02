@@ -1,0 +1,7 @@
+570073473952968705
+US Airways
+@USAirways my frustrations are the result of multiple experiences Late Flightly. Currently lost luggage. I want to talk to a real person.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 20:11:22 -0800
+location: nan

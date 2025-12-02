@@ -1,0 +1,7 @@
+569336095411965952
+United
+@united can you make sure I’m on the upgrade list for 2/23 EWR-PDX using my GPU priority? Got a weird email about it.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 19:21:17 -0800
+location: PDX / LGA / TXL / ✈

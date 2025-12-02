@@ -1,0 +1,7 @@
+568909605499215872
+US Airways
+@USAirways there is nothing tonight and I am on the flight now with GOGO internet is there a way that someone could send me a DM or email?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 15:06:34 -0800
+location: South Carolina

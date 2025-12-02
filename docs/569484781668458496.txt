@@ -1,0 +1,7 @@
+569484781668458496
+US Airways
+@USAirways sad experience today on 4663.  Family on Southwest direct to MCO. My loyalty to USAir = not vacationing with my boys today.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 05:12:07 -0800
+location: Columbus, Ohio USA

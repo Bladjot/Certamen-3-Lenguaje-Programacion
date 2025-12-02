@@ -1,0 +1,7 @@
+568822440631144448
+United
+@united a big thanks to ^MN and ^KN or patiently clarifying the United domestic world to me.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 09:20:12 -0800
+location: nan

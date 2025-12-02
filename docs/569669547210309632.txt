@@ -1,0 +1,7 @@
+569669547210309632
+US Airways
+@USAirways ur specialist said they would talk to the stewardess about not serving drunks drinks, REALLY how does that help
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:26:18 -0800
+location: Belle MO

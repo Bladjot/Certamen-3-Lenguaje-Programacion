@@ -1,0 +1,7 @@
+569814010398273537
+United
+@united Maybe be hiring your own ground staff at LAX when multiple gate agents tell you your baggage is loaded you expect it to be. HOPELESS
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 03:00:21 -0800
+location: nan

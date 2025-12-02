@@ -1,0 +1,7 @@
+568890203923980288
+US Airways
+@USAirways Used 2 get emails 1) pre-purchase a snack and 2) when time to check in. Got neither 4 tomorrow's trip. Do they not get sent now?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 13:49:28 -0800
+location: Delaware

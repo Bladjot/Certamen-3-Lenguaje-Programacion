@@ -1,0 +1,7 @@
+568551350025330691
+Delta
+@JetBlue can you give me an update on flight 1684 MCO-&gt;JFK? They're saying mechanical issues but will not disclose what they are...
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 15:22:59 -0800
+location: nan

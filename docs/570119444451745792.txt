@@ -1,0 +1,7 @@
+570119444451745792
+American
+@AmericanAir checked in at Des Moines, lay over in ORD, final destination Austin, Texas.  Baggage was only checked to ORD.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 23:14:02 -0800
+location: USA

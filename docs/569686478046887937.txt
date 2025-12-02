@@ -1,0 +1,7 @@
+569686478046887937
+American
+@AmericanAir my wife's flight is Cancelled Flightled, told to call. No one answers. How do we book a flight? Help us please
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 18:33:35 -0800
+location: nan

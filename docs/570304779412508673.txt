@@ -1,0 +1,7 @@
+570304779412508673
+US Airways
+@USAirways always fun to get screwed out of an earlier flight (that isn't full) #crummyservice #whydidntiflysouthwest #goodluckamericanair
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 11:30:29 -0800
+location: nan

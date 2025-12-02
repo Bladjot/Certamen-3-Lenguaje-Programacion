@@ -1,0 +1,7 @@
+568434509017960449
+US Airways
+i wish i was flying @USAirways ... @JetBlue Cancelled Flightled our flights tomorrow and never notified us #FlyUS #Ripoff
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 07:38:42 -0800
+location: nan

@@ -1,0 +1,7 @@
+567747668512735232
+Delta
+@JetBlue as much i have paid in fees. Plus hotel and food because of your changes i could had flown with a more reliable airline #no2jetblue
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 10:09:27 -0800
+location: Yauco, Puerto Rico

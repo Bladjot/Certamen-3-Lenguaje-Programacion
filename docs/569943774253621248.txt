@@ -1,0 +1,7 @@
+569943774253621248
+US Airways
+@USAirways Seat 8D on Flight 545 last night is the worst seat I've ever been in.  No leg room! #dividendsmember http://t.co/NUhpLNXRIq
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 11:35:59 -0800
+location: nan

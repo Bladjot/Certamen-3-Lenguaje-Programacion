@@ -1,0 +1,7 @@
+567836660899057664
+Southwest
+@SouthwestAir MY BAGS ARE. 1st woman said it would be there on the next flight... not there, so now Ive got nothing. Big wigs help me out
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 16:03:04 -0800
+location: Memphis, TN

@@ -1,0 +1,7 @@
+567827039790571520
+United
+@united does forelock guarantee the fare only or fare &amp; seats?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 15:24:50 -0800
+location: toronto

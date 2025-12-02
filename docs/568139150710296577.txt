@@ -1,0 +1,7 @@
+568139150710296577
+Delta
+@JetBlue Airways Sees Significant Decline in Short Interest (JBLU) - WKRB News http://t.co/lZFGUTxIYN
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 12:05:03 -0800
+location: USA

@@ -1,0 +1,7 @@
+569690693888663552
+American
+@AmericanAir we tried. We are headed to a funeral in Cincinnati and your people didn't even tell us we could get on standby.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 18:50:20 -0800
+location: nan

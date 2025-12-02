@@ -1,0 +1,7 @@
+569972721901277184
+American
+@AmericanAir Can care less if youre without your bags for a day or a week! Ive been 3 stories in the last 3 hours...I WANT MY BAG!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 13:31:01 -0800
+location: nan

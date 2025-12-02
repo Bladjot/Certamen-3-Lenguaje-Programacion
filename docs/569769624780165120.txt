@@ -1,0 +1,7 @@
+569769624780165120
+United
+@united on plane to Newark now. I was checked in as Rebecca Levi. My bag is under her name too.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 00:03:59 -0800
+location: New York/New Jersey depends on

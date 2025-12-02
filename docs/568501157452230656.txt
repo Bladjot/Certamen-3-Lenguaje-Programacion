@@ -1,0 +1,7 @@
+568501157452230656
+Delta
+Not your fault @JetBlue Social Media Awesome People. I know everyone is working hard to get us in our way.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 12:03:32 -0800
+location: Boston, MA

@@ -1,0 +1,7 @@
+569232560330555393
+United
+@united hello I am flying first class and am behind 20 people on zone 1!!!!!  Pls pass on to app dept - you should board 1st class first
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 12:29:52 -0800
+location: nan

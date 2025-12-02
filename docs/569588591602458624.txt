@@ -1,0 +1,7 @@
+569588591602458624
+American
+@AmericanAir How do I change my flight if the phone system keeps telling me that the representatives are busy?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:04:37 -0800
+location: Waco, TX

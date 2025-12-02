@@ -1,0 +1,7 @@
+567812799767003136
+Delta
+@JetBlue pls send an IT tech 2 baggage office. Poor guy is trying 2 print my claim &amp; can't. I need 2 get home. Upgrade 2 @HP printers MFPs
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 14:28:15 -0800
+location: ÜT: 40.96513,-73.872957

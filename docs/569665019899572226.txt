@@ -1,0 +1,7 @@
+569665019899572226
+Southwest
+@SouthwestAir Can I get any help with Cancelled Flighting my flight reservation?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:08:19 -0800
+location: Fayette County/Oakland #901

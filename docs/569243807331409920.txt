@@ -1,0 +1,7 @@
+569243807331409920
+Delta
+@JetBlue Hey! Check it out!! It's snowing in Boston. Who could have predicted such a thing?! http://t.co/ufyxXkIsa3
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 13:14:34 -0800
+location: 40.741909,-73.997189

@@ -1,0 +1,7 @@
+570240452588380161
+American
+@AmericanAir Is there lack of communication/competition between the American and the Air by any chance?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 07:14:53 -0800
+location: Washington, DC

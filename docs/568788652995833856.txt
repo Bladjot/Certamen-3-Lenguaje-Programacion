@@ -1,0 +1,7 @@
+568788652995833856
+US Airways
+@USAirways 835, fix this ASAP
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 07:05:57 -0800
+location: QueenCity, USA

@@ -1,0 +1,7 @@
+569514168576974848
+Delta
+@JetBlue Just left #LaGuardia now...#Sunshine in a little over 2 hours
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 07:08:53 -0800
+location: nan

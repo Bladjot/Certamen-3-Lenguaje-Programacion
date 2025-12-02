@@ -1,0 +1,7 @@
+567729700110602240
+US Airways
+@USAirways Thanks for the info but have been trying for over 24hrs and no luck. Flight dep. Today. Need 2 change 2 tomorrow or Thursday
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 08:58:03 -0800
+location: Chicagoland Area

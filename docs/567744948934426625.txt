@@ -1,0 +1,7 @@
+567744948934426625
+Southwest
+@SouthwestAir Trying to add my dog on the flight but can't get through.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 09:58:38 -0800
+location: SMALL TOWN, USA

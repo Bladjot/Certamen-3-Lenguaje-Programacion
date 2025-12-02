@@ -1,0 +1,7 @@
+568810170383536128
+Delta
+@JetBlue thank you for always have the most amazing customer service! Bring on The Disney Princess Half Marathon
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 08:31:27 -0800
+location: nan

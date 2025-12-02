@@ -1,0 +1,7 @@
+570222239603273729
+American
+@AmericanAir don't merge with an airline that ain't ready for prime time and book your elite flyers on it! #NotHappy @USAirways #NeedCoffee
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 06:02:30 -0800
+location: nan

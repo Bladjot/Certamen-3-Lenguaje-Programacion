@@ -1,0 +1,7 @@
+570001194900426752
+Virgin America
+@VirginAmerica @ladygaga @carrieunderwood Julie Andrews. Hands down.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 15:24:09 -0800
+location: nan

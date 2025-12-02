@@ -1,0 +1,7 @@
+568606225027485696
+United
+@united broke my suitcase &amp; refuses to give me a repair estimate. http://t.co/zOUOwgv3Q6
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-19 19:01:02 -0800
+location: Where the miles are

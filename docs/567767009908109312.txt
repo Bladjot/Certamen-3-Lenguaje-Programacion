@@ -1,0 +1,7 @@
+567767009908109312
+United
+@united thanks kp but luckily my transfer has maintenance issues and is still delayed so I didn't miss my transfer...
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 11:26:18 -0800
+location: nan

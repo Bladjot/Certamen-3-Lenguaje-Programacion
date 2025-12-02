@@ -1,0 +1,7 @@
+567724950556258304
+Delta
+@JetBlue Is today's JetBlue Flight 918 (NYC-&gt;BOS) delayed? My app says on time and the website says it's not...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 08:39:10 -0800
+location: New York

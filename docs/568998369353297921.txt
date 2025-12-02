@@ -1,0 +1,7 @@
+568998369353297921
+Southwest
+@SouthwestAir Hey sourhwest can you send me to Atlanta to see @Imaginedragons ? I will fly southwest forever. U guys are the best airline!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 20:59:17 -0800
+location: City of Angels

@@ -1,0 +1,7 @@
+568954046700064768
+United
+@united second time flying into Houston and 45+ mins waiting for luggage at baggage. Typical? Still waiting..
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 18:03:10 -0800
+location: nan

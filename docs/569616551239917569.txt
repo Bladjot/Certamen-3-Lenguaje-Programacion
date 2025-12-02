@@ -1,0 +1,7 @@
+569616551239917569
+US Airways
+@USAirways if my flight, 4035, is delayed, what time do I have to arrive at BHM?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 13:55:43 -0800
+location: Washington, D.C.

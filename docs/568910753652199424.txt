@@ -1,0 +1,7 @@
+568910753652199424
+Delta
+@JetBlue thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 15:11:08 -0800
+location: South jamaica.. Queens

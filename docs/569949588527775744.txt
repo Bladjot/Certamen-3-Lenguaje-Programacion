@@ -1,0 +1,7 @@
+569949588527775744
+Delta
+STAHHPPP!!! RT @JetBlue: Our fleet's on fleek. http://t.co/VHFJGneOZO
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:59:05 -0800
+location: Floating in the Pacific

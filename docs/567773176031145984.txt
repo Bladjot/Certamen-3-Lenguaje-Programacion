@@ -1,0 +1,7 @@
+567773176031145984
+Delta
+@JetBlue I'll give u a chance but I don't think I'll fall for it #backtodelta
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 11:50:48 -0800
+location: nan

@@ -1,0 +1,7 @@
+568929935273930752
+Delta
+Cool! "@JetBlue: @hgeronemus We are 60% there and anticipate completing installation on all our A320's this year. http://t.co/sGckBopATA”
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 16:27:21 -0800
+location: Fort Lauderdale, FL

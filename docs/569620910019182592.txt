@@ -1,0 +1,7 @@
+569620910019182592
+Delta
+@JetBlue you've let me down. 2:15 delay at JFK because of inbound flight from Syracuse, really? #ishouldhavedriven
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:13:02 -0800
+location: breukelen, ny

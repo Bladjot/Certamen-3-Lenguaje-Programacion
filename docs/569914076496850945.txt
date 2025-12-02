@@ -1,0 +1,7 @@
+569914076496850945
+US Airways
+@USAirways / @AmericanAir was the worst experience I've ever had flying. Rude, delays, Cancelled Flightlations, lack of updates, and wasting our time
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 09:37:58 -0800
+location: Philadelphia

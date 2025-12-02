@@ -1,0 +1,7 @@
+569718205524127745
+Delta
+@JetBlue thank you for getting me home. And despite all odds I have reunited with my delinquent Southwest luggage. Now homeward
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 20:39:39 -0800
+location: Boston

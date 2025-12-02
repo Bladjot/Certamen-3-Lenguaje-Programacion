@@ -1,0 +1,7 @@
+567770107062284288
+Virgin America
+@virginamerica Trying to make the change in advance (not just 24 hours prior)…tried it online earlier and it wanted $300 in change fees.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-17 11:38:36 -0800
+location: Charlottesville, VA

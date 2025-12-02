@@ -1,0 +1,7 @@
+569235727558447105
+Southwest
+@SouthwestAir 3 flights Cancelled Flightled today. Now we have been on hold for over an hour!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 12:42:27 -0800
+location: nan

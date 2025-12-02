@@ -1,0 +1,7 @@
+569906183487643648
+American
+@AmericanAir @united we'll have time and they aren't doing a damn thing. I'm the guy in the winter hat and frowny face
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:06:37 -0800
+location: nan

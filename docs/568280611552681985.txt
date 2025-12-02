@@ -1,0 +1,7 @@
+568280611552681985
+United
+@united if guy on flight 1230 follows through on threat to sue because he couldn’t carry on 3 bags, I will defend you for free.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 21:27:10 -0800
+location: New York

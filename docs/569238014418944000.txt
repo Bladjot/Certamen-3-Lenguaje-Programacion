@@ -1,0 +1,7 @@
+569238014418944000
+Southwest
+@SouthwestAir #3252 Manchester-BWI being delayed for one idiot who isn't on the plane?! We've waited 2 hours for our window and may miss it
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 12:51:33 -0800
+location: nan

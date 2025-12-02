@@ -1,0 +1,7 @@
+570058565974675456
+Delta
+@JetBlue if I had made as many mistakes as you in as short a period of time. I would I have lost my job at this point!!!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 19:12:07 -0800
+location: Portland, Maine

@@ -1,0 +1,7 @@
+569565393502793728
+Delta
+@JetBlue any way to get 2 ppl on standby list for flight 1970 FLL to BOS. Trying to find way home.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 10:32:26 -0800
+location: nan

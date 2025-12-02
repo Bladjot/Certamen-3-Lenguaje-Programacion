@@ -1,0 +1,7 @@
+569907564156035072
+United
+@united arrived in YYZ to take our flight to Taiwan. Reservation missing our ticket numbers. Slow agent Sukhdeep caused us to miss our flt.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:12:06 -0800
+location: Taipei

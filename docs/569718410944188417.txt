@@ -1,0 +1,7 @@
+569718410944188417
+American
+@AmericanAir by far the best example of the worst company @Cowboycerrone
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 20:40:28 -0800
+location: nan

@@ -1,0 +1,7 @@
+570054257577041921
+US Airways
+@USAirways Thanks for getting back to me. I called that number earlier but no option to leave vm and just rings with busy tone
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 18:55:00 -0800
+location: USA

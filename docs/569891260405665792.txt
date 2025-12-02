@@ -1,0 +1,7 @@
+569891260405665792
+US Airways
+@USAirways if you DM me we can take this offline. Would love more info on location of lost bags. Any help is appreciated.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 08:07:19 -0800
+location: Stillwater, MN

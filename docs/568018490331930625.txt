@@ -1,0 +1,7 @@
+568018490331930625
+Delta
+@JetBlue well I'm glad I got up at 5 am so I can sit in an airport.  No place else I'd rather be (not)
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 04:05:36 -0800
+location: nan

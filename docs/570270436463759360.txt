@@ -1,0 +1,7 @@
+570270436463759360
+United
+@united thnx for quick reply but don't think you can assist. Our intl grp will be put to considerable inconvenience today.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 09:14:01 -0800
+location: nan

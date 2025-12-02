@@ -1,0 +1,7 @@
+569341769114128386
+United
+@united the lounge tells us they have no pillows for my grandma as one of the ladies opens the closet and I see 2 right there. #unitedlies
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 19:43:50 -0800
+location: Bedford, Nh

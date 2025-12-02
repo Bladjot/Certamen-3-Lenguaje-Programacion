@@ -1,0 +1,7 @@
+569241834670698496
+US Airways
+@USAirways still Effin waiting... Not weather delays, not engine trouble, but lack of crew?  Are you shitting me?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 13:06:44 -0800
+location: CT, USA

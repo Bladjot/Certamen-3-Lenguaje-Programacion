@@ -1,0 +1,7 @@
+568435926503976960
+Delta
+@JetBlue please get service started at @triflight and offer good routes lile florida upstate ny vegas etc
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 07:44:20 -0800
+location: johnson city tn

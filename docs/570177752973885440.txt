@@ -1,0 +1,8 @@
+570177752973885440
+American
+@AmericanAir Super Spring Tides and “Tide of The Century” Drawing tourists to French and U.K coasts:
+http://t.co/gXdqORtsS0
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 03:05:44 -0800
+location: Luxembourg

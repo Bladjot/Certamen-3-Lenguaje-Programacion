@@ -1,0 +1,7 @@
+569935531213086721
+US Airways
+@USAirways is the absolute worst airline. 13 women were inconvenienced due to maintenance issues. Stuck all over- no care given.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:03:14 -0800
+location: Wherever my breath takes me

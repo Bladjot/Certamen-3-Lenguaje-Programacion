@@ -1,0 +1,7 @@
+569983030108024833
+American
+@AmericanAir bad weather happens but lack of preparation is inexcusable. Depending on good weather is not a good business model.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:11:58 -0800
+location: nan

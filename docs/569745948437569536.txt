@@ -1,0 +1,7 @@
+569745948437569536
+American
+@AmericanAir To think that I'm a "Priority Member"! Wonder how you treat the plebes. I know which rewards card I'm Cancelled Flightling immediately.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 22:29:54 -0800
+location: Austin, TX

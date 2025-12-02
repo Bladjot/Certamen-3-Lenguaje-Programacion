@@ -1,0 +1,7 @@
+568567970450055170
+Delta
+@JetBlue @airbusintheus A320 landing @aruba_airport in February of 2014. #avgeek #warmweather https://t.co/Kaej9G0CHd
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 16:29:02 -0800
+location: Dallas, TX

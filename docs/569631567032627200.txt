@@ -1,0 +1,7 @@
+569631567032627200
+American
+@AmericanAir Cancelled Flightled 2 of my flights for maintenance. Customer service desk is empty... Can I get a hotel at least? http://t.co/ypbkCiRBXu
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:55:23 -0800
+location: Los Angeles, CA

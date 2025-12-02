@@ -1,0 +1,7 @@
+568156641339805697
+United
+@united it's operated by united as it's a heathrow-Newark flight
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 13:14:33 -0800
+location: London

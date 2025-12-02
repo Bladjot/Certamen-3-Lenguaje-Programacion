@@ -1,0 +1,7 @@
+568428224813916160
+Virgin America
+@VirginAmerica I need a receipt for a flight change. Can you send one?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 07:13:44 -0800
+location: San Francisco, CA

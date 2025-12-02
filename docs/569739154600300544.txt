@@ -1,0 +1,7 @@
+569739154600300544
+American
+@AmericanAir I am running out of battery you have my chargers,clothes,coat,contact lenses, need to be in mtg tom need help #pathetic service
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 22:02:54 -0800
+location: Miami Beach

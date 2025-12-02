@@ -1,0 +1,7 @@
+568462805235597312
+US Airways
+@USAirways  I have a party of 4 booked for a flight in Aug. At 10:05am, how can I find out how much it would cost to change to an earlier fl
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 09:31:08 -0800
+location: nan

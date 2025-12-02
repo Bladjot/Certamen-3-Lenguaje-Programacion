@@ -1,0 +1,7 @@
+569650401085157376
+United
+@united is my flight delayed? It keeps changing between delayed and not??? If delayed is checkin time Late Flightr??? http://t.co/NTUIx5dbYR
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:10:13 -0800
+location: Northern Ireland

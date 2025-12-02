@@ -1,0 +1,7 @@
+568797120410619904
+Delta
+@JetBlue sorry to report we are stuck on Tarmac.. Being held so #notwheelsup
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 07:39:35 -0800
+location: New York, USA

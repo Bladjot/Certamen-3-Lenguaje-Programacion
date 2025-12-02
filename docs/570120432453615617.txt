@@ -1,0 +1,7 @@
+570120432453615617
+US Airways
+@USAirways it doesn't take 6 days to respond to an already open case!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 23:17:58 -0800
+location: Manchester

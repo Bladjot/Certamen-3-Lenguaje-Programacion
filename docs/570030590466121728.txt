@@ -1,0 +1,7 @@
+570030590466121728
+US Airways
+@USAirways good work by flight 1798 crew.  #Chairman's recognition even in coach.  Too many #missedupgrades Late Flightly.  What's up with this?
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 17:20:58 -0800
+location: Charleston, SC and the Earth

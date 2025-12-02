@@ -1,0 +1,7 @@
+568596145456291840
+Southwest
+@SouthwestAir it'd be nice if I could get an answer, even a simple "no" would do; I just want to know. :)
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 18:20:59 -0800
+location: nan

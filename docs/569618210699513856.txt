@@ -1,0 +1,7 @@
+569618210699513856
+American
+@AmericanAir we're still stucked in the airport. #AADelay #AA919
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:02:19 -0800
+location: São Paulo

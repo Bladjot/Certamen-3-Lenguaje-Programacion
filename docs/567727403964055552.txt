@@ -1,0 +1,7 @@
+567727403964055552
+United
+@united Bad coffee, but the juice is ok. #GetPhilz @ United Terminal SFO Airport http://t.co/Sg7IQqFVsO
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 08:48:55 -0800
+location: Los Gatos, CA

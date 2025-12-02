@@ -1,0 +1,7 @@
+569723768773349376
+United
+@united tried to book a flight IAH-MNL departing 3/31/15 returning 4/17/15 you are advertising 9 flights for $1051 that can't be book!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 21:01:46 -0800
+location: H-town

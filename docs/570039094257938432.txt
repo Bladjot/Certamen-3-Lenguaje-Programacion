@@ -1,0 +1,7 @@
+570039094257938432
+United
+@united can you assist with current flight status for flt# 1016 out of DFW tomorrow at 6:55am?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 17:54:45 -0800
+location: Dallas

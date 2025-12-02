@@ -1,0 +1,7 @@
+568968059517411329
+Delta
+@JetBlue flight 348 is a freaking nightmare tonight #sittingonthetarmac #delay
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 18:58:50 -0800
+location: Long Beach

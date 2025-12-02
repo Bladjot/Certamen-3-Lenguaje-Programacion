@@ -1,0 +1,7 @@
+567790572833103872
+US Airways
+@USAirways tooooo many Cancelled Flightations! My chain of command hates me now
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 12:59:56 -0800
+location: All Over the Damn Place

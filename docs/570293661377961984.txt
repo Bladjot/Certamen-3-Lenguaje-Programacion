@@ -1,0 +1,7 @@
+570293661377961984
+Southwest
+@SouthwestAir can you have someone call me back? I have been on hold two times today for over 20 min and still haven't gotten through
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 10:46:19 -0800
+location: Orange County

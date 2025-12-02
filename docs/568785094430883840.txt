@@ -1,0 +1,7 @@
+568785094430883840
+Delta
+@JetBlue great flight! Great view! :-) http://t.co/Yxn00pnOav
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 06:51:48 -0800
+location: nan

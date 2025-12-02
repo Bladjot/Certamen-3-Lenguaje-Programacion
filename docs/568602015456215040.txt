@@ -1,0 +1,7 @@
+568602015456215040
+Delta
+@NinaDavuluri We think it's a treat to have you onboard! Enjoy your flight. 💙
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 18:44:19 -0800
+location: 1-800-JETBLUE

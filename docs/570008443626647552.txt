@@ -1,0 +1,7 @@
+570008443626647552
+United
+@united still waiting to hear back. My wallet was stolen from one of your planes so would appreciate a resolution here
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 15:52:57 -0800
+location: nan

@@ -1,0 +1,7 @@
+569624865558245376
+American
+@AmericanAir LGA 2 Nashville Cancelled Flightled phone center no help. Fabulous staff at gate D4 helped-2 young men handled crowd well.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 14:28:45 -0800
+location: Boston area

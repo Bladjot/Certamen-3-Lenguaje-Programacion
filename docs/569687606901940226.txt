@@ -1,0 +1,7 @@
+569687606901940226
+American
+@AmericanAir is the situation at JFK this evening is going to get better or worse ? Do not Cancelled Flight a flight like yesterday after 8h delayed
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:38:04 -0800
+location: nan

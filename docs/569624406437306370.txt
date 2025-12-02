@@ -1,0 +1,7 @@
+569624406437306370
+US Airways
+@USAirways - flight was Cancelled Flightled to Buf today. Waited in line for 2+ hrs &amp; cus service was rude. No flight until Tues. Need to get to ROC.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 14:26:56 -0800
+location: nan

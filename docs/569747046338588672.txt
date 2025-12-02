@@ -1,0 +1,7 @@
+569747046338588672
+US Airways
+@USAirways Do you have any pride in your service? Any concerns for my wife and everyone else on that flight? Or you just don't care????!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 22:34:15 -0800
+location: nan

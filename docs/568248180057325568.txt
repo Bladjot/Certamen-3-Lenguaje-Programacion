@@ -1,0 +1,7 @@
+568248180057325568
+United
+@united can you please tell me where United flies to from Sydney Australia - pref Asia Pac or US as I have a voucher to redeem.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 19:18:18 -0800
+location: Rozelle, NSW

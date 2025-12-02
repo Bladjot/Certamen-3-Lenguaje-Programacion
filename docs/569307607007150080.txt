@@ -1,0 +1,7 @@
+569307607007150080
+United
+@united your baggage person told me to go through @AirCanada - they're handling my connecting flight.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 17:28:05 -0800
+location: toronto

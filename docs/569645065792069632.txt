@@ -1,0 +1,7 @@
+569645065792069632
+United
+@united can Cancelled Flight my flight anytime if this is where they keep me for the night.. http://t.co/avRTOWTyzk
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 15:49:01 -0800
+location: Chicago

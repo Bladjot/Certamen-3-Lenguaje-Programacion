@@ -1,0 +1,7 @@
+568696518665998336
+United
+@united they have access to the dial that makes it faster do they?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 00:59:50 -0800
+location: Birkenhead upon Hudson

@@ -1,0 +1,7 @@
+570291817087930369
+Delta
+@JetBlue Hello Good afternoon how are you, I need know how much flying for summer from june 13th.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:38:59 -0800
+location: nan

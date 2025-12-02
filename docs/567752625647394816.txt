@@ -1,0 +1,7 @@
+567752625647394816
+Delta
+@JetBlue glitches on website re: Flight Booking Problems travel &amp; checking in. Nothing between ur site &amp; the airport was communicated, it was a nightmare.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 10:29:08 -0800
+location: nan

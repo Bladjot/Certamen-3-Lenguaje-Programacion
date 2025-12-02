@@ -1,0 +1,7 @@
+568689188377403392
+Virgin America
+@virginamerica may start service to Hawaii from #SanFrancisco this year http://t.co/yPo7nYpRZl #biztravel
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 00:30:42 -0800
+location: nan

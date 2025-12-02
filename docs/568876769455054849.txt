@@ -1,0 +1,7 @@
+568876769455054849
+Delta
+@JetBlue I'll take 3 round trip tickets to the closest warmest place please! #negativedegrees #buffalo #snowwillnevermelt
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 12:56:05 -0800
+location: Buffalo, New York

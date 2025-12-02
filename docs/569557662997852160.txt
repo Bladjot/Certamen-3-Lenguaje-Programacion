@@ -1,0 +1,7 @@
+569557662997852160
+US Airways
+@USAirways @JosephTReis Can't believe advice to call customer service. I was on hold for 3 hrs this morning and finally gave up.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 10:01:43 -0800
+location: Cape Cod

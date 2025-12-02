@@ -1,0 +1,7 @@
+568525820764897280
+Delta
+@JetBlue no they offered the flight (4/19), I paid, then they changed it.This is the 2nd  time you have done this to me. ruins cruise plans
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 13:41:33 -0800
+location: Logan.Utah

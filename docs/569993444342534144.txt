@@ -1,0 +1,7 @@
+569993444342534144
+US Airways
+@USAirways I am so disappointed with the service I received with you on my travels to NC these past few days .. you lost my baggage twice.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 14:53:21 -0800
+location: nan

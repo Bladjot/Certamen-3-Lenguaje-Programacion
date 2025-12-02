@@ -1,0 +1,7 @@
+570093964059156481
+Delta
+RT @JetBlue: Our fleet's on fleek. http://t.co/WEZUMDimYF
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 21:32:47 -0800
+location: ClayCo ATL

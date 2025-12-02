@@ -1,0 +1,7 @@
+568789117426921472
+Delta
+@jetblue We'd love to help Shanese Bryant-Melton, a hard-working grandmother from DC, go to Miami. It's on her bucket list. #flyitforward
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 07:07:47 -0800
+location: Washington, DC

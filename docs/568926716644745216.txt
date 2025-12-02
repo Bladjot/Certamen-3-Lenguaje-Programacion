@@ -1,0 +1,7 @@
+568926716644745216
+Southwest
+@SouthwestAir Thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 16:14:34 -0800
+location: Somewhere in Tennessee

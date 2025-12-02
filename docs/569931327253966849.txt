@@ -1,0 +1,7 @@
+569931327253966849
+American
+@AmericanAir served the nastiest food Ive ever seen yesterday.Rubber chicken in slime. The ENTIRE cabin sent their food back.FAs can confirm
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 10:46:31 -0800
+location: nan

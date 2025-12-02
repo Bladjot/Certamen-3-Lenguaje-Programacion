@@ -1,0 +1,7 @@
+569650276380110848
+American
+@AmericanAir Stuck on the plane in Charlotte.  Going to miss my connection.  No words from staff. Maybe some damn pretzels?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 16:09:44 -0800
+location: saint paul

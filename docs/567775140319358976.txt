@@ -1,0 +1,7 @@
+567775140319358976
+United
+@united flt 4567 has had two more updates in the last 3 minutes.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 11:58:36 -0800
+location: Memphis

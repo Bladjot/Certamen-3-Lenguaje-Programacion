@@ -1,0 +1,7 @@
+570068393736302594
+American
+Keep it up :) @AmericanAir
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 19:51:11 -0800
+location: kansas city

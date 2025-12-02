@@ -1,0 +1,7 @@
+567785122708332546
+Southwest
+@SouthwestAir JH thank you. I finally got through the second time.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 12:38:16 -0800
+location: Durham, NC

@@ -1,0 +1,7 @@
+569846545715228673
+American
+@AmericanAir Sorry, what equipment? Have the passengers been allowed to return to the plane?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 05:09:38 -0800
+location: Hertfordshire & London

@@ -1,0 +1,7 @@
+569721779645767680
+US Airways
+@USAirways looks like our bag has been rescued. Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 20:53:51 -0800
+location: nan

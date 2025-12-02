@@ -1,0 +1,7 @@
+570226757380530176
+American
+@AmericanAir ...2/2 doesn't help me.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 06:20:27 -0800
+location: Pittsburgh, PA

@@ -1,0 +1,7 @@
+567789749013086208
+Southwest
+@SouthwestAir thanks for the reply, something is off with the phones becuz after 2 dropped calls at 2 hours on hold, I got through on 1 ring
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 12:56:39 -0800
+location: Nashville, TN

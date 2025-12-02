@@ -1,0 +1,7 @@
+569224171303145473
+Delta
+@jetblue offered me a complimentary drink for switching seats. Stewardess asked for my age &amp; I said 30. We giggled. #goodgenes #ilookyoung
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 11:56:32 -0800
+location: NYC

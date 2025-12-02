@@ -1,0 +1,7 @@
+569910441423417345
+US Airways
+@USAirways great operation you guys are running. More mechanical issues, and now taping piece of plane together LOL http://t.co/I5V9wfbtuE
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 09:23:32 -0800
+location: 39.0708° N, 106.9886° W

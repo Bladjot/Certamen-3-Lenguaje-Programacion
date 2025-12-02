@@ -1,0 +1,7 @@
+568466642193104897
+Southwest
+@SouthwestAir Report was filed but would like to support some active searching.  Feels pretty passive now.  Info on computer is precious.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 09:46:23 -0800
+location: Duluth, GA

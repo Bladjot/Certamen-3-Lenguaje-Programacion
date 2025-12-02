@@ -1,0 +1,7 @@
+568090890549374976
+Delta
+@JetBlue #flyfi thank you! Seattle and #UDUB here we come! @cameron__roe http://t.co/kbHYM5GkAP
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 08:53:17 -0800
+location: Newport Beach

@@ -1,0 +1,7 @@
+569634318349246464
+Virgin America
+@VirginAmerica @FiDiFamilies us too! Terrible airline! Just gave us a hotel hotline number and said sorry
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 15:06:19 -0800
+location: nan

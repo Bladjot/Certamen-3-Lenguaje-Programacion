@@ -1,0 +1,7 @@
+568854214136479744
+United
+@united worst flight experience I've ever had. Will never ever fly your airline again.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 11:26:28 -0800
+location: New York, NY

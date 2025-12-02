@@ -1,0 +1,7 @@
+569604994825105408
+American
+@AmericanAir. You neglected to mention the $200 fee per ticket.  I had a medical reason and still have had to jump thru hoops.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:09:48 -0800
+location: Boston, MA

@@ -1,0 +1,7 @@
+567900456460165120
+United
+@united we just almost had a major accident on ua3710 ... How about passing on some information to those of us waiting on plane!!!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 20:16:34 -0800
+location: Toronto

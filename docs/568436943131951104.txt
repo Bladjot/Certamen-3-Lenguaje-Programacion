@@ -1,0 +1,7 @@
+568436943131951104
+Delta
+@JetBlue For my Grandma Ella's 80th, she would love a birthday greeting from your flight crew! She was a stewardess for Eastern Airlines.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 07:48:22 -0800
+location: Long Island, NY

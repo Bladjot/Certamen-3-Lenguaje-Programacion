@@ -1,0 +1,7 @@
+568861835568369664
+Delta
+@JetBlue before departure, while people who are delayed get up to $200 to compensate their time..
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 11:56:45 -0800
+location: Bay Area, CA.

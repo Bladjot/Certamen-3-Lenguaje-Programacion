@@ -1,0 +1,7 @@
+569644957188939777
+United
+@united Unfortunately had a bad experience flying with you on Saturday. Inpolite crew, bad delays.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 15:48:35 -0800
+location: Nederland

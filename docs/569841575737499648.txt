@@ -1,0 +1,7 @@
+569841575737499648
+American
+@AmericanAir Karen Riedel is a rock star employee and a miracle worker.  I really appreciated her help this morning!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 04:49:53 -0800
+location: Dallas, TX

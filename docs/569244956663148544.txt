@@ -1,0 +1,7 @@
+569244956663148544
+Delta
+@JetBlue good to hear. Thx for being responsive.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 13:19:08 -0800
+location: Washington, DC

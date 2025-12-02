@@ -1,0 +1,7 @@
+567873698679623680
+Virgin America
+@VirginAmerica I'm sure a lot of your 747 and 777 JFK-LHR flights go a lot faster than 513mph with a strong tailwind.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 18:30:15 -0800
+location: Hamilton, Ohio

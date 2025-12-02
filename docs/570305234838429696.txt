@@ -1,0 +1,7 @@
+570305234838429696
+American
+@AmericanAir I sure hope you all can fix @USAirways. Good luck, their service sucks. #nexttimeiwillflysouthwest
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 11:32:18 -0800
+location: nan

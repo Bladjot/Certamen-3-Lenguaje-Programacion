@@ -1,0 +1,7 @@
+569360777926217728
+Southwest
+@SouthwestAir that's gotta be a new record: 4 hrs in the air, 11 hrs waiting and 0 bags delivered to destination.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 20:59:22 -0800
+location: Tallahassee, FL

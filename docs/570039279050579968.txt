@@ -1,0 +1,7 @@
+570039279050579968
+United
+@united like continental's chicken feat fairs
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 17:55:29 -0800
+location: North Texas, USA

@@ -1,0 +1,7 @@
+569690742169292802
+United
+@united not sure why the people in row 7 that paid for a premium seat can't use their overhead space... http://t.co/i9s86KiHge
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 18:50:31 -0800
+location: San Francisco

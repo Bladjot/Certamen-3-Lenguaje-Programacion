@@ -1,0 +1,7 @@
+569886919833874432
+US Airways
+@USAirways Customer service is dead. Last wk, flts delayed/Cancelled Flighted. Bags lost 4 days. Last nt, flt delayed/Cancelled Flighted.  No meal voucher?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:50:04 -0800
+location: Hillsborough, New Jersey

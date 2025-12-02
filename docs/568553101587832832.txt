@@ -1,0 +1,7 @@
+568553101587832832
+Southwest
+@SouthwestAir nvm, gate said they're holding connections. Thanks for quick response!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 15:29:57 -0800
+location: Chapel Hill

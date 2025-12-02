@@ -1,0 +1,7 @@
+570138826032713729
+United
+@united just 1 last thing. U guys shouldn't be charging $ for drinks on a transatlantic flight
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 00:31:03 -0800
+location: bonkers in Yonkers

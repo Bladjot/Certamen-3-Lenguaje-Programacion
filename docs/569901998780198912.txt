@@ -1,0 +1,7 @@
+569901998780198912
+Southwest
+@SouthwestAir I would still have my companion pass if your ridiculous airline hadn't stopped partnering with Hilton Hotels - GENIUS!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 08:49:59 -0800
+location: Austin, TX

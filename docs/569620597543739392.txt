@@ -1,0 +1,7 @@
+569620597543739392
+American
+@AmericanAir pls help. This is seriously beyond ridiculous.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 14:11:48 -0800
+location: The City of Big Shoulders

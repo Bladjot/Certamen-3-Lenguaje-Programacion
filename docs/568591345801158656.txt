@@ -1,0 +1,7 @@
+568591345801158656
+Delta
+@JetBlue @lopezlaymari what a patronizing response to a legitimate issue
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 18:01:55 -0800
+location: Montreal

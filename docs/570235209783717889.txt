@@ -1,0 +1,7 @@
+570235209783717889
+American
+@AmericanAir I need to go to YYZ tmr morning 8am. I switched to United already, but my bag is still off in AA la-la land.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 06:54:03 -0800
+location: Denver, CO

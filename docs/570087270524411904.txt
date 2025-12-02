@@ -1,0 +1,7 @@
+570087270524411904
+United
+@united DM sent
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 21:06:11 -0800
+location: WX report for 41 Mile, Hwy 50

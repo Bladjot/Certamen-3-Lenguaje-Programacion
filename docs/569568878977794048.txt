@@ -1,0 +1,7 @@
+569568878977794048
+Delta
+@JetBlue also not have food available even for purchase is quite shocking since this is a 5 hour international flight.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 10:46:17 -0800
+location: nyc

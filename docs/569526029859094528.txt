@@ -1,0 +1,7 @@
+569526029859094528
+US Airways
+@USAirways @AmericanAir my friends are stranded at KPHL and the representatives there won't even give them food vouchers…any help please?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:56:01 -0800
+location: A galaxy far far away

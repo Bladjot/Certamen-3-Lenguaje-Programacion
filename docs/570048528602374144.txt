@@ -1,0 +1,7 @@
+570048528602374144
+United
+@united My mom left her Kindle on flight 1544 today. Burgundy case with a light. Seat 27D. Did anyone find it?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 18:32:14 -0800
+location: CA

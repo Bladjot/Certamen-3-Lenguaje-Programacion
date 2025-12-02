@@ -1,0 +1,7 @@
+569504232971362304
+United
+@united Was on NH10 on United ticket, rerouted to IAD due to weather in JFK. Can you get us home on United 5713 or 3277?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 06:29:24 -0800
+location: New York City

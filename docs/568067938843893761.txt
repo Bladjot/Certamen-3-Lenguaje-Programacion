@@ -1,0 +1,7 @@
+568067938843893761
+United
+.@united: Just landed. A day Late Flight with almost no sleep, but here. I feel sorry for the woman I consoled who's mother died during the night.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 07:22:05 -0800
+location: Los Angeles & Vancouver

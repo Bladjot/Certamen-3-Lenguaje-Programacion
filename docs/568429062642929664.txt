@@ -1,0 +1,7 @@
+568429062642929664
+Southwest
+@SouthwestAir Whats up with flight 4464 Ft myers to milwaukee???
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 07:17:04 -0800
+location: nan

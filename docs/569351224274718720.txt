@@ -1,0 +1,7 @@
+569351224274718720
+US Airways
+@USAirways by far the worst airline in history. I'll never ever fly your garbage again
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 20:21:24 -0800
+location: 40.229994,-74.893221

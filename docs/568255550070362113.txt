@@ -1,0 +1,7 @@
+568255550070362113
+United
+@united my coworker that had the same conflict as me with the hotel issue trying to share posted on their facebook page and they erased it!!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 19:47:35 -0800
+location: Seattle

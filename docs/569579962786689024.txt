@@ -1,0 +1,7 @@
+569579962786689024
+United
+@United rescheduled my return flight from #Japan?  Uh why?  Trying to call #UnitedAirlines #customerservice - 45 min wait.  #fun
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 11:30:20 -0800
+location: San Francisco Bay Area

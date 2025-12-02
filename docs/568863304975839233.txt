@@ -1,0 +1,7 @@
+568863304975839233
+Southwest
+@SouthwestAir No thanks. After those 25+ minutes someone did eventually help us and took care of it.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 12:02:35 -0800
+location: Chicago

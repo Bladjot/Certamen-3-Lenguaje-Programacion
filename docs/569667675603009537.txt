@@ -1,0 +1,7 @@
+569667675603009537
+American
+@AmericanAir The wine served in USAirways flights are watered down somehow right out of the bottles.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 17:18:52 -0800
+location: nan

@@ -1,0 +1,7 @@
+568088967419023360
+United
+@united 65 and 72 year old flying to Tokyo for vacation both with bad knees and this happens https://t.co/72RMpkOGwu @cbcallinaday @CBCNews
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 08:45:39 -0800
+location: Canada

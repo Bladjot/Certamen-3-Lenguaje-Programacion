@@ -1,0 +1,7 @@
+568607094426996738
+US Airways
+@USAirways we can't afford the international change fees to rebook our trip so we wanted to go home, turns out we can't afford to go home.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 19:04:30 -0800
+location: nan

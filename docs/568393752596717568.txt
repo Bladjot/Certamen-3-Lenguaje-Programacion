@@ -1,0 +1,7 @@
+568393752596717568
+Delta
+@JetBlue how can we get help with a hotel we booked with you and are having issues with.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 04:56:45 -0800
+location: Boston

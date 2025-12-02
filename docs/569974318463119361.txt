@@ -1,0 +1,7 @@
+569974318463119361
+American
+@AmericanAir #AATeam thanks for working in very rigorous weather conditions for all
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 13:37:21 -0800
+location: nan

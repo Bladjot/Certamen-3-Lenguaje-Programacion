@@ -1,0 +1,7 @@
+569188782492266496
+US Airways
+@USAirways no one at #clt knows about runway issues..my inbound flight was only one delayed..connection left without me..now I'm stuck!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 09:35:55 -0800
+location: nan

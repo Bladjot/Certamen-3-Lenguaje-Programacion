@@ -1,0 +1,7 @@
+569275249725870080
+Southwest
+@SouthwestAir lost bag on flight to Vegas. Now to El Paso. Going to Dallas love. Gate attendant said see if can coordinate to get it to Love
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 15:19:30 -0800
+location: Boston, MA

@@ -1,0 +1,7 @@
+567918283866898432
+Delta
+@JetBlue We even went to the airport and were on the phone for hrs and no help at all. Everyone said different things.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 21:27:24 -0800
+location: BOSTON

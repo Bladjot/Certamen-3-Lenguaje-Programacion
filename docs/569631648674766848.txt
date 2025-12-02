@@ -1,0 +1,7 @@
+569631648674766848
+American
+@AmericanAir @SentieriMelinda Any updates? It shouldn't take hours for assistance. I love @SouthwestAir
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:55:42 -0800
+location: Central Ohio

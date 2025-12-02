@@ -1,0 +1,7 @@
+568192252792541184
+Delta
+@JetBlue Airways Corporation Price Target Update - Stafford Daily http://t.co/vQmdmZaFUJ
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 15:36:04 -0800
+location: USA

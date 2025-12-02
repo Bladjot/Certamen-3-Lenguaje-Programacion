@@ -1,0 +1,7 @@
+569890103989903360
+Southwest
+@SouthwestAir to start 2xdaily #B737-700 flights from #Columbus OH to #Boston @BostonLogan on 8AUG #avgeek
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 08:02:43 -0800
+location: Abu Dhabi

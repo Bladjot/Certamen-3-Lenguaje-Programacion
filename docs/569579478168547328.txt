@@ -1,0 +1,7 @@
+569579478168547328
+US Airways
+@USAirways help im falling out of one of your planes
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 11:28:24 -0800
+location: KENTUCKINMYSHIRT

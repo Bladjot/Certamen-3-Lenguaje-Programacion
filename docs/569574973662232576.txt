@@ -1,0 +1,7 @@
+569574973662232576
+Virgin America
+@VirginAmerica Is flight 0769 out of LGA to DFW on time?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 11:10:30 -0800
+location: nan

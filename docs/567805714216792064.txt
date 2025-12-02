@@ -1,0 +1,7 @@
+567805714216792064
+Southwest
+@SouthwestAir my pts expired. I made a prchase @ an online retailer to b told by SW that those won't show for 6-8 wks so too L8 2 keepmy pts
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 14:00:06 -0800
+location: nan

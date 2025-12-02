@@ -1,0 +1,7 @@
+568605449659895808
+Virgin America
+@VirginAmerica Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 18:57:58 -0800
+location: Wandering So-Cal-ian

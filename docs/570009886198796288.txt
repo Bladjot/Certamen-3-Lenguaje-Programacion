@@ -1,0 +1,7 @@
+570009886198796288
+Delta
+how sway how “@JetBlue: Our fleet's on fleek. http://t.co/tQc96tKcI9”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 15:58:41 -0800
+location: ÜT: 40.645173,-73.898268

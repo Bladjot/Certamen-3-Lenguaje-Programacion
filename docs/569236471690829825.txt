@@ -1,0 +1,7 @@
+569236471690829825
+Virgin America
+@VirginAmerica on iPad and iPhone, clicking the CHECKIN link in the email I received at 24hrs before flight
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 12:45:25 -0800
+location: Silicon Valley, California

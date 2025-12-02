@@ -1,0 +1,7 @@
+568951532252585987
+Southwest
+@SouthwestAir rocks! Open letter to flight attendant. http://t.co/zFrOINPSzI  &lt; my child was inspired.  Thank you.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 17:53:10 -0800
+location: nan

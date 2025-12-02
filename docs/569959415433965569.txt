@@ -1,0 +1,7 @@
+569959415433965569
+US Airways
+@USAirways I get some bs from a guy at the door says door closes 10 minutes before it backs out. Yet I know for a fact it was 5 people short
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 12:38:08 -0800
+location: Does it really matter

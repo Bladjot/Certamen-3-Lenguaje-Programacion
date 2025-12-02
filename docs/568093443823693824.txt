@@ -1,0 +1,7 @@
+568093443823693824
+United
+@united I have a flight from omaha to chicago (en route to NYC) and they are seating me and my partner separate, please fix this res# ILC0HP
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 09:03:26 -0800
+location: Orlando, Florida

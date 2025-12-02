@@ -1,0 +1,7 @@
+570035728832446465
+United
+@united Can you please follow for a Dm on a missing bag?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 17:41:23 -0800
+location: Global

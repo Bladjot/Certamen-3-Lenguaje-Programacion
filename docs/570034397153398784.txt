@@ -1,0 +1,7 @@
+570034397153398784
+Southwest
+@SouthwestAir is the vinyl part of the prize too?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 17:36:05 -0800
+location: nan

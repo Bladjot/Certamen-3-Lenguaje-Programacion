@@ -1,0 +1,7 @@
+569515731022454784
+Southwest
+@SouthwestAir #tfw1 @JimCramer @AARP TY-Spent total of 3 hrs and 20 mins holding. Cell battery died. Finally made arrangements w kind Rep
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:15:06 -0800
+location: nan

@@ -1,0 +1,7 @@
+569485297639149568
+Delta
+@JetBlue won't see my money again after their poor service    should have stuck with virgin america what was i thinking trying jetblue???
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 05:14:10 -0800
+location: London/NYC

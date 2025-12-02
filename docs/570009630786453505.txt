@@ -1,0 +1,7 @@
+570009630786453505
+US Airways
+@USAirways  can you help me out?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 15:57:40 -0800
+location: nan

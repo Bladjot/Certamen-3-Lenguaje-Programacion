@@ -1,0 +1,7 @@
+569835167944019968
+American
+@AmericanAir thanks for reFlight Booking Problems me on a flight and then leaving my luggage in NYC. Unbelievable.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 04:24:25 -0800
+location: New York, NY

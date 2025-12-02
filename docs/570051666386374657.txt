@@ -1,0 +1,7 @@
+570051666386374657
+Southwest
+See you in ATL! “@SouthwestAir: Congrats to our #DestinationDragons winners! Ready, Atlanta? http://t.co/AY1GIdcfa4 http://t.co/yC7V2s0iOd”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 18:44:42 -0800
+location: Charleston, SC

@@ -1,0 +1,7 @@
+569924679206457344
+Southwest
+@SouthwestAir easy fix, let the business select actually board 1st, then board the pre-boards...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:20:06 -0800
+location: nan

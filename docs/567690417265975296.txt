@@ -1,0 +1,7 @@
+567690417265975296
+Delta
+@JetBlue really caring??
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 06:21:57 -0800
+location: Colombia

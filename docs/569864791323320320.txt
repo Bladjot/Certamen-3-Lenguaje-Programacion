@@ -1,0 +1,7 @@
+569864791323320320
+American
+@AmericanAir I do not need an apology. I need you to fix it in a competent manner.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 06:22:08 -0800
+location: Los Angeles

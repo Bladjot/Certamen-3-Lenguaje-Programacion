@@ -1,0 +1,7 @@
+568784261064622080
+United
+@united Hi. My 2/23 flight from CUN-EWR shows a departure of 2:55pm on my United app.  Can you confirm?  Doesn't look correct.  Thanks.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 06:48:29 -0800
+location: Tri State NY area...

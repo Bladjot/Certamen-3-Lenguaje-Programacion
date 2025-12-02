@@ -1,0 +1,7 @@
+568069616003629057
+Southwest
+@SouthwestAir she cut people off 35 minutes before flight time to check in bags, for a flight that was delayed 2 hours! I waited 8 more hrs!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 07:28:45 -0800
+location: San Francisco

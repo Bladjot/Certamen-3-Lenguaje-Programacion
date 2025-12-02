@@ -1,0 +1,7 @@
+568566331169247232
+Southwest
+@SouthwestAir DM Sent.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 16:22:31 -0800
+location: New York City/San Antonio

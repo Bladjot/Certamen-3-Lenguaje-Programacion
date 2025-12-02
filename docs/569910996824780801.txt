@@ -1,0 +1,7 @@
+569910996824780801
+United
+@united After speaking to a United customer service rep the night before a flight, confirming that everything is ok with your reservation..
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 09:25:44 -0800
+location: nan

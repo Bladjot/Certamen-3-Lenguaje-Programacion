@@ -1,0 +1,7 @@
+569514501730643968
+US Airways
+@USAirways agent won't hold for connection arriving Late Flight. 7 min before departure time but 3 min too Late Flight. Flt 1903 gate c19. Disappointed
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:10:12 -0800
+location: Cincinnati, OH

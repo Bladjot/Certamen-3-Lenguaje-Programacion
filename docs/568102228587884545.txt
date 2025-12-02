@@ -1,0 +1,7 @@
+568102228587884545
+US Airways
+@USAirways stranded in Philly- #Starving and can't get a meal voucher even though your plane had mechanical issue /  next flight in 10 hrs
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 09:38:20 -0800
+location: Miami,Fl

@@ -1,0 +1,7 @@
+569275935905722368
+Delta
+@JetBlue Thanks for the instant reply, and for still doing first bag free (so important)!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 15:22:14 -0800
+location: By mile 3 of the NYC Marathon

@@ -1,0 +1,7 @@
+569615659333627904
+United
+@united...do you still have flat tire policy.  Shuttle broke down on way to ORD.  Will probably miss the 425pm to CLE...Help please!!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 13:52:10 -0800
+location: Erie, PA

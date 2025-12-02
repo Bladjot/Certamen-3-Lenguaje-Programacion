@@ -1,0 +1,7 @@
+569880251767123968
+American
+@AmericanAir Huge thanks for fixing our flights! appreciate the customer service. now if only i could get seats assigned: me next to my wife
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 07:23:34 -0800
+location: suburban Chicago, IL

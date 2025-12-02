@@ -1,0 +1,7 @@
+570239952975482881
+American
+@AmericanAir over 70 days  no contact from a human or apology letter. @AmericanAir is #yucki. Read all about it soon http://t.co/9R9OmzQAVI
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 07:12:53 -0800
+location: nan

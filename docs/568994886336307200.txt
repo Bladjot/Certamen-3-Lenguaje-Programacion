@@ -1,0 +1,7 @@
+568994886336307200
+US Airways
+@USAirways refuses to compensate passengers when inconvenienced and wouldn't even rebook me on another airline. #disappointed
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 20:45:26 -0800
+location: nan

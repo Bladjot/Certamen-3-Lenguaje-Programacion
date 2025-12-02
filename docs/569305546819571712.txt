@@ -1,0 +1,7 @@
+569305546819571712
+United
+@united It appears there are six flights to Calgary tomorrow is this correct?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 17:19:54 -0800
+location: nan

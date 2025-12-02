@@ -1,0 +1,7 @@
+569666687253008384
+American
+@AmericanAir #flight293 was supposed to depart at 745 and at 815 we still have not boarded.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:14:56 -0800
+location: NYCATL

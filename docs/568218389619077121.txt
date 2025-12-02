@@ -1,0 +1,7 @@
+568218389619077121
+US Airways
+@USAirways ice cream up front! Solid
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 17:19:55 -0800
+location: nan

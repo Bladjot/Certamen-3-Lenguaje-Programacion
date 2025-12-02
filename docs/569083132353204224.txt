@@ -1,0 +1,7 @@
+569083132353204224
+Delta
+@JetBlue Airways Lowered to Strong Sell at Vetr Inc. (JBLU) - Mideast Time http://t.co/yMMH9k4CBr
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 02:36:06 -0800
+location: USA

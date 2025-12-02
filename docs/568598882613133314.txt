@@ -1,0 +1,7 @@
+568598882613133314
+US Airways
+@USAirways I know that, thanks. Evaluate further ;-) ... -Chairman
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 18:31:52 -0800
+location: Virginia

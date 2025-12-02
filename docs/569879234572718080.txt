@@ -1,0 +1,7 @@
+569879234572718080
+American
+@AmericanAir Cancelled Flighted flights, now I'm rerouted and have over 12 hrs of travel but you will bump paying customers for non revs. #custserv
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 07:19:32 -0800
+location: Portland, Oregon

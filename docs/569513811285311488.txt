@@ -1,0 +1,7 @@
+569513811285311488
+United
+@united after 6 hour plus delay from #WashingtonDC finally on flight to #Edinburgh all very tired
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 07:07:28 -0800
+location: Edinburgh

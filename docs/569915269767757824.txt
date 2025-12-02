@@ -1,0 +1,7 @@
+569915269767757824
+American
+@AmericanAir flight Cancelled Flightled and was trying to reschedule but 800 number just says to call back
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 09:42:43 -0800
+location: Milky Way:Orion Arm:Earth:DFW

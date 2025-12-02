@@ -1,0 +1,7 @@
+570175858469515264
+American
+@AmericanAir when you strand someone in a city without luggage you would think AA would want to earn your business, but guess not?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 02:58:12 -0800
+location: nan

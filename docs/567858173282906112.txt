@@ -1,0 +1,7 @@
+567858173282906112
+Southwest
+@SouthwestAir even with the 50$ voucher for picking up my bag
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 17:28:33 -0800
+location: Memphis, TN

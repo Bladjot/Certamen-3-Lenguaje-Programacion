@@ -1,0 +1,7 @@
+569864689452077058
+American
+@AmericanAir I need to be back home tomorrow and no one is helping me. Please help me rebook for a flight tomorrow!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 06:21:44 -0800
+location: nan

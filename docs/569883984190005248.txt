@@ -1,0 +1,7 @@
+569883984190005248
+United
+@united 768 SFO to BOS and no internet it is 2015 what gives?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 07:38:24 -0800
+location: Needham, MA

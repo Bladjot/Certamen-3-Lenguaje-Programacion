@@ -1,0 +1,7 @@
+569949415458213888
+American
+@AmericanAir Is my friends flight 386 from JAX to DFW Cancelled Flighted?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:58:24 -0800
+location: Dallas, Tx, USA

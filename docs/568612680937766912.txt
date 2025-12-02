@@ -1,0 +1,7 @@
+568612680937766912
+United
+@united can someone at the airport in Portland, OR buy a ticket to be picked up and used 2days Late Flightr by other from Perth, AUSTRALIA? Thanks
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 19:26:42 -0800
+location: nan

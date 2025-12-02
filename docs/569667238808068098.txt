@@ -1,0 +1,7 @@
+569667238808068098
+Southwest
+@SouthwestAir I love my Companion Pass (qualified 4th year).  #HollyMais
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:17:08 -0800
+location: Denver, Colorado

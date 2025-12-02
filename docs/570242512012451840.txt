@@ -1,0 +1,7 @@
+570242512012451840
+Delta
+@JetBlue you all are the best #flyfi # ondemand #leatherseats #hipunis #legroom
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 07:23:04 -0800
+location: nan

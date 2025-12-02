@@ -1,0 +1,7 @@
+569230652433936384
+Southwest
+@SouthwestAir Sent your way, thanks for the help.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 12:22:17 -0800
+location: Denver

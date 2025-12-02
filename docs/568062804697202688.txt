@@ -1,0 +1,7 @@
+568062804697202688
+Southwest
+@southwestair really?!? 1.5 hours ON THE PLANE and at the gate??? Jax2BNA. Like we haven’t waited days to get home #notokay
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 07:01:41 -0800
+location: Nashville/Franklin

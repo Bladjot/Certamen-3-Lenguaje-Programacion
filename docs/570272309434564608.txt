@@ -1,0 +1,7 @@
+570272309434564608
+US Airways
+.@USAirways I did but the more eyes I have looking for Pandu the better chance I have of bringing him home.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 09:21:28 -0800
+location: Just outside of Thunder Dome

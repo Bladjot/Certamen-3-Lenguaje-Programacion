@@ -1,0 +1,7 @@
+569685692038557696
+Delta
+@JetBlue "Goodwill" now at $125.00.  $27,000 x ? = Fine   Still want your new CEO to make a public apology to all passengers of flight 136
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 18:30:27 -0800
+location: Long Island - Arizona

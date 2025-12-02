@@ -1,0 +1,7 @@
+568054377421901824
+United
+@united delayed agAin by United. Gate agent was borderline rude when I asked her a flight status question. What is happening to United?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 06:28:12 -0800
+location: Wellesley, MA

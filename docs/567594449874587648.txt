@@ -1,0 +1,7 @@
+567594449874587648
+Southwest
+@SouthwestAir its cool that my bags take a bit longer, dont give me baggage blue balls-turn the carousel on, tell me it's coming, then not.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 00:00:36 -0800
+location: Los Angeles, CA

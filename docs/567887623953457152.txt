@@ -1,0 +1,7 @@
+567887623953457152
+US Airways
+@USAirways Only the JFK baggage office is open to help re-book all of us on Cancelled Flightled flight 3121 to DCA. Shameful.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 19:25:35 -0800
+location: Washington, DC

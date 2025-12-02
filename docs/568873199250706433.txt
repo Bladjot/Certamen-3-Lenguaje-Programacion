@@ -1,0 +1,7 @@
+568873199250706433
+US Airways
+@USAirways hi there I am flying MYR-CLT-ORD tomorrow is weather looking ok or problematic?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 12:41:54 -0800
+location: Adelaide, South Australia

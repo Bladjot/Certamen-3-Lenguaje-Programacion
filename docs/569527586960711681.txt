@@ -1,0 +1,7 @@
+569527586960711681
+Delta
+@JetBlue then this agent demanded I remove my old luggage tag, every other airport the JB agent politely handles it
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 08:02:12 -0800
+location: Naples, FL, Boston, MA

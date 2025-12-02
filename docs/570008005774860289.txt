@@ -1,0 +1,7 @@
+570008005774860289
+Delta
+Alright... Someone has to stop this! RT @JetBlue: Our fleet's on fleek. http://t.co/lchVJoliDg
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 15:51:13 -0800
+location: サマセット、ニュージャージー州

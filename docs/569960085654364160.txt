@@ -1,0 +1,7 @@
+569960085654364160
+United
+@united is doing musicians real dirty at LAX. I've never been blocked from getting on a flight with my bass.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 12:40:48 -0800
+location: New York City, NY

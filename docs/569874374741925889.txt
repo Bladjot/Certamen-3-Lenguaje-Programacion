@@ -1,0 +1,7 @@
+569874374741925889
+Delta
+@JetBlue keeps getting better. No water on the plane.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 07:00:13 -0800
+location: nan

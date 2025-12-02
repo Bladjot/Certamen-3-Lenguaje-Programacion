@@ -1,0 +1,7 @@
+570239463089000449
+American
+@AmericanAir Thanks guys got some sleep. Hang in there DFW with bad weather.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 07:10:57 -0800
+location: nan

@@ -1,0 +1,7 @@
+567756085583302656
+Delta
+@JetBlue was just at T5 a little over a month ago. @JetBlue you guys are great thanks for everything!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 10:42:53 -0800
+location: nan

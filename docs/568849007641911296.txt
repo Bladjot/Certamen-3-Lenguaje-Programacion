@@ -1,0 +1,7 @@
+568849007641911296
+United
+@united I booked and paid for a flight to get me to Denver at a specific time for a meeting. You failed... It wasn't caused by weather
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 11:05:46 -0800
+location: nan

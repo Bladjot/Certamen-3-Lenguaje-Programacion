@@ -1,0 +1,7 @@
+569998122241232896
+Southwest
+@SouthwestAir hasn't evennotified us that theflight isdelayed via email/text/phone call.If we wererunning Late Flight I would be pissed #unreliable
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 15:11:57 -0800
+location: KCMO

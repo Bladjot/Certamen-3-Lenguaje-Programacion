@@ -1,0 +1,7 @@
+568541325735415808
+United
+@united More concerned that you close a club I paid alot for at 10.  Last flight 11:15p.  The construction going on is very inconvenient.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-19 14:43:09 -0800
+location: nan

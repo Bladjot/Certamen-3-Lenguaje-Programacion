@@ -1,0 +1,7 @@
+568438860390244353
+US Airways
+@USAirways can we hold two seats for 11:35 flight from PHX to Las 1856 as this delayed flight 556 is not going to arrive on-time
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 07:56:00 -0800
+location: nan

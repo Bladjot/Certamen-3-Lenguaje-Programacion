@@ -1,0 +1,7 @@
+570021871577477120
+American
+@AmericanAir my Mistake multibillion dollar company
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 16:46:19 -0800
+location: new york city

@@ -1,0 +1,7 @@
+568079446592385025
+US Airways
+@USAirways flight today showing on time online, not able to check in. Called &amp; told was Cancelled Flightled, put on hold over an hr ago. Help?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 08:07:49 -0800
+location: nan

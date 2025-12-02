@@ -1,0 +1,7 @@
+569216055018704896
+United
+@united I will. I have to get to Bangkok. I have just 17 days to spend with my husband in his mid deployment leave. Like to get there asap
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 11:24:17 -0800
+location: Kingston, Canada

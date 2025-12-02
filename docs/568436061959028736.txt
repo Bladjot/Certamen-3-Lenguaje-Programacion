@@ -1,0 +1,7 @@
+568436061959028736
+Southwest
+@SouthwestAir would you be willing to help me surprise my bestfriend with tickets to go see @Imaginedragons? #DestinationDragons Gracias!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 07:44:52 -0800
+location: Ithaca, NY

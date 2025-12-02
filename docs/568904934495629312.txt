@@ -1,0 +1,7 @@
+568904934495629312
+Delta
+@JetBlue No, the flight wasn't until 9:51pm, but it's already been delayed.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 14:48:00 -0800
+location: New York City

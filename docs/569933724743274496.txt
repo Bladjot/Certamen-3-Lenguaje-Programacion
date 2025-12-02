@@ -1,0 +1,7 @@
+569933724743274496
+American
+@AmericanAir @USAirways you can help by now finding my baggage!!  Reply to me ASAP with who I can direct details to.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 10:56:03 -0800
+location: NY

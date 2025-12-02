@@ -1,0 +1,7 @@
+567781607797305345
+Delta
+@JetBlue I did get the email. Thought i wasn't supposed to reply to those😂
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 12:24:18 -0800
+location: pnw

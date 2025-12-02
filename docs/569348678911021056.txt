@@ -1,0 +1,7 @@
+569348678911021056
+Southwest
+@SouthwestAir - wow! 100 minutes on hold, so far. Now phone is dying...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 20:11:17 -0800
+location: Nashville, TN

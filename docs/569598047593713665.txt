@@ -1,0 +1,7 @@
+569598047593713665
+United
+@united this is why I fly @SouthwestAir ... Never have any issues
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 12:42:11 -0800
+location: nan

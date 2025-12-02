@@ -1,0 +1,7 @@
+568834328937009152
+Southwest
+@SouthwestAir No no no. SWA low fares and on-time service is great! But manufactured quirkiness? Mmm, not so much. Signed, -CaptiveAudience
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 10:07:27 -0800
+location: ( Maryland | North Carolina )

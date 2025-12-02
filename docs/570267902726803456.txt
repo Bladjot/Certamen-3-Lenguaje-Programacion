@@ -1,0 +1,7 @@
+570267902726803456
+American
+@AmericanAir The issue is the lack of consideration of an announcement made so Late Flight when the gate agent had been there for over an hour.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 09:03:57 -0800
+location: nan

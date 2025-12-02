@@ -1,0 +1,7 @@
+568984950709432320
+Southwest
+@SouthwestAir @TifffyHuang I met my twitter friend waiting outside the Troubadour #DestinationDragons http://t.co/lf69waf5ad
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 20:05:58 -0800
+location: nan

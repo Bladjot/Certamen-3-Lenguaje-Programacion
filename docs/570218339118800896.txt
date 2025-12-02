@@ -1,0 +1,7 @@
+570218339118800896
+Delta
+@JetBlue Thanks. I'm finding lower fares already on other carriers with direct flights. July 8 - 13.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 05:47:00 -0800
+location: New York/New Jersey

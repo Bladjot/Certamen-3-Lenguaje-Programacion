@@ -1,0 +1,7 @@
+569386581938860032
+Delta
+@JetBlue a voucher.. I can't believe I took this risk. Not only was the plane terribly filthy and I had 15 screaming babies in my face..
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 22:41:54 -0800
+location: Manhattan, NY

@@ -1,0 +1,7 @@
+568125723594133504
+Delta
+@JetBlue nope. Currently sitting at my gate.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 11:11:42 -0800
+location: Buffalo NY/ Pinehurst NC

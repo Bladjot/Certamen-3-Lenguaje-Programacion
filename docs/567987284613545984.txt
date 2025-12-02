@@ -1,0 +1,7 @@
+567987284613545984
+United
+@United what the...? I go into the "all airlines lounge" w/ my Star Alliance Club Card in BCN only to be told Star Alliance isn't accepted
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 02:01:36 -0800
+location: nan

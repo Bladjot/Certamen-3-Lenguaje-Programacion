@@ -1,0 +1,7 @@
+569014098811351040
+United
+@united Brothers luggage was lost on Copa Airlines Flight 635. He's competing Sunday for the 2015 Panamerican Cross Country Cup. Please help
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 22:01:47 -0800
+location: Kearney, Nebraska

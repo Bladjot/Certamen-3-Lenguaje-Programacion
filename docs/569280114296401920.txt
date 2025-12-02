@@ -1,0 +1,7 @@
+569280114296401920
+Delta
+@JetBlue The Opal Dragon book The Dragon (ALI) has woven his murdering ways from the Philippines to Australia http://t.co/ltwhmOL1Dr
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 15:38:50 -0800
+location: South Australia

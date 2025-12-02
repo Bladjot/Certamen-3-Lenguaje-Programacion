@@ -1,0 +1,7 @@
+568963398781808640
+United
+@united how is it that my flight #3367 can arrive early and be delayed due to no gate being available. We are now 20 min Late Flight on tarmac
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 18:40:19 -0800
+location: nan

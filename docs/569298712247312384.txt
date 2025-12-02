@@ -1,0 +1,7 @@
+569298712247312384
+United
+@united hoping to get out earlier than 2/23 (only phone option) or assistance with hotel.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 16:52:44 -0800
+location: New Haven, CT

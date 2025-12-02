@@ -1,0 +1,7 @@
+570056648137576449
+United
+@united 5 gate changes, two delays.  Even the crew thinks the airline sucks
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 19:04:30 -0800
+location: Michigan

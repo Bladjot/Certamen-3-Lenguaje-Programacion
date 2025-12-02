@@ -1,0 +1,7 @@
+569525690950815745
+United
+@united Please follow FAA guidelines regarding bumping. It is NOT acceptable to give a $300 voucher for an $800 fare when you've
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:54:40 -0800
+location: Atlanta, GA

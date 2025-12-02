@@ -1,0 +1,7 @@
+567868770284208128
+Southwest
+@SouthwestAir @travelportland welcome to Portland. Sun, Mt hood and Southwest. http://t.co/y3SAHVX3Zk
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 18:10:39 -0800
+location: nan

@@ -1,0 +1,7 @@
+569528083755237376
+Delta
+@JetBlue get flight 16 into the air
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 08:04:11 -0800
+location: nan

@@ -1,0 +1,7 @@
+568387111931527168
+US Airways
+@USAirways I'm delayed in TYS #5015, likely gonna miss my connection in CLT to CUN. Gotta get there today. Can you help me?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 04:30:22 -0800
+location: Scruffyville

@@ -1,0 +1,7 @@
+570021223482191873
+Delta
+@JetBlue When chging flight, isit possible to pay the fare difference in dollars when the ticket was bought completely via point redemption?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 16:43:44 -0800
+location: nan

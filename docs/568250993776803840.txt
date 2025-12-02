@@ -1,0 +1,7 @@
+568250993776803840
+Delta
+@JetBlue Gnight checked in at POS &amp; supervisor was unaware of policy. That sucked having to guide him to the internet. He was v unfriendly
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 19:29:29 -0800
+location: On the road to paradise

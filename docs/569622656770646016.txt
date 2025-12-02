@@ -1,0 +1,7 @@
+569622656770646016
+American
+@AmericanAir need assistance. very frustrated I can't reach reservations by phone. trying to book online &amp; get "fare no longer avail" msg
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 14:19:59 -0800
+location: Tucson

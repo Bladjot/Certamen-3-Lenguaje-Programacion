@@ -1,0 +1,7 @@
+568492016587436033
+Delta
+@JetBlue Does @AirCanada not take fraud as seriously?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 11:27:13 -0800
+location: nan

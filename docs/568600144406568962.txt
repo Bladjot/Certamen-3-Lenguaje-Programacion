@@ -1,0 +1,7 @@
+568600144406568962
+United
+@united 4840 You knew this flight was delayed! MHT to ALB to EWR to get crew. Your arrival is Late Flightr than the departure! Update your site!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 18:36:53 -0800
+location: DC/SF/BFLO

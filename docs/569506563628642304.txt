@@ -1,0 +1,7 @@
+569506563628642304
+Southwest
+@SouthwestAir you have let me down! #oversold #earlybirdmeansnothing
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 06:38:40 -0800
+location: nan

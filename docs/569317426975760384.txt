@@ -1,0 +1,7 @@
+569317426975760384
+US Airways
+@USAirways JUST LANDED flight 545. Any chance of making flight 5530 Phoenix to AUS
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 18:07:06 -0800
+location: Austin, Texas

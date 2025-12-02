@@ -1,0 +1,7 @@
+567728860629057537
+US Airways
+@USAirways and it still says it's on time on your website btw
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 08:54:42 -0800
+location: boston

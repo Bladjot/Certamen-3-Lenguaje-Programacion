@@ -1,0 +1,7 @@
+568193698284118016
+Delta
+@JetBlue I did not report the updated info - don't know how to reach them without a super long wait on hold at your main number.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 15:41:48 -0800
+location: Forest Hills, NY

@@ -1,0 +1,7 @@
+568855390462603264
+Southwest
+@SouthwestAir#4569 Cancelled Flightled, had to get refund. Cancelled Flightlations happen. But the 25+ min phone wait &amp; painful music unacceptable. Come on...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 11:31:08 -0800
+location: Chicago

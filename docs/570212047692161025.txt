@@ -1,0 +1,7 @@
+570212047692161025
+Delta
+@JetBlue A month ago I had a flight booked but then had to Cancelled Flight it... I'm now Flight Booking Problems a separate flight for a different occasion.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 05:22:00 -0800
+location: New York, NY

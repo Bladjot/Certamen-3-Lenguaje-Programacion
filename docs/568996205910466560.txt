@@ -1,0 +1,7 @@
+568996205910466560
+US Airways
+@USAirways I have a story for you. It starts with a two hour delayed flight that makes me miss my connection in Miami.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 20:50:41 -0800
+location: Asheville, NC

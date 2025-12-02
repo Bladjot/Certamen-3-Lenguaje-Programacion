@@ -1,0 +1,7 @@
+570304544128815104
+American
+@AmericanAir your planes made me miss 2 connections in 2 days. Thanks for nothing
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 11:29:33 -0800
+location: nan

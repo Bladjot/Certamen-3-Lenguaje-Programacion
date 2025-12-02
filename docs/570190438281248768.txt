@@ -1,0 +1,7 @@
+570190438281248768
+Delta
+@JetBlue great will do once I land in JFK
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 03:56:08 -0800
+location: Austin

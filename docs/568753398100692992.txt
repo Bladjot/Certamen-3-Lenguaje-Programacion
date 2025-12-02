@@ -1,0 +1,7 @@
+568753398100692992
+Southwest
+@SouthwestAir Hi! Winter Wx Advisory issued for STL. Snow &amp; Ice &amp; Cold, oh my! Will you issue a travel advisory for that?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 04:45:51 -0800
+location: St. Louis

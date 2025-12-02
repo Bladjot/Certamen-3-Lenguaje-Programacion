@@ -1,0 +1,7 @@
+567837023014273024
+Delta
+@JetBlue.  Punta Cana, to enjoy weather n see my wifes family
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 16:04:30 -0800
+location: nan

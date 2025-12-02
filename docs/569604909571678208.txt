@@ -1,0 +1,7 @@
+569604909571678208
+American
+@AmericanAir ....I am on attempt #6 and hour #10 of calling and being put on hold.  Not feeling confident that I will ever get through...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:09:27 -0800
+location: The City of Big Shoulders

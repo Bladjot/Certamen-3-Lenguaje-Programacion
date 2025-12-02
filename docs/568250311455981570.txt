@@ -1,0 +1,7 @@
+568250311455981570
+US Airways
+@USAirways #flight4592 LET US OFF THIS PLANE!!!  please go to a gate.  This is absurd.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 19:26:46 -0800
+location: The District of Columbia

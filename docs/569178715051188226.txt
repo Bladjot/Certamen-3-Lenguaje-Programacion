@@ -1,0 +1,7 @@
+569178715051188226
+United
+@united Wasn't frustrating! Well, not in any way reLate Flightd to y'all, anyway. Impressed that I made it.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 08:55:55 -0800
+location: Washington, D.C.

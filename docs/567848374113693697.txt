@@ -1,0 +1,7 @@
+567848374113693697
+United
+@united $55 cab ride to dfw from love got me my bag. Reimburse?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 16:49:37 -0800
+location: nan

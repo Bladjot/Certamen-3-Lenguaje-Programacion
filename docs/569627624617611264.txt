@@ -1,0 +1,7 @@
+569627624617611264
+Delta
+@JetBlue Pittsburgh
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 14:39:43 -0800
+location: 3Ø4

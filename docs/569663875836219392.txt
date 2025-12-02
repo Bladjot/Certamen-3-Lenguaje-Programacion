@@ -1,0 +1,7 @@
+569663875836219392
+US Airways
+@USAirways Can you provide me with info about checking strollers and car seats?  Costs?  Restrictions?  Need to bring 2 seats 1 stroller.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:03:46 -0800
+location: nan

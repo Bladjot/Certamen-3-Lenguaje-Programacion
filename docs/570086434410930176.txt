@@ -1,0 +1,7 @@
+570086434410930176
+American
+@AmericanAir do you have hand sanitizer in the bathrooms on your flights?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 21:02:52 -0800
+location: Greenbow, Alabama

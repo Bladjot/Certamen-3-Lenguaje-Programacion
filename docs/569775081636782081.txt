@@ -1,0 +1,7 @@
+569775081636782081
+Delta
+@JetBlue flight from JFK-SFO was pure awesomeness. Mint Class and Tim our attendant was the best! Other airlines, take notes!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 00:25:40 -0800
+location: California

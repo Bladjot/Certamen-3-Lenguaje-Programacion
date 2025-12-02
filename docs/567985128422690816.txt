@@ -1,0 +1,7 @@
+567985128422690816
+United
+@united &lt;&lt;&lt;&lt;&lt;&lt;-------- do not reply to emails?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 01:53:01 -0800
+location: bonkers in Yonkers

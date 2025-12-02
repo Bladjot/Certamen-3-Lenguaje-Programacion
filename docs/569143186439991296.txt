@@ -1,0 +1,7 @@
+569143186439991296
+Southwest
+@SouthwestAir, I've been on hold for 3 hrs. now, waiting to talk to someone with a pulse to get my Cancelled Flighted flight rescheduled. Is this SOP?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 06:34:44 -0800
+location: nan

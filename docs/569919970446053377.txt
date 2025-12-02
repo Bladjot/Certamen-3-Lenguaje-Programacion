@@ -1,0 +1,7 @@
+569919970446053377
+American
+@AmericanAir No! We departed 24 hours Late Flightr, with a crazy crew. One of the lady simply freaked out and got away from job before departure.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 10:01:24 -0800
+location: São Paulo

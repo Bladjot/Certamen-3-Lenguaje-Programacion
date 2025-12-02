@@ -1,0 +1,7 @@
+568157491927896064
+Delta
+@JetBlue should've been on one of your flights instead... @SouthwestAir has now lost our bags to add insult to injury
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 13:17:56 -0800
+location: Canton, MA

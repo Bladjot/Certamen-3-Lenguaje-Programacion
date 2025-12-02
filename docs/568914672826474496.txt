@@ -1,0 +1,7 @@
+568914672826474496
+Southwest
+@SouthwestAir do you have special fares for students to visit prospective schools?  It's expensive to visit graduate programs.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 15:26:42 -0800
+location: ILLINOIS

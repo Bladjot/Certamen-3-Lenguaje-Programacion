@@ -1,0 +1,7 @@
+570033099939184641
+American
+@AmericanAir @maryella_green just received it, actually. Thank you!!!!!!!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 17:30:56 -0800
+location: Sassy southerner in Chicago

@@ -1,0 +1,7 @@
+569512252639981568
+Delta
+@JetBlue is JFK still closed? Tryna get out of Ft Lauderdale on flight 502, just want to get home to nyc!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 07:01:16 -0800
+location: brooklyn

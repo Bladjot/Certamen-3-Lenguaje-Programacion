@@ -1,0 +1,7 @@
+569910943720669184
+American
+@AmericanAir How am I supposed to Cancelled Flight it if I can't do it online?  I don't want to lose all the funds on the ticket.  HELP!!! :(
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:25:32 -0800
+location: ÜT: 37.77581,-122.419796

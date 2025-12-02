@@ -1,0 +1,7 @@
+569821309137514496
+American
+@AmericanAir When did they start to sell water @AdmiralsClub ?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 03:29:21 -0800
+location: Los Angeles, CA

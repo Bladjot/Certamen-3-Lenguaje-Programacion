@@ -1,0 +1,7 @@
+569696080121569280
+American
+@AmericanAir pretty bad at #DFW no updates two flights behind doors open breeze no America airlines workers http://t.co/6MBK79mdnW
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 19:11:44 -0800
+location: Windermere (seattle)

@@ -1,0 +1,7 @@
+568493336698490880
+United
+@united ANOTHER F*CKING DELAY IN THE PAST 32 HOURS!?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 11:32:28 -0800
+location: I'm just a kid from Oak Harbor

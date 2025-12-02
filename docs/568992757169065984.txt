@@ -1,0 +1,7 @@
+568992757169065984
+US Airways
+@USAirways Made about 30 calls to USAir today to merge of AAdvantage, Dividend Miles. Each time, says call back Late Flightr. #30timesenough
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 20:36:59 -0800
+location: Santa Cruz, CA

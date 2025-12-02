@@ -1,0 +1,7 @@
+568604311598469121
+Delta
+@JetBlue what's going on with flight 669 and how many free trips will I get from this epic inconvenience @anku http://t.co/pEUc0BMij9
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 18:53:26 -0800
+location: New York

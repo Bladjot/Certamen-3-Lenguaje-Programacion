@@ -1,0 +1,7 @@
+567825347439370240
+United
+@united I shouldn't have to spend my own $$$ on a hotel because of a weather delay. The weather being something COMPLETELY OUT OF MY CONTROL
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 15:18:07 -0800
+location: California

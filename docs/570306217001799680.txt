@@ -1,0 +1,7 @@
+570306217001799680
+United
+@united Your ERI-ORD express connections are hugely popular .. now if only we could have an ERI-EWR hop! :)
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 11:36:12 -0800
+location: Erie, PA

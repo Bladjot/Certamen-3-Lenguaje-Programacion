@@ -1,0 +1,7 @@
+569667787829809152
+Southwest
+@SouthwestAir sign me up!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:19:19 -0800
+location: nan

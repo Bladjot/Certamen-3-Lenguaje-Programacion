@@ -1,0 +1,7 @@
+568461830584029184
+United
+@united @perfectomobile You really shouldn't use the word 'crashing.' Just sayin'.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 09:27:16 -0800
+location: East&West Coasts & the South

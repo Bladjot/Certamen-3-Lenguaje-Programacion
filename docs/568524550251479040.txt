@@ -1,0 +1,7 @@
+568524550251479040
+United
+@united that's what I tried to do, but when entering email into 2nd device made email typo. No way to fix it &amp; no option to log out/in!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 13:36:30 -0800
+location: nan

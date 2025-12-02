@@ -1,0 +1,7 @@
+570304445734629376
+Southwest
+@SouthwestAir your agents were the ones who were rude and unhelpful and prompted my initial tweet. This is so easy to fix.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 11:29:10 -0800
+location: Chappaqua NY

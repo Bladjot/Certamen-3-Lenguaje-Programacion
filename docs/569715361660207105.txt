@@ -1,0 +1,7 @@
+569715361660207105
+US Airways
+@USAirways @AmericanAir have the most rude, unreliable, horrible company with equally rude, unreliable and horrible employees. Stay tuned.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:28:21 -0800
+location: Philadelphia, PA

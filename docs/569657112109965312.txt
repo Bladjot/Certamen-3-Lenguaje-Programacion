@@ -1,0 +1,7 @@
+569657112109965312
+American
+@AmericanAir here we go again #aa106 "Plane not ready". Are we going to find the crew run out of time again like last night #shortstaffed
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:36:53 -0800
+location: Canterbury, Kent

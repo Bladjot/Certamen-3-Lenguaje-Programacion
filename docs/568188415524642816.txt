@@ -1,0 +1,7 @@
+568188415524642816
+United
+@united it's almost like we're punished for living near a large metro area. EWR was top ranked for domestic delays. Not good
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 15:20:49 -0800
+location: nan

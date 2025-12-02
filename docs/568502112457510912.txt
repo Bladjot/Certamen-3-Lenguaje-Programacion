@@ -1,0 +1,7 @@
+568502112457510912
+US Airways
+@USAirways wanted to connect to discuss sponsorship opportunities with http://t.co/q6Xedzvhh9, silicon valleys only 10 day film festival
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 12:07:20 -0800
+location: Pune

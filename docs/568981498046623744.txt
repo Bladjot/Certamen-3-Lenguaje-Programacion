@@ -1,0 +1,7 @@
+568981498046623744
+Southwest
+@SouthwestAir Do you still offer discounts on seats for children under 2? We would rather put him in a seat than in a lap!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 19:52:14 -0800
+location: Kentucky, USA

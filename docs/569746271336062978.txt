@@ -1,0 +1,7 @@
+569746271336062978
+Delta
+@JetBlue wall separating in row 1. #safetyconcerns http://t.co/zTrDwV0N4l
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 22:31:11 -0800
+location: nan

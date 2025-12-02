@@ -1,0 +1,7 @@
+568563550475698177
+Southwest
+@SouthwestAir lets chat about flights to and from BWI and the Carolina area... Can a girl get break? I've had to resort to USAir 😖 2 a day?!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 16:11:28 -0800
+location: nan

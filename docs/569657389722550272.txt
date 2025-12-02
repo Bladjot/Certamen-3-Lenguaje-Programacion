@@ -1,0 +1,7 @@
+569657389722550272
+Southwest
+@SouthwestAir couldn't be bothered to help with my lost my luggage. Not a single helpful employee owner to be found in BWI.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 16:38:00 -0800
+location: nan

@@ -1,0 +1,7 @@
+568494498361294848
+Southwest
+@SouthwestAir Thank you. Great tool
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 11:37:05 -0800
+location: nan

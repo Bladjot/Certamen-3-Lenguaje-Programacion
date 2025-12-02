@@ -1,0 +1,7 @@
+567735204656066560
+United
+@united @FlyANA_official pleasantly surprised to find ANA has made major upgrades on their transpacific route in flights, planes and service
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 09:19:55 -0800
+location: Bhutan

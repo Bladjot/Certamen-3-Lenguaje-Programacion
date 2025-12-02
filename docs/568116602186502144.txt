@@ -1,0 +1,7 @@
+568116602186502144
+US Airways
+@USAirways booked an award ticket recently, now same ticket is less miles. how do I contact you without using the online form or phone?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 10:35:27 -0800
+location: USA

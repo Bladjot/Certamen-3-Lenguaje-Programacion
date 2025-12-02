@@ -1,0 +1,7 @@
+567871270014025728
+Southwest
+@SouthwestAir Why won't you let me leave Newark!?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 18:20:35 -0800
+location: Hanging with Carmen Sandiego.

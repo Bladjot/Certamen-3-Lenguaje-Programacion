@@ -1,0 +1,7 @@
+568649837610037248
+United
+@united I think we both have the same status (nothing). I think there was a bug in your search system.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 21:54:20 -0800
+location: Los Angeles, California

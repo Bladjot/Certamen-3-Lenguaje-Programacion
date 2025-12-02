@@ -1,0 +1,7 @@
+567824271234592769
+United
+@united What if my NYC flight is delayed and I miss my connection to Sacramento from Chicago?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 15:13:50 -0800
+location: California

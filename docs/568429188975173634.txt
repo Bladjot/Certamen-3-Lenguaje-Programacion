@@ -1,0 +1,7 @@
+568429188975173634
+Southwest
+@SouthwestAir Is my friend lucky enough to see #DestinationDragons live on his birthday? He's been a fan for years @thirty_lives
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 07:17:34 -0800
+location: nan

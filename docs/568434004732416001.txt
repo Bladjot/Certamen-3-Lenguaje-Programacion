@@ -1,0 +1,7 @@
+568434004732416001
+Southwest
+@SouthwestAir Southwest is definitely my favorite airline to fly! :D
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 07:36:42 -0800
+location: Austin, Texas

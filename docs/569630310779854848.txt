@@ -1,0 +1,7 @@
+569630310779854848
+Delta
+@JetBlue anything serious I should worry about?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:50:23 -0800
+location: 3Ø4

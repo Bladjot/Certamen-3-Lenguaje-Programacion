@@ -1,0 +1,7 @@
+569667378457391106
+American
+@AmericanAir we have 3 more passengers with me   There are two more reservation numbers
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 17:17:41 -0800
+location: nan

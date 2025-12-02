@@ -1,0 +1,7 @@
+567921252901367808
+Southwest
+@SouthwestAir What are your services? What promotion you have at the moment? #ModeloDeNegocio #innovation #innovacion #BusinessModel
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 21:39:12 -0800
+location: nan

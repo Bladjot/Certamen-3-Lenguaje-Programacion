@@ -1,0 +1,7 @@
+569102942088900608
+US Airways
+@USAirways dealing w fam emergency. Was told was rebooked this am to AA flight 4297 out of ORD and now it's not in system. Need help ASAP.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 03:54:49 -0800
+location: Washington, DC

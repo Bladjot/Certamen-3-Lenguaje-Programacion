@@ -1,0 +1,7 @@
+569657895522054145
+US Airways
+@USAirways I have received two reservation check-ins for two different flights for my one flight tomorrow morning. Need assistance ASAP
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:40:00 -0800
+location: Raleigh, NC

@@ -1,0 +1,7 @@
+569821862873726976
+US Airways
+@USAirways Raleigh to Chicago and no #firstclass upgrade. Must be flying AA 'the screw USAir Elite, after we bailed them out' Airline
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 03:31:33 -0800
+location: North Carolina

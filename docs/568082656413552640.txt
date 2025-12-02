@@ -1,0 +1,7 @@
+568082656413552640
+Southwest
+@SouthwestAir after a long wait of over an hour my mother's bag did not make it. We filed a report and are waiting. Thanks for your help
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 08:20:34 -0800
+location: Richmond and Virginia Beach

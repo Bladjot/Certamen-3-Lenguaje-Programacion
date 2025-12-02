@@ -1,0 +1,7 @@
+570186666276577280
+American
+@AmericanAir just need to know why it wasn't done like it was promised it would yesterday
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 03:41:09 -0800
+location: McKinney TX

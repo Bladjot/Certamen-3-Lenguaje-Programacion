@@ -1,0 +1,7 @@
+570241590758920192
+US Airways
+@USAirways When you are deciding to wreck a vacation... is losing luggage from a Cancelled Flighted flight your "go to" maneuver?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 07:19:24 -0800
+location: Kentucky

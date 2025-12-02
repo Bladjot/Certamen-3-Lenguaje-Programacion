@@ -1,0 +1,7 @@
+569701646445326336
+American
+@AmericanAir anything you can do?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 19:33:51 -0800
+location: Plano, Texas

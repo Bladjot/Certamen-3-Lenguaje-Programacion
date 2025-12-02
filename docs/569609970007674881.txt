@@ -1,0 +1,7 @@
+569609970007674881
+American
+@AmericanAir flight was Cancelled Flightled can you guys help?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 13:29:34 -0800
+location: iPhone: 40.829401,-73.926223

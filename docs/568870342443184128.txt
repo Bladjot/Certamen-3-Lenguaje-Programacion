@@ -1,0 +1,7 @@
+568870342443184128
+Delta
+@JetBlue will I be compensated for delays or Cancelled Flightlation?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 12:30:33 -0800
+location: Bay Area, CA.

@@ -1,0 +1,7 @@
+568216414957408256
+Southwest
+@SouthwestAir Thnx. Hopefully it's just on the nxt flight up. I've got 3 shows this wknd. Worst case I'll just turn my sweatshirt inside out
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 17:12:04 -0800
+location: California

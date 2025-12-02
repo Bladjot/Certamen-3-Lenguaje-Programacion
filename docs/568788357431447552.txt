@@ -1,0 +1,7 @@
+568788357431447552
+Southwest
+@SouthwestAir  what is the status on flight#122 STL-AUS?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 07:04:46 -0800
+location: nan

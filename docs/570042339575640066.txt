@@ -1,0 +1,7 @@
+570042339575640066
+Delta
+.@JetBlue Navigating through 2 rebooks due to flu &amp; ice to visit my Mother.  Your CS reps have been so very helpful, patient and friendly.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 18:07:39 -0800
+location: Washington, DC 20003

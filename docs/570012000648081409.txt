@@ -1,0 +1,7 @@
+570012000648081409
+Delta
+@JetBlue flight for tomorrow morning Cancelled Flighted &amp; can't seem to rebook me. They can't even get me a seat. No clear answer on why Cancelled Flighted.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 16:07:05 -0800
+location: Isle of Palms, SC

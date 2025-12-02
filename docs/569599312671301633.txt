@@ -1,0 +1,7 @@
+569599312671301633
+American
+@AmericanAir hey there me again from yesterday im still on hold
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:47:13 -0800
+location: NEONgarden

@@ -1,0 +1,7 @@
+568189481590886400
+Southwest
+@SouthwestAir @Kaneshow @InternJohnRadio @mrerickv THIS IS EVERYTHING... now, return that jet so we can go to Miami!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 15:25:03 -0800
+location: Maryland

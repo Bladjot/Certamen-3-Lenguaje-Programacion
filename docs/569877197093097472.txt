@@ -1,0 +1,7 @@
+569877197093097472
+American
+@AmericanAir AA2334 Second week in a row delayed, due to mechanical issues. All the sleet outside and yet we're stuck changing a tire
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 07:11:26 -0800
+location: nan

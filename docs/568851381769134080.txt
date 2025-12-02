@@ -1,0 +1,7 @@
+568851381769134080
+Delta
+@JetBlue I'll see you on board again soon!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 11:15:12 -0800
+location: Global

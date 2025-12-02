@@ -1,0 +1,7 @@
+568159483786084352
+US Airways
+@USAirways @FAANews how can I be stuck on a plane due to snow in Boston when it's not actually snowing in Boston?  Usair flight 2218 #US2218
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 13:25:51 -0800
+location: ÜT: 42.798909,-71.542817

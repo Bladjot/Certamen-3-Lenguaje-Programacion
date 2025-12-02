@@ -1,0 +1,7 @@
+567760331829559296
+Southwest
+@SouthwestAir the woman working the counter in philly at 630 this am needs to be fired. Due to bad weather, I along with other passengers
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 10:59:46 -0800
+location: Memphis, TN

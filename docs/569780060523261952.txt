@@ -1,0 +1,7 @@
+569780060523261952
+American
+@AmericanAir 20 HS students from Ithaca NY stuck in Miami flts xld u won't rebook to get kids home use carrier alliance #rulesshouldbend
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 00:45:27 -0800
+location: nan

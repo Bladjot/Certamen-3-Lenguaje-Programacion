@@ -1,0 +1,7 @@
+570287747643998208
+American
+@AmericanAir That's ok...You may keep my $25 and lose my bag with no info, but you no longer have my trust. Bad way to handle this.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 10:22:49 -0800
+location: nan

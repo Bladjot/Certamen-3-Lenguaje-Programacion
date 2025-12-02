@@ -1,0 +1,7 @@
+570227199766179840
+Delta
+@JetBlue Thx for the quick response .... yep I tried- but it can't find the flight when I Input the Confirmation #
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 06:22:13 -0800
+location: iPhone: 40.955353,-73.813942

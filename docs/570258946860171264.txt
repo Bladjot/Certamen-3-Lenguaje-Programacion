@@ -1,0 +1,7 @@
+570258946860171264
+US Airways
+@usairways Is it possible to Cancelled Flight my reservation online?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:28:22 -0800
+location: nan

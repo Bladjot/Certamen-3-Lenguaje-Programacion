@@ -1,0 +1,7 @@
+567739036425805824
+Delta
+@JetBlue I did...#FlyFi worked well and was free aboard this flight
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 09:35:09 -0800
+location: Queens, NY

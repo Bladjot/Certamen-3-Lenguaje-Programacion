@@ -1,0 +1,7 @@
+569854312702201856
+Delta
+@JetBlue no I asked. Either way it doesn't make the flight less delayed.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 05:40:30 -0800
+location: nan

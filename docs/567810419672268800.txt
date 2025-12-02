@@ -1,0 +1,7 @@
+567810419672268800
+Southwest
+@SouthwestAir No worries at all!!! I would rather be safe on the ground than take any chances. Yes! Tomorrow AM if BNA reopens ☺️
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 14:18:48 -0800
+location: Nashville, TN

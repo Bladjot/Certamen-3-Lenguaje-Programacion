@@ -1,0 +1,7 @@
+569377149045444608
+US Airways
+@USAirways thank you for leaving my 74 y/o grandma stranded because connecting flt could not wait 10 minutes. I will never fly you again
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 22:04:25 -0800
+location: Richmond, VA

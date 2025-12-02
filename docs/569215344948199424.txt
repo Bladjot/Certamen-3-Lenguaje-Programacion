@@ -1,0 +1,7 @@
+569215344948199424
+United
+@united need assistance. Line is out the door and travelling with 3 kids.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-21 11:21:28 -0800
+location: Middlebury, VT

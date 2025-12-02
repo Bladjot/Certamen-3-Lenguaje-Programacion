@@ -1,0 +1,7 @@
+569589079710380032
+Southwest
+@SouthwestAir it was not - still don't know where skis are and cannot get a call back from bag svc at airport (left several msgs)
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 12:06:33 -0800
+location: Bethesda MD

@@ -1,0 +1,7 @@
+568966274887389185
+US Airways
+@USAirways I have corporate-paid travel in April. Is it possible to purchase an upgrade to first class now?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 18:51:45 -0800
+location: Charlotte, NC

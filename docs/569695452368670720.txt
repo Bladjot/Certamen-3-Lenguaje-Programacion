@@ -1,0 +1,7 @@
+569695452368670720
+United
+@united Why was flight 1180 EWR to MCO Cancelled Flightled for tomorrow and what do I do to rebook. Asking for a relative.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 19:09:14 -0800
+location: New Jersey

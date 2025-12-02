@@ -1,0 +1,7 @@
+568839596261249024
+Delta
+@JetBlue Let's just say #IDontWannaLiveWithoutYourLove https://t.co/i9KCgaxxFa #ItWasMintToBe #BestInClassSocial #ThankYou #Travel #Business
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 10:28:22 -0800
+location: New York, NY

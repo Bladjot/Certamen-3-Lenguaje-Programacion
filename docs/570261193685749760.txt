@@ -1,0 +1,7 @@
+570261193685749760
+American
+@AmericanAir since you don't care about what happens to your passengers on your planes we will now be contacting the Police Dept
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 08:37:18 -0800
+location: Belle MO

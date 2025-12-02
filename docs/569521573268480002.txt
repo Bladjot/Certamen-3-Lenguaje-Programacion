@@ -1,0 +1,7 @@
+569521573268480002
+US Airways
+@USAirways my in-laws flight Cancelled Flighted 4 tonight. U auto rebooked 4 flight on Tuesday that doesn't work. Can you help reFlight Booking Problems them?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 07:38:18 -0800
+location: Alabama

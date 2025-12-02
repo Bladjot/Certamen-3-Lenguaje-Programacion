@@ -1,0 +1,7 @@
+569881701247291393
+American
+@AmericanAir @USAirways "but I take meds that make me severely dehydrated" {sigh}
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 07:29:20 -0800
+location: BK

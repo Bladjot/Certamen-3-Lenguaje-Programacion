@@ -1,0 +1,7 @@
+568421605132484608
+Southwest
+@SouthwestAir If you read my tweet it is a gap in process for folks that take multiple flights in one day.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 06:47:26 -0800
+location: Alabama

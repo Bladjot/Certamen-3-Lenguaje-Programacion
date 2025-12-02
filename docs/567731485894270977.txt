@@ -1,0 +1,7 @@
+567731485894270977
+United
+@united sat at airport for 5 hrs still sitting at gate..  Sigh
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 09:05:08 -0800
+location: nan

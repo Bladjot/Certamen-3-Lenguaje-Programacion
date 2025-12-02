@@ -1,0 +1,7 @@
+568203785996263424
+United
+@united it's kinda funny. No worries.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 16:21:53 -0800
+location: Las Vegas

@@ -1,0 +1,7 @@
+568198843034169344
+Southwest
+@SouthwestAir Yay! And are dependents with ID (wife children) eligible to use this discount too? How do you use it over the phone/inperson?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 16:02:15 -0800
+location: Fayetteville North Carolina

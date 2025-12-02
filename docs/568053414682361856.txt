@@ -1,0 +1,7 @@
+568053414682361856
+US Airways
+@USAirways that is the most useless tweet I've ever seen out of you.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 06:24:22 -0800
+location: nan

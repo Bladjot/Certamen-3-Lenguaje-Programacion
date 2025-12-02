@@ -1,0 +1,7 @@
+569672329321701376
+American
+@AmericanAir I can't choose a seat online because I booked on @priceline ??? #SMH
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 17:37:21 -0800
+location: nan

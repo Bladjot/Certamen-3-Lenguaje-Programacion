@@ -1,0 +1,7 @@
+569616208804380672
+American
+@AmericanAir I will thank you. What do I do if I can't get through and my flight on hold Cancelled Flights?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 13:54:21 -0800
+location: Naperville, IL

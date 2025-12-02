@@ -1,0 +1,7 @@
+569959365236690945
+US Airways
+@USAirways I need to speak with a customer service agent today between 5-8pm  I had an unfortunate incident of discrimination today.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 12:37:56 -0800
+location: nan

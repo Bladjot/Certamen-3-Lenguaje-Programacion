@@ -1,0 +1,7 @@
+569678065422311424
+American
+@AmericanAir Please help AA 2258 Monday Cancelled Flightled.  Can you advise on reFlight Booking Problems / refund.  Have children and need to make plans now
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:00:09 -0800
+location: nan

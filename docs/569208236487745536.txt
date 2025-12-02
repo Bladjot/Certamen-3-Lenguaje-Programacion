@@ -1,0 +1,7 @@
+569208236487745536
+Southwest
+@SouthwestAir have a prompt for consumers for prompt for customer service instead of having customers on hold for 1.5 hrs
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 10:53:13 -0800
+location: nan

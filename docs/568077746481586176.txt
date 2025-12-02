@@ -1,0 +1,7 @@
+568077746481586176
+US Airways
+@USAirways announced that people going to FL via Charlotte would have to go to a different plane &amp; gate, but it was a 'direct flight' #logic
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 08:01:03 -0800
+location: nan

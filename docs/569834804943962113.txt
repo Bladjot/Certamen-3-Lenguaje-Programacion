@@ -1,0 +1,7 @@
+569834804943962113
+United
+@united I have sent a message with a bag tag. Have you looked?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 04:22:59 -0800
+location: nan

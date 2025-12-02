@@ -1,0 +1,7 @@
+568196165780578304
+US Airways
+@USAirways Secondary screenings, a piece of the plane missing... Anything you want to tell us?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 15:51:37 -0800
+location: Washington, DC

@@ -1,0 +1,7 @@
+568396913726382080
+US Airways
+@USAirways my wife is trying to check in for a flight tonight out of RSW...website not allowing, saying must go to airport... [Part 1 of 2]
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 05:09:19 -0800
+location: 40.0587, -75.3659

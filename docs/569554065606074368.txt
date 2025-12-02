@@ -1,0 +1,7 @@
+569554065606074368
+Southwest
+@SouthwestAir check the head of the plane, there has been dynamite placed onto it
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 09:47:25 -0800
+location: lowkey

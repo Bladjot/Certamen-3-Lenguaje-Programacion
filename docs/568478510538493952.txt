@@ -1,0 +1,7 @@
+568478510538493952
+Virgin America
+@VirginAmerica ok! first time flying with you tonight :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 10:33:33 -0800
+location: ☂ Seattle | WA

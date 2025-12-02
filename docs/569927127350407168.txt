@@ -1,0 +1,7 @@
+569927127350407168
+Delta
+“@JetBlue: Our fleet's on fleek. http://t.co/JMnkJ6Bmc2” Jet Blizzue in the hizouse.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:29:50 -0800
+location: Boston, MA

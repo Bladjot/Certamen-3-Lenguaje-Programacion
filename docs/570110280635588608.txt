@@ -1,0 +1,7 @@
+570110280635588608
+US Airways
+@USAirways Thank You for your empathy there is more to this story than just the luggage but thank you for reaching out
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 22:37:37 -0800
+location: Pennsylvania

@@ -1,0 +1,7 @@
+569679210454724609
+American
+@AmericanAir Thanks for the reply, but a functioning plane four hours ago was the only way to do that. The staff was friendly, tho.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 18:04:42 -0800
+location: Austin, TX

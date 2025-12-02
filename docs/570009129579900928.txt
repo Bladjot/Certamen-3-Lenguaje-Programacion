@@ -1,0 +1,7 @@
+570009129579900928
+US Airways
+@USAirways is anything being done to make Flight Attendants aware of AA member benefits? Embarrassing being argued with. Just happened.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 15:55:41 -0800
+location: BTR/DCA/IAD/MSY - etc

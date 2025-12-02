@@ -1,0 +1,7 @@
+569212318283771904
+United
+@united yes refund my ticket and give me email address to let u know what happened
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 11:09:26 -0800
+location: nyc

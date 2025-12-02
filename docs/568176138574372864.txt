@@ -1,0 +1,7 @@
+568176138574372864
+Delta
+@JetBlue I'd go to Portsmouth, NH to take care of my friend's son while she takes her daughter to Boston for surgery.  #flyingitforward
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 14:32:02 -0800
+location: Washington, DC

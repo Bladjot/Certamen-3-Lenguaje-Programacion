@@ -1,0 +1,7 @@
+569647413285265408
+United
+@united Denver baggage handlers you totally impressed us today. Our lungs barely made the run to connect but our bags had no problem! #DEN
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 15:58:21 -0800
+location: DC

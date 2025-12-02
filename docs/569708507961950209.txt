@@ -1,0 +1,7 @@
+569708507961950209
+US Airways
+@USAirways - is stranding your customers, not reFlight Booking Problems them, and then not answering the phone the way you treat Platinum members?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 20:01:07 -0800
+location: Washington, D.C.

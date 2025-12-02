@@ -1,0 +1,7 @@
+568223025805422592
+Southwest
+@SouthwestAir Yes - with extra $77. I wonder what are you going yo loose, if there is room.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 17:38:21 -0800
+location: nan

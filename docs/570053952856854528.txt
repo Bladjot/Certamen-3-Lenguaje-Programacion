@@ -1,0 +1,7 @@
+570053952856854528
+American
+@AmericanAir 4369. about 4 flights all using same gate w/buses to the planes.  Awful boarding process. Hour and a half Late Flight
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 18:53:48 -0800
+location: nan

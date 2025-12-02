@@ -1,0 +1,7 @@
+570295795985080320
+United
+@united @highbuddyyy that totally sucks my cousin worked at PHL said @united
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 10:54:48 -0800
+location: nan

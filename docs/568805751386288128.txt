@@ -1,0 +1,7 @@
+568805751386288128
+United
+@united that's wonderful. unfortunately doesn't help on this 4 hr flight between to major U.S. cities. #disappointed
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 08:13:53 -0800
+location: Chicago, IL

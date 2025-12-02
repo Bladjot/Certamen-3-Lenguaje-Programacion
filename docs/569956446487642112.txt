@@ -1,0 +1,7 @@
+569956446487642112
+United
+@united flight 1491...plane from SFO to DEN is basically on time.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 12:26:20 -0800
+location: Washington, DC

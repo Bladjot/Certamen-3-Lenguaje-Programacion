@@ -1,0 +1,7 @@
+568863640721477632
+US Airways
+@usairways yep, sent my bag to Philadelphia instead of Miami...I caught it...then was told my flight changed to tomorrow, wrong again #fail
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 12:03:55 -0800
+location: Boston

@@ -1,0 +1,7 @@
+568436267702071296
+Southwest
+@SouthwestAir used to exclusively fly SW, but Late Flightly, direct flights &amp; cheaper costs have me switched. 😔 why...so... few...direct...flights?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 07:45:41 -0800
+location: Live Free or Die

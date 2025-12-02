@@ -1,0 +1,7 @@
+569700922248581121
+American
+@AmericanAir Didn't really need anything. Saw your mentions are often negative. Keep up the good work. #gratitude  🇺🇸✈️
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 19:30:59 -0800
+location: Indianapolis

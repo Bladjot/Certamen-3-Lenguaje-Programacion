@@ -1,0 +1,7 @@
+570163259560452097
+United
+@united pls properly train your agents. Requested to speak to 1k customer service &amp; was transferred to a dead end. Not even open at this hr
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 02:08:08 -0800
+location: Seoul City to LA

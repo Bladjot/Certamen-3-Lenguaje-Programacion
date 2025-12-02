@@ -1,0 +1,7 @@
+569744079027896320
+United
+@united This is the 2nd time I was rebooked (w/delays), and for reasons unreLate Flightd to weather. How do I go about requesting a flight voucher?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 22:22:28 -0800
+location: New Haven, CT

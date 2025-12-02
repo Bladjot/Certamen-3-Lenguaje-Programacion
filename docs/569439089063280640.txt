@@ -1,0 +1,7 @@
+569439089063280640
+United
+@united your "customer service" team in manilla is absolute shit. I can't even get a supervisor without being out back on hold?!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 02:10:33 -0800
+location: nan

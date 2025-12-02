@@ -1,0 +1,7 @@
+569171003852468224
+Southwest
+@SouthwestAir @SouthwestOliver that's a great FA right there.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 08:25:16 -0800
+location: Farmington, Utah

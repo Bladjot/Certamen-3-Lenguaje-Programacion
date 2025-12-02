@@ -1,0 +1,7 @@
+569212558952960000
+US Airways
+@USAirways How does flight 680 look? I'm hearing about Cancelled Flightled departures from @Reagan_Airport and I'm about to head into it
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 11:10:24 -0800
+location: nan

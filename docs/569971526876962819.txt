@@ -1,0 +1,7 @@
+569971526876962819
+Southwest
+@SouthwestAir  I sent a email to customer relations and I will be calling tomorrow.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:26:16 -0800
+location: nan

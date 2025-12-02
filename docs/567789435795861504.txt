@@ -1,0 +1,7 @@
+567789435795861504
+United
+@united customer service 👎
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 12:55:25 -0800
+location: chicago IL

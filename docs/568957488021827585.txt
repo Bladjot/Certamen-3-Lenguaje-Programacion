@@ -1,0 +1,7 @@
+568957488021827585
+Southwest
+@SouthwestAir Thanks so much. Appreciate your kindness in adjusting our reservation. Even during snowstorms, I still prefer Southwest. 👍
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 18:16:50 -0800
+location: iPhone: 35.300907,-85.900749

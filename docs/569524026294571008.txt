@@ -1,0 +1,7 @@
+569524026294571008
+US Airways
+@USAirways @Expedia 7 Hours for my friend to rebook his trip to Korea after @USAirways Cancelled Flightled a connecting flight to Chicago = IDIOTIC.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 07:48:03 -0800
+location: Elizabeth, PA

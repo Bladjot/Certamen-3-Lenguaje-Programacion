@@ -1,0 +1,7 @@
+567750645462360064
+Southwest
+@SouthwestAir flt 648 from Buf to MCO. Conf#FGKXV5. Please also look into reimburse for car 587701925COUNT that I had to Cancelled Flight
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 10:21:16 -0800
+location: Orchard Park, NY

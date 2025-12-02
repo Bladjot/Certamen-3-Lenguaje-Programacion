@@ -1,0 +1,7 @@
+569837569392967680
+US Airways
+“@USAirways: @hegshmeg O” thank you for that elaborate response
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 04:33:58 -0800
+location: los angeles ca

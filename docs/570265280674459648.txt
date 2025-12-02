@@ -1,0 +1,7 @@
+570265280674459648
+Southwest
+@SouthwestAir due to an apparent water issue that checked out fine during the checks my husband and I already had to deal with our first
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 08:53:32 -0800
+location: nan

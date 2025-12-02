@@ -1,0 +1,7 @@
+570124993176203265
+American
+@AmericanAir done
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 23:36:05 -0800
+location: las vegas/nashville, TN

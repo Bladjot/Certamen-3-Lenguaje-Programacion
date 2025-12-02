@@ -1,0 +1,7 @@
+568446993548206081
+Southwest
+@SouthwestAir @FortuneMagazine. I'm flying on one right this minute
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 08:28:19 -0800
+location: nan

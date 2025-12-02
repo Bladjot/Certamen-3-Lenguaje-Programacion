@@ -1,0 +1,7 @@
+569877658286186496
+Southwest
+@SouthwestAir didn't realize no clothes until at hotel - suggestions?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:13:16 -0800
+location: nan

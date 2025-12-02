@@ -1,0 +1,7 @@
+567886700275310592
+United
+@united this is in ur Hemispheres magazine. I'm open to what will u do to make the "flight more pleasant." http://t.co/VrQDpqEPFW
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 19:21:54 -0800
+location: Boise, ID

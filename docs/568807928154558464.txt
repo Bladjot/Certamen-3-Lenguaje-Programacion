@@ -1,0 +1,7 @@
+568807928154558464
+United
+@united: Worse - headed to LaGuardia (delayed).  Why is the tray table the size of a mouse pad and the overhead the size on my pocket?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 08:22:32 -0800
+location: nan

@@ -1,0 +1,7 @@
+570211016308596736
+Delta
+@JetBlue hi friend! Question for you when you have a moment.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 05:17:54 -0800
+location: New York, NY

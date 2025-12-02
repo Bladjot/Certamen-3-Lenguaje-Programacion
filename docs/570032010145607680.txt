@@ -1,0 +1,7 @@
+570032010145607680
+American
+@AmericanAir @jokerunning this happened to me too!!!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 17:26:36 -0800
+location: Cleveland, OH

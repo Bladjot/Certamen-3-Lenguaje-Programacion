@@ -1,0 +1,7 @@
+567847753277120512
+United
+@united thanks for not getting my BusinessFirst priority tagged bag onto my connecting flight at EWR despite a 2+ hour layover. Nice job
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 16:47:09 -0800
+location: Johnstown, Ohio

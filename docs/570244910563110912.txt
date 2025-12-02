@@ -1,0 +1,7 @@
+570244910563110912
+American
+@AmericanAir I guess I was one of the select few that hadn't had many problems before this and all the sudden my whole trip got jacked
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 07:32:35 -0800
+location: nan

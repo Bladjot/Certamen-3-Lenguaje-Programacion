@@ -1,0 +1,7 @@
+570095172303900672
+United
+@united it's frustrating, as a frequent flyer, loyal since Continental. Upgrade equals paying 3 times or more on top of purchase ticket.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 21:37:35 -0800
+location: Madison, NJ

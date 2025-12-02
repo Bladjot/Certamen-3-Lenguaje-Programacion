@@ -1,0 +1,7 @@
+569282249717194754
+Virgin America
+@VirginAmerica Because we never rec'd Cancelled Flightlation notice we were left w no options to fly out of PS. Driving to LA for a red eye Mon w kids
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 15:47:19 -0800
+location: New York City

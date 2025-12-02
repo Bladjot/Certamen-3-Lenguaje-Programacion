@@ -1,0 +1,7 @@
+568524407850688512
+Southwest
+@SouthwestAir CEO Gary Kelly, "We are America's most loved and most flown airline!" #SouthwestRally #BWI #bestemployees #swaculture #swapic
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 13:35:56 -0800
+location: Washington DC

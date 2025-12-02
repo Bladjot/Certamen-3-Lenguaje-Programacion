@@ -1,0 +1,7 @@
+568222514956013568
+Southwest
+@SouthwestAir have a flight from Oakland to SNA at 7:30, and I asked if I can take 5:30, even there are 5 empty sests. Answer is "No". :(
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 17:36:19 -0800
+location: nan

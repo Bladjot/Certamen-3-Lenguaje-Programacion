@@ -1,0 +1,7 @@
+568039503065174016
+Southwest
+@SouthwestAir just did last night. Thanks for following up. :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 05:29:05 -0800
+location: FL, US of A

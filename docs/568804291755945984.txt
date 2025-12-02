@@ -1,0 +1,7 @@
+568804291755945984
+Southwest
+@SouthwestAir couldn't make flight, funds forfeited as a no show!! Was trying to book another flight using those funds, I'm out.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 08:08:05 -0800
+location: nan

@@ -1,0 +1,7 @@
+569885015615664129
+United
+@united Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 07:42:30 -0800
+location: Frequently DC/NYC/San Diego

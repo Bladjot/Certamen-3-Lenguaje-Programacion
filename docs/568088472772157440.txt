@@ -1,0 +1,7 @@
+568088472772157440
+Virgin America
+@VirginAmerica to start 5xweekly #A319 flights from to #Dallas @DallasLoveField #Austin on 28APR #avgeek
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 08:43:41 -0800
+location: Abu Dhabi

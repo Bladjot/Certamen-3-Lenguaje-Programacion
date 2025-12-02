@@ -1,0 +1,7 @@
+567858957546561536
+US Airways
+@USAirways sits on a throne of lies
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 17:31:40 -0800
+location: nan

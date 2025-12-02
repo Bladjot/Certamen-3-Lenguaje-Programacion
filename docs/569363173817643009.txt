@@ -1,0 +1,7 @@
+569363173817643009
+United
+@united not a good day to fly u, two delayed flights still on plane at Ewr waiting over 1,5 hours for gate get to gate no gate agent.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 21:08:53 -0800
+location: somerville nj

@@ -1,0 +1,7 @@
+569949655905263616
+American
+@AmericanAir I have a couple questions for you, if you’re available for PM?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:59:21 -0800
+location: ÜT: 41.498967,2.186957

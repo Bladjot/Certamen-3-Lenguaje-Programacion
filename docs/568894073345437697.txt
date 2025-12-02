@@ -1,0 +1,7 @@
+568894073345437697
+United
+@united I know where to check. My complaint is my ticket said dinner when I booked now it's changed to refreshments. Where's my refund?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 14:04:51 -0800
+location: Austin, TX

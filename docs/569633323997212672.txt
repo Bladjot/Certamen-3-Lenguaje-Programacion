@@ -1,0 +1,7 @@
+569633323997212672
+US Airways
+@USAirways can't seem to find the pilots for our 6pm flight, never seen anything like it before #drunkpilots http://t.co/Zira2z3UDc
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:02:22 -0800
+location: nan

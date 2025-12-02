@@ -1,0 +1,7 @@
+568490964173627393
+US Airways
+@USAirways You will be hearing a lot more from me instead of your feedback when I get back home.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 11:23:02 -0800
+location: Liverpool, UK

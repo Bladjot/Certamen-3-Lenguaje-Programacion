@@ -1,0 +1,7 @@
+568438257454682112
+Southwest
+@SouthwestAir I wish I would've known so I could've slept 2 hours more and let my friend know not to wait for me after she lands...
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 07:53:36 -0800
+location: Los Angeles

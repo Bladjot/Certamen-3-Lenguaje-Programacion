@@ -1,0 +1,7 @@
+569514031695962112
+US Airways
+@USAirways no one is coming to line. On hold for 4 hours. Can u help here if I provide conf code?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:08:20 -0800
+location: nan

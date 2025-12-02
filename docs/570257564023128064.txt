@@ -1,0 +1,7 @@
+570257564023128064
+United
+@united dm these nuts
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:22:52 -0800
+location: nyc to la

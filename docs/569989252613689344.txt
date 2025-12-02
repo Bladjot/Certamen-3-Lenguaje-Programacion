@@ -1,0 +1,7 @@
+569989252613689344
+American
+@AmericanAir been calling all morning. Still can't get through. I need to chge a flight that is this week!!!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:36:42 -0800
+location: San Francisco

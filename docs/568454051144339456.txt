@@ -1,0 +1,7 @@
+568454051144339456
+US Airways
+@usairways if you could change your name to @southwestair and do what they do...that'd be awesome. Also this plane smells like onion rings.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 08:56:21 -0800
+location: Jawjah

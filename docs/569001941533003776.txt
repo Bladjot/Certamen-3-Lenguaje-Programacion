@@ -1,0 +1,7 @@
+569001941533003776
+Southwest
+@southwestair Grand total from landing to getting bag: one hour. That's very sad.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-20 21:13:29 -0800
+location: Charleston, SC

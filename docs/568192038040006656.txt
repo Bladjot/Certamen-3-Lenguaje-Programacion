@@ -1,0 +1,7 @@
+568192038040006656
+Southwest
+@SouthwestAir when will dates to fly go past August 7 2015?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 15:35:13 -0800
+location: Bay Area, California

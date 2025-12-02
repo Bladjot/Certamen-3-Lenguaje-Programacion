@@ -1,0 +1,7 @@
+569867943888056320
+American
+@AmericanAir at LAX and your service reps just hand out the 800 number to call. So that's not helpful.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:34:40 -0800
+location: Boston, MA

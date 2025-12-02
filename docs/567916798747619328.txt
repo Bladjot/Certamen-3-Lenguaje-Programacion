@@ -1,0 +1,7 @@
+567916798747619328
+United
+@united still haven't received a response. Please direct message me for my contact information.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 21:21:30 -0800
+location: nan

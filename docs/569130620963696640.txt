@@ -1,0 +1,7 @@
+569130620963696640
+Delta
+@JetBlue got it. Thanks
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 05:44:48 -0800
+location: Troy, NY

@@ -1,0 +1,7 @@
+569696449111461888
+American
+@AmericanAir great flight experience again... SFO-JFK... Dare I say it? A consistent high quality on a legacy airline? Keep it up guys!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 19:13:12 -0800
+location: New York City

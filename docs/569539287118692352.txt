@@ -1,0 +1,7 @@
+569539287118692352
+Delta
+@JetBlue according to jfk plenty of planes are landing. No problem there
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 08:48:42 -0800
+location: nan

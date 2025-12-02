@@ -1,0 +1,7 @@
+569717336959160323
+US Airways
+@USAirways @AmericanAir as soon as I call customer service to speak to a representative, I am disconnected
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:36:12 -0800
+location: Philadelphia, PA

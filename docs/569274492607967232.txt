@@ -1,0 +1,7 @@
+569274492607967232
+Delta
+@JetBlue are we scheduled to depart as scheduled?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 15:16:30 -0800
+location: nan

@@ -1,0 +1,7 @@
+569925091095646209
+Delta
+Now put your baggage fees back on "free." RT @JetBlue: Our fleet's on fleek. http://t.co/oxsA8btVTB
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:21:45 -0800
+location: New York City

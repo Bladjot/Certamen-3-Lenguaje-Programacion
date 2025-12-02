@@ -1,0 +1,7 @@
+569636064035348480
+American
+@AmericanAir yes, and rebooked incorrectly.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 15:13:15 -0800
+location: Austin, TX

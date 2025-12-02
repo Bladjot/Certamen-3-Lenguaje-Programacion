@@ -1,0 +1,7 @@
+569345132866220032
+US Airways
+@USAirways help! Flight Cancelled Flighted, can't call because my phone doesn't work in Europe. Please help? Says I'm booked want to confirm.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 19:57:12 -0800
+location: East Coast City

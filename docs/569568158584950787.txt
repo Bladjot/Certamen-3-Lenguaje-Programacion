@@ -1,0 +1,7 @@
+569568158584950787
+United
+@united My bag is lost and I can't get ahold of anyone that can help
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 10:43:25 -0800
+location: Lees Summit

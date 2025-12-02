@@ -1,0 +1,7 @@
+568891084107087872
+Southwest
+@SouthwestAir any chance they will change this to include Northeast airports?  JetBlue has.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 13:52:58 -0800
+location: nan

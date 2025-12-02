@@ -1,0 +1,7 @@
+568094581041934336
+Southwest
+@SouthwestAir tried to enter that rapid rewards contest link on facebook but all my browsers kept popping up security warnings 4 it.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 09:07:57 -0800
+location: Houston, Texas

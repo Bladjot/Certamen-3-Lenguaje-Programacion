@@ -1,0 +1,7 @@
+570093652120178689
+American
+@AmericanAir no not yet. Waiting now to be connected to an agent
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 21:31:33 -0800
+location: Arlington VA

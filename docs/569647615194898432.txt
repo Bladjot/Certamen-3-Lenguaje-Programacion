@@ -1,0 +1,7 @@
+569647615194898432
+United
+@united Late Flight 2014 and 2015 are huge step towards decline in service, and your agents, not all, are as arrogant as ever.  #UnitedAirlines
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:59:09 -0800
+location: earth

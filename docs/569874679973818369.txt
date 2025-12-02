@@ -1,0 +1,7 @@
+569874679973818369
+American
+@AmericanAir but you're not sorry enough to compensate for either the extended time or cost difference to an alternate direct flight, right?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 07:01:26 -0800
+location: @MontgomeryCoMD / SYR / HHI

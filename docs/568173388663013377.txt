@@ -1,0 +1,7 @@
+568173388663013377
+US Airways
+@USAirways after 3 Cancelled Flightlations and a delay, causing me to miss connecting flight. Another night not being home. Thanks #pathetic
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 14:21:06 -0800
+location: Lowell, Ma

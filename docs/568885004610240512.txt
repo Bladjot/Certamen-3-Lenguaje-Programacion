@@ -1,0 +1,7 @@
+568885004610240512
+Delta
+@JetBlue who is he I must send a note!!! Too good for words!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 13:28:49 -0800
+location: San Francisco, CA

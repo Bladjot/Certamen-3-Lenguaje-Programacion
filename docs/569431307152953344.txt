@@ -1,0 +1,7 @@
+569431307152953344
+United
+.@united I wouldn't describe feces sprinkled in your bathroom as an inconvenience. To help, you might find my baggage you lost &amp; return it.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 01:39:37 -0800
+location: Boston, MA

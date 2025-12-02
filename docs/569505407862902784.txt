@@ -1,0 +1,7 @@
+569505407862902784
+United
+@united  of course this morning I see a non-stop from IAH to SFO but that was not available yesterday. #UnitedHatesUsAll
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 06:34:04 -0800
+location: nan

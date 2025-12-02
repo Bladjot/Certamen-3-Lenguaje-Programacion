@@ -1,0 +1,7 @@
+569974833418600449
+Southwest
+@SouthwestAir right? We're delayed so I'm crabby. :) Also why do you allow one family member to purchase EarlyBird check in and hold rows?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 13:39:24 -0800
+location: La Jolla, CA

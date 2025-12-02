@@ -1,0 +1,7 @@
+569659173044129792
+American
+@AmericanAir I have been waiting at this airport since 11 am and have to wait until 8:30 tomorrow and cannot get any sort of help!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:45:05 -0800
+location: KY

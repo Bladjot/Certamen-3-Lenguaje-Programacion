@@ -1,0 +1,7 @@
+567853001534210049
+Delta
+@JetBlue ah yes. Put the bags on the floor instead of the overhead bin so no one trips. #safetyfirst #sarcasm
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 17:08:00 -0800
+location: New York, New York

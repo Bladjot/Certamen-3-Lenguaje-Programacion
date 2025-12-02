@@ -1,0 +1,7 @@
+570119247982137344
+United
+@united thanks United I understand that. But he would actually like his own bag back! What have you done with it?! He also wants the money..
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 23:13:15 -0800
+location: Brighton, UK

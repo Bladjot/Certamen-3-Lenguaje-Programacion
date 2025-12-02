@@ -1,0 +1,7 @@
+569008708174262272
+United
+@united Also your at-gate monitor showed 23 empty seats
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 21:40:22 -0800
+location: Hong Kong

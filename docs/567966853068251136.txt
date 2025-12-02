@@ -1,0 +1,7 @@
+567966853068251136
+United
+@united @PGATOUR @NTrustOpen I read that last hashtag as Go F United. Makes sense since they F us by Cancelled Flightling ticketed reservations
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 00:40:24 -0800
+location: Toronto

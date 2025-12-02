@@ -1,0 +1,7 @@
+569966440381595648
+Delta
+HA! “@JetBlue: Our fleet's on fleek. http://t.co/zQuTUS7epW”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:06:03 -0800
+location: Bey-Land. Eagle Nation.

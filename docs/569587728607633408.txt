@@ -1,0 +1,7 @@
+569587728607633408
+United
+@united, American never had my bags apparently. United never switched them over. Had to go back to United Baggage Service.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 12:01:11 -0800
+location: STL

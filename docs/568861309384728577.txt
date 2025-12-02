@@ -1,0 +1,7 @@
+568861309384728577
+Delta
+@JetBlue No, it is one I'm trying to make, but it is probably too Late Flight. I did not see an email that I could call. Pittsburgh International.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 11:54:39 -0800
+location: nan

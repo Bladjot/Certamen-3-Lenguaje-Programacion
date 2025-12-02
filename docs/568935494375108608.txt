@@ -1,0 +1,7 @@
+568935494375108608
+US Airways
+@USAirways  2 hours on hold and issue still not resolved. hope to make my flight in 12 hours. for every minute of talk = 20 minutes of hold
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 16:49:26 -0800
+location: nan

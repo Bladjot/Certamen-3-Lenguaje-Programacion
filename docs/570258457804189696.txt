@@ -1,0 +1,7 @@
+570258457804189696
+American
+@AmericanAir It's been 3 weeks and no reply from customer relations yet.  Running out of time, please help.  request: 1-2888155964    thanks
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 08:26:25 -0800
+location: nan

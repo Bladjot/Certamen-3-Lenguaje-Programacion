@@ -1,0 +1,7 @@
+567861645084631041
+Southwest
+@SouthwestAir took our carryon bag with essential attire for a life changing interview tomorrow &amp; it's not here; can we expect compensation?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 17:42:21 -0800
+location: CHICAGO-STL

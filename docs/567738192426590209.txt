@@ -1,0 +1,7 @@
+567738192426590209
+United
+Thx! Stand by! “@united: @rajuchinthala I know it's frustrating and I do appreciate your patience while we try to get you on your way. ^JH”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:31:47 -0800
+location: Indianapolis

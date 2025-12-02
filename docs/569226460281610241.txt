@@ -1,0 +1,7 @@
+569226460281610241
+Delta
+@JetBlue where did my travel bank credit go?  I can't call you right now.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 12:05:38 -0800
+location: Providence, RI

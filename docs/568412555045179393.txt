@@ -1,0 +1,7 @@
+568412555045179393
+United
+@united sure... You've been saying that for as long as I've been tweeting about your obsolete fleet.  Promises are free.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 06:11:28 -0800
+location: California

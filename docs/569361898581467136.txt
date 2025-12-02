@@ -1,0 +1,7 @@
+569361898581467136
+US Airways
+@USAirways I have been on hold for over one hour waiting to reschedule a flight. How much longer should I expect?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 21:03:49 -0800
+location: Boston, Ma

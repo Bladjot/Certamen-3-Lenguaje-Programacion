@@ -1,0 +1,7 @@
+568491256508231680
+Virgin America
+@VirginAmerica just promoting the product is all, had a problem with southwest and recommend noneother than the best! http://t.co/tFaNXBh1Cf
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 11:24:12 -0800
+location: nan

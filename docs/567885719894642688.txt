@@ -1,0 +1,7 @@
+567885719894642688
+US Airways
+@USAirways hey let flight 1874get to the gate  hours Late Flight and no fate with dozens of kids on board
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 19:18:01 -0800
+location: nan

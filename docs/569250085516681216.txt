@@ -1,0 +1,7 @@
+569250085516681216
+Southwest
+@SouthwestAir I know where that is! Alas I live far, far away now. #Books
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 13:39:31 -0800
+location: Provo, Utah

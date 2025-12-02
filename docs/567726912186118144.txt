@@ -1,0 +1,7 @@
+567726912186118144
+Delta
+@JetBlue Can't view seat selection/change seat for flight tomorrow. Can you look into this?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 08:46:58 -0800
+location: Boston, MA

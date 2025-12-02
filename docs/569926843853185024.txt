@@ -1,0 +1,7 @@
+569926843853185024
+US Airways
+@USAirways horrible service, wrong plane arrived, many confirmed passengers could not get on flight we paid for due to lack of seats flight
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 10:28:42 -0800
+location: nan

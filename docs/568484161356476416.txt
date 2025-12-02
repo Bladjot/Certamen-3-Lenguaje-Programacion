@@ -1,0 +1,7 @@
+568484161356476416
+United
+@united Need to track lost luggage being shipped to me. Need ph # for human. Not automated 800-335-2247.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 10:56:00 -0800
+location: Someplace saving something

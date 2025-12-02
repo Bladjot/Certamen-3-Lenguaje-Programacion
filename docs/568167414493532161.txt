@@ -1,0 +1,7 @@
+568167414493532161
+US Airways
+@USAirways "admirals club" at CLT has rude, and ignorant front desk staff...@AmericanAir you have fallen so far...THANKS DOUG PARKER!!!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 13:57:22 -0800
+location: Dallas, TX

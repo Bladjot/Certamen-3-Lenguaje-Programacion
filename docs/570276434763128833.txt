@@ -1,0 +1,7 @@
+570276434763128833
+American
+@AmericanAir but, what I can always rely on when I fly USAir or American is that employees will be rude and unhappy.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 09:37:51 -0800
+location: nan

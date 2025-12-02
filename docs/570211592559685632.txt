@@ -1,0 +1,7 @@
+570211592559685632
+Southwest
+^CB how do you know? @SouthwestAir
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 05:20:12 -0800
+location: Albany, NY

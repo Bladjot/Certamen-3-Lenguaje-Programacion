@@ -1,0 +1,7 @@
+568109390026448896
+Delta
+@JetBlue you respond to my friend @LisaPal but you can't respond directly to me
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 10:06:48 -0800
+location: new orleans

@@ -1,0 +1,7 @@
+570179455911481344
+American
+@AmericanAir they were no where to be found at Midnight Last Night! I would think the agent in LAX could have relayed that info.Bag on flt
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 03:12:30 -0800
+location: nan

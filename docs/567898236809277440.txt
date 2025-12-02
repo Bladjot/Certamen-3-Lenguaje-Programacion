@@ -1,0 +1,7 @@
+567898236809277440
+Southwest
+@SouthwestAir It seems odd to be sitting on a plane that gets further delayed and you find out by txt, not the 6 emp working on the aircraft
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 20:07:45 -0800
+location: nan

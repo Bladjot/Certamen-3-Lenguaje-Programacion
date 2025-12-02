@@ -1,0 +1,7 @@
+569699437901000706
+American
+@AmericanAir not yet. I'm next in the terminal a customer service area.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:25:05 -0800
+location: Boston, MA

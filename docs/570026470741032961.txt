@@ -1,0 +1,7 @@
+570026470741032961
+American
+@AmericanAir Just took off. Sitting with someone who is scheduled on Buenos ares out of JFK,not sre if he will make it. R thy holding plane?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 17:04:35 -0800
+location: New York

@@ -1,0 +1,7 @@
+568782924302065665
+United
+@united flight from vegas to houston Cancelled Flighted this morning "due to operation" what does this mean!???? Thank god I woke up early today!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 06:43:11 -0800
+location: las vegas/nashville, TN

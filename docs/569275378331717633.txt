@@ -1,0 +1,7 @@
+569275378331717633
+Delta
+@JetBlue What's your current checked bag price policy?  I fly this coming week and couldn't find anything definitive.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 15:20:01 -0800
+location: By mile 3 of the NYC Marathon

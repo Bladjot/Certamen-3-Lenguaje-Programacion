@@ -1,0 +1,7 @@
+570242829294960640
+American
+@AmericanAir now we are waiting on nitrogen for the struts and the airport nozzle is not calibrated so they are trying to find another???
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 07:24:19 -0800
+location: nan

@@ -1,0 +1,7 @@
+569652478020489216
+American
+@AmericanAir I have been trying to get through to someone about my Cancelled Flightled flight tomorrow for over 4 hours.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:18:29 -0800
+location: nan

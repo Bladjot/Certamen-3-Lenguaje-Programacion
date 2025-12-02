@@ -1,0 +1,7 @@
+569357168765501440
+Southwest
+@SouthwestAir Flight Cancelled Flighted, two hours on hold. Then it just hangs up! A little help here? -thx
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 20:45:01 -0800
+location: McLean, VA

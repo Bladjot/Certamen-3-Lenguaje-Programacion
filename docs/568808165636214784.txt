@@ -1,0 +1,7 @@
+568808165636214784
+Southwest
+@SouthwestAir Thanks! I know the routes you currently have from Newark. I was just wondering if there was any new ones on the horizon
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 08:23:29 -0800
+location: Hoboken, NJ

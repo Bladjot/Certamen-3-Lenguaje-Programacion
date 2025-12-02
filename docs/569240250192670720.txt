@@ -1,0 +1,7 @@
+569240250192670720
+Virgin America
+@VirginAmerica twitter team. you guys killed it for rescheduling me asap. thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 13:00:26 -0800
+location: New York, NY

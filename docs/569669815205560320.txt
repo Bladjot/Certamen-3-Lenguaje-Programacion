@@ -1,0 +1,7 @@
+569669815205560320
+US Airways
+@USAirways PLEASE HELP need our plane to wait to go to #ELMIRA on Tarmac over an hr baggage took 45 and still not here thru customs
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 17:27:22 -0800
+location: ÜT: 42.076557,-76.770488

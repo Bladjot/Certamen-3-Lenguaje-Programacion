@@ -1,0 +1,7 @@
+570008661885526016
+American
+@AmericanAir  2/2 You took cost for both flights out of my bank account. Now I can't get a refund for 2 weeks? I have been a loyal customer.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 15:53:49 -0800
+location: nan

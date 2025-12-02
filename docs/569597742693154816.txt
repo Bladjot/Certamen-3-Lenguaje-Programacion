@@ -1,0 +1,7 @@
+569597742693154816
+American
+@AmericanAir I understand weather is not your fault but ur cs reps are atrocious. I am NOT happy nor will I EVR fly w/ u again.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:40:59 -0800
+location: nan

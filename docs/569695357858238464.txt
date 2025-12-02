@@ -1,0 +1,7 @@
+569695357858238464
+American
+@AmericanAir Supposed to arrive at my destination tonight. American rebooks me for Wednesday? Where am I staying until then?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 19:08:52 -0800
+location: Washington, DC

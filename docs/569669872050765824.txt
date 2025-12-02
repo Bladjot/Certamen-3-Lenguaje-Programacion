@@ -1,0 +1,7 @@
+569669872050765824
+Southwest
+@SouthwestAir gimme
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:27:36 -0800
+location: seattle

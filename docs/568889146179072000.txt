@@ -1,0 +1,7 @@
+568889146179072000
+Southwest
+@SouthwestAir  after 38 minutes on the phone I'm given another number to call now still on hold with them. http://t.co/1ZT2kEe8up
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 13:45:16 -0800
+location: nan

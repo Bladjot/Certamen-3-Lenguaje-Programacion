@@ -1,0 +1,7 @@
+569600989055086592
+US Airways
+@USAirways AA Gate Supervisor emplid 600117 allowed flight AA67 to leave JFK to SJ on 20feb15 w/o 8 customers that made final boarding call.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:53:53 -0800
+location: Inter/Outer-Continental U.S.

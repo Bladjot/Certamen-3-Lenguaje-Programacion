@@ -1,0 +1,7 @@
+569706627667853312
+American
+@AmericanAir any luck?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 19:53:39 -0800
+location: Plano, Texas

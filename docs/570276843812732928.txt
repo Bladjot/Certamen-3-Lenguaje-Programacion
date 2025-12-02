@@ -1,0 +1,7 @@
+570276843812732928
+Delta
+@JetBlue wouldn't mind paying for the snacks but no $ for tix :-) Great job guys!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 09:39:29 -0800
+location: US

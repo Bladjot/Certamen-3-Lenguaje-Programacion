@@ -1,0 +1,7 @@
+568178240101191681
+United
+@united I will be patient in my luxurious middle seat on my next delayed flight
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 14:40:23 -0800
+location: NJ

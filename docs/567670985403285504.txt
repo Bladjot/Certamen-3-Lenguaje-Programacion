@@ -1,0 +1,7 @@
+567670985403285504
+US Airways
+@USAirways @AmericanAir How r u supposed to change flights when u can't get thru to reservations? #OneHourOnHold
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 05:04:44 -0800
+location: often underwater

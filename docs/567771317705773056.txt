@@ -1,0 +1,7 @@
+567771317705773056
+Southwest
+@SouthwestAir from LGA to San Diego
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 11:43:25 -0800
+location: nan

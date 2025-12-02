@@ -1,0 +1,7 @@
+568626612314308608
+Delta
+@JetBlue why do you have every channel but @ABCNetwork How are @kgonzales89 and I supposed to watch Scandal? But free FlyFi is sweet!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 20:22:03 -0800
+location: nan

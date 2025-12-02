@@ -1,0 +1,7 @@
+569607287867883520
+US Airways
+@USAirways 6 hours, no agent. Should I keep waiting?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:18:54 -0800
+location: nan

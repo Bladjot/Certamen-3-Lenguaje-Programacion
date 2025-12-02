@@ -1,0 +1,7 @@
+569639305016152066
+US Airways
+@usairways 2 people working the counter at #dca? Massive lines. Poorly played. #winterstorm
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 15:26:08 -0800
+location: St. Augustine, Florida

@@ -1,0 +1,7 @@
+570059574268469248
+Southwest
+@SouthwestAir has become like every other airline #crooked I can't believe they are taking over $500 #shouldwearmasks #shocked
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 19:16:08 -0800
+location: Kansas City MO

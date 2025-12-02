@@ -1,0 +1,7 @@
+569342888615620609
+United
+@united on a 4 seg flt yvr to zurich, why would you credit all miles and but only 2 segs on full fare?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 19:48:17 -0800
+location: Vancouver, Canada

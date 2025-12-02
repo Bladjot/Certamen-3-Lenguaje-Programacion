@@ -1,0 +1,7 @@
+570024703256956929
+United
+@united Male agnt in LAS threatens Canadian cust when cust takes pic of him at gate after agents announce can't help rebook. #friendlyskies?
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 16:57:34 -0800
+location: Cleveland, OH

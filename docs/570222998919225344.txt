@@ -1,0 +1,7 @@
+570222998919225344
+American
+@AmericanAir your staff at rsw working the sliver airlines desk is not helpful. We can not get any information about our flight.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 06:05:31 -0800
+location: Fort Myers

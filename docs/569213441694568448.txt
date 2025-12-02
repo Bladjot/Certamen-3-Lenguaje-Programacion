@@ -1,0 +1,7 @@
+569213441694568448
+United
+@united I take it as a compliment that I was mistaken several times as a member of your staff on my flight... time to remove my scarf :)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 11:13:54 -0800
+location: Boston, MA

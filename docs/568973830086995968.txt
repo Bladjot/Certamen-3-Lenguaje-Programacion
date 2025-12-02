@@ -1,0 +1,7 @@
+568973830086995968
+US Airways
+@USAirways Can you help me add a AAdvantage number and known traveler number to a reservation?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 19:21:46 -0800
+location: nan

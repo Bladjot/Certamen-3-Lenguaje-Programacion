@@ -1,0 +1,7 @@
+570090251122663425
+American
+@AmericanAir tell me you can get me to ABI earlier than 8 pm tomorrow
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 21:18:02 -0800
+location: nan

@@ -1,0 +1,7 @@
+569691100090273792
+American
+@AmericanAir You could only get us on a flight 30 minutes before the funeral starts. We're stranded in Dallas w/o luggage for 2 days
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 18:51:57 -0800
+location: nan

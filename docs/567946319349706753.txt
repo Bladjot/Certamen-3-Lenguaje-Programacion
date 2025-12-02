@@ -1,0 +1,7 @@
+567946319349706753
+Virgin America
+@VirginAmerica I have lots of flights to book and your site it not working!!!! I've been on the phone waiting for over 10 minutes..........
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 23:18:49 -0800
+location: San Francisco

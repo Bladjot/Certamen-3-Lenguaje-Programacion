@@ -1,0 +1,7 @@
+570286565894828032
+United
+@united also during the run I was instructed to do, I shattered my computer. http://t.co/oAflfr7WXB
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 10:18:07 -0800
+location: DC

@@ -1,0 +1,7 @@
+568584029106266113
+Southwest
+@SouthwestAir thanks for adding straight flights from Columbus to Oakland!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 17:32:50 -0800
+location: ÜT: 34.621818,-82.614032

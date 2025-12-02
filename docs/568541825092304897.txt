@@ -1,0 +1,7 @@
+568541825092304897
+Southwest
+@SouthwestAir don't ever tweet me again
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 14:45:08 -0800
+location: On It

@@ -1,0 +1,7 @@
+567752009806131200
+Southwest
+@SouthwestAir no had to rebook my flight myself and am about to board in bham.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-17 10:26:42 -0800
+location: Huntsville, AL

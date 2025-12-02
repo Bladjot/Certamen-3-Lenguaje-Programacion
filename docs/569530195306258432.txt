@@ -1,0 +1,7 @@
+569530195306258432
+Delta
+@JetBlue still sitting in plane in Newburg. This is getting #ridiculous. No way to treat #loyal customers.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 08:12:34 -0800
+location: New York, New York

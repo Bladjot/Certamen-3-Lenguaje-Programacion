@@ -1,0 +1,7 @@
+567736166787850240
+Southwest
+@SouthwestAir F5R3ZZ
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:23:44 -0800
+location: nan

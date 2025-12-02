@@ -1,0 +1,7 @@
+570146467542933505
+American
+@AmericanAir or at the very least an explanation on why no one told me my flight was Cancelled Flightled!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 01:01:25 -0800
+location: nan

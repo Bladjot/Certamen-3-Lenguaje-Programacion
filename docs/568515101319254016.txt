@@ -1,0 +1,7 @@
+568515101319254016
+United
+@united Got a call. Bag is to be delivered tonight. Thanks for your reply!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 12:58:57 -0800
+location: Someplace saving something

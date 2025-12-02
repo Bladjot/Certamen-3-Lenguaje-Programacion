@@ -1,0 +1,7 @@
+567813515353804801
+Delta
+@JetBlue That's right! :) Game, set, match.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:31:06 -0800
+location: Jetsetter ✈

@@ -1,0 +1,7 @@
+569021943828983808
+Southwest
+@SouthwestAir I have a flight on Sunday the 22nd to Columbus from Denver. I just got a travel alert on my southwest app. Is the rescheduling
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 22:32:57 -0800
+location: Columbus, OH

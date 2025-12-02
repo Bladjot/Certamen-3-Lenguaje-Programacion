@@ -1,0 +1,7 @@
+568826070897717250
+US Airways
+@USAirways your staff at LAX really messed up on this one. Failing to scan my suitcase tag.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 09:34:38 -0800
+location: nan

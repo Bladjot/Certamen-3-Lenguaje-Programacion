@@ -1,0 +1,7 @@
+569922214255919105
+United
+@united How do I formally complain about your customer service handler who misconnected me. I was denied boarding &amp; I now lost my bag. Help!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:10:19 -0800
+location: Stockholm, Sweden

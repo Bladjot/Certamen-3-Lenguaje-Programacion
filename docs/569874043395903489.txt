@@ -1,0 +1,7 @@
+569874043395903489
+United
+@United to start daily #B777-200ER flights from #Newark to #Frankfurt @airport_fra replacing #B767-400ER on 2JUL #avgeek
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 06:58:54 -0800
+location: Abu Dhabi

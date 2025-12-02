@@ -1,0 +1,7 @@
+570296273611448320
+US Airways
+@USAirways I have two tight connections in #Charlotte and #Frankfurt
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 10:56:41 -0800
+location: San Diego

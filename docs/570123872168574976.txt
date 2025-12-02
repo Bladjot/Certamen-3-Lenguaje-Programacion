@@ -1,0 +1,7 @@
+570123872168574976
+American
+@AmericanAir will not help us on the phone, at the gate or in checkin. I book travel for clients and cannot believe the lack of service
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 23:31:38 -0800
+location: Ohio

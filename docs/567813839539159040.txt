@@ -1,0 +1,7 @@
+567813839539159040
+United
+@united so I wasted 40mins filling in 2 online forms you are telling me you didn't receive, how do I know this won't happen this time?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 14:32:23 -0800
+location: North West of England

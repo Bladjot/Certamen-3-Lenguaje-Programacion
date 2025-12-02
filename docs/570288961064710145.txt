@@ -1,0 +1,7 @@
+570288961064710145
+Southwest
+@SouthwestAir belt issues. Been a rough day for them. Worst part is traveling with 9 month old and having to wait outside in 85 degree
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 10:27:38 -0800
+location: Fort Lauderdale

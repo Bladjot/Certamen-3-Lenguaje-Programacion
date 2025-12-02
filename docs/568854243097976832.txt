@@ -1,0 +1,7 @@
+568854243097976832
+US Airways
+@USAirways   Just talked to reservation. Must congratulation to them. Very friendly.  Good for usair. The ONLY airline we fly.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 11:26:35 -0800
+location: iPhone: 38.851982,-77.185593

@@ -1,0 +1,7 @@
+569921747195076608
+Southwest
+@SouthwestAir when can we expect customer service in Dallas to be available
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:08:27 -0800
+location: nan

@@ -1,0 +1,7 @@
+569592981742878721
+American
+http://t.co/EIw2sYb8Fu roberts&amp;s=1 @AmericanAir
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:22:04 -0800
+location: Los Angeles, CA

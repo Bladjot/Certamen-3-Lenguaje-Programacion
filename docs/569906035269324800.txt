@@ -1,0 +1,7 @@
+569906035269324800
+American
+@AmericanAir @united just deplaned at O'Hare gate K13. Why don't you send a customer service rep to discuss my situation? God knows...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:06:01 -0800
+location: nan

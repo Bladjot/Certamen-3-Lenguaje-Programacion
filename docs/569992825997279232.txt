@@ -1,0 +1,7 @@
+569992825997279232
+Southwest
+@SouthwestAir any deals to orlando in April/may??
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:50:54 -0800
+location: nan

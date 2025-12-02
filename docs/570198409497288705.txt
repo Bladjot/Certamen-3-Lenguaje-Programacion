@@ -1,0 +1,7 @@
+570198409497288705
+Delta
+@JetBlue your customer service today was deplorable.  There were plenty of ways u could have gotten us on that flight. #badcustomerservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 04:27:49 -0800
+location: nan

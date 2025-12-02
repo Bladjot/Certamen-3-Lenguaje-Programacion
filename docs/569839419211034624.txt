@@ -1,0 +1,7 @@
+569839419211034624
+United
+@united - it's been almost 2 weeks and still no word from DOT on update of london fare to us cities? any updates on your end?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 04:41:19 -0800
+location: New York

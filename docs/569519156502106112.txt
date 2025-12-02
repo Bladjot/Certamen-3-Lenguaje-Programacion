@@ -1,0 +1,7 @@
+569519156502106112
+US Airways
+@USAirways Now going on 26 minutes on hold.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:28:42 -0800
+location: Great Barrington, MA

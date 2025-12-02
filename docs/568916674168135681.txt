@@ -1,0 +1,7 @@
+568916674168135681
+Delta
+@JetBlue I'm a trying ! But I'm tired and getting grumpy !
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 15:34:39 -0800
+location: Leighton Buzzard

@@ -1,0 +1,7 @@
+568562804837490688
+United
+@united wasting time at baggage claim thanks to your dfw ground crew who checked my bag in without actually checking for space #frustrated
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-19 16:08:30 -0800
+location: Dallas, TX

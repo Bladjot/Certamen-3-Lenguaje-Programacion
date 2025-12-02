@@ -1,0 +1,7 @@
+570250780252504064
+Southwest
+@SouthwestAir NOR @SpiritAirlines fly to Toronto?!?!? You're killing me smalls.......
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 07:55:55 -0800
+location: InMyFeelings, IL

@@ -1,0 +1,7 @@
+569991529764409344
+United
+@united Lovely new plane from LGA to ORD but no power outlets?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 14:45:45 -0800
+location: New York

@@ -1,0 +1,7 @@
+569981968655519744
+American
+@AmericanAir so, what should he do next exactly?!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:07:45 -0800
+location: Cambridge, MA, USA

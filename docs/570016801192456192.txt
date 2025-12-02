@@ -1,0 +1,7 @@
+570016801192456192
+Delta
+@JetBlue when are you guys flying it froward in the Bahamas.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 16:26:10 -0800
+location: nan

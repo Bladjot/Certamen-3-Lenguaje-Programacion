@@ -1,0 +1,7 @@
+568267340405542914
+United
+@united any info on delays at SFO tomorrow due to low clouds?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 20:34:26 -0800
+location: nan

@@ -1,0 +1,7 @@
+569863183961165826
+US Airways
+@USAirways I'm supposed to fly through Dallas. Can you help me get a new itinerary?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 06:15:45 -0800
+location: Boston, MA

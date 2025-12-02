@@ -1,0 +1,7 @@
+568895856750899202
+United
+@united how long does it take for customer feedback to respond to a complaint?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 14:11:56 -0800
+location: nan

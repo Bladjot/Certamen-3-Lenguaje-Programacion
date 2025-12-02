@@ -1,0 +1,7 @@
+569723985262354433
+United
+@united and was told that its been the case for weeks but is still not resolved.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 21:02:37 -0800
+location: H-town

@@ -1,0 +1,7 @@
+569962134328778752
+American
+@AmericanAir This entire process took sooooo long that no decent seats are left.  #customerservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 12:48:56 -0800
+location: Las Vegas

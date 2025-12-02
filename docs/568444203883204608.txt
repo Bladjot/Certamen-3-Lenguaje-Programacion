@@ -1,0 +1,7 @@
+568444203883204608
+US Airways
+@USAirways  will be stuck in PHX overnight.  Service is getting worse.  Flying southwest from now on.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 08:17:14 -0800
+location: nan

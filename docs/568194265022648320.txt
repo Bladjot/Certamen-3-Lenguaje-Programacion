@@ -1,0 +1,7 @@
+568194265022648320
+US Airways
+@USAirways Cant help but be frustrated after an hour call with u ends up with a disconnection and no answers especially as div pref member.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 15:44:03 -0800
+location: Syracuse, New York

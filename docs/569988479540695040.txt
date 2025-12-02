@@ -1,0 +1,7 @@
+569988479540695040
+American
+@AmericanAir should prob give me a refund since they made me miss my flight waiting to talk to someone for 3 hours... http://t.co/4SFpcbyy9m
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:33:38 -0800
+location: nan

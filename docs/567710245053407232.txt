@@ -1,0 +1,7 @@
+567710245053407232
+US Airways
+@USAirways I have been on hold with your Gold reservations line for OVER 3 HOURS now. Flight Cancelled Flightled. Trying to rebook.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 07:40:44 -0800
+location: Charlotte, North Carolina

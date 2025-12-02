@@ -1,0 +1,7 @@
+568155954484797442
+US Airways
+@USAirways thanks to Betty working gate at ILM and lovely gate agents here in CLT helping me get home 2 Phx tonight instead of tomorrow
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 13:11:50 -0800
+location: Mesa, AZ

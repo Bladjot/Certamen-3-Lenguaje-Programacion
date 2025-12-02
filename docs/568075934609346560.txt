@@ -1,0 +1,7 @@
+568075934609346560
+US Airways
+@USAirways So we got her home, now we just need her bag. Is there a direct desk number for Savannah?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 07:53:51 -0800
+location: Fernandina Beach, FL

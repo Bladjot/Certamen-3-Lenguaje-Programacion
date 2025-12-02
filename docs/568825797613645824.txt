@@ -1,0 +1,7 @@
+568825797613645824
+Southwest
+@SouthwestAir how do I go on the scavenger hunt if I'm in Boston?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 09:33:33 -0800
+location: Boston

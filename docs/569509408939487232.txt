@@ -1,0 +1,7 @@
+569509408939487232
+Delta
+@JetBlue they miraculously fixed the plane #kudos to shoe ever it was
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 06:49:58 -0800
+location: nan

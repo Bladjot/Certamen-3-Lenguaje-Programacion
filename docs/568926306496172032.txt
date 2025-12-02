@@ -1,0 +1,7 @@
+568926306496172032
+Southwest
+@SouthwestAir    How's life @ the NOC?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 16:12:56 -0800
+location: nan

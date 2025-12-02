@@ -1,0 +1,7 @@
+569235062862036992
+United
+@united we have developers flying down tmrw morn. w/45 min layover, there is an earlier flight to have 1.5hr layover, can move them up?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 12:39:49 -0800
+location: Central Sq. Cambridge, MA

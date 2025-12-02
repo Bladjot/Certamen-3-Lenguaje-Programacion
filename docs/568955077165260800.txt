@@ -1,0 +1,7 @@
+568955077165260800
+Delta
+@JetBlue saved the day:) @Expedia lost a costumer #jetblue #makingthingseasy #feelbetter
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 18:07:15 -0800
+location: nan

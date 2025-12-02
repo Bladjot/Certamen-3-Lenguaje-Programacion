@@ -1,0 +1,7 @@
+570287303681294337
+Delta
+@JetBlue I'm not sure if you can do anything to help me with that, but if you can that'd be great.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:21:03 -0800
+location: nan

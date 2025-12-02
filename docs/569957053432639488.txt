@@ -1,0 +1,7 @@
+569957053432639488
+United
+Thanks @united. @imran_r44 had a question about the wait time for baggage on UA6366
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:28:45 -0800
+location: Edmonton International Airport

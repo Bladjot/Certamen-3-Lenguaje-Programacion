@@ -1,0 +1,7 @@
+569399153253429248
+US Airways
+@USAirways this is ridiculous.  I have a 6:00 AM flight and two hours of rest, wasted!!!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 23:31:51 -0800
+location: nan

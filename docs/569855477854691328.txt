@@ -1,0 +1,7 @@
+569855477854691328
+Delta
+@JetBlue 653. Just for update that gate got moved to complete opposite end of the terminal. Airline is a disaster.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 05:45:07 -0800
+location: nan

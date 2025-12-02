@@ -1,0 +1,7 @@
+569718484151750656
+American
+@AmericanAir Hey you Cancelled Flightled my flight, and I can't get someone on the phone to rebook (2 hour wait minimum). Can I get some service?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 20:40:46 -0800
+location: Washington D.C.

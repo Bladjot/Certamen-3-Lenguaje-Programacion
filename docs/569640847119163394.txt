@@ -1,0 +1,7 @@
+569640847119163394
+American
+@AmericanAir Haha I had a boarding pass for 12B, was boarding the plane and the gate agent told me to go to 41G. I'm here now. No worries.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 15:32:16 -0800
+location: O.K.C.

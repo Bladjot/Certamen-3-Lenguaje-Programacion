@@ -1,0 +1,7 @@
+569339181136113664
+United
+@united Doesn't have to be same flight 2 and 2 will work also
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 19:33:33 -0800
+location: nan

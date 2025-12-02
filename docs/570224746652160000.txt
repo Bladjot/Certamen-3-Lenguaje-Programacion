@@ -1,0 +1,7 @@
+570224746652160000
+US Airways
+@USAirways been trying for weeks no use
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 06:12:28 -0800
+location: nan

@@ -1,0 +1,7 @@
+568816016622354432
+Delta
+@JetBlue I did. They said not as of now. Let's cross fingers it happens before departing
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 08:54:41 -0800
+location: nan

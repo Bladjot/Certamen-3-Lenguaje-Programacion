@@ -1,0 +1,7 @@
+570086501222096896
+American
+@AmericanAir You're clueless. A kind rez agnt contacted USAir 4me around midnite, told them what to do. If not that I'd have missed funeral.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 21:03:08 -0800
+location: nan

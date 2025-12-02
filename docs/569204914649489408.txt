@@ -1,0 +1,7 @@
+569204914649489408
+Southwest
+@SouthwestAir Bad enough that there is no seat assigned he's  seating at an exit seat and a male flight attendant removes him from there
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 10:40:01 -0800
+location: Florida

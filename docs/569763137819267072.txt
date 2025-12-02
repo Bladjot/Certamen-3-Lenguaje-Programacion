@@ -1,0 +1,7 @@
+569763137819267072
+US Airways
+@USAirways you guys have my luggage in San Jose and were supposed to deliver it to my hotel hours ago!! Please contact me.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 23:38:12 -0800
+location: South

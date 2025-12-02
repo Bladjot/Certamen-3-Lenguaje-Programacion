@@ -1,0 +1,7 @@
+569656884262793216
+US Airways
+@USAirways Cancelled Flightled the last part of a ticket and am confused from the email I received whether value remains. Is there someone I can ask?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:35:59 -0800
+location: nan

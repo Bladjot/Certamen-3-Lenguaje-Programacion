@@ -1,0 +1,7 @@
+570285610176532480
+United
+@united that's right- with an overnight Miami.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:14:19 -0800
+location: btv

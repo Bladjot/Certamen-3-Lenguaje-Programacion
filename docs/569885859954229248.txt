@@ -1,0 +1,7 @@
+569885859954229248
+Delta
+@JetBlue I would like to communicate directly with a "Customer Experience" executive. Does Joanna Geraghty have an email address?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:45:51 -0800
+location: Muttontown, NY

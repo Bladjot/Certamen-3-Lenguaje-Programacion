@@ -1,0 +1,7 @@
+570116595193810945
+American
+@AmericanAir we then had to deplane, and change planes.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 23:02:43 -0800
+location: Moore, OK & Woodway, TX

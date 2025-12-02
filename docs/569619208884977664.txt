@@ -1,0 +1,7 @@
+569619208884977664
+United
+@united, we've been waiting for over an hour for our luggage- what gives?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 14:06:17 -0800
+location: nan

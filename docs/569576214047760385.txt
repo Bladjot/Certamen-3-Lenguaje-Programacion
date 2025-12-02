@@ -1,0 +1,7 @@
+569576214047760385
+Delta
+@JetBlue come on! Already delayed 2+ hrs on flight 1415 as we waited for the pilot to come from Boston, now you reassign him?! Endless trip.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 11:15:26 -0800
+location: New York

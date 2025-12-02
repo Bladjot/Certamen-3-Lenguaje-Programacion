@@ -1,0 +1,7 @@
+570267544906555393
+Delta
+@JetBlue are @AskAmex Amex Plat holders provided access or a credit in the Airspace Lounge in JKF?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:02:32 -0800
+location: nan

@@ -1,0 +1,7 @@
+569665343880368131
+United
+@united Didn't know that buying a seat in first class was just a 'request' to sit in first class! Very Interesting.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:09:36 -0800
+location: New York

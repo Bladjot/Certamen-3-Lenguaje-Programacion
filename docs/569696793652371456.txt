@@ -1,0 +1,7 @@
+569696793652371456
+American
+@AmericanAir  is the worst airline to ever travel with!!!! The worst!! They're equivalent to DIRT!!!!!!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 19:14:34 -0800
+location: nan

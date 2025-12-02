@@ -1,0 +1,7 @@
+569330030074990592
+US Airways
+@USAirways That's clever. Its clear you need more agents. 94 min hold and counting. Flex workforces are highly possible in 2015
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 18:57:11 -0800
+location: San Francisco

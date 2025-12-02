@@ -1,0 +1,7 @@
+569771711408644096
+US Airways
+@USAirways on a happy note our 719 crew is wonderful. Can't say enough great things about our pilot. He's doing all he can for us.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 00:12:16 -0800
+location: nan

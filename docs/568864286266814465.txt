@@ -1,0 +1,7 @@
+568864286266814465
+Delta
+@JetBlue I will. Thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 12:06:29 -0800
+location: nan

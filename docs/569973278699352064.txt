@@ -1,0 +1,7 @@
+569973278699352064
+American
+@AmericanAir Will it be this year, do you think?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:33:13 -0800
+location: Brooklyn, NY

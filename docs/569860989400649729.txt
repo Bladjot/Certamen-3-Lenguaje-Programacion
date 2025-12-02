@@ -1,0 +1,7 @@
+569860989400649729
+United
+@united I've got a campus visit in an hour and I'm still wearing the same clothes...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 06:07:02 -0800
+location: GLP

@@ -1,0 +1,7 @@
+569258404742500353
+Delta
+@JetBlue - trying to fly from BOS to JFK. Flight delayed. Traveling with kids. Book a hotel or are we getting out tonight?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 14:12:34 -0800
+location: Brooklyn, New York

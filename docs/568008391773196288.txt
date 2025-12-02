@@ -1,0 +1,7 @@
+568008391773196288
+US Airways
+@USAirways over 4 weeks since you took our money and left us stranded 9 hours from home. Had to rent a car and you still have not helped us
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 03:25:28 -0800
+location: Mid Michigan

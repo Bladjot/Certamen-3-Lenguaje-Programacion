@@ -1,0 +1,7 @@
+569868638968254467
+American
+@AmericanAir please message me for assistance - can't get through to anyone.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:37:25 -0800
+location: Atlanta, GA

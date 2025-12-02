@@ -1,0 +1,7 @@
+567728386014183424
+US Airways
+@USAirways you have the ability to switch my flight to @AmericanAir but you cannot tell me where my bags are.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 08:52:49 -0800
+location: MiamiHoustonDCHouston

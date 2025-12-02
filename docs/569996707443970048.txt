@@ -1,0 +1,7 @@
+569996707443970048
+Southwest
+@SouthwestAir stop Cancelled Flighting my flight I have US history tests to take and chemistry things to learn do you not understand!!!!!!!!!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 15:06:19 -0800
+location: nan

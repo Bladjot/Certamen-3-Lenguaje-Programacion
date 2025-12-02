@@ -1,0 +1,7 @@
+570101395698941954
+American
+@AmericanAir  your customer service is deplorable. I am disgusted in your company and the ignorant people on the phones for lost baggage.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 22:02:19 -0800
+location: nan

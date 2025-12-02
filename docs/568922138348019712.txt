@@ -1,0 +1,7 @@
+568922138348019712
+US Airways
+@USAirways @AmericanAir terminal E in Miami is still the worst most smelly airport ever. Thanks for nothing.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 15:56:22 -0800
+location: Philadelphia, USA

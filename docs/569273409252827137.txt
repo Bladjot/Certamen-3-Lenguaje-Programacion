@@ -1,0 +1,7 @@
+569273409252827137
+Southwest
+@SouthwestAir 3 + hrs w/out bags being returned to us after flight 2464 Cancelled Flightled. Maybe put a couple people on it?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 15:12:12 -0800
+location: nan

@@ -1,0 +1,7 @@
+569673275183386625
+American
+@AmericanAir whenever I cheat on you it goes horribly wrong! I promise, I won't stray anymore. I'm talking about you @Delta!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 17:41:07 -0800
+location: Weston, CT USA

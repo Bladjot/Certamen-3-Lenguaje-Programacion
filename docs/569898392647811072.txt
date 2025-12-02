@@ -1,0 +1,7 @@
+569898392647811072
+American
+@AmericanAir fl 249 to DFW is leaving Newark on time but is going to Nashville first.  Will I get stuck in Nashville?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 08:35:39 -0800
+location: Branchburg, NJ

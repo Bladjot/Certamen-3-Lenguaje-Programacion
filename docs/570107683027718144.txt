@@ -1,0 +1,7 @@
+570107683027718144
+United
+@united no Cancelled Flightn just left us to fend for ourselves when flt came in Late Flight. Getting runaround for 3 hrs. Each employee blaming  previous 1.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 22:27:18 -0800
+location: nan

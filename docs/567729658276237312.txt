@@ -1,0 +1,7 @@
+567729658276237312
+US Airways
+@USAirways tried twice today on hold for 30 min each time. i have things to do so can't live on hold dealing w/ your customer serv failures
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 08:57:53 -0800
+location: Austin, TX

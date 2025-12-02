@@ -1,0 +1,7 @@
+568290152151269377
+Delta
+@JetBlue unveils new 'Bluemanity' livery - USA TODAY http://t.co/ueGgKN79zA
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 22:05:05 -0800
+location: USA

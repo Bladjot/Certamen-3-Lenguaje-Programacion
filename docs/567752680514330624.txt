@@ -1,0 +1,7 @@
+567752680514330624
+Southwest
+@SouthwestAir also, they said they couldn't even book the flight. They were having to put me on hold &amp; have someone else do it???
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 10:29:22 -0800
+location: Washington DC

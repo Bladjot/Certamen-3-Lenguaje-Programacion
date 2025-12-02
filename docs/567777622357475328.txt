@@ -1,0 +1,7 @@
+567777622357475328
+Southwest
+@SouthwestAir what does TSA Pre on my boarding pass mean? http://t.co/0HmmQCzkCf
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 12:08:28 -0800
+location: TX

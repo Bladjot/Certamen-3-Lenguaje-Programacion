@@ -1,0 +1,7 @@
+569588348593025024
+Southwest
+@SouthwestAir thanks for the response - flight time has passed - rebooked now
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 12:03:39 -0800
+location: Nashville, TN

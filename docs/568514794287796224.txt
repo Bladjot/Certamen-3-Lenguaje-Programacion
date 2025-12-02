@@ -1,0 +1,7 @@
+568514794287796224
+US Airways
+@USAirways please secure the 'footrest' shelf' in business class on A330 airplanes!!! http://t.co/ZL4bVEXmcJ
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 12:57:44 -0800
+location: Arizona

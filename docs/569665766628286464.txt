@@ -1,0 +1,7 @@
+569665766628286464
+Delta
+@JetBlue flight 98 DEN to JFK already 2hrs delayed. Any idea how that might change again due to weather forecast etc?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:11:17 -0800
+location: New York City

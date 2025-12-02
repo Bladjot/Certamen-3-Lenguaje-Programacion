@@ -1,0 +1,7 @@
+567808567580041216
+US Airways
+@USAirways I've been on hold for over 90 minutes... There's a lack of quality service here.  Nobody cares that I hate your shitty airline.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 14:11:26 -0800
+location: Vancouver, WA

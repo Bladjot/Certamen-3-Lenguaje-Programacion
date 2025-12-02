@@ -1,0 +1,7 @@
+568874741249007616
+United
+@united the passengers waited inside the flight on the runway and returned back in o gate that should not count as a valid journey
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 12:48:02 -0800
+location: Baltimore, MD

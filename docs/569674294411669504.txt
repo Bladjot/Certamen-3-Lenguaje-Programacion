@@ -1,0 +1,7 @@
+569674294411669504
+American
+@AmericanAir looks like I have. Best I can hope for I guess. It's on us air, so I don't think I'll get miles on Alaska. Which sucks.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 17:45:10 -0800
+location: Seattle, WA

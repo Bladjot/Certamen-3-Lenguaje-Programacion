@@ -1,0 +1,7 @@
+568470266793340929
+Southwest
+@SouthwestAir  3 flights yesterday; no treats but nuts and pretzels. Also no origami in the magazine. New policies? #OldPoliciesWayBetter
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 10:00:47 -0800
+location: nan

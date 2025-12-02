@@ -1,0 +1,7 @@
+570085229576265728
+US Airways
+@USAirways  Three months and my miles haven't been credited.  No one is going to read the email I sent.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 20:58:05 -0800
+location: nan

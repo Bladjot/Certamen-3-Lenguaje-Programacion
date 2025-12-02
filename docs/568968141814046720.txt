@@ -1,0 +1,7 @@
+568968141814046720
+Delta
+@JetBlue my phone number when you have any news for me is (631)891-5722
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 18:59:10 -0800
+location: new york

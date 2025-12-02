@@ -1,0 +1,7 @@
+568150150289461249
+Virgin America
+@VirginAmerica You should still develop an app - then you will be my favorite airline.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 12:48:46 -0800
+location: CT

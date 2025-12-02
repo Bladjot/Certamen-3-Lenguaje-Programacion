@@ -1,0 +1,7 @@
+567790510502371328
+Southwest
+@SouthwestAir: why no charging station in SAN?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 12:59:41 -0800
+location: baltimore,  md

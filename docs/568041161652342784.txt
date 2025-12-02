@@ -1,0 +1,7 @@
+568041161652342784
+Delta
+@JetBlue is I can't make changes on the website am I still charged 25 dollars for using phone
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 05:35:41 -0800
+location: Merrick

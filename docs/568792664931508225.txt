@@ -1,0 +1,7 @@
+568792664931508225
+US Airways
+@USAirways Thank you for valuing my feedback. What will you do with it?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 07:21:53 -0800
+location: 42.635976,-71.164046

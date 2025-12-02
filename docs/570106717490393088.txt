@@ -1,0 +1,7 @@
+570106717490393088
+United
+@united okay ase24766m. Find our luggage.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 22:23:28 -0800
+location: New Jersey

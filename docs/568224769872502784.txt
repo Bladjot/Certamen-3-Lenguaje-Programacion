@@ -1,0 +1,7 @@
+568224769872502784
+US Airways
+@USAirways yeah you guys just told me to call the website that I booked from. I booked on your website. UNACCEPTABLE
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 17:45:16 -0800
+location: nan

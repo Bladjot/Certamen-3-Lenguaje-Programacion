@@ -1,0 +1,7 @@
+570087305320357888
+American
+@AmericanAir you know I love this airline, but why are my friends @MEGENTRIPODI @jordnnicole7 having such a problem retaining info they need
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 21:06:19 -0800
+location: nan

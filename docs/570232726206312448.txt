@@ -1,0 +1,7 @@
+570232726206312448
+United
+@united please be good to me this weekend!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 06:44:10 -0800
+location: Kansas

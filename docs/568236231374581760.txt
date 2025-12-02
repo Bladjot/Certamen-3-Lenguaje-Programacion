@@ -1,0 +1,7 @@
+568236231374581760
+Southwest
+@SouthwestAir you guys are so clever 😃 http://t.co/qn5odUGFqK
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 18:30:49 -0800
+location: Wisconsin

@@ -1,0 +1,7 @@
+568759575807184896
+US Airways
+@USAirways today's flight to Philadelphia.  It's a little disappointing for the unnecessary delays and it's not even snowing in FL.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 05:10:24 -0800
+location: Orlando

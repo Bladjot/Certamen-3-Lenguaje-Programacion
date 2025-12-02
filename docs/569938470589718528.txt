@@ -1,0 +1,7 @@
+569938470589718528
+US Airways
+@usairways Row 16, flight 634 today if you're looking for specifics! I can run to Home Depot for the WD40 you if you need.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 11:14:54 -0800
+location: Spokane, Washington

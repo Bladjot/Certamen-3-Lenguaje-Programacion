@@ -1,0 +1,7 @@
+569704164743376896
+American
+@AmericanAir Yes, but should be able to get a push notification via the app if I’m logged in and on a trip. Email/text is so 2010 😥.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:43:52 -0800
+location: Chicago, IL

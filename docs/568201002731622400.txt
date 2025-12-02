@@ -1,0 +1,7 @@
+568201002731622400
+Delta
+@JetBlue #JetBlueBOS What's up with luggage for Flt 790 DCA-BOS?  Pax waiting for 30 min for bags...no show. Carousel 6 signs not updating.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 16:10:50 -0800
+location: Northern Virginia

@@ -1,0 +1,7 @@
+568506804096917504
+US Airways
+@USAirways WTF is going on with the 1:30 from DC to BOS? Twice we go back back to the gate after leaving for the runway? Total BS.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 12:25:59 -0800
+location: nan

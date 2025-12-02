@@ -1,0 +1,9 @@
+568195153464143872
+United
+“@united: @ItsAaronChriz Sorry to hear about your flight. Do you need help reFlight Booking Problems?”
+
+👎
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 15:47:35 -0800
+location: I'm just a kid from Oak Harbor

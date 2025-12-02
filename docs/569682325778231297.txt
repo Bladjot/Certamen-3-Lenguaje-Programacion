@@ -1,0 +1,7 @@
+569682325778231297
+Southwest
+@SouthwestAir please start flying to Huntsville so I never have to fly American Airlines again
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:17:05 -0800
+location: Chicago, IL

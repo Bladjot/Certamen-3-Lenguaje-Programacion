@@ -1,0 +1,7 @@
+568153752533733376
+US Airways
+@USAirways how does that help me when I get no response from there??? #usairwayssucks
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 13:03:05 -0800
+location: nan

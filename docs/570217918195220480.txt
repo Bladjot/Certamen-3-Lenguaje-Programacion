@@ -1,0 +1,7 @@
+570217918195220480
+Southwest
+@SouthwestAir Thanks to your team for dealing with Flight 1700 to Houston.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 05:45:20 -0800
+location: Boston, MA

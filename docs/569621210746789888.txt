@@ -1,0 +1,7 @@
+569621210746789888
+US Airways
+@USAirways so apparently all of your computers crashed at BWI?  Any update on when flights will be moving?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:14:14 -0800
+location: Washington, D.C.

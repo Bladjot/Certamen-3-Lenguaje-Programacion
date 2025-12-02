@@ -1,0 +1,7 @@
+569571492947742720
+Delta
+@JetBlue I don't believe so. That's not what the team has told us.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 10:56:40 -0800
+location: nyc

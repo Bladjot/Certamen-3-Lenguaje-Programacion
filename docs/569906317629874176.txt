@@ -1,0 +1,7 @@
+569906317629874176
+Southwest
+@SouthwestAir Can my wife's RR points be transferred to my RR account?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 09:07:09 -0800
+location: Wilmington, North Carolina

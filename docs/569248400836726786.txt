@@ -1,0 +1,7 @@
+569248400836726786
+Virgin America
+@VirginAmerica Thanks so much for the awesome support, you guys rock!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 13:32:49 -0800
+location: nan

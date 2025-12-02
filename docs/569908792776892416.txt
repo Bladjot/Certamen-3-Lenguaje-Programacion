@@ -1,0 +1,7 @@
+569908792776892416
+Delta
+@JetBlue absolutely, my girlfriend and I will be Flight Booking Problems our Mexico flights in the next day or two, will send a Tweet when it's done!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 09:16:59 -0800
+location: Boston, MA.

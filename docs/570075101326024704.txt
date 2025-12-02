@@ -1,0 +1,7 @@
+570075101326024704
+American
+@AmericanAir to add insult to injury, I have to go pick it up myself. Real class act! I'll stick the Delta from now on.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 20:17:50 -0800
+location: nan

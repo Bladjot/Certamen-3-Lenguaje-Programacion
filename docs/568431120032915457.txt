@@ -1,0 +1,7 @@
+568431120032915457
+Delta
+@JetBlue ruining vacations left and right. Who would have thought an airline can Cancelled Flight tickets without telling the buyer
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 07:25:14 -0800
+location: nan

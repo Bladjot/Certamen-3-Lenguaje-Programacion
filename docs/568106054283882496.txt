@@ -1,0 +1,7 @@
+568106054283882496
+US Airways
+@USAirways no, they could be at Laguardia, JFK or Charlotte. I have no idea where they are now tho
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 09:53:32 -0800
+location: nan

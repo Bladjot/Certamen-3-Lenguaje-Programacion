@@ -1,0 +1,7 @@
+568199550084591616
+Delta
+@JetBlue Airways Corporation (JBLU) loses -0.06% on news that @JetBlue Airways ... - WallStreet Scope http://t.co/oFW4A8b5WS
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 16:05:04 -0800
+location: USA

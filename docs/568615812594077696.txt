@@ -1,0 +1,7 @@
+568615812594077696
+United
+@United is freaking worthless. I hate this airline. http://t.co/dN1if2cGwE
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 19:39:08 -0800
+location: ÜT: 40.635407,-73.991869

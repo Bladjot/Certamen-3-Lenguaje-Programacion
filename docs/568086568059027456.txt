@@ -1,0 +1,7 @@
+568086568059027456
+Delta
+@JetBlue to Increase Charter Service to Cuba - #Travel Agent http://t.co/lYQrb4HCYU
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 08:36:07 -0800
+location: USA

@@ -1,0 +1,7 @@
+567807844687577089
+Delta
+@JetBlue If you have well-priced flights to #Oahu - we could be best friends. @vincenzolandino
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:08:34 -0800
+location: Wayne, NJ

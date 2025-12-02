@@ -1,0 +1,7 @@
+569587188687634433
+American
+@AmericanAir you have my money, you change my flight, and don't answer your phones! Any other suggestions so I can make my commitment??
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 11:59:02 -0800
+location: New Jersey

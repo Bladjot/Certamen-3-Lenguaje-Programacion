@@ -1,0 +1,7 @@
+567951376480907264
+United
+@united Stop pretending you care about the welfare of my daughter. United Airlines had the opportunity to help n failed # United airlines
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 23:38:54 -0800
+location: New Canaan, Ct

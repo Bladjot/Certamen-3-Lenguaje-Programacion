@@ -1,0 +1,7 @@
+569660029093203968
+American
+@AmericanAir I made my flight but then still had no update emails when I landed, no info ever sent on that or second flight. Losing my biz.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 16:48:29 -0800
+location: New York City

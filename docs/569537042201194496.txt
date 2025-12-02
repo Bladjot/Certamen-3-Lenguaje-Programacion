@@ -1,0 +1,7 @@
+569537042201194496
+US Airways
+@USAirways with chocoLate Flight please... i m melting http://t.co/jJdoSFYIBM
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 08:39:47 -0800
+location: Bruxelle-Paris-Marseille-(BPM)

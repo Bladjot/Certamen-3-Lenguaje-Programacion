@@ -1,0 +1,7 @@
+569940989403635712
+US Airways
+@USAirways going to miss my connection due to another tarmac delay - on US5268 then 4050 - need a flight home today please!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 11:24:55 -0800
+location: nan

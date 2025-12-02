@@ -1,0 +1,7 @@
+568524724256444416
+Delta
+@JetBlue okie doke! Knowing you, you will fix this ;)
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 13:37:11 -0800
+location: Logan International Airport

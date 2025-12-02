@@ -1,0 +1,7 @@
+570126668922294272
+United
+@united Definitely a compliment! I really thought my bag was lost after it was sent on to another airport. In the end I am a happy customer
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 23:42:44 -0800
+location: Stockholm, Sweden

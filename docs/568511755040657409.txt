@@ -1,0 +1,7 @@
+568511755040657409
+Virgin America
+@VirginAmerica I spoke with a representative that offered no solution, I am a loyal customer who flies on @VirginAtlantic as well
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 12:45:39 -0800
+location: LES, NYC

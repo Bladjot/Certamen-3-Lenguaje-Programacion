@@ -1,0 +1,7 @@
+568449323895275520
+US Airways
+@USAirways any updates on flight 1917 from Philly to LA?  Been sitting at gate for close to 2 hours
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 08:37:34 -0800
+location: ÜT: 39.041902,-77.099677

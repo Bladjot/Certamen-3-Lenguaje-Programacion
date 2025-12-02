@@ -1,0 +1,7 @@
+569614085807067136
+American
+@AmericanAir they did tell that our luggage stayed inside the plane ! Look this video http://t.co/YokkHHQcMP
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 13:45:55 -0800
+location: Pocos de Caldas

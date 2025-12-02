@@ -1,0 +1,7 @@
+569650751598944256
+US Airways
+@USAirways any way to tell our gate we are going? Stuck on tarmack, int'l flt FLT 878 going to ELM Gate F6
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 16:11:37 -0800
+location: ÜT: 42.076557,-76.770488

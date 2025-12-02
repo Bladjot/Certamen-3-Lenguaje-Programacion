@@ -1,0 +1,7 @@
+569174723877146625
+Delta
+@jetblue had me on hold foreverrrrrr
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 08:40:03 -0800
+location: new york.

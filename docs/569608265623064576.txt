@@ -1,0 +1,7 @@
+569608265623064576
+American
+@AmericanAir first the pilot, then the catering...
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 13:22:47 -0800
+location: nan

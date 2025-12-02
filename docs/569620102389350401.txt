@@ -1,0 +1,7 @@
+569620102389350401
+Virgin America
+@VirginAmerica always!!! Xoxo
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 14:09:50 -0800
+location: All Over!

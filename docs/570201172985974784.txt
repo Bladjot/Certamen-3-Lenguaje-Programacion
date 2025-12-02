@@ -1,0 +1,7 @@
+570201172985974784
+American
+@AmericanAir your cabin 'thank you' message reminds people about having choices when they fly. I will be choosing another airline next time.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 04:38:48 -0800
+location: nan

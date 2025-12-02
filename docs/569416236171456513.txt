@@ -1,0 +1,7 @@
+569416236171456513
+US Airways
+@USAirways after sitting on the runway for 3 hours i had to leave the airport w/o my luggage. Is this ur 1st day??
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 00:39:44 -0800
+location: nan

@@ -1,0 +1,7 @@
+568157451729526784
+United
+@united How come you are the ONLY airline, of 90+ flights last year that makes me check my carry-on. Not even gate check...baggage claim?!?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 13:17:47 -0800
+location: Born/Raised in 314/Home is 317

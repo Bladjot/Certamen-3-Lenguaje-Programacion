@@ -1,0 +1,7 @@
+569827608193585152
+American
+@AmericanAir - cruel &amp; unusual to Cancelled Flight flight w/o notice &amp; make someone stay on hold for 30min &amp; listen to the same ad in a loop
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 03:54:23 -0800
+location: Charleston, SC

@@ -1,0 +1,7 @@
+569822277145133056
+American
+@AmericanAir Thanks :-) Good to be back safely. See you again soon!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 03:33:12 -0800
+location: nan

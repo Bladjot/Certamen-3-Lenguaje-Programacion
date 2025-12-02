@@ -1,0 +1,7 @@
+568897315458691072
+Virgin America
+@VirginAmerica fav airline
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 14:17:44 -0800
+location: Anaheim, CA

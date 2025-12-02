@@ -1,0 +1,7 @@
+569438763115536384
+United
+@united it's disgusting and unconscionable the treatment I've received tonight.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 02:09:15 -0800
+location: nan

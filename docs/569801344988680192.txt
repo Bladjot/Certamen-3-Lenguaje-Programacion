@@ -1,0 +1,7 @@
+569801344988680192
+American
+@AmericanAir that all AA is for USAir Elite members. It's one big disappointment in the way we are treated. #epicfailure
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 02:10:01 -0800
+location: North Carolina

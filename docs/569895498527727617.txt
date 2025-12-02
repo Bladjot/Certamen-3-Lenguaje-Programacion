@@ -1,0 +1,7 @@
+569895498527727617
+American
+@AmericanAir Priority baggage evidently means it comes out last
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 08:24:09 -0800
+location: Great Barrington, MA

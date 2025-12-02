@@ -1,0 +1,7 @@
+568624572985004033
+Southwest
+@SouthwestAir LOVE IMAGINE DRAGONS  SO MUCH I EOULD DIE IF I GOT TICKETS
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 20:13:57 -0800
+location: nan

@@ -1,0 +1,7 @@
+568815893641211905
+United
+@united Bummer. Might have to go with @AmericanAir card instead. TY for response though.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 08:54:11 -0800
+location: Columbia, MO

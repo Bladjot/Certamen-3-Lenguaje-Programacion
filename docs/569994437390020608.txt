@@ -1,0 +1,7 @@
+569994437390020608
+Southwest
+@SouthwestAir honesty should always be the policy
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:57:18 -0800
+location: nan

@@ -1,0 +1,7 @@
+569691049116839936
+American
+@AmericanAir Thanks - I note some, but not all, flights are Cancelled Flightled - are only some aircraft/runways working out of DFW today/tomorrow?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 18:51:45 -0800
+location: nan

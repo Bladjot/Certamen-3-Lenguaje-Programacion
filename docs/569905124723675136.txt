@@ -1,0 +1,7 @@
+569905124723675136
+United
+@united #UnitedAirlines Any other way ORD to ABQ anytime within the next 7 hours?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 09:02:24 -0800
+location: North Suburbs, IL  (Chicago)

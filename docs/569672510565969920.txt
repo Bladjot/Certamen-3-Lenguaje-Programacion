@@ -1,0 +1,7 @@
+569672510565969920
+Delta
+@JetBlue @ABCNetwork please give JetBlue all the permissions in the world! I'm missing the oscars right now, and it's awful #whyabcwhy
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:38:05 -0800
+location: Boston, MA

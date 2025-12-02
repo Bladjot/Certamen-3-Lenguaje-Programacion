@@ -1,0 +1,7 @@
+570009017625526273
+American
+@AmericanAir I tried site &amp; doesnt allow me. Same reason why I wasn't allowed to board this morning. Will try diff airline for work trips
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 15:55:14 -0800
+location: New York, NY

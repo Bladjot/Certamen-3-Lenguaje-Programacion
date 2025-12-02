@@ -1,0 +1,7 @@
+569646934031343619
+American
+@AmericanAir @Delta @JetBlue can you help? @SpiritAirlines is in the wrong, stuck in Florida 3days. They need to learn from real airlines.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 15:56:27 -0800
+location: Global

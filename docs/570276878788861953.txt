@@ -1,0 +1,7 @@
+570276878788861953
+US Airways
+@USAirways Need to talk to a person about my bag. Waiting on hold for two hours. Bag s!b delivered last night. Online says not found.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 09:39:37 -0800
+location: nan

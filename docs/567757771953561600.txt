@@ -1,0 +1,7 @@
+567757771953561600
+Southwest
+@SouthwestAir they put me on the next flight available.. tomorrow morning :( Any idea if BNA will be open in the morning for my flight?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 10:49:35 -0800
+location: nan

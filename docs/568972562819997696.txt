@@ -1,0 +1,7 @@
+568972562819997696
+United
+@united Thank you so much for your help with my birthday trip! Tickets are confirmed! :-)
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 19:16:44 -0800
+location: Bellingham, WA

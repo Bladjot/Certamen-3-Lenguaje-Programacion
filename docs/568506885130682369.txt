@@ -1,0 +1,7 @@
+568506885130682369
+United
+@united how does that help me with my customers that I couldn't meet with (and subsequently lost)?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 12:26:18 -0800
+location: Fort Wayne

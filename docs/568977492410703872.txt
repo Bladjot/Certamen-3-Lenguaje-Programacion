@@ -1,0 +1,7 @@
+568977492410703872
+Southwest
+@SouthwestAir wanting a ⭐️ for the ✈️ finding the gate. No apology or exp. All good, I'm sure connecting flight leaving SAC will be chill!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 19:36:19 -0800
+location: Los Angeles

@@ -1,0 +1,7 @@
+568940264020004864
+US Airways
+@USAirways Just to follow up here is my experience: http://t.co/WJIiGZtiwg
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 17:08:23 -0800
+location: Arkansas, USA

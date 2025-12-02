@@ -1,0 +1,7 @@
+569999640516370432
+American
+@AmericanAir I've never had anything bad to say until now. No love for faithful customers.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 15:17:59 -0800
+location: Lake County, Illinois

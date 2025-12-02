@@ -1,0 +1,7 @@
+568148282762874881
+United
+@united Another delayed United flight. I should not be this surprised or upset. I'm mostly disappointed I have to Cancelled Flight my trip with my dad
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 12:41:20 -0800
+location: nan

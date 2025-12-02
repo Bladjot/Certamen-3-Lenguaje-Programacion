@@ -1,0 +1,7 @@
+569797440100036608
+American
+@AmericanAir what terminal LHR for aa5/BA1506? Doesn't say in boarding pass
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 01:54:30 -0800
+location: New York, NY

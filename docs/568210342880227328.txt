@@ -1,0 +1,7 @@
+568210342880227328
+Southwest
+@SouthwestAir your app isnt working and i take off in like two hours help
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 16:47:57 -0800
+location: they/them

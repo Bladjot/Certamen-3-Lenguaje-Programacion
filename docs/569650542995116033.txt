@@ -1,0 +1,7 @@
+569650542995116033
+American
+@AmericanAir is flight 2934 dfw to gsp going to be Cancelled Flightled tomorrow?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 16:10:47 -0800
+location: nan

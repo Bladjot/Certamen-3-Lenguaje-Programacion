@@ -1,0 +1,7 @@
+567863445422546944
+Southwest
+@SouthwestAir On my flight today from RSW to GRR I was able to snag a free SW Agent to check for me. It looks like we are (finally) all set.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 17:49:30 -0800
+location: nan

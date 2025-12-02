@@ -1,0 +1,7 @@
+569544732780556288
+United
+@united not for me.  I am on another Ua flight 2 gates down that was held 15 mins for cnx pax.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 09:10:20 -0800
+location: nan

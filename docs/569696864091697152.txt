@@ -1,0 +1,7 @@
+569696864091697152
+American
+@AmericanAir I've been tryin to use my voucher to book a flight the last 2days. Lines are busy. Plse help me?The flight may go up.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 19:14:51 -0800
+location: nan

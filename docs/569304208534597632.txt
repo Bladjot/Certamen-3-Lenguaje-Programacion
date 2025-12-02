@@ -1,0 +1,7 @@
+569304208534597632
+Virgin America
+“@VirginAmerica:You've met your match.Got status on another airline? Upgrade : http://t.co/H952rDKTqy” @asarco_ES_ar ? 🙉
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 17:14:35 -0800
+location: Argentina

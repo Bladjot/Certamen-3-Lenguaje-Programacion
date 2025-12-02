@@ -1,0 +1,7 @@
+568115571788808192
+Delta
+@JetBlue would love to respond to link but supervisor tore ticket up and refused to give me names and hid her badge from me
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 10:31:22 -0800
+location: new orleans

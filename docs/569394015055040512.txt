@@ -1,0 +1,7 @@
+569394015055040512
+US Airways
+@USAirways thanks! http://t.co/pD7R1lL6Re
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 23:11:26 -0800
+location: Bronx, NY

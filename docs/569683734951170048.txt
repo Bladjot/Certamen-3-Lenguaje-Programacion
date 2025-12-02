@@ -1,0 +1,7 @@
+569683734951170048
+United
+@united resolved and im sick and tired of waiting on you. I want my refund and I'd like to speak to someone about it.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:22:41 -0800
+location: nan

@@ -1,0 +1,7 @@
+568430867447549952
+Southwest
+@SouthwestAir Is there anyway to pay more to get priority boarding A 1-15?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 07:24:14 -0800
+location: California

@@ -1,0 +1,7 @@
+569358646892748801
+Southwest
+@southwestair I've been on hold for 2 hours to reschedule my Cancelled Flightled flight for the morning. What gives? I need help NOW
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 20:50:54 -0800
+location: Boston, MA

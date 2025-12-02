@@ -1,0 +1,7 @@
+568776950665371648
+US Airways
+@USAirways nothing was available. Male flight crew was not nice/dismissive. Big guy was standby and probably didn't even pay for Choice
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 06:19:27 -0800
+location: Flying Giraffe Travel

@@ -1,0 +1,7 @@
+567933117610074113
+Southwest
+@SouthwestAir 75 minutes and still waiting for skis to be unloaded. You should be ashamed. It's 1:30 in the morning.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-17 22:26:21 -0800
+location: nan

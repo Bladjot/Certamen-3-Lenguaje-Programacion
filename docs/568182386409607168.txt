@@ -1,0 +1,7 @@
+568182386409607168
+Southwest
+@SouthwestAir So far so good! http://t.co/16c9ex79Rk
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 14:56:51 -0800
+location: San Diego, CA

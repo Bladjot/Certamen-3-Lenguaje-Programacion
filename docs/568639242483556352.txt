@@ -1,0 +1,7 @@
+568639242483556352
+United
+@united what is your plan to reduce delays?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 21:12:14 -0800
+location: Boston, MA

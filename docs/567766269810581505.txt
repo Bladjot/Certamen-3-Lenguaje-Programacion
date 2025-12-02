@@ -1,0 +1,7 @@
+567766269810581505
+Delta
+@JetBlue Learning about your awesome twitter management today in my Social Media Marketing class! keep up the good work! @SXU @PhD_Mama_
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 11:23:21 -0800
+location: nan

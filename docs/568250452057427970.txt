@@ -1,0 +1,7 @@
+568250452057427970
+United
+@united can you please stop Cancelled Flightling your flights? I am trying to get home to take two exams tomorrow. You've Cancelled Flightled 3 flights on me.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 19:27:20 -0800
+location: Columbia, MO

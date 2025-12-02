@@ -1,0 +1,7 @@
+568532825281937408
+United
+@united has the best pilots ever Thank you guys for the great trip #thatisall
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 14:09:23 -0800
+location: 860

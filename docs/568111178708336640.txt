@@ -1,0 +1,7 @@
+568111178708336640
+US Airways
+@USAirways Yeah I know that...but now I'll have to spend almost 500 dollars more on my ticket since the price has gone up over the week
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 10:13:54 -0800
+location: nan

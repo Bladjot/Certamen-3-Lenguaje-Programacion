@@ -1,0 +1,7 @@
+569623396729917440
+US Airways
+@USAirways Best part was hearing the attendant give a voucher to person next to me for hotel at BGR. Then my guy saying "we don't do that"
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 14:22:55 -0800
+location: Washington, D.C.

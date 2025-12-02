@@ -1,0 +1,7 @@
+569629990129520641
+United
+@united thanks gate agent extraordinaire Seau Fong for helping me get re-booked out of Boise and (hopefully) home to NYC sometime tonight!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 14:49:07 -0800
+location: ÜT: 41.88849,-87.6282

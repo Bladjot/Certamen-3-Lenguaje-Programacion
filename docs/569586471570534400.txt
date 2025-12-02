@@ -1,0 +1,7 @@
+569586471570534400
+United
+@united unacceptable. 403 was 90 min Late Flight for a 'missing screw' our flight to Tucson left before we even landed
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 11:56:11 -0800
+location: SE AZ By Way of HV

@@ -1,0 +1,7 @@
+568616034384498688
+Delta
+@JetBlue the pilot just stated that after 22 years of flying he has never experienced anything like this. #gettingoffplane
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 19:40:01 -0800
+location: Buffalo

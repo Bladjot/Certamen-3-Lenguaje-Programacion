@@ -1,0 +1,7 @@
+569716857869107200
+Delta
+@JetBlue 2 words: "staff training." What a joke-
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 20:34:18 -0800
+location: OP NY

@@ -1,0 +1,7 @@
+569527205291802624
+US Airways
+@USAirways Mellani B. and whole team in Columbia SC are absolute superstars. Incredibly helpful.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 08:00:41 -0800
+location: 75 Drayton Park, London, UK

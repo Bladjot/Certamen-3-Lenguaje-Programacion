@@ -1,0 +1,7 @@
+569692982955237377
+American
+@AmericanAir I have been trying to speak with an agent the whole day about my Cancelled Flightled flight, what I can do?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 18:59:26 -0800
+location: nan

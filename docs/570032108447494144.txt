@@ -1,0 +1,7 @@
+570032108447494144
+Southwest
+@SouthwestAir No monkey business we luv SWA!! #mdw2mci #homeandreadyfornexttrip http://t.co/2xJvUn66ZZ
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 17:26:59 -0800
+location: nan

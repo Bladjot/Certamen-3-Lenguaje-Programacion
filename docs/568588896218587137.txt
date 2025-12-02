@@ -1,0 +1,7 @@
+568588896218587137
+Delta
+@JetBlue my butt hurts.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 17:52:11 -0800
+location: Jamestown Virginia

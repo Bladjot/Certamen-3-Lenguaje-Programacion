@@ -1,0 +1,7 @@
+568258333649604608
+US Airways
+@USAirways captain on flight 1712 from PHX-PHL at 3:55 tonight was hilarious. "Greetings from the pointy end of the airplane" haha thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 19:58:39 -0800
+location: Born in NY, living in PA

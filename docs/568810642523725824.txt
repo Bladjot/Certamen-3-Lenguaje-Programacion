@@ -1,0 +1,7 @@
+568810642523725824
+Southwest
+@SouthwestAir what number can we use to all from outside the US? Thx
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 08:33:19 -0800
+location: Everywhere

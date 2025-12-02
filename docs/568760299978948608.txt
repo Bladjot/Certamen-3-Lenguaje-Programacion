@@ -1,0 +1,7 @@
+568760299978948608
+Delta
+@JetBlue you guys get rid of the hip hop stations on Sirius XM?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 05:13:17 -0800
+location: NY

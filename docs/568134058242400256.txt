@@ -1,0 +1,7 @@
+568134058242400256
+US Airways
+@USAirways thanks!  Can you help remind the agents it's ok?  Ps. Heard rumors of a streaming wifi TV/movie service you might be installing
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 11:44:49 -0800
+location: Planet Earth

@@ -1,0 +1,7 @@
+568165349004316672
+United
+@united just informed you don't reimburse for issues due to weather. this is why your flights keep getting Cancelled Flightled--Thor hates you
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 13:49:09 -0800
+location: Texas, USA

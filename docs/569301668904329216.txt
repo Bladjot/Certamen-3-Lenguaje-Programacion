@@ -1,0 +1,7 @@
+569301668904329216
+Southwest
+@SouthwestAir you are the worst airline. Congrats!!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 17:04:29 -0800
+location: nan

@@ -1,0 +1,7 @@
+570237399932018688
+American
+@AmericanAir there is a fat man stuck in your airplanes bathroom
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 07:02:45 -0800
+location: nan

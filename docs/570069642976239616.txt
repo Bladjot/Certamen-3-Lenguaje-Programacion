@@ -1,0 +1,7 @@
+570069642976239616
+American
+@AmericanAir yes....twice...for two different flights and occasions
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 19:56:08 -0800
+location: Miami

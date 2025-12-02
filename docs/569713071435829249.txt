@@ -1,0 +1,7 @@
+569713071435829249
+Delta
+@JetBlue sorry, should have specified I meant ground traffic trying to get into the terminal
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 20:19:15 -0800
+location: Right Coast

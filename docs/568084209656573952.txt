@@ -1,0 +1,7 @@
+568084209656573952
+US Airways
+@usairways can I get assistance on flight #611? Plane just landed from HPN and I have a connection to ATL.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 08:26:44 -0800
+location: nan

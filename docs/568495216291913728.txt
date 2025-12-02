@@ -1,0 +1,7 @@
+568495216291913728
+Southwest
+@SouthwestAir Yes I can. But you guys should get your act together.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 11:39:56 -0800
+location: nan

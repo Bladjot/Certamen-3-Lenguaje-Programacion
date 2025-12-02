@@ -1,0 +1,7 @@
+569876837087580161
+American
+@AmericanAir  thanks hoping that by wed I can get back to DFW
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 07:10:00 -0800
+location: nan

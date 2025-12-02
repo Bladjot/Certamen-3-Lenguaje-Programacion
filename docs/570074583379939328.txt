@@ -1,0 +1,7 @@
+570074583379939328
+United
+@united Well the bar is set low! You guys are really good at the apology game! What will change? When will u guys learn?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 20:15:46 -0800
+location: Chicago, IL

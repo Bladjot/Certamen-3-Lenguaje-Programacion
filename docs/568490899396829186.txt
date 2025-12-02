@@ -1,0 +1,7 @@
+568490899396829186
+US Airways
+@USAirways has the most ass backwards process for using credits on flights. even trying to get a hold of customer relations is impossible
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 11:22:47 -0800
+location: Scottsdale, AZ

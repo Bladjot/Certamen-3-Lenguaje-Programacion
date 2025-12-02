@@ -1,0 +1,7 @@
+569613554963369985
+United
+@united @rayja9 flying to las vegas out of Chicago flight is Late Flight and no announcement has been made
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 13:43:49 -0800
+location: nan

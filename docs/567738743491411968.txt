@@ -1,0 +1,7 @@
+567738743491411968
+Southwest
+@SouthwestAir myself and 2 others
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:33:59 -0800
+location: Nashville,TN

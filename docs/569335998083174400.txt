@@ -1,0 +1,7 @@
+569335998083174400
+US Airways
+@USAirways worst trip ever!  Wish pilot would've let me off plane at 12pm during 1st delay.  Now 1030pm and still sitting on runway.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 19:20:54 -0800
+location: www.bucknellbison.com

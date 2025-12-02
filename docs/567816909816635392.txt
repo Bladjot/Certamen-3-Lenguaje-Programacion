@@ -1,0 +1,7 @@
+567816909816635392
+Southwest
+@SouthwestAir Thanks. I'll keep checking. I'm trying to book our first Disney World vacation.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 14:44:35 -0800
+location: San Antonio

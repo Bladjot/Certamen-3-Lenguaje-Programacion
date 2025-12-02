@@ -1,0 +1,7 @@
+570048275367079937
+US Airways
+@usairways I've been on hold for over an hour only b/c my CC miles aren't showing up. What a mediocre combo of cc &amp; airline #SwitchingBoth
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 18:31:14 -0800
+location: Los Angeles

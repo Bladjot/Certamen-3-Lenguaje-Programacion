@@ -1,0 +1,7 @@
+568882449922416641
+United
+@united with the purchase of my ticket i am entitled to check in 1 bag however i am being charged an extra 25 dollars for domestic transport
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 13:18:40 -0800
+location: Edinbrah

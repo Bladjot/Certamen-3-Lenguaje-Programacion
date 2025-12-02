@@ -1,0 +1,7 @@
+568556148368019456
+Delta
+@JetBlue thanks JB!! This is why I 💙 you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 15:42:03 -0800
+location: Buffalo, NY

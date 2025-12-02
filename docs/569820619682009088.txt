@@ -1,0 +1,7 @@
+569820619682009088
+American
+@AmericanAir Hi guys, can you tell me what the emergency is for #AA65 diverting to #Heathrow from Zurich-New York? Thanks, John.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 03:26:37 -0800
+location: Hertfordshire & London

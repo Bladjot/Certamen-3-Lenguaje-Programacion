@@ -1,0 +1,7 @@
+567912504656965632
+Southwest
+@SouthwestAir @JohnWayneAir Thank you both very much!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 21:04:27 -0800
+location: nan

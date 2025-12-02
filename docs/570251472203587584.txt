@@ -1,0 +1,7 @@
+570251472203587584
+United
+@united Wow. What a deal. Again, 30+ plus seats available. Easy change to make a customer happy.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 07:58:40 -0800
+location: Richmond, VA

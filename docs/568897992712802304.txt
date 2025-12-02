@@ -1,0 +1,7 @@
+568897992712802304
+United
+@united next time I will not volunteer to let you gate check my bag for space, since you obviously can't deliver it in a timely manner.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 14:20:25 -0800
+location: Los Angeles

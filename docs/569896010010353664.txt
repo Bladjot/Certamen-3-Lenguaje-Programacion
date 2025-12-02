@@ -1,0 +1,7 @@
+569896010010353664
+American
+@AmericanAir you guys need to educate your employees on what a pink tag is AND STOP LOSING MY GUITAR FOR THE 10 THOUSANDTH TIME!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 08:26:11 -0800
+location: nan

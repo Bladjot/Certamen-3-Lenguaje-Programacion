@@ -1,0 +1,7 @@
+569590013278756865
+American
+@AmericanAir Love the new planes for the JFK-LAX run.  Maybe one day I will be on one where the amenities all function.  #NoCharge #Ever
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 12:10:16 -0800
+location: nan

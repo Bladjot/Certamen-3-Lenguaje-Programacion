@@ -1,0 +1,7 @@
+569915029950222337
+United
+@united a) she's an international. Her phone is on the fritz, I had to get to Chicago from nearly 4 hrs away to figure everything out.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 09:41:46 -0800
+location: Grand Rapids

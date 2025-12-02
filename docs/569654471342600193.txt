@@ -1,0 +1,7 @@
+569654471342600193
+US Airways
+@USAirways 2 hours and counting. ..what kind of travel voucher do I get for this??
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:26:24 -0800
+location: nan

@@ -1,0 +1,7 @@
+568064178478571520
+US Airways
+@USAirways will never travel with you again. This is insanity. storms are inevitable but making us hold to just add a lap child #badservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 07:07:08 -0800
+location: nan

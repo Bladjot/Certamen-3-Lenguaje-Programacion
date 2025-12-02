@@ -1,0 +1,7 @@
+569970853334650880
+US Airways
+@USAirways and I would have been willing to give him the benefit of the doubt and say we misunderstood each other until he went on a
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:23:35 -0800
+location: nan

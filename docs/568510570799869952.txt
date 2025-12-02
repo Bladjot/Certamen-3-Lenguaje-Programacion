@@ -1,0 +1,7 @@
+568510570799869952
+Southwest
+Thanks @SouthwestAir ! #heartlanta
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 12:40:57 -0800
+location: Atlanta, GA

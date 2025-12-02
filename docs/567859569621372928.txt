@@ -1,0 +1,7 @@
+567859569621372928
+Southwest
+@SouthwestAir though I work for another major airline,  I LOVE your Black history month commercial. I Thank you.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 17:34:06 -0800
+location: nan

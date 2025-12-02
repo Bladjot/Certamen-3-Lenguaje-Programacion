@@ -1,0 +1,7 @@
+568583014176960513
+US Airways
+@USAIRWAYS ARE YOU KIDDING ME?? Bad customer service, folks. Flew from PSP to PHX flight 2692 on 2/19. (cont) http://t.co/KigfKVXxDQ
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 17:28:48 -0800
+location: Austin,TX

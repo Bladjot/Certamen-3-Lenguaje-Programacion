@@ -1,0 +1,7 @@
+568112842261594112
+Southwest
+@SouthwestAir :arrived in San Juan early. Thanks for a great flight. LUV u!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 10:20:31 -0800
+location: nan

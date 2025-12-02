@@ -1,0 +1,7 @@
+569657264262533120
+American
+@AmericanAir I am honestly in shock how this process and service compares to my other airline experiences. Not really sure what to say...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:37:30 -0800
+location: nan

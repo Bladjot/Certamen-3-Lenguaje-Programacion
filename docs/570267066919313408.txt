@@ -1,0 +1,7 @@
+570267066919313408
+American
+@AmericanAir we have been advised to turn this issue over to the police due to the sexual assult THANK YOU FOR ALLOWING THAT ON YOUR PLANE!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 09:00:38 -0800
+location: Belle MO

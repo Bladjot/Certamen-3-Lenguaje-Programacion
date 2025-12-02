@@ -1,0 +1,7 @@
+569687410969321472
+US Airways
+@USAirways been sitting at gate for over 25 min on us 728! What gives???
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 18:37:17 -0800
+location: nan

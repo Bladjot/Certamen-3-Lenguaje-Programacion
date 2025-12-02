@@ -1,0 +1,7 @@
+569784699117137920
+American
+@AmericanAir speaking 2 languages paid off! as the US line left me over 70 min in hold -without an answer- the latinamerican solved in 20min
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 01:03:53 -0800
+location: San Francisco

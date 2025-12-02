@@ -1,0 +1,7 @@
+569969877286461440
+Southwest
+@southwestair #netneutrality Nice to see you prioritize Internet traffic to your own streaming service over other web sites!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 13:19:42 -0800
+location: San Francisco, CA

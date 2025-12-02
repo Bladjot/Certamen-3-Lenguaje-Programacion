@@ -1,0 +1,7 @@
+568748242109927424
+US Airways
+@USAirways @AmericanAir I am so going to miss US Airways.  You always provided great service and NEVER LET ME DOWN.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 04:25:22 -0800
+location: nan

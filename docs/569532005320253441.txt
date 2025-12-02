@@ -1,0 +1,7 @@
+569532005320253441
+United
+@united the hotel you sent us to wouldnt take the voucher. Our flight was delayed, then Cancelled Flightled, then delayed again. 32 hours and counting
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 08:19:46 -0800
+location: nan

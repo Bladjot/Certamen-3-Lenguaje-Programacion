@@ -1,0 +1,7 @@
+569338966857687040
+US Airways
+@USAirways Can't stress enough how awful the agent was for flight 5283. Knew 11 ppl from delayed flight were on way in mins, no compassion.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 19:32:42 -0800
+location: Virginia

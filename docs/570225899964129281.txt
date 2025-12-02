@@ -1,0 +1,7 @@
+570225899964129281
+Delta
+@JetBlue sounds great! Thank you!! :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 06:17:03 -0800
+location: Buffalo, New York

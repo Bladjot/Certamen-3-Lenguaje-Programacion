@@ -1,0 +1,7 @@
+569540173408698369
+US Airways
+@USAirways am 2. 1/2 hours from airport sure would like to talk to someone
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 08:52:13 -0800
+location: nan

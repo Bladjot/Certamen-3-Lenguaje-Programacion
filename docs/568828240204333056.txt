@@ -1,0 +1,7 @@
+568828240204333056
+United
+@united this is very disappointing. This is about customer service.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 09:43:15 -0800
+location: Louisville, KY

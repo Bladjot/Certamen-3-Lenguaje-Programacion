@@ -1,0 +1,7 @@
+569593694963310593
+American
+@AmericanAir @ShannonBloom Where's my DM? Where's my voucher? Who's paying my $70 cab and my $50 car back to JFK tomorrow?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:24:54 -0800
+location: Pekin

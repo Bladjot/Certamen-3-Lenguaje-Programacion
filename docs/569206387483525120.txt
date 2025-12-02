@@ -1,0 +1,7 @@
+569206387483525120
+Southwest
+@SouthwestAir now flight is book and I have to fly standby if they will allow me to check in before the flight takes off
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 10:45:52 -0800
+location: nan

@@ -1,0 +1,7 @@
+570291066466897921
+Delta
+@JetBlue Not for the dates or destination I'm headed 😔
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:36:00 -0800
+location: Somewhere eating swine...

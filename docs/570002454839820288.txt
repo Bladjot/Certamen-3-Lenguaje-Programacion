@@ -1,0 +1,7 @@
+570002454839820288
+United
+@united that is not in line with your responses here. And now I'm waiting until tomorrow morning because all the flights are overbooked.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 15:29:10 -0800
+location: New York City, NY

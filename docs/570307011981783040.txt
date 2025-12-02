@@ -1,0 +1,7 @@
+570307011981783040
+US Airways
+@USAirways we were moved to a delta direct. Thank you for the accommodations!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 11:39:22 -0800
+location: nan

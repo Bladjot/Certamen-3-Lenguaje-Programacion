@@ -1,0 +1,7 @@
+570305051819941889
+American
+@AmericanAir my flight got Cancelled Flightled from GRK to DFW, then to LEX for tomorrow and I need it rebooked.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:31:34 -0800
+location: nan

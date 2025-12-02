@@ -1,0 +1,7 @@
+569913667476549632
+Delta
+@JetBlue For one way, not letting me select TO city....strange...and now some fairs look "normal" ????
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 09:36:21 -0800
+location: Boston, Austin, Kansas City

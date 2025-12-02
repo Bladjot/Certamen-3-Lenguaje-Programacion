@@ -1,0 +1,7 @@
+568609430754865152
+US Airways
+@USAirways sitting on the Tarmac waiting to deplane 40+ minutes. The level of service I've come to expect.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 19:13:47 -0800
+location: tennessee

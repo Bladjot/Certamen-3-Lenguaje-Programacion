@@ -1,0 +1,7 @@
+570136130126897152
+American
+@AmericanAir worst experience of my life avoid at all costs they will lose your belongings and have no humanity to even offer compensation
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 00:20:20 -0800
+location: North Hollywood

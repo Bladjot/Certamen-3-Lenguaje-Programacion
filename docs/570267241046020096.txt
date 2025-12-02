@@ -1,0 +1,7 @@
+570267241046020096
+American
+@AmericanAir Nice to read it! Thank you very much!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 09:01:19 -0800
+location: Itatiba/SP

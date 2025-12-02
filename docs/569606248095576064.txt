@@ -1,0 +1,7 @@
+569606248095576064
+American
+@AmericanAir but have been yet to receive assistance from one of your agents in securing a new connection. Many will now miss work tomorrow.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 13:14:46 -0800
+location: PA, NY & HI

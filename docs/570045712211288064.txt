@@ -1,0 +1,7 @@
+570045712211288064
+United
+@united here is the ticket # 0162424965446 please refund my unnecessary upgrade fee
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 18:21:03 -0800
+location: nan

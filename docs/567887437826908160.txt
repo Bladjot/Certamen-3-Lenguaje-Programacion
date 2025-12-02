@@ -1,0 +1,7 @@
+567887437826908160
+Delta
+@JetBlue honestly I’m glad you didn’t Cancelled Flight the flight, just that I’ll be driving home at 3-4 am now. :/
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 19:24:50 -0800
+location: Somewhere in between

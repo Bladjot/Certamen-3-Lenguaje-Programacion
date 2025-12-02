@@ -1,0 +1,7 @@
+568204964742496256
+Virgin America
+@VirginAmerica thanks for that. Been needing a way to make those Austin trips from DCA, and now you've come through!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 16:26:34 -0800
+location: Washington D.C.

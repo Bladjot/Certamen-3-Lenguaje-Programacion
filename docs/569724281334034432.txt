@@ -1,0 +1,7 @@
+569724281334034432
+United
+@united typical caned response from UA, fix your crappy performing, last placed/ranked airline in this century!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 21:03:48 -0800
+location: Danville CA

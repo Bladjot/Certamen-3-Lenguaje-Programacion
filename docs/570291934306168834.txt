@@ -1,0 +1,7 @@
+570291934306168834
+Delta
+@JetBlue sale please soon?? I need a tan
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:39:27 -0800
+location: nan

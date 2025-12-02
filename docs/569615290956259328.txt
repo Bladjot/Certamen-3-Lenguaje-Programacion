@@ -1,0 +1,7 @@
+569615290956259328
+American
+@AmericanAir I got rebooked on on us airways by you guys but the flight I got won't work. Any help would be appreciated.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 13:50:42 -0800
+location: Memphis, TN

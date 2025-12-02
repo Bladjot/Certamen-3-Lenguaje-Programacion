@@ -1,0 +1,7 @@
+568058610296565760
+Virgin America
+@VirginAmerica ​ is flying from Love to Austin now. That is most excellent news.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 06:45:01 -0800
+location: Zip City aka Dallas, TX

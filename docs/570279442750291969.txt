@@ -1,0 +1,8 @@
+570279442750291969
+Southwest
+@SouthwestAir "Airport snow removal method #22.."
+Keep up the good work folks, this is where Cessna's become 747's! http://t.co/7poFSXOjSY
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 09:49:49 -0800
+location: Astoria, OR

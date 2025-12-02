@@ -1,0 +1,7 @@
+569709103188197376
+US Airways
+@USAirways we flew out, through and into good weather. when we landed,  another technical issue with gate. improve service or lose customers
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 20:03:29 -0800
+location: Nebraska

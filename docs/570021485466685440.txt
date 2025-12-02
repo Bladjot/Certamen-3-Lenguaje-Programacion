@@ -1,0 +1,7 @@
+570021485466685440
+US Airways
+Too little, too Late Flight. You suck RT @USAirways: @mitchsunderland Oh no, Mitchell. Our agents are happy to offer you available options.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 16:44:47 -0800
+location: Florida Raised, NYC Based

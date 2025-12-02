@@ -1,0 +1,7 @@
+568668364144398336
+United
+There were plenty of empty seats in coach "@united: Your dissatisfaction is understood. Crew members traveling for duty are pre-booked on f"
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 23:07:58 -0800
+location: Houston

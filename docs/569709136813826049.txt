@@ -1,0 +1,7 @@
+569709136813826049
+United
+@united its funny how none of ur tweets back are helpful what I want is to read 'ya we'll change that so our customers get better service'
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:03:37 -0800
+location: nan

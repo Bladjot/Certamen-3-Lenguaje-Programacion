@@ -1,0 +1,7 @@
+569213197485514752
+United
+@united Your new mileage policy is awful. Before, I might have paid slightly more for United because of miles. Now there's no difference.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 11:12:56 -0800
+location: Brooklyn, NY

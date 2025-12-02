@@ -1,0 +1,7 @@
+569947514633191424
+Delta
+STOP THIS “@JetBlue: Our fleet's on fleek. http://t.co/Ac6zwmuOOn”
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 11:50:51 -0800
+location: Columbia, SC

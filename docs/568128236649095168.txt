@@ -1,0 +1,7 @@
+568128236649095168
+Southwest
+@SouthwestAir how do i know that my information is not found on other people's account?  I can see someone else's reservation, rr # and trip
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 11:21:41 -0800
+location: nan

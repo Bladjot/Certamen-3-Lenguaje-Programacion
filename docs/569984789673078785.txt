@@ -1,0 +1,7 @@
+569984789673078785
+US Airways
+@USAirways would help if you flew bigger planes into TLH. All my team mates made it to the training but me.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 14:18:58 -0800
+location: TLH

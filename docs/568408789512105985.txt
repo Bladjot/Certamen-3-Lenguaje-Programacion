@@ -1,0 +1,7 @@
+568408789512105985
+Southwest
+@SouthwestAir I am now a rapids rewards member #lovetotravel #chaching
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 05:56:30 -0800
+location: Scottsdale Arizona

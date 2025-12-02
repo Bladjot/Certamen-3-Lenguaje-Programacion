@@ -1,0 +1,7 @@
+567759268724887552
+US Airways
+@USAirways  my flight was #3729...but I left my phone on the plane or the shuttle :(
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 10:55:32 -0800
+location: New York

@@ -1,0 +1,7 @@
+568416305101070336
+Delta
+@JetBlue is flight 51 on 4/24/15 moved back? When I booked it said we arrive 11:31 but now it says 12:08 😢
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 06:26:22 -0800
+location: Logan International Airport

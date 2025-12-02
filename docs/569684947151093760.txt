@@ -1,0 +1,7 @@
+569684947151093760
+Delta
+@JetBlue awesome
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 18:27:30 -0800
+location: San Francisco, California

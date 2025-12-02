@@ -1,0 +1,7 @@
+569893064342437888
+American
+@AmericanAir Thanks for the response.Tough night for all involved. Our flight got Cancelled Flightled as we started taxiing down the runway.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 08:14:29 -0800
+location: Memphis, TN

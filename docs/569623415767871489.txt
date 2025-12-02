@@ -1,0 +1,7 @@
+569623415767871489
+US Airways
+@USAirways he is 8 months old and is suffering from a rare form of cancer. Your customer service agents had no compassion and I am disgusted
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:23:00 -0800
+location: Livonia, MI

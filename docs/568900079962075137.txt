@@ -1,0 +1,7 @@
+568900079962075137
+United
+@united add wifi, entertainment and the old seats and i’ll come back.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 14:28:43 -0800
+location: Culver City, CA

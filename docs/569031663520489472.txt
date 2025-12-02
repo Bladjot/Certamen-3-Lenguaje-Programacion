@@ -1,0 +1,7 @@
+569031663520489472
+US Airways
+@USAirways I did at 7 pm! Still no bag..
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 23:11:35 -0800
+location: New York, NY

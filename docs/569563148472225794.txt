@@ -1,0 +1,7 @@
+569563148472225794
+US Airways
+@USAirways stuck on Tarmac for 30 mins at PHL waiting for someone to load baggage,ridiculous http://t.co/BRCsjBxG2s
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 10:23:31 -0800
+location: Dallas, Burlington, Boston

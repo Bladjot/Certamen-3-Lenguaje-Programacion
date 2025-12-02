@@ -1,0 +1,7 @@
+568210928484913152
+US Airways
+@USAirways I got an email asking me to checkin TMRW for a flight I meant to book for 3/19 - can someone please help! @WallStSlumLord @PKG49
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 16:50:16 -0800
+location: San Francisco, CA

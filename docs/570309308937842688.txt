@@ -1,0 +1,7 @@
+570309308937842688
+Delta
+@JetBlue I hope so because I fly very often and would hate to change airlines.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:48:29 -0800
+location: Georgia

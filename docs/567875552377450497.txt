@@ -1,0 +1,7 @@
+567875552377450497
+US Airways
+@USAirways not too impressed with your airlines but I would feel a lot better flying with if you upgraded me up to first class tomorrow
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 18:37:36 -0800
+location: nan

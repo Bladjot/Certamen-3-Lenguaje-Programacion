@@ -1,0 +1,7 @@
+569541291467522048
+US Airways
+@USAirways why now just announce delay of 4478 from PVD when you knew captain was already on delayed flight coming in? Frustrating
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 08:56:40 -0800
+location: nan

@@ -1,0 +1,7 @@
+568998609590419456
+United
+@united you know what would be awesome? Providing us with complimentary entertainment on your flights. Especially those longer than 6 hours.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 21:00:14 -0800
+location: Redmond WA

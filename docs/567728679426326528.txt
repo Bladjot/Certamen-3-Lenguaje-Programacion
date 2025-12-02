@@ -1,0 +1,7 @@
+567728679426326528
+Southwest
+@SouthwestAir Flight Cancelled Flightled, reFlight Booking Problems online has not worked, on my second round of hold (3 hrs now). Any other options?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 08:53:59 -0800
+location: Texas

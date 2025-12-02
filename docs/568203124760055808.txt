@@ -1,0 +1,7 @@
+568203124760055808
+Delta
+@JetBlue Walked down the hall to Carousel 8...found all bags sitting there. Still no words from crew...signage still not updated
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 16:19:16 -0800
+location: Northern Virginia

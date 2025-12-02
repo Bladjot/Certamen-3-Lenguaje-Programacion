@@ -1,0 +1,7 @@
+569595899204255745
+American
+@AmericanAir seems like queue times are very high, in Q waiting for an agent 4 almost  an hour.Flight got Cancelled Flightled. http://t.co/sDm2wvR3zr
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:33:39 -0800
+location: Chelmsford, MA

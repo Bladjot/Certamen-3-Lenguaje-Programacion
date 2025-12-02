@@ -1,0 +1,7 @@
+568413365254488064
+Southwest
+@SouthwestAir schedule is open through the end of October, got Columbus day wknd in New England for ~50K points for 4! Check your calendar!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 06:14:41 -0800
+location: nan

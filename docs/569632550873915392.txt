@@ -1,0 +1,7 @@
+569632550873915392
+United
+@united We waited 40 min for our bags after a 45 min flight #nomorecheckedbags
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 14:59:18 -0800
+location: Chicago, Illinois

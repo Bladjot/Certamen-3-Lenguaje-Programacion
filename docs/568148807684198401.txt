@@ -1,0 +1,7 @@
+568148807684198401
+Southwest
+@SouthwestAir thanks for the follow up. So glad to get my bag back.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 12:43:26 -0800
+location: Maryland

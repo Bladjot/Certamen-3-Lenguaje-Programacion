@@ -1,0 +1,7 @@
+568212893012860928
+Southwest
+@SouthwestAir I receive bad customer service and ended up spending several hundred dollars to accommodate my family during each cxl flight
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 16:58:05 -0800
+location: Rite behind my $$

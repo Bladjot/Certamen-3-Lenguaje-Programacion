@@ -1,0 +1,7 @@
+569691574625415168
+American
+@AmericanAir it that you say is going to help us? Give me a number to call that isn't a recording w a 2 hour wait time!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:53:50 -0800
+location: nan

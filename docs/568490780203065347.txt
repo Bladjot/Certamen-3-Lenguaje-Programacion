@@ -1,0 +1,7 @@
+568490780203065347
+US Airways
+@USAirways 5 hour cross country morning flight and you have no food? #BadService
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 11:22:18 -0800
+location: Home sweet Hollywood Home

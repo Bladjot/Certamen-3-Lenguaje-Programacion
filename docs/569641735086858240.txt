@@ -1,0 +1,7 @@
+569641735086858240
+United
+“@united: @rikrik__ What made you come to this? Can we help you with anything? ^JP” inconvience*
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 15:35:47 -0800
+location: Saint Louis

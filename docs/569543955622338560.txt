@@ -1,0 +1,7 @@
+569543955622338560
+Southwest
+@SouthwestAir I have never had such awful customer service and conflicting service. Outrageous.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 09:07:15 -0800
+location: Ohio

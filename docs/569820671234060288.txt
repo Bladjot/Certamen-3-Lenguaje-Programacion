@@ -1,0 +1,7 @@
+569820671234060288
+American
+@AmericanAir all I want is to know what to do regarding my connecting flights since my 1st is Cancelled Flightled. Could you be of assistance?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 03:26:49 -0800
+location: nan

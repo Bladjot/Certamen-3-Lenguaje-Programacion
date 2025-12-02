@@ -1,0 +1,7 @@
+569975659730051072
+American
+@AmericanAir already shared with them. Nothing done!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:42:41 -0800
+location: nan

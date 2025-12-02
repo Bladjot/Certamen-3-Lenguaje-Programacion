@@ -1,0 +1,7 @@
+569843142830071808
+US Airways
+@USAirways thank you for the apology
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 04:56:07 -0800
+location: Nebraska

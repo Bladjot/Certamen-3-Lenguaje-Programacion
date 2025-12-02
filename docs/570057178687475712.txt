@@ -1,0 +1,7 @@
+570057178687475712
+United
+@united was no one between the scan and inside the plane. I just asked the people in line around me where the plane was going
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 19:06:37 -0800
+location: San Francisco

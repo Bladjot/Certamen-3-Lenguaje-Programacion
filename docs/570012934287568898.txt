@@ -1,0 +1,7 @@
+570012934287568898
+Delta
+@JetBlue Btw, thanks for responding quickly!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 16:10:48 -0800
+location: Boston, Austin, Kansas City

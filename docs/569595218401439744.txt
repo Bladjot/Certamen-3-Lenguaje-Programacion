@@ -1,0 +1,7 @@
+569595218401439744
+United
+@united yes, computer would allow me to get to San Diego quick but customer service will not help.  Says can't rebook http://t.co/KcVUbUYExc
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:30:57 -0800
+location: nan

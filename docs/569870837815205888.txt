@@ -1,0 +1,7 @@
+569870837815205888
+American
+@AmericanAir it has been almost 4 hours and I have heard nothing yet from your reservations team. What am I supposed to do?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 06:46:10 -0800
+location: nan

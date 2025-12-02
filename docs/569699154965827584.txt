@@ -1,0 +1,8 @@
+569699154965827584
+American
+@AmericanAir and it gets better...other passengers rebooked direct on other airlines. #whereisthelove 
+#whybeAAFF?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 19:23:57 -0800
+location: nan

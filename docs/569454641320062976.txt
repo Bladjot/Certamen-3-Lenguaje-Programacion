@@ -1,0 +1,7 @@
+569454641320062976
+United
+@united you told me you changed my flight and im in the ottawa airport and AC cant find my reservation! Whats wrong with you
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 03:12:21 -0800
+location: Guatemala

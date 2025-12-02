@@ -1,0 +1,7 @@
+570088135851266048
+American
+@AmericanAir follow me back so I can DM you guys
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 21:09:37 -0800
+location: nan

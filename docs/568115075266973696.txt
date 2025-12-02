@@ -1,0 +1,7 @@
+568115075266973696
+Delta
+@JetBlue hey, so, Dre at Seatac check in needs a raise, stat. Dude gave me amazing customer service and made me feel valued. 👍
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 10:29:23 -0800
+location: Mill Creek, WA

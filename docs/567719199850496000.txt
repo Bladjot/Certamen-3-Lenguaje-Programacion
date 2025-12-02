@@ -1,0 +1,7 @@
+567719199850496000
+Southwest
+@SouthwestAir I'm showing flight 4720 delayed again. Would my boarding pass still be good or was my seat given away?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 08:16:19 -0800
+location: Nashville,TN

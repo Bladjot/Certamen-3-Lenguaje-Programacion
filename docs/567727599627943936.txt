@@ -1,0 +1,7 @@
+567727599627943936
+United
+@united did not let me get on the IAH-HNL direct. Now weather delay for my SFO leg. Stop being reactive and be proactive!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 08:49:42 -0800
+location: Island of Oahu, Hawaii

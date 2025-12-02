@@ -1,0 +1,7 @@
+568127465224323072
+United
+@united chase says no referral bonus. Thanks.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 11:18:37 -0800
+location: nan

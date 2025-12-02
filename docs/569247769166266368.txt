@@ -1,0 +1,7 @@
+569247769166266368
+Virgin America
+@VirginAmerica seats in Row 8 don't recline should mention that on your website #soreback
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 13:30:18 -0800
+location: CT

@@ -1,0 +1,7 @@
+568608718994026496
+Virgin America
+@VirginAmerica my luggage is gone. I've filed my paperwork, promised a call/email. Still no resolution or response from central luggage.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 19:10:57 -0800
+location: San Francisco

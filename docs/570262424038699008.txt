@@ -1,0 +1,7 @@
+570262424038699008
+United
+@united I just sent an email to Customer Care, telling them I may have to break up with you 😢. I sincerely hope they can help me!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 08:42:11 -0800
+location: nan

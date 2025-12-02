@@ -1,0 +1,7 @@
+568649338005487618
+Delta
+@JetBlue probably not anymore.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 21:52:21 -0800
+location: Maine

@@ -1,0 +1,7 @@
+569537708202307584
+US Airways
+@USAirways 3rd connecting flight delayed but still cannot make it &amp; still unable to speak to a real person
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 08:42:25 -0800
+location: nan

@@ -1,0 +1,7 @@
+570109961511895040
+US Airways
+@USAirways is utterly unreliable! They didn't schedule a pilot for their US624 flight out of Seattle - flights are delayed #usairwaysfail
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 22:36:21 -0800
+location: nan

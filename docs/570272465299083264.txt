@@ -1,0 +1,7 @@
+570272465299083264
+US Airways
+@USAirways sadly that didn't help me at my meeting at work today seeing as my presentation was in there! Major strike against me!!!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 09:22:05 -0800
+location: Dumfries, Virginia

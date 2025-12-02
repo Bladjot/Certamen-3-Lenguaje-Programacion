@@ -1,0 +1,7 @@
+569345829653254145
+Southwest
+@SouthwestAir How to find out if my parents luggage really went to FLL on a Cancelled Flighted SW flight?  Called 1800IFlySWA, long long waits...
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 19:59:58 -0800
+location: nan

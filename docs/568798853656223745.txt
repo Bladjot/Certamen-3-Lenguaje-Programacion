@@ -1,0 +1,7 @@
+568798853656223745
+Delta
+@JetBlue what can I say, I'm #LostinLove w/our #brandmance https://t.co/Bzwgp7aDVE #wemosaictogether #Mint #Love
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 07:46:29 -0800
+location: New York, NY

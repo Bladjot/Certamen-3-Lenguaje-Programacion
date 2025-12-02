@@ -1,0 +1,7 @@
+569940582572945409
+American
+@AmericanAir How can I get a flight change while in the air? Delays causing a missed connection again. There is 1 seat for Late Flightr
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 11:23:18 -0800
+location: Boston, MA

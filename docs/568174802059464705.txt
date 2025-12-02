@@ -1,0 +1,7 @@
+568174802059464705
+US Airways
+@USAirways well this is about as worthless as your regular service.  A bunch of do nothings and idiots. #sucks
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 14:26:43 -0800
+location: nan

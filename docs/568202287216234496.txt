@@ -1,0 +1,7 @@
+568202287216234496
+Delta
+@JetBlue Tried...considerable confusion...no announcement...no sign updates
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 16:15:56 -0800
+location: Northern Virginia

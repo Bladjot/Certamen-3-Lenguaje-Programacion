@@ -1,0 +1,7 @@
+569989745503297536
+US Airways
+@USAirways why are your customer service department so intent on ignoring my emails and queries? #badservice #usairways
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:38:39 -0800
+location: Manchester

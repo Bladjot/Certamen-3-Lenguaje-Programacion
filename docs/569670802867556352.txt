@@ -1,0 +1,7 @@
+569670802867556352
+American
+@AmericanAir thanks. Now my carry on that you guys insisted be checked at the gate is missing. Won't be here till Late Flight tomorrow morning.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:31:18 -0800
+location: North of 146th

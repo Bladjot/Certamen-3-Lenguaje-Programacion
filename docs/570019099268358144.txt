@@ -1,0 +1,7 @@
+570019099268358144
+American
+@AmericanAir Why doesn't anyone make a better effort to retain customers. It should be an easy fix, I just want to travel AA.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 16:35:18 -0800
+location: Lake County, Illinois

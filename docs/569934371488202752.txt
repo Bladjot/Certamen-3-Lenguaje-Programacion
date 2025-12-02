@@ -1,0 +1,7 @@
+569934371488202752
+American
+@AmericanAir thanks for keeping us safe
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:58:37 -0800
+location: Chicago Subs

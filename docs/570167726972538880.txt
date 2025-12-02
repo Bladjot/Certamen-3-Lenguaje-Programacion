@@ -1,0 +1,7 @@
+570167726972538880
+American
+@AmericanAir Thanks, both airlines said that it is located at AA Detroit. Also was informed that it flew with AA, which shouldn't matter.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 02:25:53 -0800
+location: Finn between Detroit & Toledo

@@ -1,0 +1,7 @@
+568394676501217281
+Southwest
+@SouthwestAir booked our flights this morning. Can't wait to move about the country.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 05:00:25 -0800
+location: Buffalo, NY

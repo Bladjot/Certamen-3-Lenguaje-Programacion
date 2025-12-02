@@ -1,0 +1,7 @@
+567727701620822016
+Delta
+@JetBlue's new CEO seeks the right balance to please passengers and Wall ... - Daily Journal http://t.co/w8MTmSP2RY
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 08:50:06 -0800
+location: UK

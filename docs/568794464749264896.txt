@@ -1,0 +1,7 @@
+568794464749264896
+US Airways
+@USAirways made it!!! Send Bloody Mary's to row 27!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 07:29:02 -0800
+location: QueenCity, USA

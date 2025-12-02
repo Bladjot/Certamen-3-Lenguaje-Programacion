@@ -1,0 +1,7 @@
+569973084398100480
+Delta
+“@JetBlue: Our fleet's on fleek. http://t.co/aJM3BhJVaa” #foh
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:32:27 -0800
+location: Slum Village, NY

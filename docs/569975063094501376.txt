@@ -1,0 +1,7 @@
+569975063094501376
+American
+@AmericanAir after waiting for a delayed plane, we sat on the plane for an hour waiting for a Late Flight passenger. That's BS too..
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 13:40:19 -0800
+location: Gilbert, AZ

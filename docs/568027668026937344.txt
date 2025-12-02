@@ -1,0 +1,7 @@
+568027668026937344
+Delta
+@JetBlue @philpete wonder if that's the pilot tweeting you back? Is it legal to tweet and fly? What if the plane in front stops suddenly?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 04:42:04 -0800
+location: South West UK

@@ -1,0 +1,7 @@
+570218794414673921
+American
+@AmericanAir You sent me a cheque today which can’t be paid into a UK bank account. VERY annoying!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 05:48:49 -0800
+location: Surrey, UK

@@ -1,0 +1,7 @@
+570082431304392704
+US Airways
+@USAirways charged my card 11 times for one airline ticket, now card is on security hold
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 20:46:57 -0800
+location: Cleveland, Ohio

@@ -1,0 +1,7 @@
+569312530620817408
+US Airways
+@USAirways waited for 3 hours NO LUGGAGE line too long left airport when flight Cancelled Flighted WHERE does luggage GO? On hold for 1 hour so far
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 17:47:39 -0800
+location: nan

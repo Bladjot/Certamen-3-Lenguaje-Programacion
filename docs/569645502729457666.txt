@@ -1,0 +1,7 @@
+569645502729457666
+American
+@AmericanAir please help my flight appears Cancelled Flight 1503 from ft. Lauderdale to Dallas to LAX. Is there anything leaving from Mia or FLL? ThxU
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:50:46 -0800
+location: nan

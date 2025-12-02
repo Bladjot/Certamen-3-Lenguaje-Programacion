@@ -1,0 +1,7 @@
+569633285288157184
+US Airways
+@USAirways but the automated message says the line is too busy to join the queue! #stuckintheloop
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:02:13 -0800
+location: nan

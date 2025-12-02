@@ -1,0 +1,7 @@
+569970729237782528
+Southwest
+@SouthwestAir Is it possible to add companion to only the 2nd leg of a trip?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:23:06 -0800
+location: Chicago

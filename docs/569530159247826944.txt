@@ -1,0 +1,7 @@
+569530159247826944
+Delta
+@JetBlue Touchdown JFK! Well done pilots of JetBlue Flight 226! #JetBlueRocks
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 08:12:25 -0800
+location: Larchmont, New York

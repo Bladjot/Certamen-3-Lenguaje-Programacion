@@ -1,0 +1,7 @@
+569776946365620224
+US Airways
+@USAirways flight 435 is delayed so will miss connecting flight 457 can you please help with alternate? Thank you.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 00:33:04 -0800
+location: Miami, Fl. USA

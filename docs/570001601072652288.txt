@@ -1,0 +1,7 @@
+570001601072652288
+Delta
+@JetBlue? | RT @WMCActionNews5: New airline expected to make its way to MEM http://t.co/Gbd5R1OlSI
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 15:25:46 -0800
+location: Memphis (901-683-0989)

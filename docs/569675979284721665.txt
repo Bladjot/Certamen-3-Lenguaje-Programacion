@@ -1,0 +1,7 @@
+569675979284721665
+American
+@AmericanAir @carlw1980 I have followed and dm'd you. . . Please respond to my concern too. Really disappointed with customer service.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:51:52 -0800
+location: London, England

@@ -1,0 +1,7 @@
+569653219229630464
+US Airways
+@USAirways - why can't the gate agent on flight #759 provide an update? Seriously, this is ridiculous how long people have been waiting
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 16:21:25 -0800
+location: Philly, Chicago, MSP, Vegas

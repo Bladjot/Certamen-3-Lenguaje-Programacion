@@ -1,0 +1,7 @@
+569573528149716992
+Delta
+@JetBlue still waiting to board and see if they will give us the exit row.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 11:04:45 -0800
+location: nan

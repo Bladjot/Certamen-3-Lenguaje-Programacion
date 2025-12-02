@@ -1,0 +1,7 @@
+567931026686767104
+United
+@united next flight? Don't think I'll be spending anymore money with you guys ever. It was that bad.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 22:18:03 -0800
+location: Northam Stand, Southampton

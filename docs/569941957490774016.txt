@@ -1,0 +1,7 @@
+569941957490774016
+Virgin America
+@VirginAmerica awesome. I flew yall Sat morning. Any way we can correct my bill ?
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 11:28:46 -0800
+location: Dallas, Texas

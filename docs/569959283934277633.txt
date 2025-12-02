@@ -1,0 +1,7 @@
+569959283934277633
+Delta
+@JetBlue Just got the time to reply and share my thoughts in greater detail via web form.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:37:37 -0800
+location: Boston, MA

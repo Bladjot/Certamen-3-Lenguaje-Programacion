@@ -1,0 +1,7 @@
+569689983969202180
+American
+@AmericanAir and let FLT 2350 know I'm coming / gate crew have yet to arrive to let us off FLT 5350 #DFW
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 18:47:31 -0800
+location: New York, NY

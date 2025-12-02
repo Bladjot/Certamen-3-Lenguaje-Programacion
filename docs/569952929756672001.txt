@@ -1,0 +1,7 @@
+569952929756672001
+American
+@AmericanAir please dm me
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:12:22 -0800
+location: nan

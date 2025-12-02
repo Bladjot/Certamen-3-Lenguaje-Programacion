@@ -1,0 +1,7 @@
+570025428095770624
+American
+@AmericanAir upgraded to 1st class. Inquired about red wine.  "Sauvignon blanc &amp; I can't pronounce the other one."  Couldn't describe...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 17:00:27 -0800
+location: Seattle, WA

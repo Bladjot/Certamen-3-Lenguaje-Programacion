@@ -1,0 +1,7 @@
+568141111601926145
+Southwest
+@SouthwestAir did you pick the winners for the #DestinationDragons ?? #87yearsLate Flightr #maybeijustlost #whyyounoloveme
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 12:12:51 -0800
+location: Hockeytown, USA

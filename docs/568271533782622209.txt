@@ -1,0 +1,7 @@
+568271533782622209
+United
+@united @staralliance how can I book reward travel in August?? Everything is blacked out.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 20:51:06 -0800
+location: San Francisco

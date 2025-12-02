@@ -1,0 +1,7 @@
+569539560910282752
+US Airways
+@USAirways No one answers your reservation phone line. I need to book travel with a  companion certificate. How do I get through?!!!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 08:49:47 -0800
+location: Durham, NC

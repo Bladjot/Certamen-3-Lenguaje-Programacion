@@ -1,0 +1,7 @@
+568246093856641024
+United
+@united you can't claim "weather" with your hardworking crew pulling seats out of a plane! Do the right thing. But we both know you won't
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 19:10:00 -0800
+location: nan

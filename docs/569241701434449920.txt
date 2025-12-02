@@ -1,0 +1,7 @@
+569241701434449920
+US Airways
+@USAirways I love you guys!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 13:06:12 -0800
+location: Philadelphia, PA

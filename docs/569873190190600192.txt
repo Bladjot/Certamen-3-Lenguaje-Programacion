@@ -1,0 +1,7 @@
+569873190190600192
+US Airways
+@USAirways @AmericanAir can someone help me with some travel issues today?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 06:55:30 -0800
+location: nan

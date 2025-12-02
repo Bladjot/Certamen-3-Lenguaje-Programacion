@@ -1,0 +1,7 @@
+569368352868556800
+US Airways
+@USAirways ok thank you! Very helpful! This is why you're my favorite airline!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 21:29:28 -0800
+location: Blue Ridge High School

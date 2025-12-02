@@ -1,0 +1,7 @@
+569590191758962688
+American
+I just need a place to sleep when I land without accommodations in PLS @AmericanAir!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 12:10:58 -0800
+location: nan

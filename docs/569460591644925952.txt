@@ -1,0 +1,7 @@
+569460591644925952
+Delta
+@JetBlue some woman stole my seat on the plane but I was the one that had to sit elsewhere. Is that standard protocol?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 03:35:59 -0800
+location: Austin, TX

@@ -1,0 +1,7 @@
+569219456506814464
+Southwest
+@SouthwestAir horrible flight!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 11:37:48 -0800
+location: Sacramento

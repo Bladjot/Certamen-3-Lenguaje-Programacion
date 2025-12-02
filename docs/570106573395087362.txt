@@ -1,0 +1,7 @@
+570106573395087362
+United
+@united The agent that met us at the gate said any issues w/delays on UA1116 would have to be taken up online...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 22:22:53 -0800
+location: San Francisco Bay Area

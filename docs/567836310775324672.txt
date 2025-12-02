@@ -1,0 +1,7 @@
+567836310775324672
+Delta
+@JetBlue just lost my business   Enjoy your profits
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 16:01:41 -0800
+location: boston

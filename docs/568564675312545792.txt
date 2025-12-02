@@ -1,0 +1,7 @@
+568564675312545792
+United
+@united yet again you disappoint. Sitting at IAD for UA3728 for 3.5hrs and you can't seem to know why the plane hasn't left Albany. #Fail
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 16:15:56 -0800
+location: Carmel, IN

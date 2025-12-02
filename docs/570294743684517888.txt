@@ -1,0 +1,7 @@
+570294743684517888
+United
+@united just wanted to let you know how wonderful Rosetta the gate agent was working flight 6457 Dan to Ase. Let her know she wasappreciated
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 10:50:37 -0800
+location: New Jersey/Maryland

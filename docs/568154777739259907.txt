@@ -1,0 +1,7 @@
+568154777739259907
+Delta
+@JetBlue this feels nice - what we've got going on here. Let's just swap me out with the fool in 5a and we can make it all better.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 13:07:09 -0800
+location: New York City

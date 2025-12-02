@@ -1,0 +1,7 @@
+569844251426729984
+American
+@AmericanAir I understand a bit of a wait, but I called at 6:23 pm and didn't get a call back until just after 11:00 pm, that's not cool
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 05:00:31 -0800
+location: ÜT: 42.63352,-83.624194

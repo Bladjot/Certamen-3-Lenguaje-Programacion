@@ -1,0 +1,7 @@
+569179721549914112
+United
+@united how much does a ski bag cost to check?  Bag contains 1 pair is skis and one pair of poles
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 08:59:55 -0800
+location: nan

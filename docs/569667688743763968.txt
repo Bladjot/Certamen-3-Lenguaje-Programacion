@@ -1,0 +1,7 @@
+569667688743763968
+Delta
+@JetBlue  I did.  They have no idea where it is.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 17:18:55 -0800
+location: nan

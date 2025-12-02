@@ -1,0 +1,7 @@
+568796018348724226
+Delta
+I was a bit steamed in conjunction w/my new 7-hour wait at first, but having sat down and bought a bit of tea, I've settled some @JetBlue
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 07:35:13 -0800
+location: New York

@@ -1,0 +1,7 @@
+567679487383699456
+US Airways
+@USAirways reservations had me on hold for 2 hours only to hang up...smh 😕
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 05:38:31 -0800
+location: Somewhere Creating

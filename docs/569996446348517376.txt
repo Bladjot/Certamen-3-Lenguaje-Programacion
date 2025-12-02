@@ -1,0 +1,7 @@
+569996446348517376
+US Airways
+@USAirways it is really embarrassing when asking for complimentary drink/snack detailed here: https://t.co/9zA6xb1h89 &amp; being argued with.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 15:05:17 -0800
+location: BTR/DCA/IAD/MSY - etc

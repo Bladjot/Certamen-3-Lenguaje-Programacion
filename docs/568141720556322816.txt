@@ -1,0 +1,7 @@
+568141720556322816
+US Airways
+@USAirways I been sitting on this plane for 40 minutes, and they are saying another 15 minutes something about paper work. This sucks !!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 12:15:16 -0800
+location: Made in China

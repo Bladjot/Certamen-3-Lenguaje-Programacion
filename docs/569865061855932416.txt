@@ -1,0 +1,7 @@
+569865061855932416
+American
+@AmericanAir this is the biggest joke of #customerservice I've ever seen from a  ✈️ brand http://t.co/XHSUUpHeZe
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 06:23:12 -0800
+location: Manhattan, NY

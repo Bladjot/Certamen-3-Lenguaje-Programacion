@@ -1,0 +1,7 @@
+569897733466628097
+American
+@AmericanAir why are there only 2 agents at domestic check in at MIA?! WTF? Huge lines and many people with Cancelled Flightled flights.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 08:33:02 -0800
+location: iPhone: 38.961334,-77.006119

@@ -1,0 +1,7 @@
+570000126636216320
+American
+@AmericanAir It's not about weather, it's logistics. Why should I hold for 90 minutes when you called me? Why not get more desk agents?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 15:19:54 -0800
+location: I am from Internet!

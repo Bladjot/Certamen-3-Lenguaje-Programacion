@@ -1,0 +1,7 @@
+568591059602829314
+Southwest
+@SouthwestAir a nice trip back home after a looong vaca 😊🌴 http://t.co/9TRvfnCedL
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 18:00:47 -0800
+location: ~~ Rhode Island ~~

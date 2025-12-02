@@ -1,0 +1,7 @@
+569739515243462656
+American
+@AmericanAir will do. I'd think, though, that a literally identical itinerary to your sample itineraries would work - maybe need to update?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 22:04:20 -0800
+location: Charlotte, NC | Köln, NRW

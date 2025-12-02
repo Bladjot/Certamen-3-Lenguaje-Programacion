@@ -1,0 +1,7 @@
+568544199072735232
+US Airways
+@USAirways pure anarchy on flight 555 to SLC. People walking in with nothing packed in bags with arms full of stuff. #getittogether
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 14:54:34 -0800
+location: DC

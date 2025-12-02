@@ -1,0 +1,7 @@
+568623875468226560
+Delta
+@JetBlue, was far less painful than what was coming from Avis.  💙
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 20:11:11 -0800
+location: Upstate New York

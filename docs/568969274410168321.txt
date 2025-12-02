@@ -1,0 +1,7 @@
+568969274410168321
+US Airways
+@USAirways figure it out, have had 2 Cancelled Flightled flights in the past week. Now coming home 2 hour delay, and cart that pulls plane just broke
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 19:03:40 -0800
+location: California

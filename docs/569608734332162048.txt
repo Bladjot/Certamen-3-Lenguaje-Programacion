@@ -1,0 +1,7 @@
+569608734332162048
+United
+@united pls stop sending texts every 15mins saying my flight is delayed another 15mins-It's been 3hrs. I usually defend u but this is lame..
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 13:24:39 -0800
+location: Watertown, MA

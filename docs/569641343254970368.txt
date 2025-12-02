@@ -1,0 +1,7 @@
+569641343254970368
+US Airways
+@USAirways can you please help me find my luggage since you're the one who lost it? Your customer service SUCKS.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 15:34:14 -0800
+location: Atl

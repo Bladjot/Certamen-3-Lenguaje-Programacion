@@ -1,0 +1,7 @@
+568868928732028928
+US Airways
+@USAirways have scheduled flight Sat(2morrow) CHO-CLT CHO needs to be added to weather advisory.  Please evaluate asap.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 12:24:56 -0800
+location: nan

@@ -1,0 +1,7 @@
+569729325546602497
+United
+@united You are a F&amp;$KING joke. Your customer service is woeful. If your staff tell a passenger that they will do something do it!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 21:23:50 -0800
+location: nan

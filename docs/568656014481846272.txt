@@ -1,0 +1,7 @@
+568656014481846272
+United
+@united I am so happy I found my phone because this is easily the worst system I have ever heard of
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 22:18:53 -0800
+location: San Francisco, CA

@@ -1,0 +1,7 @@
+568996855566245889
+US Airways
+@USAirways but don't worry! They found a hotel, it's only 45min away. I got there around 11:30pm, no problem.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 20:53:16 -0800
+location: Asheville, NC

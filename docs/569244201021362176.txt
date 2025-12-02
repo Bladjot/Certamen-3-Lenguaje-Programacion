@@ -1,0 +1,7 @@
+569244201021362176
+United
+@united now been on board with no movement for 25 min...wow this experience just keeps getting worse and worse
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 13:16:08 -0800
+location: nan

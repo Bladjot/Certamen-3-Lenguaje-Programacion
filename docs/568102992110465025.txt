@@ -1,0 +1,7 @@
+568102992110465025
+Delta
+@JetBlue Will do. Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 09:41:22 -0800
+location: San Francisco

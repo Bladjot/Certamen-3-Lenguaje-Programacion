@@ -1,0 +1,7 @@
+568646087361355776
+Virgin America
+@VirginAmerica add DTW and I'm sold!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 21:39:26 -0800
+location: nan

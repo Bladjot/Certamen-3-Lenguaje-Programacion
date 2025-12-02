@@ -1,0 +1,7 @@
+570053482029277184
+United
+@united  what is the real deal with the delay on flight UA 1032 from Denver to Vegas?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 18:51:55 -0800
+location: nan

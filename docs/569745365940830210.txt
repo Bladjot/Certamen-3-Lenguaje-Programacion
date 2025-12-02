@@ -1,0 +1,7 @@
+569745365940830210
+United
+@united I am a loyal Premier Platinum member, but the lack of communication was really bad. Also, i don’t see that it has taken off yet
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 22:27:35 -0800
+location: Bay Area, CA

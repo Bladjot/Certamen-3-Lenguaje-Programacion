@@ -1,0 +1,7 @@
+569915972758446080
+American
+@AmericanAir need help changing a flight. Please dm
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 09:45:31 -0800
+location: nan

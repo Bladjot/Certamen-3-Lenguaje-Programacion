@@ -1,0 +1,7 @@
+570264948548313088
+American
+@AmericanAir @dfwairport you 2 together are the best part of flying!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 08:52:13 -0800
+location: Euless, Texas

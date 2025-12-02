@@ -1,0 +1,7 @@
+569749896095358977
+United
+@united I am very glad I took care of own rescheduling now that UA 1580 from OGG was Cancelled Flightled. http://t.co/H3k3oWOhD1
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 22:45:35 -0800
+location: Bay Area, CA

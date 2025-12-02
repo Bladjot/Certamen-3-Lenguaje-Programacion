@@ -1,0 +1,7 @@
+569631742631354369
+American
+@AmericanAir flights have been on time Late Flightly though!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 14:56:05 -0800
+location: Dallas, Texas

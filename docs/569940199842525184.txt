@@ -1,0 +1,7 @@
+569940199842525184
+American
+@AmericanAir I think 2 weeks of waiting is more than enough time for you to contact me.  This is why you lose customers
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:21:47 -0800
+location: nan

@@ -1,0 +1,7 @@
+568036279989858304
+Delta
+@JetBlue hotspot free WiFi makes me happy. #jfk #itsthelittlethings
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 05:16:17 -0800
+location: Round Rock, TX

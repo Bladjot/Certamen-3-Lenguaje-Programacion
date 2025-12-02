@@ -1,0 +1,7 @@
+568963192489029632
+Delta
+@JetBlue weather where?  It's 60 in SFO and flight 834 is still on time to boston.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 18:39:30 -0800
+location: Boston, MA

@@ -1,0 +1,7 @@
+569666826352898048
+US Airways
+@USAirways thanks for three Cancelled Flightled flight and making us go from raleigh to charlote to lexington to philly. istead of raleigh to philly
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 17:15:29 -0800
+location: nan

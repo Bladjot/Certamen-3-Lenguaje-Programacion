@@ -1,0 +1,7 @@
+568278516309090304
+Delta
+@JetBlue could I get a free flight to Vegas since it's my bday😏☺️
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 21:18:51 -0800
+location: NBMA

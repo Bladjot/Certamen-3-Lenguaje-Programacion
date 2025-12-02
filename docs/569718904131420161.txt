@@ -1,0 +1,7 @@
+569718904131420161
+American
+@AmericanAir I have never seen such incompetency from a gate agent in years of business travel DFW B16 gate agent needs training or new job
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 20:42:26 -0800
+location: Bloomington, IL

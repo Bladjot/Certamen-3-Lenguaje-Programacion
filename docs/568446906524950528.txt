@@ -1,0 +1,7 @@
+568446906524950528
+United
+@united 3/10 disappointed in the service. Will be missing my connection after over an hour delay + cramped seats. At least their app is good
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 08:27:58 -0800
+location: nan

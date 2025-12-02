@@ -1,0 +1,7 @@
+569518200410546176
+US Airways
+@USAirways 100 feet from the gate at PHL, but no ground crew. You can't make this up.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 07:24:54 -0800
+location: Doylestown, PA

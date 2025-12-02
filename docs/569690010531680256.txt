@@ -1,0 +1,7 @@
+569690010531680256
+US Airways
+@USAirways - have dinner reservations in a few minutes -- and I've been trying to get through to you since BREAKFAST. #onholdwith
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:47:37 -0800
+location: nan

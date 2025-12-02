@@ -1,0 +1,7 @@
+570220968435716097
+US Airways
+@USAirways Waiting on my flight right now, thanks!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 05:57:27 -0800
+location: #yeahTHATgreenville SC

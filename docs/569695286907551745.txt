@@ -1,0 +1,7 @@
+569695286907551745
+American
+@AmericanAir @USAirways how can you have no food on a 4 hour flight 528 from Columbus to Phoenix? Starving and Pissed off. Can't eat Go Go!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 19:08:35 -0800
+location: Chicago, Mumbai

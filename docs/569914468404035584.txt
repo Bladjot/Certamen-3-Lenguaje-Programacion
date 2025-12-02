@@ -1,0 +1,7 @@
+569914468404035584
+American
+@AmericanAir boarded flight 2334 at 8:30am.  Now 11:40.  Still sitting on runway.  Lots o fun
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 09:39:32 -0800
+location: QCA

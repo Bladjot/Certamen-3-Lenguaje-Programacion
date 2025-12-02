@@ -1,0 +1,7 @@
+569302758018420736
+United
+.@united Let us know when you find everyone's luggage. Thanks. #UnitedAirlines
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 17:08:49 -0800
+location: Montreal, Quebec CA

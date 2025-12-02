@@ -1,0 +1,7 @@
+568107816923340800
+Delta
+@JetBlue you wanna help out? How about you reimburse the money you cause my band to lose.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 10:00:33 -0800
+location: new orleans

@@ -1,0 +1,7 @@
+569677563334942720
+American
+@AmericanAir I've never witnessed such covert tactics from an airline.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 17:58:09 -0800
+location: NYCATL

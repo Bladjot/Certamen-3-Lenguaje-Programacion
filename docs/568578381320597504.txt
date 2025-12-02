@@ -1,0 +1,7 @@
+568578381320597504
+Southwest
+@SouthwestAir Weather seriously cannot even be the only excuse at this point because it was awful service in the summer too. Over it.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 17:10:24 -0800
+location: nan

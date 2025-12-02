@@ -1,0 +1,7 @@
+569351147930169344
+United
+@united flight ua90 is taking off now after 1750 was delayed over 4 hrs 30 passengers to miss their flight to tel aviv
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 20:21:06 -0800
+location: San Francisco, CA

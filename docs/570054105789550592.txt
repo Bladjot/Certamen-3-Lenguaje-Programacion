@@ -1,0 +1,7 @@
+570054105789550592
+Southwest
+@SouthwestAir great day in the air. http://t.co/YNc2ZUt4zz
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 18:54:24 -0800
+location: Panama City, Florida

@@ -1,0 +1,7 @@
+570093520909832192
+American
+@AmericanAir when should i expect a response from customer relations
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 21:31:01 -0800
+location: College Station

@@ -1,0 +1,7 @@
+568077930783485952
+Southwest
+@SouthwestAir Sorry! Thought I did. It's done now.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 08:01:47 -0800
+location: Miami, FL

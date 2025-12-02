@@ -1,0 +1,7 @@
+567812370690605056
+US Airways
+@USAirways @satesq theres only one flt PHL-CRW per day.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:26:33 -0800
+location: Charleston

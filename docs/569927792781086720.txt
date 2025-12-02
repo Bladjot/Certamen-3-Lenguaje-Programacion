@@ -1,0 +1,7 @@
+569927792781086720
+Delta
+@JetBlue sounds good!!!💙💙💙💙
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:32:29 -0800
+location: nan

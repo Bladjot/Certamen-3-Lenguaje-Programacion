@@ -1,0 +1,7 @@
+568572506300243968
+Southwest
+@SouthwestAir Already signed up!  Thanks!  Looking forward to trying the Southwest experience.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 16:47:03 -0800
+location: Atlanta

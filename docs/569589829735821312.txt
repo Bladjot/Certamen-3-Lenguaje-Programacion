@@ -1,0 +1,7 @@
+569589829735821312
+United
+@united What does DM the confirmation @ mean???
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:09:32 -0800
+location: nan

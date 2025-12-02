@@ -1,0 +1,7 @@
+568444042851323904
+United
+@united Over charged me one way for baggage.find out others leaving Pittsburgh with same equipment weren't charged Just hung up on me!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 08:16:35 -0800
+location: PA

@@ -1,0 +1,7 @@
+569604655166009345
+United
+@United You were doing so well until the PHL-SFO flight yesterday. Major miss. Unfriendly Premier cabin crew. Baggage cluster at SFO.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 13:08:27 -0800
+location: Global- Mostly Silicon Valley

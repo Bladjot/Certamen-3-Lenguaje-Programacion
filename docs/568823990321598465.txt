@@ -1,0 +1,7 @@
+568823990321598465
+US Airways
+@USAirways I called the BTV desk; they had more information - so it exists.  Your systems don't make it easy for the customer to access it.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 09:26:22 -0800
+location: Washington, DC

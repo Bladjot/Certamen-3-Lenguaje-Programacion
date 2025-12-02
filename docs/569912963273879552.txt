@@ -1,0 +1,7 @@
+569912963273879552
+US Airways
+@USAirways called 3x &amp; it says high call volumes call back. At $1 a minute for international calls is there any way someone can contact me?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:33:33 -0800
+location: Stillwater, MN

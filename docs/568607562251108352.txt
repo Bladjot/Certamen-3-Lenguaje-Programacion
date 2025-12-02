@@ -1,0 +1,7 @@
+568607562251108352
+Virgin America
+@VirginAmerica Debbie Baldwin gave a #rockstar performance of the safety demo this evening on VX919 #LAS2SFO #BestCrew #SheRocks
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 19:06:21 -0800
+location: San Francisco

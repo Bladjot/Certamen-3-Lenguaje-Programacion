@@ -1,0 +1,7 @@
+569435214717562881
+United
+@united @ThisIsCoach Every time my united flight got delayed. this is a big frustration.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 01:55:09 -0800
+location: nan

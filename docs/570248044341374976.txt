@@ -1,0 +1,7 @@
+570248044341374976
+Southwest
+@SouthwestAir is America's largest airline by passengers carried! Wonder if this is b/c they have a 'Customer Service Bible' #ANAmarketers
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 07:45:03 -0800
+location: Austin, Texas

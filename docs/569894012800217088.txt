@@ -1,0 +1,7 @@
+569894012800217088
+Delta
+@JetBlue All correct for rates Boston to Pittsburgh wknd March 14? Rates all of a sudden took off! Made plans, came back to buy &amp; surprised.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 08:18:15 -0800
+location: Boston, Austin, Kansas City

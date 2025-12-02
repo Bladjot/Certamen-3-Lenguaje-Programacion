@@ -1,0 +1,7 @@
+568883827218763777
+Southwest
+@SouthwestAir  is there a route to flight from Mexico City to Chicago midway using your services?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 13:24:08 -0800
+location: nan

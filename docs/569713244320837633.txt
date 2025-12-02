@@ -1,0 +1,7 @@
+569713244320837633
+American
+@AmericanAir wht n 👎 experience w/aa reservations #service Tried to be patient with rep and she just disconnects me aa do u record conv.?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:19:56 -0800
+location: nan

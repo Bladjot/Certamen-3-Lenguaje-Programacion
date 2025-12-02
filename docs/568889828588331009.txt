@@ -1,0 +1,7 @@
+568889828588331009
+Delta
+@JetBlue I'm flying your airline just out of #LGA 😷
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 13:47:59 -0800
+location: brooklyn

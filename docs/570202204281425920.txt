@@ -1,0 +1,7 @@
+570202204281425920
+American
+@AmericanAir  Yes I do bit you don't follow me so I can't DM you
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 04:42:54 -0800
+location: nan

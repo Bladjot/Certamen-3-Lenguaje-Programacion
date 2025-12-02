@@ -1,0 +1,7 @@
+567868027376517121
+Delta
+@JetBlue yep it's for tomorrow.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 18:07:42 -0800
+location: nan

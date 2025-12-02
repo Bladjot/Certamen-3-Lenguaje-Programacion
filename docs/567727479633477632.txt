@@ -1,0 +1,7 @@
+567727479633477632
+US Airways
+@USAirways please give Tara G a pat on the back and praise.  She was very very helpful.  She is at PHL member lounge
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 08:49:13 -0800
+location: Maine

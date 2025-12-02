@@ -1,0 +1,7 @@
+569903088632352769
+American
+@AmericanAir I'm still patiently waiting for a response to my complaint email on Fri. What is the normal response time?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 08:54:19 -0800
+location: Saint LOUis

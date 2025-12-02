@@ -1,0 +1,7 @@
+569988207489777664
+American
+@AmericanAir I've tried...its @USAirways anyway
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:32:33 -0800
+location: South

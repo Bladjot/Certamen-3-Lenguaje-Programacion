@@ -1,0 +1,7 @@
+567775776582672384
+US Airways
+@usairways you made us miss our flight, first class now I can't even enter the admirals club.  Not happy  dm me to fix this.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 12:01:08 -0800
+location: St. Louis, MO

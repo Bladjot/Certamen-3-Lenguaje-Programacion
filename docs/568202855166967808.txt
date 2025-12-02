@@ -1,0 +1,7 @@
+568202855166967808
+Southwest
+@SouthwestAir Thanks!!! :)  It is good to air on the side of caution
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 16:18:12 -0800
+location: nan

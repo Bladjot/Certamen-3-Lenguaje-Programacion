@@ -1,0 +1,7 @@
+569264118219214848
+Southwest
+@SouthwestAir okay I understand a delay one way. But both ways? C'mon #annoyed #flights
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 14:35:16 -0800
+location: Los Angeles, CA

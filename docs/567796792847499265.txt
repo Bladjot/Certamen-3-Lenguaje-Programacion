@@ -1,0 +1,7 @@
+567796792847499265
+US Airways
+@USAirways I don't know I've tried to call for confirmation but calls aren't going thru. Can you let me know?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 13:24:39 -0800
+location: Research Triangle Park, N.C.

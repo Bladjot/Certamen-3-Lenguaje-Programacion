@@ -1,0 +1,7 @@
+568918759664021504
+United
+@united roundtrip to London on @Delta ? I think I will! FYI that's another $1k you just lost. #moneynotspentonunited #unfriendlyskies
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 15:42:56 -0800
+location: New York, NY

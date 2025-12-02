@@ -1,0 +1,7 @@
+570038962561134594
+Delta
+@JetBlue there were seats but after waiting on hold for 20 minutes they were gone-now she has to stay another night in charleston-very pricy
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 17:54:14 -0800
+location: NYC/RVC/CHS/WASH DC

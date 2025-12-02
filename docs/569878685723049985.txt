@@ -1,0 +1,7 @@
+569878685723049985
+Southwest
+@SouthwestAir thanks for linking to #Passbook. Might be old news but this is my first 2015 flight.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:17:21 -0800
+location: Omaha, NE

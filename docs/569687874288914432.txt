@@ -1,0 +1,7 @@
+569687874288914432
+Delta
+@JetBlue i only take jetblue to travel and i have to go to maimi next year but you guys dont go to maimi😭 why dont you guys go to maimi???
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:39:08 -0800
+location: nan

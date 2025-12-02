@@ -1,0 +1,7 @@
+568677317590937600
+United
+@united Another unfortunate case of bad luck, usually maintenance issue. They are now swapping planes to ONT, will get in Late Flight. :(
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 23:43:32 -0800
+location: nan

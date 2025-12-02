@@ -1,0 +1,7 @@
+569621598849748993
+United
+@united 4994 out of Jackson, Wyoming... Delayed by no pilots.. Full toilets.. Deplaned 2ndary to mechanical fail.. Cancelled Flightled flight pending
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:15:46 -0800
+location: nan

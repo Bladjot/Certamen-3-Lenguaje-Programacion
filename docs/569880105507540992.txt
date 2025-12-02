@@ -1,0 +1,7 @@
+569880105507540992
+Delta
+@JetBlue Understood but I watched as fam heading to FL was expedited when they had 25m to takeoff. I am speaking at conference in SF
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 07:22:59 -0800
+location: Boston, MA

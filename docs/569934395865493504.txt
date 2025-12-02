@@ -1,0 +1,7 @@
+569934395865493504
+Virgin America
+@VirginAmerica what happened to Doom?!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:58:43 -0800
+location: nan

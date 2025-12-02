@@ -1,0 +1,7 @@
+568883124517494784
+Southwest
+@SouthwestAir how many are left?!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 13:21:20 -0800
+location: TX | CA

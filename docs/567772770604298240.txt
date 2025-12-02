@@ -1,0 +1,7 @@
+567772770604298240
+Delta
+@JetBlue Great thanks
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 11:49:11 -0800
+location: New York City

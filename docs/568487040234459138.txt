@@ -1,0 +1,7 @@
+568487040234459138
+Delta
+@JetBlue But jet blue had Cancelled Flighted my ticket &amp; never reissued it.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 11:07:27 -0800
+location: nan

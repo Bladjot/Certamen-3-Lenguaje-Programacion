@@ -1,0 +1,7 @@
+567760060080599040
+United
+@united on a good note, the 2 employees I encountered @ Newark were fabulous. I was very Late Flight for my connecting flight and they got me on!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 10:58:41 -0800
+location: Plattsburgh, New York

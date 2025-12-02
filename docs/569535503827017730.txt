@@ -1,0 +1,7 @@
+569535503827017730
+United
+@united I sent you a DM as requested but have not heard anything. Can you address the issue I brought up in my DM and explain what happened?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 08:33:40 -0800
+location: Fredericksburg, VA

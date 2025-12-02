@@ -1,0 +1,7 @@
+568531076915662848
+Delta
+@JetBlue thanks for your help! #jetbluesofly
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 14:02:26 -0800
+location: Boston College

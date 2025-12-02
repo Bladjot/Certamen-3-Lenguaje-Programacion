@@ -1,0 +1,7 @@
+568793043664560128
+United
+@united 2nd time in a row  I've been over charged by 100's of $$ on my plane ticket WHY? #united I shouldn't have to check my CC everytime
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 07:23:23 -0800
+location: New York, Ny

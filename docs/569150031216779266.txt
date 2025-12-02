@@ -1,0 +1,7 @@
+569150031216779266
+United
+@united terrible service for military members and their families. #ridiculous #UnitedAirlines
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 07:01:56 -0800
+location: nan

@@ -1,0 +1,7 @@
+569644310045417472
+Southwest
+@SouthwestAir has a beautiful fleet. What a perfect evening to fly! http://t.co/XMZ3Tf9Ix8
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 15:46:01 -0800
+location: Houston, TX

@@ -1,0 +1,7 @@
+568144831496593408
+United
+@united now you've lost my bags too.  At least nobody has done anything to help out.  This is absurd.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 12:27:38 -0800
+location: columbus, oh

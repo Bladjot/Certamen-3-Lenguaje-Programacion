@@ -1,0 +1,7 @@
+569613611510960128
+American
+@AmericanAir Hi guys checking in US/AA 639 JFK PHX and renewed Admirals Club today.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 13:44:02 -0800
+location: nan

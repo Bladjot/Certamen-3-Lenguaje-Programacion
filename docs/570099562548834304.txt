@@ -1,0 +1,7 @@
+570099562548834304
+American
+@AmericanAir attended to and corrected my complaints via Twitter. Whoa. This is the brave, new world we live in. Thank you, American Air :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 21:55:02 -0800
+location: LA

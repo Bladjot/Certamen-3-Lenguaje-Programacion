@@ -1,0 +1,7 @@
+567744963870752768
+US Airways
+@USAirways issues are not with people who r nice or storm emails with wrong phone numbers auto rebooked flights to non connecting cities
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 09:58:42 -0800
+location: Raleigh,NC

@@ -1,0 +1,7 @@
+570006707935571969
+American
+@AmericanAir rebooked into a different airport. Throwing a wrench into plans 👀
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 15:46:04 -0800
+location: Washington, D.C.

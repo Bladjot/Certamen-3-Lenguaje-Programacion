@@ -1,0 +1,7 @@
+569551374867939328
+US Airways
+@USAirways Uh yeah. Flight boarded &amp; now 1 hr Late Flightr we still sit. Update on 4435 to DCA?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 09:36:44 -0800
+location: Washington, DC

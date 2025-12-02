@@ -1,0 +1,7 @@
+568474960097878016
+Delta
+@JetBlue it's noting about me i m perfectly fine it's the attitude and dealings with flyers. Stubborn. Demanding. Unwilling to accommodate.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-19 10:19:26 -0800
+location: NY NY

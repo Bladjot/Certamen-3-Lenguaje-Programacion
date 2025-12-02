@@ -1,0 +1,7 @@
+569857157778132993
+American
+@AmericanAir requested a call back at 1am. My Cancelled Flighted flight through DFW shouldn't take this long to reroute. You're Customer Service lacks
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 05:51:48 -0800
+location: Bentonville, Arkansas

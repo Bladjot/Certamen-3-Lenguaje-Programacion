@@ -1,0 +1,7 @@
+568805696780824576
+Virgin America
+@VirginAmerica Hi! Just wanted to see if you have any new routes planned this year for Newark. Love flying you guys and hope to do so more!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 08:13:40 -0800
+location: Hoboken, NJ

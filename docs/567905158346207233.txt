@@ -1,0 +1,7 @@
+567905158346207233
+Delta
+@JetBlue's #ValentinesDay email was on point &amp; so clever! Thanks for being amazing, #JetBlue! #loveisintheair http://t.co/DoCmvoTWTI
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 20:35:15 -0800
+location: nan

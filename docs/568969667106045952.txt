@@ -1,0 +1,7 @@
+568969667106045952
+US Airways
+@usairways I purchased a $49 upgrade on a flight 2 weeks ago and you gave it to someone else but I have not received a refund. Is this SOP?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 19:05:14 -0800
+location: Austin, TX

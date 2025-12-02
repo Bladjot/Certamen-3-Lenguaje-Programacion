@@ -1,0 +1,7 @@
+569950355330506752
+United
+@united Nope - still no one helped me.  Giving up on united. #badservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 12:02:08 -0800
+location: Oakland, CA

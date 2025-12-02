@@ -1,0 +1,7 @@
+568083588308197376
+Delta
+@JetBlue you are missing the point. The flight left an hour Late Flight. Why are you allowed to be that Late Flight, and still charge me $50 and 10hrs?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 08:24:16 -0800
+location: NYC

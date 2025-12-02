@@ -1,0 +1,7 @@
+570002509906837504
+Delta
+@JetBlue Our non-profit ARC would love tickets as we rely on airlines for extractions in saving abducted children and returning them Home!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 15:29:23 -0800
+location: hermosa beach california

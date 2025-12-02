@@ -1,0 +1,7 @@
+569930942833258496
+United
+@united Flight 211/ORD gate agent tried to prevent me from taking onboard a bag I've used for 15 years! Flight crew was more reasonable!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 10:45:00 -0800
+location: Indiana

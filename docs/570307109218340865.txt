@@ -1,0 +1,7 @@
+570307109218340865
+US Airways
+@USAirways is not the new @AmericanAir is more like the new @SpiritAirlines. Love AA. Not impressed with the subpar planes and gate agents.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 11:39:45 -0800
+location: nan

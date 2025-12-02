@@ -1,0 +1,7 @@
+568141110217805824
+United
+@united I usually like flying with you guys but $200 fee to use my credit seems ridiculous #notcool #exhorbitantfees
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 12:12:50 -0800
+location: new york city

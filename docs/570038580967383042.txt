@@ -1,0 +1,7 @@
+570038580967383042
+American
+.@AmericanAir Advised GAs and pilot of my flight. Too bad no one took action.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 17:52:43 -0800
+location: Austin, Texas area

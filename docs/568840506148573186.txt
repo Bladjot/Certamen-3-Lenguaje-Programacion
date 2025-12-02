@@ -1,0 +1,7 @@
+568840506148573186
+Delta
+@JetBlue i love this song &lt;3 thanks @JetBlue
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 10:31:59 -0800
+location: nan

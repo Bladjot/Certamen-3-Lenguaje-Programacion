@@ -1,0 +1,7 @@
+569674873787658240
+Southwest
+@SouthwestAir flying by myself is getting old
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:47:28 -0800
+location: nan

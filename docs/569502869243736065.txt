@@ -1,0 +1,7 @@
+569502869243736065
+United
+@united your airline has been telling me that my luggage is one hour away from my destination for 5 days!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 06:23:59 -0800
+location: nan

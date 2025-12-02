@@ -1,0 +1,7 @@
+570289777184002048
+United
+@united See? We were told repeatedly that the pilot was Late Flight and kept getting Late Flightr.  After we boarded, there was a defibrillator issue.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 10:30:53 -0800
+location: nan

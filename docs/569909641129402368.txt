@@ -1,0 +1,7 @@
+569909641129402368
+US Airways
+@USAirways When I check online it states status closed. What does this mean? As I have yet been able to reach a live person...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:20:21 -0800
+location: nan

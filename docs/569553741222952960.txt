@@ -1,0 +1,7 @@
+569553741222952960
+United
+@united just touched down in Miami - not too far off , Nicely done united 👍
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 09:46:08 -0800
+location: 201-600-2130

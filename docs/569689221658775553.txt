@@ -1,0 +1,7 @@
+569689221658775553
+American
+@AmericanAir #americanview New paint scheme looks great! #usairways http://t.co/Gt6umHbh43
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 18:44:29 -0800
+location: USA

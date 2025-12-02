@@ -1,0 +1,7 @@
+567718099794006016
+US Airways
+@USAirways your service has been awful in Boston and I had to pay 25 extra dollars than I was supposed too I am very dissatisfied #mad
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 08:11:57 -0800
+location: nan

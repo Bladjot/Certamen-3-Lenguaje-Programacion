@@ -1,0 +1,7 @@
+568766741746225152
+Delta
+@JetBlue Why was flight 669 forced to return to NY when there was a malfunction? Why not land in the countless air strips surrounding Chi?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 05:38:53 -0800
+location: New York City, NY

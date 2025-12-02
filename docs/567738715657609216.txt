@@ -1,0 +1,7 @@
+567738715657609216
+Southwest
+@SouthwestAir can you follow me? Flight Cancelled Flightled, can't rebook online, been on hold for 2 hours.  Would love to DM flight info. Thank you.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 09:33:52 -0800
+location: nan

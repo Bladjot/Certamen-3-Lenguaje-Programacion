@@ -1,0 +1,7 @@
+567813060027772928
+Southwest
+@SouthwestAir extremely #disappointed with poor the customer service provided after Cancelled Flighting my flight today! #unprofessional
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 14:29:17 -0800
+location: St. Petersburg

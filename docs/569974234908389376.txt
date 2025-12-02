@@ -1,0 +1,7 @@
+569974234908389376
+American
+@AmericanAir thanks, I'll look forward to the response.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 13:37:01 -0800
+location: Charlottesville, VA

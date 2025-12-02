@@ -1,0 +1,7 @@
+569496193249767424
+US Airways
+@USAirways Our flight was Cancelled Flightled &amp; chaos abounds. I am in good humour. Please give me free everything to appease me.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 05:57:27 -0800
+location: nan

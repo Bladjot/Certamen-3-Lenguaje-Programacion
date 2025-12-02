@@ -1,0 +1,7 @@
+569971756498329600
+American
+@AmericanAir Thank you so much.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 13:27:10 -0800
+location: ÜT: 41.498967,2.186957

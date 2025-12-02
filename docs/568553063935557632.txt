@@ -1,0 +1,7 @@
+568553063935557632
+US Airways
+@USAirways never fails to disappoint.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 15:29:48 -0800
+location: Naples, FL

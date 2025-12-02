@@ -1,0 +1,7 @@
+568172170569887744
+United
+@united How many 787s do you currently operate and what other aircraft do you operate?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 14:16:16 -0800
+location: roblox.com

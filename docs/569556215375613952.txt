@@ -1,0 +1,7 @@
+569556215375613952
+Southwest
+@SouthwestAir As a frequent traveler, I've never been treated so coldly &amp; had an airline offer nothing when my flight was Cancelled Flightled. #nolove
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 09:55:58 -0800
+location: nan

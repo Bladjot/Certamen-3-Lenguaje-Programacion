@@ -1,0 +1,7 @@
+569639784819372032
+US Airways
+@usairways hopefully your crappy service improves as u become @americanairlines #angryairtravel #winterstorm
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:28:02 -0800
+location: St. Augustine, Florida

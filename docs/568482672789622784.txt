@@ -1,0 +1,7 @@
+568482672789622784
+US Airways
+@USAirways a year and every time with US Air something happens. I sat waiting for a re-scheduled flight for 10 hours then to say its
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 10:50:05 -0800
+location: Liverpool, UK

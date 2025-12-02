@@ -1,0 +1,7 @@
+568724832898162688
+US Airways
+.@USAirways I rebooked myself - but Cancelled Flighting flight because crew expired after boarding is unacceptable. You started delaying at 1:30pm.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 02:52:21 -0800
+location: nan

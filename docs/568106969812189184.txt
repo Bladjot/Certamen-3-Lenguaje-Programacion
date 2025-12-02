@@ -1,0 +1,7 @@
+568106969812189184
+Delta
+@JetBlue ask @j_beatz247 but I teach marketing at a university and will gladly consult on customer service and how NOT to treat passengers.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 09:57:11 -0800
+location: New Orleans, LA

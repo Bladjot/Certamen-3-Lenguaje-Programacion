@@ -1,0 +1,7 @@
+569745728693784576
+US Airways
+@USAirways the call hung up on me..
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 22:29:01 -0800
+location: Michigan ➡️ Florida

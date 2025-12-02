@@ -1,0 +1,7 @@
+569769214388473857
+American
+@AmericanAir wait times of 2 hours to talk with an exec plt agent, what is going on!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 00:02:21 -0800
+location: nan

@@ -1,0 +1,7 @@
+570040411206631424
+American
+@AmericanAir He thanks you. Anything you can do to help. Would any further information help in the process?
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 17:59:59 -0800
+location: New York

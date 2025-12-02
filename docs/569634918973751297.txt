@@ -1,0 +1,7 @@
+569634918973751297
+American
+@AmericanAir Cancelled Flightled my flight, didn't notify me, and I can only rebook by phone, but can't get through to an agent. Epic. Fail.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 15:08:42 -0800
+location: nan

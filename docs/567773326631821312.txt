@@ -1,0 +1,7 @@
+567773326631821312
+Delta
+@JetBlue Thank you for the service credit. And to @PamGrout for positive thoughts.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 11:51:24 -0800
+location: austin, texas

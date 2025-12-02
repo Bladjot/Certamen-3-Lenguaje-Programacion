@@ -1,0 +1,7 @@
+569689370988408832
+American
+@AmericanAir 1 ticket agent servicing at least 60 people on line. Waiting for an hour and a half and your phones hang up on people.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:45:05 -0800
+location: Washington, DC

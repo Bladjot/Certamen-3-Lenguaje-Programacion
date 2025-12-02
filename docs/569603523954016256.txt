@@ -1,0 +1,7 @@
+569603523954016256
+US Airways
+@USAirways your customer service at CLT is terrible!!! My flight was delayed from JFK for 2 hours!  Get to CLT to horrid customer service!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:03:57 -0800
+location: World Wide

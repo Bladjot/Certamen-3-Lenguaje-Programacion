@@ -1,0 +1,7 @@
+569480693782339584
+United
+@united Do you have plans for an iPad app?  The iPhone app is great, but on the  iPad you have to flip the iPad.  Is there a beta? Tks.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 04:55:52 -0800
+location: Metro DC Area

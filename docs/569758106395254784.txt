@@ -1,0 +1,7 @@
+569758106395254784
+American
+@AmericanAir Can you check on he status of my EXP membership card? Need the physical card to access some international lounges soon.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 23:18:12 -0800
+location: nan

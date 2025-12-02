@@ -1,0 +1,7 @@
+568492653987418112
+US Airways
+@USAirways flight 1783 CLT to BOS
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 11:29:45 -0800
+location: nan

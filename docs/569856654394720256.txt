@@ -1,0 +1,7 @@
+569856654394720256
+United
+@united WHERE IS MY RECEIPT! I upgraded return leg and 6 months Late Flightr still NO receipt! http://t.co/DAjWzhLVyu
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 05:49:48 -0800
+location: London

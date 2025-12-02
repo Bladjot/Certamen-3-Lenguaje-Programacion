@@ -1,0 +1,7 @@
+569589493138731009
+United
+@united - well, now finally on board hopefully we take off this time and quickly. Well over an hour delay!!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 12:08:12 -0800
+location: nan

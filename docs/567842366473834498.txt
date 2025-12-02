@@ -1,0 +1,7 @@
+567842366473834498
+US Airways
+@USAirways  thank you! Glad to be heading home! Great people at your call center!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 16:25:44 -0800
+location: nan

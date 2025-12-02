@@ -1,0 +1,7 @@
+569937408013176832
+Delta
+“@JetBlue: Our fleet's on fleek. http://t.co/5xGnyHGAFz” this is what I hate
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 11:10:41 -0800
+location: nan

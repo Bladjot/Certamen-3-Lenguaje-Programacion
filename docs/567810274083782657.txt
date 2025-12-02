@@ -1,0 +1,7 @@
+567810274083782657
+United
+@united @gg8929 Ladies and gents - United Airlines...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:18:13 -0800
+location: London, UK

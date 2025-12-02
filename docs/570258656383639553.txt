@@ -1,0 +1,7 @@
+570258656383639553
+American
+@AmericanAir second pic from CDG?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:27:13 -0800
+location: Castellon & Daytona Beach FL

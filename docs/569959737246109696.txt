@@ -1,0 +1,7 @@
+569959737246109696
+Delta
+@JetBlue Not helping since there's a bunch of us trying to get off at the same time.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 12:39:25 -0800
+location: nan

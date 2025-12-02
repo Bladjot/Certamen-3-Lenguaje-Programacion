@@ -1,0 +1,7 @@
+567732372997963777
+US Airways
+@USAirways flight #3900 fro ORF to PHL.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:08:40 -0800
+location: nan

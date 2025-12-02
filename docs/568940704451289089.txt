@@ -1,0 +1,7 @@
+568940704451289089
+Delta
+@JetBlue who do you think is gonna win Mayweather or Pacquiao?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 17:10:09 -0800
+location: .

@@ -1,0 +1,7 @@
+567780486978609152
+Delta
+@JetBlue I applied for a job at PDW where could I go for follow up. I'd really love the job #ilovejetblue
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 12:19:51 -0800
+location: pnw

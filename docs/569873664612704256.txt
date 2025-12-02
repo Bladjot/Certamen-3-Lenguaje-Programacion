@@ -1,0 +1,7 @@
+569873664612704256
+Virgin America
+@VirginAmerica has getaway deals through May, from $59 one-way. Lots of cool cities http://t.co/QDlJHslOI5 #CheapFlights #FareCompare
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 06:57:24 -0800
+location: Los Angeles, CA

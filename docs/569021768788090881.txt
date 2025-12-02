@@ -1,0 +1,7 @@
+569021768788090881
+United
+@united I had planned to book additional flights tonight but after 1 1/2 hrs working on one trip I'm worn out! #EnoughIsEnough
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 22:32:16 -0800
+location: Chicago, IL

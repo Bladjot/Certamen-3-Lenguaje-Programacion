@@ -1,0 +1,7 @@
+569301244948324353
+Southwest
+@SouthwestAir I'll do that. Can't DM until you follow me. Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 17:02:48 -0800
+location: Charleston, SC

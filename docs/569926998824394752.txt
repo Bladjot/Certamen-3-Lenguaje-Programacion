@@ -1,0 +1,7 @@
+569926998824394752
+Virgin America
+@VirginAmerica I’m having trouble adding this flight my wife booked to my Elevate account. Help? http://t.co/pX8hQOKS3R
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 10:29:19 -0800
+location: Lower Pacific Heights, SF, CA

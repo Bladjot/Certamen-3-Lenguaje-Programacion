@@ -1,0 +1,7 @@
+569532793530785792
+US Airways
+@USAirways I got rebooked at 3am after they woke me up just tried to call twice and got hung up on. Worst customer service.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 08:22:54 -0800
+location: Wonderland

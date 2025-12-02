@@ -1,0 +1,7 @@
+570232616755929088
+Delta
+@JetBlue glad you like it. Feel free to steal it.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 06:43:44 -0800
+location: Boston, MA

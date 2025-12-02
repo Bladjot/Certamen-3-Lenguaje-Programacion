@@ -1,0 +1,8 @@
+569865352986951680
+Southwest
+@SouthwestAir 
+How do I get a companion pass??? Thanks,  Lin S
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 06:24:22 -0800
+location: Tipp City, Ohio

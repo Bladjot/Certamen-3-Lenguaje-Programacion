@@ -1,0 +1,7 @@
+569680398185312256
+American
+@AmericanAir I'm booked for Tuesday night. 60 degrees in Alabama right now. I'm good. Stay warm and safe.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 18:09:25 -0800
+location: Frisco, Texas

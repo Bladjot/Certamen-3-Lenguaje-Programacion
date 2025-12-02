@@ -1,0 +1,7 @@
+568194475077570560
+US Airways
+@USAirways my TSA precheck isn't showing up on my boarding pass for my flight tomorrow...help!? #USAirways #TSAPreCheck
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 15:44:54 -0800
+location: Philadelphia, PA

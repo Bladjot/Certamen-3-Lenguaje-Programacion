@@ -1,0 +1,7 @@
+569576099018985472
+Delta
+@JetBlue When I got your alert, I immediately started looking to rebook. But we only had 11 minutes from reFlight Booking Problems to catch a flight to SRQ.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 11:14:58 -0800
+location: Sarasota, FL

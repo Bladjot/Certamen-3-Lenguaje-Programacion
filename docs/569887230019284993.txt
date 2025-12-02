@@ -1,0 +1,7 @@
+569887230019284993
+Southwest
+@SouthwestAir Thanks! Confirmation number just DMed. Appreciate any help!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 07:51:18 -0800
+location: Des Moines, IA

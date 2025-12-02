@@ -1,0 +1,7 @@
+569168102212001793
+Southwest
+@southwestair @cspkcats let us know if we can help
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 08:13:44 -0800
+location: Singapore

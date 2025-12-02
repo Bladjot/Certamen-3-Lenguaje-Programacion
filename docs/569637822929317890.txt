@@ -1,0 +1,7 @@
+569637822929317890
+US Airways
+@USAirways @AmericanAir  nvm my bad it's been an hour and a half #thanks
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:20:15 -0800
+location: nan

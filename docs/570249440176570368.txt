@@ -1,0 +1,7 @@
+570249440176570368
+American
+@AmericanAir Kudos to the captain and crew for handling fustrated people while dealing with the preventable issues and shortcomings by maint
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 07:50:35 -0800
+location: nan

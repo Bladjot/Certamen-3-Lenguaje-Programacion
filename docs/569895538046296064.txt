@@ -1,0 +1,7 @@
+569895538046296064
+American
+@AmericanAir @cnnbrk they didn't address the assult or drinks spilled on her  the drunk passenger had to have a wheelchair to get off plane
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 08:24:19 -0800
+location: Belle MO

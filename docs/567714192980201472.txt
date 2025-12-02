@@ -1,0 +1,7 @@
+567714192980201472
+United
+@united last night we waited forever at the gate because someone from corporate dispatch FORGOT to call the crew #unfriendlyskies
+sentiment: negative
+negativereason: longlines
+created: 2015-02-17 07:56:25 -0800
+location: ÜT: 40.976702,-72.210688

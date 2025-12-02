@@ -1,0 +1,7 @@
+569705786408079360
+Delta
+@JetBlue apparently the plane was delayed coming up from San Juan. Monsoon there today?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 19:50:18 -0800
+location: Planet Brooklyn

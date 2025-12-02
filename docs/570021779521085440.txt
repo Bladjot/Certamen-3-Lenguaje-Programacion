@@ -1,0 +1,7 @@
+570021779521085440
+Delta
+@JetBlue can your people working this contact me, I have a project in the works.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 16:45:57 -0800
+location: Long Island, NY

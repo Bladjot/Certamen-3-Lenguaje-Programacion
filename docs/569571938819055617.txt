@@ -1,0 +1,7 @@
+569571938819055617
+Delta
+@JetBlue if my flight was delayed can I show up at the airport with the appropriate amount of time for the delay or do I have to go on time?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 10:58:27 -0800
+location: nan

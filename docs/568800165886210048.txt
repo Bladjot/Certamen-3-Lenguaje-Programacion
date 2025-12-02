@@ -1,0 +1,7 @@
+568800165886210048
+US Airways
+@USAirways Still on hold. 1 hour and 45 minutes and counting. Platinum? Who cares? Problems checking in? Who cares?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 07:51:42 -0800
+location: Jamaica

@@ -1,0 +1,7 @@
+568802044309430272
+United
+@united https://t.co/jpd7NsGRT7. Fyi your staff are telling customers to try other carriers
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 07:59:09 -0800
+location: nan

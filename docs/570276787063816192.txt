@@ -1,0 +1,7 @@
+570276787063816192
+United
+@united Thank you for that. Am I able to claim any interim expenses or is the cost of the stuff up on me?
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 09:39:15 -0800
+location: nan

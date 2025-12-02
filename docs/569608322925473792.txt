@@ -1,0 +1,7 @@
+569608322925473792
+United
+@united should hire extra customer service reps. 50 minute wait time to ask one question? I would rather just fly another airline, thanks.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:23:01 -0800
+location: Chicago, IL

@@ -1,0 +1,7 @@
+569330919020093442
+United
+@united After all I have been through on this trip, can you get me on another airline home?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 19:00:43 -0800
+location: Rhode Island

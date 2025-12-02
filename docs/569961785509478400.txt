@@ -1,0 +1,7 @@
+569961785509478400
+Delta
+Lol, k. “@JetBlue: Our fleet's on fleek. http://t.co/IUX94Rgc83”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:47:33 -0800
+location: Wherever the bacon is, USA

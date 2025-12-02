@@ -1,0 +1,7 @@
+569184886424268800
+Southwest
+@SouthwestAir trying to get anyone on phone. Flt Cancelled Flighted. Please get me to Denver.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 09:20:26 -0800
+location: Murfreesboro, TN

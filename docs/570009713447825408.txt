@@ -1,0 +1,7 @@
+570009713447825408
+Virgin America
+@VirginAmerica @ladygaga @carrieunderwood All were entertaining
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 15:58:00 -0800
+location: nan

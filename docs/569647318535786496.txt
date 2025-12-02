@@ -1,0 +1,7 @@
+569647318535786496
+US Airways
+@USAirways been on hold for over and hour now.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:57:58 -0800
+location: Beaufort, SC

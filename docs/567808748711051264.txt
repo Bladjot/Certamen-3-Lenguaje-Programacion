@@ -1,0 +1,7 @@
+567808748711051264
+Delta
+@JetBlue Call me when you do and we’ll have to hook up!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:12:09 -0800
+location: Wayne, NJ

@@ -1,0 +1,8 @@
+569925940224139264
+American
+@AmericanAir #AmericanView
+The view of Oregon from seat 31F, flight AA1469 2/22/15 http://t.co/t9JBN9WZtq
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:25:07 -0800
+location: nan

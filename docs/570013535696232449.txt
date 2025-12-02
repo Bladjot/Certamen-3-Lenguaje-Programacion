@@ -1,0 +1,7 @@
+570013535696232449
+US Airways
+@USAirways and yet the Flight Attendant argued with me over Exec Plat benefits...
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 16:13:11 -0800
+location: BTR/DCA/IAD/MSY - etc

@@ -1,0 +1,7 @@
+570284840752427008
+Delta
+@JetBlue can't book a flight because of outdated, forced opt-in "Verified by Visa" nonsense. Help a girl out? I just want to get to @sxsw
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 10:11:16 -0800
+location: Boston, MA

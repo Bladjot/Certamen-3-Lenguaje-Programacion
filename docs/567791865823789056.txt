@@ -1,0 +1,7 @@
+567791865823789056
+US Airways
+@USAirways have done that. Sadly no flight from CLT has gotten to IND today and we head back to Tampa tmrw.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 13:05:04 -0800
+location: Tampa

@@ -1,0 +1,7 @@
+569556500928188416
+US Airways
+@USAirways luggage and contents destroyed both on outbound trip last week&amp;inbound lastnight in philadelphia #Careless
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-22 09:57:06 -0800
+location: Tipperary, Ireland

@@ -1,0 +1,7 @@
+569503938690584576
+United
+@United why can't you have an English/Spanish rep call me so we can locate my bag and resolve this issue?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 06:28:14 -0800
+location: nan

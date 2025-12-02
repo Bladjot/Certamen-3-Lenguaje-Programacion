@@ -1,0 +1,7 @@
+569875024045314048
+American
+@AmericanAir BRING MY FIANCÉ @meerikangas BACK TO ME!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 07:02:48 -0800
+location: nan

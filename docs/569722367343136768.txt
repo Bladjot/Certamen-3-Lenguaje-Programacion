@@ -1,0 +1,7 @@
+569722367343136768
+Delta
+@JetBlue mint seats are AWESOME! :-) @emaleesugano best business class in the US!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 20:56:11 -0800
+location: nan

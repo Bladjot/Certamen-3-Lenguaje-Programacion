@@ -1,0 +1,7 @@
+568180799838801920
+United
+@united they are all -pilots, FA and ground personnel doing a great job. Weather is to blame... Who do I talk to about that :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 14:50:33 -0800
+location: Boston, MA

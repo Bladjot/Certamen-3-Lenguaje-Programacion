@@ -1,0 +1,7 @@
+567856962521661440
+Delta
+@JetBlue Thank you for your excellent customer service - resolved issue quickly.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 17:23:44 -0800
+location: Long Island, NY

@@ -1,0 +1,7 @@
+567732811772080129
+Delta
+@JetBlue well lucky I only fly JB..I guess I would be even more squished on any other airline 😞
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 09:10:24 -0800
+location: NYC | NOLA

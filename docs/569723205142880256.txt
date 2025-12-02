@@ -1,0 +1,7 @@
+569723205142880256
+American
+@AmericanAir Thanx for replying. DM sent
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 20:59:31 -0800
+location: nan

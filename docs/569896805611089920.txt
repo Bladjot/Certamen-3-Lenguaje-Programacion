@@ -1,0 +1,7 @@
+569896805611089920
+Virgin America
+@virginamerica What is your phone number. I can't find who to call about a flight reservation.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 08:29:21 -0800
+location: Sterling Heights, MI

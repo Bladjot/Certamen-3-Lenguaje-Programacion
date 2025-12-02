@@ -1,0 +1,7 @@
+568917261869674497
+United
+@united I will! On @AmericanAir @SouthwestAir @Delta or @JetBlue  all of which will be getting my business. #unfriendlyskies #unbelievable
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 15:36:59 -0800
+location: New York, NY

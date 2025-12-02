@@ -1,0 +1,7 @@
+569165227847102465
+Southwest
+@SouthwestAir - Hi Janet in customer service. I'm calling you back and have been sitting in que for 40 mins! Plz pick it up!!! #frustrated
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 08:02:19 -0800
+location: Austin, TX

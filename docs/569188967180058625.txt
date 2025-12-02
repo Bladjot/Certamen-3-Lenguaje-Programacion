@@ -1,0 +1,7 @@
+569188967180058625
+United
+@united Yeah that didn't happen!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 09:36:39 -0800
+location: nan

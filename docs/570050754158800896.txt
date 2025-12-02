@@ -1,0 +1,7 @@
+570050754158800896
+American
+@AmericanAir the issue wasn't a long wait. It was an infinite do loop. Your system didn't let me (or any customer) wait or leave a message.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 18:41:05 -0800
+location: Seattle, WA, USA

@@ -1,0 +1,7 @@
+569746288499138560
+American
+@AmericanAir - Hanging up on customers with no chance for a callback is a failure of customer service. 1:30am EST and no one can answer? 2/2
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 22:31:15 -0800
+location: 41.301208,-81.750618

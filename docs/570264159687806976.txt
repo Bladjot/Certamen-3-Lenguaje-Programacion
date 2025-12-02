@@ -1,0 +1,7 @@
+570264159687806976
+American
+@AmericanAir the flight is not going to make the connection to #MEX #AA2444
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 08:49:05 -0800
+location: nan

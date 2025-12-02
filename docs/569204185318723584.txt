@@ -1,0 +1,7 @@
+569204185318723584
+Delta
+@JetBlue Thank you Alicia!  #ExceptionalService
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 10:37:07 -0800
+location: nan

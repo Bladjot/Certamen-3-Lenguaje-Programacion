@@ -1,0 +1,7 @@
+570248242853773312
+US Airways
+@USAirways haha no worries you guys are the best!  +1 for spelling my name correctly
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 07:45:50 -0800
+location: Boston, MA

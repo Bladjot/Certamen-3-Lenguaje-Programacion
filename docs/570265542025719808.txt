@@ -1,0 +1,7 @@
+570265542025719808
+United
+@united mobile apps need construction from the ground up for each OS category.  It's expensive to get right .
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 08:54:34 -0800
+location: nan

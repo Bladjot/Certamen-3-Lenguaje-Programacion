@@ -1,0 +1,7 @@
+570061339604987904
+United
+@united load balancing system apparently down #systemwide - major impact on all #united airlines flights. Was this a #cyberattack?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 19:23:09 -0800
+location: nan

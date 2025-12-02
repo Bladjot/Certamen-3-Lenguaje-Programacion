@@ -1,0 +1,7 @@
+569618317440208896
+United
+@united is the stingiest airline. Nobody should model after them. #PTFO #cheap #bastards #stingy
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 14:02:44 -0800
+location: Houston, TX

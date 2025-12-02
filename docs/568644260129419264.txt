@@ -1,0 +1,7 @@
+568644260129419264
+United
+@united here is my case id 8473573. Requested on 2/5, now it's 2/19... 7-10 days I'll get a response, BS!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 21:32:11 -0800
+location: Los Angeles, CA

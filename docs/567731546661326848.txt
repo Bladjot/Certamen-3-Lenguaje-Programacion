@@ -1,0 +1,7 @@
+567731546661326848
+Southwest
+@SouthwestAir just disconnected my call after 2.5 hours without even speaking to me. #octaviannightmare
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 09:05:23 -0800
+location: nan

@@ -1,0 +1,7 @@
+569968010431066112
+American
+@AmericanAir work on the comm skills w hate agents at PHX. Said I was confirmed on flight out of DFW &amp; got here and that was only standby.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:12:17 -0800
+location: Iowa City, IA

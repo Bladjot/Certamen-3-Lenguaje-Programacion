@@ -1,0 +1,7 @@
+567896042093617153
+Southwest
+@SouthwestAir Engadget Theverge Wired reddit
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 19:59:02 -0800
+location: Oakdale, CA

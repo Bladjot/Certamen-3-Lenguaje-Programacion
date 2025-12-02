@@ -1,0 +1,7 @@
+569274123525844994
+Delta
+@JetBlue how long does it take for a bag to get to the baggage belt!!!!!#toolong of a wait
+sentiment: negative
+negativereason: longlines
+created: 2015-02-21 15:15:02 -0800
+location: nan

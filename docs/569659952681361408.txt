@@ -1,0 +1,7 @@
+569659952681361408
+US Airways
+@USAirways @AmericanAir Any word on accommodations for the passengers on US 746 when they arrive in Charlotte? Lot of tired passengers here
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 16:48:11 -0800
+location: Philadelphia

@@ -1,0 +1,7 @@
+569666926294798338
+US Airways
+@USAirways #fail when the inbound flight arrives after the scheduled outbound departure, and still "on time" http://t.co/k0MHZrJF6e
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:15:53 -0800
+location: Alexandria, VA

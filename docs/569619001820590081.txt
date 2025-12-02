@@ -1,0 +1,7 @@
+569619001820590081
+United
+@united I have proof that my situation now is due to company mistake
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:05:27 -0800
+location: nan

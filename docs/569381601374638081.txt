@@ -1,0 +1,7 @@
+569381601374638081
+US Airways
+@USAirways i've been on hold since 11:30pm  need to reschedule my Cancelled Flightled flight for a morning departure tomorrow.  please help!!!!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 22:22:07 -0800
+location: nan

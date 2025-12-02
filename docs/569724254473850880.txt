@@ -1,0 +1,7 @@
+569724254473850880
+American
+@AmericanAir Thanks! Are they really open 3.30 am - 7 pm every day? Any way to check they are open before going all the way there? Thanks.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 21:03:41 -0800
+location: Cambridge, MA

@@ -1,0 +1,7 @@
+570106900970221568
+United
+@united This is NOT a local UNITED number for Malaysia   0011 800-55558000. What is your local United Airlines here in Kuala Lumpur ( KUL )?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 22:24:11 -0800
+location: Huntsville AL USA

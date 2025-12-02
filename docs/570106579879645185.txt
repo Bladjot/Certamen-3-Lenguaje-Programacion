@@ -1,0 +1,7 @@
+570106579879645185
+US Airways
+@USAirways the disappointment was not the bag but that it arrived before me and I was kept 12 hrs without options in IAH
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 22:22:55 -0800
+location: Pennsylvania

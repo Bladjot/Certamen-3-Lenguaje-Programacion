@@ -1,0 +1,7 @@
+569419080479875072
+US Airways
+@USAirways 2 hours on hold. Still no answer. Horrible.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 00:51:02 -0800
+location: Adelaide, Australia

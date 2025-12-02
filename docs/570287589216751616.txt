@@ -1,0 +1,7 @@
+570287589216751616
+US Airways
+@USAirways we even offered to fly in to another airport and they said they couldn't do that. No explanation why they can't.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:22:11 -0800
+location: nan

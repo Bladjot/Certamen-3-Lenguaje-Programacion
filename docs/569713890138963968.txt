@@ -1,0 +1,7 @@
+569713890138963968
+American
+@AmericanAir that 2 hr wait became a 4 hr one. And y'all claimed to have sent an email. Yeah, that never happened. #FlyDelta
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 20:22:30 -0800
+location: Arlington, VA

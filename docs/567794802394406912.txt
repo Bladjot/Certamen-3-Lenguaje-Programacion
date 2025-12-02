@@ -1,0 +1,7 @@
+567794802394406912
+Delta
+@JetBlue @CinziannaP thank you! I like the quick response on Twitter!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 13:16:44 -0800
+location: nan

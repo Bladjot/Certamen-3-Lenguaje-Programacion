@@ -1,0 +1,7 @@
+568241382776635392
+Delta
+@JetBlue My mother had overheard a personnel ask the attendant if "the passengers really knew what was going on" and the attendant said no.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 18:51:17 -0800
+location: Waltham, MA

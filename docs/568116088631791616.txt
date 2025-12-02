@@ -1,0 +1,7 @@
+568116088631791616
+Delta
+@JetBlue also. Emergency exit seats. 6'2" and that's a huge win.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 10:33:25 -0800
+location: Mill Creek, WA

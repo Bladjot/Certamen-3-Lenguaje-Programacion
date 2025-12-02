@@ -1,0 +1,12 @@
+568032524749942784
+US Airways
+@USAirways grades for this trip:
+
+Flight timeliness: 👎✈️
+Cancelled Flightations: 👎😬
+Customer Service: 👎😡
+Flight attendants: 😊👏
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 05:01:22 -0800
+location: Atlanta, Ga.

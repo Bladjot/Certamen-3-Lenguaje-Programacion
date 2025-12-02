@@ -1,0 +1,7 @@
+570268420140244992
+American
+@AmericanAir 4th flight rebooked to is NOT Cancelled Flighted! Woo-hoo. Going to make it to @LaGuardiaAir
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 09:06:01 -0800
+location: Plano, Texas

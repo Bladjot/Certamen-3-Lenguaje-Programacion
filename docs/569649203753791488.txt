@@ -1,0 +1,7 @@
+569649203753791488
+US Airways
+@USAirways I need help locating my bag. I arrived in Denver last night at midnight from charlotte but my  8am flight to Hayden/steamboat
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 16:05:28 -0800
+location: nan

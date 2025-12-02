@@ -1,0 +1,7 @@
+567831434838159360
+Delta
+@JetBlue will call. Thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 15:42:18 -0800
+location: NYC

@@ -1,0 +1,7 @@
+569730861593010176
+American
+@AmericanAir I've been on hold with international award reservations for almost 2 hours. 800-433-7300 keeps calling me. what is going on?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 21:29:57 -0800
+location: nan

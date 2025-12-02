@@ -1,0 +1,7 @@
+568167917004718080
+Delta
+@JetBlue only w/ $70 upgrade. Unsure why she can't just switch someone around. I called 24 hrs in advance for this reason.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 13:59:22 -0800
+location: Boston

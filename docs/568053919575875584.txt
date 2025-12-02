@@ -1,0 +1,7 @@
+568053919575875584
+US Airways
+@USAirways what are the odds you can get me on a flight with delta so I can actually get to Orlando today?? #2daysLate Flight
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 06:26:23 -0800
+location: Worthington, Ohio

@@ -1,0 +1,7 @@
+569631027385245696
+United
+@united yes I have &amp; they're unsure when it would come.This has never happened on any airline and my first time with @united #disappointed
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 14:53:14 -0800
+location: nan

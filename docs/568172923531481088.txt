@@ -1,0 +1,7 @@
+568172923531481088
+Delta
+@JetBlue I would go to Las Vegas. It is gorgeous and I go there every year and I fly with you guys Vegas is gorgeous &amp; so much to do there.🌴
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 14:19:15 -0800
+location: NBMA

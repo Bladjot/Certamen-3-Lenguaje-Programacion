@@ -1,0 +1,7 @@
+569950785859145728
+US Airways
+@USAirways It's 838. We boarded and we are waiting now to take off, hopefully.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:03:51 -0800
+location: Portland, Maine

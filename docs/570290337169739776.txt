@@ -1,0 +1,7 @@
+570290337169739776
+American
+@AmericanAir I need a flight out tonight. Isn't there anything else?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 10:33:06 -0800
+location: nan

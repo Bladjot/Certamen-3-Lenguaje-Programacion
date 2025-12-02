@@ -1,0 +1,7 @@
+569364890307190784
+United
+@united if I was rebooked do I have to pick up my luggage?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 21:15:42 -0800
+location: Little Rhody

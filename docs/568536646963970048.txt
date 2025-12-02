@@ -1,0 +1,7 @@
+568536646963970048
+United
+@united  I'm on standby for my connecting flight. 1st on the list.  NudgeNudge I'm told there are four slots open. Save it for me.  Please.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 14:24:34 -0800
+location: Madison, wi

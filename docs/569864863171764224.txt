@@ -1,0 +1,7 @@
+569864863171764224
+American
+@AmericanAir I understand that, but I'm not even being put on hold - it says "try again Late Flightr, goodbye".
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:22:25 -0800
+location: Toronto

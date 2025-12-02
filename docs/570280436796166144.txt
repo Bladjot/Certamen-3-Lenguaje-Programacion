@@ -1,0 +1,7 @@
+570280436796166144
+US Airways
+@USAirways Forget reservations. Thank you to the great leadership at your company, I've Cancelled Flighted my flight. Once again, thank you.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 09:53:46 -0800
+location: Saratoga Springs

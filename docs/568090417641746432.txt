@@ -1,0 +1,7 @@
+568090417641746432
+Delta
+@JetBlue @Cayman_Islands  I know that bar :)  Wish I was there now!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 08:51:24 -0800
+location: right behind you

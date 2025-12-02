@@ -1,0 +1,7 @@
+569570477410275328
+United
+@united welcome to our world, that's a snow world today. @GooseBayAirport Goose Bay, Labrador, Canada. http://t.co/4kI6Xr67nk
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 10:52:38 -0800
+location: Everywhere

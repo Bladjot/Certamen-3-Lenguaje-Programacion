@@ -1,0 +1,7 @@
+569718162595426304
+American
+@AmericanAir Got my bags this morning! Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 20:39:29 -0800
+location: st paul, minnesota

@@ -1,0 +1,7 @@
+570064443159089153
+American
+@AmericanAir your assistance has not been very helpful frustrating disappointing experience &amp; w/small children very inconvenient
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 19:35:29 -0800
+location: New York

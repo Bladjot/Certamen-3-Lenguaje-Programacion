@@ -1,0 +1,7 @@
+567810259675537408
+US Airways
+@USAirways Flight # 604. Thanks.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 14:18:09 -0800
+location: ÜT: 38.907675,-76.944183

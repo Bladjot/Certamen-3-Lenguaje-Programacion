@@ -1,0 +1,7 @@
+568237684277141504
+United
+@united I bet @SouthwestAir doesn't turn a thirty minute delay on an original flight into a 7+ hour delayed arrive time
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 18:36:35 -0800
+location: Houston, TX

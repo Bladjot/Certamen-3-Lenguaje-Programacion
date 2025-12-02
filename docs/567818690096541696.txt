@@ -1,0 +1,7 @@
+567818690096541696
+US Airways
+@USAirways very disappointed I wasn't "allowed" to change seats after checking in early online for a flight tomorrow morning.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 14:51:39 -0800
+location: Philadelphia Suburbs

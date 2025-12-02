@@ -1,0 +1,7 @@
+567776258621464577
+US Airways
+@USAirways we've (flight 4443) been sitting on the tarmac of dca for a while now waiting on a gate. Can we just use another gate?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 12:03:03 -0800
+location: Washington, DC

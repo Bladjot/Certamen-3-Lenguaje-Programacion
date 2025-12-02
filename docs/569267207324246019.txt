@@ -1,0 +1,7 @@
+569267207324246019
+US Airways
+@USAirways can you help us figure out our correct six digit confirmation number?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 14:47:33 -0800
+location: cincinnati, ohio

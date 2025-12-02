@@ -1,0 +1,7 @@
+569623248205430785
+Delta
+@JetBlue kids fly. Don't hire people who don't care about them. This guy. #jetblue http://t.co/clvlhfgUZw
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 14:22:20 -0800
+location: nan

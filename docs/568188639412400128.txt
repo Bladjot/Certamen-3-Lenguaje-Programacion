@@ -1,0 +1,7 @@
+568188639412400128
+Delta
+@JetBlue my daughter's college game in Denver.  Only one set of parents will be there 😢😢😢
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 15:21:42 -0800
+location: nan

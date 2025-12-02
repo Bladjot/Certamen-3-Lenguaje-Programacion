@@ -1,0 +1,7 @@
+568630453521022976
+United
+@united understanding the situation we waited and it was opened until 10:30pm
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 20:37:19 -0800
+location: nan

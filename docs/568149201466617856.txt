@@ -1,0 +1,7 @@
+568149201466617856
+United
+@united As a Million Miler I've been delayed plenty. NEVER in the amateurish way@SilverAirwsys does it. I'd be embarrassed to be affiliated.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 12:44:59 -0800
+location: United States

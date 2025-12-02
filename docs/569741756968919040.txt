@@ -1,0 +1,7 @@
+569741756968919040
+Delta
+@JetBlue last sleep in Cali... back to JFK tomorrow night.  Looking forward to an another amazing flight with you all :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 22:13:14 -0800
+location: New York City

@@ -1,0 +1,7 @@
+568467596414210049
+Southwest
+@SouthwestAir and YOUR costumer service representative lied to me and ensured me the plane would be leaving by 330.. It's scheduled for 455
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 09:50:11 -0800
+location: CT

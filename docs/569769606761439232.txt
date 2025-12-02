@@ -1,0 +1,7 @@
+569769606761439232
+American
+@AmericanAir just landed - 3hours Late Flight - and now we need to wait TWENTY MORE MINUTES for a gate!  I have patience but none for incompetence.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 00:03:54 -0800
+location: Jerz

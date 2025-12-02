@@ -1,0 +1,7 @@
+570286925556424705
+US Airways
+@USAirways There is an error w/ my preferred status &amp; I'm not able to reach an agent via phone. Travel Friday. Need resolved - contact info?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 10:19:33 -0800
+location: Washington, DC

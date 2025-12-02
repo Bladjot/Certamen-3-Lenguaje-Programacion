@@ -1,0 +1,7 @@
+567722689989578752
+Southwest
+@SouthwestAir Where should I fly by May 3rd? Plz advise.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 08:30:11 -0800
+location: Broomfield, CO

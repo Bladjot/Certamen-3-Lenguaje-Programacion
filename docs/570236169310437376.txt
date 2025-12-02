@@ -1,0 +1,7 @@
+570236169310437376
+Southwest
+@SouthwestAir @PHLAirport Will Flight 2155 that arrives at E11 be a penguin plane?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 06:57:51 -0800
+location: nan

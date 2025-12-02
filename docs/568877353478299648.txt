@@ -1,0 +1,7 @@
+568877353478299648
+US Airways
+@USAirways more lies, they said in their email we were delayed due to weather when the sky was clear in the city we were departing.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 12:58:24 -0800
+location: nan

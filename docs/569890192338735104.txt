@@ -1,0 +1,7 @@
+569890192338735104
+American
+@AmericanAir My reservation is on hold, not me.  Wish I was on hold but that's not possible with the phone issues at #americanair
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 08:03:04 -0800
+location: nan

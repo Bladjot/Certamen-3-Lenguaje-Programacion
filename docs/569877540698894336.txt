@@ -1,0 +1,7 @@
+569877540698894336
+American
+@AmericanAir the one at 11:30am? My app still shows it as on time!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:12:48 -0800
+location: Plano, TX

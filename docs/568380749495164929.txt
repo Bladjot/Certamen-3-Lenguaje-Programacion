@@ -1,0 +1,7 @@
+568380749495164929
+Delta
+@JetBlue Gains Altitude, But SkyWest Hits Turbulence JBLU SKYW - Investor's Business Daily http://t.co/P2HUM7lXUR
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 04:05:05 -0800
+location: USA

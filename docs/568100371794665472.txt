@@ -1,0 +1,7 @@
+568100371794665472
+US Airways
+@USAirways link doesn't work and I've tried tracking my bag several times. Still doesn't clarify where it is.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 09:30:58 -0800
+location: nan

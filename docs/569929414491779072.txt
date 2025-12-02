@@ -1,0 +1,7 @@
+569929414491779072
+Delta
+:( RT @JetBlue: Our fleet's on fleek. http://t.co/ncguZDgDaQ
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 10:38:55 -0800
+location: Where there is love..

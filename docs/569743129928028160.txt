@@ -1,0 +1,7 @@
+569743129928028160
+American
+@AmericanAir seriously, there aren't any reps available to take phone calls? Even for platinum?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 22:18:42 -0800
+location: Indianapolis, IN

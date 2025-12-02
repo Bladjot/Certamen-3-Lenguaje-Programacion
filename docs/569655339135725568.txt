@@ -1,0 +1,7 @@
+569655339135725568
+American
+@AmericanAir Hey, so... I think I left my wallet on you. Can I have it back, please?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:29:51 -0800
+location: West Covina, CA

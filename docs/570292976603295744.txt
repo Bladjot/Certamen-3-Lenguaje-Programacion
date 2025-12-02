@@ -1,0 +1,7 @@
+570292976603295744
+Southwest
+@SouthwestAir has grounded 2 flights b/c of equipment problems &amp; been rude to my wife, traveling alone w/our 2 young kids.  never again.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 10:43:35 -0800
+location: Chappaqua NY

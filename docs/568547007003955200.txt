@@ -1,0 +1,7 @@
+568547007003955200
+United
+@united DM sent. Thanks so much for the strong customer service!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 15:05:44 -0800
+location: iPhone: 40.732048,-73.994102

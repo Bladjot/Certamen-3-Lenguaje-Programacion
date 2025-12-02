@@ -1,0 +1,7 @@
+569678905344270336
+American
+Thank you for sending more details  @AmericanAir: They're pretty handy dandy. more info here: http://t.co/FvlxIRh1F1 #LookforwardtoflywithAA
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 18:03:29 -0800
+location: nan

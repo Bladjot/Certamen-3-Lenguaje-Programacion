@@ -1,0 +1,7 @@
+570291431195205633
+American
+@AmericanAir i ordered it as i always do. But on a 9hour flight delayed for 4 hours, it was worse than ever before when you forgot my meal.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 10:37:27 -0800
+location: NY (Globetrotter.ExBonaerense)

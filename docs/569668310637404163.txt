@@ -1,0 +1,7 @@
+569668310637404163
+US Airways
+@USAirways over two hours on hold to talk to an agent..then it disconnects me.  been trying for two days! Wtf! Hire some CSRs u make $ now
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:21:23 -0800
+location: nan

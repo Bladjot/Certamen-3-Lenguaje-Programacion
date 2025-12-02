@@ -1,0 +1,7 @@
+569627069463842816
+US Airways
+@USAirways Huge system problems at DCA.Manual check in; flight boarded but sitting at gate due to system issues. Frustrated Chairman member
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 14:37:31 -0800
+location: Sunny mountains of Arizona

@@ -1,0 +1,7 @@
+569730123210948608
+American
+@AmericanAir I left something on my flight from ORD to SFO earlier today and believe it's on the plane back at ORD now. Please help.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 21:27:01 -0800
+location: nan

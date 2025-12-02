@@ -1,0 +1,7 @@
+568135319876468736
+US Airways
+Yes but I will nvr fly w/ @USAirways I missed my con flight bc of a coffeemaker on FT1892 Couldn't see my father be4 they put him in a coma
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 11:49:50 -0800
+location: Detroit, MI

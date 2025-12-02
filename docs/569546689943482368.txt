@@ -1,0 +1,7 @@
+569546689943482368
+US Airways
+@USairways E190 lands without nose gear in Houston - @Flightglobal http://t.co/Yf9NhMwyFF
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 09:18:07 -0800
+location: USA

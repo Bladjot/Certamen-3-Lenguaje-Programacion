@@ -1,0 +1,7 @@
+569621332863754240
+American
+@AmericanAir Yes. Your service in GUC sucks. Your gate agent pushed a passenger and has been rude to everyone since we got here.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:14:43 -0800
+location: nan

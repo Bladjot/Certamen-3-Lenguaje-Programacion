@@ -1,0 +1,7 @@
+569274088289660928
+US Airways
+@USAirways it a change fee request from a month ago.  after one hour on phone with your team, I’m told 120 day backlog.  Awful.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 15:14:53 -0800
+location: Washington DC

@@ -1,0 +1,7 @@
+569857504768757760
+Southwest
+@SouthwestAir #1687 MDW-SAN. Like most flights, if I'm watching free TV it works but won't hardly access any websites - including your own.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 05:53:11 -0800
+location: Sunny Florida

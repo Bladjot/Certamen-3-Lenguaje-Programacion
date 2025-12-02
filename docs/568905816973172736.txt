@@ -1,0 +1,7 @@
+568905816973172736
+Delta
+@JetBlue y'all got prices for the low??
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 14:51:31 -0800
+location: South jamaica.. Queens

@@ -1,0 +1,7 @@
+570252528245456897
+Southwest
+@SouthwestAir hey southwest! Help me find a flight from Nashville - Washington DC or Raleigh for under $150 on March 15 please!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:02:52 -0800
+location: nan

@@ -1,0 +1,7 @@
+569492106923806720
+US Airways
+@usairways trick for getting into your hold queue?  I've been calling since Thursday and keep getting the "call back Late Flightr" message
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 05:41:13 -0800
+location: Pittsburgh

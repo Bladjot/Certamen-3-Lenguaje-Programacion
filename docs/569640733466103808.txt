@@ -1,0 +1,7 @@
+569640733466103808
+US Airways
+@USAirways What is happening at Reagan Airport DCA? Long lines and four people working checkIn! #unhappy #DCA
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 15:31:48 -0800
+location: nan

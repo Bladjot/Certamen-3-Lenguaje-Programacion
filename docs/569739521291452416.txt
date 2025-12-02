@@ -1,0 +1,7 @@
+569739521291452416
+Delta
+@JetBlue Woo! Update! Flight 915 is now possibly delayed by more than 2hrs!  Power of positive thinking, people.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 22:04:21 -0800
+location: nan

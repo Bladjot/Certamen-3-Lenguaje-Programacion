@@ -1,0 +1,7 @@
+568134930137550848
+US Airways
+@USAirways 40 minutes to put my TSA number in… 40 mins… and stop holding people hostage with requiring a dividends miles acct. @tsa
+sentiment: negative
+negativereason: longlines
+created: 2015-02-18 11:48:17 -0800
+location: okinawa, japan

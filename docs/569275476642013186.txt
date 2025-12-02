@@ -1,0 +1,7 @@
+569275476642013186
+United
+@united says @USAirways  is the final carrier . Us air doesnt have it. I want my bag!!! Not a claim not an im  sorry. I want my clothes!!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 15:20:24 -0800
+location: Wonderland

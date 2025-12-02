@@ -1,0 +1,7 @@
+569012722169466880
+United
+@United, will you fill it? Yes they will. Thanks! #BringYourOwn, @kleankanteen http://t.co/daaa0rqBXW
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 21:56:19 -0800
+location: Boulder, CO

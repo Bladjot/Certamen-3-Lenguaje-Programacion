@@ -1,0 +1,7 @@
+568064545568092160
+United
+@united -today the staff @ MSP took customer service to a new level. My father passed away last night &amp; you helped me get home today! Thanks
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 07:08:36 -0800
+location: nan

@@ -1,0 +1,7 @@
+568494397144358914
+Southwest
+@SouthwestAir you should know the crew today on flight #1071 AUS to PDX was awesome! #SWA
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 11:36:41 -0800
+location: nan

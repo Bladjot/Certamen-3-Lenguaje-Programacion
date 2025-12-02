@@ -1,0 +1,7 @@
+569691858365915136
+American
+@AmericanAir guys 5350 in dfw  stuck at the gate for half an hour.  Do we pull the slide or what?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:54:58 -0800
+location: nan

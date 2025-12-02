@@ -1,0 +1,7 @@
+569721813220995072
+US Airways
+@USAirways you reminded me today why I fly @SouthwestAir
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 20:53:59 -0800
+location: Austin TX

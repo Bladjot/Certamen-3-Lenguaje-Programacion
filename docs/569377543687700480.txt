@@ -1,0 +1,7 @@
+569377543687700480
+Southwest
+@SouthwestAir "Will my luggage be on that flight?" "No" "Y not" "bc ur on that flight n it won't end up where ur goin http://t.co/6Zj6L2ZTua
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 22:05:59 -0800
+location: Tallahassee, FL

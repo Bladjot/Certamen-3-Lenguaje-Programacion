@@ -1,0 +1,7 @@
+568041225174953985
+Delta
+@JetBlue and a HUGE thanks to the crew on flight 1348 who flew in to DCA from SJU Monday night in the snow so we could have a plane!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 05:35:56 -0800
+location: nan

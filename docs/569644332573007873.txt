@@ -1,0 +1,7 @@
+569644332573007873
+American
+@AmericanAir Still sitting in airport as 6:05 flt delayed until 6:55...but still not boarding, what is happening?  No info....
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:46:07 -0800
+location: Chicago

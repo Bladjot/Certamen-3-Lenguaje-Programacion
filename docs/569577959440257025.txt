@@ -1,0 +1,7 @@
+569577959440257025
+United
+@united Name correct on original confirmation but spelled wrong on check-in reminder. First name and MI run together. Cause for concern?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 11:22:22 -0800
+location: nan

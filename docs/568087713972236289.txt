@@ -1,0 +1,7 @@
+568087713972236289
+Delta
+@JetBlue had a great flight to Orlando from Hartford a few weeks ago! Was great to get out on time and arrive early!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 08:40:40 -0800
+location: Stratford, CT

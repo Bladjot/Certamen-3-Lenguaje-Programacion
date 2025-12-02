@@ -1,0 +1,7 @@
+568947250325561344
+Southwest
+@SouthwestAir my parents flight frm STL2ATL Cancelled Flighted 2nite. When's the next one out?!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 17:36:09 -0800
+location: Atlanta

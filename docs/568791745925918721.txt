@@ -1,0 +1,7 @@
+568791745925918721
+US Airways
+@USAirways the flights weren't from this morning... It was 4 flights 2 on Thursday and 2 on Monday which turned into Tuesday
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 07:18:14 -0800
+location: nan

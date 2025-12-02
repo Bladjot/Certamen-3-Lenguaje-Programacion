@@ -1,0 +1,7 @@
+568965585620459520
+United
+@united Then why did your staff refuse to let ME on the earlier flight citing my having checked a bag?!?!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 18:49:01 -0800
+location: Vail, CO

@@ -1,0 +1,7 @@
+568541544506114048
+United
+@united your airline is a joke. 1 person working special services at EWR?!? Line is 15 ppl deep. GROW UP!
+sentiment: negative
+negativereason: longlines
+created: 2015-02-19 14:44:01 -0800
+location: nan

@@ -1,0 +1,7 @@
+569870819582586880
+United
+@united love the new 1st class breakfast!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 06:46:05 -0800
+location: nan

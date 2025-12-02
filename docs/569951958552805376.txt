@@ -1,0 +1,7 @@
+569951958552805376
+US Airways
+@USAirways how about now getting us the rest of our bags please? We only received 2 of 5. Can you help with that?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 12:08:30 -0800
+location: ÜT: 42.076557,-76.770488

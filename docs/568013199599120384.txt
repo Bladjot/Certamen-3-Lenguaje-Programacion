@@ -1,0 +1,7 @@
+568013199599120384
+US Airways
+@USAirways  please don't go to the check in process @AmericanAir uses at #MCO. It's an absolute disaster.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 03:44:34 -0800
+location: Orlando

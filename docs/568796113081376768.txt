@@ -1,0 +1,7 @@
+568796113081376768
+United
+@united my flight Cancelled Flightled new flight 5012 hopefully will not.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 07:35:35 -0800
+location: nan

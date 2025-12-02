@@ -1,0 +1,7 @@
+569676702030262272
+American
+@AmericanAir the worst air experience I have ever had and I am not in the first plane yet.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 17:54:44 -0800
+location: washington, dc

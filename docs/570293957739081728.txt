@@ -1,0 +1,7 @@
+570293957739081728
+United
+@United the internet is a great thing.  I am emailing executives in your company, maybe they will respond to me in a timely manner.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 10:47:29 -0800
+location: Parkersburg, WV

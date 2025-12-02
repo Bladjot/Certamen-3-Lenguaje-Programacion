@@ -1,0 +1,7 @@
+567717985092395008
+Southwest
+@southwestair - kind of early but any idea when dates through the first week of sept will come available?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 08:11:29 -0800
+location: London, Ontario, Canada

@@ -1,0 +1,7 @@
+567875974869680128
+Delta
+@JetBlue app just reminded me I will be flying to #FLL in 2 weeks. #ChillyCVZ #ThankGoodness @mypompanobeach #family #friends #sunshine
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 18:39:17 -0800
+location: Washington, DC

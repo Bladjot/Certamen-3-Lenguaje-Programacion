@@ -1,0 +1,7 @@
+568489786081714176
+Southwest
+@SouthwestAir I was just sitting here talking at a tech conference about how awesome you guys are and this rolled across. Luv you guys! #LOL
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 11:18:21 -0800
+location: Austin, Texas

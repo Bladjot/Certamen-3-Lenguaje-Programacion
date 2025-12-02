@@ -1,0 +1,7 @@
+568545857332588544
+Southwest
+@SouthwestAir flight # 317
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 15:01:10 -0800
+location: bev. hills!

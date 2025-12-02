@@ -1,0 +1,7 @@
+568527605063757824
+US Airways
+@USAirways tells me to talk to @AmericanAir about my delayed flights. AA tells me to talk to US. #ihatemergers
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 13:48:38 -0800
+location: Madison, WI

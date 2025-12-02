@@ -1,0 +1,7 @@
+567892715603652608
+Delta
+@Jetblue first airline to use #applepay in flight #airlines
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 19:45:48 -0800
+location: Scottsdale

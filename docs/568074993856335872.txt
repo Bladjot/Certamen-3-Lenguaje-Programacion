@@ -1,0 +1,7 @@
+568074993856335872
+Delta
+@JetBlue thanks
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 07:50:07 -0800
+location: Florida, USA

@@ -1,0 +1,7 @@
+569605521050898433
+US Airways
+@USAirways my friends at KPHL were told by your rep "if it were me I woulda just gone home this am and tried again tomorrow." 1/2
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 13:11:53 -0800
+location: A galaxy far far away

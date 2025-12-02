@@ -1,0 +1,7 @@
+570264316743544832
+Southwest
+@SouthwestAir unfortunately once the call was answered service was horrid. SWA was the role-model of finger pointing &amp; excuses #DISAPPOINTED
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 08:49:42 -0800
+location: San Diego,  CA

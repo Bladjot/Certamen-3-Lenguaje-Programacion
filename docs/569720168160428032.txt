@@ -1,0 +1,7 @@
+569720168160428032
+American
+@AmericanAir can we get a status update on flight 1457? Are we going to make it home tonight...?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 20:47:27 -0800
+location: nan

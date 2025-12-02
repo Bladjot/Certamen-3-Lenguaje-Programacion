@@ -1,0 +1,7 @@
+568950706008231936
+United
+@united unsmiling rep. told us hotel shuttle comes "like every 15 minutes." Breezy 30 min. Late Flightr we're taking a cab. You going to reimburse?
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 17:49:53 -0800
+location: nan

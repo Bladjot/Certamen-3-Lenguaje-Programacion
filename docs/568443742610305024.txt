@@ -1,0 +1,7 @@
+568443742610305024
+Southwest
+@SouthwestAir please please please choose me to go see @Imaginedragons   #DestinationDragons
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 08:15:24 -0800
+location: nan

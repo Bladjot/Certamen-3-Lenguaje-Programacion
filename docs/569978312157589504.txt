@@ -1,0 +1,7 @@
+569978312157589504
+American
+@AmericanAir I ended up emailing my #Complaint to customer.relations@aa.com, hope that works. #TravelProblems
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 13:53:13 -0800
+location: Los Angeles, CA

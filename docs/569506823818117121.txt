@@ -1,0 +1,7 @@
+569506823818117121
+Southwest
+@SouthwestAir plane switch on 636 meant A= back of plane #disappointed
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 06:39:42 -0800
+location: nan

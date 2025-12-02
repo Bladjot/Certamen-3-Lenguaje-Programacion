@@ -1,0 +1,7 @@
+569921913667104768
+Delta
+@JetBlue what else on this plane is duct-taped?? #ohboy #shouldigetoutandpush #airplane #flying… http://t.co/R9ZsVzuRLw
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 10:09:07 -0800
+location: nyc

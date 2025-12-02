@@ -1,0 +1,7 @@
+569736434803978240
+Delta
+@JetBlue with the free wifi #impressive #FlyFi http://t.co/T1RYpzEBc8
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 21:52:05 -0800
+location: New York

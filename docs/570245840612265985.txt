@@ -1,0 +1,7 @@
+570245840612265985
+Southwest
+@SouthwestAir @intuit @jhamilton2007 4 moms, 4 careers, 1 day trip to LA. #intuitlife #leanin http://t.co/2qJbCv5jzq" #southwestairlines
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 07:36:17 -0800
+location: SF Bay Area

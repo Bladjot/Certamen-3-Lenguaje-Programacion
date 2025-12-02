@@ -1,0 +1,7 @@
+569693300120113152
+American
+@AmericanAir I'm willing to hold for an agent. you aren't being helpful you keep hanging up on me #americanairsucks #hiremorepoeple
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:00:41 -0800
+location: nan

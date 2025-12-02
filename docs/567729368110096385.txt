@@ -1,0 +1,7 @@
+567729368110096385
+Delta
+@JetBlue my request has nothing to do with rescheduling. But customer service has such a bad attitude today. #badservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 08:56:43 -0800
+location: nan

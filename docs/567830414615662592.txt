@@ -1,0 +1,7 @@
+567830414615662592
+Southwest
+@SouthwestAir has the worst customer service on earth. Will never fly that airline again.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 15:38:15 -0800
+location: Ole Miss • ATL

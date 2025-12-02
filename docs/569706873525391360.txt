@@ -1,0 +1,7 @@
+569706873525391360
+American
+.@AmericanAir Flight 654 Delayed / Flight 409 You sold my seat / flight 0671 strand me in PHX for three hours. Thanks for the memories 😡😤😖😲😩
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 19:54:37 -0800
+location: PDX JFK SFO BDL

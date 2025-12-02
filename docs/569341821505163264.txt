@@ -1,0 +1,7 @@
+569341821505163264
+Delta
+@JetBlue just sat on a plane for 3 hours in Dulles #insane #ijustwanttobeinBoston #thanksDC
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 19:44:02 -0800
+location: Easton,Ma

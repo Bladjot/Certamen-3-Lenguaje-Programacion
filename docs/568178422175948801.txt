@@ -1,0 +1,7 @@
+568178422175948801
+Delta
+@JetBlue I flew to San Francisco from Fort Lauderdale with you last year, had a fantastic time so would like to go back !
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 14:41:06 -0800
+location: Wirral England

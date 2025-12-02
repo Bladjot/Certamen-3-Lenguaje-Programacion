@@ -1,0 +1,7 @@
+570087222663229440
+American
+@AmericanAir $600 Late Flightr, 2 complete itinerary changes, and lost work and time, but yeah "I" got it rebooked
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 21:06:00 -0800
+location: nan

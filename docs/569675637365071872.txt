@@ -1,0 +1,7 @@
+569675637365071872
+American
+@AmericanAir Flight 1512 (N924AN) departs @FlyTPA enroute to @dfwairport http://t.co/j0mhMkDiVl
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:50:30 -0800
+location: Englewood, Florida

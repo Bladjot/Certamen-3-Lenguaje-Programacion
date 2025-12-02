@@ -1,0 +1,7 @@
+569611065820110848
+American
+@AmericanAir @GolfWithWoody Don't buy it, Woody. They're making it MUCH worse with understaffing, rudeness, and pre-rookie mistakes
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:33:55 -0800
+location: Pekin

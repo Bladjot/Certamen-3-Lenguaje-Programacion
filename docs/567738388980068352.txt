@@ -1,0 +1,7 @@
+567738388980068352
+Delta
+@JetBlue and they are telling me I got to get another hotel and food...so spend more money because you guys made me miss my connection
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 09:32:34 -0800
+location: Yauco, Puerto Rico

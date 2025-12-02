@@ -1,0 +1,7 @@
+569552374882299904
+United
+@united what's the status of flight 1008 Bogotá-Houston?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 09:40:42 -0800
+location: Phoneix, AZ

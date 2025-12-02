@@ -1,0 +1,7 @@
+569345701487906818
+United
+@united do you expect to Cancelled Flight flights out of @DENAirport tomorrow morning given the storm?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 19:59:27 -0800
+location: San Francisco

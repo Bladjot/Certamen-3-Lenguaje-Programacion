@@ -1,0 +1,7 @@
+569558286216929280
+Delta
+@JetBlue flight delayed at JFK 2 hours, then 3 hours, then 8.5 hours? Now it's back to 5 hours with no explanation or apology?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 10:04:11 -0800
+location: GOLD COAST / MELBOURNE

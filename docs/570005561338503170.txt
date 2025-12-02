@@ -1,0 +1,7 @@
+570005561338503170
+Southwest
+@SouthwestAir Thank you Thank you Thank you!!! My last attempt to win #DestinationDragons tickets was a success! I could not be happier!! :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 15:41:30 -0800
+location: + Las Vegas +

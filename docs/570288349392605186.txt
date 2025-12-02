@@ -1,0 +1,7 @@
+570288349392605186
+United
+@united #Newarkliberty Airport need to indicate different gate#'s for terminals A&amp;C. #Flyingainteasy
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 10:25:12 -0800
+location: Washington, DC

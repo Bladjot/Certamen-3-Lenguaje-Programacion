@@ -1,0 +1,7 @@
+569721379823554562
+American
+@AmericanAir No, when I call AA now I can't even get on hold...can you help me?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:52:16 -0800
+location: nan

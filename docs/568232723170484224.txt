@@ -1,0 +1,7 @@
+568232723170484224
+United
+@united @staralliance Now do the right thing and reinstate the tickets you voided #UnitedFail
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 18:16:53 -0800
+location: Semiahmoo, WA Soonerland

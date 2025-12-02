@@ -1,0 +1,7 @@
+569667923326971904
+Southwest
+@SouthwestAir everyones flights who were Cancelled Flightled today DESERVE 1
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 17:19:51 -0800
+location: USA

@@ -1,0 +1,7 @@
+569992753649729536
+Delta
+@jetblue any idea what caused the delay on flight 1316 FLL &gt; Jax ?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 14:50:37 -0800
+location: Los Angeles, CA

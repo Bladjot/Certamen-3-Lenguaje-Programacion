@@ -1,0 +1,7 @@
+569209605198376961
+US Airways
+@USAirways been on hold for 39 minutes and counting for a month old change fee refund request for a funeral.  This is pathetic.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 10:58:39 -0800
+location: Washington DC

@@ -1,0 +1,7 @@
+569302780013355008
+Southwest
+@SouthwestAir @PoteetTJ had to fly @Delta MCO-&gt;CMH for $400 b/c we cldnt reach SWA to reroute SWA 3104 Cancelled Flightlation. Voucher wld help.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 17:08:54 -0800
+location: Columbus OH

@@ -1,0 +1,7 @@
+569413676337274880
+Delta
+@JetBlue just lost very loyal customers who use them 4-10 times a year.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 00:29:34 -0800
+location: New York

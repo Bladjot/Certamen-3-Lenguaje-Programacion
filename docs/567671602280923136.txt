@@ -1,0 +1,7 @@
+567671602280923136
+Delta
+@JetBlue Thanks! Her flight leaves at 2 but she's arriving to the airport early. Wedding is in VT in Sept. Grateful you fly to BTV!! :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 05:07:11 -0800
+location: Savannah, GA

@@ -1,0 +1,7 @@
+569613537158373376
+American
+@AmericanAir tried that and can't get through.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 13:43:44 -0800
+location: Los Angeles

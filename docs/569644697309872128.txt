@@ -1,0 +1,7 @@
+569644697309872128
+Southwest
+@SouthwestAir thanks connection thru Nashville have A1 boarding pass get to Dallas gate boarding 40 min before flt get end of B group
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 15:47:33 -0800
+location: nan

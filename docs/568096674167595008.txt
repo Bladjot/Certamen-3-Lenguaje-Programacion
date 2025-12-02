@@ -1,0 +1,7 @@
+568096674167595008
+Southwest
+@SouthwestAir 10 revenue flights since the beginning of 2015?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 09:16:16 -0800
+location: Austin, TX

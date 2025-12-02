@@ -1,0 +1,7 @@
+568654569976123392
+United
+@united @RobBogart After I waited hours in the airport being told one fib after the other. Why can't UAL be honest with its customers?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 22:13:09 -0800
+location: DC/SF/BFLO

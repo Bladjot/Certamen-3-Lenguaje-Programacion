@@ -1,0 +1,7 @@
+570212050548461568
+American
+@AmericanAir She seems a little preoccupied - that's why I'm bringing it to your attention. I am just flagging an issue as an observer.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 05:22:01 -0800
+location: Toronto, Ontario, Canada

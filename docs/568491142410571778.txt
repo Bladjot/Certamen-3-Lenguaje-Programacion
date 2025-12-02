@@ -1,0 +1,7 @@
+568491142410571778
+Southwest
+@SouthwestAir Yes. Please train your customer service agents with correct protocol.. I should not be receiving different 411 evrytime I call
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 11:23:45 -0800
+location: West Coast

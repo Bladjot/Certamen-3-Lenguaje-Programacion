@@ -1,0 +1,7 @@
+569596783011217408
+US Airways
+@USAirways 2nd plane forced to get off due to mech and wait for 3rd need housing and meals in STT need help b4 we arrive at STT please
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 12:37:10 -0800
+location: Madbury, NH

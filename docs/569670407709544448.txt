@@ -1,0 +1,7 @@
+569670407709544448
+Delta
+@JetBlue I've heard your new in flight tap to pay readers accept ONLY Apple Pay. I thought that was impossible &amp; certainly not EMV compliant
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 17:29:43 -0800
+location: Texas

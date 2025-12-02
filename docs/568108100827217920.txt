@@ -1,0 +1,7 @@
+568108100827217920
+Southwest
+@SouthwestAir thank you kindly.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 10:01:40 -0800
+location: Houston, Texas

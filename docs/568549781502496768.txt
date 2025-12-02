@@ -1,0 +1,7 @@
+568549781502496768
+Southwest
+@SouthwestAir looking forward to the beats music available on my flight today. That's pretty cool.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 15:16:45 -0800
+location: sacramento.ca.usa

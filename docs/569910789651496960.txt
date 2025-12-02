@@ -1,0 +1,7 @@
+569910789651496960
+American
+@AmericanAir poor customer service is just unacceptable.. Also how bout the surfer on the front of your website. #noloveforsurfers #pretend
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:24:55 -0800
+location: VB/VA

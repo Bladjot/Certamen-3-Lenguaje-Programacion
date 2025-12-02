@@ -1,0 +1,7 @@
+567750328729485314
+Southwest
+@SouthwestAir @BernhardtJH I did eventually get through but that flight Cancelled Flightled.  Decided to drive but gave up holding to process refund
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 10:20:01 -0800
+location: Columbus, OH

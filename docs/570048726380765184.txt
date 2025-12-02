@@ -1,0 +1,7 @@
+570048726380765184
+United
+@united I send an email about my bad experience and you send back a generic response.  Yet another reason why I'll never fly with you again.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 18:33:02 -0800
+location: Raleigh, NC

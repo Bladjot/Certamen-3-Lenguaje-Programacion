@@ -1,0 +1,7 @@
+569821519116955650
+American
+@AmericanAir Hello ! I cannot register for my tomorrow flight from Paris to Las Vegas "This feature is currently unavailable" appears ?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 03:30:11 -0800
+location: Saint Maur des Fossés

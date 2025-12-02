@@ -1,0 +1,7 @@
+569956170393194496
+US Airways
+@USAirways delays due to refueling are out of your control? If that's true I never want to fly US Airways again
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 12:25:14 -0800
+location: nan

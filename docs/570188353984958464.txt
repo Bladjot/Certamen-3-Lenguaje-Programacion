@@ -1,0 +1,7 @@
+570188353984958464
+United
+@united YOU GUYS ARE HORRIBLE.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 03:47:51 -0800
+location: nyc to la

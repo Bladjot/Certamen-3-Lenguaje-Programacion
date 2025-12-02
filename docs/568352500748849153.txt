@@ -1,0 +1,7 @@
+568352500748849153
+United
+@united ...just called and lady at your overseas call center said she saw no note. I explained the situation...again...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 02:12:50 -0800
+location: Rhode Island

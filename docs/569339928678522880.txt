@@ -1,0 +1,7 @@
+569339928678522880
+US Airways
+@USAirways depart from where? It departed PHX and was due to land at DCA around 8pm.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 19:36:31 -0800
+location: nan

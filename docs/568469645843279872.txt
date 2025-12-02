@@ -1,0 +1,7 @@
+568469645843279872
+US Airways
+@USAirways #success made flight , please thank the crew of 556 great time recovery
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 09:58:19 -0800
+location: nan

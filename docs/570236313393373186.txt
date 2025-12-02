@@ -1,0 +1,7 @@
+570236313393373186
+US Airways
+@USAirways i understand that but i should still be able to view my reservation online....
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 06:58:26 -0800
+location: Central, New Jersey

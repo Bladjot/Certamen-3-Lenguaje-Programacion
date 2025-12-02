@@ -1,0 +1,7 @@
+567880317345771520
+United
+@united This link in your tweet goes to someone's internal email -&gt; http://t.co/ZksX79itdN...... Probably one of your 3rd party IT contracts
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 18:56:33 -0800
+location: nan

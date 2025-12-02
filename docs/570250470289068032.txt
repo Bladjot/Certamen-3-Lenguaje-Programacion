@@ -1,0 +1,7 @@
+570250470289068032
+American
+@AmericanAir stop sending me back to "customer relations "I have hand written a letter to them, send in a letter, called them, no help!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 07:54:41 -0800
+location: san francisco califorania

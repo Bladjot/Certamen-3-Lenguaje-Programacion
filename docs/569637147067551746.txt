@@ -1,0 +1,7 @@
+569637147067551746
+United
+@united now this http://t.co/uygeW2Nosr
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 15:17:33 -0800
+location: nan

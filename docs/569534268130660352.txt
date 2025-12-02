@@ -1,0 +1,7 @@
+569534268130660352
+United
+@united you can't say the flight is pulled in and departs in 2 mins if boarding hasn't even started! http://t.co/2IKbP8gxWi
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 08:28:45 -0800
+location: San Diego, CA

@@ -1,0 +1,7 @@
+567773609939058688
+United
+@united quick response offering assistance but lack of follow through - not really the service I was expecting
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 11:52:31 -0800
+location: Ontario, Canada

@@ -1,0 +1,7 @@
+569366846547369984
+Delta
+@JetBlue you have to service your remote controllers on my flight I watched equalizer (movie) THREE times because my remote was stuck
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 21:23:29 -0800
+location: BB PIN:28AF78F4

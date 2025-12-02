@@ -1,0 +1,7 @@
+569697809017864193
+American
+@AmericanAir seriously, I do not want to wait 24 hours for a flight when I have to prepare for a family funeral.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 19:18:36 -0800
+location: Melbourne, Australia

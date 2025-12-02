@@ -1,0 +1,7 @@
+569709452594524160
+United
+@united the delay is due to customer service for 20 people?  What about the DIS-SERVICE you provided for 100+?  #FlightFail #Hour20Delay
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:04:52 -0800
+location: nan

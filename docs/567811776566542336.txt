@@ -1,0 +1,7 @@
+567811776566542336
+Delta
+@JetBlue @vincenzolandino @CBarrows You take to me places @united simply can't...like non-stop to St. Lucia.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 14:24:11 -0800
+location: Jersey City, NJ

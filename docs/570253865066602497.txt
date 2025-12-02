@@ -1,0 +1,7 @@
+570253865066602497
+US Airways
+@USAirways has the worst customer service. Can't even get through to a rep you gotta be kidding me
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 08:08:10 -0800
+location: nan

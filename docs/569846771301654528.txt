@@ -1,0 +1,7 @@
+569846771301654528
+Southwest
+@SouthwestAir All flights are booked . They are saying I have to wait until tomorrow.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 05:10:32 -0800
+location: Atlanta, GA

@@ -1,0 +1,7 @@
+568794864533385216
+Southwest
+@SouthwestAir Love, love, love this. Southwest Rocks!! Always!! https://t.co/q8VSfFRd1u
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 07:30:38 -0800
+location: Indiana

@@ -1,0 +1,7 @@
+568240100934426624
+Delta
+“@JetBlue: @KyleComer_ JetBlue reLate Flightd this time? ;)” no... But why won't school be Cancelled Flighted? it's very cold out
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 18:46:12 -0800
+location: virginia

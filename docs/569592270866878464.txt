@@ -1,0 +1,7 @@
+569592270866878464
+American
+@AmericanAir i need someone to help me out
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:19:14 -0800
+location: KY

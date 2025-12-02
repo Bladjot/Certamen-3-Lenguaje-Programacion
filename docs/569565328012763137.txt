@@ -1,0 +1,7 @@
+569565328012763137
+United
+@united Did you get your 757 Model?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 10:32:10 -0800
+location: New Hartley

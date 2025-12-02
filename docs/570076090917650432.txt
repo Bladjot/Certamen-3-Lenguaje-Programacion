@@ -1,0 +1,7 @@
+570076090917650432
+Southwest
+@SouthwestAir Please lower my plane flight by like $100 bucks!! Thanks~ #FloridaVacation
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 20:21:46 -0800
+location: Moultonborough, NH

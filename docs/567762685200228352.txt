@@ -1,0 +1,7 @@
+567762685200228352
+US Airways
+@USAirways Darn it, first in line for no upgrade! Wish I understood the policy. :) http://t.co/xGPaAyFDwt
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 11:09:07 -0800
+location: Philadelphia, PA

@@ -1,0 +1,7 @@
+570077431484121088
+American
+@AmericanAir With snow/ice forecast DFW Tu pm-We am what is change policy on reservations we hold Wed morning? Any leeway??
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 20:27:05 -0800
+location: North Texas

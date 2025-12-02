@@ -1,0 +1,7 @@
+568172398161354752
+Delta
+@JetBlue #FlyingItForward I'd fly to Port au Prince, Haiti to help with the on-going earthquake relief efforts. Still lots to do there!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 14:17:10 -0800
+location: Out and About - Homebase is MD

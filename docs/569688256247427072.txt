@@ -1,0 +1,7 @@
+569688256247427072
+Southwest
+@SouthwestAir i got the call from RDU that my baggage is there except that doesn't help me bc i can't get it until I'm flying back home.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 18:40:39 -0800
+location: Tallahassee, FL

@@ -1,0 +1,7 @@
+568425421240455168
+Southwest
+@SouthwestAir I sent you my conf number yesterday.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 07:02:35 -0800
+location: Canton, MA

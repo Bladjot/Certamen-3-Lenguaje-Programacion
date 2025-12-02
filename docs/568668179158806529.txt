@@ -1,0 +1,7 @@
+568668179158806529
+Delta
+@JetBlue needs to get its act together in #PHX
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 23:07:13 -0800
+location: Tempe, AZ

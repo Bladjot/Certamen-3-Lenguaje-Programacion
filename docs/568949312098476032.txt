@@ -1,0 +1,7 @@
+568949312098476032
+Southwest
+@SouthwestAir @SwagglikeBean take me here
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 17:44:21 -0800
+location: || san antonio, texas||

@@ -1,0 +1,7 @@
+567848171155496960
+Delta
+@JetBlue ticket issued whilst delivering your customers.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 16:48:48 -0800
+location: Dorado

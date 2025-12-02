@@ -1,0 +1,7 @@
+568726628639100928
+United
+@united your airline is the biggest joke of an operation in the world.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 02:59:29 -0800
+location: New York

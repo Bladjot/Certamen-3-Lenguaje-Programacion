@@ -1,0 +1,7 @@
+569234592420331520
+United
+@united thanks for the reply.  If you can get me a better seat on my next leg to Munich. That would be nice.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 12:37:57 -0800
+location: Forest Grove, OR

@@ -1,0 +1,7 @@
+568190276990140417
+United
+@united PTY to PIT via IAH
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 15:28:13 -0800
+location: Panamá

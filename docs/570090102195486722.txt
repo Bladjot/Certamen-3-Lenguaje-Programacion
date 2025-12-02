@@ -1,0 +1,7 @@
+570090102195486722
+United
+“@united: @Darquenloveli We regret to hear this. Please let us know if you need assistance. ^KN” I was finally able to secure my seat. Thx
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 21:17:26 -0800
+location: Texas

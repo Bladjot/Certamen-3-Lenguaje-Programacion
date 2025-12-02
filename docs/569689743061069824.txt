@@ -1,0 +1,7 @@
+569689743061069824
+US Airways
+@USAirways CLT, please send more than one cust svc rep to your cust svc counter to assist a line out the door. http://t.co/v24QNp3DOi
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:46:33 -0800
+location: Celina, TX

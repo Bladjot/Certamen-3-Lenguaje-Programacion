@@ -1,0 +1,7 @@
+568253469129187328
+Delta
+Hey @JetBlue, that's a sexy tattoo you got there on your left engine. #Jetbae http://t.co/Ox4w6KtsGI
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 19:39:19 -0800
+location: Inquiries: CAA  •  Miller PR

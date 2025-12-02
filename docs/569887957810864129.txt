@@ -1,0 +1,7 @@
+569887957810864129
+US Airways
+@USAirways but my bag is still missing
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 07:54:11 -0800
+location: nan

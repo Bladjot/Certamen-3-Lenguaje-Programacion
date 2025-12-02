@@ -1,0 +1,7 @@
+569227342675116033
+United
+@united A3 Gold. So the international baggage limit apply when booked on 1 ticket,even for a domestic leg?  What if I travel with 2 friends?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 12:09:08 -0800
+location: nan

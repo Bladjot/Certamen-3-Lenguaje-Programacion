@@ -1,0 +1,7 @@
+567845500205936640
+United
+@united On top of this, a CSR went ahead and hung up on me after I called United to discuss this.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 16:38:11 -0800
+location: nan

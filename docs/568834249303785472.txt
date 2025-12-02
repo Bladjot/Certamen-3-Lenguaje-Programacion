@@ -1,0 +1,7 @@
+568834249303785472
+US Airways
+@USAirways oh they saw it and said nothing.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 10:07:08 -0800
+location: Sunshine State

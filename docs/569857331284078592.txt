@@ -1,0 +1,7 @@
+569857331284078592
+Delta
+@JetBlue yeah I'm aware of that. Hence my original msg to you.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 05:52:29 -0800
+location: nan

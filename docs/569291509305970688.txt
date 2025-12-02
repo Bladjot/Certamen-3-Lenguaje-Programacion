@@ -1,0 +1,7 @@
+569291509305970688
+Southwest
+@SouthwestAir went to front restroom on plane, on sink sign that said no water, use hand sanitizer. First time I've ever seen that. GROSS!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 16:24:07 -0800
+location: San Diego

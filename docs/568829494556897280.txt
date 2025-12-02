@@ -1,0 +1,7 @@
+568829494556897280
+Southwest
+@SouthwestAir so, when your plane doesn't work the luxuries I paid for go away but you keep my money? I need that biz model.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 09:48:14 -0800
+location: camas, wa

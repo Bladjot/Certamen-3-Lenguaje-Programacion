@@ -1,0 +1,7 @@
+568954593591369728
+United
+@united Yes and that is appreciated but misinformation damages credibility.  You may want to have someone observe in Newark #fwiw
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 18:05:20 -0800
+location: Elmira, NY

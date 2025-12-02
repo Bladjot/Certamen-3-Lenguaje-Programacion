@@ -1,0 +1,7 @@
+570303383782989824
+American
+.@AmericanAir just disappointed with the Flight Booking Problems process and add’l fees to sit together on a more crowded flight. Not impressed so far :-/.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:24:57 -0800
+location: Austin, but often Denver

@@ -1,0 +1,8 @@
+570084337099673600
+US Airways
+@USAirways  Instead, the miles are credited to an account that i did not open
+-- My request to merge the accounts is denied
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 20:54:32 -0800
+location: nan

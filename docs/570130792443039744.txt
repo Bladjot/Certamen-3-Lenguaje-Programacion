@@ -1,0 +1,7 @@
+570130792443039744
+American
+@AmericanAir yes. No one is answering and I'm on a train
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 23:59:08 -0800
+location: Seattle, WA

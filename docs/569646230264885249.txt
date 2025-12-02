@@ -1,0 +1,7 @@
+569646230264885249
+American
+@AmericanAir yes, I will do just that as soon as I have a moment to gather my thoughts.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:53:39 -0800
+location: Somewhere East

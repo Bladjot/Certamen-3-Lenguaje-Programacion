@@ -1,0 +1,7 @@
+569984437720453121
+Southwest
+@SouthwestAir The problem is apologies don't help. Results matter and it's proving impossible to find anyone who is interested in that.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 14:17:34 -0800
+location: Boston, MA

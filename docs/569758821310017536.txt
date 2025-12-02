@@ -1,0 +1,7 @@
+569758821310017536
+US Airways
+@USAirways sorry doesn't help.  It's midnight PST.  How in the hell am I still on hold after 90 minutes on customer service line?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 23:21:03 -0800
+location: Washington, D.C.

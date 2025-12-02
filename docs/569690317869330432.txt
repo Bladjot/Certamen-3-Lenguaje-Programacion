@@ -1,0 +1,7 @@
+569690317869330432
+Delta
+@JetBlue you just tight that you're #59 on the world's best airlines list &amp; @VirginAtlantic is ranked higher! @VirginAtlantic here I come!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:48:50 -0800
+location: NYC | NOLA

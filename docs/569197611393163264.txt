@@ -1,0 +1,7 @@
+569197611393163264
+Virgin America
+@VirginAmerica any updates on flight 413 from Jfk &gt; Lax
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 10:11:00 -0800
+location: downtown, CA

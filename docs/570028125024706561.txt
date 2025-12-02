@@ -1,0 +1,7 @@
+570028125024706561
+American
+@AmericanAir now I have to wait "more than 60 minutes"
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 17:11:10 -0800
+location: Cleveland, OH

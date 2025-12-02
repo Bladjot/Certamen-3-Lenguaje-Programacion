@@ -1,0 +1,7 @@
+569880100218544128
+US Airways
+@USAirways @AmericanAir "ma'am the doors close 10 mins prior to departure" "but I was here 20 mins before?!?" laughter from the 2 agents
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 07:22:58 -0800
+location: BK

@@ -1,0 +1,7 @@
+570252802611679232
+Southwest
+@SouthwestAir Airline trouble &amp; not getting satisfactory customer service? contact http://t.co/aQjn4HwNaC  we negotiate resolutions for You!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:03:57 -0800
+location: Miami, New York, Boston

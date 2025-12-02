@@ -1,0 +1,7 @@
+569612804350717953
+US Airways
+@USAirways despite mechanical issues and many delays followed by a Cancelled Flightlation, still getting to Vegas thanks to great gate agents!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 13:40:50 -0800
+location: nan

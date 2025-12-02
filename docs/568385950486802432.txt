@@ -1,0 +1,7 @@
+568385950486802432
+Southwest
+@SouthwestAir I think me and my group could use some nice cold drinks once we get in the air...we are all over 21 😜😎
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 04:25:45 -0800
+location: nan

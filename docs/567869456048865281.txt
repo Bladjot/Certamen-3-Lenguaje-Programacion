@@ -1,0 +1,7 @@
+567869456048865281
+Southwest
+@SouthwestAir can you outline the policies for both scenarios?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 18:13:23 -0800
+location: nan

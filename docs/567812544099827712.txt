@@ -1,0 +1,7 @@
+567812544099827712
+Southwest
+@SouthwestAir I told myself last time I would never fly you again. I really messed up today. Thanks flight 1802. Worst airline ever
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 14:27:14 -0800
+location: Boston

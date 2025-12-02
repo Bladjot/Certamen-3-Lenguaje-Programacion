@@ -1,0 +1,7 @@
+569747706047934464
+United
+@united I wanna be ride United airline! I love airplane
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 22:36:53 -0800
+location: nan

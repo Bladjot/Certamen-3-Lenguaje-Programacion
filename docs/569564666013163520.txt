@@ -1,0 +1,7 @@
+569564666013163520
+Delta
+@JetBlue I understand but wish you would have announced the delay 2 hours earlier vs sitting for 2 hrs at MCO
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 10:29:33 -0800
+location: nan

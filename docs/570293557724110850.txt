@@ -1,0 +1,7 @@
+570293557724110850
+Southwest
+@SouthwestAir did you know that suicide is the second leading cause of death among teens 10-24
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:45:54 -0800
+location: 1/1 loner squad

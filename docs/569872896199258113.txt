@@ -1,0 +1,7 @@
+569872896199258113
+United
+@united Flight 683 last night was #bad4business. Will be a long time before I recommend United to anyone.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 06:54:20 -0800
+location: canton mi

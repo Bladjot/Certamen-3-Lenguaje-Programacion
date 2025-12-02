@@ -1,0 +1,7 @@
+570063683256242177
+US Airways
+@USAirways has the worst customer service line.  I've called them 8 times today and not once was I able to talk to a real human being.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 19:32:28 -0800
+location: nan

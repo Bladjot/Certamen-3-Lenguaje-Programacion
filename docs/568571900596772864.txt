@@ -1,0 +1,7 @@
+568571900596772864
+Southwest
+@SouthwestAir, on #unscheduled aircraft change, please have a better system in place, not worth the paid upgrade. #REFUND
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 16:44:39 -0800
+location: Chicago

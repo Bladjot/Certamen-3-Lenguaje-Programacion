@@ -1,0 +1,7 @@
+568487293100691457
+Delta
+@JetBlue My card company and I explained the issue over the phone when I was in Mexico. I purchased a new ticket over the phone.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 11:08:27 -0800
+location: nan

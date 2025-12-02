@@ -1,0 +1,7 @@
+570305063052283904
+American
+@americanair thanks for no fresh food on my cross country flight and for making my connection so close No time to eat. TPA-DFW-LAX
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 11:31:37 -0800
+location: Tampa Bay

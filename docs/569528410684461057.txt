@@ -1,0 +1,7 @@
+569528410684461057
+US Airways
+@USAirways how aggravating, zone 5 boarded, overhead empty but forcing bag check. Better not loose bag again! flt1727 http://t.co/w3XS6TVpZg
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 08:05:29 -0800
+location: Pennsauken, NJ

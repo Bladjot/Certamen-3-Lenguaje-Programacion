@@ -1,0 +1,7 @@
+570200237622611968
+Southwest
+@SouthwestAir loving the new planes and the lighting, only wish windows were larger. http://t.co/h44uJ63CJG
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 04:35:05 -0800
+location: nan

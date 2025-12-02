@@ -1,0 +1,7 @@
+569543012914565126
+Delta
+@JetBlue @CookJaycook123 the only update we get is that they have no idea when we will get an update. Way to go. #hopeless
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 09:03:30 -0800
+location: nan

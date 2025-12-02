@@ -1,0 +1,7 @@
+570295576446808065
+American
+@AmericanAir I have been on hold w/customer service line for 68 minutes.  This after I was on phone with an agent for 35 min b/f call droped
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 10:53:55 -0800
+location: Washington, DC

@@ -1,0 +1,7 @@
+569646045656948737
+US Airways
+@USAirways no word on delay reasons @LGB but Twitter is aflame with flight tracking computer crash. Rumors. True or Not?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:52:55 -0800
+location: Virginia, USA

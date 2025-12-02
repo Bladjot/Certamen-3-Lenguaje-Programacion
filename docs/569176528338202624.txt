@@ -1,0 +1,7 @@
+569176528338202624
+US Airways
+@USAirways Stars aligned. Connecting flight was delayed into CLT. Made it! Thanks, glad to know someone is listening. Time for 80° in MoBay!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 08:47:13 -0800
+location: Falls Church, VA

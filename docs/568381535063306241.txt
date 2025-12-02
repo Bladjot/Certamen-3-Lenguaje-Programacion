@@ -1,0 +1,7 @@
+568381535063306241
+United
+@united booked a flight yesterday, appeared in my account + confirm email but since a few hours all disappeared and err "no segment in this"
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 04:08:12 -0800
+location: Paris

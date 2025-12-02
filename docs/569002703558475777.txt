@@ -1,0 +1,7 @@
+569002703558475777
+US Airways
+@USAirways &gt;250k miles on usair.  Last four flights not good. Other airlines much improved. Billing issues, seats, legroom, in air service.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 21:16:30 -0800
+location: nan

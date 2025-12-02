@@ -1,0 +1,7 @@
+570001418825949185
+American
+@AmericanAir @Rizzilient I booked tickets using miles and need to change the dates.  Have been trying to get to an advantage rep 4 two days
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 15:25:03 -0800
+location: nan

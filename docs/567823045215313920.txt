@@ -1,0 +1,7 @@
+567823045215313920
+US Airways
+@USAirways I've been waiting for the callback for EIGHT HOURS. HOW MUCH LONGER?!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 15:08:58 -0800
+location: DC / MIA

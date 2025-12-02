@@ -1,0 +1,7 @@
+569676217432977408
+American
+@americanair seriously, pls pls bring more people up to help us! There are still flights to ORD frm DFW and I want in http://t.co/o3CjsVSsqF
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 17:52:48 -0800
+location: Milwaukee

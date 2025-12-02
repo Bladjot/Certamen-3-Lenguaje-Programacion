@@ -1,0 +1,7 @@
+568850515309826048
+Southwest
+@SouthwestAir again another ride SW employee that printed out boarding passes. Deficiency in training obviously
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 11:11:46 -0800
+location: Rochester Hills, MI

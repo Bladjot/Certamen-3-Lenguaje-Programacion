@@ -1,0 +1,7 @@
+570197804091621376
+American
+@AmericanAir hi when will your next set of flights be out for next year from Dublin???
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 04:25:24 -0800
+location: northern ireland

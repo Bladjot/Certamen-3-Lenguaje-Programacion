@@ -1,0 +1,7 @@
+567790272265887744
+United
+@united take a lesson from @VirginAmerica , they know how to treat customers!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 12:58:44 -0800
+location: Brentwood, CA

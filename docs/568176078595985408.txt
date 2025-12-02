@@ -1,0 +1,7 @@
+568176078595985408
+United
+@united   sent DM last week, re: suit regarding your error. No response was given. Please Answer DM or tell me who to send suit to....
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 14:31:47 -0800
+location: Chicago, Illinois

@@ -1,0 +1,7 @@
+570197979820224512
+Southwest
+@SouthwestAir After multiple attempts, I was finally able to submit them Late Flight last night.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 04:26:06 -0800
+location: Kansas City area

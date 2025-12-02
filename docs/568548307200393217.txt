@@ -1,0 +1,7 @@
+568548307200393217
+Delta
+@JetBlue on flight 2416 to Orlando...ridiculous that we had to wait for this high school band to board. #notbabysitters #whrsthecoach?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 15:10:54 -0800
+location: nan

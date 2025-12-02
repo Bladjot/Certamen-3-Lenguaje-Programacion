@@ -1,0 +1,7 @@
+569244182155534336
+Southwest
+@SouthwestAir My son's flight was Cancelled Flightled today. I was on hold 2+ hours to no avail. Can you help me rebook?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 13:16:03 -0800
+location: Central Ohio

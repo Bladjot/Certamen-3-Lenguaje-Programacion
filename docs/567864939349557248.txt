@@ -1,0 +1,7 @@
+567864939349557248
+United
+@united #UnitedAirlines wont wait 10min for fam w 2yr old connecting. flight leaves early instead for airport that is planes last stop today
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 17:55:26 -0800
+location: Irvine

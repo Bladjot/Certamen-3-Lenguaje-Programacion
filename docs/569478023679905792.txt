@@ -1,0 +1,7 @@
+569478023679905792
+United
+@united Thank you but the person in Houston could only get me a flight routing through Newark, NJ and I'm going to SFO
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 04:45:15 -0800
+location: nan

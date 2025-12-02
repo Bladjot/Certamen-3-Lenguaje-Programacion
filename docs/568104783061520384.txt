@@ -1,0 +1,7 @@
+568104783061520384
+Southwest
+@SouthwestAir how can I get tickets for Feb 20 Imagine Dragons show?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 09:48:29 -0800
+location: Where the wild things are

@@ -1,0 +1,7 @@
+570078733735821313
+United
+@united well, considering every agent before claimed they were unable to help with everything else, why waste more time to hear 'call corp'
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 20:32:16 -0800
+location: nan

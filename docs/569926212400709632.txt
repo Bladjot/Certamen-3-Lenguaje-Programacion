@@ -1,0 +1,7 @@
+569926212400709632
+American
+@AmericanAir Define "sincerely". Your actions do not reflect what you're saying in a poor attempt to redeem yourselves on social media.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:26:12 -0800
+location: Memphis, TN

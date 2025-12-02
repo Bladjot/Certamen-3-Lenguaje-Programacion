@@ -1,0 +1,7 @@
+570104913390206976
+United
+@united yes, but still now answers. Many have not had their luggage for 3 days! Unacceptable!!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 22:16:18 -0800
+location: New Jersey

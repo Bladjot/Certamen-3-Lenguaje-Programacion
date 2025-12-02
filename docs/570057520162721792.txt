@@ -1,0 +1,7 @@
+570057520162721792
+US Airways
+@USAirways well I thought they had hours ago but just found out that no I do not have a seat
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 19:07:58 -0800
+location: Southeastern United States

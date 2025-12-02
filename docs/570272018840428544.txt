@@ -1,0 +1,7 @@
+570272018840428544
+American
+@AmericanAir I thought all those planes were retired? #MD80
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:20:19 -0800
+location: United States

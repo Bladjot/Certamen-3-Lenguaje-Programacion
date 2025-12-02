@@ -1,0 +1,7 @@
+569914141814726657
+American
+@AmericanAir Funny you should say that. I have been monitoring since January 1st. No change in availability. #fakeawards #LUVisbetter
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 09:38:14 -0800
+location: nan

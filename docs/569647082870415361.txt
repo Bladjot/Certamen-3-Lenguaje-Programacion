@@ -1,0 +1,7 @@
+569647082870415361
+US Airways
+@USAirways pilot tells me that all @AmericanAir and US Airways flights across the country have stopped due to a computer system failure.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 15:57:02 -0800
+location: San Francisco, CA

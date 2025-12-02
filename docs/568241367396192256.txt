@@ -1,0 +1,7 @@
+568241367396192256
+United
+@united I have flights that don't appear to have been applied to my MileagePlus account. Can you help?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 18:51:14 -0800
+location: Austin, TX

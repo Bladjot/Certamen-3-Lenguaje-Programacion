@@ -1,0 +1,7 @@
+569615444300185600
+American
+@AmericanAir Cancelled Flights my flight, doesn't send an email, text or call. Now I'm stranded in Louisville.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 13:51:19 -0800
+location: nan

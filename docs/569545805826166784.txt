@@ -1,0 +1,7 @@
+569545805826166784
+United
+@united thank you
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 09:14:36 -0800
+location: Fredericksburg, VA

@@ -1,0 +1,7 @@
+569620494724366336
+American
+@AmericanAir Rebooked for tomorrow morning. Never been here - not sure what I can see before tomorrow morning!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:11:23 -0800
+location: nan

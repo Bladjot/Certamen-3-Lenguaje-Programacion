@@ -1,0 +1,7 @@
+569970287493705728
+US Airways
+@USAirways this is no way to treat women.  I want someone to contact me and explain how they will make this acceptable.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 13:21:20 -0800
+location: nan

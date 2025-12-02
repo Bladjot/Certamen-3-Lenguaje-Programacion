@@ -1,0 +1,7 @@
+568650058780041216
+US Airways
+@USAirways never flying #USAirways again. Horrible experience, terrible customer service.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 21:55:13 -0800
+location: DC

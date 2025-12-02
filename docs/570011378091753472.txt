@@ -1,0 +1,7 @@
+570011378091753472
+Southwest
+@SouthwestAir thank you :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 16:04:37 -0800
+location: Around...

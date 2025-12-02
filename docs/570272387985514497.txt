@@ -1,0 +1,7 @@
+570272387985514497
+Southwest
+@SouthwestAir @SMiles1307 over two hours now.  Ugh we should all get vouchers this is inexcusable ESP after a pre flight check that was ok.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 09:21:47 -0800
+location: nan

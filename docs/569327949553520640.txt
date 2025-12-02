@@ -1,0 +1,7 @@
+569327949553520640
+United
+@united Did I mention that I was ON THE PLANE so is my luggage. My luggage that I'm not going to have for how many days.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 18:48:55 -0800
+location: Rhode Island

@@ -1,0 +1,7 @@
+567754367860633600
+Delta
+@JetBlue's new CEO seeks the right balance to please passengers and Wall ... - Weyburn Review http://t.co/rtQyjCvTQ3
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 10:36:04 -0800
+location: USA

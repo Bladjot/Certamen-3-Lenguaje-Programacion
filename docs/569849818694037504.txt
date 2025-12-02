@@ -1,0 +1,7 @@
+569849818694037504
+American
+@AmericanAir Can I get some assistance? Flight Cancelled Flightled (today) from PHX to DFW. Not that I'm hating. But my job is concerned
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 05:22:38 -0800
+location: Memphis, TN

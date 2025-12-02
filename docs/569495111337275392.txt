@@ -1,0 +1,7 @@
+569495111337275392
+United
+@united I am - thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 05:53:09 -0800
+location: Colorado

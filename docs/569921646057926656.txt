@@ -1,0 +1,7 @@
+569921646057926656
+US Airways
+@USAirways any way to get your call center to answer for a OneWorld award? Whenever try system says too busy and disconnect or endless hold
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:08:03 -0800
+location: nan

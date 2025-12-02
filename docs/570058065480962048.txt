@@ -1,0 +1,7 @@
+570058065480962048
+US Airways
+@USAirways yes, with Delta!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 19:10:08 -0800
+location: nan

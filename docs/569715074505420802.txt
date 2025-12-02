@@ -1,0 +1,7 @@
+569715074505420802
+American
+@AmericanAir lost @LeslieWolfson luggage on flight yesterday morning #Miami to #NewYork #LGA no response and no luggage more than 37 hrs ltr
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 20:27:13 -0800
+location: nan

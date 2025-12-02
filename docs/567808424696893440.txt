@@ -1,0 +1,7 @@
+567808424696893440
+United
+@united Allright! Last question : the power outlets on my flight are available in the premium cabin. Does that include economy plus cabin?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:10:52 -0800
+location: The Netherlands

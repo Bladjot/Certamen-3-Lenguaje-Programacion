@@ -1,0 +1,7 @@
+569523831460761601
+United
+@united I did already rebook, and now I will miss my first appointments in London tomorrow morning. Thanks for ruining my trip - AGAIN!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 07:47:17 -0800
+location: nan

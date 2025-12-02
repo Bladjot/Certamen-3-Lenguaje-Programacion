@@ -1,0 +1,7 @@
+569695048889028608
+American
+@AmericanAir jal and cathay pacific so no, I can't do it online.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 19:07:38 -0800
+location: nan

@@ -1,0 +1,7 @@
+569514471296774146
+Delta
+@JetBlue Are there airport-wide delays at BOS or did we just get unlucky with 152?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 07:10:05 -0800
+location: Malden, MA

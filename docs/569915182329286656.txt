@@ -1,0 +1,7 @@
+569915182329286656
+United
+@united It's the fact that an international should not be with out her bag and no sense of what's going on other than "maintenance".
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:42:22 -0800
+location: Grand Rapids

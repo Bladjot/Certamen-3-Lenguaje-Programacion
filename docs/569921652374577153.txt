@@ -1,0 +1,7 @@
+569921652374577153
+United
+@united flight 3763 IAd-Sat. We're on the outdoor track for an hour
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 10:08:05 -0800
+location: CT, NY and most other states

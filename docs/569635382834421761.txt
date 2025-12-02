@@ -1,0 +1,7 @@
+569635382834421761
+American
+@AmericanAir 2293 is the Cancelled Flightled one
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 15:10:33 -0800
+location: San Francisco

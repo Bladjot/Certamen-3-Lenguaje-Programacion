@@ -1,0 +1,7 @@
+567908796917420032
+Virgin America
+@VirginAmerica I am all about the in flight artisanal cheese and wine pairing.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 20:49:43 -0800
+location: nan

@@ -1,0 +1,7 @@
+569624948190261249
+American
+@AmericanAir are you kidding me?  No one answering calls on reserv line due to high call volume and not even an option to wait.  Brutal
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:29:05 -0800
+location: san marcos,ca

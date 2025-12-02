@@ -1,0 +1,7 @@
+569548316700254208
+United
+@united it was very comfortable, now waiting for our luggage
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 09:24:35 -0800
+location: Keyport, New Jersey

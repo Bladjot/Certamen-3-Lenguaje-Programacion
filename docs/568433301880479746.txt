@@ -1,0 +1,7 @@
+568433301880479746
+Delta
+@JetBlue would have been good to know months ago that you Cancelled Flightled our flights leaving tomorrow #telleveryone #jetblue #NeverAgain
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 07:33:54 -0800
+location: nan

@@ -1,0 +1,7 @@
+568157733746294787
+Southwest
+@SouthwestAir How do I stop getting credit card apps? I already have a card!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 13:18:54 -0800
+location: Centerville, TN

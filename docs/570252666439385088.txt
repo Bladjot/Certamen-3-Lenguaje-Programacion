@@ -1,0 +1,7 @@
+570252666439385088
+United
+@United. What's going on with UA 236?  outbound flight last thurs was delayed 4hrs How long will this delay be? #worst2unitedflightsever
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 08:03:25 -0800
+location: Washington, D.C. Metro Area

@@ -1,0 +1,7 @@
+567736507687895040
+United
+@united that's what I thought! Thanks for the clarification!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:25:06 -0800
+location: Bhutan

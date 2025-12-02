@@ -1,0 +1,7 @@
+569563698374651904
+United
+@united direct messages not going through please help
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 10:25:42 -0800
+location: Southern California and Hawaii

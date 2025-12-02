@@ -1,0 +1,7 @@
+568153430776287233
+US Airways
+@USAirways @DRVRugby  team is back home but luggage all wet and partly damaged - Not happy! #blizzard
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-18 13:01:48 -0800
+location: The Rugby Universe

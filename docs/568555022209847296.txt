@@ -1,0 +1,7 @@
+568555022209847296
+United
+@united happens every time in and out of Newark.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 15:37:35 -0800
+location: Pursuit of Happiness

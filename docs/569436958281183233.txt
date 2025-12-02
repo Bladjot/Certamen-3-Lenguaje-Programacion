@@ -1,0 +1,7 @@
+569436958281183233
+Delta
+@JetBlue Yep, still waiting for bags at #JFK. What's the holdup? Looks like we are the only flight that got in at this time..??
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 02:02:05 -0800
+location: new york city

@@ -1,0 +1,7 @@
+568802232004513792
+Southwest
+@SouthwestAir  I have a flight 2/22 @930 am from Fort Lauderdale to bwi.. Can I Cancelled Flight that flight ? Flight 3458 trip I'd 314505529
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 07:59:54 -0800
+location: nan

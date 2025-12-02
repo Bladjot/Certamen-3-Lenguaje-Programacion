@@ -1,0 +1,8 @@
+567732351774781440
+US Airways
+@USAirways 
+That is not an excuse to have such a poor website Flight Booking Problems options! My yearly vacation is about to fall through, ubetter do smth!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-17 09:08:35 -0800
+location: nan

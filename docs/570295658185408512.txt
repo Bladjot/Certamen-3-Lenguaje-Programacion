@@ -1,0 +1,7 @@
+570295658185408512
+US Airways
+@USAirways thank you! I will be calling you! #CheapOairChat
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 10:54:15 -0800
+location: Boynton Beach, FL

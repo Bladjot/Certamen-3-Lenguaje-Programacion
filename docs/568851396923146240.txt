@@ -1,0 +1,7 @@
+568851396923146240
+United
+@united the refund team is far from customer care courtesy they need training on work ethics. So it's like sir u r lying how can I help
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 11:15:16 -0800
+location: Baltimore, MD

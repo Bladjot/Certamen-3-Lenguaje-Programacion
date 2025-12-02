@@ -1,0 +1,7 @@
+567853497435160577
+United
+@united fair enough, but it stinks to be the passenger on the plane that leaves the gate then sits on the tarmac for an hour before takeoff
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 17:09:58 -0800
+location: OAK

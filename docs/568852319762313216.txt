@@ -1,0 +1,7 @@
+568852319762313216
+US Airways
+@USAirways Know what I like about gate 35X @NationalAirpor ? Nothin.I like nothin bout yo #ghettofab gate #USAirways http://t.co/mAqw2nLNiU
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 11:18:56 -0800
+location: Portland, Maine

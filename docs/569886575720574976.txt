@@ -1,0 +1,7 @@
+569886575720574976
+United
+@united should have been able to get seat assign without paying $174 more - cust sec should have done that for me
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:48:42 -0800
+location: Ashburn, VA

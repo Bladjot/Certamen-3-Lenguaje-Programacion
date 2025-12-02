@@ -1,0 +1,7 @@
+568818335200223232
+United
+@united can't wait!!! 787!!! @tpallini http://t.co/oDlall5eDH
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 09:03:53 -0800
+location: nan

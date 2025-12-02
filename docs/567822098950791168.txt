@@ -1,0 +1,7 @@
+567822098950791168
+US Airways
+@USAirways Total BS... I offered to pay for a full First Class airfare ..Told Sold out.. 3 seats and they gave the seats to others... #crap
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-17 15:05:12 -0800
+location: Scottsdale, AZ

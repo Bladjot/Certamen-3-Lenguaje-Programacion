@@ -1,0 +1,7 @@
+569601363799359488
+American
+@AmericanAir should reconsider #usairways acquisition. Flight 1843 AA gold flyers insulted by attendant for hanging jacket!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 12:55:22 -0800
+location: Los Angeles

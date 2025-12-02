@@ -1,0 +1,7 @@
+569688392553799680
+American
+@AmericanAir can you tell me why all flights from XNA 2 DFW are Cancelled Flightled for tomorrow morning already?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 18:41:11 -0800
+location: USA

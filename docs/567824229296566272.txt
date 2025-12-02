@@ -1,0 +1,7 @@
+567824229296566272
+United
+@united said they would give us a refund. 30 days Late Flightr NO refund.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 15:13:40 -0800
+location: Canmore

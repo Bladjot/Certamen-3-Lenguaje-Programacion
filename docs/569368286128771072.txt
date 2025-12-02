@@ -1,0 +1,7 @@
+569368286128771072
+United
+@United - routing a person from Houston to Newark, NJ  and then to SFO is not acceptable.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 21:29:12 -0800
+location: nan

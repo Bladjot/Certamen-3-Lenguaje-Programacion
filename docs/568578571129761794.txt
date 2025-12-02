@@ -1,0 +1,7 @@
+568578571129761794
+United
+@united be worse?oh you can't! delayed with no reason on the way to Lon;flight Cancelled Flighted with NO REASON less than 2 days before returning.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 17:11:09 -0800
+location: nyc

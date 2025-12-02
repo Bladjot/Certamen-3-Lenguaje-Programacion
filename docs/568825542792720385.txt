@@ -1,0 +1,7 @@
+568825542792720385
+Southwest
+@SouthwestAir Hi there. We’re flying SWA today. Our son has a peanut allergy. Any way to request the crew not serve peanuts on flight? Thx
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 09:32:32 -0800
+location: Seattle (duh!)

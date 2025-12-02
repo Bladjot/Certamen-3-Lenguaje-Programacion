@@ -1,0 +1,7 @@
+569604453462110208
+American
+@AmericanAir because of you, I am doing the one thing I tried to avoid. Thank you for sending me to baggage claim.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 13:07:39 -0800
+location: Brooklyn

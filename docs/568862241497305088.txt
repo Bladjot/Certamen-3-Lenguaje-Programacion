@@ -1,0 +1,7 @@
+568862241497305088
+Delta
+@JetBlue poor storm customer service, 1hr takeoff delay waiting for the snack cart, rude steward (no names) and I love you guys. #TrueBlue
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 11:58:21 -0800
+location: Hoboken,NJ

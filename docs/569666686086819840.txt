@@ -1,0 +1,7 @@
+569666686086819840
+United
+@united:  thanks for the miserable trip GNV&lt;&lt;&lt;FSD on 2.19-2.21.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 17:14:56 -0800
+location: nan

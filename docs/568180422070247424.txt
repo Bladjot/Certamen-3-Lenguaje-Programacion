@@ -1,0 +1,7 @@
+568180422070247424
+Southwest
+@SouthwestAir k but who won destination dragons
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 14:49:03 -0800
+location: nan

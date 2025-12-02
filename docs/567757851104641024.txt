@@ -1,0 +1,7 @@
+567757851104641024
+US Airways
+@USAirways @AmericanAir  best u could do-I might get my refund within 2 billing cycles. Months of u guys asking for another chance. I'm done
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 10:49:54 -0800
+location: Dallas, TX by way of Tampa, FL

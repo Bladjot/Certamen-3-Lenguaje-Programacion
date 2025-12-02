@@ -1,0 +1,7 @@
+568926018049691648
+Virgin America
+@VirginAmerica Adds Pillows Instead of Lie-Flat Seats in First Class Arms Race http://t.co/rGYwJBbhm4
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 16:11:47 -0800
+location: Phoenix AZ

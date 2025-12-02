@@ -1,0 +1,7 @@
+569356085359996929
+Southwest
+@SouthwestAir everything OK? This is my 3rd call for the day and this time I've been on hold for 1.5 hrs. I'll hang up and try again.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 20:40:43 -0800
+location: nan

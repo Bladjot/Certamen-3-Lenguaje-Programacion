@@ -1,0 +1,7 @@
+568870841120731138
+US Airways
+@USAirways can u tell me if 5238 from clt to Jan has gotten out of the gate yet?  I will have a tight connection out of clt to mco.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 12:32:32 -0800
+location: Orlando

@@ -1,0 +1,7 @@
+570217145428090880
+United
+@united I've sent the message, let me know if you got it. I'm not very twitter-literate. Also, is he REALLY going to be stuck for 18hrs?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 05:42:16 -0800
+location: nan

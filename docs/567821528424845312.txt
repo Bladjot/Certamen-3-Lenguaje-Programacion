@@ -1,0 +1,7 @@
+567821528424845312
+Delta
+@JetBlue we have just landed, thank you anyway. Btw, flight staff on flight 654 were wonderful despite their full day and heavy load.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 15:02:56 -0800
+location: CT

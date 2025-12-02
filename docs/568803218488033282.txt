@@ -1,0 +1,7 @@
+568803218488033282
+United
+@united is a money sucking airline with terrible terrible customer service
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 08:03:49 -0800
+location: San Francisco

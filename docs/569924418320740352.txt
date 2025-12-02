@@ -1,0 +1,7 @@
+569924418320740352
+Delta
+@JetBlue well, now I'll make sure to never fly JetBlue
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 10:19:04 -0800
+location: nan

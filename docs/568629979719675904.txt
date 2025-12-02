@@ -1,0 +1,7 @@
+568629979719675904
+United
+“@united: @BattierCCIpuppy We hope to see you on board soon and thanks for the tweet. ^EY” 👏👏
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 20:35:26 -0800
+location: Sacramento, CA

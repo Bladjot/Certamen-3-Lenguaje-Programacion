@@ -1,0 +1,7 @@
+569663687948181504
+American
+@AmericanAir Trying to rebook a flight with you because of Cancelled Flightlation is a nightmare.  I was hung up on once. Can you help me rebook?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:03:01 -0800
+location: nan

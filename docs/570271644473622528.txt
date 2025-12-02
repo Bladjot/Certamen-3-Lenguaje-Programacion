@@ -1,0 +1,7 @@
+570271644473622528
+United
+@united in addition, my first flight was delayed an hour and I'm arriving at my destination 8 hrs Late Flight.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 09:18:49 -0800
+location: nan

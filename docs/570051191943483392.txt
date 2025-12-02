@@ -1,0 +1,7 @@
+570051191943483392
+United
+@united rebooting Chicago dispatch system, need @pivotalcf as I'm tired of sitting on planes
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 18:42:49 -0800
+location: iPhone: 39.201706,-106.854080

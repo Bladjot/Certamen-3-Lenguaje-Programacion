@@ -1,0 +1,7 @@
+568536882012749824
+Virgin America
+@VirginAmerica trying to check-in...but looks like your site is down?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 14:25:30 -0800
+location: DC | Jersey City

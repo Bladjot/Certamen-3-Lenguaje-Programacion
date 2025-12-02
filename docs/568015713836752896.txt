@@ -1,0 +1,7 @@
+568015713836752896
+Southwest
+@SouthwestAir so was there a winner for #DestinationDragons ???
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 03:54:34 -0800
+location: Dodger Stadium | Disneyland

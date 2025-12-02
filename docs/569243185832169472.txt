@@ -1,0 +1,7 @@
+569243185832169472
+US Airways
+@USAirways haven't eaten all day either so lemme get that CC# so I can buy a burger across from the terminal.  #DoBetter @UsAirwaysSuck
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 13:12:06 -0800
+location: CT, USA

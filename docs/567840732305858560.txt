@@ -1,0 +1,7 @@
+567840732305858560
+Southwest
+@SouthwestAir Being old I will miss my connection and can sleep at OAK or get a hotel on my own dime rubs me the wrong way. I wasn’t Late Flight.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 16:19:15 -0800
+location: nan

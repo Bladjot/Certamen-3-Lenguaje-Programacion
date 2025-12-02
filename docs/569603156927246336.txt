@@ -1,0 +1,7 @@
+569603156927246336
+American
+@AmericanAir missing a full days of work thanks guys
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 13:02:29 -0800
+location: Belleville

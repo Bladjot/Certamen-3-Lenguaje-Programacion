@@ -1,0 +1,7 @@
+570044497330987008
+American
+Without notifying though? “@AmericanAir: @krescate We don't like Cancelled Flightling flights, Kim, but weather has not played nice with us."
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 18:16:13 -0800
+location: San Diego

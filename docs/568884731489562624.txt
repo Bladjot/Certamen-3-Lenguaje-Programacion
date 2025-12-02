@@ -1,0 +1,7 @@
+568884731489562624
+Southwest
+@SouthwestAir 5 min away!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 13:27:44 -0800
+location: Hogwarts

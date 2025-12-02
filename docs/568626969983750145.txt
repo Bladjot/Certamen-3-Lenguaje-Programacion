@@ -1,0 +1,7 @@
+568626969983750145
+US Airways
+@USAirways why does it cost $900 to change a $100 ticket when it only cost $150 to purchase a new ticket?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 20:23:28 -0800
+location: nan

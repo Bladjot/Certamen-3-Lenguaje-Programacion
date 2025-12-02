@@ -1,0 +1,7 @@
+569948646717812736
+American
+@AmericanAir Let's all have a extraordinary week and make it a year to remember #GoingForGreat 2015 thanks so much American Airlines!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 11:55:21 -0800
+location: nan

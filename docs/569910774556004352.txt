@@ -1,0 +1,7 @@
+569910774556004352
+American
+@AmericanAir I need HELP!  I'm trying to Cancelled Flight a flight before it takes off but I can't get a hold of ANYONE because all lines are busy.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:24:51 -0800
+location: ÜT: 37.77581,-122.419796

@@ -1,0 +1,7 @@
+568642209823612929
+Delta
+@JetBlue and stranded passengers aren't being helped to get another flight?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 21:24:02 -0800
+location: San Francisco, CA

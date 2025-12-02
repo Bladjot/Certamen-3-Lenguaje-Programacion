@@ -1,0 +1,7 @@
+569514001450672128
+United
+@united they wouldn't let me on. Real nice of you! Just love your awesome service. And U have 2 people working this customer service line..
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:08:13 -0800
+location: california

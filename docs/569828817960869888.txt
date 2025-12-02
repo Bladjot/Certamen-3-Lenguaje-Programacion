@@ -1,0 +1,7 @@
+569828817960869888
+American
+@AmericanAir got a callback at 1 am, took care of it. thanks.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 03:59:11 -0800
+location: chapel hill, nc

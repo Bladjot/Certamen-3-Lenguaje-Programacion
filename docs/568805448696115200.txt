@@ -1,0 +1,7 @@
+568805448696115200
+United
+@united Got rebooked on AA.  One question though, do you automatically refund the check baggage fees for flight that was Cancelled Flightled?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 08:12:41 -0800
+location: Toronto

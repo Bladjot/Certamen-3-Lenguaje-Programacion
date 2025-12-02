@@ -1,0 +1,7 @@
+569540963091259392
+United
+@united no way one person is working entire security checkpoint in EWR 🆖
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 08:55:21 -0800
+location: nan

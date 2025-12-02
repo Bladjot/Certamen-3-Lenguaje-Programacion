@@ -1,0 +1,7 @@
+568538553862340608
+US Airways
+@USAirways should take a lesson from @SouthwestAir and wait for passengers from connecting flights. Shame..
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 14:32:08 -0800
+location: nan

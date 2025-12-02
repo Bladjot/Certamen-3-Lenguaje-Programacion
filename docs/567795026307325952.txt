@@ -1,0 +1,7 @@
+567795026307325952
+Delta
+@JetBlue thanks for the upgrade😉!! so far so good. #KeepItUp http://t.co/BKmfeY7QOL
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 13:17:38 -0800
+location: nan

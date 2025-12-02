@@ -1,0 +1,7 @@
+569901072443166720
+United
+@united traveling with @MegZezzo who is injured. Gate agent in Chicago was awesome helping her. TY #roadwarrior
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 08:46:18 -0800
+location: Ashtabula, OH

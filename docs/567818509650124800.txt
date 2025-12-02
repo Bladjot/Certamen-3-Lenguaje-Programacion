@@ -1,0 +1,7 @@
+567818509650124800
+US Airways
+@USAirways They're all reservations numbers and none are in Hungary. And my phone not working here. You make it too difficult.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 14:50:56 -0800
+location: Here, There and Everywhere

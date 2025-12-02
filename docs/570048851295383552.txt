@@ -1,0 +1,7 @@
+570048851295383552
+US Airways
+@USAirways #DividendRewards Urgently need to speak with a CS rep. My 50K miles havent shown &amp; I've fulfilled all reqs. Flight Booking Problems flights today
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 18:33:31 -0800
+location: Austin, TX | Atlanta, GA

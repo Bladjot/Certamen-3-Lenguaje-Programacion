@@ -1,0 +1,7 @@
+570305365159632899
+American
+@AmericanAir DM the locator code, thanks.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:32:49 -0800
+location: nan

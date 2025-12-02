@@ -1,0 +1,7 @@
+569421478460063745
+US Airways
+@USAirways on hold 2.5 hrs trying to reschedule our flight. Can anyone there please help us?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 01:00:34 -0800
+location: nan

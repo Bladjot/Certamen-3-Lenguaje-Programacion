@@ -1,0 +1,7 @@
+568999879176949760
+US Airways
+@USAirways REALLY? Tried that already-got message not available to do. Next idea?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 21:05:17 -0800
+location: Birmingham, AL

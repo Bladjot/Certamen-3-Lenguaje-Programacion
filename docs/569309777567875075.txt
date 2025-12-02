@@ -1,0 +1,7 @@
+569309777567875075
+Southwest
+@SouthwestAir I love you Southwest. I accept all your flight attendants and their many talents always! #flySWA
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 17:36:42 -0800
+location: nan

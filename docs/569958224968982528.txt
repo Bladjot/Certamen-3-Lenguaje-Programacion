@@ -1,0 +1,7 @@
+569958224968982528
+American
+@AmericanAir, I've tried no less than 8 times today to get in touch with your service desk beginning at 8:30 EST.  I'm having no luck -help!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 12:33:24 -0800
+location: nan

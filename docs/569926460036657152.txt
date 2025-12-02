@@ -1,0 +1,7 @@
+569926460036657152
+Delta
+@JetBlue I just booked a flight with you guys. I'm reconsidering that decision now after reading this tweet.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 10:27:11 -0800
+location: San Francisco

@@ -1,0 +1,7 @@
+570268875872473088
+American
+@AmericanAir I was happy to purchase the upgrade. If only it was avail on my next flight.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 09:07:49 -0800
+location: Southern Suburbia

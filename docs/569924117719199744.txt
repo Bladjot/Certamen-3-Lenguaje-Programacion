@@ -1,0 +1,7 @@
+569924117719199744
+Delta
+@JetBlue I digg it!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:17:52 -0800
+location: Tempe, Arizona

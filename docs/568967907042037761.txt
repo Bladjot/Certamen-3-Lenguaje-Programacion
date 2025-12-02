@@ -1,0 +1,7 @@
+568967907042037761
+Delta
+@JetBlue 😭 I used points can I get them back if I decide not to go?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 18:58:14 -0800
+location: Brooklyn!

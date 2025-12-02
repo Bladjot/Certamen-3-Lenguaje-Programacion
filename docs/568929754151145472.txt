@@ -1,0 +1,7 @@
+568929754151145472
+Southwest
+@SouthwestAir @SacIntlAirport Feels like a good day to fly!!  Thanks for the ontime departure to SNA!!:) #bestinclass #30000ft #takemehome
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 16:26:38 -0800
+location: Sacramento, CA

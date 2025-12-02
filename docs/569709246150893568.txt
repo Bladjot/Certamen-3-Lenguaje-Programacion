@@ -1,0 +1,7 @@
+569709246150893568
+United
+@united but again UNITED DOESNT GIVE 2 SHITS ABOUT THEIR CUSTOMERS
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:04:03 -0800
+location: nan

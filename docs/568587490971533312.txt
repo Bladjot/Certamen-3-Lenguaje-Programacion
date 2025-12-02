@@ -1,0 +1,7 @@
+568587490971533312
+Southwest
+@SouthwestAir because your gate attendant let someone board whose boarding pass kept reading invalid. This messed up the passenger log.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-19 17:46:36 -0800
+location: 'Zona

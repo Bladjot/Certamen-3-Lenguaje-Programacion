@@ -1,0 +1,7 @@
+568064842466250752
+United
+@united Filled out at the airport as part of a long day made longer.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 07:09:47 -0800
+location: DC

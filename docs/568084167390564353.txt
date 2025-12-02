@@ -1,0 +1,7 @@
+568084167390564353
+United
+@united My wife and I will be sharing this dreadful experience. Don't pretend UA cares about young girl traveling alone # United Airlines
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 08:26:34 -0800
+location: New Canaan, Ct

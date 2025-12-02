@@ -1,0 +1,7 @@
+568193116437483520
+Virgin America
+@VirginAmerica you should have 39 dollar LAX-Las fares!!!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 15:39:30 -0800
+location: Hogwarts

@@ -1,0 +1,7 @@
+569011185439285248
+United
+@united funny, both my flights yesterday were delayed because of mechanical issues. Rotten luck to get 2 planes in a row with "issues"...
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 21:50:12 -0800
+location: Austin

@@ -1,0 +1,7 @@
+568795462125428736
+US Airways
+@USAirways headed to NYC from CLT. Funny to hear all phones ring at once and then the entire plane groan (has happened twice more).
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 07:33:00 -0800
+location: Charlotte, NC

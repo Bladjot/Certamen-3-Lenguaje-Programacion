@@ -1,0 +1,7 @@
+568560685568937985
+Delta
+@JetBlue do you do any discounts for volunteer firefighters?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 16:00:05 -0800
+location: Roslyn, ny

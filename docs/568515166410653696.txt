@@ -1,0 +1,7 @@
+568515166410653696
+Southwest
+@SouthwestAir will you ever have a nonstop from #SJC to #BNA?? We'll take #SFO or #OAK too! Pleaseeeeee thank you!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 12:59:12 -0800
+location: Silicon Valley, CA

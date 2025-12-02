@@ -1,0 +1,7 @@
+569482497496473600
+Southwest
+@SouthwestAir I'm running out of money to keep paying for hotel rooms &amp; food in NYC. You don't help people with $ spent
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 05:03:02 -0800
+location: Loomis, CA (Near SacTown)

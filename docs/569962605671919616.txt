@@ -1,0 +1,7 @@
+569962605671919616
+Delta
+Bruh “@JetBlue: Our fleet's on fleek. http://t.co/W9BQiw0aou”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:50:49 -0800
+location: New Orleans

@@ -1,0 +1,7 @@
+569644414395486209
+Southwest
+@SouthwestAir still planing on flights into Dal? We are trying to fly in tomorrow from lax
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:46:26 -0800
+location: Dallas, Texas

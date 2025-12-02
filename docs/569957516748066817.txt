@@ -1,0 +1,7 @@
+569957516748066817
+Southwest
+@SouthwestAir Awesome staff at the  check in desk! They had a paper airplane race for a SW gift card to keep ppl entertained during delays
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 12:30:35 -0800
+location: nan

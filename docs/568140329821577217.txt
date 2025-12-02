@@ -1,0 +1,7 @@
+568140329821577217
+Delta
+@JetBlue Thanks for the FB. message telling me I will have to wait between 1-3 days.  I'm waiting.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 12:09:44 -0800
+location: nan

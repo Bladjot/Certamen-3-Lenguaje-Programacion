@@ -1,0 +1,7 @@
+568625613797511169
+Delta
+@JetBlue What is going on with the flight from Buffalo to JFK? Have they figured anything out about the temperature and the tower yet?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 20:18:05 -0800
+location: nan

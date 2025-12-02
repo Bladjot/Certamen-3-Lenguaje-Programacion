@@ -1,0 +1,7 @@
+568496861797076992
+US Airways
+@USAirways so basically I am stuck paying for hidden fees and being bumped to an inferior flight. JetBlue here I come. #usairways #mergers
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 11:46:28 -0800
+location: nan

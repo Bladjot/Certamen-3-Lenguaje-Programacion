@@ -1,0 +1,7 @@
+568834902365503488
+US Airways
+@USAirways i got through and am able to switch my flight with no charge. Thank you
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 10:09:43 -0800
+location: nan

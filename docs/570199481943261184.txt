@@ -1,0 +1,7 @@
+570199481943261184
+US Airways
+@USAirways @AmericanAir Day 3 &amp; still no luggage Chkd http://t.co/MbLTALr4BS STATUS=AWAITING ASGMNT TO DRIVER Since yest 10:15am
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 04:32:04 -0800
+location: nan

@@ -1,0 +1,7 @@
+569513498016923648
+United
+@united, I don't believe that you do.. http://t.co/7z3GqEBfK2
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 07:06:13 -0800
+location: Chicago

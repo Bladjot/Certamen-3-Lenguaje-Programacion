@@ -1,0 +1,7 @@
+567888186967470080
+Southwest
+@SouthwestAir this was the 3rd Cancelled Flightlation in 2 days due to weather in Nashville. 3 trips to the airport. Each time communicated Late Flight by SW
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 19:27:49 -0800
+location: nan

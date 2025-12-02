@@ -1,0 +1,7 @@
+568100987887427584
+Southwest
+@SouthwestAir sure,I'll send a message now!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 09:33:24 -0800
+location: murfreesboro

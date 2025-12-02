@@ -1,0 +1,7 @@
+569583698640818176
+US Airways
+@USAirways the link doesn't work..
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 11:45:10 -0800
+location: nan

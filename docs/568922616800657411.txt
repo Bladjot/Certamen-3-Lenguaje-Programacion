@@ -1,0 +1,7 @@
+568922616800657411
+United
+@united Gate Agent Alavera is amazing
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 15:58:16 -0800
+location: Boulder, CO

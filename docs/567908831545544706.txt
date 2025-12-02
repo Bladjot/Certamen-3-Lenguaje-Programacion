@@ -1,0 +1,7 @@
+567908831545544706
+US Airways
+@USAirways I absolutely knew you would try to blame weather to deny us vouchers in Phoenix. Totally false, was a crew issue.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 20:49:51 -0800
+location: Boston, MA

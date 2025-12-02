@@ -1,0 +1,7 @@
+569904370361483264
+Southwest
+@SouthwestAir Wasn't able to sit in my seat since the guy next to me was using it. #worstflightever #ideserveareward http://t.co/l7hSnLgie2
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 08:59:24 -0800
+location: Columbus, OH

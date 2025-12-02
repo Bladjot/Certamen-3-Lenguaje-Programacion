@@ -1,0 +1,7 @@
+570043114058076160
+US Airways
+@USAirways @PhilaCarService looks like a long trip from cancun to philly? 9 hours Late Flight? Seriously?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 18:10:43 -0800
+location: nan

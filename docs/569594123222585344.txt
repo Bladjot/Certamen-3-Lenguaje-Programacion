@@ -1,0 +1,7 @@
+569594123222585344
+American
+@AmericanAir  beyond frustrated with no call back from auto hold or whatever you call it. Entered my number at 11:30 CST, still no call 2:26
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:26:36 -0800
+location: National, based in Texas

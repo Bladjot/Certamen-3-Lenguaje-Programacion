@@ -1,0 +1,7 @@
+569568357030232066
+Delta
+@JetBlue #1691 out of JFK. no one has info &amp; no answers as to why we boarded the plane. the team is in an awkward spot &amp; everyone is cranky
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 10:44:13 -0800
+location: nyc

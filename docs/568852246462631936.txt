@@ -1,0 +1,7 @@
+568852246462631936
+US Airways
+@USAirways I've tried calling 3 times the past 3 days and I keep getting told to call back. SOMEONE PLEASE HELP ME
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 11:18:38 -0800
+location: this must be the place

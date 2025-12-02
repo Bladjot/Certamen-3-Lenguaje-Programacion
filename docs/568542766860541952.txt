@@ -1,0 +1,7 @@
+568542766860541952
+Delta
+@JetBlue That'd be nice! Hoping to rack up enough miles to take a trip to Seattle and enjoy a perfect latte in the city of coffee.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 14:48:53 -0800
+location: Burlington, MA

@@ -1,0 +1,7 @@
+569358476402499584
+Southwest
+@SouthwestAir #fail  southwest changes my flight to a different time and city and blames it on me. They won't correct it. #furious
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 20:50:13 -0800
+location: nan

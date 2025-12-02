@@ -1,0 +1,7 @@
+568885645927686144
+US Airways
+@USAirways How do I get through?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 13:31:22 -0800
+location: Asheville, NC

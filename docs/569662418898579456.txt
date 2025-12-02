@@ -1,0 +1,7 @@
+569662418898579456
+American
+@AmericanAir I’ve been on the line waiting for 40 minutes again.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:57:59 -0800
+location: NYC

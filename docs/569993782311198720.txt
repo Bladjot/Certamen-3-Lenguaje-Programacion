@@ -1,0 +1,7 @@
+569993782311198720
+United
+@united My favorite way to travel! Thank you! http://t.co/vGN2X1ckg0
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 14:54:42 -0800
+location: nan

@@ -1,0 +1,7 @@
+567756326718431232
+US Airways
+@USAirways then why did my whole team be able to put there carry ons under the plane
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 10:43:51 -0800
+location: nan

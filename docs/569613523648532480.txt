@@ -1,0 +1,7 @@
+569613523648532480
+American
+@AmericanAir, I've been booked on the wrong flight! And now PE desk has a wait of more than 2 hours?!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:43:41 -0800
+location: Jeddah-Karachi X NYC

@@ -1,0 +1,7 @@
+569658322732756992
+Southwest
+@SouthwestAir -U dont have Atlanta to San fransisco in 99$ in the present sale, like u had in the last sale?Im looking for 2 return tickets
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:41:42 -0800
+location: nan

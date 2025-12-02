@@ -1,0 +1,7 @@
+568503887113498625
+United
+@united it's cool. I didn't need to go to work today. Or get home to make sure my house is ok in the -30 wind chill.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 12:14:23 -0800
+location: Fort Wayne

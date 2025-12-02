@@ -1,0 +1,7 @@
+569217012980805632
+Southwest
+@SouthwestAir Any way that I can get a receipt for a Cancelled Flightled portion of a roundtrip flight? Used the flight voucher just need receipt.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 11:28:06 -0800
+location: Kansas City, KS

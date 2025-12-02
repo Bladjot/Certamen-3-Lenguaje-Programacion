@@ -1,0 +1,7 @@
+567902218059264000
+Delta
+@JetBlue That makes sense. It sucks, though, because now I'll be stuck in the airport for 5+ hours and Late Flight to my meeting.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 20:23:34 -0800
+location: Provo, UT

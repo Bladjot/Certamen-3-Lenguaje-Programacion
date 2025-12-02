@@ -1,0 +1,7 @@
+570188097305976832
+American
+@AmericanAir fortunately the window seat was a no-show. Able to scoot over and create space.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 03:46:50 -0800
+location: nan

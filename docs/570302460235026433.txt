@@ -1,0 +1,7 @@
+570302460235026433
+Southwest
+@SouthwestAir can you follow me so I can send you the info?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:21:16 -0800
+location: New York, NY

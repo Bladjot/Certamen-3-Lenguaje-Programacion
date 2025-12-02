@@ -1,0 +1,7 @@
+569357079716229121
+US Airways
+@USAirways I have been I hold for 40 min. My 5:50 flight just got Cancelled Flightled and rescheduled for Monday. This is unacceptable!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 20:44:40 -0800
+location: Atlanta, GA

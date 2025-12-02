@@ -1,0 +1,7 @@
+569507834930442241
+United
+@united its been five days, I'm just asking you to clarify your policy on car seats. I don't want to have to take this higher up.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 06:43:43 -0800
+location: nan

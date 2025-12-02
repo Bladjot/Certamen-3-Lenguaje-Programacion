@@ -1,0 +1,7 @@
+570259311315836928
+United
+@united for the record- Rozana at Newark was lovely and helpful. #choosekind
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 08:29:49 -0800
+location: btv

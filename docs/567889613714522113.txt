@@ -1,0 +1,7 @@
+567889613714522113
+US Airways
+@USAirways  that would be lovely! You have great people working in your organization.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 19:33:29 -0800
+location: nan

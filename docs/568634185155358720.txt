@@ -1,0 +1,7 @@
+568634185155358720
+US Airways
+@USAirways Exicted to be flying with y'all soon !!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 20:52:09 -0800
+location: nan

@@ -1,0 +1,7 @@
+569300135328530432
+United
+@united Can you help me get a flight out tonight to Houston?Just don't want to be stuck here till Monday with all this bad weather moving in
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 16:58:24 -0800
+location: Oxford, MS

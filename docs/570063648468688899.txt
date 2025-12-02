@@ -1,0 +1,7 @@
+570063648468688899
+American
+@AmericanAir WHAT IS GOING ON?  This is pathetic. Online doesn't work and phone wants $25 to give a seat assignment.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 19:32:19 -0800
+location: nan

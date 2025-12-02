@@ -1,0 +1,7 @@
+570156777297350656
+US Airways
+@usairways Thanks so much for ruining my vacation. I really couldn't have done it without you.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 01:42:23 -0800
+location: Kentucky

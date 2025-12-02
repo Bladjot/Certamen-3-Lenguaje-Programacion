@@ -1,0 +1,7 @@
+569960635376766976
+Delta
+“@JetBlue: Our fleet's on fleek. http://t.co/4LlWi5oxvO” lmfaooooo hook me up with a flight!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:42:59 -0800
+location: St. John's

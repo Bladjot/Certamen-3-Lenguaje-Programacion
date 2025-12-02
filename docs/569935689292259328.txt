@@ -1,0 +1,7 @@
+569935689292259328
+United
+@united ok thx!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 11:03:51 -0800
+location: nan

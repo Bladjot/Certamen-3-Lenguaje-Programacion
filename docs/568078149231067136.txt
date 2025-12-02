@@ -1,0 +1,7 @@
+568078149231067136
+Delta
+@JetBlue anything for you. #flyfi http://t.co/8jceDiKY9U
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 08:02:39 -0800
+location: nan

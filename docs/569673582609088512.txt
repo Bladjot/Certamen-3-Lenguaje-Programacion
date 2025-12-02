@@ -1,0 +1,7 @@
+569673582609088512
+American
+@AmericanAir already did &amp; an automated voice told us to wait 2 hours. They have yet to call back.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:42:20 -0800
+location: Arlington, VA

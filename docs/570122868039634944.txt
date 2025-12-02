@@ -1,0 +1,7 @@
+570122868039634944
+American
+@AmericanAir Okay... If someone does it look for it now my fear is it will be lost forever. It's a very small item.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 23:27:38 -0800
+location: Houston

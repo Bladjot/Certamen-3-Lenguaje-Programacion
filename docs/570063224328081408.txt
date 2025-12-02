@@ -1,0 +1,7 @@
+570063224328081408
+United
+@united Flight attendant never served me my beverage (tea), and not once checked up on me. What gives? #ua6076 #notcool
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 19:30:38 -0800
+location: Cornfields

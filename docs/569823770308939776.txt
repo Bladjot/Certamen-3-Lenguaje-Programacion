@@ -1,0 +1,7 @@
+569823770308939776
+American
+@AmericanAir i tried all day. Have been disconnected due to "heavy call volume."
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 03:39:08 -0800
+location: nan

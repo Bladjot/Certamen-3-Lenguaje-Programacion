@@ -1,0 +1,7 @@
+568130484934459392
+Delta
+@JetBlue 1951 BOS to ORD
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 11:30:37 -0800
+location: Boston, MA

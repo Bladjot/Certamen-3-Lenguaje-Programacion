@@ -1,0 +1,7 @@
+569521838625312769
+Southwest
+@SouthwestAir @AARP @JimCramer 75yo mom says, "Hire more staff to accommodate your audience" You could learn lots from her. She's off to FL
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 07:39:22 -0800
+location: nan

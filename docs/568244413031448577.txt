@@ -1,0 +1,7 @@
+568244413031448577
+US Airways
+@USAirways how does an airline misplace an airline attendant?!! been at Reagan airport since 1pm10:15 to Cincy is delayed trying to find her
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 19:03:20 -0800
+location: New York City

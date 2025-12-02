@@ -1,0 +1,7 @@
+568933672033910784
+US Airways
+@USAirways connection made. Thanks again this week. #daddyshome
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 16:42:12 -0800
+location: Independence, MO

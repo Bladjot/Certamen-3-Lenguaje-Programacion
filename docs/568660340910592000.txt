@@ -1,0 +1,7 @@
+568660340910592000
+Delta
+@JetBlue and The from @WSJ Team to Offer In-#Flight Access to Journal ... - Nassau News Live http://t.co/7E5bxwG16t
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 22:36:05 -0800
+location: USA

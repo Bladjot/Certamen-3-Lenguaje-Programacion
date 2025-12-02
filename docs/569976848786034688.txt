@@ -1,0 +1,7 @@
+569976848786034688
+US Airways
+@USAirways I have to fly back to Charlotte out of a different airport. You guys are not very flexible like other airlines.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 13:47:25 -0800
+location: Cali native now in Charlotte

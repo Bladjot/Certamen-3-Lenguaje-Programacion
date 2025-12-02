@@ -1,0 +1,7 @@
+569995418370646016
+Southwest
+@SouthwestAir my question is this: what's up with the crazy boarding procedure? Does the confusion prevent fistfights over the good seats?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 15:01:12 -0800
+location: Southern California

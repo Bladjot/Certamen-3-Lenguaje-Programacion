@@ -1,0 +1,7 @@
+568447131431931904
+Southwest
+@SouthwestAir question all.  When will I receive my yearly bonus point accumulation? I think it's around now but not sure.  Thanks! :)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 08:28:52 -0800
+location: UNICEF NYHQ

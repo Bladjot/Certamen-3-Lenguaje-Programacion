@@ -1,0 +1,7 @@
+570066283233972224
+Southwest
+@SouthwestAir What an awesome flight Dallas 2 NY. Virgin America refused bc of my child's peanut allergy but u guys didn't. Thanks! 👍😊
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 19:42:47 -0800
+location: ny

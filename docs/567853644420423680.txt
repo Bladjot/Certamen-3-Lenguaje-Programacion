@@ -1,0 +1,7 @@
+567853644420423680
+United
+@united is amazing how hard is to talk with customer service! !!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 17:10:33 -0800
+location: nan

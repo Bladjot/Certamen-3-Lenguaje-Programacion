@@ -1,0 +1,7 @@
+569763359278505984
+United
+@united whats UA 1205 lax - newark ??
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 23:39:05 -0800
+location: nan

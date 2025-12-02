@@ -1,0 +1,7 @@
+569646269221773312
+Delta
+@JetBlue all day
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:53:48 -0800
+location: REVERE MA

@@ -1,0 +1,7 @@
+567856127246999552
+Delta
+@JetBlue that's not an option for us. So how can we help each other fix this? I would've made the change earlier if given accurate info.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 17:20:25 -0800
+location: nan

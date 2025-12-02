@@ -1,0 +1,7 @@
+569119050682339329
+US Airways
+@USAirways ok. Thank you
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 04:58:50 -0800
+location: nan

@@ -1,0 +1,7 @@
+568820729879367680
+Southwest
+@SouthwestAir 4-4 in horrible customer service. Empty seats in early flight wantcharge me double to get home early instead the usual Late Flight
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 09:13:24 -0800
+location: nan

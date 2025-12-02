@@ -1,0 +1,7 @@
+569933565321990144
+American
+@AmericanAir 4hrs Late Flightr i get a call back, and immediately disconnected
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:55:25 -0800
+location: Brevard, NC

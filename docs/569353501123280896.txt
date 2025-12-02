@@ -1,0 +1,7 @@
+569353501123280896
+US Airways
+@USAirways I had to sit in your kitchen and move stuff around so I had what I needed. I'm extremely disappointed in your service
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 20:30:27 -0800
+location: nan

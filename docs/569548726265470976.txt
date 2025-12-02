@@ -1,0 +1,7 @@
+569548726265470976
+Delta
+@JetBlue Customer of the year? http://t.co/epqqONHO2H
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 09:26:12 -0800
+location: Nashville, TN

@@ -1,0 +1,7 @@
+569212860665978880
+United
+@united can anyone assure me that the aircraft coming to Denver had left it's previous destination? Flight 3618
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 11:11:36 -0800
+location: Chicago, IL

@@ -1,0 +1,7 @@
+568995644276383744
+Delta
+@JetBlue flight 672 delayed from 9:30 to 11:47 now, still sitting on runway over 15 minutes so far. Air travel at its best.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 20:48:27 -0800
+location: New York

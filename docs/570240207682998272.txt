@@ -1,0 +1,7 @@
+570240207682998272
+American
+@AmericanAir 4285. Apparently we’re told, staff on the ground keep promising to come and they don’t.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 07:13:54 -0800
+location: Washington, DC

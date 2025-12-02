@@ -1,0 +1,7 @@
+569686000240345090
+US Airways
+@USAirways worst service at Reagan Int. I rarely post about a company or service, but I am so annoyed. Not weather reLate Flightd…incompetence.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 18:31:41 -0800
+location: nan

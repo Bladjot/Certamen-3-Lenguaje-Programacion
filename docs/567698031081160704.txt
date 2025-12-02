@@ -1,0 +1,7 @@
+567698031081160704
+US Airways
+.@USAirways we have no choice but to pay another $50 to go to the airport in the hopes that we will be treated better by a rep.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 06:52:12 -0800
+location: London, UK

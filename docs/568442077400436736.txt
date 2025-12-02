@@ -1,0 +1,7 @@
+568442077400436736
+Delta
+@JetBlue traveling w/ a rifle for a hunting trip, can a pistol be in the same large rifle case too? Wasn't clear in freq asked questions
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 08:08:47 -0800
+location: New England

@@ -1,0 +1,8 @@
+567902921829978112
+Southwest
+@SouthwestAir where are our bags?
+We have a tv show to film!!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 20:26:22 -0800
+location: Tampa / St Petersburg ,Florida

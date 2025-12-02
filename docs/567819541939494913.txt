@@ -1,0 +1,7 @@
+567819541939494913
+Southwest
+@SouthwestAir Does anyone ever answer your phone? #poor
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 14:55:03 -0800
+location: Sunrise Beach, MO

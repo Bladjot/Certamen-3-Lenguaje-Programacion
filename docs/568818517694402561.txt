@@ -1,0 +1,7 @@
+568818517694402561
+Southwest
+@SouthwestAir can you answer the phone so I can change my flight plans. Srsly.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 09:04:37 -0800
+location: nan

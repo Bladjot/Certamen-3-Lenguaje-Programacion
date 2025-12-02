@@ -1,0 +1,7 @@
+568769216662282240
+US Airways
+@USAirways we got 1 drink then F/A sat in jump seat doing crosswords. Glasses picked up at landing. Just a very lazy service 4 First class.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 05:48:43 -0800
+location: Haverford, PA & Wilton Manors

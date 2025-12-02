@@ -1,0 +1,7 @@
+570256852166029312
+American
+@AmericanAir do you still use DC9's?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:20:03 -0800
+location: nan

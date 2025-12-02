@@ -1,0 +1,7 @@
+568852572188098561
+US Airways
+@USAirways sure did. I have carried this bag on numerous times on the same style plane. Planning accordingly apparently accounts for nothing
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 11:19:56 -0800
+location: nan

@@ -1,0 +1,7 @@
+568378598043852800
+Delta
+@JetBlue where's my selfie?
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 03:56:32 -0800
+location: London

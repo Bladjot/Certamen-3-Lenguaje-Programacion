@@ -1,0 +1,7 @@
+570133607223840768
+US Airways
+@USAirways Excited that I'll be flying from Syracuse to interview in Dallas on Friday for the FA position- this is a goal &amp; dream of mine!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 00:10:19 -0800
+location: Oswego, NY

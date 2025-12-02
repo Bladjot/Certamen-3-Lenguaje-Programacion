@@ -1,0 +1,7 @@
+569508406551322624
+Southwest
+@SouthwestAir some woman gets on plane and holds 2 seats in the bulkhead for her friends with C boarding passes. I paid $ earlybird thx
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 06:45:59 -0800
+location: nan

@@ -1,0 +1,7 @@
+570182980142022656
+United
+@united AND my luggage has been broken!! #youcouldntmakethis up #brokenwheel
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-24 03:26:30 -0800
+location: London baby

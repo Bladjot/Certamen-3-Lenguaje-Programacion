@@ -1,0 +1,7 @@
+568166099184783360
+United
+@united yes, supposed to be here by 6PM. I have a Board Meeting tomorrow. Fingers crossed.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 13:52:08 -0800
+location: Washington, DC

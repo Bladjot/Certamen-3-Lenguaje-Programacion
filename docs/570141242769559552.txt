@@ -1,0 +1,7 @@
+570141242769559552
+American
+@AmericanAir offered me a cot to sleep on?After they Cancelled Flightled my flight. A fucking cot. What about a hotel, like you're supposed to provide
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 00:40:39 -0800
+location: Nevada

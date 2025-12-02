@@ -1,0 +1,7 @@
+568615365619662848
+Southwest
+@SouthwestAir this would be an awesome experience #DestinationDragons
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 19:37:22 -0800
+location: North Carolina

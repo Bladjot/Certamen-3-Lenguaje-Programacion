@@ -1,0 +1,7 @@
+568757671819661314
+Delta
+@DeltaAssist what I have to say is more than 140 characters! Plus you don't follow me
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 05:02:50 -0800
+location: nan

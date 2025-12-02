@@ -1,0 +1,7 @@
+567846026507390976
+Delta
+@JetBlue understood ... but could I go and put myself on the standby list 5 hours prior to my flight?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 16:40:17 -0800
+location: Merrick

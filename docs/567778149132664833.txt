@@ -1,0 +1,7 @@
+567778149132664833
+Delta
+@JetBlue great smooth flight too! 👏👍
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 12:10:34 -0800
+location: Olean, NY

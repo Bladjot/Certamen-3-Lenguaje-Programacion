@@ -1,0 +1,7 @@
+569620017840398337
+American
+@AmericanAir Jacquelyn at Charlotte just denied me compensation after #2251 was Cancelled Flighted due to plane malfunction well within your control
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 14:09:29 -0800
+location: North of 146th

@@ -1,0 +1,7 @@
+569648102669471744
+American
+@AmericanAir … Been trying to book a whole new flight since 2 hours!! what is wrong with your website?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 16:01:05 -0800
+location: NYC

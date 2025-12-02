@@ -1,0 +1,7 @@
+568251315220041728
+US Airways
+@USAirways sitting for 30 minutes on the runway at dca, because your gates are full? Early landing, Late Flight flight.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 19:30:45 -0800
+location: Washington, DC

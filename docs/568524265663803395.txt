@@ -1,0 +1,7 @@
+568524265663803395
+Southwest
+@SouthwestAir I tried again with your in-flight wifi #fail
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 13:35:22 -0800
+location: Tampa Bay (Chicago native)

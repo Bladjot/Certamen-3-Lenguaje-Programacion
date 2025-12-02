@@ -1,0 +1,7 @@
+567800329824399360
+Southwest
+@SouthwestAir knows whats up! That #BlackHistoryMonth commercial. Just another thing to add to reasons why I fly with #SouthWestAirlines
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 13:38:42 -0800
+location: Maryland

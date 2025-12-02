@@ -1,0 +1,7 @@
+569250469178175488
+Virgin America
+@VirginAmerica Thanks for a great flight from LA to Boston! Pilots did a great job landing in the snow. Can we go back to LA now? #seriously
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 13:41:02 -0800
+location: Natick, MA, USA

@@ -1,0 +1,7 @@
+569605452230754305
+American
+@AmericanAir @BDinDallas The personal touch you're known for, AA. Other cool perks: blaming understaffing on weather. And 3 hr hold times.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 13:11:37 -0800
+location: Pekin

@@ -1,0 +1,7 @@
+569221156504530944
+Virgin America
+@VirginAmerica  how are you gonna have a deal from Dallas to DC but no deal from DC to Dallas? #sad
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 11:44:33 -0800
+location: nan

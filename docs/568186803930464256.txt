@@ -1,0 +1,7 @@
+568186803930464256
+United
+@united #1007 Houston-Bogota boarding again, safety first, it seems the mechanics fixed the problem faster, good energy to fly home/family
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 15:14:25 -0800
+location: Colombia

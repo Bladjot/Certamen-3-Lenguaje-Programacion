@@ -1,0 +1,7 @@
+569970608693493760
+US Airways
+@USAirways even if I was the single most unreasonable human being on planet earth, there is no excuse for his treatment of me.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:22:37 -0800
+location: nan

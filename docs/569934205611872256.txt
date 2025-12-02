@@ -1,0 +1,7 @@
+569934205611872256
+American
+@AmericanAir is that the "record locator"?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:57:58 -0800
+location: Michigan, US

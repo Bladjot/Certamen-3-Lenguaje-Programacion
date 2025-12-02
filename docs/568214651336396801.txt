@@ -1,0 +1,7 @@
+568214651336396801
+Delta
+@JetBlue Statement on #Lufthansa Incentive Offer - Digital Journal http://t.co/GqP69g9ZGW
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 17:05:04 -0800
+location: USA

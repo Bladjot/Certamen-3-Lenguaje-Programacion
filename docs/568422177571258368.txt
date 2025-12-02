@@ -1,0 +1,7 @@
+568422177571258368
+US Airways
+@USAirways My booked seat ended up being the last row which was labeled "do no occupy" had to play musical chairs for 30 mins. Unacceptable
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 06:49:42 -0800
+location: Here. There. Everywhere.

@@ -1,0 +1,7 @@
+569620902742233088
+United
+@united I do not see where it talks about military baggage fees. Can you please guide me. Thanks
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 14:13:00 -0800
+location: nan

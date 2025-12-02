@@ -1,0 +1,7 @@
+570081679844319232
+American
+@AmericanAir Joanne from your San Diego staff was phenomenal! Give that girl a raise. She handled our #flightnightmare better than anyone.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 20:43:58 -0800
+location: nan

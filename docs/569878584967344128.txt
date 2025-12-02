@@ -1,0 +1,7 @@
+569878584967344128
+American
+@AmericanAir Supervisor M.Robinson just served a lot of attitude, Cancelled Flighted my flight out of spite, then put me back on on #crazybitch
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:16:57 -0800
+location: Los Angeles

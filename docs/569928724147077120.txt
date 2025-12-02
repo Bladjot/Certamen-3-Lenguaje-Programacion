@@ -1,0 +1,7 @@
+569928724147077120
+United
+@united thank you for listening to my compliant and doing the right thing. I appreciate you working with me
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:36:11 -0800
+location: Chicago

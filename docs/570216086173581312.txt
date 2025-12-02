@@ -1,0 +1,7 @@
+570216086173581312
+United
+@united very unhappy at no response to complaint emailed on 2nd Feb ref.8441639. Awful customer service!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 05:38:03 -0800
+location: Larne

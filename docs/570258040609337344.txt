@@ -1,0 +1,7 @@
+570258040609337344
+American
+@AmericanAir um. down south has snow too #ATL
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:24:46 -0800
+location: JAWJA

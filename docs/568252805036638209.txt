@@ -1,0 +1,7 @@
+568252805036638209
+United
+@United I'm pretty sure I've got shin splits from SPRINTING through IAH only to watch my plane pull away from the jet way...
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 19:36:41 -0800
+location: Houston, TX

@@ -1,0 +1,7 @@
+567785042891567104
+Southwest
+@SouthwestAir 4/9/14, I need to fly from GSP to DSM, but claims there's no sched. avail.  I can book separately, but why not together?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-17 12:37:57 -0800
+location: Des Moines, Iowa

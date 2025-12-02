@@ -1,0 +1,7 @@
+568637273945866240
+US Airways
+@USAirways still just sitting here. nobody has said anything. What's up?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 21:04:25 -0800
+location: DC

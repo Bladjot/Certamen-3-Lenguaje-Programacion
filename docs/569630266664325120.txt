@@ -1,0 +1,7 @@
+569630266664325120
+American
+@AmericanAir should be seeing this sunset from St. John usvi not philly!! http://t.co/DnDOepquKz
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 14:50:13 -0800
+location: nan

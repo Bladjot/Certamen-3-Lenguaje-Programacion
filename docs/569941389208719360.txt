@@ -1,0 +1,7 @@
+569941389208719360
+American
+@AmericanAir did you guys get rid of the functionality on http://t.co/R1OQAVEO7I to put a reservation on hold for 24 hours? i don't see it
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 11:26:30 -0800
+location: BPM, WMC, DEMF, BM, ADE, etc

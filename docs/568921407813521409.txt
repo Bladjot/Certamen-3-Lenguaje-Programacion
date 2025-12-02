@@ -1,0 +1,7 @@
+568921407813521409
+United
+@united Really....you charge me $25 to check a bag and then you put it on a different flight....still Don't have my bag!!!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 15:53:28 -0800
+location: Clifton, NJ

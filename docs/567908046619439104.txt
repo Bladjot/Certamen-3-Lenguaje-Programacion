@@ -1,0 +1,7 @@
+567908046619439104
+US Airways
+@USAirways already called, no other options, flight is being reimbursed. Never again, you are unreliable for business travelers.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 20:46:44 -0800
+location: Cincinnati, OH

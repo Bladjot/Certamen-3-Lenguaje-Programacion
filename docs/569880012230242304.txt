@@ -1,0 +1,7 @@
+569880012230242304
+American
+@AmericanAir it's not a friend it's a legally required chaperone on a school trip.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 07:22:37 -0800
+location: New York

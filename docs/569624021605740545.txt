@@ -1,0 +1,7 @@
+569624021605740545
+US Airways
+@USAirways Seriously? I should keep trying after seven hours. That is your corporate policy? #usairwaysfail
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:25:24 -0800
+location: nan

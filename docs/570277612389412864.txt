@@ -1,0 +1,7 @@
+570277612389412864
+US Airways
+@USAirways And, the helpful employee who changed her boarding zone so that she would have space for her pump is now being disciplined #fail
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 09:42:32 -0800
+location: Denver, CO

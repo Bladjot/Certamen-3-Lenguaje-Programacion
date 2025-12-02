@@ -1,0 +1,7 @@
+569667602148151296
+Southwest
+@SouthwestAir how do I get my companion pass?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:18:34 -0800
+location: Pennsylvania

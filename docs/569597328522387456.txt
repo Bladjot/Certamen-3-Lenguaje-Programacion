@@ -1,0 +1,7 @@
+569597328522387456
+US Airways
+@USAirways this is how concerned your gate attendants at C26 are this afternoon. #nocommunication #nocrew http://t.co/hFjYN2vtVj
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 12:39:20 -0800
+location: nan

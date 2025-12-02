@@ -1,0 +1,7 @@
+569563087964995584
+Delta
+“@JetBlue: @2littlebirds Well captured, Brittany! We love the clouds! :)  Enjoy the ride!” Thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 10:23:16 -0800
+location: LA CA USA

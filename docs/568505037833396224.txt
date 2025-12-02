@@ -1,0 +1,7 @@
+568505037833396224
+US Airways
+@USAirways I keep missing my updated connections. Need to make it to #JAX to be in my friend's wedding! #strandedattheairport
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 12:18:57 -0800
+location: Lincoln, NE

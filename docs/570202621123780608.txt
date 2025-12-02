@@ -1,0 +1,7 @@
+570202621123780608
+American
+@AmericanAir Good morning!  Wondering why my pre-TSA check was not on my boarding pass this morning??
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 04:44:33 -0800
+location: nan

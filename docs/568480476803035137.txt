@@ -1,0 +1,7 @@
+568480476803035137
+US Airways
+@USAirways some people in line have been waiting 55 minutes for a customer service representative
+sentiment: negative
+negativereason: longlines
+created: 2015-02-19 10:41:22 -0800
+location: Monterey County, CA

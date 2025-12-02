@@ -1,0 +1,7 @@
+569159333499576320
+United
+@united any last minute flight deals for your cute little #frequentflyer ??? :)))) my Friday flight was Cancelled Flightled!!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 07:38:54 -0800
+location: Upper East Side

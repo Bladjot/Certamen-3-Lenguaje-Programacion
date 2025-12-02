@@ -1,0 +1,7 @@
+570253859412529152
+American
+@AmericanAir oh it's nothing my issue was already resolved and I am in the air
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 08:08:09 -0800
+location: Pirate Isle, Arcadia

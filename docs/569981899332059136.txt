@@ -1,0 +1,7 @@
+569981899332059136
+American
+@AmericanAir instead they yelled at him and told him to call a number that will not pick up due to call volume
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:07:29 -0800
+location: Cambridge, MA, USA

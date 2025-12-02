@@ -1,0 +1,7 @@
+567756556536909825
+Southwest
+@SouthwestAir I understand a delay but to be stuck on the plane longer than the flight is unacceptable
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 10:44:46 -0800
+location: Washington, DC

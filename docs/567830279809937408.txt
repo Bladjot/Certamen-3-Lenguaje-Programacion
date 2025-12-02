@@ -1,0 +1,7 @@
+567830279809937408
+Southwest
+@SouthwestAir flight yesterday Cancelled Flighted. Got to airport 4am today for an on time flight w was delayed Cancelled Flighted than reinstated which caused
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 15:37:43 -0800
+location: New York, NY

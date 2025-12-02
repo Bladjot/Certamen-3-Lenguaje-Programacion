@@ -1,0 +1,7 @@
+569264951401054208
+United
+@united 2/2 Instead, had to wait on plane from Ottawa that never came. Now I'm back home and have to try again tomorrow. Suitcase still lost
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 14:38:35 -0800
+location: nan

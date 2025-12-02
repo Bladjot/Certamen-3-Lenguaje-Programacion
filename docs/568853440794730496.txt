@@ -1,0 +1,7 @@
+568853440794730496
+Southwest
+@SouthwestAir  I am following you now.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 11:23:23 -0800
+location: Northern UT

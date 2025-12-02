@@ -1,0 +1,7 @@
+568483559532568576
+US Airways
+@USAirways 1 person to check in 50 people and the plane boards in 20 minutes and he is telling people @AmericanAir exec bene's not honored
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-19 10:53:37 -0800
+location: Monterey County, CA

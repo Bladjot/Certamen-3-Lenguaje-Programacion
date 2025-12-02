@@ -1,0 +1,7 @@
+570177331358076929
+American
+@AmericanAir what's the point? So I can wait for another 6 weeks. U r one of the only airlines that refuses to handle complaints by phone
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 03:04:03 -0800
+location: Manchester

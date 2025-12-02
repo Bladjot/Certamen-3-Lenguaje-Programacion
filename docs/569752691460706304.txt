@@ -1,0 +1,7 @@
+569752691460706304
+Southwest
+@SouthwestAir show me some love and a companion flight~please and thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 22:56:41 -0800
+location: nan

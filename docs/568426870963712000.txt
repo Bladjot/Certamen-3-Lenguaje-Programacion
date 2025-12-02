@@ -1,0 +1,7 @@
+568426870963712000
+Southwest
+@SouthwestAir Hi do you know why WN4287 is already delayed until 9:35pm tonight? Thanks !
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 07:08:21 -0800
+location: Buffalo, NY

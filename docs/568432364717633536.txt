@@ -1,0 +1,7 @@
+568432364717633536
+US Airways
+@USAirways 502 M-phx Im still on The plane waiting And waiting
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 07:30:11 -0800
+location: Mexico, D.F.

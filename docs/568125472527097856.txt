@@ -1,0 +1,7 @@
+568125472527097856
+Southwest
+@SouthwestAir is there anything I can do to get tickets for @Imaginedragons at @VinylVegas? It would mean so much to me #DestinationDragons
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 11:10:42 -0800
+location: Vegas

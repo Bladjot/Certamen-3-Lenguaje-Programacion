@@ -1,0 +1,7 @@
+570276806512779264
+US Airways
+@USAirways  2 calls &amp; wasted 3 hrs on hold to change my coming divided awards weather reLate Flightd flight. Y'all disconnected me 2x. Please help.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:39:20 -0800
+location: Tidewater - Virginia

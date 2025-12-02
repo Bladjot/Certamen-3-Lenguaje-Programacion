@@ -1,0 +1,7 @@
+570059530567962624
+United
+@united @AmericanAir so that's it? It just ends there? Come on! I traveled for literally an extra day and a half because of this!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 19:15:57 -0800
+location: nan

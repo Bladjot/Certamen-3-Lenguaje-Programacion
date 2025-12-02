@@ -1,0 +1,7 @@
+569156425626329089
+US Airways
+@usairways Does anyone know the hold times for USAirways reservations?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 07:27:20 -0800
+location: nan

@@ -1,0 +1,7 @@
+567776143273512961
+Southwest
+@SouthwestAir flight #211pilot spilled his tea on the radio! Yay for delays! Almost an hour now!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 12:02:35 -0800
+location: nan

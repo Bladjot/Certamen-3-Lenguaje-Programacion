@@ -1,0 +1,7 @@
+570086891342733312
+American
+@AmericanAir you've got to be kidding. Look at the pictures.  I'm hoping it's on the flight that just came in. The whole story is 2 much
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 21:04:41 -0800
+location: New York, NY

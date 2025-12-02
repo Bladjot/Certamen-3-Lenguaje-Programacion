@@ -1,0 +1,7 @@
+568812584469528576
+US Airways
+@USAirways horrible experience to key west lost luggage called to check &amp; was told not to call back reconsidering my flight back
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 08:41:02 -0800
+location: nan

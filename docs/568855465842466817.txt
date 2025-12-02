@@ -1,0 +1,7 @@
+568855465842466817
+United
+@united UA6357 needs de-icing! Stat! We've waited our turn...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 11:31:26 -0800
+location: nan

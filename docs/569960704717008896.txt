@@ -1,0 +1,7 @@
+569960704717008896
+US Airways
+@USAirways you guys Cancelled Flightled two of my flights yesterday and I checked the bag to Huntsville and it went missing in Philly.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 12:43:16 -0800
+location: The Shire

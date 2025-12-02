@@ -1,0 +1,7 @@
+569601658491002880
+Southwest
+@SouthwestAir My Fav!!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 12:56:32 -0800
+location: nan

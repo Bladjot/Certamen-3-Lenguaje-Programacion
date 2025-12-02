@@ -1,0 +1,7 @@
+568824193380425731
+US Airways
+@USAirways how can i get ahold of a reservations supervisor?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 09:27:10 -0800
+location: nan

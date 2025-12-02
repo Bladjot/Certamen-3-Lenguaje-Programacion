@@ -1,0 +1,7 @@
+569006176186183680
+US Airways
+@USAirways so am I supposed to discuss this matter with a computer? #BadCustomerService #Airlines #DividendRewards
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 21:30:18 -0800
+location: Los Angeles by way of Philly

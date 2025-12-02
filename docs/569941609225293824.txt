@@ -1,0 +1,7 @@
+569941609225293824
+Southwest
+@SouthwestAir another great trip! LAX 823 - LAS 3075-  BNA. Thanks so much!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 11:27:23 -0800
+location: wherever you need me to be.

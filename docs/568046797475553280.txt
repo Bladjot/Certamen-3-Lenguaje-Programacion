@@ -1,0 +1,7 @@
+568046797475553280
+US Airways
+@USAirways now over 2 hrs. Can't wait anymore. 2 hrs for nothing. Now what?? #frustrated #USAirways http://t.co/BuwjTVUWKM
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 05:58:04 -0800
+location: NJ

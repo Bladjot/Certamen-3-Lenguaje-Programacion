@@ -1,0 +1,7 @@
+569665738165891073
+American
+@AmericanAir 24 hrs &amp; 2 cncld flights Late Flightr I've landed in PHL. Now 30 mins &amp; counting on tarmac waiting for gate. Pls do better than this.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 17:11:10 -0800
+location: Newark, DE

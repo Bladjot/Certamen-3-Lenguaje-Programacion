@@ -1,0 +1,7 @@
+570214968622239744
+Southwest
+@SouthwestAir sent
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 05:33:37 -0800
+location: Minneapolis, MN

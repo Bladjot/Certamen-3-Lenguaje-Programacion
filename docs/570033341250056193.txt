@@ -1,0 +1,7 @@
+570033341250056193
+United
+@united i left an item on the plane and have been calling non stop and no one has been answering can you please help
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 17:31:53 -0800
+location: nan

@@ -1,0 +1,7 @@
+569964670531973120
+American
+@AmericanAir Chicago seen from seat 6A, AA 1620. So far a great ride! On to PDX! http://t.co/X4rsvAGIjN
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 12:59:01 -0800
+location: Chapel Hill, NC

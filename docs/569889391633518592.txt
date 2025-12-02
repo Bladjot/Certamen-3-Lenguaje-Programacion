@@ -1,0 +1,7 @@
+569889391633518592
+American
+@AmericanAir is your website down? I haven't been able to check in to my flight all morning.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:59:53 -0800
+location: Miami

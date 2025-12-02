@@ -1,0 +1,7 @@
+567778721474822145
+Southwest
+@SouthwestAir Nashville airport has runways open. It appears southwest is only airline Cancelled Flighting flights. Is this likely to change?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 12:12:50 -0800
+location: Nashville

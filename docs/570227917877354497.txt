@@ -1,0 +1,7 @@
+570227917877354497
+American
+@AmericanAir although you have no control of the weather, you came through with a great customer service
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 06:25:04 -0800
+location: nan

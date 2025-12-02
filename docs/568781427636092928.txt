@@ -1,0 +1,7 @@
+568781427636092928
+US Airways
+@USAirways has completely wasted my work day! Thank you for the bad service and bad Friday!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 06:37:14 -0800
+location: On a beach

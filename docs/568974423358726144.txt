@@ -1,0 +1,7 @@
+568974423358726144
+Southwest
+@SouthwestAir flight to San Diego is delayed per usual.. take me home!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 19:24:08 -0800
+location: San Francisco, CA

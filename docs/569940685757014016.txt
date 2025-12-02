@@ -1,0 +1,7 @@
+569940685757014016
+American
+@AmericanAir so if your genuine, give me your opinion  on what occurred last night 445 fly  from phl, to mia. No assistance at airport
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 11:23:43 -0800
+location: nan

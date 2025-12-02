@@ -1,0 +1,7 @@
+568109878754934784
+United
+@united you mean like my mailing address and rate? By the surliness of my United "coworkers" I'm guessing our benefits aren't great.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 10:08:44 -0800
+location: nan

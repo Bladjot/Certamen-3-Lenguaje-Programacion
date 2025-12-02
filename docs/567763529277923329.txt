@@ -1,0 +1,7 @@
+567763529277923329
+United
+@united 45 minutes after arrival and no bags for most people. UA469 from den to ewr. How long should we wait until a ual rep comes here?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 11:12:28 -0800
+location: Denver, CO

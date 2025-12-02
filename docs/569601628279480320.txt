@@ -1,0 +1,7 @@
+569601628279480320
+US Airways
+@USAirways where are my bags?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 12:56:25 -0800
+location: nan

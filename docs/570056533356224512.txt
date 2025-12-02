@@ -1,0 +1,7 @@
+570056533356224512
+US Airways
+@USAirways   Not good. On hold for over an hour. http://t.co/wSgYckCIIO
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 19:04:03 -0800
+location: nan

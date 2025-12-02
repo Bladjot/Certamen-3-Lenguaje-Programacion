@@ -1,0 +1,7 @@
+567768484612816896
+Southwest
+@SouthwestAir  Tried to DM you, it won't let me as it says you are not following me.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 11:32:10 -0800
+location: Austin, TX

@@ -1,0 +1,7 @@
+568868703762296832
+Southwest
+@SouthwestAir This has to be the best video I have seen ever! - #teamspirit https://t.co/X5JenA7NyE
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 12:24:02 -0800
+location: Ottawa Canada

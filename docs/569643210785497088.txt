@@ -1,0 +1,7 @@
+569643210785497088
+American
+@AmericanAir I can't keep dialing you guys all day. Can I get into the callback queue?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:41:39 -0800
+location: Seattle, WA

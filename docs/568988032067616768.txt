@@ -1,0 +1,7 @@
+568988032067616768
+United
+@united its available online I just can't figure out how to do it to guarantee same flight
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 20:18:12 -0800
+location: chicago IL

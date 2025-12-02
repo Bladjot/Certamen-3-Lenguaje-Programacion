@@ -1,0 +1,7 @@
+570054549915873280
+American
+@AmericanAir Thank you for the response. Much appreciated!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 18:56:10 -0800
+location: Los Angeles

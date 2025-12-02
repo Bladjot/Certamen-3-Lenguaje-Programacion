@@ -1,0 +1,7 @@
+568041051182616576
+Delta
+@JetBlue planning on it!  Btw, excellent service and crew from DCA through SJU into SXM!!!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 05:35:14 -0800
+location: nan

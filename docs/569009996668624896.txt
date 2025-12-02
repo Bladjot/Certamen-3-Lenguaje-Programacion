@@ -1,0 +1,7 @@
+569009996668624896
+US Airways
+@USAirways so you're not honoring miles with @united that were traveled last year?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 21:45:29 -0800
+location: Los Angeles by way of Philly

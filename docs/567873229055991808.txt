@@ -1,0 +1,7 @@
+567873229055991808
+Delta
+@JetBlue I get Sunday due to weather and ok Monday they're busy but this is crazy
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 18:28:23 -0800
+location: nan

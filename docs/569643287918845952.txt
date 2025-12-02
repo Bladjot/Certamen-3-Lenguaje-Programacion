@@ -1,0 +1,7 @@
+569643287918845952
+Delta
+@JetBlue If seats aren't guaranteed why do we pay for them? when I called the rep said some other people booked our seats.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:41:57 -0800
+location: Brooklyn =)

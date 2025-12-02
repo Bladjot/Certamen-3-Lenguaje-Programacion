@@ -1,0 +1,7 @@
+568894021688434690
+Delta
+@JetBlue do you have direct flights to and from Bos to St Lucia or Antigua?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 14:04:38 -0800
+location: shopping. anywhere

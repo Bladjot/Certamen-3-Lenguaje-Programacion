@@ -1,0 +1,7 @@
+568961404067164160
+Delta
+@JetBlue thanks for the info... Figured that was the case. Hopefully my new hashtag will change that ;) #ABCLetJetBlueStreamFeed
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 18:32:24 -0800
+location: Boston, MA

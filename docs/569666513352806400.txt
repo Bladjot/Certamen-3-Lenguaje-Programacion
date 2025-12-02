@@ -1,0 +1,7 @@
+569666513352806400
+Southwest
+@SouthwestAir just got mine..now where to go??
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:14:15 -0800
+location: nan

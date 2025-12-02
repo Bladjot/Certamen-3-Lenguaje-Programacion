@@ -1,0 +1,7 @@
+570106218825564161
+American
+Why doesn't @AmericanAir provide a means for dialogue?  What is the fear that drives this decision?  #worstcustomerserviceever
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 22:21:29 -0800
+location: nan

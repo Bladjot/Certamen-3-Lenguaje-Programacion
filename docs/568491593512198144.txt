@@ -1,0 +1,7 @@
+568491593512198144
+US Airways
+@USAirways Is $99 companion ticket benefit of Premier World MasterCard still limited to USAirways flights or do AA now qualify as well?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 11:25:32 -0800
+location: New York, NY

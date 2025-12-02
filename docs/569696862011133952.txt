@@ -1,0 +1,7 @@
+569696862011133952
+Delta
+@JetBlue #611 from JFK to LAS still delayed?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 19:14:51 -0800
+location: Right Coast

@@ -1,0 +1,7 @@
+568229659810209792
+Southwest
+@SouthwestAir today you sporadically changed my flight departure 5 times &amp; left two hours Late Flight. Uncharacteristic of u http://t.co/TXhYJ40llG
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 18:04:42 -0800
+location: Oklahoma

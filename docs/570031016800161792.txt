@@ -1,0 +1,7 @@
+570031016800161792
+United
+@united well someone should tell that to the employees at the Denver baggage claim. Still no bag!!!!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 17:22:39 -0800
+location: nan

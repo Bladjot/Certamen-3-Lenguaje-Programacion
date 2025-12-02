@@ -1,0 +1,7 @@
+567723096186945538
+Southwest
+@SouthwestAir + @twitter  = outstanding customer service!  Thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 08:31:48 -0800
+location: Nashville, TN

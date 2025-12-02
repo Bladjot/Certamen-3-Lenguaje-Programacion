@@ -1,0 +1,7 @@
+569615004489494528
+American
+@AmericanAir Can you upgrade (with cash) to Main Cabin Extra after buying an AAdvantage Mileage Saver (using miles)? Can't seem to do it...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 13:49:34 -0800
+location: Durham, NC

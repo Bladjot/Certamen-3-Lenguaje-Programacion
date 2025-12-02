@@ -1,0 +1,7 @@
+569788087481409537
+American
+@AmericanAir I don't want to waste any more of my time on your airline (you've already robbed 21 hours of my day) but I definitely will.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 01:17:20 -0800
+location: Bay Area, CA

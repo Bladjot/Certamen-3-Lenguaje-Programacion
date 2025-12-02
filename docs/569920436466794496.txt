@@ -1,0 +1,7 @@
+569920436466794496
+US Airways
+@USAirways how long for a reply
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:03:15 -0800
+location: nan

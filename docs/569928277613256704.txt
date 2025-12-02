@@ -1,0 +1,7 @@
+569928277613256704
+United
+@united UA5396 can wait for me. I'm on the ground trying to get to the gate after we were moved to B. This is crap.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 10:34:24 -0800
+location: NEIN, London, or Maui.

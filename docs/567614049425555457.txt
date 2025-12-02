@@ -1,0 +1,7 @@
+567614049425555457
+United
+@united, link to current status of flights/airports? Fly BWI-EWR-MCO this morning yet can't yet tell what any problems are except see snow.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 01:18:29 -0800
+location: Tweets = My Opinion

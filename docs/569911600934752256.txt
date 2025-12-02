@@ -1,0 +1,7 @@
+569911600934752256
+Delta
+alright @JetBlue.... done! alternatively, if you'd like to charter a private jet for me to PITT i will gladly accept :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 09:28:08 -0800
+location: NEW YORK

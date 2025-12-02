@@ -1,0 +1,7 @@
+569939494465462272
+Delta
+@JetBlue any info on why flight 704 from SJU to JFK is already delayed 2 1/2 hours?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 11:18:59 -0800
+location: nan

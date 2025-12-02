@@ -1,0 +1,7 @@
+569615206625599488
+Southwest
+@SouthwestAir most other carriers were flying out way past SW Cancelled Flightlation. @AlaskaAir and @JetBlue got their passengers out much Late Flightr!!!!!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 13:50:22 -0800
+location: no where

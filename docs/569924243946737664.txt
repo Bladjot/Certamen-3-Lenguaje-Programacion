@@ -1,0 +1,7 @@
+569924243946737664
+Southwest
+@SouthwestAir it's not disappointment, it's a blatant disregard for your business select customers, it's becoming a problem that's pushing
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 10:18:23 -0800
+location: nan

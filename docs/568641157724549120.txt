@@ -1,0 +1,7 @@
+568641157724549120
+US Airways
+@USAirways Then told to offload because the captain was over hours? This has been a terrible experience.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 21:19:51 -0800
+location: DC

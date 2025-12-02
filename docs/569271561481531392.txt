@@ -1,0 +1,7 @@
+569271561481531392
+United
+@united can I get your service desk # at IAD?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 15:04:51 -0800
+location: Gooner

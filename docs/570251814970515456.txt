@@ -1,0 +1,7 @@
+570251814970515456
+American
+@AmericanAir I need refund.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 08:00:02 -0800
+location: nan

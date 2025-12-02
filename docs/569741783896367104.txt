@@ -1,0 +1,7 @@
+569741783896367104
+American
+@AmericanAir can you please connect these two reservations together and also add a child in a lap. KEVOLT and SOZLDJ march 1. Thanks
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 22:13:21 -0800
+location: nan

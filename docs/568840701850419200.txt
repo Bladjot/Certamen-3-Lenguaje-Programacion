@@ -1,0 +1,7 @@
+568840701850419200
+United
+@united why the hell do my miles expire? Was really looking forward to accruing enough for a free flight in 10 years.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 10:32:46 -0800
+location: Minneapolis, MN

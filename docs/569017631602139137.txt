@@ -1,0 +1,7 @@
+569017631602139137
+United
+@united your system is down and after being on hold for over 20 mins -Mia tells me she is going to charge a Flight Booking Problems fee?! Customer service?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 22:15:49 -0800
+location: Chicago, IL

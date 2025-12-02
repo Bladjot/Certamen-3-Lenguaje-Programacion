@@ -1,0 +1,7 @@
+570221471844278273
+American
+“@AmericanAir: @Dumas2TTG Good morning, Tamara. We'll try to get you comfortably on a flight as soon as we can.”#NoXTraLegRoom #NoCoatCloset
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 05:59:27 -0800
+location: nan

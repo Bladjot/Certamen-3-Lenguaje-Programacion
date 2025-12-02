@@ -1,0 +1,7 @@
+567742937325260801
+Virgin America
+@VirginAmerica Are there any sign up bonuses to enroll in Elevate?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:50:39 -0800
+location: nan

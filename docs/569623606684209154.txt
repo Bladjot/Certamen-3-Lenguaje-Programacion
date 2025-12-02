@@ -1,0 +1,7 @@
+569623606684209154
+US Airways
+@USAirways that you would let us just switch to a different set of flights so we could spend time with the family after he passes away...
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 14:23:45 -0800
+location: Livonia, MI

@@ -1,0 +1,7 @@
+568275746516385793
+Southwest
+@SouthwestAir I ❤️ you! The only airline that understands us military families and our unpredictable changes. Pound it 👊
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 21:07:50 -0800
+location: HTX

@@ -1,0 +1,7 @@
+567778921812389888
+Delta
+@JetBlue I would fly somewhere hotter then here. Puerto Rico here I come. Lol
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 12:13:38 -0800
+location: Jersey City

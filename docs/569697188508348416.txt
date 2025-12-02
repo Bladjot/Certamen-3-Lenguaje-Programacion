@@ -1,0 +1,7 @@
+569697188508348416
+American
+@AmericanAir yea no worries. I'm just going home to Denver. Not your fault, weather sucks bad.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 19:16:08 -0800
+location: Denver, CO

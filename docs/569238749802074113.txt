@@ -1,0 +1,7 @@
+569238749802074113
+Delta
+@JetBlue Thanks, it's for next weekend though so my guess is it will only go higher.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 12:54:28 -0800
+location: Mannahatta

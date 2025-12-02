@@ -1,0 +1,7 @@
+569682961345470465
+American
+@AmericanAir  A true #AmericanView ...The National Mall http://t.co/N7ExdbcRHg
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:19:36 -0800
+location: nan

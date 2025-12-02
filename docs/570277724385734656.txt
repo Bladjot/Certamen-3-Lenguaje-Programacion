@@ -1,0 +1,7 @@
+570277724385734656
+Virgin America
+@VirginAmerica So excited for my first cross country flight LAX to MCO I've heard nothing but great things about Virgin America. #29DaysToGo
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 09:42:59 -0800
+location: west covina

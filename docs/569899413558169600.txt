@@ -1,0 +1,7 @@
+569899413558169600
+Delta
+@JetBlue Gerne :)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 08:39:43 -0800
+location: Wien

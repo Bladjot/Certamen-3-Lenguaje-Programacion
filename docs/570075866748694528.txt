@@ -1,0 +1,7 @@
+570075866748694528
+US Airways
+@USAirways thank u i wiil write after call  travel agency
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 20:20:52 -0800
+location: nan

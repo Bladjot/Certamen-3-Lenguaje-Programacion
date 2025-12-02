@@ -1,0 +1,7 @@
+567831380157206528
+Southwest
+@SouthwestAir paid for my own $200 rental car just to not go through this for the 3rd day  :(
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 15:42:05 -0800
+location: New York, NY

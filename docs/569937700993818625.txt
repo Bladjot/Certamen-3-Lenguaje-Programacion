@@ -1,0 +1,7 @@
+569937700993818625
+Southwest
+@SouthwestAir why so expensive to go to Vegas with stops in Late Flight June as I can get non stop for same on competition
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 11:11:51 -0800
+location: some where in massachusetts

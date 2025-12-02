@@ -1,0 +1,7 @@
+567781675514343424
+Southwest
+@SouthwestAir still on the ground &gt;30mins after planned departure. And this is California. No weather here. Originally told 10 min delay.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 12:24:34 -0800
+location: San Francisco, CA

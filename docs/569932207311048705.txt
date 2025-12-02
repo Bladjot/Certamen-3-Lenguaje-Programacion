@@ -1,0 +1,7 @@
+569932207311048705
+US Airways
+@USAirways when will FLT 445 get a gate at DEN? Over 20 minutes waiting with no information.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 10:50:01 -0800
+location: nan

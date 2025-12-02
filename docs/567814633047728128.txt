@@ -1,0 +1,7 @@
+567814633047728128
+United
+@united thanks for that advice, so helpful. Can't believe you guys actually charge people to "fly" united
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 14:35:32 -0800
+location: the questions district

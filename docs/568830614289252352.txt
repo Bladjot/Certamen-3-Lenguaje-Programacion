@@ -1,0 +1,7 @@
+568830614289252352
+United
+@united DM sent.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 09:52:41 -0800
+location: NY

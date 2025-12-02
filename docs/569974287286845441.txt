@@ -1,0 +1,7 @@
+569974287286845441
+American
+@AmericanAir that's why I'm asking for exception. Staffer moving last minute,we're a nonprofit &amp; losing $400,we just want to change ticket.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 13:37:14 -0800
+location: Northern Virginia

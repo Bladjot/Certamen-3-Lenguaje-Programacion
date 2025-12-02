@@ -1,0 +1,7 @@
+568276647885086720
+Southwest
+@SouthwestAir @tbuccheriFRNC3E. It takes 13.5 hours to fly from Chicago to Beijing on United, and 12 to fly from Vegas to Omaha on SW...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 21:11:25 -0800
+location: nan

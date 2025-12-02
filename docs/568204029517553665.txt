@@ -1,0 +1,7 @@
+568204029517553665
+Southwest
+@SouthwestAir I will be writing in about the service via email. My company also transports well over 100 clients monthly via SW.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 16:22:52 -0800
+location: nan

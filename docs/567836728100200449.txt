@@ -1,0 +1,7 @@
+567836728100200449
+Delta
+@JetBlue And we are glad to see what is going on and fix! @ProfessorpaUL15: please DM me your confirmation # so we can check.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 16:03:20 -0800
+location: Washington, D.C.

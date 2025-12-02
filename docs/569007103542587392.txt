@@ -1,0 +1,8 @@
+569007103542587392
+United
+@united @SCVPools 
+Please call me at 310-795-2210.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 21:33:59 -0800
+location: Southern California and Hawaii

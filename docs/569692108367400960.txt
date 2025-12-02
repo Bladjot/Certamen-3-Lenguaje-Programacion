@@ -1,0 +1,7 @@
+569692108367400960
+US Airways
+@USAirways Can you help with a seat assignment?  5 people flight 694, PHX to HNL, seats are split up.  Anything you can do will be great.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:55:57 -0800
+location: nan

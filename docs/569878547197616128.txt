@@ -1,0 +1,7 @@
+569878547197616128
+United
+@united need to work on your #United #flierfriendly program. At the very least, clue in your flight attendants.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:16:48 -0800
+location: nan

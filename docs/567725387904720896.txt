@@ -1,0 +1,7 @@
+567725387904720896
+US Airways
+@USAirways thanks for the reply, hoping everything is cleared up in Charlotte by Monday
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 08:40:54 -0800
+location: Anderson

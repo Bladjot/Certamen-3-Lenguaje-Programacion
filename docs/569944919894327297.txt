@@ -1,0 +1,7 @@
+569944919894327297
+Delta
+@JetBlue .. { it's all a320's right?}
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:40:32 -0800
+location: Logan International Airport

@@ -1,0 +1,7 @@
+568196117147463680
+Delta
+@JetBlue while I appreciate that you actually responded I travel way too much for you to tell me coffee is not a basic option
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 15:51:25 -0800
+location: Austin, TX

@@ -1,0 +1,7 @@
+569628431236911104
+American
+@AmericanAir rented van drove 250 miles with 6 strangers.  Arrived home 6:00am. No offers of help from AA. http://t.co/BTTGmyN0A0
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 14:42:55 -0800
+location: Rossford, Ohio

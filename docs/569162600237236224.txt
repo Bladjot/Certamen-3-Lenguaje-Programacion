@@ -1,0 +1,7 @@
+569162600237236224
+United
+@United site errored out at last step of changing award. Now can't even pull up reservation. 60 minute wait time.  Thanks @United!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 07:51:53 -0800
+location: nan

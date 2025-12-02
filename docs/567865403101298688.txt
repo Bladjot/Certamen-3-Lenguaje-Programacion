@@ -1,0 +1,7 @@
+567865403101298688
+Southwest
+@SouthwestAir still haven't been able to get through, thanks for responding
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 17:57:17 -0800
+location: FL, US of A

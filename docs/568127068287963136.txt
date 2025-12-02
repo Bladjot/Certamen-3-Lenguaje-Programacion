@@ -1,0 +1,7 @@
+568127068287963136
+Delta
+@JetBlue nope. None to be found
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 11:17:03 -0800
+location: Buffalo NY/ Pinehurst NC

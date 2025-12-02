@@ -1,0 +1,7 @@
+567828973893259264
+United
+@united: No friendly skies from you today. 5hr+ weather delay in SFO followed by 1hr+ mechanical delay while sitting on plane. #NoFun
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 15:32:31 -0800
+location: San Francisco, CA

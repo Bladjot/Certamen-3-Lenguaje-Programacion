@@ -1,0 +1,7 @@
+567801569157324800
+Delta
+@JetBlue Does your home airport not count in the badge system? My TB account says 2 flights but I've taken 3 this year.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 13:43:37 -0800
+location: NY

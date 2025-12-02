@@ -1,0 +1,7 @@
+568846188725841920
+US Airways
+@USAirways worst customer service. ticket was 180 and fee is 200 it's "not worth it" for them accommodate me given circumstances in BOS
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 10:54:34 -0800
+location: Washington, D.C.

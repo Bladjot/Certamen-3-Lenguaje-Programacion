@@ -1,0 +1,7 @@
+568624528131125248
+United
+@united thanks for ruining my wedding anniversary. Flight UA4904 from EWR to RDU is delayed by over 3 hours and will reach home the nxt day
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 20:13:46 -0800
+location: Raleigh-Durham, NC USA

@@ -1,0 +1,7 @@
+568303293635522560
+Southwest
+@SouthwestAir Is there any chance I can get tickets for the Vegas stop? I missed my chance to enter the contest but I love ID to death !
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 22:57:18 -0800
+location: nan

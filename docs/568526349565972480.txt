@@ -1,0 +1,7 @@
+568526349565972480
+United
+@united installed and working are not the same. Kicked me out after an hour and wouldn't let me back in. Four wasted hours.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 13:43:39 -0800
+location: Silver Spring,MD

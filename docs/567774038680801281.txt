@@ -1,0 +1,7 @@
+567774038680801281
+Delta
+@JetBlue remember - I'm very doubtful and not very hopeful :(
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 11:54:14 -0800
+location: nan

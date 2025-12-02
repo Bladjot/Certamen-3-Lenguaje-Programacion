@@ -1,0 +1,7 @@
+570175988648316929
+American
+@AmericanAir You don't have those abilities anywhere! Not at the ticket counter, at cust service, or online. That's why we're done here.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 02:58:43 -0800
+location: Nashville/Space

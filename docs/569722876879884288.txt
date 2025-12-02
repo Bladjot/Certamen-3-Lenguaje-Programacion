@@ -1,0 +1,7 @@
+569722876879884288
+Delta
+@JetBlue I understand delays.  We are all looking at a tv monitor at ur gate and it says current conditions are snow, hence delay.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 20:58:13 -0800
+location: nan

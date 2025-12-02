@@ -1,0 +1,7 @@
+569601264679559168
+US Airways
+@USAirways when AA gate supervisor 600117 was asked for his superiors name, response received was "the CEO of #AmericanAirlines" #merger
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:54:58 -0800
+location: Inter/Outer-Continental U.S.

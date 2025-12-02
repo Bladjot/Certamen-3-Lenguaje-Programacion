@@ -1,0 +1,7 @@
+569904406285516800
+United
+@united looks like today will be my 6th consecutive delayed flight from you...do I win a prize??? @Southwest Air why don't you fly to SBA? 😭
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 08:59:33 -0800
+location: california

@@ -1,0 +1,7 @@
+569661069913821184
+Delta
+@JetBlue I'm going to write a post on @Medium about the experience. Your customer service has tanked. #JetBlue
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:52:37 -0800
+location: Gotham

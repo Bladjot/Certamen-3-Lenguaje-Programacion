@@ -1,0 +1,7 @@
+568829196962828289
+Southwest
+@SouthwestAir you will extend if I call the day it expires.why can't it just be extended now?#mightmismybrosgraduation
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 09:47:03 -0800
+location: nan

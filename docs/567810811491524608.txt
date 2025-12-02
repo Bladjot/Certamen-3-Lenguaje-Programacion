@@ -1,0 +1,7 @@
+567810811491524608
+United
+@united missed it.  Incoming on time, then Sat for 30, then no jetbridge driver...missed a 45min connection from an on time flight...
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 14:20:21 -0800
+location: Baton Rouge, LA

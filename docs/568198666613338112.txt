@@ -1,0 +1,7 @@
+568198666613338112
+Delta
+@JetBlue : ur Wed BWI-BOSTON flights (8pm) really need to be better scheduled! They are almost always delayed!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 16:01:33 -0800
+location: College Park, MD

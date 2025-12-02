@@ -1,0 +1,7 @@
+569567685719101440
+United
+@united When my United flight arrives Late Flight and I'm told to re-book my connecting United flight, you characterize that as a "no show"
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 10:41:32 -0800
+location: Stavanger, Norway

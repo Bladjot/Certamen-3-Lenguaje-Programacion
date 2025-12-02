@@ -1,0 +1,7 @@
+567768830265401344
+US Airways
+@USAirways @Jack_Kairys (2/2) and another sent him to the wrong line...oh and the kiosks weren't working! #thanks
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 11:33:32 -0800
+location: nan

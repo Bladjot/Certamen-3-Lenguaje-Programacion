@@ -1,0 +1,7 @@
+570002236065116160
+American
+@AmericanAir yes I did but no response.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 15:28:17 -0800
+location: nan

@@ -1,0 +1,7 @@
+568527292135133184
+United
+@united I have and been denied! I called and got hung up on. Did speaks with manager on second call
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 13:47:23 -0800
+location: PA

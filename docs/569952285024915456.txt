@@ -1,0 +1,7 @@
+569952285024915456
+Southwest
+@SouthwestAir Just wanted 2 change an anytime flight leaving at 11:50 @ 11:00. Phone hold 4 46mins. Phone answers, she says sorry - no dice.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 12:09:48 -0800
+location: nan

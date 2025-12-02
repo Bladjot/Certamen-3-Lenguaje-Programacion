@@ -1,0 +1,7 @@
+568544491596083200
+Delta
+@JetBlue not to get into semantics here but "by" means "within the extent or period of; during" and it is still technically 2/19 #dictionary
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 14:55:44 -0800
+location: nan

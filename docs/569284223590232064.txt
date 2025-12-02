@@ -1,0 +1,7 @@
+569284223590232064
+US Airways
+@USAirways @AmericanAir won't even refund for a flight they Cancelled Flightled #horriblecustomerservice
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 15:55:10 -0800
+location: New York, NY

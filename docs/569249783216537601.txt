@@ -1,0 +1,7 @@
+569249783216537601
+United
+@united my husband is supposed to fly RDU to IAD then IAD to FRA leaving in 2 hours. You Cancelled Flighted his flight and there's a 1hr wait on phone
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 13:38:19 -0800
+location: Raleigh, NC

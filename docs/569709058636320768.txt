@@ -1,0 +1,7 @@
+569709058636320768
+Southwest
+@SouthwestAir apologies are whatever. Please just deliver the bags like you said you would. Feel like employees are lying to me.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 20:03:18 -0800
+location: Aurora, OH

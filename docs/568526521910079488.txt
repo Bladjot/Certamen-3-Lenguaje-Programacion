@@ -1,0 +1,7 @@
+568526521910079488
+Delta
+@JetBlue I can probably find some of them. Are the ticket #s on there?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 13:44:20 -0800
+location: Plymouth,  MA

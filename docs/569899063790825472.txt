@@ -1,0 +1,7 @@
+569899063790825472
+United
+@united i travelled from SCL- IHA feb 17. the AC on my sit (21L) was ON all night. I complaint to FA who never gave me a real answer. Help!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 08:38:19 -0800
+location: Santiago, Chile

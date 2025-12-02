@@ -1,0 +1,7 @@
+569619205298855936
+United
+@united the costumer services here at Denver Intl Airport is ridiculous bad!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:06:16 -0800
+location: nan

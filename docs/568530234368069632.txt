@@ -1,0 +1,7 @@
+568530234368069632
+United
+@united You guys are atrocious.  Far better service as silver on Delta than you as a platinum.  I'll be switching back to delta.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 13:59:05 -0800
+location: nan

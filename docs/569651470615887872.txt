@@ -1,0 +1,7 @@
+569651470615887872
+Southwest
+@SouthwestAir I requested my boarding pass to be texted to me but I still haven't received it.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:14:28 -0800
+location: college

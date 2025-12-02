@@ -1,0 +1,7 @@
+570300915418320897
+American
+@AmericanAir You are jumping the gun and Cancelled Flighting flights that could've made it before the snow. Now, more Cancelled Flightlations. It's ridiculous.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 11:15:08 -0800
+location: nan

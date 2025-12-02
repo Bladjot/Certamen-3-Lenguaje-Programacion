@@ -1,0 +1,7 @@
+569720969947848704
+American
+@AmericanAir @ArminRosen @ggreenwald Tell that piece of shit to get fucked... I'll fly exclusively with you for life...
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 20:50:38 -0800
+location: Chicago

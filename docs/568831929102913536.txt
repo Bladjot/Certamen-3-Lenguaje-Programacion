@@ -1,0 +1,7 @@
+568831929102913536
+United
+@united the new seats on the Canadaair regional jets just plain suck.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 09:57:54 -0800
+location: The Commonwealth of Virginia

@@ -1,0 +1,7 @@
+570271209822294016
+US Airways
+@USAirways so I can make a reservation
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:17:06 -0800
+location: nan

@@ -1,0 +1,7 @@
+569015379021795328
+US Airways
+@USAirways ...YOU ARE DESPICABLE! The flight plan was lost! Now we've been sitting on the tarmac for an hour! Its a 45 min flight!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 22:06:52 -0800
+location: El Paso, TX

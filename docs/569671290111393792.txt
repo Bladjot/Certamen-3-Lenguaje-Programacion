@@ -1,0 +1,7 @@
+569671290111393792
+American
+@AmericanAir Can you help with my Cancelled Flightled flight -- I'd like to book another flight...I've been on hold for 95 minutes and counting....
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 17:33:14 -0800
+location: nan

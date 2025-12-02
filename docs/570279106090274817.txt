@@ -1,0 +1,7 @@
+570279106090274817
+US Airways
+@USAirways great job today from your team with a challenging weather delay on flight 1925 out of Charlotte. #travel #friendlyteam
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 09:48:28 -0800
+location: Gulfport, MS

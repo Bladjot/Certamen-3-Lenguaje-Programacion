@@ -1,0 +1,7 @@
+568436966628261889
+Southwest
+@SouthwestAir nothing express about your express bag drop at Phoenix Sky Harbor
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-19 07:48:28 -0800
+location: nan

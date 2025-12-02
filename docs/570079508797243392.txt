@@ -1,0 +1,7 @@
+570079508797243392
+US Airways
+@USAirways honestly - how is it quickly as possible I've been on hold sine 9:50pm? Everyone that answers has to send me to someone else.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 20:35:21 -0800
+location: Maryland

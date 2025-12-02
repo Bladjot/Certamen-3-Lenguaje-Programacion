@@ -1,0 +1,7 @@
+568943244027006976
+Virgin America
+@VirginAmerica This is what you missed @NewsVP. Next trip to the 407.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 17:20:14 -0800
+location: Florida

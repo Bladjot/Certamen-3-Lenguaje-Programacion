@@ -1,0 +1,7 @@
+569606089316167680
+Southwest
+@SouthwestAir ohk. Thank You!!! B/C of the inexpensive airfares that Southwest has I can now travel around.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 13:14:09 -0800
+location: Newark, NJ

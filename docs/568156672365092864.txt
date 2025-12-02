@@ -1,0 +1,7 @@
+568156672365092864
+Delta
+@JetBlue I'm trying to add my 2012 flights to my Badges account but i don't see an option. Help plz?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 13:14:41 -0800
+location: Atlantic City

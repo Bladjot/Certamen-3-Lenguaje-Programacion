@@ -1,0 +1,7 @@
+567919558649995264
+United
+@united missed connection, wrong city, bags at Palm Springs, but not at hotel. I am seriously tired of being treated this way.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 21:32:28 -0800
+location: All Over The World

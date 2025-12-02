@@ -1,0 +1,7 @@
+570193870769811456
+American
+@AmericanAir Requiring customers to fill out all the contact information each time seems designed to prevent or limit interaction.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 04:09:47 -0800
+location: Wichita, Kansas

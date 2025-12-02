@@ -1,0 +1,7 @@
+568100973966569472
+Southwest
+@southwestair#SWADiversity We are ready to be inspired! http://t.co/S3EsW5AgUm
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 09:33:21 -0800
+location: nan

@@ -1,0 +1,7 @@
+569620098467569664
+United
+@united the bag is in a state that I didn't travel to and the airports don't fly to each other. Looks like it'll never show
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 14:09:49 -0800
+location: nan

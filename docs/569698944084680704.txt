@@ -1,0 +1,7 @@
+569698944084680704
+US Airways
+@USAirways Today USAir Cancelled Flightled our rescheduled flight &amp; did not notify us except possibly to our home phone-not helpful since we are in CO
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 19:23:07 -0800
+location: Southeastern Pennsylvania USA

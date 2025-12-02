@@ -1,0 +1,7 @@
+567838799243309056
+United
+I feel completely cheated @united. I read your commitment to customer service via website and def did not get service suggested there.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 16:11:34 -0800
+location: Berkeley, CA

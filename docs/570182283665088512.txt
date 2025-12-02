@@ -1,0 +1,7 @@
+570182283665088512
+American
+@AmericanAir try this. DPDFPP
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 03:23:44 -0800
+location: nan

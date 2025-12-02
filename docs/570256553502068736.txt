@@ -1,0 +1,7 @@
+570256553502068736
+Virgin America
+@VirginAmerica you guys messed up my seating.. I reserved seating with my friends and you guys gave my seat away ... 😡 I want free internet
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 08:18:51 -0800
+location: 714

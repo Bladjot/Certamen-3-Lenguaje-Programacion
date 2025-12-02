@@ -1,0 +1,7 @@
+569566712397471746
+US Airways
+@USAirways are there such things as non-delayed flights or na? Get your shit together and get me out of here
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 10:37:40 -0800
+location: Boston

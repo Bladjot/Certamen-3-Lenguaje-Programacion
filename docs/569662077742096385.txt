@@ -1,0 +1,7 @@
+569662077742096385
+United
+@united and that it would be sent on the next flight to Hayden/steamboat (HDN) from Denver. So I'm hoping its on there
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 16:56:37 -0800
+location: nan

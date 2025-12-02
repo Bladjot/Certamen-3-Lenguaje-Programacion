@@ -1,0 +1,7 @@
+570297414848000000
+American
+@AmericanAir Hi, can you please ticket my award ticket? The status is "On Request" now. Thanks.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:01:13 -0800
+location: nan

@@ -1,0 +1,7 @@
+568581984055906304
+Southwest
+@southwestair I have a roundtrip ticket now and I need to change one leg of the trip (to a nearby airport) - not possible via website?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 17:24:43 -0800
+location: Minnesota, USA

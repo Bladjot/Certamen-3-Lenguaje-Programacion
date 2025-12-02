@@ -1,0 +1,7 @@
+569661761449791488
+American
+@AmericanAir My flight to @dfwairport was Cancelled Flightled. Mess ensued. Please thank the awesome Marcos (Concierge Key @ GRU) for sorting it out!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 16:55:22 -0800
+location: I'm everywhere.

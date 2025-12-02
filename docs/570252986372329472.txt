@@ -1,0 +1,7 @@
+570252986372329472
+United
+@united #worst2unitedflightsever UA 236 LAS to IAD 2/24 mechanical problems again - took off - had to land for fix - delayed again #wtfodds!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 08:04:41 -0800
+location: nan

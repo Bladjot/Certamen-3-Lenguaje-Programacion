@@ -1,0 +1,7 @@
+570203943671865345
+American
+@AmericanAir @USAirways stated before I'm not getting any help there. Tk over 8 hrs yest to spk to a live person then told to chk the site.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 04:49:48 -0800
+location: nan

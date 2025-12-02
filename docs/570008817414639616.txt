@@ -1,0 +1,7 @@
+570008817414639616
+Southwest
+@SouthwestAir can you tell me if flight 805 from MDW-FLL tomorrow (2/24) is at full capacity?  i'm hoping for a little bit of extra room! 😊
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 15:54:26 -0800
+location: darien, il

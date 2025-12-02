@@ -1,0 +1,7 @@
+569657523944366080
+American
+@AmericanAir lets me get in line for call back in over 2 hours. I'll just hope the 1 ticket left on the flight I want is still there Late Flightr.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:38:32 -0800
+location: nan

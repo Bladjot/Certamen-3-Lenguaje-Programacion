@@ -1,0 +1,7 @@
+568995608238772224
+US Airways
+@USAirways No worries I was able to read @stephenrodrick entire book while holding. #TheMagicalStranger
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 20:48:19 -0800
+location: Crystal Lake, IL

@@ -1,0 +1,7 @@
+570259423987404800
+Southwest
+@SouthwestAir hey I'm flying from Tampa to Denver today and I want to know if there will be tv's in the seats like @JetBlue
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:30:16 -0800
+location: Valrico, Florida

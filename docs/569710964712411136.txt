@@ -1,0 +1,7 @@
+569710964712411136
+Southwest
+@SouthwestAir TY for your consideration!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 20:10:53 -0800
+location: Minneapolis

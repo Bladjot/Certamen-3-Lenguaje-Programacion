@@ -1,0 +1,7 @@
+568188243713372161
+US Airways
+@USAirways once again your service leaves a lot to be desired. Flight 5141 here early, but short staffing means we wait on Tarmac...Thanks
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 15:20:08 -0800
+location: Terrapin Station

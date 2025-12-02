@@ -1,0 +1,7 @@
+569472029717610496
+US Airways
+@USAirways wow.. Flight Cancelled Flightled, slept on the floor at the airport and now flight delayed
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 04:21:26 -0800
+location: nan

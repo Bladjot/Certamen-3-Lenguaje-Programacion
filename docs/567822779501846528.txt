@@ -1,0 +1,7 @@
+567822779501846528
+United
+@united I'm 0/3 for Flight Booking Problems without major problems. 0% isn't bad!👎👎
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-17 15:07:54 -0800
+location: nan

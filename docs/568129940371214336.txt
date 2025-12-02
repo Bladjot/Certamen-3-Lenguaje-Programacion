@@ -1,0 +1,7 @@
+568129940371214336
+US Airways
+@USAirways would it kill you to give me 30-60 seconds of bad muzak instead of constant commercials while on hold?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 11:28:27 -0800
+location: okinawa, japan

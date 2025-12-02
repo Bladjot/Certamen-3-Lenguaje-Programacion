@@ -1,0 +1,7 @@
+569390507526369280
+United
+@united I have $20 and I'll draw you a super sweet picture of your choosing. Will that get me round-trip to San Diego? 🌴🌴 It's so cold here.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 22:57:30 -0800
+location: Potsdam, NY

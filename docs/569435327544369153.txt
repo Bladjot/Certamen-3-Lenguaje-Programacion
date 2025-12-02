@@ -1,0 +1,7 @@
+569435327544369153
+US Airways
+@USAirways duh on baggage claim 2 more hours and counting .. Flights 622 &amp; 1898 http://t.co/DkZl57uPQI
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 01:55:36 -0800
+location: brooklyn

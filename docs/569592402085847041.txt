@@ -1,0 +1,7 @@
+569592402085847041
+American
+@AmericanAir Cancelled Flights flights arbitrarily on same itinerary.  Weekend ruined for no good reason! No crew = missed Monday am mtg.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 12:19:45 -0800
+location: nan

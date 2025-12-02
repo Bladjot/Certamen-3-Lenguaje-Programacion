@@ -1,0 +1,7 @@
+568955060165554176
+United
+Why even ask me to DM you and offer help if you "can't do anything" @united #terriblecustomerservice #unitedairlines http://t.co/feC4i3Vwq7
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 18:07:11 -0800
+location: Chicago

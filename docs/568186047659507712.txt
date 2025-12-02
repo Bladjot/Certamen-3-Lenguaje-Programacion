@@ -1,0 +1,7 @@
+568186047659507712
+United
+@united, Understandable. I did try Flight Booking Problems several times for 2 passengers &amp; got the messages I mentioned before. As for the agents price???
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 15:11:24 -0800
+location: nan

@@ -1,0 +1,7 @@
+569856492477657088
+United
+@United how is it that I book a flight with a reserved seat and then go to check in and find out I have no seat?  WTF.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 05:49:09 -0800
+location: Salt Lake City, Utah

@@ -1,0 +1,7 @@
+568493806414381058
+United
+@united how's my refund coming along??
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 11:34:20 -0800
+location: Canmore

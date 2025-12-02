@@ -1,0 +1,7 @@
+569552945324273665
+US Airways
+@USAirways WORST customer service ever!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 09:42:58 -0800
+location: Indiana Girl

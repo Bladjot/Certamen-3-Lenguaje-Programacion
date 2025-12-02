@@ -1,0 +1,7 @@
+569704005250777090
+Delta
+@JetBlue @amybruni @DIRECTTV No Oscars on Direct TV on this flight. We were so looking forward to it. We were devastated. :-/
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 19:43:14 -0800
+location: Provincetown Ma

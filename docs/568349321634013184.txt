@@ -1,0 +1,7 @@
+568349321634013184
+Virgin America
+@VirginAmerica Atlantic ploughs a lone furrow in the #MiddleEast http://t.co/DCoBoKN7EE @TheNationalUAE
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 02:00:12 -0800
+location: Libya

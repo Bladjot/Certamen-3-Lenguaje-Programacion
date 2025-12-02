@@ -1,0 +1,7 @@
+568898792247992320
+Delta
+@JetBlue Please come to Indianapolis!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 14:23:36 -0800
+location: nan

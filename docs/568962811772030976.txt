@@ -1,0 +1,7 @@
+568962811772030976
+United
+@united have better customer service at John Wayne airport.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 18:37:59 -0800
+location: nan

@@ -1,0 +1,7 @@
+570282087065919488
+United
+@united thanks again for your concern. I will contact customer care upon our return from Australia.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:00:19 -0800
+location: nan

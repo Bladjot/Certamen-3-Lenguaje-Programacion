@@ -1,0 +1,7 @@
+570275010759102466
+American
+@AmericanAir this delayed bag was for my friend Lisa Pafe. She got her bag after 3 days in Costa Rica. Issue no updates on your system.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 09:32:12 -0800
+location: nan

@@ -1,0 +1,7 @@
+569930522677399553
+Delta
+RT @JetBlue: Our fleet's on fleek. http://t.co/826Pkiq5HI
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:43:20 -0800
+location: Binghamton University

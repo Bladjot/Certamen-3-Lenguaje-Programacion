@@ -1,0 +1,7 @@
+567747787807526912
+Southwest
+@SouthwestAir yeah bruh its bool y'all niggaz just need to hire some more workers or something cause next time imma be forced ta disrespect.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 10:09:55 -0800
+location: nan

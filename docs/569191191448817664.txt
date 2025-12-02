@@ -1,0 +1,7 @@
+569191191448817664
+Delta
+@JetBlue minutes to spare.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 09:45:29 -0800
+location: CONCRETE JUNGLE

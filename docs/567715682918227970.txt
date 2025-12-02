@@ -1,0 +1,7 @@
+567715682918227970
+Southwest
+@SouthwestAir Hoping you answer the phone today?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 08:02:21 -0800
+location: Phoenix, AZ

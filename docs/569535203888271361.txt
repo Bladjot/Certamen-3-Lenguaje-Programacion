@@ -1,0 +1,7 @@
+569535203888271361
+Delta
+@JetBlue flight 16 now sent back to the gate even though the app says its leaving. Anyone have a clue? It's 36 and sunny at JFK
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 08:32:28 -0800
+location: nan

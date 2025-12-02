@@ -1,0 +1,7 @@
+569917117576949760
+American
+@AmericanAir We've 15 official complaints signed by #AmericanAirlines Lima supervisor. Customer Relations pls compensate 4 the 10-hour delay
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 09:50:04 -0800
+location: nan

@@ -1,0 +1,7 @@
+567814795895787520
+Virgin America
+@VirginAmerica I love the dancing little richard. cool beans.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 14:36:11 -0800
+location: Oakland, CA

@@ -1,0 +1,7 @@
+567909745211879424
+US Airways
+@usairways missed flight connection due to flight attendant delay. Yet no voucher on your part? #fail
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 20:53:29 -0800
+location: Boston, MA

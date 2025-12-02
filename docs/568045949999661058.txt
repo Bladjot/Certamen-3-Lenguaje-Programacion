@@ -1,0 +1,7 @@
+568045949999661058
+Delta
+@JetBlue thank you for incredible customer svc from gate to flight. Mint experience is magic.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 05:54:42 -0800
+location: San Francisco Bay Area

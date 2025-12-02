@@ -1,0 +1,7 @@
+569984162377003008
+US Airways
+@USAirways no I am trying to get on a plane from Phx to RNO and the gate is saying the flight was downgraded.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:16:28 -0800
+location: Miami, Florida, USA

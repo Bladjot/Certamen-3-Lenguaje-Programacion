@@ -1,0 +1,7 @@
+569229104286986240
+Delta
+@JetBlue yesterday's deal?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 12:16:08 -0800
+location: Mannahatta

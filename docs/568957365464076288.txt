@@ -1,0 +1,7 @@
+568957365464076288
+Southwest
+@SouthwestAir Cancelled Flightled my flight and I'm stranded in St. Louis. Not sure what to do. No other flight until tomorrow. Am I to sleep in airpt
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 18:16:21 -0800
+location: Philadelphia, PA

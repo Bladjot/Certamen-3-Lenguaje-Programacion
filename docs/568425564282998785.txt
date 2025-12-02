@@ -1,0 +1,7 @@
+568425564282998785
+United
+@united I'll be calling soon but going tomorrow like it shows on the app is not a good option
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 07:03:10 -0800
+location: Connecticut

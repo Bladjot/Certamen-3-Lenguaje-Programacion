@@ -1,0 +1,7 @@
+568858899438178305
+Delta
+@JetBlue I lost a day at the airport and off my trip, I should be compensated for the inconvenience!!!!!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 11:45:05 -0800
+location: Bay Area, CA.

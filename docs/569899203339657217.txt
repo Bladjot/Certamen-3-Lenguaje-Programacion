@@ -1,0 +1,7 @@
+569899203339657217
+US Airways
+@USAirways Will you pick up your phone then?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 08:38:52 -0800
+location: Danmark

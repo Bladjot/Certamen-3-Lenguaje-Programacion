@@ -1,0 +1,7 @@
+569251925482475520
+Delta
+@JetBlue at what point do u Cancelled Flight flights to DCA- other airlines have already Cancelled Flightled
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 13:46:49 -0800
+location: Washington, DC

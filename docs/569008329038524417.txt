@@ -1,0 +1,7 @@
+569008329038524417
+Southwest
+@SouthwestAir Hey there, can you follow us so we can DM you a question :) 😁
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 21:38:51 -0800
+location: Atlanta, GA

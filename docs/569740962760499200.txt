@@ -1,0 +1,7 @@
+569740962760499200
+American
+@AmericanAir ... Do I have to even say anything?  Over 6 hours on hold... No one has ever sucked as much as you. http://t.co/NcrMqIBIWo
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 22:10:05 -0800
+location: Raleigh, NC

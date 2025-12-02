@@ -1,0 +1,7 @@
+568626368373780481
+US Airways
+@USAirways we already spoke to someone several times about the matter and no one is sympathetic or will fly us home early complimentary.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 20:21:05 -0800
+location: nan

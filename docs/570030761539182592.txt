@@ -1,0 +1,7 @@
+570030761539182592
+US Airways
+@USAirways is it ok for a flight attendant to talk nasty about passengers while they go get drinks by the restroom? I was shocked listening
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 17:21:38 -0800
+location: Earth

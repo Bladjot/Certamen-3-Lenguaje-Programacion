@@ -1,0 +1,7 @@
+568287936820572160
+United
+@united error message said couldn't process request at the last step after seat selection on each leg. Agent was unaware of an (1 of 2)
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 21:56:17 -0800
+location: Austin, TX

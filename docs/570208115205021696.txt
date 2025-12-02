@@ -1,0 +1,7 @@
+570208115205021696
+Delta
+“@JetBlue: @jannasaurusrex Thanks for the kind words, Janna! #WeAppreciateYou #TrueBlue” and now I'M feeling like a boss #jetbluefame
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 05:06:23 -0800
+location: central mass

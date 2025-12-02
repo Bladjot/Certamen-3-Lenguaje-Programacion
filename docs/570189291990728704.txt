@@ -1,0 +1,7 @@
+570189291990728704
+United
+@united Luckily I made my flights this time but was so disappointed with the lack of communication :(
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 03:51:35 -0800
+location: nan

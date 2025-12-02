@@ -1,0 +1,7 @@
+569852380327612416
+US Airways
+@USAirways Will the nightmare ever end? Just found out our flight today is delayed due to "ground handling delays affecting a prior flight."
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 05:32:49 -0800
+location: nan

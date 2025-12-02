@@ -1,0 +1,7 @@
+570296212336865283
+US Airways
+@USAirways Said only way to get on plane about to leave that would make my connection was a $75 fee. Instead of earlier, I am now Late Flightr!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 10:56:27 -0800
+location: nan

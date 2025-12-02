@@ -1,0 +1,7 @@
+570305603056349184
+United
+@united even on international flight Glasgow to the U.S.? Then what about orlando to Newark? All 90 mins?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:33:46 -0800
+location: Kilmarnock, now Edinburgh.

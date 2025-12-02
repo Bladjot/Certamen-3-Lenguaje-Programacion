@@ -1,0 +1,7 @@
+569680508088688641
+American
+@AmericanAir none of your sample itineraries can actually be booked http://t.co/mF7rABGn8a Every last leg back to US says invalid
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 18:09:51 -0800
+location: Charlotte, NC | Köln, NRW

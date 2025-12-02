@@ -1,0 +1,7 @@
+569920406737432577
+United
+@united that's cool - now what?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 10:03:08 -0800
+location: nan

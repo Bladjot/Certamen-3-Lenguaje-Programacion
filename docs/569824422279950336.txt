@@ -1,0 +1,7 @@
+569824422279950336
+US Airways
+@USAirways hello??? Anyone there?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 03:41:43 -0800
+location: Miami, Fl. USA

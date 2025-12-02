@@ -1,0 +1,7 @@
+570289080090689536
+Southwest
+@SouthwestAir weather bc of system outage. Hopefully everything goes smoothly now. Thank you for follow up
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 10:28:06 -0800
+location: Fort Lauderdale

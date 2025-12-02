@@ -1,0 +1,7 @@
+569860082965426176
+American
+@AmericanAir my flight 1106 was Cancelled Flightled and I need to get back to Cleveland. What are my options?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 06:03:25 -0800
+location: nan

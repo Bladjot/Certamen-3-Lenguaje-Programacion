@@ -1,0 +1,7 @@
+570088404156698625
+Virgin America
+@VirginAmerica help, left expensive headphones on flight 89 IAD to LAX today. Seat 2A. No one answering L&amp;F number at LAX!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 21:10:41 -0800
+location: Washington DC

@@ -1,0 +1,7 @@
+569668179758350336
+US Airways
+@USAirways so you don't have a pilot now for #clt ✈ #ord for at least another hour. Why on earth would you board the plane? Makes no sense!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:20:52 -0800
+location: Chicago, IL, USA

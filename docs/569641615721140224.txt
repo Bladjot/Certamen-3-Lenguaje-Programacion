@@ -1,0 +1,7 @@
+569641615721140224
+United
+“@united: @rikrik__ What made you come to this? Can we help you with anything? ^JP” the service just hasn't been great.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:35:19 -0800
+location: Saint Louis

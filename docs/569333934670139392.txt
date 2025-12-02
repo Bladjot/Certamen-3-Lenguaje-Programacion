@@ -1,0 +1,7 @@
+569333934670139392
+US Airways
+@USAirways First class service on US 769 PHL-MCO today from the flight attendant in F. I didn't catch her name but she was top notch!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 19:12:42 -0800
+location: nan

@@ -1,0 +1,7 @@
+568238725626355712
+United
+@united this is not what captain said! Your 820pm flight to San Francisco is delayed due to weather. UA1416 now departs ....#failagain
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 18:40:44 -0800
+location: San Francisco, CA

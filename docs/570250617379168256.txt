@@ -1,0 +1,7 @@
+570250617379168256
+American
+@AmericanAir and it's not a inconvenience it is a disaster. It's A $500 phone bill from you that you refuse to pay
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 07:55:16 -0800
+location: san francisco califorania

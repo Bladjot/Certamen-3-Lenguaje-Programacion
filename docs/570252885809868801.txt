@@ -1,0 +1,7 @@
+570252885809868801
+American
+@AmericanAir Filled out a baggage claim over the phone last night. Check the status to discover the rep confused Arkansas for Alaska 😒
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 08:04:17 -0800
+location: New York, NY

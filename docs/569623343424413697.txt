@@ -1,0 +1,7 @@
+569623343424413697
+United
+@united you could give me free flights for life, and I'd still choose to purchase my tickets from a competitor.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 14:22:42 -0800
+location: Corpus Christi

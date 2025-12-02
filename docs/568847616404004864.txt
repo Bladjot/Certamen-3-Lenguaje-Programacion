@@ -1,0 +1,7 @@
+568847616404004864
+United
+@United Airlines Is Changing Its MileagePlus Program: Winners And Losers http://t.co/F1yvAiO9ul http://t.co/vGlx6Ykwqg
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 11:00:15 -0800
+location: USA

@@ -1,0 +1,7 @@
+568962547891736576
+Southwest
+@SouthwestAir booked the 8th.... Save me an emergency exit... Gotta stretch out
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 18:36:56 -0800
+location: FORT WORTH TEXAS!

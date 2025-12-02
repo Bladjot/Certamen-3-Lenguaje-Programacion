@@ -1,0 +1,7 @@
+567901267063803904
+United
+@united Hello. Just wondering how long it might take for Turkish Airlines flights to show up in my United miles. Thanks.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 20:19:47 -0800
+location: Nicaragua

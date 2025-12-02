@@ -1,0 +1,7 @@
+569925190236442624
+Delta
+But, are your flight attendants fucking tho? RT @JetBlue: Our fleet's on fleek. http://t.co/wGYzTnjCXm
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 10:22:08 -0800
+location: Morning Wood Terrace

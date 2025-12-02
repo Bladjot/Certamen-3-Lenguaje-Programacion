@@ -1,0 +1,7 @@
+568140221994250240
+US Airways
+@USAirways I ask for reimbursement maybe miles added to my account for my inconvenience and for the money that I had to spend
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 12:09:19 -0800
+location: nan

@@ -1,0 +1,7 @@
+570225191458111489
+United
+@united $25 United coupon to make up for broken entertainment system on a 9-hour flight, seriously? #Ridiculousness #learncustomerservice
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 06:14:14 -0800
+location: nan

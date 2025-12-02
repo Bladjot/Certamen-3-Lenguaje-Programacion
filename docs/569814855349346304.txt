@@ -1,0 +1,7 @@
+569814855349346304
+American
+@AmericanAir Thanks guys, you got it. I'm heading to Milan on Wednesday, so big week with the AA family :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 03:03:42 -0800
+location: New York | Hong Kong

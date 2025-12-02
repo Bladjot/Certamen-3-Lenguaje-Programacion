@@ -1,0 +1,7 @@
+568258545772335104
+United
+@united that's of course in lax
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 19:59:29 -0800
+location: Fredericton NB

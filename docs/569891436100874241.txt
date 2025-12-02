@@ -1,0 +1,7 @@
+569891436100874241
+Virgin America
+@virginamerica how's a direct flight FLL-&gt;SFO have unexpected layover in Vegas 4 fuel yet peeps next to me bought for Vegas flight. #sneaky
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 08:08:01 -0800
+location: Floridian from Cincinnati

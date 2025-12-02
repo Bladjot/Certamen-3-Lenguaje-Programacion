@@ -1,0 +1,7 @@
+568104397869350912
+United
+@united Thanks for explanation. It seems like an odd incentive structure, tho, because it dramatically diminishes the value of the certs.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 09:46:57 -0800
+location: Fremont, California

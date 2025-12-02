@@ -1,0 +1,7 @@
+568858194447085568
+Southwest
+@SouthwestAir yes but not with out an attitude and nasty comment
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 11:42:17 -0800
+location: Rochester Hills, MI

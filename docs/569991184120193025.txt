@@ -1,0 +1,7 @@
+569991184120193025
+Delta
+@JetBlue Worked now, ty
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 14:44:22 -0800
+location: Los Angeles, Calif.

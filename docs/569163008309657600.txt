@@ -1,0 +1,7 @@
+569163008309657600
+US Airways
+@USAirways your flight attendants are all jerks 🐳
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 07:53:30 -0800
+location: VA

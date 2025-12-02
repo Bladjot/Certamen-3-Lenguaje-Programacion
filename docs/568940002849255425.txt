@@ -1,0 +1,7 @@
+568940002849255425
+Virgin America
+@VirginAmerica there is something wrong with you website in Safari iPhone
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 17:07:21 -0800
+location: Montreal

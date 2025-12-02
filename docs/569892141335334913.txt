@@ -1,0 +1,7 @@
+569892141335334913
+Delta
+@JetBlue I believe you have to follow me so I can send you a message
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 08:10:49 -0800
+location: Los Angeles, Calif.

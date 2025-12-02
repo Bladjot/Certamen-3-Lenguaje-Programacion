@@ -1,0 +1,7 @@
+567756837320392705
+United
+@united Q: Just purchased ticket to #Hawaii for trip in Late Flight-March. Does this mean we will acquire miles based on price or distance flown?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 10:45:53 -0800
+location: nan

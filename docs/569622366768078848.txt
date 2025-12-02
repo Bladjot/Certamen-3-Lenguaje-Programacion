@@ -1,0 +1,7 @@
+569622366768078848
+American
+@AmericanAir flight 2470 tomorrow, have no idea if we've been rescheduled and can't fix online? Have to talk to an agent yet no one answers?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:18:49 -0800
+location: nan

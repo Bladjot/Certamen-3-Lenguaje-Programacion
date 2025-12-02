@@ -1,0 +1,7 @@
+570269774594224128
+American
+@AmericanAir @lpalumbo what weather sun is out
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 09:11:24 -0800
+location: nan

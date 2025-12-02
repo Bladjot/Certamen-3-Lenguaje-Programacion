@@ -1,0 +1,7 @@
+568281546999754752
+United
+@united they had snacks available, just no fresh food...not sure what happened, but I'm sure we will grab a bite before our SFO connection
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 21:30:53 -0800
+location: Keauhou, Hawaii USA

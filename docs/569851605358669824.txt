@@ -1,0 +1,7 @@
+569851605358669824
+Delta
+@JetBlue Yes, I filed yesterday around noon. I have a claim number but they haven't contacted me yet.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 05:29:44 -0800
+location: Gainesville, Fl

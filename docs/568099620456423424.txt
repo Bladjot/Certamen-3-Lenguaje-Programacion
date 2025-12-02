@@ -1,0 +1,7 @@
+568099620456423424
+United
+@United and @DirectTV. Not to pile on, but it's time to update your in flight TV package. http://t.co/Lug4MFVWsA
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 09:27:58 -0800
+location: on my iPhone

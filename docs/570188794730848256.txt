@@ -1,0 +1,7 @@
+570188794730848256
+American
+@AmericanAir Thank you for the info! Changes need to be made over the phone, correct? Is there any way an AA agent can call me directly?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 03:49:36 -0800
+location: Boston

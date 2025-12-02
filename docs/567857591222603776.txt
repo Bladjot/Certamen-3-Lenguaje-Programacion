@@ -1,0 +1,7 @@
+567857591222603776
+Southwest
+@SouthwestAir yeah they told me it would be on the next flight. I drove down and it wasnt. I just drove down for a second time and they were
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 17:26:14 -0800
+location: Memphis, TN

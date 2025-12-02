@@ -1,0 +1,7 @@
+568437004045672448
+Southwest
+@SouthwestAir @FortuneMagazine Love flying Southwest! Best flight attendants ever!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 07:48:37 -0800
+location: Minnesota

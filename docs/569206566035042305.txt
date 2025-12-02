@@ -1,0 +1,7 @@
+569206566035042305
+US Airways
+@USAirways after 5 flight Cancelled Flightlations we finally get a flight, get to the gate on time &amp; you've given our seats away? Seriously??
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 10:46:35 -0800
+location: Washington DC

@@ -1,0 +1,7 @@
+570261289420898305
+Southwest
+@SouthwestAir and thx for not responding
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 08:37:40 -0800
+location: Chicago

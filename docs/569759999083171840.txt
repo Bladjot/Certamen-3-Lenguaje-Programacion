@@ -1,0 +1,7 @@
+569759999083171840
+US Airways
+@USAirways I love how just to give feedback to this link I have to fill out all my personal info on a form.  You guys are the best :)
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 23:25:44 -0800
+location: Washington, D.C.

@@ -1,0 +1,7 @@
+569126397161054208
+US Airways
+@USAirways I don't want a reservation change, just adding a service. Am going public with this to get help.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 05:28:01 -0800
+location: Chesapeake Bay watershed

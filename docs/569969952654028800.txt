@@ -1,0 +1,7 @@
+569969952654028800
+United
+@united Pleased to be a Premier Platinum
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 13:20:00 -0800
+location: nan

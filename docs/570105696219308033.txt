@@ -1,0 +1,7 @@
+570105696219308033
+US Airways
+@USAirways can't get back lost time
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 22:19:24 -0800
+location: nan

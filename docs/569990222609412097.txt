@@ -1,0 +1,7 @@
+569990222609412097
+Virgin America
+@VirginAmerica @ladygaga @carrieunderwood  I'm Lady Gaga!!! She is amazing! 😊
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 14:40:33 -0800
+location: Bali, Republic of Indonesia

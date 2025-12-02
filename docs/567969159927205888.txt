@@ -1,0 +1,7 @@
+567969159927205888
+United
+@united submitted customer care form Jan 7th. Still no response. A little longer then 7 - 10 business days
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 00:49:34 -0800
+location: Gdansk / Manchester

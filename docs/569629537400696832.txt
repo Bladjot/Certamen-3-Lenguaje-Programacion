@@ -1,0 +1,7 @@
+569629537400696832
+Delta
+@JetBlue Why are you making it so freaking hard for me to say good things about you??  #jetbluefail http://t.co/v8SB0RBICx
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:47:19 -0800
+location: nan

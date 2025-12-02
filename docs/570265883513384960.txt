@@ -1,0 +1,7 @@
+570265883513384960
+Virgin America
+@VirginAmerica why are your first fares in May over three times more than other carriers when all seats are available to select???
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 08:55:56 -0800
+location: nan

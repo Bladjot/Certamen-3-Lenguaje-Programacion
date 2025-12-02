@@ -1,0 +1,7 @@
+568165058229997569
+US Airways
+@USAirways this made me have to Cancelled Flight my car reservation and it came out to more money...why did you reschedule a time without the crew?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 13:48:00 -0800
+location: Lawrence, MA

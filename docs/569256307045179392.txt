@@ -1,0 +1,7 @@
+569256307045179392
+United
+@united Why was I forced to check my rollaboard on UA 715? Plenty of room in the overhead next to my seat. http://t.co/5xvNnmLTiW
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 14:04:14 -0800
+location: Chicago

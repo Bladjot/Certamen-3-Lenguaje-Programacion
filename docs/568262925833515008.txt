@@ -1,0 +1,7 @@
+568262925833515008
+Southwest
+@SouthwestAir inflight entertainment.  Tonight a Willie Nelson impersonator sang for the passengers #peanutsandtoons http://t.co/kCDdOD7uFF
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 20:16:53 -0800
+location: Phoenix, AZ

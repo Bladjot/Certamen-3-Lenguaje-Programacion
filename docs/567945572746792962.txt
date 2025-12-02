@@ -1,0 +1,7 @@
+567945572746792962
+United
+@united What is the point of a UPC code on checked baggage if you can't tell me where my luggage is? Vacation- day 3: trying on swimsuits...
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 23:15:51 -0800
+location: nan

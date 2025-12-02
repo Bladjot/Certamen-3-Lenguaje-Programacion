@@ -1,0 +1,7 @@
+568205181990637568
+Delta
+@JetBlue #jetblue #sofly #wish #firststari seetonight http://t.co/pyJAoayNx6
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 16:27:26 -0800
+location: nan

@@ -1,0 +1,7 @@
+569976293573447682
+American
+@AmericanAir when changing dest city on an award for a reservation party of 4, is fee $150 for each pax or 150 for first and 25 for rest?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:45:12 -0800
+location: nan

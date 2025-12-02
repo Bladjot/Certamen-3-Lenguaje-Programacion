@@ -1,0 +1,7 @@
+568911873438920705
+Southwest
+@SouthwestAir I am committed okay please hook me up for #DestinationDragons
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 15:15:35 -0800
+location: nan

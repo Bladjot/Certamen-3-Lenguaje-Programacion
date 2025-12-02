@@ -1,0 +1,7 @@
+569594855556452352
+American
+@AmericanAir I've been trying for 4 hours to get hold of someone.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:29:30 -0800
+location: Dallas, TX

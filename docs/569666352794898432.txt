@@ -1,0 +1,7 @@
+569666352794898432
+United
+@united social media team is on point on #OscarNight :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:13:37 -0800
+location: San Francisco, CA

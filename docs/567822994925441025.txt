@@ -1,0 +1,7 @@
+567822994925441025
+Southwest
+@SouthwestAir I have had 4 flights Cancelled Flightled through yall!!!! Im sick of it 😠😠
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 15:08:46 -0800
+location: Nashville by way of New York

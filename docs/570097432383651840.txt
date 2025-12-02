@@ -1,0 +1,7 @@
+570097432383651840
+United
+@united on 4124 arriving two hours Late Flight into CLT. Now sitting on the tarmac while they move a plane from the gate. Unhappy customer.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 21:46:34 -0800
+location: nan

@@ -1,0 +1,7 @@
+569704454376660992
+Southwest
+@SouthwestAir is not being responding to the @SpecialOlympics athletes.  #notcool #Southwest
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 19:45:01 -0800
+location: Denver, CO

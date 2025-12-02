@@ -1,0 +1,7 @@
+569968411561701378
+Southwest
+@SouthwestAir  Northern California coast http://t.co/nm4VNNF8Kb
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:13:53 -0800
+location: nan

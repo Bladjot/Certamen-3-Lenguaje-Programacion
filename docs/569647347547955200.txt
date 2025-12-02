@@ -1,0 +1,7 @@
+569647347547955200
+United
+@united flight 3870 to Newark, stuck in the runway. About to miss my connection and they are just sorry for my inconvenience!!!!!!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:58:05 -0800
+location: San Francisco, CA

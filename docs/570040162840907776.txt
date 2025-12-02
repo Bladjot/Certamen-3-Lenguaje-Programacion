@@ -1,0 +1,7 @@
+570040162840907776
+Southwest
+@SouthwestAir how much is ur wifi fam
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 17:59:00 -0800
+location: CT

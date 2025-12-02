@@ -1,0 +1,7 @@
+569638835539349504
+US Airways
+@USAirways what's going on in CLT?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:24:16 -0800
+location: SC

@@ -1,0 +1,7 @@
+570121135603486720
+United
+@united keep me updated. Let me know that the bags make the flight to j-burg
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 23:20:45 -0800
+location: mentor, Ohio

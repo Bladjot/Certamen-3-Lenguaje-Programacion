@@ -1,0 +1,7 @@
+569336252597731329
+United
+@united no I don't. Spoke with baggage contact at 1-800 number. Said they will try to get bags to stay at IAD for pick up tmrw
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 19:21:55 -0800
+location: Ottawa, ON

@@ -1,0 +1,7 @@
+569481213016023040
+United
+@united flight #1 no luck on #standby
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 04:57:56 -0800
+location: the district of colombia

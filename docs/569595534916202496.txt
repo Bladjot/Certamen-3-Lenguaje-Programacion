@@ -1,0 +1,7 @@
+569595534916202496
+US Airways
+@USAirways got transf. to Dividend Miles...need to change flight.  Grandma just passed, need to change ticket ASAP. Update on wait time?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:32:12 -0800
+location: Global Citizen

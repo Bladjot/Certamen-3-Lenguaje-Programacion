@@ -1,0 +1,7 @@
+568211517398786048
+US Airways
+@USAirways I was re accommodated for my DSM flight tonight after a delay from Myrtle Beach now the flight to DSM is back on for tonight?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 16:52:37 -0800
+location: ÜT: 41.5333,-93.62944

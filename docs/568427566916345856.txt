@@ -1,0 +1,7 @@
+568427566916345856
+Southwest
+@SouthwestAir Please bring back RDU to FLL direct route!  I noticed it is missing starting in Late Flight August!  The flights are always packed!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 07:11:07 -0800
+location: nan

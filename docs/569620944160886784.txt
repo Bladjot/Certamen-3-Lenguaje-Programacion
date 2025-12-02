@@ -1,0 +1,7 @@
+569620944160886784
+United
+@united thanks for causing us to miss our connection and now a 6hour delay #flydeltanexttime
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:13:10 -0800
+location: nan

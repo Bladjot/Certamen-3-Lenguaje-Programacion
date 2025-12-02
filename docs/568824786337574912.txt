@@ -1,0 +1,7 @@
+568824786337574912
+US Airways
+@USAirways Will you guys be offering no-fee changes for flights out of DCA tomorrow afternoon?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 09:29:31 -0800
+location: nan

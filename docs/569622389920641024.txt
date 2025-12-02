@@ -1,0 +1,7 @@
+569622389920641024
+Delta
+@JetBlue what's up? Three delays so far, resulting in over three hours of unnecessary, extra waiting.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:18:55 -0800
+location: Chicago

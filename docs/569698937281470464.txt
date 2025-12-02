@@ -1,0 +1,7 @@
+569698937281470464
+US Airways
+@USAirways and I can't get through on any phones
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:23:05 -0800
+location: Michigan ➡️ Florida

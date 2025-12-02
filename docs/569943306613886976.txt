@@ -1,0 +1,7 @@
+569943306613886976
+Southwest
+@SouthwestAir A+ to the Safety Dos and Don'ts Announcer. Flight 651 from Midway (MDW) to Pittsburgh (PIT)!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 11:34:07 -0800
+location: nan

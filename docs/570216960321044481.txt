@@ -1,0 +1,7 @@
+570216960321044481
+American
+I'd like the 11c I originally tried for @AmericanAir - again, happy to pay the difference
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 05:41:32 -0800
+location: Chicago

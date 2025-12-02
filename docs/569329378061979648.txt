@@ -1,0 +1,7 @@
+569329378061979648
+United
+@united possibly the worst airlineGave them three chances Second time in 2 weeks a flight has been delayed and or Cancelled Flightled due to mechanics
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 18:54:36 -0800
+location: Coastal

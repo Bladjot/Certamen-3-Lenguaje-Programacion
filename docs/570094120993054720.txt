@@ -1,0 +1,7 @@
+570094120993054720
+American
+@AmericanAir @gerri_elliott You will!! Every chance I get! Thanks for keeping me Exec Platinum.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 21:33:24 -0800
+location: nan

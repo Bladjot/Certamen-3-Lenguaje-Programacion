@@ -1,0 +1,7 @@
+569865637666930688
+US Airways
+@USAirways please fix the very unproductive check in process at @DCA. 20 check in stations and 2 people working them. What a total mess!!!!
+sentiment: negative
+negativereason: longlines
+created: 2015-02-23 06:25:30 -0800
+location: earth for now

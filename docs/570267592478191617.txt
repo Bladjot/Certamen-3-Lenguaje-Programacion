@@ -1,0 +1,7 @@
+570267592478191617
+American
+@americanair I sure do. I'm running version 3.10.0
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:02:43 -0800
+location: DFW, TX

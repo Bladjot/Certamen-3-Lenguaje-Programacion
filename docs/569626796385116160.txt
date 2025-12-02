@@ -1,0 +1,7 @@
+569626796385116160
+American
+@AmericanAir @travisamex please please American call me so I can rebook ticket .
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:36:26 -0800
+location: Hawaii/Dallas/Tucson/LA

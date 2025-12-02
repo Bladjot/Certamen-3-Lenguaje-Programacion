@@ -1,0 +1,7 @@
+569244202225307648
+United
+@united So what's allowed or what's not allowed to be carried in my checked baggage?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 13:16:08 -0800
+location: England

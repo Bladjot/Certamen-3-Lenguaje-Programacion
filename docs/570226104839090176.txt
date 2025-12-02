@@ -1,0 +1,7 @@
+570226104839090176
+US Airways
+@USAirways There is no reFlight Booking Problems the event I'm flying to attend. Waiting for jetway driver??? STILL ON TARMAC???
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 06:17:52 -0800
+location: Jacksonville, FL

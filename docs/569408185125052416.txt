@@ -1,0 +1,7 @@
+569408185125052416
+Southwest
+@SouthwestAir want to pick up a customer from @SpiritAirlines sign me up 🙌😏
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 00:07:45 -0800
+location: #PureMichigan

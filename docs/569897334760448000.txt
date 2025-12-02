@@ -1,0 +1,7 @@
+569897334760448000
+Southwest
+@SouthwestAir we checked in right at 24hr mark. Boarding C group with kids ages 6&amp;8 dnt want to be split. What sld we do?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 08:31:27 -0800
+location: nan

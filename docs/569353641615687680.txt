@@ -1,0 +1,7 @@
+569353641615687680
+US Airways
+@USAirways on top or having to check my bag I had to wait over 30 min for my bag to come out at baggage claim. Thanks for wasting my time
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 20:31:00 -0800
+location: nan

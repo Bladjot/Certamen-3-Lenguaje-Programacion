@@ -1,0 +1,7 @@
+569612143873490944
+Southwest
+@SouthwestAir when are the two free flights promo coming back?! Looking into the premiere card but might hold off or go with another option!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 13:38:12 -0800
+location: Denver

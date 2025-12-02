@@ -1,0 +1,7 @@
+570240764812378112
+American
+@AmericanAir Your response has been incredible. Truly amazed at the steps you have taken to enhance your customer relations. Big thank you 😄
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 07:16:07 -0800
+location: Harrison, New York

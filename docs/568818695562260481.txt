@@ -1,0 +1,7 @@
+568818695562260481
+Delta
+@JetBlue Thanks for the $100 credit because of the 4hr delay. I can tell customer service means a lot to YOU #Thankful
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 09:05:19 -0800
+location: The Eastside of the Far Side

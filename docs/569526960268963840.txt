@@ -1,0 +1,7 @@
+569526960268963840
+Delta
+@JetBlue It's not so much the delays as the fact that the flight is still coming up as on time on your app. Just give us an honest estimate
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 07:59:43 -0800
+location: Washington D.C.

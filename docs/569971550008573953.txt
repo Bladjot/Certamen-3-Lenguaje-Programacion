@@ -1,0 +1,7 @@
+569971550008573953
+US Airways
+@USAirways I will never fly @USAirways again
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 13:26:21 -0800
+location: South

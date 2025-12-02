@@ -1,0 +1,7 @@
+568761425029668864
+United
+@united always makes our cross country flights rad. @hemispheresmag here's baby flier Charlotte! #8thtime5MonthsOld http://t.co/kCqnwIXUCm
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 05:17:45 -0800
+location: Los Angeles/Charlotte

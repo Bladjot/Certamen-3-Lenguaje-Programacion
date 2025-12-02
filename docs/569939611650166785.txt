@@ -1,0 +1,7 @@
+569939611650166785
+Delta
+I always look forward to JB RT @JetBlue: @bostongarden :) Looking forward to welcoming you onboard! 💙
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 11:19:27 -0800
+location: Boston, Austin, Kansas City

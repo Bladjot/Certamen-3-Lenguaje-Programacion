@@ -1,0 +1,7 @@
+570038941497192448
+Virgin America
+@VirginAmerica when can I book my flight to Hawaii??
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 17:54:09 -0800
+location: i'm creating a monster

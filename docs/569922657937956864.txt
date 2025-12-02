@@ -1,0 +1,7 @@
+569922657937956864
+Southwest
+@SouthwestAir Hello remaining credits on your account will be refunded back to your credit card, when you choose a lower price flight?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:12:04 -0800
+location: D(M)V

@@ -1,0 +1,7 @@
+569703616426045441
+American
+@AmericanAir My flight tomorrow from SLC to DFW AA304 Cancelled Flighted. Can you help me get there?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 19:41:41 -0800
+location: Salt Lake City, USA

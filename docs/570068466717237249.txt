@@ -1,0 +1,7 @@
+570068466717237249
+American
+@AmericanAir Best planes in the business. NOT? AA5411 today. http://t.co/I7Vdi9WqSF
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 19:51:28 -0800
+location: Louisville KY

@@ -1,0 +1,7 @@
+570095043169529857
+American
+@AmericanAir I love the service and cheap upgrades American Provides! One of the best airlines ever! good food, good seats, amazing thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 21:37:04 -0800
+location: nan

@@ -1,0 +1,7 @@
+570022626724220928
+US Airways
+@USAirways I have better Intel than she does!  She said plane is due in at 630.  Flightaware and your own app say 645
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 16:49:19 -0800
+location: nan

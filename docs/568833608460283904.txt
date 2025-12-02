@@ -1,0 +1,7 @@
+568833608460283904
+Southwest
+@SouthwestAir Flying now from JAX to DEN and I paid $8 for wifi that barely is functional.  Couldn't do work if I wanted to.  Never again.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 10:04:35 -0800
+location: denver, co

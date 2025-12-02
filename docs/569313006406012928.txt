@@ -1,0 +1,7 @@
+569313006406012928
+Delta
+@JetBlue OK, thank you.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 17:49:32 -0800
+location: Massachusetts

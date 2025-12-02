@@ -1,0 +1,7 @@
+569244295921692672
+United
+@united ruined my day &amp; start trip SFO to GIG. both legs changed, lost my paid upgrade &amp; 200 1st class seat &amp; moved me from Econ + to Econ
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 13:16:30 -0800
+location: nan

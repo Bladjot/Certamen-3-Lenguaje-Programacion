@@ -1,0 +1,7 @@
+568454418141614080
+Southwest
+@SouthwestAir wouldn't it be awesome for my first time flying to be #DestinationDragons?!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 08:57:49 -0800
+location: nan

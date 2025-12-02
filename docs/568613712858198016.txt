@@ -1,0 +1,7 @@
+568613712858198016
+Southwest
+@SouthwestAir I can't begin to tell you how slow my plane's wifi is. I can't even pull up an email.  What am i paying $8 for??
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 19:30:48 -0800
+location: Nashville, TN

@@ -1,0 +1,7 @@
+570285904809598977
+Virgin America
+@VirginAmerica Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 10:15:29 -0800
+location: San Francisco, CA

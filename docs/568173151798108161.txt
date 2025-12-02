@@ -1,0 +1,7 @@
+568173151798108161
+US Airways
+@USAirways that's understandable, my issue is with creating a new flight without the personnel to do it...I changed my plans to accommodate
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 14:20:10 -0800
+location: Lawrence, MA

@@ -1,0 +1,7 @@
+568999279936679937
+Southwest
+@southwestair Your staff was really kind about the flight delay. Luggage? Not at all. Very disappointing.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 21:02:54 -0800
+location: Charleston, SC

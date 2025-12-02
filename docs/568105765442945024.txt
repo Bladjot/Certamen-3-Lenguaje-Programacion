@@ -1,0 +1,7 @@
+568105765442945024
+Delta
+@JetBlue loves to respond to positive tweets but they ignore problems w/ customers. Just ask NOLA musician @j_beatz247 about that. #shameful
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 09:52:24 -0800
+location: New Orleans, LA

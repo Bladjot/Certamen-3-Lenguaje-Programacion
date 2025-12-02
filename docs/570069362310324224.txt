@@ -1,0 +1,7 @@
+570069362310324224
+US Airways
+@usairways  US1799 CLT-&gt;SFO in first no desert, no snack basket. Incoming was on time ? What’s up?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 19:55:02 -0800
+location: Denver, NC

@@ -1,0 +1,7 @@
+570248991704788992
+American
+@AmericanAir Airline trouble this winter &amp; not getting good customer service? contact http://t.co/aQjn4HwNaC  we negotiate w/companies forU!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 07:48:48 -0800
+location: Miami, New York, Boston

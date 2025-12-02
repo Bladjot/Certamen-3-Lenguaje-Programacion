@@ -1,0 +1,7 @@
+570083458925490176
+US Airways
+@USAirways screwed me up big. 1st flight 1hr Late Flight. Made it to 2nd flight. CSM daryl wouldn't let me on the plane because we were (1/4)
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 20:51:02 -0800
+location: Dallas, TX

@@ -1,0 +1,7 @@
+569646854402486272
+American
+@AmericanAir it wasn't ' disrupted' it was Cancelled Flightled. Airport agents were horrendous. Sharon was your saviour
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 15:56:08 -0800
+location: nan

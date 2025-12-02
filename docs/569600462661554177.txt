@@ -1,0 +1,7 @@
+569600462661554177
+American
+@AmericanAir @tennetexan Too bad there's only, like, 3 people on that team, then. Because this is next level unreal.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:51:47 -0800
+location: Pekin

@@ -1,0 +1,7 @@
+567588278875213824
+Delta
+@JetBlue's new CEO seeks the right balance to please passengers and Wall ... - Greenfield Daily Reporter http://t.co/LM3opxkxch
+sentiment: neutral
+negativereason: nan
+created: 2015-02-16 23:36:05 -0800
+location: USA

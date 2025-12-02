@@ -1,0 +1,7 @@
+567791182199197697
+Southwest
+@SouthwestAir your employees were great!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 13:02:21 -0800
+location: Washington, DC

@@ -1,0 +1,7 @@
+569304845091524608
+Southwest
+@SouthwestAir Just sent DM with confirmation number and passenger name on SWA 3104 MCO-&gt;CMH
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 17:17:06 -0800
+location: Columbus OH

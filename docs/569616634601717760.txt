@@ -1,0 +1,7 @@
+569616634601717760
+United
+@united, maybe don't play the video about how your flights are outfitted w wifi on the flights where wifi isn't working...✈️
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 13:56:03 -0800
+location: NYC

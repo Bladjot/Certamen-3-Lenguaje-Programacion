@@ -1,0 +1,7 @@
+567778606546694144
+United
+@united i got email that my reservations got Cancelled Flightled and i will be refunded.  Nothing got refunded as of yet
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 12:12:23 -0800
+location: Jerusalem-London-Antwerp

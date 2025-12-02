@@ -1,0 +1,7 @@
+569804373859020801
+American
+@AmericanAir @loganex except if you call now you'll get the same message. Trust me, I've tried.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 02:22:03 -0800
+location: San Diego

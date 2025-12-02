@@ -1,0 +1,7 @@
+569669603443519490
+American
+@AmericanAir , sitting on plane for 2.5hrs at gate due to computer sys issue, at what point do you Cancelled Flight a flight?, ridiculous @PHLAirport
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 17:26:32 -0800
+location: nan

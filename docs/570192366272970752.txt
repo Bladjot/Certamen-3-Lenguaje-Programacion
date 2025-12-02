@@ -1,0 +1,7 @@
+570192366272970752
+US Airways
+@USAirways flight 1946 out of clt this morning.  It's snowing here.  Should i head out to the airport?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 04:03:48 -0800
+location: Charlotte, NC

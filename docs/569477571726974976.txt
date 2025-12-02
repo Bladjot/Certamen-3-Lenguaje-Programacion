@@ -1,0 +1,7 @@
+569477571726974976
+Delta
+@JetBlue well they said Cancelled Flight on the PA system. Guess they are trying to get a plane from Boston. And not a 100%  confirmed
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 04:43:28 -0800
+location: nan

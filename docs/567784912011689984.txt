@@ -1,0 +1,7 @@
+567784912011689984
+Southwest
+@SouthwestAir Thank you - hung up after 1hr 7min on hold. Would you like me to DM you contact info?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 12:37:26 -0800
+location: CT

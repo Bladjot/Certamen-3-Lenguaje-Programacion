@@ -1,0 +1,7 @@
+568247480023961600
+US Airways
+@USAirways lost our luggage. #yay
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 19:15:31 -0800
+location: ÜT: 41.233943,-74.3966664

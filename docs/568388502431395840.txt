@@ -1,0 +1,7 @@
+568388502431395840
+United
+@united hi.I am still waiting for the refund. This is ridiculous.Or u approve my tickets or u give me a refund.Please advise wht is going on
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 04:35:53 -0800
+location: Jerusalem-London-Antwerp

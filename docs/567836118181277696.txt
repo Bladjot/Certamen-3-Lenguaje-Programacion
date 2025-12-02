@@ -1,0 +1,7 @@
+567836118181277696
+Delta
+@JetBlue I would drive 2 1/2 hours to jfk to board JetBlue to Vegas instead of closer Hartford airport. Cramming more seats on plane.NO MORE
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 16:00:55 -0800
+location: boston

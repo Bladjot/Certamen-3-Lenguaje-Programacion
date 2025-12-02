@@ -1,0 +1,7 @@
+570244934634090496
+American
+@AmericanAir thanks for finally letting me get through to book my flight. Frustration  set in... #donedeal #talktoahuman
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 07:32:41 -0800
+location: nan

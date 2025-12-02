@@ -1,0 +1,7 @@
+568796340714639360
+Delta
+@JetBlue thanks to the gent on the phone who fixed my BOS-MCO flight and the fee waiver! A320 now :) #flyfi ! I forget her name :(
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 07:36:30 -0800
+location: Logan International Airport

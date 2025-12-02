@@ -1,0 +1,7 @@
+570280755085090816
+Delta
+@JetBlue what are the chances of actually flying out of Charleston today?? Cold, rainy weather in the south of all places...
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 09:55:01 -0800
+location: Stoughton, MA

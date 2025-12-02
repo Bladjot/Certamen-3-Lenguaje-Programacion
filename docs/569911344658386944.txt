@@ -1,0 +1,7 @@
+569911344658386944
+American
+@AmericanAir Also, I have to wait more than 2 hours before I can speak to someone on the phone?  I can't wait 2 hours.  :(
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:27:07 -0800
+location: ÜT: 37.77581,-122.419796

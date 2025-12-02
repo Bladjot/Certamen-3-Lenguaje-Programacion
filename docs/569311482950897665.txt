@@ -1,0 +1,7 @@
+569311482950897665
+Southwest
+@SouthwestAir bags fly free..just not to where you're going.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 17:43:29 -0800
+location: Tallahassee, FL

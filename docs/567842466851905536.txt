@@ -1,0 +1,7 @@
+567842466851905536
+US Airways
+@USAirways Being put back on hold for what has now been an HOUR is completely unacceptable.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 16:26:08 -0800
+location: Vancouver, WA

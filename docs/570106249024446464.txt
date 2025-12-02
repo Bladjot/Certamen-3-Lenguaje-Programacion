@@ -1,0 +1,7 @@
+570106249024446464
+United
+@united I send you an urgent message via eservice@united.com.  BG0KWM   Narayanan. Please respond ASAP. Also, NO local United Tel # @ KUL
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 22:21:36 -0800
+location: Huntsville AL USA

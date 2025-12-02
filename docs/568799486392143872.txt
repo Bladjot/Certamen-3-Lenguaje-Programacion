@@ -1,0 +1,7 @@
+568799486392143872
+Delta
+@JetBlue Thanks for offering this service, guys! http://t.co/xDjzkC34GB
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 07:48:59 -0800
+location: Orlando

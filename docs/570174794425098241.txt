@@ -1,0 +1,7 @@
+570174794425098241
+American
+@AmericanAir Of course you are because that's your companies job! You guys failed at it in the first place. Upgrade me and then we'll talk.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 02:53:58 -0800
+location: Nashville/Space

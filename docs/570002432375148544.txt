@@ -1,0 +1,7 @@
+570002432375148544
+American
+@AmericanAir for my delay and you know what I get a we don't credit anybody back a supervisor who cut me off when speaking
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 15:29:04 -0800
+location: new york city

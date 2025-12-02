@@ -1,0 +1,7 @@
+568535604159332352
+Southwest
+@SouthwestAir Oops...no functioning bathrooms on a fairly full flight?  Hope everyone on 702 from New York can hold it.  Me included.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 14:20:25 -0800
+location: nan

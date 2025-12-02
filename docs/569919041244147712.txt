@@ -1,0 +1,7 @@
+569919041244147712
+Virgin America
+@VirginAmerica Why is the site down?  When will it be back up?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 09:57:42 -0800
+location: New York, NY

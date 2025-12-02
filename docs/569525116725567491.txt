@@ -1,0 +1,7 @@
+569525116725567491
+US Airways
+@USAirways The automated message isn't helpful and it's impossible to speak with a human right now. Desperately need our luggage :(
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 07:52:23 -0800
+location: nan

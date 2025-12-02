@@ -1,0 +1,7 @@
+568091960709230592
+United
+@united the lack of customer service is astounding https://t.co/72RMpkOGwu #2daysofhell
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 08:57:32 -0800
+location: Canada

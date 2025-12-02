@@ -1,0 +1,7 @@
+570256052966395906
+Southwest
+@SouthwestAir Hey, friends. When I phone the A-list number your IVR hangs up on me. Multiple times. Not sure how to proceed?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 08:16:52 -0800
+location: Lee's Summit, MO, @CityOfLS

@@ -1,0 +1,7 @@
+569672477967835136
+Delta
+@JetBlue Thanks. So the delay was the result of scheduling issues more than weather reLate Flightd problems?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:37:57 -0800
+location: New York

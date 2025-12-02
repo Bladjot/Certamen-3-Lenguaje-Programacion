@@ -1,0 +1,7 @@
+570074886606958592
+American
+@AmericanAir Just followed you.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 20:16:59 -0800
+location: Orange County, CA

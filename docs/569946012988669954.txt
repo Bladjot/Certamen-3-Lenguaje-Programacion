@@ -1,0 +1,7 @@
+569946012988669954
+American
+@AmericanAir Unbelievable that I cannot even wait on hold to speak to a human being to resolve my issue!!!!!!!! The system simply hangs up!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:44:53 -0800
+location: Chicago!

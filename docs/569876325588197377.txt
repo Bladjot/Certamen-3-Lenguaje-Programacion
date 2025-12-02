@@ -1,0 +1,7 @@
+569876325588197377
+US Airways
+@USAirways @AmericanAir I need to move a reservation due to weather in the middle part of the U.S.  I would like to change departing airport
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:07:58 -0800
+location: nan

@@ -1,0 +1,7 @@
+569337274707660800
+US Airways
+@USAirways Thanks guys! Got hold of someone. Really awesome service I appreciate it :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 19:25:58 -0800
+location: Halifax, Nova Scotia, Canada

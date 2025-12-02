@@ -1,0 +1,7 @@
+570033764044304385
+American
+@AmericanAir @maryella_green despite the inconvenience, the situation was handled quickly and we appreciate it very much!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 17:33:34 -0800
+location: Sassy southerner in Chicago

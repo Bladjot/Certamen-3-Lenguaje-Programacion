@@ -1,0 +1,7 @@
+569930403106172928
+US Airways
+@USAirways lots of fun to be removed from top of a list and manually readded to the bottom thanks to club agents. Thanks a lot Asha at DCA.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 10:42:51 -0800
+location: Arlington, VA

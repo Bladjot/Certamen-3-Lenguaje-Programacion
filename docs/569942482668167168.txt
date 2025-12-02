@@ -1,0 +1,7 @@
+569942482668167168
+Southwest
+@SouthwestAir Sorry to bother you, but I've been on hold for more than 2 hours and 30 minutes. Should I continue holding? Or call back?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:30:51 -0800
+location: Bellingham, Washington

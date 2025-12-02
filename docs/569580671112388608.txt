@@ -1,0 +1,7 @@
+569580671112388608
+United
+@united no thank you
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 11:33:08 -0800
+location: deep in the ❤ of Texas...

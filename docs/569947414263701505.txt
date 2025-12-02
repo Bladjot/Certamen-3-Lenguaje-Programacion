@@ -1,0 +1,7 @@
+569947414263701505
+American
+@AmericanAir please do something about boarding at DCA 35X. Many delays + buses to planes on tarmac despite empty gates. Disorganized mess.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 11:50:27 -0800
+location: nan

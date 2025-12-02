@@ -1,0 +1,7 @@
+568410282298621952
+US Airways
+@USAirways I thought about moving a lot of business over too, but first impressions count.. Glad it was miles and not cash.
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-19 06:02:26 -0800
+location: West London, UK

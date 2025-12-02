@@ -1,0 +1,7 @@
+569531768321269760
+US Airways
+@USAirways 2 hours?! And just got disconnected.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 08:18:49 -0800
+location: kansas city, mo

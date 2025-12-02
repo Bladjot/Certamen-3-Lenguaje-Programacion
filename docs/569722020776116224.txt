@@ -1,0 +1,7 @@
+569722020776116224
+United
+@united yes I have and I was calling in regards to speaking to someone about it even further, but unfortunately i was just bounced around.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:54:49 -0800
+location: nan

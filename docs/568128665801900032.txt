@@ -1,0 +1,7 @@
+568128665801900032
+US Airways
+@usairways would it kill you to let me know how many minutes I might be on hold?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 11:23:23 -0800
+location: okinawa, japan

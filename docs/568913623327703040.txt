@@ -1,0 +1,7 @@
+568913623327703040
+Southwest
+@SouthwestAir baggage woman said it was in Blatimore and would be on a plane this morning. Now they can't find it. WTF!???
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 15:22:32 -0800
+location: Springfield, MA

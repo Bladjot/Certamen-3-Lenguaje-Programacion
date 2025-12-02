@@ -1,0 +1,7 @@
+569975032127967232
+Southwest
+@SouthwestAir #Vegas I was there 5 days ago. Miss the  Warm Weather
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:40:11 -0800
+location: nan

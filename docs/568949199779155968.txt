@@ -1,0 +1,7 @@
+568949199779155968
+Southwest
+@SouthwestAir my son is flying South West from NOLA-Orlando, hope to enter for him to win this contest #DestinationDragons
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 17:43:54 -0800
+location: Winter Park, FL

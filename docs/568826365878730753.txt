@@ -1,0 +1,7 @@
+568826365878730753
+Southwest
+@SouthwestAir Cancelled Flighting flights 45 minutes before takeoff &amp; sitting for 45 min on the runway of the rescheduled flight #badservice
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 09:35:48 -0800
+location: San Francisco, CA

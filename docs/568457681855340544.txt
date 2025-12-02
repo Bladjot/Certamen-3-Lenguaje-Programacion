@@ -1,0 +1,7 @@
+568457681855340544
+Southwest
+@SouthwestAir I pay for a service to be delivered. Whether or not it is your fault shouldn't there be some sort of compensation?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 09:10:47 -0800
+location: Los Angeles

@@ -1,0 +1,7 @@
+569945910546989057
+American
+@americanair thanks to your airline I now have a ruined bag and you refuse to do anything about it.
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-23 11:44:28 -0800
+location: nan

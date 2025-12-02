@@ -1,0 +1,7 @@
+569349960228974592
+Delta
+@JetBlue flight attendant was hesitant to give me more baby sized cookies
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 20:16:23 -0800
+location: New York

@@ -1,0 +1,7 @@
+567902121992921088
+United
+@united "federal regulation prohibits you being separated from your bag"...yet you lose our bag and that's okay
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 20:23:11 -0800
+location: NA, SA, Europe

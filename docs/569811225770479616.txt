@@ -1,0 +1,7 @@
+569811225770479616
+American
+@AmericanAir I understand you are busy but I have still gotten no answer. I need to get home and you guys have not helped at all
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 02:49:17 -0800
+location: nan

@@ -1,0 +1,7 @@
+568435434964938752
+Southwest
+@SouthwestAir MAC computer left on BWI to LA flight on 14th.  Reward for recovery; info important to owner.#HELP #passengers #honesty
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 07:42:23 -0800
+location: Duluth, GA

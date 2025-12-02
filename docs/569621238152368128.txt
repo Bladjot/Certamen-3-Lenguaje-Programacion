@@ -1,0 +1,7 @@
+569621238152368128
+US Airways
+@USAirways thanks for making me check my bag when the space was empty and to the flight attendant for the dirty look http://t.co/9rx5HOmM25
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 14:14:20 -0800
+location: nan

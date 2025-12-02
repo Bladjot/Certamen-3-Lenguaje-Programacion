@@ -1,0 +1,7 @@
+570226695724244992
+American
+@AmericanAir As I already have a booked flight that I can't use &amp; can't change w/o a $200 fee, Flight Booking Problems a different type of ticket...1/2
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 06:20:13 -0800
+location: Pittsburgh, PA

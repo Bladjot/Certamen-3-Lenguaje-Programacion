@@ -1,0 +1,7 @@
+569724056645140480
+United
+@united tried a different flight IAH-MNL 4/1/15-4/17/15, 6 flights are advertised for $1038 but are not bookable (due to partner error).
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 21:02:54 -0800
+location: H-town

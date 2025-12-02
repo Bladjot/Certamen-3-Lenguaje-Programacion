@@ -1,0 +1,7 @@
+568360334609612801
+US Airways
+@USAirways cardholder is flying.  We both have us airways and advantage cards which is more frustrating.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 02:43:58 -0800
+location: nan

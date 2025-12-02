@@ -1,0 +1,7 @@
+570073661241057280
+Delta
+@JetBlue Happy Anniversary!! It's hard to believe you're 15!! You're so young!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 20:12:06 -0800
+location: 805 CA

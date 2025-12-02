@@ -1,0 +1,7 @@
+569965376186019840
+Southwest
+@southwestair watching planes do their thing https://t.co/iItoJhUIKH
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:01:49 -0800
+location: Boston, MA

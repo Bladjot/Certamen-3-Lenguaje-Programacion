@@ -1,0 +1,7 @@
+568126621611372545
+US Airways
+@USAirways the least comforting thing from your pilot after sitting on a stationary plane for 3 hours is "I don't really know what happened"
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 11:15:16 -0800
+location: nan

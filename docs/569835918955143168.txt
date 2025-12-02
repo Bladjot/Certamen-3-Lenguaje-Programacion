@@ -1,0 +1,7 @@
+569835918955143168
+American
+@AmericanAir has no customer service via phone or in person. Just a stone wall with a giant middle finger painted on it.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 04:27:24 -0800
+location: Chicago, IL

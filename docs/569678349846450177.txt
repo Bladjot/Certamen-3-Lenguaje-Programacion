@@ -1,0 +1,7 @@
+569678349846450177
+American
+@AmericanAir what do kids aged 11 and 12 need to fly with AA internally within the usa. Thanks for confirming
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:01:17 -0800
+location: nan

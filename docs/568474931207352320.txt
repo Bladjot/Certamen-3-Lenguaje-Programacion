@@ -1,0 +1,7 @@
+568474931207352320
+United
+@united so sorry. I ended up on US Air flight. Thank you though for getting back to me:)
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 10:19:20 -0800
+location: nan

@@ -1,0 +1,7 @@
+568823689422053376
+Virgin America
+@VirginAmerica pilot says we expect a choppy landing in NYC due to some gusty winds w/a temperature of about 5 degrees &amp; w/the windchill -8
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 09:25:10 -0800
+location: Brooklyn, NY

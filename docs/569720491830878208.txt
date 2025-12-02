@@ -1,0 +1,7 @@
+569720491830878208
+American
+@AmericanAir thanks
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 20:48:44 -0800
+location: Guatemala.

@@ -1,0 +1,7 @@
+567724189872697348
+United
+@united You know what the United Club needs? Power. MOAR power. Insufficient outlets for the #RoadWarrior (ORD)
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 08:36:09 -0800
+location: Virginia

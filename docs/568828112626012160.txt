@@ -1,0 +1,7 @@
+568828112626012160
+Virgin America
+@VirginAmerica @madbee95 check the website before you go to the airport!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 09:42:45 -0800
+location: Los Angeles

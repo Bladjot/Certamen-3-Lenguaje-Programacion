@@ -1,0 +1,7 @@
+569072664997801984
+US Airways
+@USAirways Oh yes, because I had loads of time running to my connecting flight after you delayed me for about 90 minutes...
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-21 01:54:30 -0800
+location: Raxacoricofallapatorius

@@ -1,0 +1,7 @@
+568716388866629632
+United
+@united So disappointed in the service and the level of staff communication. Such a bummer.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 02:18:48 -0800
+location: Portland, OR

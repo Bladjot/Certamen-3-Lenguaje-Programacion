@@ -1,0 +1,7 @@
+570299924555956227
+Delta
+@JetBlue 2 aisles of empty #evermoreroom seats and we can't move bc we didn't pay?! #nonsense #Waste #JetBlue #jetbluebos #cheap
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 11:11:12 -0800
+location: nan

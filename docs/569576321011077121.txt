@@ -1,0 +1,7 @@
+569576321011077121
+Delta
+@JetBlue You failed. That's the answer. Please don't justify otherwise.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 11:15:51 -0800
+location: Sarasota, FL

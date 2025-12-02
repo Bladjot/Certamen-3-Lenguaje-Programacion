@@ -1,0 +1,7 @@
+569533328396832768
+Delta
+@JetBlue it's sunny and gorgeous in ny actually. What's the real reason?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 08:25:01 -0800
+location: nan

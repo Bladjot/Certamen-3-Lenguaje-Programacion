@@ -1,0 +1,7 @@
+570198522911436800
+American
+@AmericanAir She told us we had to drive back to drop it off so they could attempt to fix it. Really? Don't have time to do that. #terrible
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 04:28:16 -0800
+location: Greater Boston Area

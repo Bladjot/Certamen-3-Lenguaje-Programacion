@@ -1,0 +1,7 @@
+570090452809949184
+American
+@AmericanAir well we cleared customs in AUH. I need to get to IAH after I arrive in DFW. Is it possible to retrieve my luggage in IAD?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 21:18:50 -0800
+location: The Great State of TEXAS

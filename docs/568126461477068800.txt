@@ -1,0 +1,7 @@
+568126461477068800
+Delta
+@JetBlue I may not make my connection and need to find out my options, yet no one is here.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 11:14:38 -0800
+location: Buffalo NY/ Pinehurst NC

@@ -1,0 +1,7 @@
+569517360828145664
+United
+@united two service agents hung up on me the third was able to get me a flight on US air today. Three calls and 2.5 hours to get a flight
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:21:34 -0800
+location: Oklahoma

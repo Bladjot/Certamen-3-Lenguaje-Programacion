@@ -1,0 +1,7 @@
+568155440267161600
+Southwest
+@SouthwestAir thank you for handling this for me. Glad Southwest cares about what it's flyers think!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 13:09:47 -0800
+location: nan

@@ -1,0 +1,7 @@
+568061166871846912
+US Airways
+@USAirways has an SPF record error that is causing e-mail from noreply@usairwaysmobile.com to go to spam filters. DNS admin needs to fix!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 06:55:10 -0800
+location: nan

@@ -1,0 +1,7 @@
+568801542322548737
+Southwest
+@SouthwestAir  flying Southwest for the first time to LGA with a layover in Atlanta!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 07:57:10 -0800
+location: Douglaston, NY

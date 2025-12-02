@@ -1,0 +1,7 @@
+568927281747505152
+United
+@united 2 days and 3 planes with mechanical issues?  Now over 1.5 hrs Late Flight sitting on this plane. This is insane!!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 16:16:48 -0800
+location: nan

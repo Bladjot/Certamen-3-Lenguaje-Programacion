@@ -1,0 +1,7 @@
+569717866611630081
+American
+@AmericanAir Joanna is wonderful, new flight booked by a very friendly and helpful agent during a very stressful day! Thank You!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 20:38:18 -0800
+location: Madison, WI

@@ -1,0 +1,7 @@
+569275430311751682
+United
+@united most terrible flight experience happening to everyone right now on Flight:UA1750 6 delays 4 hrs total missed all my flights now thnx
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 15:20:13 -0800
+location: San Francisco, CA

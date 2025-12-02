@@ -1,0 +1,7 @@
+568496445164273665
+Southwest
+@SouthwestAir Why can't I find a cheap flight from DC to St Louis? The prices went up like crazy for April weekends!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 11:44:49 -0800
+location: DC

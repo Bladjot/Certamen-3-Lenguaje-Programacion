@@ -1,0 +1,7 @@
+569322478847135744
+US Airways
+@USAirways I should also add the weather conditions are terrible. Expecting 18 inches of snow. Any advice?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 18:27:11 -0800
+location: Denver, CO

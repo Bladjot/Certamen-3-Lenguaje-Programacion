@@ -1,0 +1,7 @@
+569638503199285248
+American
+@AmericanAir it's always better to find out equipment is INOP on the ground than in the air! #safetyfirst
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:22:57 -0800
+location: nan

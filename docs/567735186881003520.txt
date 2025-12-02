@@ -1,0 +1,7 @@
+567735186881003520
+US Airways
+@USAirways How can I change without penalty and not have to call customer service
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:19:51 -0800
+location: Chicagoland Area

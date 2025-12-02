@@ -1,0 +1,7 @@
+569577005278064640
+Delta
+@JetBlue of course I am!!✈️
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 11:18:34 -0800
+location: San Francisco

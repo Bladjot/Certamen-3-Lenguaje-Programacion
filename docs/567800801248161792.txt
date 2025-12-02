@@ -1,0 +1,7 @@
+567800801248161792
+Southwest
+@SouthwestAir I'm scheduled to come back tomorrow, finally but I don't know SWA hasn't flown out of @Fly_Nashville yet but @Delta has
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 13:40:34 -0800
+location: Nashville Tennessee

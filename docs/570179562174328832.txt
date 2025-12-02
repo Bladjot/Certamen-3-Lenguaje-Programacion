@@ -1,0 +1,7 @@
+570179562174328832
+American
+@AmericanAir LAX-OGG-LAX using hard earned miles and was given lousy service, faulty seats on both legs and damaged bag. Your customer care
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 03:12:55 -0800
+location: Manchester

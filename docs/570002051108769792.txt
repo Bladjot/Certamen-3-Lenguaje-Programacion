@@ -1,0 +1,7 @@
+570002051108769792
+American
+@AmericanAir I will never fly with you guys again! I am stuck in memphis another day. Called to be credit something anything
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 15:27:33 -0800
+location: new york city

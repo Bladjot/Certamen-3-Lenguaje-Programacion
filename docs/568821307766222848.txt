@@ -1,0 +1,7 @@
+568821307766222848
+United
+@united uh - I booked it through the UA website. Why the price change?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 09:15:42 -0800
+location: nan

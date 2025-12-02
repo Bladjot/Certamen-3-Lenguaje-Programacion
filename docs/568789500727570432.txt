@@ -1,0 +1,7 @@
+568789500727570432
+United
+@united Is flight 5001 really going to leave Newark today?  If not tell us now and I will rent a car.  I do not want to end up stranded.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 07:09:19 -0800
+location: Elmira, NY

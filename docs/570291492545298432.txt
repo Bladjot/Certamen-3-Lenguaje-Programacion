@@ -1,0 +1,7 @@
+570291492545298432
+United
+@united I lost a voucher that I was given in Miami aeroport on jan 26. I did not use it.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:37:41 -0800
+location: USA

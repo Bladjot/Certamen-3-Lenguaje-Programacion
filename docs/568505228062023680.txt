@@ -1,0 +1,7 @@
+568505228062023680
+United
+@united question - was given food vouchers but can't use on plane..how   come
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 12:19:43 -0800
+location: nan

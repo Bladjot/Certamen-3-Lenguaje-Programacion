@@ -1,0 +1,7 @@
+570062369096908801
+American
+@AmericanAir on flight 1074 that has been delayed for hours over human errors like a food truck hitting the plane, now the lines are frozen.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 19:27:14 -0800
+location: Miami FL

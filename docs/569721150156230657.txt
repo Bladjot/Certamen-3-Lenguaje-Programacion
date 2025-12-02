@@ -1,0 +1,7 @@
+569721150156230657
+Delta
+@jetblue - WTF, stuck at JFK for 2+ hrs in a delay to Boston cuz u say snow.  No snow on weather map!!!  WTF!!!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 20:51:21 -0800
+location: nan

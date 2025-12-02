@@ -1,0 +1,7 @@
+570185347453329409
+US Airways
+@USAirways I am a UK citizen. Is there a UK number I could try?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 03:35:55 -0800
+location: nan

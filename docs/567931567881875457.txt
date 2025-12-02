@@ -1,0 +1,7 @@
+567931567881875457
+Southwest
+@SouthwestAir neveind, it's been found and on its way. Thanks for making the process so painless
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 22:20:12 -0800
+location: Oakland, CA

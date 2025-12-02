@@ -1,0 +1,7 @@
+569126921096859648
+US Airways
+@USAirways trying 2 fly frm DCA to SRQ to visit a family member in hospice but 4532 was Cancelled Flightled, can someone assist me?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 05:30:06 -0800
+location: washington, dc

@@ -1,0 +1,7 @@
+568844772191940608
+United
+@united Why can I only apply one travel certificate per itinerary even when I have multiple flights?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 10:48:56 -0800
+location: The Gaming Cartel

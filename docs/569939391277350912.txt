@@ -1,0 +1,7 @@
+569939391277350912
+American
+@AmericanAir SFO. Natt (the agent who helped me) really did an awesome job.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 11:18:34 -0800
+location: New York, NY

@@ -1,0 +1,7 @@
+570019623078383616
+US Airways
+@USAirways I’d suggest proper information dissemination to all staff on a more timely &amp; relevant schedule to prevent this in the future.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 16:37:23 -0800
+location: BTR/DCA/IAD/MSY - etc

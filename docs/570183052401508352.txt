@@ -1,0 +1,7 @@
+570183052401508352
+American
+@AmericanAir that's what is on my ticket and my confirmation email. Anything else?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 03:26:47 -0800
+location: nan

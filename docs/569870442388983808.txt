@@ -1,0 +1,7 @@
+569870442388983808
+US Airways
+@USAirways you would rather a while plane get exposed to a nasty contagious virus then work wth me to get my flight changed to a Late Flightr date
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:44:35 -0800
+location: nan

@@ -1,0 +1,7 @@
+568155779225788416
+US Airways
+@USAirways I have a flight in Saturday from MCI to CLT and there's heavy snow predicted in MCI. When will u allow for changes?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 13:11:08 -0800
+location: Charlotte, NC

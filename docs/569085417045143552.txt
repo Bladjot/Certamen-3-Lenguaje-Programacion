@@ -1,0 +1,7 @@
+569085417045143552
+Southwest
+@SouthwestAir There's nothing I love more than being on hold for over an hour http://t.co/LIQWoblFbT
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 02:45:11 -0800
+location: Liberty Lake, WA

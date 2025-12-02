@@ -1,0 +1,7 @@
+570241830757007360
+United
+@united I received 1 bag last night, I am still missing the other one.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 07:20:21 -0800
+location: Hoops City (Memphis, TN)

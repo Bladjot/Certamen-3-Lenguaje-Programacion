@@ -1,0 +1,7 @@
+567860982422306816
+Southwest
+@SouthwestAir Hi! I just saw a Black History month commercial on TV &amp; Im excited! In support of this month,will you all grant me 1 free trip
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 17:39:43 -0800
+location: Atlanta

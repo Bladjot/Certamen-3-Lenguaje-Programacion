@@ -1,0 +1,7 @@
+569882542855352320
+American
+@AmericanAir I saw it finally come through on the mobile app. However it's for tomorrow and I have meetings tonight that I'm trying to make.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:32:40 -0800
+location: Texas

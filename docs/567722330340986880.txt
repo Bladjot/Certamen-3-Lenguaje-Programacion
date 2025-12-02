@@ -1,0 +1,7 @@
+567722330340986880
+Southwest
+@SouthwestAir I need updates on my flights 464 &amp; 3574. I have been on hold for over 2 hours.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 08:28:45 -0800
+location: Northridge, CA

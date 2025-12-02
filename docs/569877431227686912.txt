@@ -1,0 +1,7 @@
+569877431227686912
+Delta
+@JetBlue  any effort to fix your points system? 11 days and a call to customer service and still no account update. Chasing points is no fun
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:12:22 -0800
+location: Plymouth,  MA

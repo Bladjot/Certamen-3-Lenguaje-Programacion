@@ -1,0 +1,7 @@
+569649277888106496
+Southwest
+@SouthwestAir got it.  Next time I will know about paying extra to make the A Line.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:05:46 -0800
+location: nan

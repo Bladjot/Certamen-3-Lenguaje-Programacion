@@ -1,0 +1,7 @@
+568067878546755584
+Southwest
+@SouthwestAir Awesome!!! Sending now.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 07:21:51 -0800
+location: Austin, TX, USA

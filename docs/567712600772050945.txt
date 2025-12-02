@@ -1,0 +1,7 @@
+567712600772050945
+US Airways
+@USAirways we are on the 2pm flight FLL to PHL and then connection to MAN. However, with the delays we might miss it. Can we go earlier?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 07:50:06 -0800
+location: North West, UK

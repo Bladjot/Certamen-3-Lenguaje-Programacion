@@ -1,0 +1,7 @@
+569709552721141764
+American
+@AmericanAir - I am Platinum.  I am flying USAir and they have stranded me in CLT.  Not answering phones. Did not rebook me.  Please help?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 20:05:16 -0800
+location: Washington, D.C.

@@ -1,0 +1,7 @@
+569899502355681280
+Southwest
+@SouthwestAir I hope this isn't a real life scene out of the movie 'Flight' .....
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 08:40:04 -0800
+location: insta : michellehamm0nd

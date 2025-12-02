@@ -1,0 +1,7 @@
+568810874204327936
+United
+@united yes, but they still don't know where it is.  I've been told it might be on a flight, but now no one can confirm it.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 08:34:15 -0800
+location: nan

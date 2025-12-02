@@ -1,0 +1,7 @@
+567794573495250944
+United
+@united No, I do not. I was only given a Flight Booking Problems reference number.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 13:15:50 -0800
+location: NYC, Toronto

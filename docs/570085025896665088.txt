@@ -1,0 +1,7 @@
+570085025896665088
+American
+@AmericanAir No apology necessary. It was wind and I was on Delta. XOXO
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 20:57:16 -0800
+location: Sugarhood, SLC

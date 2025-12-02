@@ -1,0 +1,7 @@
+569668704524308480
+US Airways
+@USAirways what is wrong in Boston? Why are only your plains not leaving tonight? Son needs to get back to state college, PA
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:22:57 -0800
+location: MA, NYC

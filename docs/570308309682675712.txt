@@ -1,0 +1,7 @@
+570308309682675712
+American
+@AmericanAir why would I even consider continuing your point program when I received no perks or continued bad customer service? #senseless
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 11:44:31 -0800
+location: nan

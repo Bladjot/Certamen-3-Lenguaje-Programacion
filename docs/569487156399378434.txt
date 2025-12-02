@@ -1,0 +1,7 @@
+569487156399378434
+United
+@united Thanks.    This one was delayed an hour and a half prior to scheduled departure.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 05:21:33 -0800
+location: Huntington, WV

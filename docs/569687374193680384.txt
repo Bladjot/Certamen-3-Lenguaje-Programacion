@@ -1,0 +1,7 @@
+569687374193680384
+United
+@united on #UA3785 tonight and told delayed due to Late Flight crew. No idea where crew coming from, your staff ++unhelpful. Any ideas?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:37:08 -0800
+location: Toronto

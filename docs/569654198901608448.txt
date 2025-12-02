@@ -1,0 +1,7 @@
+569654198901608448
+American
+@AmericanAir 24 hours on the AirPort
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 16:25:19 -0800
+location: São Paulo

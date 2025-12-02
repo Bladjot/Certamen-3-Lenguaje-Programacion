@@ -1,0 +1,7 @@
+567864395264573441
+US Airways
+@USAirways My daughter is stranded in charlotte because US Airways Cancelled Flightled her flight tonight.  Completely dissatisfied with @USAirways
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 17:53:16 -0800
+location: nan

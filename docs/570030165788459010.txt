@@ -1,0 +1,7 @@
+570030165788459010
+American
+@AmericanAir u didn't give an answer why the flight delayed so long. and how do u compensate missing my other flights Lima to Cuzco??
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 17:19:16 -0800
+location: nan

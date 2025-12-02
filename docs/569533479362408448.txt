@@ -1,0 +1,7 @@
+569533479362408448
+Delta
+@JetBlue your customer service agent Bonnie is amazing on the phone she deserves a promotion!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 08:25:37 -0800
+location: • PSU '19 • faith •

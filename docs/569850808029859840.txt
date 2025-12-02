@@ -1,0 +1,7 @@
+569850808029859840
+American
+@AmericanAir no worries, loved flying with you guys. Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 05:26:34 -0800
+location: nan

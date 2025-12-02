@@ -1,0 +1,7 @@
+569527641025306624
+Delta
+@JetBlue Thanks for the personalized customer service! #cannedtweet #autoresponse
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 08:02:25 -0800
+location: New York, NY

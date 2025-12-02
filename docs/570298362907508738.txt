@@ -1,0 +1,7 @@
+570298362907508738
+Southwest
+@SouthwestAir I have been on hold for over 28 minutes  please help http://t.co/Fx9BIJlxAt
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:05:00 -0800
+location: nan

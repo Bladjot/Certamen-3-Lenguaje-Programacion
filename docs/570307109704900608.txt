@@ -1,0 +1,7 @@
+570307109704900608
+United
+@united still no refund or word via DM. Please resolve this issue as your Cancelled Flightled flight was useless to my assistant's trip.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 11:39:45 -0800
+location: Bay Area, California

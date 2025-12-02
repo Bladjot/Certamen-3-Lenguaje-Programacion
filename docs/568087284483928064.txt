@@ -1,0 +1,7 @@
+568087284483928064
+US Airways
+@USAirways  last 2 times I checked a bags they were severally damaged.   No one answers the baggage call line for status?  #chairmanlove
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-18 08:38:57 -0800
+location: nan

@@ -1,0 +1,7 @@
+569485322431696896
+US Airways
+@USAirways been on hold 2+ hours trying to reschedule Cancelled Flightled DCA-BOS flight. Can anyone help?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 05:14:16 -0800
+location: nan

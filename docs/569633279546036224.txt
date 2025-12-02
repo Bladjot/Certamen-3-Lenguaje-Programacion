@@ -1,0 +1,7 @@
+569633279546036224
+Virgin America
+@VirginAmerica @ChrysiChrysic your assistance yesterday when u Cancelled Flightled our flight was to give us a hotel hotline  Shame on you!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 15:02:11 -0800
+location: nan

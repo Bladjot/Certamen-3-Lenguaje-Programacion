@@ -1,0 +1,7 @@
+569121422817112065
+United
+@united do you teach your gate agents 2 lie? Or do they just learn on their own? There was overhead space for my bag,  didn't have to check
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 05:08:15 -0800
+location: ÜT: 39.39339,-76.762595

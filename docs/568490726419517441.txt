@@ -1,0 +1,7 @@
+568490726419517441
+United
+@united flight UA5631 from SFO to Burbank has been delayed twice now. Still no plane in sight. Get it together.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 11:22:05 -0800
+location: Bushwick, Bkln

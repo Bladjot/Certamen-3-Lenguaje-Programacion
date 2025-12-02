@@ -1,0 +1,7 @@
+570100409009770497
+Southwest
+@SouthwestAir Looking forward to flying once again with #SWA on Friday! The #LUV airline. #DTW #MDW #TUS
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 21:58:24 -0800
+location: Detroit, Michigan

@@ -1,0 +1,7 @@
+569253190551498752
+United
+@united but your system gave my seat away.now I'm 27L Economy! Not Econ + seat. How did you give my plus seat away?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 13:51:51 -0800
+location: nan

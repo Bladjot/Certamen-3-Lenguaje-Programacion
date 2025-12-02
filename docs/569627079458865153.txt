@@ -1,0 +1,7 @@
+569627079458865153
+US Airways
+@USAirways No flights out of Philly because of system wide tech issue.   @CBSPhilly
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 14:37:33 -0800
+location: nan

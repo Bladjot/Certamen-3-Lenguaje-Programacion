@@ -1,0 +1,7 @@
+568987434051989504
+Southwest
+@SouthwestAir - did SWA send out customer surveys to earn $100 toward flights? Is this legit?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 20:15:50 -0800
+location: nan

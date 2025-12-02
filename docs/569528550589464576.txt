@@ -1,0 +1,7 @@
+569528550589464576
+US Airways
+@USAirways flight 623 den to phx: flight attdt decides to stay downtown and be an hour Late Flight so entire flight delayed, she better get fired!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 08:06:02 -0800
+location: nan

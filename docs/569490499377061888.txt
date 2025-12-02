@@ -1,0 +1,7 @@
+569490499377061888
+United
+@united help me, united! I paid for economy plus on a flight that was changed BC of delay. Will I be automatically refunded?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 05:34:50 -0800
+location: the burgh

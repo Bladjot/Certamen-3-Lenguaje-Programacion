@@ -1,0 +1,7 @@
+569880215079428096
+American
+@AmericanAir #oaaret is our flight Cancelled Flightled?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:23:25 -0800
+location: New England

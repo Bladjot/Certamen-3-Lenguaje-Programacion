@@ -1,0 +1,7 @@
+568490268271484929
+Southwest
+@SouthwestAir never got any notification that flight 955 was Cancelled Flighted today. Correct phone # and email on file. Not a happy customer.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 11:20:16 -0800
+location: Bay Area, CA

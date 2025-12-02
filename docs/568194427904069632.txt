@@ -1,0 +1,7 @@
+568194427904069632
+US Airways
+@USAirways I appreciate that you actually monitor Twitter, so please  pass along my feedback. I've tried calling about 15 times in 4 days :(
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 15:44:42 -0800
+location: nan

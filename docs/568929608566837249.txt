@@ -1,0 +1,7 @@
+568929608566837249
+Delta
+@JetBlue Love you guys sooooooo much. Ridiculously appreciated! A+ service!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 16:26:03 -0800
+location: Hastings on Hudson, NY

@@ -1,0 +1,7 @@
+569614422496444417
+US Airways
+@USAirways when do we get our baggages? @usaireays 699 LA to RDU http://t.co/vU5lBZXtRX
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 13:47:15 -0800
+location: nan

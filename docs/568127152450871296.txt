@@ -1,0 +1,7 @@
+568127152450871296
+United
+@united how can i trust United with future Flight Booking Problemss when a confirmed, ticketed and purchased ticket is Cancelled Flightled after the fact?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 11:17:23 -0800
+location: nan

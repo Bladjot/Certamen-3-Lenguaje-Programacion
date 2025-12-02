@@ -1,0 +1,7 @@
+568474096058507264
+Delta
+@JetBlue Just looking to arrange for a nice flight from SEA to LA-ish and comparing the cost to something more direct from YVR.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 10:16:00 -0800
+location: Richmond BC

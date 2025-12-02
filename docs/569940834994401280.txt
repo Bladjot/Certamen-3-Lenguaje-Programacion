@@ -1,0 +1,7 @@
+569940834994401280
+Virgin America
+@VirginAmerica Or watch some of the best student films in the country at 35,000 feet! #CMFat35000feet http://t.co/KEK5pDMGiF
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:24:18 -0800
+location: USA

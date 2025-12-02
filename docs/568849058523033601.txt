@@ -1,0 +1,7 @@
+568849058523033601
+Southwest
+@SouthwestAir  Please Help. We really want to fly with you. #guessweflyingdelta
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 11:05:58 -0800
+location: nan

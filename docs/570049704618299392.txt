@@ -1,0 +1,7 @@
+570049704618299392
+American
+@AmericanAir an hour now waiting on the phone for US Air help. 10 hours waiting at the airport yesterday. Love the service guys.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 18:36:55 -0800
+location: nan

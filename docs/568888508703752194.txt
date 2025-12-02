@@ -1,0 +1,7 @@
+568888508703752194
+Southwest
+@SouthwestAir I saw ppl were winning tickets still, how do we win some?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 13:42:44 -0800
+location: nan

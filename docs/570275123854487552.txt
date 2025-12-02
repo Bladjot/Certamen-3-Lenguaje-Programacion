@@ -1,0 +1,7 @@
+570275123854487552
+United
+@united Shame that there's no flex to tickets transfer rules.  Even calling from Neurosurgery ICU isn't enough!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 09:32:39 -0800
+location: nan

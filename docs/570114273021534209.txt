@@ -1,0 +1,7 @@
+570114273021534209
+US Airways
+@USAirways pilot forgets to show up to work and Ricky J (gate agent) gives customers attitude. #usairwaysfail
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 22:53:29 -0800
+location: nan

@@ -1,0 +1,7 @@
+568110846057975808
+Southwest
+@southwestair. So important to accept others for who they are. #SWADiversity
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 10:12:35 -0800
+location: Dallas tx

@@ -1,0 +1,7 @@
+567823707160354816
+United
+@united how can you not know the weight of our plane after us sitting on the plane for 2.5 hrs? Not convinced your company is safe for flt.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 15:11:36 -0800
+location: Ventura, California

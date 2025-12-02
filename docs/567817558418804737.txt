@@ -1,0 +1,7 @@
+567817558418804737
+Southwest
+@SouthwestAir I know it is hard to predict, but how are flights from Dallas to Nashville tomorrow AM?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:47:10 -0800
+location: ÜT: 35.935585,-86.886267

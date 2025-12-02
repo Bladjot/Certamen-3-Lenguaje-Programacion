@@ -1,0 +1,7 @@
+570090252544708608
+American
+@AmericanAir I will and I will share with many, many others. #filmcrew #media @WSJ @nytimes @latimes @chicagotribune
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 21:18:02 -0800
+location: Orlando, FL

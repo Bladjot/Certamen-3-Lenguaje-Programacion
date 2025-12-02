@@ -1,0 +1,7 @@
+569602974671990784
+Delta
+@JetBlue You never got my wife to her destination and you expect a $75.00 "goodwill credit" will  make everything hunky-dory. You blew it.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 13:01:46 -0800
+location: Long Island - Arizona

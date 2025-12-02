@@ -1,0 +1,7 @@
+569846302663688192
+American
+@AmericanAir no email no phone call no nothing. You've screwed with my flight and my family/Friends flights. You Cancelled Flighted reservations for
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 05:08:40 -0800
+location: nan

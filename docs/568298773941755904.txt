@@ -1,0 +1,7 @@
+568298773941755904
+US Airways
+@USAirways testing my patience this evening (or shall I say morning?). We waited an hour at the gate for you to find a gate agent.  130am
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 22:39:20 -0800
+location: nan

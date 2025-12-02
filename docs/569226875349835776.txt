@@ -1,0 +1,7 @@
+569226875349835776
+Virgin America
+@VirginAmerica I did it but there was a problem in the link from the email for check-in. thanks
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 12:07:17 -0800
+location: chile

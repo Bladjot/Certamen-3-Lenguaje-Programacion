@@ -1,0 +1,7 @@
+569639823734128640
+United
+@united @lpdstock tweet bots obviously don't get sarcasm, making computers more and more like real people.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 15:28:12 -0800
+location: nan

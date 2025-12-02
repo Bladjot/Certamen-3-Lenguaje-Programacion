@@ -1,0 +1,7 @@
+570096856685871106
+American
+@AmericanAir I look forward to hearing back and hope that my next trip will not be like this
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 21:44:17 -0800
+location: College Station

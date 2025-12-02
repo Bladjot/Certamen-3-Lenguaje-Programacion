@@ -1,0 +1,7 @@
+570000618707746816
+Southwest
+@SouthwestAir eyes next steps for improving #inflight #Wifi - Runway Girl http://t.co/h46HT1Oz40
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 15:21:52 -0800
+location: Phoenix AZ

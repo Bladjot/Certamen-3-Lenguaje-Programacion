@@ -1,0 +1,7 @@
+570097604182351872
+American
+@AmericanAir It's sad how I can't afford any long distance trips though. :/
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 21:47:15 -0800
+location: WARNING: Explicit language

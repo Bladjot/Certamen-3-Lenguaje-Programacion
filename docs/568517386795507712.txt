@@ -1,0 +1,7 @@
+568517386795507712
+US Airways
+@USAirways thanks.  If you have another method also that would be nice.  Appears to be a design flaw
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 13:08:02 -0800
+location: Arizona

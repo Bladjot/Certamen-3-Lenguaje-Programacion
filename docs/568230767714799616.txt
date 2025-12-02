@@ -1,0 +1,7 @@
+568230767714799616
+United
+@united sprinted from C concourse to E and just made it. Coughed up a lung in the process but am now in CLT! Tnx!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 18:09:06 -0800
+location: San Francisco, California

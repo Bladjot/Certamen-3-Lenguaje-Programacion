@@ -1,0 +1,7 @@
+569977585003827200
+American
+@AmericanAir the worst first class boarding service I ever had.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:50:20 -0800
+location: nan

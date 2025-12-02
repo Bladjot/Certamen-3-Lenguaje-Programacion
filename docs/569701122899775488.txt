@@ -1,0 +1,7 @@
+569701122899775488
+American
+@AmericanAir Hey AA, a suggestion: Note on your seat maps what seats have electronics box blocking legroom. AA215 http://t.co/hcNN0wXQQr
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 19:31:46 -0800
+location: Tucson

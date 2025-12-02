@@ -1,0 +1,7 @@
+568199579201605632
+Delta
+@JetBlue I had 2 fight 2 get a credit for the value of my bag but I got it. #skytrax #jetblue #corpgreed #nevertakeno http://t.co/6MBVJFlpBM
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-18 16:05:10 -0800
+location: ÜT: 40.96513,-73.872957

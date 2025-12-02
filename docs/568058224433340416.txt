@@ -1,0 +1,7 @@
+568058224433340416
+Southwest
+@SouthwestAir There is no option just to Cancelled Flight? I don't want to change flight, I want to Cancelled Flight.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 06:43:29 -0800
+location: Worcester, MA

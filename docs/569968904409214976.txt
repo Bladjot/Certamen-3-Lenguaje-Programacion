@@ -1,0 +1,7 @@
+569968904409214976
+American
+@AmericanAir she was rude, unprofessional,  not helpful in helping me try and get home. As a #aaadvantage #loyal aa customer dissatisfied!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 13:15:50 -0800
+location: Iowa City, IA

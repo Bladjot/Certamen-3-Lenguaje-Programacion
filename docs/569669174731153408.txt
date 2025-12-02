@@ -1,0 +1,7 @@
+569669174731153408
+American
+@AmericanAir Yo, could that be a catering truck before mine eyes?  Unmoving? http://t.co/ASW6QwUf1Z
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:24:49 -0800
+location: New York City

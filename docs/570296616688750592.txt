@@ -1,0 +1,7 @@
+570296616688750592
+American
+@AmericanAir Trying desperately to get my boyfriend booked on the same US Airways flight as myself for the same price. Can you help?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:58:03 -0800
+location: nan

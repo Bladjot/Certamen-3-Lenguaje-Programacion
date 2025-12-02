@@ -1,0 +1,7 @@
+567893924699770880
+United
+@united so who does handle bag issues? And why wouldn't you put me onto them in the first place?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 19:50:37 -0800
+location: Vancouver, Canada

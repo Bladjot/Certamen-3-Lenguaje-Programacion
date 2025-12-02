@@ -1,0 +1,7 @@
+570236587386122240
+American
+@AmericanAir what's the status of flight 3494 XNA to DFW. I'm getting different reports?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 06:59:31 -0800
+location: USA

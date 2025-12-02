@@ -1,0 +1,7 @@
+569503367757754369
+United
+@united I have never been more frustrated than my conversations with United who can't speak Spanish to the courier company that has my bag!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 06:25:58 -0800
+location: nan

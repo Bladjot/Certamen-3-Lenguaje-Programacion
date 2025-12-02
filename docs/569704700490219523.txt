@@ -1,0 +1,7 @@
+569704700490219523
+Delta
+@JetBlue over 2 hour delay going from NYC to Denver! Come on man!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 19:45:59 -0800
+location: Planet Brooklyn

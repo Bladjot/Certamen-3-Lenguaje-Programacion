@@ -1,0 +1,7 @@
+569621852718411776
+American
+@AmericanAir understand waiting 2+ hours for callback on the exec plat line but when call dropped the agent could at least try again
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:16:47 -0800
+location: San Francisco, CA

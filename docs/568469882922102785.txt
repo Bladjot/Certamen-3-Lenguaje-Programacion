@@ -1,0 +1,7 @@
+568469882922102785
+Southwest
+@SouthwestAir is awful. They have lost my bag and aren't providing any info. This is day 3 and nothing. #WORSTAIRLINEEVER
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 09:59:16 -0800
+location: Colorado

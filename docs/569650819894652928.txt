@@ -1,0 +1,7 @@
+569650819894652928
+US Airways
+@USAirways @AmericanAir According to your costumer support your website is holding my money hostage and you cant do anything about it..
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 16:11:53 -0800
+location: nan

@@ -1,0 +1,7 @@
+570081552891125760
+United
+@united agent split up my reservation? Now can't Cancelled Flight and refund credit for 2wks? Why
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 20:43:28 -0800
+location: nan

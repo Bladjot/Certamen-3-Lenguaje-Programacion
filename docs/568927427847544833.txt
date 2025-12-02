@@ -1,0 +1,7 @@
+568927427847544833
+Delta
+@JetBlue can you ask SLC checkin/bag drop if they found a dark blue/blackish fit bit flex? Would've lost it there around 445pm MT
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 16:17:23 -0800
+location: Boston, MA

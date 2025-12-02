@@ -1,0 +1,7 @@
+567725163077070848
+United
+@united didn't get her name. She was not in our group. She was sitting behind us. Think it was window seat #40? We only overheard...
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 08:40:01 -0800
+location: Bhutan

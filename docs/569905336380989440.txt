@@ -1,0 +1,7 @@
+569905336380989440
+Delta
+@JetBlue All good, I just have 2 remind myself that if this was 1914 I might be on a horse &amp; buggy. So what's a little delay right.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 09:03:15 -0800
+location: Bronx, NY

@@ -1,0 +1,7 @@
+569958916668305408
+American
+@AmericanAir Not okay. Since you couldn't put me on an earlier flight, I had to buy my own ticket on another airline.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 12:36:09 -0800
+location: nan

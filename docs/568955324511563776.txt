@@ -1,0 +1,7 @@
+568955324511563776
+Delta
+@JetBlue love you guys. You know that. But I paid for prem. wifi toplay @vainglorygame. No go. Ping terrible / up too http://t.co/CmjRIWOP7O
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 18:08:14 -0800
+location: Ft. Lauderdale

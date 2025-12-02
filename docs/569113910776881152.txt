@@ -1,0 +1,7 @@
+569113910776881152
+Delta
+@JetBlue Thanks for the complimentary upgrade to first.  You are the best!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 04:38:24 -0800
+location: nan

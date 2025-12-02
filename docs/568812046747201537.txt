@@ -1,0 +1,7 @@
+568812046747201537
+Virgin America
+@VirginAmerica lost my luggage 4 days ago on flight VX 112 from LAX to IAD &amp; I'm calling every day, no response.Please give me back my stuff
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 08:38:54 -0800
+location: nan

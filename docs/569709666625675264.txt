@@ -1,0 +1,7 @@
+569709666625675264
+American
+@AmericanAir online flight notification is down.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 20:05:43 -0800
+location: Dallas, Texas

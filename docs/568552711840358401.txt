@@ -1,0 +1,7 @@
+568552711840358401
+United
+@united we were able to get on the moon flight! Just got to our hotel in Puerto Rico! Thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 15:28:24 -0800
+location: Somerville, MA

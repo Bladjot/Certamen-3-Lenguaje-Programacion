@@ -1,0 +1,7 @@
+569571643044929536
+United
+@united I'm not sure how you can help. Your flight experience is terrible, planes are dirty and staff is rude. Start over perhaps?
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 10:57:16 -0800
+location: San Francisco

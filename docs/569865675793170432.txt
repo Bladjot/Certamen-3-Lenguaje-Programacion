@@ -1,0 +1,7 @@
+569865675793170432
+Southwest
+@SouthwestAir loses baggage a day ago and still has no idea or interest in finding it? ALL items for new job in that bag! Unacceptable.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 06:25:39 -0800
+location: Saint Louis, MO USA

@@ -1,0 +1,7 @@
+568633680605945856
+US Airways
+@USAirways I’ll do that in addition to reviewing on my blog. Your agents were pleasant but the experience was less than :/
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 20:50:08 -0800
+location: Arkansas, USA

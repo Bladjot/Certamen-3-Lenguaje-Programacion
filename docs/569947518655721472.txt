@@ -1,0 +1,7 @@
+569947518655721472
+Delta
+Sir. RT @JetBlue: Our fleet's on fleek. http://t.co/F5IXyw8XyB
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 11:50:52 -0800
+location: Baltimore, Maryland

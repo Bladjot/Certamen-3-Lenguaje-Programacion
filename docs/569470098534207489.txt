@@ -1,0 +1,11 @@
+569470098534207489
+United
+@united are you looking for European Flight attendants for Paris or Frankfurt?
+
+Best, 
+
+Fabrice
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 04:13:46 -0800
+location: Belgium

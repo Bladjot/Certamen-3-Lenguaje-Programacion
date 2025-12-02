@@ -1,0 +1,7 @@
+569980771424976896
+US Airways
+@USAirways ticket counter people here are not helping and just want to charge more money even after this horrible day.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:03:00 -0800
+location: Washington D.C.

@@ -1,0 +1,7 @@
+569538992980566017
+US Airways
+@USAirways now in a black hole of your phone system
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 08:47:32 -0800
+location: nan

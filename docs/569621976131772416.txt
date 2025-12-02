@@ -1,0 +1,7 @@
+569621976131772416
+American
+@AmericanAir Still waiting on bags from flight 1613/2440 yesterday  First Class passenger not happy with your service.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 14:17:16 -0800
+location: Massachusetts

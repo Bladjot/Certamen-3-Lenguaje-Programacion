@@ -1,0 +1,7 @@
+568370280415899648
+United
+@united thx. Come hell or high water...
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 03:23:29 -0800
+location: Boise, Idaho

@@ -1,0 +1,7 @@
+569721410542645248
+American
+@AmericanAir 48 hours and still no bag. Could have flown to Costa Rica and back by now. I had gifts for my family in my bags.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 20:52:23 -0800
+location: ATX

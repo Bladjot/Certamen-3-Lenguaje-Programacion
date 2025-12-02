@@ -1,0 +1,7 @@
+569950766485540864
+American
+@AmericanAir thanks for telling me my flight got Cancelled Flightled when it wasn't. Now I have a missing luggage because of you. Thanks fam!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 12:03:46 -0800
+location: Houston

@@ -1,0 +1,7 @@
+567826599270416385
+Delta
+@JetBlue Hi! Does my upcoming flight 2168 from West Palm to HPN have Fly-Fi?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 15:23:05 -0800
+location: New York, NY

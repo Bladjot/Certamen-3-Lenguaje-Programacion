@@ -1,0 +1,7 @@
+569168028014743552
+United
+@united bad idea to let 200 people back on the terminal with food vouchers but allow only 15 minutes to get anything.  Long lines!! #ua1523
+sentiment: negative
+negativereason: longlines
+created: 2015-02-21 08:13:27 -0800
+location: Boston, MA

@@ -1,0 +1,7 @@
+569179631409958912
+Southwest
+@SouthwestAir been on hold for over an hour to speak to a customer service rep. What the heck?? #Southwest #customerservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 08:59:33 -0800
+location: nan

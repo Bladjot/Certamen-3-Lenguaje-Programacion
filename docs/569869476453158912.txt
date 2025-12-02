@@ -1,0 +1,7 @@
+569869476453158912
+United
+@united so is the ^JJ standing for Just Joking?  I am not finding the humor.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:40:45 -0800
+location: Always around

@@ -1,0 +1,7 @@
+570024174162485251
+US Airways
+@USAirways sat on the ramp for 45 min and missed my connection. No one seems to concerned at usairways.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 16:55:28 -0800
+location: Southeastern United States

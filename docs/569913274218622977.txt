@@ -1,0 +1,7 @@
+569913274218622977
+American
+@AmericanAir flight home Cancelled Flightled today.  Any way we can get another flight to NYC from Texas? 4 hour wait for a call back from airline
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 09:34:47 -0800
+location: Chicago, IL

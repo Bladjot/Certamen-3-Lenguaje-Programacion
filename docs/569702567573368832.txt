@@ -1,0 +1,7 @@
+569702567573368832
+Delta
+Kudos well deserved! Just wish the rest of my @JetBlue experience today measured up to their example!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 19:37:31 -0800
+location: Brooklyn, NY

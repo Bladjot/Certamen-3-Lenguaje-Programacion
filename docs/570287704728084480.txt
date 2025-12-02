@@ -1,0 +1,7 @@
+570287704728084480
+Delta
+@JetBlue flight 117. proud to fly Jet Blue!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 10:22:38 -0800
+location: nan

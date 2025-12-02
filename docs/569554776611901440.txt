@@ -1,0 +1,7 @@
+569554776611901440
+Delta
+His name is Enzo 😊 RT @JetBlue : @Setorii Well hello there pooch! What's your name? #dog http://t.co/dLh9138HBg
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 09:50:15 -0800
+location: Beverly Hills, CA

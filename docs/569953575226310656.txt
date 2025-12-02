@@ -1,0 +1,7 @@
+569953575226310656
+United
+@united nice your app says US 4972 delayed by weather.  Pilot says waiting on fuel.  One in ur control, one not
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 12:14:56 -0800
+location: nan

@@ -1,0 +1,7 @@
+568801535662166016
+United
+@united Based on suggestions from other passengers I have a rental car on standby for 11:30.  One way or another will be leaving then.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 07:57:08 -0800
+location: Elmira, NY

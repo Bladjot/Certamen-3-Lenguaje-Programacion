@@ -1,0 +1,7 @@
+569260280687005697
+Southwest
+@SouthwestAir are ur flight still Cancelled Flight from nashville tn today and tomorrow to Dallas TX? I been waiting on phone to ur office for 40 min.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 14:20:01 -0800
+location: nan

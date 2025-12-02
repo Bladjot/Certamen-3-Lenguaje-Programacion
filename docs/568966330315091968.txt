@@ -1,0 +1,7 @@
+568966330315091968
+US Airways
+@USAirways flight #3797 treatment of passengers has been atrocious - over 2 hours delay only to now deplane and given no direction
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 18:51:58 -0800
+location: DC - SF - NC - MA

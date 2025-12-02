@@ -1,0 +1,7 @@
+568499953041080321
+US Airways
+“@USAirways: @alan_bledsoe Thanks for your feedback, Alan.” Thx, but  no help as I watch a flt Lve w/open seats and I wait 3hrs for nxt flt
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 11:58:45 -0800
+location: nan

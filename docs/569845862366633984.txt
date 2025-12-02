@@ -1,0 +1,7 @@
+569845862366633984
+Delta
+@JetBlue Are you having any issues with online check-in? My colleague and I are getting "Webpage not available" after submitting online form
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 05:06:55 -0800
+location: Boston

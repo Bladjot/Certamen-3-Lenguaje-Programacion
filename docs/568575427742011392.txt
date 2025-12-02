@@ -1,0 +1,7 @@
+568575427742011392
+United
+@united silence is very telling
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 16:58:40 -0800
+location: nan

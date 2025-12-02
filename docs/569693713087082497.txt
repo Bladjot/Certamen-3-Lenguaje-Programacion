@@ -1,0 +1,7 @@
+569693713087082497
+American
+@AmericanAir 37 minutes??????
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 19:02:20 -0800
+location: New York, NY

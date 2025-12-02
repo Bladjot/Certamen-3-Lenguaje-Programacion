@@ -1,0 +1,7 @@
+569715419851796482
+American
+@AmericanAir flight number #2386
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 20:28:35 -0800
+location: Buda Texas

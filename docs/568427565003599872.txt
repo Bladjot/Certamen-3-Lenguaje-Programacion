@@ -1,0 +1,7 @@
+568427565003599872
+Southwest
+@SouthwestAir when you enter every contest for #DestinationDragons and lose :(
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 07:11:07 -0800
+location: nan

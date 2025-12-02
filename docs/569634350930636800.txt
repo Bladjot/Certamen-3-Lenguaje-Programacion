@@ -1,0 +1,7 @@
+569634350930636800
+United
+@united so the last seg of my flight from Denver (DEN) to hayden/steamboat (HDN) for 8am got Cancelled Flightled and I need help finding my luggage
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 15:06:27 -0800
+location: nan

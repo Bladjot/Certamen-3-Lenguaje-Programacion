@@ -1,0 +1,7 @@
+569854151531859968
+American
+@AmericanAir @derekc21 , I leave Jaipur tomorrow , back to Dehli , Only in Delhi  one night .  we need to  use our abilities to make magic .
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 05:39:51 -0800
+location: Innisfail, Alberta

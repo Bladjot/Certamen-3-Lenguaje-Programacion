@@ -1,0 +1,7 @@
+569234924785414145
+Southwest
+@SouthwestAir @CallMeStanley7 And bring back the "Agent will call you back..." feature. Why was that ever discontinued???
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 12:39:16 -0800
+location: Denver, CO

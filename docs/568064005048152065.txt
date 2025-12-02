@@ -1,0 +1,7 @@
+568064005048152065
+Delta
+@JetBlue you're killing me now. :-) You got me! #smitten #trueblue
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 07:06:27 -0800
+location: New York

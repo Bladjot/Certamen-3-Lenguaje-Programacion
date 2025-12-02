@@ -1,0 +1,7 @@
+568994507074772992
+US Airways
+@USAirways -1st x told no travel advisory-now TWO hrs on hold &amp; disconnected. Fl from BHM to Charlotte to PHL won't go-HELP!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 20:43:56 -0800
+location: Birmingham, AL

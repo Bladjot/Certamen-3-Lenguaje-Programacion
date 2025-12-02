@@ -1,0 +1,7 @@
+570101194678517761
+American
+@AmericanAir - thanks. She submitted a damaged bag complaint online...is there anything else we can do? #goodcustomerservice
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-23 22:01:31 -0800
+location: Stamford, CT

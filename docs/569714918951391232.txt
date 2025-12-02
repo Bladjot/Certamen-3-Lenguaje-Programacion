@@ -1,0 +1,7 @@
+569714918951391232
+American
+@AmericanAir can you take care @Cowboycerrone please.  Thanks
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 20:26:36 -0800
+location: Two Guns, Arizona

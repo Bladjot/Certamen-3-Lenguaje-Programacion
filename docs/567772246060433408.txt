@@ -1,0 +1,7 @@
+567772246060433408
+Southwest
+@SouthwestAir you Cancelled Flightled my flight to BNA. I have flight from BNA 2 MDW tomorrow AM. You stranded me in DEN. I've been on hold all day
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 11:47:06 -0800
+location: nan

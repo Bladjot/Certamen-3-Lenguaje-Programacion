@@ -1,0 +1,7 @@
+567839160779730944
+United
+@united We were told by United to "carry over/carry back" for the refund.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 16:13:00 -0800
+location: Canmore

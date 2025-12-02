@@ -1,0 +1,7 @@
+569854492126146560
+American
+@AmericanAir Not very helpful if my flight is already Cancelled Flightled! What about reFlight Booking Problems? AA has my email and cell - yet no notifications.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 05:41:12 -0800
+location: Texas

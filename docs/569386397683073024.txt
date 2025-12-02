@@ -1,0 +1,7 @@
+569386397683073024
+US Airways
+@USAirways Are you guys awake? Need help with delayed flight to get protected on Late Flightr flight from PHL.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 22:41:10 -0800
+location: http://about.me/miffsc

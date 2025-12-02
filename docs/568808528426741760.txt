@@ -1,0 +1,7 @@
+568808528426741760
+US Airways
+@USAirways what is happening with flight 1701 from BOS to PHL? Daughter and her fiancée are stuck in BOS!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 08:24:55 -0800
+location: nan

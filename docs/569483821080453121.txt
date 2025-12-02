@@ -1,0 +1,7 @@
+569483821080453121
+Southwest
+@SouthwestAir stuck in NYC flights Cancelled Flightled 2 days in a row Long wait times on phones. Running out of $ but SWA no help
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 05:08:18 -0800
+location: Loomis, CA (Near SacTown)

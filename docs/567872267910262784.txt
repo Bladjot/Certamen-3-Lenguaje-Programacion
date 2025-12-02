@@ -1,0 +1,7 @@
+567872267910262784
+Delta
+@JetBlue I've had no shampoo, no winter coat no deodorant no flatiron and the rest if my stuff since sat
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 18:24:33 -0800
+location: nan

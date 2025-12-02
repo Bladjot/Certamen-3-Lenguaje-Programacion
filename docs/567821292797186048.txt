@@ -1,0 +1,7 @@
+567821292797186048
+United
+@united  Serious firing needs to happen at HNL. They broke the wheelchair you loaned me after you broke mine! http://t.co/bT37KyrByJ
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-17 15:02:00 -0800
+location: nan

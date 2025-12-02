@@ -1,0 +1,7 @@
+567850537716092928
+United
+@united - I think she was having a rough moment w/ a bad passenger from an earlier flight. Things got considerably better. Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 16:58:13 -0800
+location: New York

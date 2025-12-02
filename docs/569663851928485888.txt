@@ -1,0 +1,7 @@
+569663851928485888
+American
+@AmericanAir 3198 to AEX. Is it still going?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:03:40 -0800
+location: Natchitoches, LA

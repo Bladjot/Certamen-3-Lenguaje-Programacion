@@ -1,0 +1,7 @@
+568491434397073408
+Delta
+@JetBlue You mean take more of my time to write you a physical letter because the fraud department doesn't have email or telephones. Right?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 11:24:54 -0800
+location: nan

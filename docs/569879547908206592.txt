@@ -1,0 +1,7 @@
+569879547908206592
+Delta
+@JetBlue Thank you for the free flyfi!! Makes an already great airline even better! #jetblue #Boston #westpalmbeach #flybetter
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 07:20:46 -0800
+location: A Galaxy Far Far Away

@@ -1,0 +1,7 @@
+569243017552375809
+Delta
+@JetBlue as a customer it feels like i should stick to airlines other than jet blue. I travel for my work for past 5 years never seen $70
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 13:11:26 -0800
+location: Austin Texas

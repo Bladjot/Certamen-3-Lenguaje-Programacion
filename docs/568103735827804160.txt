@@ -1,0 +1,7 @@
+568103735827804160
+Southwest
+@SouthwestAir give me tickets to the atlanta show and I'll roadtrip from Canada!! Deal? 😆
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 09:44:20 -0800
+location: Ottawa,Canada

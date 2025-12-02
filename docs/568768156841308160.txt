@@ -1,0 +1,7 @@
+568768156841308160
+Southwest
+@SouthwestAir that's bull. Once you add a fare to the cart you should be locked in. I made it all the way to PayPal.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 05:44:30 -0800
+location: Tempe, AZ & World Wide

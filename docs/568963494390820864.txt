@@ -1,0 +1,7 @@
+568963494390820864
+US Airways
+@USAirways that's who I spoke to already. We've already booked another flight w/someone else. Thanks for your concern. Just wanted to
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 18:40:42 -0800
+location: McKinney TX

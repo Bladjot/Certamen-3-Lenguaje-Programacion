@@ -1,0 +1,7 @@
+568977430439817216
+Delta
+@JetBlue: DCA to Nantucket - Washington Business Journal http://t.co/ebxC94kFJD
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 19:36:05 -0800
+location: USA

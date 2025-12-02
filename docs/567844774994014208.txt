@@ -1,0 +1,7 @@
+567844774994014208
+United
+@united The third wheelchair is broken! http://t.co/tvk0PyxQv5
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 16:35:19 -0800
+location: nan

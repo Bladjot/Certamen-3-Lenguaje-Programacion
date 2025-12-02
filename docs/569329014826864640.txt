@@ -1,0 +1,7 @@
+569329014826864640
+Southwest
+@SouthwestAir why was flight 4199 out of Boston tmrw @ 1230 Cancelled Flightled?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 18:53:09 -0800
+location: Chicago

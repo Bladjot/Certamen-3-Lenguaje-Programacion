@@ -1,0 +1,7 @@
+567826761141985280
+Southwest
+@SouthwestAir really appreciate the follow up, I always fly with y'all for a reason!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 15:23:44 -0800
+location: Nashville, TN

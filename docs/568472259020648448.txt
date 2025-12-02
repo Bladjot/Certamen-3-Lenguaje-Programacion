@@ -1,0 +1,7 @@
+568472259020648448
+US Airways
+@USAirways @AmericanAir for frequent flyer miles can we schedule interchangeably and get credit?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 10:08:42 -0800
+location: nan

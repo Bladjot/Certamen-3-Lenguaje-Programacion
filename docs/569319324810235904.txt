@@ -1,0 +1,7 @@
+569319324810235904
+US Airways
+@USAirways well, depending on the policy will make the determination as to which airline is selected to travel.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 18:14:39 -0800
+location: nan

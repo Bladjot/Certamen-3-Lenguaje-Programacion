@@ -1,0 +1,7 @@
+569928060587233280
+Delta
+“@JetBlue: Our fleet's on fleek. http://t.co/Hez4jk4ZsK” ~huh?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:33:33 -0800
+location: Dallas, Tx USA

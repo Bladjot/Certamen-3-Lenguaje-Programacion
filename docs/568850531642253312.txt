@@ -1,0 +1,7 @@
+568850531642253312
+Southwest
+@SouthwestAir 2 1/2 hours Late Flight, but I made it to sf! Maybe you can help me get on an earlier flight on Sunday :)
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 11:11:50 -0800
+location: san diego, CA

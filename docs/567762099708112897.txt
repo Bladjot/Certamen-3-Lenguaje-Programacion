@@ -1,0 +1,7 @@
+567762099708112897
+Southwest
+@SouthwestAir finally got through. Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 11:06:47 -0800
+location: Houston, Texas

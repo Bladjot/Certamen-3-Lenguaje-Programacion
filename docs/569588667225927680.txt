@@ -1,0 +1,7 @@
+569588667225927680
+Delta
+@JetBlue 118 to Boston still sitting
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 12:04:55 -0800
+location: #Titletown

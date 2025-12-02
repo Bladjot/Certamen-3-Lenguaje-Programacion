@@ -1,0 +1,7 @@
+569595595754639360
+American
+@AmericanAir no hold times, just disconnections.   There is no excuse for that
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:32:27 -0800
+location: nan

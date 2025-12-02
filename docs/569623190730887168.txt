@@ -1,0 +1,7 @@
+569623190730887168
+US Airways
+@USAirways thank you so much for asking us to pay $700 to switch to a different flight so I could spend more time with my dying nephew.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 14:22:06 -0800
+location: Livonia, MI

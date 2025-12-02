@@ -1,0 +1,7 @@
+568940548301549568
+United
+@United can you let us out of the gate now. UA1157
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 17:09:31 -0800
+location: washington, dc

@@ -1,0 +1,7 @@
+568382290352590848
+United
+@united thanks ^mr i got rebooked already but I lost my first class seat. Such is life.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 04:11:12 -0800
+location: NJ/NYC

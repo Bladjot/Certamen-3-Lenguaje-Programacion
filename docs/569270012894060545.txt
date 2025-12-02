@@ -1,0 +1,7 @@
+569270012894060545
+United
+@united its 2015. How can my flight from a major city already be Cancelled Flightled 24 hours before departure due to weather??  Backup planes??
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 14:58:42 -0800
+location: nan

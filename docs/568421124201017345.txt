@@ -1,0 +1,7 @@
+568421124201017345
+Southwest
+@SouthwestAir  do you know where my plane is coming from?  I'm on SW flight 4464 from RSW to MKE
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 06:45:31 -0800
+location: nan

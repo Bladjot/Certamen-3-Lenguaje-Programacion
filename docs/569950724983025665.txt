@@ -1,0 +1,7 @@
+569950724983025665
+American
+@AmericanAir yes I have. Thanks
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 12:03:36 -0800
+location: Jacksonville Florida

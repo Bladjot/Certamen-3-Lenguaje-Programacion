@@ -1,0 +1,7 @@
+568265475114663936
+United
+@united My flying United is over...sorry. The Captain still had 20 minutes of pre-flight preparations to make while we sat with no air!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 20:27:01 -0800
+location: nan

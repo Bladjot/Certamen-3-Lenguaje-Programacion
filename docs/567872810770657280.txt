@@ -1,0 +1,7 @@
+567872810770657280
+Southwest
+@SouthwestAir thanks for your assistance..you guys ROCK!!💯
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 18:26:43 -0800
+location: New Orleans/Dallas

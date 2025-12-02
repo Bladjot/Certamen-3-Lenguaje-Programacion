@@ -1,0 +1,7 @@
+567634106058821632
+United
+@united even though technically after I land I will be silver?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 02:38:11 -0800
+location: nan

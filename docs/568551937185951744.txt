@@ -1,0 +1,7 @@
+568551937185951744
+Southwest
+@SouthwestAir yall say flt 4200 is on time, yet we haven't boarded for a 3:35 departure b/c we are waiting on a new crew. Why the subterfuge
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 15:25:19 -0800
+location: Plain Ol Plano, TX

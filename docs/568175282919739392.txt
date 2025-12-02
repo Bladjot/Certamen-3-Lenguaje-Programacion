@@ -1,0 +1,7 @@
+568175282919739392
+US Airways
+@usairways. Seriously, attendants go AWOL for 60 mins.   Now flight further delayed.   Don't lite a match either http://t.co/mT8sPlm02v
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 14:28:38 -0800
+location: Proud to say I'm from Dundee

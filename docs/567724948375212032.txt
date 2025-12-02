@@ -1,0 +1,7 @@
+567724948375212032
+Southwest
+@SouthwestAir too bad I'm getting this memo: "Your reservation contains modifications that prevent you from changing it online." #FUSTURATED
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-17 08:39:10 -0800
+location: Fort Lauderdale

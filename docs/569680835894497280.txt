@@ -1,0 +1,7 @@
+569680835894497280
+American
+@AmericanAir no other (what should be valid) Circle Pacific itineraries can be booked either - always makes all US dest. invalid 4 last leg
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 18:11:10 -0800
+location: Charlotte, NC | Köln, NRW

@@ -1,0 +1,7 @@
+568027698452426752
+US Airways
+@USAirways I totally understand the weather. Just frustrated. Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 04:42:11 -0800
+location: washington, dc

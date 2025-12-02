@@ -1,0 +1,7 @@
+569124024426618881
+US Airways
+@USAirways So no idea? Thanks...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 05:18:35 -0800
+location: nan

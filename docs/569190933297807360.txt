@@ -1,0 +1,7 @@
+569190933297807360
+Delta
+@JetBlue that I missed my flight. I had to book this flight extremely last minute due to a family death, there's no excuse for attitude in
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 09:44:28 -0800
+location: CONCRETE JUNGLE

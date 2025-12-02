@@ -1,0 +1,7 @@
+567809403668430849
+US Airways
+@USAirways flight 4524 delayed for 2 hours for a deadhead crew.  Lets make 150 paying customers wait ...that is great service #USAirways
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 14:14:45 -0800
+location: nan

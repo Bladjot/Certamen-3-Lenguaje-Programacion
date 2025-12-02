@@ -1,0 +1,7 @@
+568094311159476224
+United
+@united a plane took our gate and now we're just waiting in a lot at DIA
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 09:06:53 -0800
+location: nan

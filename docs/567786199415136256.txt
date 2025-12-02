@@ -1,0 +1,7 @@
+567786199415136256
+Virgin America
+@VirginAmerica Dear Virgin customer, while you're stranded in SF for 3 days &amp; $1000cost- we'll do the very least we can to accommodate you!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 12:42:33 -0800
+location: nan

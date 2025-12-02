@@ -1,0 +1,7 @@
+570063869596475394
+United
+@united Late Flight to Denver, Late Flight to Newark...let's not even get into the disaster that was checking bags. Unacceptable.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 19:33:12 -0800
+location: nan

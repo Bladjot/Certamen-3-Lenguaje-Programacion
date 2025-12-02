@@ -1,0 +1,7 @@
+567809206314668033
+United
+@united You might be dealing with frustrated passenegers. hope you all have a great day :) thank you very much for an amazing airline :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 14:13:58 -0800
+location: nan

@@ -1,0 +1,7 @@
+569525690615205888
+US Airways
+@USAirways i want an Icecream baby...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 07:54:40 -0800
+location: Bruxelle-Paris-Marseille-(BPM)

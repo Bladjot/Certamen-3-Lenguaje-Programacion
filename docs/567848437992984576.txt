@@ -1,0 +1,7 @@
+567848437992984576
+Delta
+@JetBlue selfie on the flight 83 from #JFK to #Orlando . With @Supertzar85 http://t.co/QRANZImHTr
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 16:49:52 -0800
+location: Southbury, CT

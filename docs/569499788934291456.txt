@@ -1,0 +1,7 @@
+569499788934291456
+Southwest
+@SouthwestAir I start a new job tomorrow &amp; you Cancelled Flight my flight (1629 BWI-LAX) and you really can't get me on another flight today ?!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 06:11:45 -0800
+location: Baltimore

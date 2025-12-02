@@ -1,0 +1,7 @@
+569691489179021312
+Delta
+@JetBlue I do! The best airline wifi ever. Thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 18:53:30 -0800
+location: nan

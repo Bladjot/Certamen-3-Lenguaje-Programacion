@@ -1,0 +1,7 @@
+567734795849834497
+United
+@united Step 1: Cancelled Flight flight. Step 2: Don't notify customer. Step 3: Charge them for food while they try to survive their wait. Brilliant.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 09:18:17 -0800
+location: nan

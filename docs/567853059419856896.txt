@@ -1,0 +1,7 @@
+567853059419856896
+Southwest
+@SouthwestAir Im just praying you get me home alive
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 17:08:14 -0800
+location: 0/5 0/4

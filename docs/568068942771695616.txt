@@ -1,0 +1,7 @@
+568068942771695616
+Delta
+@JetBlue credit to you for replying.  I’ll look forward to hopefully one of those 103 on my flight home tonight :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 07:26:04 -0800
+location: Parkland Fl

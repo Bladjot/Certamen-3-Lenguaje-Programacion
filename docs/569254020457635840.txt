@@ -1,0 +1,7 @@
+569254020457635840
+Southwest
+@SouthwestAir not at all. Rerouted to snowy BWI been trying to figure out how to get out of here. Now dealing with more baggage troubles.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 13:55:09 -0800
+location: Tallahassee, FL

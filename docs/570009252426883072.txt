@@ -1,0 +1,7 @@
+570009252426883072
+Southwest
+@SouthwestAir I have a few questions about flying with my Maltese puppy. Can you DM me?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 15:56:10 -0800
+location: California/Maryland

@@ -1,0 +1,7 @@
+568997136643309568
+US Airways
+@USAirways wonder if this misery is considered a damage in a breach of contract lawsuit #lawyerup
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 20:54:23 -0800
+location: nan

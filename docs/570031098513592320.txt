@@ -1,0 +1,7 @@
+570031098513592320
+United
+@united where's my damn bag??
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 17:22:59 -0800
+location: nan

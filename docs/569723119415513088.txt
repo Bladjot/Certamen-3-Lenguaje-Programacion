@@ -1,0 +1,7 @@
+569723119415513088
+United
+@united I just booked a flight for (2). When I view my reservation it has MI connected to First name. Is this a problem? can it be changed?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 20:59:11 -0800
+location: nan

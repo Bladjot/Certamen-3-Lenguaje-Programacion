@@ -1,0 +1,7 @@
+568531781835571200
+US Airways
+@USAirways would like to see you do similar in PHL! http://t.co/n9vGe2nPIB
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 14:05:14 -0800
+location: philadelphia, pa

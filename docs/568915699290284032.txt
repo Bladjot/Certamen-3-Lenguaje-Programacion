@@ -1,0 +1,7 @@
+568915699290284032
+Southwest
+@SouthwestAir WTF, my flight was delayed and then I go to board and my boarding pass has disappeared from the Southwest app!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 15:30:47 -0800
+location: Dallas, Texas

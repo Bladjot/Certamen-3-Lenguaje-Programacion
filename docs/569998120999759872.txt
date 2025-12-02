@@ -1,0 +1,7 @@
+569998120999759872
+American
+@AmericanAir Thanks to AA for the upgrade today and getting me on a new flight after my first one was Cancelled Flightled!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 15:11:56 -0800
+location: Lee's Summit

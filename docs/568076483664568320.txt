@@ -1,0 +1,7 @@
+568076483664568320
+US Airways
+@USAirways flight is delayed 5 hours. No reason given. Sure love flying with your airline. #whatajoke
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 07:56:02 -0800
+location: nan

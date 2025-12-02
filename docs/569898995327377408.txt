@@ -1,0 +1,7 @@
+569898995327377408
+Delta
+@JetBlue Hey friends! Stupid question - Can I split payment methods for a flight purchase? Example: 1/2 debit card, 1/2 BillMeLate Flightr? Thanks!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 08:38:03 -0800
+location: Boston, MA.

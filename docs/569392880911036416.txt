@@ -1,0 +1,7 @@
+569392880911036416
+US Airways
+@USAirways after a grt flight to PHX last week,  tonight was terrible. 2.5 hours taxing and you give us water and crackers to compensate.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 23:06:56 -0800
+location: Bronx, NY

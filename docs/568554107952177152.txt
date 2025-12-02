@@ -1,0 +1,7 @@
+568554107952177152
+Delta
+@JetBlue Flight I want to book was $320 one day; went to purchase next day &amp; price doubled to $737. Inquiring on chance it may go down?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 15:33:57 -0800
+location: nan

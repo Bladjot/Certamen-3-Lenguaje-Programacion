@@ -1,0 +1,7 @@
+569920515542003712
+Delta
+@JetBlue thank you. Appreciate that!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:03:34 -0800
+location: Bronx, NY

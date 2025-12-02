@@ -1,0 +1,7 @@
+568062811856703489
+United
+@united  delayed about 8 hours because of missed connections due to mechanical issues on 1st flight. rebooked, but please call me 9148445695
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 07:01:43 -0800
+location: Needham

@@ -1,0 +1,7 @@
+569985838689456128
+US Airways
+@USAirways do you operate ANY flights without maintenance issues? Flights in/out of DCA Cancelled Flighted, this is getting old. Update fleet pls!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 14:23:08 -0800
+location: NYC

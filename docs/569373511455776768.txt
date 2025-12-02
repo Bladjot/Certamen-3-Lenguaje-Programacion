@@ -1,0 +1,7 @@
+569373511455776768
+Delta
+@JetBlue Follow me pls?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 21:49:58 -0800
+location: East Coast

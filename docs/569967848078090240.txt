@@ -1,0 +1,7 @@
+569967848078090240
+United
+@united It's a shame choosing #United may be the difference between reuniting with aging friends and never seeing them again #PoorService
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 13:11:39 -0800
+location: Ottawa, Ontario

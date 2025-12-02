@@ -1,0 +1,7 @@
+569491079952642051
+United
+@united I would like to know what is the easiest way to get a refund.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 05:37:08 -0800
+location: nan

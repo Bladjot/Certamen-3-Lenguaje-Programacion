@@ -1,0 +1,7 @@
+569837152332333056
+American
+@AmericanAir. For two days now I have been trying to reach #AmericanAirlines customer service to change my flight.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 04:32:18 -0800
+location: Brooklyn, NY

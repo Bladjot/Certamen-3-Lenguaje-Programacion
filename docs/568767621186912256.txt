@@ -1,0 +1,7 @@
+568767621186912256
+United
+@United is the worst major US airline.  More proof: they're boarding the plane with the outside galley door open in 0 degree weather.  Wtf?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 05:42:22 -0800
+location: NYC.  Sports.

@@ -1,0 +1,7 @@
+569620873394696192
+Delta
+@JetBlue a 5 year old can't sit alone on a flight. This is absurd. And this guy is a dick. #jetblue http://t.co/2HXsDP0ha4
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 14:12:53 -0800
+location: nan

@@ -1,0 +1,7 @@
+567758065320361985
+Delta
+@JetBlue @JayVig YES! Great real-time example. Thanks for being awesome, #JetBlue! #JVMChat
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 10:50:45 -0800
+location: Charlotte, NC

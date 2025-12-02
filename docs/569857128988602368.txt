@@ -1,0 +1,7 @@
+569857128988602368
+American
+@AmericanAir will you review your systems re notification? The website and telephone systems you have in place are clearly inadequate.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 05:51:41 -0800
+location: SR2

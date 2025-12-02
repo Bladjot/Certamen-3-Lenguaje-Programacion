@@ -1,0 +1,7 @@
+568256684642213888
+Delta
+@JetBlue is it your standard protocol to call security onto a plane for a crying baby?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 19:52:05 -0800
+location: gulf coast, FL

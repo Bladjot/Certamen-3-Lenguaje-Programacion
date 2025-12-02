@@ -1,0 +1,7 @@
+569911783596560384
+American
+@AmericanAir I was flying today to MTY Mex at 9:30am but still appear Cancelled Flight, Where can i talk for another flight?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 09:28:52 -0800
+location: Monterrey, Nuevo Leon

@@ -1,0 +1,7 @@
+569785570320195585
+United
+@united was trying to change a flight online but got an error can you help via DM?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 01:07:20 -0800
+location: San Francisco, CA

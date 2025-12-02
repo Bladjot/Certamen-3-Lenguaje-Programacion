@@ -1,0 +1,7 @@
+568081386520723456
+United
+.@united Don't post a link to an article that verifies the initial complaint with 20+ comments saying the same thing. @harris
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 08:15:31 -0800
+location: Salt Lake City, UT

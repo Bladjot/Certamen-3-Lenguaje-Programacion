@@ -1,0 +1,7 @@
+567830505414103040
+Southwest
+@SouthwestAir bos to msp, msp to aus, aus to bos. Site doesn't seem to display fields for the middle trip when I add the 3rd.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-17 15:38:36 -0800
+location: boston, ma

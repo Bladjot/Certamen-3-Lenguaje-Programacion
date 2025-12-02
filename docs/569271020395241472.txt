@@ -1,0 +1,7 @@
+569271020395241472
+Delta
+@JetBlue your website is seriously horrible and so is your  call center!! Almost makes it tempting to fly someone else!! #sodone
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 15:02:42 -0800
+location: nan

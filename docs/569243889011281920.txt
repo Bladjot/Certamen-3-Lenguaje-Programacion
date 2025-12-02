@@ -1,0 +1,7 @@
+569243889011281920
+United
+@united have an employee at the gate 15min before boarding like u expect ur customers to. Be a competent company like ur rivals
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 13:14:53 -0800
+location: nan

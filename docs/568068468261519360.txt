@@ -1,0 +1,7 @@
+568068468261519360
+United
+@united surprise me.  Otherwise, the flight is over and I don't have a good feeling about your airline.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 07:24:11 -0800
+location: Boise, ID

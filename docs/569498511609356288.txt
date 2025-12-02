@@ -1,0 +1,7 @@
+569498511609356288
+Delta
+@JetBlue  will do.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 06:06:40 -0800
+location: nan

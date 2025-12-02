@@ -1,0 +1,7 @@
+570240052279648257
+Delta
+Sigh... “@JetBlue: Our fleet's on fleek. http://t.co/W5NL0AY9Bl”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 07:13:17 -0800
+location: where the Bulls/Bears play.

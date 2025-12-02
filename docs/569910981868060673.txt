@@ -1,0 +1,7 @@
+569910981868060673
+Virgin America
+@VirginAmerica Is it me, or is your website down?  BTW, your new website isn't a great user experience.  Time for another redesign.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:25:41 -0800
+location: Los Angeles, CA

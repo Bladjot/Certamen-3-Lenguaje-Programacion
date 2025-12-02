@@ -1,0 +1,7 @@
+569645701291843584
+US Airways
+@USAirways Sitting at the gate on Flight 719 for an hour due to Sabre being down. What backup plan is in place if Sabre cannot be fixed?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:51:33 -0800
+location: Jerz

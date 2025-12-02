@@ -1,0 +1,7 @@
+569661937203572738
+American
+@AmericanAir your 1800 kept hanging up on me and made me miss a second flight
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:56:04 -0800
+location: nan

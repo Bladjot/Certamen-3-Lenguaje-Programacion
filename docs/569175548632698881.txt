@@ -1,0 +1,7 @@
+569175548632698881
+Southwest
+@SouthwestAir We have been waiting for almost 3 hours trying to rebook flights. PLEASE help us get through to someone.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 08:43:20 -0800
+location: Egg Harbor, WI

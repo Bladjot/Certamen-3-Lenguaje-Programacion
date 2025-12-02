@@ -1,0 +1,7 @@
+568778215671664640
+US Airways
+@USAirways He overflowed over the armrest and under with legs sprawled. You should refund me I had no Choice. #Grossedout
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 06:24:28 -0800
+location: Flying Giraffe Travel

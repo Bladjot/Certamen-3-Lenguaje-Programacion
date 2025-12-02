@@ -1,0 +1,7 @@
+568560083103137793
+United
+@united can you maybe have more than 1 person working customer service desk in Houston airport? Line 3 rows deep 1 person working
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 15:57:41 -0800
+location: nan

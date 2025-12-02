@@ -1,0 +1,7 @@
+569844191938908160
+US Airways
+@USAirways : Maybe You Should Drive #usairwaysfail
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 05:00:17 -0800
+location: Jacksonville

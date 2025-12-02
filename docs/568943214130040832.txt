@@ -1,0 +1,7 @@
+568943214130040832
+Southwest
+@SouthwestAir when will airfare be available through December of this year? I have 2 major trips coming up and I'm anxious to book them!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 17:20:07 -0800
+location: Chicago

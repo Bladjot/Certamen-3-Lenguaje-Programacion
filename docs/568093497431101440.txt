@@ -1,0 +1,7 @@
+568093497431101440
+Southwest
+@SouthwestAir I have a flight to Vegas coming up soon, but haven’t received any drink tickets Late Flightly. Can you help me out?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 09:03:39 -0800
+location: Austin, TX

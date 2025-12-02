@@ -1,0 +1,7 @@
+570074976428158976
+American
+@AmericanAir absolutely disappointed in your lack of service. Lost my bag and can't even deliver it after I was told it would happen.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 20:17:20 -0800
+location: nan

@@ -1,0 +1,7 @@
+567732427691683840
+Southwest
+@SouthwestAir Got it, thanks. Any insight into what will happen tomorrow?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:08:53 -0800
+location: New York

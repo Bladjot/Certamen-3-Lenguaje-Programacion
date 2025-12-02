@@ -1,0 +1,7 @@
+570276440874323968
+Southwest
+@SouthwestAir trying to change my reservation, been on hold for 45 minutes, and can't do it online-was directed to call. Help?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 09:37:53 -0800
+location: Eau Claire

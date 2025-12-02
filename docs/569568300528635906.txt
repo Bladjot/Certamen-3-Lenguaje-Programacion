@@ -1,0 +1,7 @@
+569568300528635906
+United
+@united thanks. Just got on a couple of minutes ago. Great service on flight 479 btw. Please pass it to the team on that flight.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 10:43:59 -0800
+location: California, USA

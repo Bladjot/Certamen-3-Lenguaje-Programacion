@@ -1,0 +1,7 @@
+569689239136423936
+American
+@AmericanAir yeah, rebooked for tomorrow morning. But extremely disappointed to miss a wedding.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 18:44:33 -0800
+location: Behind you, look again.

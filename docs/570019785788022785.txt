@@ -1,0 +1,7 @@
+570019785788022785
+United
+@United now what?!? http://t.co/5hpSqVRjK8 flight was gone when I got off plane! #BusinessTravel #goodenoughmother
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 16:38:02 -0800
+location: GEM HQ (aka walk-in closet) NY

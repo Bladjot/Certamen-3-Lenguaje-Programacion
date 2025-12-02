@@ -1,0 +1,7 @@
+568514293441757184
+US Airways
+@USAirways forgetting to fuel up? Realizing there was more cargo to add to plane? One way to try and mask a delay.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 12:55:44 -0800
+location: Boston, MA

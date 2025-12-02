@@ -1,0 +1,7 @@
+570008684413104128
+US Airways
+@USAirways i have a question. i need to talk to someone by email. Can you give me your email address? Thanks.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 15:53:55 -0800
+location: nan

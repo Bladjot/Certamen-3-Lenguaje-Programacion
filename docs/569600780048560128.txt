@@ -1,0 +1,7 @@
+569600780048560128
+American
+@AmericanAir and how is this not a mechanical issue? All evidence points to the idea that it’s the ILS at CLL at fault, not the weather.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 12:53:03 -0800
+location: College Station, TX

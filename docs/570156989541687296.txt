@@ -1,0 +1,7 @@
+570156989541687296
+US Airways
+@usairways  Thank you for allowing me to spend more money on vacation by buying things I already bought.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 01:43:13 -0800
+location: Kentucky

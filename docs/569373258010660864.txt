@@ -1,0 +1,7 @@
+569373258010660864
+Southwest
+@SouthwestAir want to explain why I was on hold for 2+ hrs tonight trying to reach customer service only to learn they're only there Mon-Fr?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 21:48:57 -0800
+location: SoCal

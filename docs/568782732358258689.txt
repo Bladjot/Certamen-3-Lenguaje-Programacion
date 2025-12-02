@@ -1,0 +1,7 @@
+568782732358258689
+US Airways
+@USAirways what is the damn delay????
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 06:42:25 -0800
+location: Nantucket

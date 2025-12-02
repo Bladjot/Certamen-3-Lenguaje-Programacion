@@ -1,0 +1,7 @@
+568242359928037377
+US Airways
+@USAirways no your not!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 18:55:10 -0800
+location: Dallas, TX

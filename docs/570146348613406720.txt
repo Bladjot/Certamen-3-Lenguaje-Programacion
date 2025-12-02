@@ -1,0 +1,7 @@
+570146348613406720
+American
+@AmericanAir no I've since rebooked with another airline, what I would like is compensation for all the time/money lost!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 01:00:56 -0800
+location: nan

@@ -1,0 +1,7 @@
+569649617802891264
+Southwest
+@SouthwestAir I'm a huge fan and give y'all too much business...so please fix the damn wifi!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 16:07:07 -0800
+location: Sunny Florida

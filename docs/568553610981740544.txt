@@ -1,0 +1,7 @@
+568553610981740544
+Virgin America
+@VirginAmerica I adore you, and am so looking forward to my flight to Austin in two weeks.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 15:31:58 -0800
+location: Portland, OR

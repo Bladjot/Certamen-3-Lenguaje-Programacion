@@ -1,0 +1,7 @@
+569012492598251520
+United
+@united On last flight of the day no less. I am now driving 4 hours to Aspen thru a snowstorm Thx to your teams lack of customer empathy
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 21:55:24 -0800
+location: Hong Kong

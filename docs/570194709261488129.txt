@@ -1,0 +1,7 @@
+570194709261488129
+American
+@AmericanAir Amazing to watch @chasefoster (who travels with celebs all over the world) show the youth of America who *not* to fly with.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 04:13:07 -0800
+location: Metropolis

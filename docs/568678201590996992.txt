@@ -1,0 +1,7 @@
+568678201590996992
+United
+@united its in black and white. EU law and all that €600 for a Cancelled Flightled flight. I want my money
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 23:47:03 -0800
+location: bonkers in Yonkers

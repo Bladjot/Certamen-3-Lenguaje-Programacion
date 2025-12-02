@@ -1,0 +1,7 @@
+568421732157161472
+United
+@united please explain why I need to pay bag fees twice, equally $1200, because a delayed flight resulted in bags being rechecked overnight?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 06:47:56 -0800
+location: New York

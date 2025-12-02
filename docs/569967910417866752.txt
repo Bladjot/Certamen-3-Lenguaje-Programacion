@@ -1,0 +1,7 @@
+569967910417866752
+Delta
+@JetBlue Thanks so much for talking to me! The article about #Twitter chats came out great! http://t.co/rKorHvR9z1 #contentmarketing
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 13:11:53 -0800
+location: Austin, TX

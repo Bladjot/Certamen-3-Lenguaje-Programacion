@@ -1,0 +1,7 @@
+569495604944089088
+US Airways
+@USAirways Good morning.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 05:55:07 -0800
+location: nan

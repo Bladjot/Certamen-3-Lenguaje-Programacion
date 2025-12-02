@@ -1,0 +1,7 @@
+569262065988308993
+Southwest
+@SouthwestAir How can you get your TSA traveler ID added to your boarding pass? Why would it not be included as TSA precheck? Flying tomorro
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 14:27:07 -0800
+location: Upstate New York

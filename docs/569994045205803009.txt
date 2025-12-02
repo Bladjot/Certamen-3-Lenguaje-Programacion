@@ -1,0 +1,7 @@
+569994045205803009
+Southwest
+@SouthwestAir thanks for the quick response. Should I call daily it wait the 5 days.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 14:55:45 -0800
+location: nan

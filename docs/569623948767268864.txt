@@ -1,0 +1,7 @@
+569623948767268864
+Delta
+@JetBlue once you go blue you don't go back
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 14:25:07 -0800
+location: 42.3806° N, 71.2350° W

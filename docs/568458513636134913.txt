@@ -1,0 +1,7 @@
+568458513636134913
+Virgin America
+@VirginAmerica your Avis rental continue button doesn't work on your website to book car. Tried 4 times on phone.  This sucks!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 09:14:05 -0800
+location: San Francisco

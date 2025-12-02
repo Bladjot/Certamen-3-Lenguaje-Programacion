@@ -1,0 +1,7 @@
+569961070519050240
+US Airways
+@USAirways 1-2! Rock hit the plane! In a delay now! Never an easy day with US Airways! Ya never fail to let me down!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 12:44:43 -0800
+location: VT

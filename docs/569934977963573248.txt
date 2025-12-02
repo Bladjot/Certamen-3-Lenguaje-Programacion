@@ -1,0 +1,7 @@
+569934977963573248
+Delta
+Yall tried it. "@JetBlue: Our fleet's on fleek. http://t.co/62GoDFaKNB”
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 11:01:02 -0800
+location: Jersey bred, Atlanta resident

@@ -1,0 +1,7 @@
+568845145510158336
+US Airways
+@USAirways absolutely
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 10:50:25 -0800
+location: nan

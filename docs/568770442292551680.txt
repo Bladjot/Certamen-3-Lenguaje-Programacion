@@ -1,0 +1,7 @@
+568770442292551680
+US Airways
+@USAirways hi is there somebody avail who can help .....with an refund ? its unbelievable on the phone w US for more than 7 hrs in 4 days
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 05:53:35 -0800
+location: GERMANY

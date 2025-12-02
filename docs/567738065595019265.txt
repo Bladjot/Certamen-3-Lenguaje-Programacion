@@ -1,0 +1,7 @@
+567738065595019265
+Southwest
+@SouthwestAir 45mins wait on the phone with no option for a callback? Finally had to hang up because my phone was dying. #customerservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 09:31:17 -0800
+location: Cleveland, Ohio

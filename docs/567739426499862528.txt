@@ -1,0 +1,7 @@
+567739426499862528
+Southwest
+@SouthwestAir the 5:50 is sold out too?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:36:42 -0800
+location: Nashville,TN

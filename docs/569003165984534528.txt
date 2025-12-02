@@ -1,0 +1,7 @@
+569003165984534528
+Delta
+@JetBlue now we are delayed until 1:02! This is ridiculous
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 21:18:20 -0800
+location: Central Perk

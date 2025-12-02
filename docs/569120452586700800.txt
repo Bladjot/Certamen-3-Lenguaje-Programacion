@@ -1,0 +1,7 @@
+569120452586700800
+US Airways
+@USAirways yes. But the manner with which it was done was harsh for those affected. Already checked in. No remorse. Weak alternatives.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 05:04:24 -0800
+location: Nairobi

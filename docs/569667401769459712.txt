@@ -1,0 +1,7 @@
+569667401769459712
+Southwest
+@SouthwestAir Tell me the secrets to flying high #RedCarpet
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:17:47 -0800
+location: North Carolina

@@ -1,0 +1,7 @@
+570095696491241472
+American
+@AmericanAir Oh trust me. I am in love. It is so beautiful!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 21:39:40 -0800
+location: Left hand seat in flightdeck

@@ -1,0 +1,7 @@
+570257480401469441
+Southwest
+@SouthwestAir my wife and 9 month old might miss flight and next direct is 210 pm. Mother in law been on hold with customer support for 30
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 08:22:32 -0800
+location: Fort Lauderdale

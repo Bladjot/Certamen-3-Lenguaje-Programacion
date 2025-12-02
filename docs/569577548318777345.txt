@@ -1,0 +1,7 @@
+569577548318777345
+Southwest
+.@SouthwestAir thx for the note. Flight was Cancelled Flightled and today is all booked so had to go with another carrier. :(
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 11:20:44 -0800
+location: boulder, co

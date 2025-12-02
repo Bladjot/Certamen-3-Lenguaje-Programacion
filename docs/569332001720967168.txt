@@ -1,0 +1,7 @@
+569332001720967168
+Delta
+@JetBlue @L_Burley11 -- the best!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 19:05:01 -0800
+location: Washington, DC

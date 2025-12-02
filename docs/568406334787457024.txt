@@ -1,0 +1,7 @@
+568406334787457024
+United
+@united Trying to locate passenger that landed 2 hrs ago in @HeathrowAirport UA938. can you assist? Is flight still in customs? PLEASE help
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 05:46:45 -0800
+location: Wisconsin, ya know

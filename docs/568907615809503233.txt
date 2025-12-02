@@ -1,0 +1,7 @@
+568907615809503233
+Delta
+@JetBlue Hawaii what deals u have for me
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 14:58:40 -0800
+location: South jamaica.. Queens

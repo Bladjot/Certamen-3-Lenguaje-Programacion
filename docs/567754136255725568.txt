@@ -1,0 +1,7 @@
+567754136255725568
+United
+@united the refund request functionality on http://t.co/5IMDckODfx is broken.i get a time out error.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 10:35:09 -0800
+location: nan

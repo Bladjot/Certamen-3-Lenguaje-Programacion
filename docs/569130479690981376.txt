@@ -1,0 +1,7 @@
+569130479690981376
+United
+@united web app won't let me upgrade seats, call center wait time is 20 minutes plus, just want to get more legroom but it's a pita
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 05:44:14 -0800
+location: here

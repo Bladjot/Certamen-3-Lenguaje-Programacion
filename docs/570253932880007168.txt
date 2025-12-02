@@ -1,0 +1,7 @@
+570253932880007168
+American
+@AmericanAir Please explain why it costs almost the same price of a full roundtrip fair to only change the departure time of a flight?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 08:08:27 -0800
+location: ✅

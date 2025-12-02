@@ -1,0 +1,7 @@
+568101444391276544
+United
+1/2 @united Just be honest with your customers. The new seats are designed to fit more rows on the plane. More rows = more money.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 09:35:13 -0800
+location: NYC

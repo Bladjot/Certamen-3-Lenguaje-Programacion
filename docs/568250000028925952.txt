@@ -1,0 +1,7 @@
+568250000028925952
+United
+@united 2 hour flight from FLL to Ewr, 1242, now waiting 1 hour plus for bags, no sign yet. What gives????
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 19:25:32 -0800
+location: nan

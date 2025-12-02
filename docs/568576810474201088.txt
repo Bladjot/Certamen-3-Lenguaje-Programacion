@@ -1,0 +1,7 @@
+568576810474201088
+US Airways
+@USAirways thanks for getting me rescheduled on a direct flight to NOLA tonight in 10 minutes--and hopefully an hour earlier getting there!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 17:04:09 -0800
+location: Silver Spring, MD

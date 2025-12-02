@@ -1,0 +1,7 @@
+567822648047321088
+United
+@united @el_ingeniero don't check your baggage if you don't have to.  They will lose it!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 15:07:23 -0800
+location: nan

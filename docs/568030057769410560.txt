@@ -1,0 +1,7 @@
+568030057769410560
+United
+@united my baggage is in shannon now so never mind u can work on giving me some $$$ back now
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 04:51:33 -0800
+location: nan

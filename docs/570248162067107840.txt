@@ -1,0 +1,7 @@
+570248162067107840
+American
+@AmericanAir Lots of upset people, freezing terminal, and no gate agent. Kept us waiting on plane beyond allowable time length.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 07:45:31 -0800
+location: Toronto, Ontario, Canada

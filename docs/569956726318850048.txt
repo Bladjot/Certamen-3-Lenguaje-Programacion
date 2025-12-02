@@ -1,0 +1,7 @@
+569956726318850048
+Southwest
+@SouthwestAir , please explain to me why every other flight to Dallas is going out today except the 6:35 pm?????
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 12:27:27 -0800
+location: nan

@@ -1,0 +1,7 @@
+568706272788262912
+Delta
+@JetBlue using A321 JFK-SEA for Summer 2015. It will be my first A321 flight ever! No Mint to Seattle, Core Config only.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 01:38:36 -0800
+location: New York, NY

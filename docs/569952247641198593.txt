@@ -1,0 +1,7 @@
+569952247641198593
+American
+@AmericanAir Oh, and losing my luggage #ridiculous # angrybird # where'smybag
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 12:09:39 -0800
+location: London

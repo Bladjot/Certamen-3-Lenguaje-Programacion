@@ -1,0 +1,7 @@
+570303683872886784
+Delta
+@JetBlue Hey guys, why did my last flight earn me 0 pts? http://t.co/1syWlmTZek
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 11:26:08 -0800
+location: Boston, MA

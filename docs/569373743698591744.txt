@@ -1,0 +1,7 @@
+569373743698591744
+United
+@united Can I get a follow? I fly with you for Christmas.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 21:50:53 -0800
+location: East Coast

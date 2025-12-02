@@ -1,0 +1,7 @@
+569181501830656000
+US Airways
+@USAirways how do you have only 1 flight into lexington this afternoon with the #1 @KentuckyMBB playing a big game tonight?  #DoBetter
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 09:06:59 -0800
+location: CT, USA

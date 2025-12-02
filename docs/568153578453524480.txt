@@ -1,0 +1,7 @@
+568153578453524480
+Southwest
+@SouthwestAir how come on mobile I can't proceed w/o entering a postcode at purchase. I'm from Ireland and I don't have a postcode just.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 13:02:23 -0800
+location: nan

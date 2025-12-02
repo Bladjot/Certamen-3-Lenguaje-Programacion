@@ -1,0 +1,7 @@
+569369331173363712
+United
+@united Been sitting on flight 435 for an hour after landing in Newark. First no gate, then no jetway operator. Seriously!?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 21:33:21 -0800
+location: Branford, CT

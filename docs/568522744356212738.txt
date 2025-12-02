@@ -1,0 +1,7 @@
+568522744356212738
+US Airways
+@USAirways just heard #Monterey airport was closed due to thick fog, any updates
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 13:29:19 -0800
+location: Monterey County, CA

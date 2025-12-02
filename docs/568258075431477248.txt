@@ -1,0 +1,7 @@
+568258075431477248
+US Airways
+@USAirways worst customer service. Still not providing me an answer even after I drove back to CLT airport. been rude &amp; unacceptable #fail
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 19:57:37 -0800
+location: nan

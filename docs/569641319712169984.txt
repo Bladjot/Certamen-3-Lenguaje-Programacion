@@ -1,0 +1,7 @@
+569641319712169984
+United
+@united we were told when we checked in, as soon as we were allowed to, that there are no other seats available on the plane except middle.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 15:34:08 -0800
+location: Kingston, Canada

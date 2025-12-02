@@ -1,0 +1,7 @@
+569840341899026432
+United
+@united Was able to send the DM. All good now.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 04:44:59 -0800
+location: USA / The World

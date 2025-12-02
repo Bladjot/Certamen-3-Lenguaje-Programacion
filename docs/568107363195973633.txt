@@ -1,0 +1,7 @@
+568107363195973633
+United
+@United Wonder why people hate dealing with airlines?  Ridiculous and inflexible "policies".  I need a phone number and a resolution.  Now.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 09:58:44 -0800
+location: Grand Junction, CO

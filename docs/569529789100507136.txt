@@ -1,0 +1,7 @@
+569529789100507136
+United
+@united you should spend all of the money you take for our tickets and update your planes! Each flight has a maintenance issue!!!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 08:10:57 -0800
+location: nan

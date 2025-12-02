@@ -1,0 +1,7 @@
+568116768868159488
+US Airways
+@USAirways would you consider honoring the original fare price if I were to try Flight Booking Problems the ticket again?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 10:36:07 -0800
+location: nan

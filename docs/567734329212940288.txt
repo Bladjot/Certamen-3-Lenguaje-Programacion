@@ -1,0 +1,7 @@
+567734329212940288
+Southwest
+@SouthwestAir Great job!! Looking forward to my next trip being able to use this new feature!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 09:16:26 -0800
+location: AZ - USA

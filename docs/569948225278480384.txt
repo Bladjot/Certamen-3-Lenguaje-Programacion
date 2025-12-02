@@ -1,0 +1,7 @@
+569948225278480384
+Delta
+C'mon, this is worse than JetBae. RT @JetBlue Our fleet's on fleek. https://t.co/yZXfe7au22
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 11:53:40 -0800
+location: New York, NY | Washington, DC

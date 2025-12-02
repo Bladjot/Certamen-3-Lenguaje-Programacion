@@ -1,0 +1,7 @@
+568442965661761536
+Delta
+@JetBlue That's why I love JetBlue! #truebluemember4life
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 08:12:18 -0800
+location: Long Island, NY

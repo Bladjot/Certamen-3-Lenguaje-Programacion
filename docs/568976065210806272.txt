@@ -1,0 +1,7 @@
+568976065210806272
+United
+@united never flying with you guys ever again. The customer service is piss poor at best.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 19:30:39 -0800
+location: Ho-Flo/Columbus/NYC

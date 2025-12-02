@@ -1,0 +1,7 @@
+568255102567518208
+Delta
+@JetBlue Finally starting to come out. 40 minutes and no communication is not acceptable. Letting me down today.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 19:45:48 -0800
+location: Boston, MA

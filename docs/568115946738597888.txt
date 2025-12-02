@@ -1,0 +1,7 @@
+568115946738597888
+United
+@united you have the nicest gate attendant at Newark airport gate 101 right now. Multiple delays and she is still pleasant with everyone.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 10:32:51 -0800
+location: nan

@@ -1,0 +1,7 @@
+569508802891882497
+Delta
+@jetblue that's cause we're TrueBlue! It's ur #love that keeps liftin' me #higherandhigher https://t.co/xGfS6tJTMo http://t.co/ixM3t5mIZc
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 06:47:34 -0800
+location: New York, NY

@@ -1,0 +1,7 @@
+569005718365298689
+United
+@united Of course. That was the start of my trip 3 wks. ago. Its gone further downhill on my return.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 21:28:29 -0800
+location: Cincinnati

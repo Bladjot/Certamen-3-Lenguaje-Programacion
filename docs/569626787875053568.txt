@@ -1,0 +1,7 @@
+569626787875053568
+American
+@AmericanAir @dfwairport  Have been trying to get canx flight resched since noon.  got 2 call backs but call disconnects as soon as I answer
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:36:24 -0800
+location: nan

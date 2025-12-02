@@ -1,0 +1,7 @@
+569569272898445313
+United
+@united I unfortunately didn't get her name :( she was not nice!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 10:47:51 -0800
+location: Washington, DC

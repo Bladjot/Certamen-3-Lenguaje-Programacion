@@ -1,0 +1,7 @@
+567759456503881729
+US Airways
+@USAirways how is your gate agent gonna tell me my flight is on time when its 5 minutes past departure time and the previous flights plane..
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 10:56:17 -0800
+location: Nashville, TN

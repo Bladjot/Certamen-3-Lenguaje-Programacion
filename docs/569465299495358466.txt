@@ -1,0 +1,7 @@
+569465299495358466
+US Airways
+@USAirways XNA has TSA Precheck! Would be nice if your system knew that.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 03:54:42 -0800
+location: nan

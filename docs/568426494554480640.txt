@@ -1,0 +1,7 @@
+568426494554480640
+Delta
+@JetBlue definitely!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 07:06:51 -0800
+location: Long Island, NY

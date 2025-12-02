@@ -1,0 +1,7 @@
+567803467282046976
+Delta
+@JetBlue thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 13:51:10 -0800
+location: District of Columbia

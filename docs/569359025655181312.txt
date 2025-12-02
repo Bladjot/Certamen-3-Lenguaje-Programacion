@@ -1,0 +1,7 @@
+569359025655181312
+US Airways
+@USAirways This is garbage, been trying to book a reward flight and then it got Cancelled Flighted and still can't get anyone on phone. Unacceptable
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 20:52:24 -0800
+location: nan

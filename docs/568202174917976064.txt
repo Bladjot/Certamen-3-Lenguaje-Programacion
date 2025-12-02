@@ -1,0 +1,7 @@
+568202174917976064
+United
+@united just dropped bags at Newark. Your desk guy was the rudest customer facing person I have met. Even my two children were shocked!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 16:15:29 -0800
+location: London

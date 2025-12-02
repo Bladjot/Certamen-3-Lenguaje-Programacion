@@ -1,0 +1,8 @@
+568460037737324545
+United
+@united need assistance to change flight to get to an ailing parent..
+have flight leaving Tuesday need to change ASAP to sooner #custserv
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 09:20:09 -0800
+location: North Jersey

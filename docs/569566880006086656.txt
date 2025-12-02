@@ -1,0 +1,7 @@
+569566880006086656
+Delta
+@JetBlue I have a reservation for tomorrow morning but trying to get back 2 night bc other flight was going to jfk. Can I get on list at CTG
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 10:38:20 -0800
+location: nan

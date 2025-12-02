@@ -1,0 +1,7 @@
+569703041957564416
+Southwest
+@SouthwestAir would really like my baggage from yesterday. Employees at Akron giving me a tough time.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 19:39:24 -0800
+location: Aurora, OH

@@ -1,0 +1,7 @@
+569617083194933248
+United
+@united yes... A ride home would be perfect.. A fete one would assume possible after charging 1600$ for a domestic flight... Ps we deplaned
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 13:57:50 -0800
+location: nan

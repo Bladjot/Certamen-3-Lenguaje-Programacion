@@ -1,0 +1,7 @@
+569681392369590272
+Southwest
+@SouthwestAir Flight 3267 (N659SW) arrives at @FlyTPA following flight from @MitchellAirport http://t.co/LJ2YdKoR8q
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:13:22 -0800
+location: Englewood, Florida

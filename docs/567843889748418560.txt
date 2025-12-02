@@ -1,0 +1,7 @@
+567843889748418560
+Delta
+@JetBlue the TV. Wifi was spotty. It's just a nice feature for a X country flight. Still won't keep us away #lovejetblue
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 16:31:48 -0800
+location: nan

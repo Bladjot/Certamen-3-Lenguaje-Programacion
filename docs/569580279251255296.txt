@@ -1,0 +1,7 @@
+569580279251255296
+United
+@united it would make my day if I could take a flight on your airline without any hiccups on your end. Train your employees to communicate
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 11:31:35 -0800
+location: nan

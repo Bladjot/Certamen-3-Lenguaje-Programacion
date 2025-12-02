@@ -1,0 +1,7 @@
+569733539899568128
+American
+@AmericanAir Understood. Thanks anyway
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 21:40:35 -0800
+location: San Diego, CA

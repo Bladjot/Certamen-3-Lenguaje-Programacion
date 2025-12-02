@@ -1,0 +1,7 @@
+568640385117003776
+United
+@united I have a LH return business ticket from Den to Fra.If I fly domestic with you,bag can be checked through to Fra,no need to claim?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 21:16:47 -0800
+location: nan

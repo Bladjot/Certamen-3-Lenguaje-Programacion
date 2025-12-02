@@ -1,0 +1,7 @@
+567858076285452288
+Southwest
+@SouthwestAir there... from my first interaction with your people this morning, after bad weather, sorry but I wont be flying with you again
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 17:28:10 -0800
+location: Memphis, TN

@@ -1,0 +1,7 @@
+569810990189191168
+US Airways
+@USAirways Flight gets in 30 minutes early and all goodwill gone when bags aren't here 45 minutes Late Flightr
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 02:48:21 -0800
+location: Boston

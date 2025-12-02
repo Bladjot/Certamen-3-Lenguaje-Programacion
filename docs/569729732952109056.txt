@@ -1,0 +1,7 @@
+569729732952109056
+Delta
+@jetblue Vegas desk said JFK connect would b held 4 us and 26 others on our plane now staff at JFK says weather was problem. #epicfail
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 21:25:28 -0800
+location: nan

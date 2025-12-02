@@ -1,0 +1,7 @@
+569929677571166208
+Delta
+Do less please @JetBlue
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 10:39:58 -0800
+location: DMV/CLE

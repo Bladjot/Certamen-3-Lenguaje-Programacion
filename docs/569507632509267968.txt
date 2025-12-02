@@ -1,0 +1,7 @@
+569507632509267968
+US Airways
+@USAirways  but have to return car to clt can I skip my flgjt back tonight from gso to clt and pick up at clt to fll I was told yes
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 06:42:55 -0800
+location: south beach/ LA / NC

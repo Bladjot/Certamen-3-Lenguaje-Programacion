@@ -1,0 +1,7 @@
+568945958970531840
+Virgin America
+@VirginAmerica requested window seat and confirmed window but got stuck in middle seat. Not a good way to treat silver member😒
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 17:31:01 -0800
+location: Los Angeles, CA

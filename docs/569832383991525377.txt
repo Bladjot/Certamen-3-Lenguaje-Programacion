@@ -1,0 +1,7 @@
+569832383991525377
+American
+@AmericanAir , I was told my flights 2516 &amp; 2244 was Cancelled Flightled. But I don't seem to have any date/time changes. I've been waiting for a call
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 04:13:21 -0800
+location: nan

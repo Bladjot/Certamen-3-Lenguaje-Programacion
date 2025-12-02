@@ -1,0 +1,7 @@
+569272209887404032
+US Airways
+@USAirways If I am traveling with an infant in my lap, is there anything I need to do to notify you?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 15:07:26 -0800
+location: connecticut

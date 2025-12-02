@@ -1,0 +1,7 @@
+570054574389788672
+United
+@united Calls to 800# resulted in 2hrs of hold time &amp; 2day wait to check suspect code share fare. Nothing investigated—my time wasted (2/2)
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 18:56:16 -0800
+location: Brooklyn, NY

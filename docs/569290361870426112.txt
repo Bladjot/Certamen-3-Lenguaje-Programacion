@@ -1,0 +1,7 @@
+569290361870426112
+Virgin America
+@VirginAmerica Just DM'd. Same issue persisting.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 16:19:33 -0800
+location: Washington, DC

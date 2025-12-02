@@ -1,0 +1,7 @@
+569579575291875328
+United
+@united is by far the worst airline ever 😡😡
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 11:28:47 -0800
+location: nan

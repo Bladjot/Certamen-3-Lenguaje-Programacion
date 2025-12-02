@@ -1,0 +1,7 @@
+568165395279929344
+Delta
+@JetBlue keeps asking me to enter a valid email address. My info is saved and has worked hundreds of times before
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 13:49:20 -0800
+location: nan

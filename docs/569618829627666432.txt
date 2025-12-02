@@ -1,0 +1,7 @@
+569618829627666432
+United
+@united I have to go back home! I have to use what the company has available. But it's unfair to stay more than 24 h traveling
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 14:04:46 -0800
+location: nan

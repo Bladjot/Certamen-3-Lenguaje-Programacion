@@ -1,0 +1,7 @@
+569867211852156928
+American
+@AmericanAir Thanks that was done, I just don't understand why those whose bags couldn't fit aren't notified in air/at landing #technology
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 06:31:45 -0800
+location: nan

@@ -1,0 +1,7 @@
+569165556722503681
+Southwest
+@SouthwestAir finally through thx
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 08:03:37 -0800
+location: nan

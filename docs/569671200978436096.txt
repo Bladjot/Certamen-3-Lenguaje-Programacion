@@ -1,0 +1,7 @@
+569671200978436096
+Southwest
+@SouthwestAir staff was overall awful through multiple airports would have switched airlines if another flight was available
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 17:32:52 -0800
+location: nan

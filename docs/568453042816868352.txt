@@ -1,0 +1,8 @@
+568453042816868352
+Southwest
+@SouthwestAir adding direct flights from #Columbus to #Oakland, @BostonLogan 
+http://t.co/p8Vcz4XTHM via @DispatchAlerts
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 08:52:21 -0800
+location: nan

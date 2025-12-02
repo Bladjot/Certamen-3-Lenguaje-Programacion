@@ -1,0 +1,7 @@
+568945176401457153
+Southwest
+@SouthwestAir is that the same reliable system couldn't find my info and then said it refund my credit card ?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 17:27:55 -0800
+location: nan

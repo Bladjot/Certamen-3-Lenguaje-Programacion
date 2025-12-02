@@ -1,0 +1,7 @@
+568379591569629185
+Delta
+@JetBlue good morning sunshine! #TailfinThursday http://t.co/Nc0ES6e4Lf
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 04:00:29 -0800
+location: the friendly skies

@@ -1,0 +1,7 @@
+569983511609757696
+Southwest
+@SouthwestAir no fare giving out clues.  In route now.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:13:53 -0800
+location: nan

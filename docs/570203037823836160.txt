@@ -1,0 +1,7 @@
+570203037823836160
+US Airways
+@USAirways @united two broken airplanes, two days Late Flightr and I'm stranded after a funeral and missing out on my last semester of #college. 👍
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 04:46:12 -0800
+location: Carmen SanDiego

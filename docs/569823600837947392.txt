@@ -1,0 +1,7 @@
+569823600837947392
+American
+@AmericanAir is flight 2413 to LA delayed?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 03:38:27 -0800
+location: nan

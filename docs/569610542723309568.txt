@@ -1,0 +1,7 @@
+569610542723309568
+US Airways
+@USAirways I tried reaching out to you guys I'm running out time and patience I just want my flight to be honor and I want a confirmation!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 13:31:50 -0800
+location: nan

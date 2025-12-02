@@ -1,0 +1,7 @@
+568937199145783297
+Southwest
+@SouthwestAir  traveling 2bwi nMaryland 2morrw any chance the flight being Cancelled Flightled to inclement weather? Any chance can get earlier flight
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 16:56:13 -0800
+location: nan

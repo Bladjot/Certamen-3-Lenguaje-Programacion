@@ -1,0 +1,7 @@
+569935639539425280
+US Airways
+@USAirways site shows on-time but FlightAware site shows delayed. Trying to decide if I get out in this ice to catch FLT 456 to PHX.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 11:03:40 -0800
+location: Houston TX

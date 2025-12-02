@@ -1,0 +1,7 @@
+568132204712370178
+Virgin America
+@VirginAmerica When will VX use all 6 LGA slots instead of 4 today? Adding AUS makes this less likely :(
+sentiment: negative
+negativereason: longlines
+created: 2015-02-18 11:37:27 -0800
+location: Washington, D.C.

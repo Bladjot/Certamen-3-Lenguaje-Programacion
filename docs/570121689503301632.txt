@@ -1,0 +1,7 @@
+570121689503301632
+American
+@AmericanAir @emxlyy "The wheel was broken when we got it. We swear."
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 23:22:57 -0800
+location: nan

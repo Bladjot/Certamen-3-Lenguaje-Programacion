@@ -1,0 +1,7 @@
+569890152832749568
+US Airways
+@USAirways or how about power outlets at your seat if you're gonna keep us siting here forever?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 08:02:55 -0800
+location: Washington, DC

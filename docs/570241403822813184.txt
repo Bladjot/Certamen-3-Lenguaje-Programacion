@@ -1,0 +1,7 @@
+570241403822813184
+Southwest
+@SouthwestAir An Oscar-worthy entrance into LA. http://t.co/10tmtHVFDC
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 07:18:39 -0800
+location: Austin, TX

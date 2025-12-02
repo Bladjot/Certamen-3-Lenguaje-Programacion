@@ -1,0 +1,7 @@
+569859218058162176
+American
+@AmericanAir is there any way you could put me up in a hotel for the night?? If not I'm having to sleep at the airport again tonight.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 05:59:59 -0800
+location: nan

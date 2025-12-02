@@ -1,0 +1,7 @@
+570144025451339776
+United
+@united how we looking on getting those bags to Lusaka
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 00:51:43 -0800
+location: mentor, Ohio

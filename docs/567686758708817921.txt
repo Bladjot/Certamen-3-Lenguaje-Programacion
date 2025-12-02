@@ -1,0 +1,7 @@
+567686758708817921
+Southwest
+@SouthwestAir Is it a temporary site glitch or are you no longer offering flights from GRR to GEG after Feb? Can't find any online :(
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 06:07:25 -0800
+location: Michigan

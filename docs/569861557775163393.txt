@@ -1,0 +1,7 @@
+569861557775163393
+Delta
+@JetBlue How can I best track deals and special flight offers? I'm liking your international options...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 06:09:17 -0800
+location: Washington DC

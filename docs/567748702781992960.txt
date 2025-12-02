@@ -1,0 +1,7 @@
+567748702781992960
+Southwest
+@SouthwestAir worst customer service, Terrible attitudes. I don't care how big a storm.  Your employees need an attitude adjustment
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 10:13:33 -0800
+location: Las Vegas, NV

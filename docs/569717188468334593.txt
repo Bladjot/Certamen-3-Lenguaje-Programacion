@@ -1,0 +1,7 @@
+569717188468334593
+US Airways
+@USAirways @AmericanAir have been trying to call customer service since 9pm. After an hour, was disconnected. Spoke to no one
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:35:37 -0800
+location: Philadelphia, PA

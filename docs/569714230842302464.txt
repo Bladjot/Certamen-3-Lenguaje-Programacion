@@ -1,0 +1,7 @@
+569714230842302464
+American
+@AmericanAir but at least your automated message gives me info about your merger w/ @USAirways. Another airline I know to avoid.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:23:52 -0800
+location: Arlington, VA

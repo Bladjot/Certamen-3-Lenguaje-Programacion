@@ -1,0 +1,7 @@
+567894187900710912
+United
+@united Great, thank you!! I'll send it now.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 19:51:40 -0800
+location: Bellingham, WA

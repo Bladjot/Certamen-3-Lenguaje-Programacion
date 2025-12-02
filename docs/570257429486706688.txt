@@ -1,0 +1,7 @@
+570257429486706688
+American
+@AmericanAir @USAirways if this is how your merger is going to go, you fail! Huge probls w/comm on DFW storm. Cxld rtrn flts. NOT COOL!!!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 08:22:20 -0800
+location: north carolina

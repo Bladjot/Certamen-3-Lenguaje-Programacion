@@ -1,0 +1,7 @@
+569295556729823232
+United
+@united how come a $27 shuttle bus from LGA to EWR has electrical power outlets but our new Airbus interiors do not? #whyjeff?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 16:40:12 -0800
+location: nan

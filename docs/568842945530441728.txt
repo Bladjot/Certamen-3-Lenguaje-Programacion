@@ -1,0 +1,7 @@
+568842945530441728
+US Airways
+@USAirways I have been in contact with 3 people and still no answers. You keep sending me to @Expedia and they keep sending me to you!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 10:41:41 -0800
+location: nan

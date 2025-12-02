@@ -1,0 +1,7 @@
+568828064152424448
+United
+@united boarded 6373 on time, deplaned, and now 100 minutes delay. No transparency during. Can't wait to give up my gold status for AA.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 09:42:33 -0800
+location: Bay Area

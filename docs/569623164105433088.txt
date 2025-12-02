@@ -1,0 +1,7 @@
+569623164105433088
+US Airways
+@USAirways @AmericanAir @GMA could not have had a worse airline experience. Rude, unhelpful, got yelled at😳. @JetBlue need your help
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 14:22:00 -0800
+location: NY

@@ -1,0 +1,7 @@
+569684982366666752
+Southwest
+@SouthwestAir Don't apologize. Do something about it. Words mean nothing. Actions work. EOM.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 18:27:38 -0800
+location: North New Jersey

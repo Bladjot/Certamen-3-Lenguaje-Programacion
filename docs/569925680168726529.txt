@@ -1,0 +1,8 @@
+569925680168726529
+American
+@AmericanAir will award me 50,000 air miles!!! Yes I am going to take a vacation! 
+#thanksamericanairlines
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:24:05 -0800
+location: Los Angeles

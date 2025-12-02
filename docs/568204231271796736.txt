@@ -1,0 +1,7 @@
+568204231271796736
+United
+@united landing in anchorage, then on our way to fairbanks! http://t.co/FjkvQMbmaS
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 16:23:40 -0800
+location: Staten Island, NY

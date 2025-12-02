@@ -1,0 +1,7 @@
+567590027375702016
+Delta
+@JetBlue is REALLY getting on my nerves !! 😡😡 #nothappy
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-16 23:43:02 -0800
+location: undecided

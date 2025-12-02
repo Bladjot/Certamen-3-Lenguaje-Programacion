@@ -1,0 +1,7 @@
+569825133705216001
+US Airways
+@USAirways the only time I tweet is to tell you how horrible you're attendants are. Flight 3841 to LGA. I feel in jail
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 03:44:33 -0800
+location: nan

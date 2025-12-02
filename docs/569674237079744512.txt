@@ -1,0 +1,7 @@
+569674237079744512
+American
+@AmericanAir my #Navy sisters flight 2470 cancld. She can't get an agent. They've called her back to be put on hold &amp; then discnct.Any help?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 17:44:56 -0800
+location: Dallas

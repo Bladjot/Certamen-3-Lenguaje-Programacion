@@ -1,0 +1,7 @@
+569910335353851904
+US Airways
+@USAirways Hi, can you attach my AA FF# 94LXA62 to reservation E2KVM4. Thansk!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 09:23:07 -0800
+location: New York, NY

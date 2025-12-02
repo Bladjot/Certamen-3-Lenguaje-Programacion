@@ -1,0 +1,7 @@
+569271529386745856
+Southwest
+@SouthwestAir well I'm not sure what there is you can do.  The bad experience had already been had
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 15:04:43 -0800
+location: nan

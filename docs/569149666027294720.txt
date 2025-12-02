@@ -1,0 +1,7 @@
+569149666027294720
+United
+@united Hi have a question re future Flight Booking Problems. DUB-JAC 29/9 JAC-LAX 8/10 LAX-DUB 13/10. I'm *G. What is checked bag allowance for JAC-LAX?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 07:00:29 -0800
+location: nan

@@ -1,0 +1,7 @@
+567827255088390144
+Southwest
+@SouthwestAir I'm concerned that you will Cancelled Flight my flight out of BNA tomorrow am. Should I be?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 15:25:41 -0800
+location: nan

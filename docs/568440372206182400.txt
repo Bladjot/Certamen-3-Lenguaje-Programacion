@@ -1,0 +1,7 @@
+568440372206182400
+Delta
+@JetBlue - He Cancelled Flightled a flight &amp; was given 2 weeks to apply travel bank credit to another flight &amp; credit was transferable
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 08:02:00 -0800
+location: Washington, DC

@@ -1,0 +1,7 @@
+568905470502670336
+US Airways
+@usairways is there not a faster way to get me to Columbia Sc than making me stay in CLT over night after my delayed flight?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 14:50:08 -0800
+location: South Carolina

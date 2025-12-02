@@ -1,0 +1,7 @@
+570248035369820162
+Southwest
+@SouthwestAir: #VIPLiveintheVieyard - first time we tried to redeem pts for *anything*, it really did not go well. #disappointed
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 07:45:00 -0800
+location: nan

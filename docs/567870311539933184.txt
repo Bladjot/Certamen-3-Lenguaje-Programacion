@@ -1,0 +1,7 @@
+567870311539933184
+Southwest
+@SouthwestAir I was in Nashville and I had to drive 3 and a half hours to Memphis, but I made it as the plane was loading!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 18:16:47 -0800
+location: nan

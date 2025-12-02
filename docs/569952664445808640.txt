@@ -1,0 +1,7 @@
+569952664445808640
+Delta
+“@JetBlue: Our fleet's on fleek. http://t.co/RLWBJ80mA5” r u serious
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:11:19 -0800
+location: Union City, CA

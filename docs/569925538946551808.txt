@@ -1,0 +1,7 @@
+569925538946551808
+Delta
+Why? 😒 RT @JetBlue Our fleet's on fleek. http://t.co/I7Ut2ZvHCO
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 10:23:31 -0800
+location: KCMO - University of Missouri

@@ -1,0 +1,7 @@
+569745303794024448
+American
+@AmericanAir Flight #2390 delayed 14 hours!! No one at #AmericanAirlines counter can tell my husband that he will be on that flight! Help???
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 22:27:20 -0800
+location: Michigan

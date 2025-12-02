@@ -1,0 +1,7 @@
+568388625689235456
+US Airways
+@USAirways good ideas...she is traveling today...at airport.  Need to petition faa regarding silly 24 name change rule.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 04:36:23 -0800
+location: nan

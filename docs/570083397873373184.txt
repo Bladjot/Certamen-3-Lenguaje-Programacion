@@ -1,0 +1,7 @@
+570083397873373184
+United
+@united In ORD, waited 20 min after crew members left before gate items came. Flight attendant sarcastically said good luck and walked away.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 20:50:48 -0800
+location: nan

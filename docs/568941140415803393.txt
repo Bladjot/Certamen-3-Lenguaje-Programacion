@@ -1,0 +1,7 @@
+568941140415803393
+US Airways
+@USAirways @AmericanAir u are the worst airline ever figure out the merger #dontmakemegooutside
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 17:11:52 -0800
+location: Stamford, Ct

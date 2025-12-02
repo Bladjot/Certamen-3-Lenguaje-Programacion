@@ -1,0 +1,7 @@
+568526769373859841
+Southwest
+@SouthwestAir CEO Gary Kelly, "You all are absolutely my heroes!" #SouthwestRally #BWI #bestemployees #swaculture http://t.co/JTxyHQHfJJ
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 13:45:19 -0800
+location: Washington DC

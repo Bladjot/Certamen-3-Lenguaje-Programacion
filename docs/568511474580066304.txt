@@ -1,0 +1,7 @@
+568511474580066304
+Virgin America
+@VirginAmerica I am deeply disappointed that your birthday promo was not applied to a trip I booked mere days before I received the email
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 12:44:32 -0800
+location: LES, NYC

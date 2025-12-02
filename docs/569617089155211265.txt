@@ -1,0 +1,7 @@
+569617089155211265
+American
+@AmericanAir just downloaded the app for iPhone.  Notice drink coupon but nothing is displayed?  Getting ready to fly...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 13:57:51 -0800
+location: Chicago

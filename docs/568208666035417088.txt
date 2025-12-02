@@ -1,0 +1,7 @@
+568208666035417088
+Delta
+@JetBlue I have many allergies and want to know if I can bring an 8oz. bottle of Benadryl on the flight along with my 2 epipens?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 16:41:17 -0800
+location: LA & Boston

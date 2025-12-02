@@ -1,0 +1,7 @@
+569621527911485440
+American
+@AmericanAir your service is horrible. I can't get a straight answer from your ground agents.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:15:29 -0800
+location: Washington, DC

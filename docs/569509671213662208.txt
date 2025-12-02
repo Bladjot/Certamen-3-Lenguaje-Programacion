@@ -1,0 +1,7 @@
+569509671213662208
+US Airways
+@USAirways I did they are busy
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 06:51:01 -0800
+location: south beach/ LA / NC

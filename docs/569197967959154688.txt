@@ -1,0 +1,7 @@
+569197967959154688
+Virgin America
+@VirginAmerica sounds like fun !
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 10:12:25 -0800
+location: CALIFORNIA, USA

@@ -1,0 +1,7 @@
+569692064511692801
+American
+@AmericanAir finally made it to chicago - 13 hours Late Flight.  Did get a $12 food voucher for my wait.about $1per/hr. Never again. Good bye.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:55:47 -0800
+location: nan

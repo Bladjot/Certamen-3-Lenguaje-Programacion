@@ -1,0 +1,7 @@
+569558986665537537
+US Airways
+@USAirways quit being cheap and hire some call center employees. It shouldn't take half a day to call you
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 10:06:58 -0800
+location: San Francisco, CA

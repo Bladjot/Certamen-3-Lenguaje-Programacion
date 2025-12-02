@@ -1,0 +1,7 @@
+568832907525152769
+Southwest
+@SouthwestAir Flight to Nashville was Cancelled Flightled. How do we another flight? I've been trying to call &amp; cannot get a human
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 10:01:48 -0800
+location: Nashville, TN

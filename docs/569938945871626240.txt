@@ -1,0 +1,7 @@
+569938945871626240
+US Airways
+@usairways hi. You lost my father's wheelchair. Every time we call we just get voicemail. My dad needs it to go home. Please DM me.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 11:16:48 -0800
+location: nan

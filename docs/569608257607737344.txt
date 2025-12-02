@@ -1,0 +1,7 @@
+569608257607737344
+American
+.@AmericanAir Also, not the reservations team's fault. Bad top-down decision. I feel bad for the reservations AND social media teams.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:22:46 -0800
+location: Ocean Ridge, FL

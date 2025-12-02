@@ -1,0 +1,7 @@
+570224968417603584
+American
+@AmericanAir thanks for getting back to me. how frequently are these weather advisories updated throughout the day?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 06:13:21 -0800
+location: usa::fr::uk

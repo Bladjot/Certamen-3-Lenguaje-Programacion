@@ -1,0 +1,7 @@
+569714003653431296
+American
+@AmericanAir done. I hope you can offer something.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 20:22:57 -0800
+location: North Hollywood

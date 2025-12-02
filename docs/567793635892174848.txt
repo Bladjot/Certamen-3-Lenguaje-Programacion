@@ -1,0 +1,7 @@
+567793635892174848
+Southwest
+@SouthwestAir MCO-&gt;DCA flight almost full of people screwed by the MSY-DCA Cancelled Flightation. @united and @USAirways didn't Cancelled Flight. SWA=mistake.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 13:12:06 -0800
+location: D.C.

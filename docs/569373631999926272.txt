@@ -1,0 +1,7 @@
+569373631999926272
+US Airways
+@USAirways still waiting on your reps to show. Now 40 mins into waiting in below freezing weather waiting for a cab.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 21:50:26 -0800
+location: nan

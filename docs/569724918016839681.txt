@@ -1,0 +1,7 @@
+569724918016839681
+American
+@AmericanAir Get a new crystal ball. Cancelled Flight flights before weather hits to rebook me on flight during? Looking like 2 nights hotel on me.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 21:06:20 -0800
+location: nan

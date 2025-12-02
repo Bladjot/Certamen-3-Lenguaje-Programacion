@@ -1,0 +1,7 @@
+568139299021041664
+Southwest
+@SouthwestAir bad weather and multiple Cancelled Flighted flights has us all scared!  Noted for next time.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 12:05:39 -0800
+location: nan

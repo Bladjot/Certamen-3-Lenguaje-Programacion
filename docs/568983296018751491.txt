@@ -1,0 +1,7 @@
+568983296018751491
+United
+@United has time to respond to everyone else's complaints but not mine. You just lost a customer
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 19:59:23 -0800
+location: Ho-Flo/Columbus/NYC

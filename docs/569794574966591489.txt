@@ -1,0 +1,7 @@
+569794574966591489
+American
+@AmericanAir hey I got a call saying our flight was rescheduled but I can't get through to anyone to see if you're providing a hotel for the
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 01:43:07 -0800
+location: San Diego

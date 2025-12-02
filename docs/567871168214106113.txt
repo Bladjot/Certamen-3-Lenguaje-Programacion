@@ -1,0 +1,7 @@
+567871168214106113
+US Airways
+@USAirways Your whole handling of this was a joke.Boston Logan had one little old lady,ONE handling all the customers http://t.co/DH2rfUIJYP
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 18:20:11 -0800
+location: nan

@@ -1,0 +1,7 @@
+567695310860730369
+Delta
+@JetBlue sitting on the plane in JFK waiting to take off doors are open catering is stocking up we are delayed but they couldn't be nicer
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 06:41:24 -0800
+location: nan

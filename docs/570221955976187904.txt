@@ -1,0 +1,7 @@
+570221955976187904
+American
+@AmericanAir @USAirways Yes, obviously! It just stinks that 4pm is the one option when she was supposed to fly at 7AM YESTERDAY.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 06:01:23 -0800
+location: East Coast/New England

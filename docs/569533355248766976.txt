@@ -1,0 +1,7 @@
+569533355248766976
+Delta
+@JetBlue BOS. Everything current now. Thanks for the follow up
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 08:25:07 -0800
+location: The Old Dominion

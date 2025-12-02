@@ -1,0 +1,7 @@
+569215950597201921
+Southwest
+@SouthwestAir How to I rebook on-line when it keeps telling me that it's a reserv number for a past date (this morning)? Holding for 2hrs.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 11:23:52 -0800
+location: St. Louis, Missouri USA

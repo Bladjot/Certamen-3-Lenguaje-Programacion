@@ -1,0 +1,7 @@
+570271064141352960
+United
+@united I flew United last month and the experience was AWESOME!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 09:16:31 -0800
+location: nan

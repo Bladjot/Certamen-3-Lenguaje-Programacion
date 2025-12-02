@@ -1,0 +1,7 @@
+568170119664443393
+US Airways
+@USAirways #USAirways So my flight was Late Flight getting into charlotte so i miss my connector to Phoenix thanks again last time I EVER FLY USAIR
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 14:08:07 -0800
+location: US

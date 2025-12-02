@@ -1,0 +1,7 @@
+569244860286263297
+Virgin America
+@VirginAmerica why Cancelled Flight flights today? No precipitation to be scared of!  ❄️❄️❄️
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 13:18:45 -0800
+location: FREE ADVICE!

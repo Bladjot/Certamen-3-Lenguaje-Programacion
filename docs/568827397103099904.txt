@@ -1,0 +1,7 @@
+568827397103099904
+Delta
+@JetBlue dont really know what that means but this isnt the best first-time-flying-w-a-16mo old experience. likelihood of addtl delays 2nt?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 09:39:54 -0800
+location: Arlington, VA

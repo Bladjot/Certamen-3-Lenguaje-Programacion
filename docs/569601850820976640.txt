@@ -1,0 +1,7 @@
+569601850820976640
+Delta
+@JetBlue hey awesome peeps, what's up with flight 1159 from Boston? Delayed 3hrs?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 12:57:18 -0800
+location: Miami, FL

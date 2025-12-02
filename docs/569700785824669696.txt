@@ -1,0 +1,7 @@
+569700785824669696
+American
+@AmericanAir #AmericanView Sweet Home Chicago http://t.co/J6icLV8DTs
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 19:30:26 -0800
+location: Windy City

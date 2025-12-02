@@ -1,0 +1,7 @@
+567889710129029121
+US Airways
+@USAirways Thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 19:33:52 -0800
+location: Washington, DC

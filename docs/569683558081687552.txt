@@ -1,0 +1,7 @@
+569683558081687552
+Delta
+@JetBlue hard when you're with your younger siblings and cousin and they just want to go on the airplane. We should get better than this
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 18:21:59 -0800
+location: nan

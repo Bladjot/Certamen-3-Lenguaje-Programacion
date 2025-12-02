@@ -1,0 +1,7 @@
+568174847450329088
+US Airways
+@USAirways it is just bad practice and I am disappointed that your airline was not prepared...honestly the last time I fly with you guys
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 14:26:54 -0800
+location: Lawrence, MA

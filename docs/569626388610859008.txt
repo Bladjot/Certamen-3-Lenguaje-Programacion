@@ -1,0 +1,7 @@
+569626388610859008
+American
+@AmericanAir I have been on hold 3 hours.  2 seconds of it with a rude agent.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:34:48 -0800
+location: nan

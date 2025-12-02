@@ -1,0 +1,7 @@
+569496169652428800
+US Airways
+@USAirways, if I rebook on another airline after my flight was Cancelled Flightled, do you reimburse? I need to get home today, not Tuesday.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 05:57:22 -0800
+location: nan

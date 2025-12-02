@@ -1,0 +1,7 @@
+569708269943418880
+American
+@AmericanAir you can't change my flights and not have enough operators to handle calls.... #unacceptable #AmericanAirlines
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:00:10 -0800
+location: South Florida

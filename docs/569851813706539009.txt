@@ -1,0 +1,7 @@
+569851813706539009
+Delta
+@JetBlue 2324 from Orlando to Dca ! And my awesome flight attendant is Robert!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 05:30:34 -0800
+location: nan

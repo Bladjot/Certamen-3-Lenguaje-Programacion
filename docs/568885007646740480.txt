@@ -1,0 +1,7 @@
+568885007646740480
+Southwest
+@SouthwestAir please please please http://t.co/xiJiFYmvqP
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 13:28:49 -0800
+location: Dodger Stadium | Disneyland

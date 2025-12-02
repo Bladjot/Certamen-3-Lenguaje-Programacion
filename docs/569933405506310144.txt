@@ -1,0 +1,7 @@
+569933405506310144
+Virgin America
+@VirginAmerica you're the best!! Whenever I (begrudgingly) use any other airline I'm delayed and Late Flight :(
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 10:54:47 -0800
+location: Los Angeles

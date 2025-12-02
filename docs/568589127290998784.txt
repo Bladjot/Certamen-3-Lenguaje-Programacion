@@ -1,0 +1,7 @@
+568589127290998784
+Delta
+@JetBlue I love your flights! But theres always some delay unfortunately
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 17:53:06 -0800
+location: ✈️FL/NJ/NYC

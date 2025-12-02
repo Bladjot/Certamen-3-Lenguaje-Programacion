@@ -1,0 +1,7 @@
+569629882323496961
+US Airways
+@USAirways flight 2031, worst experience we've ever had on a flight. Regretting opening their air miles card #hotterandlongerthanhell
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 14:48:41 -0800
+location: nan

@@ -1,0 +1,7 @@
+569976628220182529
+American
+@AmericanAir finally at final destination but not w/o extra significant travel expenses &amp; missed work. How can you resolve this experience?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 13:46:32 -0800
+location: Boston, MA - Scottsdale, AZ

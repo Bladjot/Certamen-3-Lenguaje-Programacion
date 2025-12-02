@@ -1,0 +1,7 @@
+570287318264905729
+US Airways
+@USAirways any travel advisory coming for the Carolinas?  Bad weather!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:21:06 -0800
+location: nan

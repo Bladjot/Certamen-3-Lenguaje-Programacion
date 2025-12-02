@@ -1,0 +1,7 @@
+569972508499283968
+Virgin America
+@VirginAmerica Congrats on winning the @Travelzoo award for Best Deals from an Airline (US) http://t.co/kj1iljaebV
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 13:30:10 -0800
+location: New York, NY

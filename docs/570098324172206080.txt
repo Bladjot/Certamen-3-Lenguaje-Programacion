@@ -1,0 +1,7 @@
+570098324172206080
+Southwest
+@SouthwestAir I love this airline so much! Thanks so much! The service is great! The snacks are amazing! Everything is outstanding thanks!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 21:50:07 -0800
+location: nan

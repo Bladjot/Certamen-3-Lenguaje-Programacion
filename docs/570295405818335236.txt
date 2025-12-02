@@ -1,0 +1,7 @@
+570295405818335236
+US Airways
+@USAirways I forgot my password and I don't know if my username is correct, and i want to use my miles, what i have to do??
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:53:14 -0800
+location: Facebook: BÚFALOS F.C.

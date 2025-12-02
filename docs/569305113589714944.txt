@@ -1,0 +1,7 @@
+569305113589714944
+Virgin America
+@VirginAmerica Having an issue finding a missing item on a plane. Can you help me find which airport my plane headed to next?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 17:18:10 -0800
+location: Chicago

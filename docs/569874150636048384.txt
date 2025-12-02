@@ -1,0 +1,7 @@
+569874150636048384
+Delta
+.@JetBlue That's what I planned on but Boston traffic due to recent weather was insane! If I had been expedited I would have made it.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 06:59:19 -0800
+location: Boston, MA

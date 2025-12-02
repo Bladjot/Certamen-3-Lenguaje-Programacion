@@ -1,0 +1,7 @@
+568585356586586113
+Southwest
+@SouthwestAir Jason (108639) at Gate #3 in SAN made my afternoon!!! #southwestairlines #stellarservice #thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 17:38:07 -0800
+location: nan

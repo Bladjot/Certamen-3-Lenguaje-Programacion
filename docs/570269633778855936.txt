@@ -1,0 +1,7 @@
+570269633778855936
+American
+@AmericanAir so you fail again flight to rdu sitting waiting on flight attendants. your logistics are not good
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 09:10:50 -0800
+location: nan

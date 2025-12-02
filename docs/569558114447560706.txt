@@ -1,0 +1,7 @@
+569558114447560706
+Delta
+@JetBlue Flight 1562 had a 4 1/2 hour weather delay, but what is the 45 minute delay in getting bags to tired passengers?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 10:03:31 -0800
+location: New York, New York

@@ -1,0 +1,7 @@
+568171015131394048
+Southwest
+@SouthwestAir So frustrated with my experience with #Southwest. 18 hours trapped in Denver bc of mechanical problems. #worstcustomerservice
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 14:11:40 -0800
+location: Orange County, CA

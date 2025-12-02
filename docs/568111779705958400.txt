@@ -1,0 +1,7 @@
+568111779705958400
+Southwest
+@SouthwestAir, a complete horror show. Flights bumped three times today, before noon, not how to run an airline. #cantblametheweather.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 10:16:17 -0800
+location: nan

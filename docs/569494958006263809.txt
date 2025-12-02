@@ -1,0 +1,7 @@
+569494958006263809
+Delta
+@JetBlue we need an ETA please
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 05:52:33 -0800
+location: nan

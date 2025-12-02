@@ -1,0 +1,7 @@
+570045914347237376
+American
+@AmericanAir you have a company policy that refuses employees to speak to other employees over the phone? Interesting
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 18:21:51 -0800
+location: nan

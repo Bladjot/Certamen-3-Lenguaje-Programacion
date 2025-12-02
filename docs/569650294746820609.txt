@@ -1,0 +1,7 @@
+569650294746820609
+Southwest
+@SouthwestAir I gave you one more try. Figured you could get a 1 hr flight right. Nope. Delayed an hr. Seems to be every time.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:09:48 -0800
+location: nan

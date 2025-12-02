@@ -1,0 +1,7 @@
+569541106112827393
+Southwest
+@SouthwestAir Also, will Southwest have any other specials like the one they are running now?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 08:55:55 -0800
+location: Newark, NJ

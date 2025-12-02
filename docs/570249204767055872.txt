@@ -1,0 +1,7 @@
+570249204767055872
+US Airways
+@USAirways So frustrating because I still have not gotten them back. Why my bag was sent to NY is a mystery!  Shame on me this time!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 07:49:39 -0800
+location: Dumfries, Virginia

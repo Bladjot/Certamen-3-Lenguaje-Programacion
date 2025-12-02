@@ -1,0 +1,7 @@
+568468959663489025
+United
+@United  great way to start my vacation with an on time departure! Looking forward to my global first class suite!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 09:55:36 -0800
+location: Tulsa, OK

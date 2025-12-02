@@ -1,0 +1,7 @@
+567997819560333313
+United
+@united Do you mean "fortunately"? I don't want my flight to be affected! 😉
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 02:43:27 -0800
+location: London, UK

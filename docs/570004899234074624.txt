@@ -1,0 +1,7 @@
+570004899234074624
+United
+@united cs thinks that miles can repair the damage done, it will be interesting if they travel in @united and exp the worst flight ever!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 15:38:52 -0800
+location: Santiago, Chile

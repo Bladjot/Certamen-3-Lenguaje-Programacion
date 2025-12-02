@@ -1,0 +1,7 @@
+569314643627413504
+US Airways
+@USAirways thank you!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 17:56:03 -0800
+location: Los Angeles

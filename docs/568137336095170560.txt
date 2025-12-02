@@ -1,0 +1,7 @@
+568137336095170560
+US Airways
+@USAirways: I experienced what defines customer service on #FLT1999. A flight attendant willing to follow up with a passenger on bag charges
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 11:57:51 -0800
+location: Dallas, TX

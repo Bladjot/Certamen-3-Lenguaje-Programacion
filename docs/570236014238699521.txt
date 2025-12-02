@@ -1,0 +1,7 @@
+570236014238699521
+United
+@united By the way, a simple apology goes a long way, even if it's a hollow one. It's obvious that you don't care about me or my well-being,
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 06:57:14 -0800
+location: Seattle

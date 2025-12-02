@@ -1,0 +1,7 @@
+568583737417605122
+Delta
+@JetBlue safety first !! #lovejetblue
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 17:31:41 -0800
+location: MA

@@ -1,0 +1,7 @@
+570004519679074304
+American
+@AmericanAir no kidding! Gonna take some beating on the apron... And there are some good lookin' planes out there!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 15:37:22 -0800
+location: Somewhere on Tyneside

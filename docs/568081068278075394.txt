@@ -1,0 +1,7 @@
+568081068278075394
+Delta
+@JetBlue can I get some more leg room tonight B6 304
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 08:14:15 -0800
+location: nan

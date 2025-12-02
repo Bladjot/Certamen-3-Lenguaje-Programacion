@@ -1,0 +1,7 @@
+567874892634304512
+Southwest
+@SouthwestAir all good now. Going to make it to Boston on time. I'm actually on your wifi right now
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 18:34:59 -0800
+location: Boston

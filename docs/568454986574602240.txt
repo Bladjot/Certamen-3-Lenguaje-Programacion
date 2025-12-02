@@ -1,0 +1,7 @@
+568454986574602240
+Southwest
+@SouthwestAir Again, please accept my apologies for my lame, childish tweet. You didn't deserve that, &amp; I remain a LOYAL SW customer!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 09:00:04 -0800
+location: nan

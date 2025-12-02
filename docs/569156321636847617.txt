@@ -1,0 +1,7 @@
+569156321636847617
+Delta
+@JetBlue if you want to fly in a storm that's your right. But give us the choice. We have kids and don't want to chance it. #nixchangefees
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 07:26:56 -0800
+location: nan

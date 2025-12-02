@@ -1,0 +1,7 @@
+568977696786673664
+United
+“@united: @leigh_emery We don't like to hear this. Is there anything we can help with? Thanks. ^EY” another empty offer for help.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 19:37:08 -0800
+location: Hoboken, NJ

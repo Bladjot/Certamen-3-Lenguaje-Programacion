@@ -1,0 +1,7 @@
+570050603927392257
+American
+@AmericanAir thanks to your attendant on flight for advising connect flight held.  Ran with kids and flight departed. Poor service at Miami
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 18:40:29 -0800
+location: nan

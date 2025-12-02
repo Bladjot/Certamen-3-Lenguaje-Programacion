@@ -1,0 +1,7 @@
+569357497871437824
+United
+@united I hope your corporate office is ready to deal with the rage created by your shitty service and bullshit pilots. #UnitedAirlinesSucks
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 20:46:20 -0800
+location: nan

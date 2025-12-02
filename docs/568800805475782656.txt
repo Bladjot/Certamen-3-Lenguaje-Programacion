@@ -1,0 +1,7 @@
+568800805475782656
+Virgin America
+@VirginAmerica is saving my sanity right now: http://t.co/ELtBOLjUl9
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 07:54:14 -0800
+location: New York City

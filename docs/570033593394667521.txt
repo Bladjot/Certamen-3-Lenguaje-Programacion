@@ -1,0 +1,7 @@
+570033593394667521
+Virgin America
+@VirginAmerica View of downtown Los Angeles, the Hollywood Sign, and beyond that rain in the mountains! http://t.co/Dw5nf0ibtr
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 17:32:54 -0800
+location: nan

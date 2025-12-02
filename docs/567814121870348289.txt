@@ -1,0 +1,7 @@
+567814121870348289
+United
+@united just tried to log in and was told e-mail log in not currently available
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 14:33:30 -0800
+location: North West of England

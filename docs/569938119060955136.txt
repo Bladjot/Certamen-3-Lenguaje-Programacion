@@ -1,0 +1,7 @@
+569938119060955136
+US Airways
+@USAirways seriously buy some WD40 for A319 operating flight 634 from GEG to Phoenix. Every seat squeaks w every shift. Still on ground!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 11:13:31 -0800
+location: Spokane, Washington

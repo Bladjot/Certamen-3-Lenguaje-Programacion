@@ -1,0 +1,7 @@
+568455524599132160
+US Airways
+@USAirways 657. My daughter Candice and I are together with her baby.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 09:02:13 -0800
+location: nan

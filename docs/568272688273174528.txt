@@ -1,0 +1,7 @@
+568272688273174528
+United
+@united @staralliance the B gates are very far though
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 20:55:41 -0800
+location: nan

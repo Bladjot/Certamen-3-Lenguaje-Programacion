@@ -1,0 +1,7 @@
+569590988395708416
+American
+@AmericanAir I love your company and your staff is amazing. They just made an uncomfortable situation comfortable
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 12:14:08 -0800
+location: nan

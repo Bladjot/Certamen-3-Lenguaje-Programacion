@@ -1,0 +1,7 @@
+568862460519813120
+Southwest
+@SouthwestAir Was going for the weekend for friend's birthday, so no point in reFlight Booking Problems.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 11:59:14 -0800
+location: Chicago

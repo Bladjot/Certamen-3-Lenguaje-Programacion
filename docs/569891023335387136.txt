@@ -1,0 +1,7 @@
+569891023335387136
+American
+@AmericanAir flight delayed 3 times today due to flight officer. 4333 from pit to ord. 5 hour delay to date. #bademployeeproblem?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 08:06:22 -0800
+location: nan

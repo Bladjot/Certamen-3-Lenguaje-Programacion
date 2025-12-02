@@ -1,0 +1,7 @@
+567845681768968192
+Southwest
+@SouthwestAir I got it added thank you! :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 16:38:55 -0800
+location: SMALL TOWN, USA

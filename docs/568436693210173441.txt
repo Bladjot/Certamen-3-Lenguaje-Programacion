@@ -1,0 +1,7 @@
+568436693210173441
+Southwest
+@SouthwestAir is it possible to book a refundable trip? Willing to pay extra. This would be for a domestic round trip flight
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 07:47:23 -0800
+location: Clearwater / Bethlehem

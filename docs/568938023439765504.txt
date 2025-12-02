@@ -1,0 +1,7 @@
+568938023439765504
+Southwest
+@SouthwestAir So the upcoming RR changes/Deval is trying to tell me not to fly southwest anymore because i am loyal so far. i get it.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 16:59:29 -0800
+location: nan

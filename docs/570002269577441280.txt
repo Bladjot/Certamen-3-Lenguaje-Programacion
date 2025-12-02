@@ -1,0 +1,7 @@
+570002269577441280
+American
+@AmericanAir a free check bag a food comp a flying credit something to help out now that I'm an additional 200 dollars in the hole
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 15:28:25 -0800
+location: new york city

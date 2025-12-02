@@ -1,0 +1,7 @@
+567792966690168832
+Delta
+@JetBlue why are we delayed :( flight 1601
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 13:09:26 -0800
+location: Long Island

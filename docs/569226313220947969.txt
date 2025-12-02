@@ -1,0 +1,7 @@
+569226313220947969
+United
+@united terrible travel experience. Traveled 8000 miles roundtrip but two Cancelled Flightlations of short hops cost me two days
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 12:05:03 -0800
+location: Pittsburgh

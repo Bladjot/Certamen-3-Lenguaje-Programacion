@@ -1,0 +1,7 @@
+567825886449250304
+Southwest
+@SouthwestAir All pieces were found and safely delivered to our home this afternoon.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 15:20:15 -0800
+location: Seattle area

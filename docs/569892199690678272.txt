@@ -1,0 +1,7 @@
+569892199690678272
+Virgin America
+@VirginAmerica why must a traveler miss a flight to Late Flight check a bag?  I missed my morning appointments and you lost my business. #sfo2lax
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 08:11:03 -0800
+location: nan

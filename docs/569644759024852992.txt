@@ -1,0 +1,7 @@
+569644759024852992
+American
+@AmericanAir @dfwairport got rebooked through the AA online app.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:47:48 -0800
+location: nan

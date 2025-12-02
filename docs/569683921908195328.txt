@@ -1,0 +1,7 @@
+569683921908195328
+American
+@AmericanAir its Adolfo Garcia
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:23:25 -0800
+location: waco, texas

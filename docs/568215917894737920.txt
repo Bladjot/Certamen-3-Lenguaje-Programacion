@@ -1,0 +1,7 @@
+568215917894737920
+US Airways
+@USAirways is there nothing that can be done online to help? i bought these as a birthday present, just trying to be able to afford a change
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 17:10:06 -0800
+location: San Francisco, CA

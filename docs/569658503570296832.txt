@@ -1,0 +1,7 @@
+569658503570296832
+United
+@united why doesn't my daughter, booked with my gold member miles, get on the upgrade list for her flight tomorrow?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:42:25 -0800
+location: Vancouver, WA

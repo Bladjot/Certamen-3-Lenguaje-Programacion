@@ -1,0 +1,7 @@
+569022042349051905
+Southwest
+@SouthwestAir absolutely required? Are the flights going to be 100% Cancelled Flighted?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 22:33:21 -0800
+location: Columbus, OH

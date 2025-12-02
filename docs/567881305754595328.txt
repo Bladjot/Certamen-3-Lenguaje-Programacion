@@ -1,0 +1,7 @@
+567881305754595328
+United
+@united so, I made it all the way to the airport, and they say they won’t fix the handle. I showed you this problem, and you said to go…?
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-17 19:00:28 -0800
+location: Washington DC

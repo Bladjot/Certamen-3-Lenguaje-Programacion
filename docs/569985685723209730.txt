@@ -1,0 +1,7 @@
+569985685723209730
+American
+@AmericanAir yep,filed a claim at Heathrow yesterday. We were promised a call this morning with an update, but got nothing.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 14:22:31 -0800
+location: London

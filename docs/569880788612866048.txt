@@ -1,0 +1,7 @@
+569880788612866048
+Southwest
+@SouthwestAir flight 1028 no delayed 1.5 hours.  Another week another delayed flight
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 07:25:42 -0800
+location: nan

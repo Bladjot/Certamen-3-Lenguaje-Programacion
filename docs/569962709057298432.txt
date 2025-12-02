@@ -1,0 +1,7 @@
+569962709057298432
+US Airways
+@USAirways - Huge props to Parizad at checkin in Sacramento for her help on Friday to get 3 of us home when other airlines were delayed
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 12:51:13 -0800
+location: nan

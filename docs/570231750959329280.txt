@@ -1,0 +1,7 @@
+570231750959329280
+Delta
+@JetBlue your blue helped bring out the color of my eyes. And I promise I didn't eat all the free snacks.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 06:40:18 -0800
+location: nan

@@ -1,0 +1,7 @@
+569644041857421312
+American
+@AmericanAir my travel for tomorrow was Cancelled Flightled and then stupidly rebooked for tomorrow! I can't get through to reservations!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 15:44:57 -0800
+location: Plano, Texas

@@ -1,0 +1,7 @@
+567848084572532736
+Delta
+@JetBlue understand that, but this policy of targeting your passengers is not good for business and should be addressed with security
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 16:48:28 -0800
+location: Dorado

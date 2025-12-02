@@ -1,0 +1,7 @@
+569572536834498560
+US Airways
+@USAirways now you just hang up on me. I’m starting to think this is personal!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 11:00:49 -0800
+location: 20001

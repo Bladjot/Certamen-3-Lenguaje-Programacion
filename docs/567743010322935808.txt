@@ -1,0 +1,7 @@
+567743010322935808
+Southwest
+@SouthwestAir Hi! Thanks! Do you have an exact link to that specific page on your site you can share - or is it under "Flight Status":? Thx!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:50:56 -0800
+location: Nashville, TN

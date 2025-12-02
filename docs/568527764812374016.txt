@@ -1,0 +1,7 @@
+568527764812374016
+Delta
+@JetBlue what is the Mosiac 800 #?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 13:49:16 -0800
+location: Plymouth,  MA

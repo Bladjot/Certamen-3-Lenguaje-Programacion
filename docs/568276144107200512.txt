@@ -1,0 +1,7 @@
+568276144107200512
+United
+@united Turkish Airlines rebooked us a United flight on our second leg from FRA -&gt; IAD. Is there any way to check if upgrades are available?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 21:09:25 -0800
+location: Washington D.C.

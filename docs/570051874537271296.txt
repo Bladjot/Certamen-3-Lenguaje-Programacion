@@ -1,0 +1,7 @@
+570051874537271296
+American
+@AmericanAir any idea why flight 5392 from HSV to DFW tomorrow Cancelled Flightled about 45 minutes ago?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 18:45:32 -0800
+location: ÜT: 34.658262,-86.479396

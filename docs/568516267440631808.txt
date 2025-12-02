@@ -1,0 +1,7 @@
+568516267440631808
+US Airways
+@USAirways yes.  Every one of these on every flight is like this.  There needs to be more Velcro or something
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 13:03:35 -0800
+location: Arizona

@@ -1,0 +1,7 @@
+569592236981284864
+United
+@united It was Cancelled Flightled, none of the passengers were notified. Complete violation of travelers' rights.  @AerocivilCol
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 12:19:06 -0800
+location: Phoneix, AZ

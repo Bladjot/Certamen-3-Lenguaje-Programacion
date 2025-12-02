@@ -1,0 +1,7 @@
+569884951207813122
+Delta
+@JetBlue will you Cancelled Flight tonight's 7 pm out of DFW to BOS? #weather
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:42:14 -0800
+location: Boston, MA / Stockbridge, MA

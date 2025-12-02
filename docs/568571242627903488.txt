@@ -1,0 +1,7 @@
+568571242627903488
+Southwest
+@SouthwestAir good to know. Perhaps it was execution then.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 16:42:02 -0800
+location: ÜT: 33.648576,-117.898653

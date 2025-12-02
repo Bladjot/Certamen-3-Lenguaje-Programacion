@@ -1,0 +1,7 @@
+568140724618686464
+Delta
+@JetBlue order @FARE (3/3)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 12:11:18 -0800
+location: Boston

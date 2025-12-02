@@ -1,0 +1,7 @@
+569911231705944064
+US Airways
+@USAirways @jhughes1025 grrrrrrrr. Couldn't book a flight via calling either :(
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:26:40 -0800
+location: Indianapolis

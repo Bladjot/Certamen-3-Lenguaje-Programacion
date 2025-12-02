@@ -1,0 +1,7 @@
+569039105775939584
+US Airways
+@USAirways I left something on a recent flight today. Who do I contact to retrieve it please? Thanks!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 23:41:09 -0800
+location: nan

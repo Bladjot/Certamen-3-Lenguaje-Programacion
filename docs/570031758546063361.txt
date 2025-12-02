@@ -1,0 +1,7 @@
+570031758546063361
+American
+@AmericanAir why did you drop my call. Why don't you have more people answering phones? Why is it always high call volume when I call
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 17:25:36 -0800
+location: Cleveland, OH

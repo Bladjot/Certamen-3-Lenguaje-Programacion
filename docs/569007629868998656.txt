@@ -1,0 +1,7 @@
+569007629868998656
+United
+@united very exasperating I'm having a difficult time with Flight Booking Problems as the error message says you're undergoing maintenance. Really, now?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 21:36:05 -0800
+location: Chicago, IL

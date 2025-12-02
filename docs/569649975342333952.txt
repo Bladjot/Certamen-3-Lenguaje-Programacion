@@ -1,0 +1,7 @@
+569649975342333952
+US Airways
+@USAirways when your routing system goes down which grounds all your long haul flights you should think about a #failover plan
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 16:08:32 -0800
+location: nan

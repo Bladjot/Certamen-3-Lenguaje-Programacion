@@ -1,0 +1,7 @@
+568096554638159872
+Southwest
+@SouthwestAir understand you can only do so much but often it seems like a quick request to the desk is all it takes no questions asked.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 09:15:48 -0800
+location: Cleveland, Ohio

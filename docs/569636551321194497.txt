@@ -1,0 +1,7 @@
+569636551321194497
+American
+@AmericanAir awesome! Thx
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 15:15:11 -0800
+location: Nashville TN

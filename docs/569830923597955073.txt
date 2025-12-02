@@ -1,0 +1,7 @@
+569830923597955073
+Delta
+@JetBlue Rats, that's a bummer!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 04:07:33 -0800
+location: nan

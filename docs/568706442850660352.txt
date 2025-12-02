@@ -1,0 +1,7 @@
+568706442850660352
+US Airways
+@USAirways this response doesn't correct the fact that your pilot failed to keep passengers updated
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 01:39:16 -0800
+location: ÜT: 39.855018,-75.360949

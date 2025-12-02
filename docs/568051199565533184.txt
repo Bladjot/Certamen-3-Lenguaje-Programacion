@@ -1,0 +1,7 @@
+568051199565533184
+Delta
+@JetBlue all taken care of .... Other then the dropped call and the total half hour wait #love #jetblue
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 06:15:34 -0800
+location: Merrick

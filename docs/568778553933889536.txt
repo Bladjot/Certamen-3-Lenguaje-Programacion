@@ -1,0 +1,7 @@
+568778553933889536
+Delta
+@JetBlue are there any food places open at the JFK T5 24//?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 06:25:49 -0800
+location: Germany

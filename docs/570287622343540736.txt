@@ -1,0 +1,7 @@
+570287622343540736
+Delta
+@JetBlue awesome, thanks! on hold now.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 10:22:19 -0800
+location: Boston, MA

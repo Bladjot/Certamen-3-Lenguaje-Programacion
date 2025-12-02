@@ -1,0 +1,7 @@
+569621367806664705
+American
+@AmericanAir why was my flight from Miami to Dallas Monday  rescheduled to Tuesday?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 14:14:51 -0800
+location: waco, texas

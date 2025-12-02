@@ -1,0 +1,7 @@
+568128904260685824
+US Airways
+@usairways would it kill you to let me put my tsaprecheck number on my reservation?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 11:24:20 -0800
+location: okinawa, japan

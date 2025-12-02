@@ -1,0 +1,7 @@
+568848068977799168
+Southwest
+@SouthwestAir now accepting #Apple's Passbook app for boarding passes. App works on #iPhone &amp; #iPodTouch, not #iPad. http://t.co/XxSaomBdGS
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 11:02:02 -0800
+location: Liverpool, NY

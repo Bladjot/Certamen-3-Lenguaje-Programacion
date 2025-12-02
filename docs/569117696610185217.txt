@@ -1,0 +1,7 @@
+569117696610185217
+United
+@united coupled with self-service policies/cost cutting exacerbates the noted issues. (3/3)
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 04:53:27 -0800
+location: nan

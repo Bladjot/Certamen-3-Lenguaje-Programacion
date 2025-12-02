@@ -1,0 +1,7 @@
+567762071258152960
+Virgin America
+@VirginAmerica you guys are perfect as always! &lt;3 #WeRVirgin
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 11:06:40 -0800
+location: next city

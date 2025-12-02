@@ -1,0 +1,7 @@
+568624462863720448
+US Airways
+@USAirways doesn't want me to get home
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 20:13:31 -0800
+location: nan

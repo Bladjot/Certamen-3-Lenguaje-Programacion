@@ -1,0 +1,7 @@
+569959393917149189
+US Airways
+@USAirways our flight was rebooked with you and we want to change our seats or upgrade to 1st class. Can you help? Phones are down.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 12:38:03 -0800
+location: Philadelphia, PA

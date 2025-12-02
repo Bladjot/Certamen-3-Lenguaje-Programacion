@@ -1,0 +1,7 @@
+569247394002563072
+Virgin America
+@VirginAmerica flight 404 delayed 2 hours in LA due to mechanical problems. Handle like pros but you could have tossed us a free drink.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 13:28:49 -0800
+location: CT

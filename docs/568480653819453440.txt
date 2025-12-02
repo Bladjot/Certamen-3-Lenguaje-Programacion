@@ -1,0 +1,7 @@
+568480653819453440
+Southwest
+@SouthwestAir What's with the pricing cache?! About to book a flight, refreshed the page, &amp; the price jumped from $73 to $159. Ridiculous. 😑
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 10:42:04 -0800
+location: San Jose, CA

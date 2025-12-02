@@ -1,0 +1,7 @@
+568809369678315521
+US Airways
+@USAirways Cancelled Flightled flight, 50 person line and one agent helping to rebook. You could've handed this one better. http://t.co/By3vDioSUA
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 08:28:16 -0800
+location: Washington D.C.

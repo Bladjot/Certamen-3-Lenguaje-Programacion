@@ -1,0 +1,7 @@
+570001191796678656
+Delta
+@JetBlue Well, thankfully they've got a nice food court here...When will an update be posted?
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 15:24:08 -0800
+location: Los Angeles, CA

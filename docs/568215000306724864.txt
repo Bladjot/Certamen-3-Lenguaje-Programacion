@@ -1,0 +1,7 @@
+568215000306724864
+United
+@united yes, you can. I will DM.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 17:06:27 -0800
+location: St. Louis, MO for now

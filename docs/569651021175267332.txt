@@ -1,0 +1,7 @@
+569651021175267332
+American
+@AmericanAir AA agent said I repeated myself when I was explaining. I told him "I understand English." His reply?"Our conversation is over."
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:12:41 -0800
+location: Cambridge, MA

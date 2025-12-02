@@ -1,0 +1,7 @@
+568173309747048448
+Delta
+@JetBlue What a great idea! #cometoAustin
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 14:20:47 -0800
+location: Austin, Texas

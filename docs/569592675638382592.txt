@@ -1,0 +1,7 @@
+569592675638382592
+Delta
+@JetBlue What's up with delays to and from Boston today? My sister is trying to go home, and bro-in-law trying to come to RDU. Craziness!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 12:20:51 -0800
+location: nan

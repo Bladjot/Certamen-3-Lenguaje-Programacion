@@ -1,0 +1,7 @@
+569787232292245504
+American
+@AmericanAir flight 45 JFK-LAS. First the catering was Late Flight, the. No push back crew. 2hrs delay.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 01:13:56 -0800
+location: New York City

@@ -1,0 +1,7 @@
+568953190252544000
+Southwest
+@SouthwestAir first time flying with you. You've definitely won me over!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 17:59:45 -0800
+location: Douglaston, NY

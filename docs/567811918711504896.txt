@@ -1,0 +1,7 @@
+567811918711504896
+US Airways
+@USAirways I will be traveling from LAX to CLT to HTS, I have been rebooked for tomorrow due to the travel advisory.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:24:45 -0800
+location: Miss California United States

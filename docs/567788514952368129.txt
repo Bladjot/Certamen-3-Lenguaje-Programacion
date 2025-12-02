@@ -1,0 +1,7 @@
+567788514952368129
+Southwest
+@SouthwestAir Thank you for the vouchers after the long wait on the runway Saturday night at BWI! I really appreciate it! #SWfan
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 12:51:45 -0800
+location: East Coast

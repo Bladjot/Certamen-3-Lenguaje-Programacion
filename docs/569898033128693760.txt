@@ -1,0 +1,7 @@
+569898033128693760
+Southwest
+@SouthwestAir : thanks.are flights operating now or Cancelled Flightled?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 08:34:13 -0800
+location: nan

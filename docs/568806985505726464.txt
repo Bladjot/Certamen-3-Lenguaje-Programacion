@@ -1,0 +1,7 @@
+568806985505726464
+Delta
+@JetBlue that's what we've been told however how would this work if you're going overseas? Bottom line is passengers feel as if there's (1)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 08:18:47 -0800
+location: Miami,Florida

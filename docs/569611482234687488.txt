@@ -1,0 +1,9 @@
+569611482234687488
+American
+@AmericanAir 
+
+Fantastic support by the Twitter team. I appreciate it. Thanks again.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 13:35:34 -0800
+location: nan

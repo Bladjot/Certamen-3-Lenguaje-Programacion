@@ -1,0 +1,7 @@
+569600295833116672
+American
+@AmericanAir @marxsterbcow How is this a real life response to a customer service issue? Seriously. Keep trying to call us. Eh, might work.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:51:07 -0800
+location: Pekin

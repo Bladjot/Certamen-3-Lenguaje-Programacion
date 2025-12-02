@@ -1,0 +1,7 @@
+568737248931397632
+Delta
+@JetBlue it's time for our #brandmance 2 go #UpWhereWeBelong https://t.co/KtAWbiUUro
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 03:41:41 -0800
+location: New York, NY

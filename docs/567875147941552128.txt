@@ -1,0 +1,7 @@
+567875147941552128
+Southwest
+@SouthwestAir very frustrated with your customer service.Open seats on earlier flight, $154 to change. What a rip off!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 18:36:00 -0800
+location: nan

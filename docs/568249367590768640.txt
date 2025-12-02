@@ -1,0 +1,7 @@
+568249367590768640
+United
+@united any chance you could look into my problem from earlier?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 19:23:01 -0800
+location: Fredericton NB

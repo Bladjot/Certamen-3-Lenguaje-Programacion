@@ -1,0 +1,7 @@
+568720333634609153
+United
+@united Why don't you respond to my e-mails of facebook msg?! I'm still wating for my tickets!! I'm getting really angry and disappointed!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 02:34:28 -0800
+location: Warsaw, Berlin, Kiev

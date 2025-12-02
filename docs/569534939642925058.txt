@@ -1,0 +1,7 @@
+569534939642925058
+Southwest
+@SouthwestAir will the Daytona 500 be available on free TV?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 08:31:25 -0800
+location: west allis

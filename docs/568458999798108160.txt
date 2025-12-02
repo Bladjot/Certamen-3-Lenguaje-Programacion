@@ -1,0 +1,7 @@
+568458999798108160
+United
+@united I must stop my relationship with you. You've become greedy and heartless and our long term relationship is over
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 09:16:01 -0800
+location: New York City

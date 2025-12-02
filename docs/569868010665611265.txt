@@ -1,0 +1,7 @@
+569868010665611265
+Southwest
+@southwestair does anyone realize that banning peanuts on a flight due to an allergic person ignores p-nut oil &amp; dust from previous flights?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 06:34:56 -0800
+location: Las Vegas

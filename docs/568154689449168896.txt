@@ -1,0 +1,7 @@
+568154689449168896
+Southwest
+@SouthwestAir oops, Sorry, Done,
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 13:06:48 -0800
+location: Bay Area - Cali

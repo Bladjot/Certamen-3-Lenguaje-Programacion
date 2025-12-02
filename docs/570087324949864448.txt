@@ -1,0 +1,7 @@
+570087324949864448
+Delta
+@JetBlue my wife sent me a family invite but I never accepted it. She should not be locked into a family account that never got created.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 21:06:24 -0800
+location: nan

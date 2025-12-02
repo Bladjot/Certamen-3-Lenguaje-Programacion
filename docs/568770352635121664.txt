@@ -1,0 +1,7 @@
+568770352635121664
+United
+@United flight 4465 almost half an hour at the Tarmac "waiting for papers"... Cannot miss my connection at IAH !
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 05:53:13 -0800
+location: Off: NYC, Home: Hoboken, NJ

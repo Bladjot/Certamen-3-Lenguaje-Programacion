@@ -1,0 +1,7 @@
+568774192029523969
+Southwest
+@SouthwestAir sent DM
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 06:08:29 -0800
+location: Suwanee, GA

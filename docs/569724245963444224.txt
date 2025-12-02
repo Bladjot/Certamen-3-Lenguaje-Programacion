@@ -1,0 +1,7 @@
+569724245963444224
+United
+@united customer service is the WORST. hanging up on customers intentionally after one hour on hold.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 21:03:39 -0800
+location: nan

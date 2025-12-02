@@ -1,0 +1,7 @@
+567756963329867776
+Southwest
+@SouthwestAir Hey SWAir- a very tortured boarding on flight 1971 due to one gate agent having to board assisted folks one at a time.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 10:46:23 -0800
+location: Atlanta Georgia

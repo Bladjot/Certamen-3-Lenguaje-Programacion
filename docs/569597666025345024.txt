@@ -1,0 +1,7 @@
+569597666025345024
+American
+@AmericanAir When I left Orlando, I was 2nd in line for standby. I land and I'm 4th. 'Priority members get first available seats'. Awesome.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:40:40 -0800
+location: Everett

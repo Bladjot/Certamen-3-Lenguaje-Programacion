@@ -1,0 +1,7 @@
+570158980611350528
+American
+@AmericanAir We all did! Skipper's walk-around too :(
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 01:51:08 -0800
+location: Cumbria

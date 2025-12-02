@@ -1,0 +1,7 @@
+569623849752358912
+American
+@AmericanAir I'm flying with your competitor today, starts with an U and ends with D. I will never make that mistake again. #americanforlife
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 14:24:43 -0800
+location: Corpus Christi

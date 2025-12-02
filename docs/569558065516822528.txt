@@ -1,0 +1,7 @@
+569558065516822528
+Delta
+@JetBlue 5hrs on Tarmac yest b4 Cancelled Flight @12am.Today 3+ hr delay. Why not send txt/email re: JFK closed &amp; saved all trip 2 sit @airport again?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 10:03:19 -0800
+location: nan

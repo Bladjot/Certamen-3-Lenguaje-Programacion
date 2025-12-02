@@ -1,0 +1,7 @@
+570174964856266752
+American
+@AmericanAir  oh no she left the counter and went downstairs.  Then she told Elise an agent that joined her not to come over to counter.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 02:54:39 -0800
+location: nan

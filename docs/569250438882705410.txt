@@ -1,0 +1,7 @@
+569250438882705410
+US Airways
+@USAirways Ok Thanks
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 13:40:55 -0800
+location: GLOBAL CITIZEN

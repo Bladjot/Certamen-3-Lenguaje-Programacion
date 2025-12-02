@@ -1,0 +1,7 @@
+569691648579338240
+American
+@AmericanAir Now you've Cancelled Flightled my flight. First a priority ticket bumped and now this. You're losing customers. People are furious.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 18:54:08 -0800
+location: Washington, DC

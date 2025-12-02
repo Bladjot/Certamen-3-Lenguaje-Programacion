@@ -1,0 +1,7 @@
+570108987284197376
+US Airways
+@USAirways I don't like being lied to. No bad weather in dc md va. I've been stuck in CA all day and should've been home by now. You owe me.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 22:32:29 -0800
+location: Washington,D.C.

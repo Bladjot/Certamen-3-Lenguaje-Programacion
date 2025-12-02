@@ -1,0 +1,7 @@
+568926268772581377
+Delta
+@JetBlue you are officially my favorite, thank you for the wonderful service at JFK
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 16:12:47 -0800
+location: nan

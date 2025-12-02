@@ -1,0 +1,7 @@
+568899893206450176
+Delta
+@JetBlue maybe announce the delay so we don't sit on the plane on the runway for an hour+ before taking off
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 14:27:58 -0800
+location: Boston

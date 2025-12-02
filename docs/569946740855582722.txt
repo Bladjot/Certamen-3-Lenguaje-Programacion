@@ -1,0 +1,7 @@
+569946740855582722
+US Airways
+@USAirways US 728. One water run of the planet's smallest water bottles. Applaud you looking out for the environment.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 11:47:46 -0800
+location: nan

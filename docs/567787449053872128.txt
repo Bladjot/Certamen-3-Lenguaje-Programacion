@@ -1,0 +1,7 @@
+567787449053872128
+US Airways
+@usairways I’m cool with weather delays etc. But lying and deceiving passengers to keep them from changing is reprehensible. #yousuck
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 12:47:31 -0800
+location: Charlotte, North Carolina

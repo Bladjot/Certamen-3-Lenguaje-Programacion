@@ -1,0 +1,7 @@
+567781663469481984
+Southwest
+@SouthwestAir I understand. Wonderful "Miriam" in customer service who was able to reroute me... Got any rental car discounts?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 12:24:32 -0800
+location: Nashville, TN

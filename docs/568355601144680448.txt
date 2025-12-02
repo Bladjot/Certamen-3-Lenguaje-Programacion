@@ -1,0 +1,7 @@
+568355601144680448
+United
+@united I live abroad and am Flight Booking Problems flights for when I come visit the states :(
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 02:25:09 -0800
+location: shanghai, china.

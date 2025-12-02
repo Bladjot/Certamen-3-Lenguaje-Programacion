@@ -1,0 +1,7 @@
+569386555107733505
+US Airways
+@USAirways how do you do that? You guys need to have much better communication. How? How can we do that?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 22:41:48 -0800
+location: Philadelphia

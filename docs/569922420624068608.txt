@@ -1,0 +1,7 @@
+569922420624068608
+Delta
+@JetBlue Definitely! Lots of announcements and the app is great.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:11:08 -0800
+location: New York City

@@ -1,0 +1,7 @@
+569557216480665600
+Delta
+@JetBlue flying out of BUF 2 BOS, missing captain... Really? Delayed til 2:00... Not happy...
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 09:59:56 -0800
+location: Buffalo, New York

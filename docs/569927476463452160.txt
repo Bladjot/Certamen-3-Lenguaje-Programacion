@@ -1,0 +1,7 @@
+569927476463452160
+Delta
+@jetblue who's running your tweeter using the word fleek?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:31:13 -0800
+location: nan

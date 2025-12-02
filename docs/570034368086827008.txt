@@ -1,0 +1,7 @@
+570034368086827008
+American
+@AmericanAir it's not about the delay.  It's about the communication.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 17:35:58 -0800
+location: Austin, TX

@@ -1,0 +1,7 @@
+568937707994419200
+US Airways
+@USAirways how can I make a purchase, you take the money but I don't have a reservation...Explain
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 16:58:14 -0800
+location: McKinney TX

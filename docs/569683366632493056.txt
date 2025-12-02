@@ -1,0 +1,7 @@
+569683366632493056
+Delta
+@JetBlue had a potentially stressful situation in reFlight Booking Problems a flight which she diffused and helped make awesome!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 18:21:13 -0800
+location: San Francisco, California

@@ -1,0 +1,7 @@
+568094760151486464
+Delta
+@JetBlue maybe have a supervisor find out why the international checkin at FTL hasn't moved in 20 minutes yet employees picked up 100 pizza
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 09:08:40 -0800
+location: nan

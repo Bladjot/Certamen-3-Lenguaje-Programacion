@@ -1,0 +1,7 @@
+568643981258723328
+US Airways
+@USAirways I have been on three planes for flight 1907 and still haven't left the ground BAD SERVICE #sad
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 21:31:04 -0800
+location: Williamson West Virginia

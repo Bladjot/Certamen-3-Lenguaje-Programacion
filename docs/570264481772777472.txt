@@ -1,0 +1,7 @@
+570264481772777472
+Southwest
+@SouthwestAir your website has now reverted my 1st flight to only a 5-minute delay. But it's changed, so is that reliable information?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 08:50:22 -0800
+location: Hampton Roads, Virginia

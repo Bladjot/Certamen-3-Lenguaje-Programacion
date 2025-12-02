@@ -1,0 +1,7 @@
+570199956704919552
+Southwest
+@SouthwestAir I would like to ask that his bags be picked up at PIT &amp; taken to his hotel by the airport. Will someone contact me
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 04:33:58 -0800
+location: South Florida

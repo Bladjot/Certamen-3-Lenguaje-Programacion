@@ -1,0 +1,7 @@
+569643354557796353
+American
+@AmericanAir United needs our ticket number since you rebooked us and you gave the incorrect ticket number now we can't check in #help
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:42:13 -0800
+location: Philadelphia, PA

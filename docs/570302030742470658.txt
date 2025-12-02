@@ -1,0 +1,7 @@
+570302030742470658
+Southwest
+@SouthwestAir once again on Glassdoor's Best Places To Work snagging # 15 overall #notsurprising #LUVthem
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:19:34 -0800
+location: TX

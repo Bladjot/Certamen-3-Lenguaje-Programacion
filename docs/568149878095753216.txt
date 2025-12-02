@@ -1,0 +1,7 @@
+568149878095753216
+Southwest
+@SouthwestAir I would but you need to follow me first ;-)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 12:47:41 -0800
+location: NH, United States

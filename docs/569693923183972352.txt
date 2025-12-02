@@ -1,0 +1,7 @@
+569693923183972352
+Delta
+@JetBlue But not reddit? I work for the site and this is ridiculous.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 19:03:10 -0800
+location: Brooklyn NY.

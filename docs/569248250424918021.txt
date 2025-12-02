@@ -1,0 +1,7 @@
+569248250424918021
+US Airways
+@USAirways We did. @AmericanAir said to open one with you, too.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 13:32:13 -0800
+location: Asheville, NC

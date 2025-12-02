@@ -1,0 +1,7 @@
+568466550337875969
+Southwest
+@SouthwestAir surprise surprise more delays. Seems to be the norm.  Broken down equipment.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 09:46:01 -0800
+location: nan

@@ -1,0 +1,7 @@
+568606485716078592
+United
+@united after waiting for over an hour we finally board the airplane only to find out we have to call maintenance. And this plane is cold.😡
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 19:02:05 -0800
+location: nan

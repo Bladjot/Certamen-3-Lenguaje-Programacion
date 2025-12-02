@@ -1,0 +1,7 @@
+568837619372593153
+Delta
+@JetBlue currently dancing in the terminal. love Stevie!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 10:20:31 -0800
+location: so cal

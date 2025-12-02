@@ -1,0 +1,7 @@
+568116895305617409
+US Airways
+@USAirways I hope so, too. Thank you for your help. She traveled halfway across the globe and just wants her suitcase.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 10:36:37 -0800
+location: Washington, D.C.

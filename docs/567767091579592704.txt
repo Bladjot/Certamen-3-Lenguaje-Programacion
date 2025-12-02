@@ -1,0 +1,7 @@
+567767091579592704
+Southwest
+@SouthwestAir got it squared away. Thank you. I had a man on the inside help me out!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 11:26:37 -0800
+location: New Braunfels, TX

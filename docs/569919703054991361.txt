@@ -1,0 +1,7 @@
+569919703054991361
+American
+@AmericanAir For the love of all that is holy, if your automated phone system is going to give like 8 options, give numerical shortcuts
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:00:20 -0800
+location: nan

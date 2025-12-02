@@ -1,0 +1,7 @@
+568427853265571840
+Delta
+@JetBlue no, but we're on the flight leaving from Boston to Seattle right now. :) flight 597
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 07:12:15 -0800
+location: Massachusetts

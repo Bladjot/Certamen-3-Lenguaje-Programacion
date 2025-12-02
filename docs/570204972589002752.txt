@@ -1,0 +1,7 @@
+570204972589002752
+American
+@AmericanAir  They said it works 80-90% of the time, DFW security entrance C26. Before/after pre-check, whereas I paid for the service.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 04:53:54 -0800
+location: nan

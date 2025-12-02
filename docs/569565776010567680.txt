@@ -1,0 +1,7 @@
+569565776010567680
+United
+@united cannot direct message you you do not follow us. I want my luggage.  Please hep
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 10:33:57 -0800
+location: Southern California and Hawaii

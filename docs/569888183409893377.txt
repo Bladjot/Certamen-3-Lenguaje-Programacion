@@ -1,0 +1,7 @@
+569888183409893377
+Delta
+@JetBlue I know there's no actual 'mile high' club, but surely there's something I can join ;-)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:55:05 -0800
+location: nan

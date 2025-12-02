@@ -1,0 +1,7 @@
+568205117368836096
+United
+@united A change fee of $200. Same exact flight from ATL-HOU is $165. Why a charge of $574? The math doesn't add up.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 16:27:11 -0800
+location: nan

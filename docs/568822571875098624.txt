@@ -1,0 +1,7 @@
+568822571875098624
+US Airways
+@USAirways I just want to find my bag so I won't have to go through the hassle of trying to claim what was in my suitcase #usairwaysfail
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 09:20:44 -0800
+location: nan

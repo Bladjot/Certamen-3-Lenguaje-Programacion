@@ -1,0 +1,7 @@
+569341160482856960
+Delta
+@JetBlue still waiting for bags from flight 26. It landed an hour ago.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 19:41:25 -0800
+location: Sands Point, NY

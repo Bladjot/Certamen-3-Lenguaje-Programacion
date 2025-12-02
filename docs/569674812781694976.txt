@@ -1,0 +1,7 @@
+569674812781694976
+American
+@AmericanAir I spent $600 on my flight. Could have gone on @united for $382 but their mileage program sucks.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 17:47:14 -0800
+location: nan

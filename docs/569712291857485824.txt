@@ -1,0 +1,7 @@
+569712291857485824
+American
+@AmericanAir Any info for Cancelled Flightled flight 1046 tomorrow morning out of DFW? Can't get calls through to speak with anyone.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 20:16:09 -0800
+location: Kansas City, MO

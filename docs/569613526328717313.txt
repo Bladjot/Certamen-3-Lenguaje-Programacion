@@ -1,0 +1,7 @@
+569613526328717313
+United
+@united I believe. It was Cancelled Flighted yesterday I guess. Goes back to no notification from United about Cancelled Flightlation
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 13:43:42 -0800
+location: nan

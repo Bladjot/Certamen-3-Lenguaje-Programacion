@@ -1,0 +1,7 @@
+569874553175810050
+US Airways
+@USAirways getting extremely frustrated w/ the phone/online service for merging frequent flyer miles.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:00:55 -0800
+location: NYC // LI

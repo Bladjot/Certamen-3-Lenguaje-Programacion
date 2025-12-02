@@ -1,0 +1,7 @@
+570217425100148738
+Southwest
+@SouthwestAir bumped me to preboard on both flights (because I'm fat?) Whatever the reason, thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 05:43:22 -0800
+location: nan

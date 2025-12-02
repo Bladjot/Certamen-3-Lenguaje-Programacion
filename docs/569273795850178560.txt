@@ -1,0 +1,7 @@
+569273795850178560
+Delta
+@JetBlue we've been delayed and delayed here in Palm beach... Need to head to Westchester. Can you give me some info?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 15:13:44 -0800
+location: nan

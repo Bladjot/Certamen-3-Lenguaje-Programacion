@@ -1,0 +1,7 @@
+569970318305046528
+American
+@AmericanAir your seat assignment process when Flight Booking Problems is misleading. I'm not paying extra to select a seat.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:21:28 -0800
+location: Brooklyn, NY

@@ -1,0 +1,7 @@
+567819606904295424
+US Airways
+@USAirways with the weather mess in the South, I missed my connection in CLT. Impressed though with the Cust Serv phone reps today.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 14:55:18 -0800
+location: Raleigh, NC

@@ -1,0 +1,7 @@
+569977857755234304
+Southwest
+@SouthwestAir sent. looking for that functionality in your app, though. should be a one click action.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 13:51:25 -0800
+location: Redlands, CA

@@ -1,0 +1,7 @@
+570222660300378112
+Southwest
+@SouthwestAir- ...was only less than 3500pts, but it helped. Had PartnerRewards incoming, but not fast enough to keep pts from expiring.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 06:04:11 -0800
+location: Chicago

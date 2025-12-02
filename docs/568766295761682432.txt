@@ -1,0 +1,7 @@
+568766295761682432
+Delta
+@JetBlue haha no need to apologize 😁 I'll be Flight Booking Problems sooner than Late Flightr. I love JetBlue
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 05:37:06 -0800
+location: Orlando - ΜΣΥ

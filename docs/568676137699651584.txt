@@ -1,0 +1,7 @@
+568676137699651584
+Delta
+@JetBlue your airline should have a better system to Inform your clients when their flights are Cancelled Flightled last min. 😒👺 we have schedules too
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 23:38:51 -0800
+location: nan

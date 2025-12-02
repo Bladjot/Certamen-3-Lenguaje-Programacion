@@ -1,0 +1,7 @@
+569483303067131905
+US Airways
+@USAirways You are 0 for 3 so far in on-time flights on this vacation.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 05:06:14 -0800
+location: Pony Paradise, VA

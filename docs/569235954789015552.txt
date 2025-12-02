@@ -1,0 +1,7 @@
+569235954789015552
+United
+@united You shouldn't page o'head that it's best to call 1-800# - on hold 26+ mins
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 12:43:22 -0800
+location: new york, baby

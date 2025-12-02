@@ -1,0 +1,7 @@
+568845241526038528
+Southwest
+@SouthwestAir huge problem with someone whose ticket was Cancelled Flighted mid trip. Can you DM?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 10:50:48 -0800
+location: University City, MO

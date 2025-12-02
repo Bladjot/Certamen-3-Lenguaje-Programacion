@@ -1,0 +1,7 @@
+568874496507174912
+United
+@united yes it is partly used, the del-ewr is used, the return flight was Cancelled Flightled due to technical glitch in operations
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 12:47:03 -0800
+location: Baltimore, MD

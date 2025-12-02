@@ -1,0 +1,7 @@
+568272244792631296
+United
+@united UA5029 from RIC, UA507 from ORD, &amp; UA423 from DEN -ALL DELAYED for non-weather issues. Way to go, youre batting 1.000! But no hotels
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 20:53:55 -0800
+location: nan

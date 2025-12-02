@@ -1,0 +1,7 @@
+569323106210152448
+Virgin America
+@VirginAmerica can you please have flights in  SJC ? I have no choice but to fly Southwest to Vegas 😩😭
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 18:29:40 -0800
+location: nan

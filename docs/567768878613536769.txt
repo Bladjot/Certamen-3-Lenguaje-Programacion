@@ -1,0 +1,7 @@
+567768878613536769
+Delta
+@JetBlue rocking the Tim McGraw hold music
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 11:33:43 -0800
+location: Raleigh, NC

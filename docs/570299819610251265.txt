@@ -1,0 +1,7 @@
+570299819610251265
+United
+@united Thanks. It is on the same ticket.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 11:10:47 -0800
+location: Portland, OR

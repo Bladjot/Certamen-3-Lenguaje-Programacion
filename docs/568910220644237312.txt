@@ -1,0 +1,7 @@
+568910220644237312
+United
+@united this delay of flight UA4636 has been painful. I sure hope it doesn't cause me or my luggage) to miss my UA82 flight to New Delhi!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 15:09:01 -0800
+location: the nation's capital

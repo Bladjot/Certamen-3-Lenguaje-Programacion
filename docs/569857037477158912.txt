@@ -1,0 +1,7 @@
+569857037477158912
+US Airways
+@USAirways: I relied on US Airways, and that was my mistake. Awful customer experience.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 05:51:19 -0800
+location: nan

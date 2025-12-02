@@ -1,0 +1,7 @@
+568192010789777408
+Southwest
+@SouthwestAir just had a great flight #4223 with Damion! He was the best #damionflight4223
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 15:35:06 -0800
+location: nan

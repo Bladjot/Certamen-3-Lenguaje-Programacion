@@ -1,0 +1,7 @@
+569199095505690624
+United
+@united All flights Cancelled Flighted :( Trip refunded without difficulty, staff extremely helpful, no complaints! Way to handle bad weather!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 10:16:54 -0800
+location: nan

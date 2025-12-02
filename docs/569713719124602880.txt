@@ -1,0 +1,7 @@
+569713719124602880
+American
+@AmericanAir it's been 2 hrs of wait on the phone a) worst customer services b) trying to know where my suitcase Is and way MORE 😤#ANGRY
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:21:50 -0800
+location: Toronto,Montreal,L.A,NY

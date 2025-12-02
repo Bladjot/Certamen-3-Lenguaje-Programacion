@@ -1,0 +1,7 @@
+569639640170254336
+United
+@united customer service what's That???
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:27:28 -0800
+location: nan

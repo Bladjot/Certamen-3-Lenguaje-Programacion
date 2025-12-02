@@ -1,0 +1,7 @@
+568818669024907264
+Delta
+@JetBlue what is going on with your BDL to DCA flights yesterday and today?! Why is every single one getting delayed?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 09:05:13 -0800
+location: Arlington, VA

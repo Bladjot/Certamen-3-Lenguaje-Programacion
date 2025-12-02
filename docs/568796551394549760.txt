@@ -1,0 +1,7 @@
+568796551394549760
+US Airways
+@USAirways I respect the stress of a merger but one rep to reschedule/replane 15 ppl who are already Late Flight? #youcandobetter
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 07:37:20 -0800
+location: Cincinnati

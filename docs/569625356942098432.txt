@@ -1,0 +1,7 @@
+569625356942098432
+American
+@AmericanAir RDU Customer Service is awesome. Thanks! Give em all bonuses.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 14:30:42 -0800
+location: Flying Giraffe Travel

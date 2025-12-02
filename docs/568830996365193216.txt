@@ -1,0 +1,7 @@
+568830996365193216
+United
+@united found the flight on @airfarewatchdog
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 09:54:12 -0800
+location: nan

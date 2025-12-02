@@ -1,0 +1,7 @@
+569604173236477952
+American
+@AmericanAir @_emmaclifford No. At JFK you sort of have to guess things out. It's a small airport, so whatever.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:06:32 -0800
+location: Pekin

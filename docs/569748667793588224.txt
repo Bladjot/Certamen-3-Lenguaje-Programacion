@@ -1,0 +1,7 @@
+569748667793588224
+Southwest
+@SouthwestAir Cancelled Flightled my flight, rescheduled to EWK gave me a pseudo-voucher that directed me to the worst @daysinn in existence. #fail
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 22:40:42 -0800
+location: College Park, MD

@@ -1,0 +1,7 @@
+568173938292985858
+Delta
+.@JetBlue thx for confirming! Again, yr team is awesome. Thanks for the prompt &amp; helpful response! Cheers to less snow in everyone's future
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 14:23:17 -0800
+location: PHL

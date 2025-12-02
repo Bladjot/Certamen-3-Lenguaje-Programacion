@@ -1,0 +1,7 @@
+569089890173874176
+United
+@united at MSP w/3 employees trying to check in several hundred and the line is crazy might miss our plane be sure to thank these employees
+sentiment: negative
+negativereason: longlines
+created: 2015-02-21 03:02:57 -0800
+location: Lake City, MN

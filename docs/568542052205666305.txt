@@ -1,0 +1,7 @@
+568542052205666305
+US Airways
+@USAirways @AmericanAir you know...hockey sticks are expensive. Your baggage handlers shouldn't just be throwing them on the cart.
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-19 14:46:02 -0800
+location: nan

@@ -1,0 +1,7 @@
+568056298937430016
+Southwest
+@SouthwestAir I consider myself a loyal customer to the brand but I'm astounded at the lack of concern about customer's flying experiences.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 06:35:50 -0800
+location: Somewhere over the rainbow.

@@ -1,0 +1,7 @@
+569920773105840128
+American
+@AmericanAir That will be the third time I have been called by 800-433-7300 an hung on before anyone speaks. What do I do now???
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:04:35 -0800
+location: Amityville, NY

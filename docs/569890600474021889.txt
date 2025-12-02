@@ -1,0 +1,7 @@
+569890600474021889
+Delta
+@JetBlue I'll read this over a nice glass of wine right before I dig my heels into my next novel! Maybe travel is just what I need...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 08:04:41 -0800
+location: nan

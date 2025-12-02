@@ -1,0 +1,7 @@
+569011727532032001
+United
+@united Yes there were PLENTY of seats available.  So why did Vicky Thomas refuse to give one to a million mile flyer?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 21:52:22 -0800
+location: Hong Kong

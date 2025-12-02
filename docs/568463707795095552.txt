@@ -1,0 +1,7 @@
+568463707795095552
+United
+@united I'm a UA 1k. I think it's @iamtedking who was looking for help
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 09:34:44 -0800
+location: LA | SF | Bicycle | 38,000'

@@ -1,0 +1,7 @@
+568101162672500736
+Delta
+@JetBlue last week I bought a plane ticket round trip to FL &amp; just 4 fun I look at the price of them today and they went down! #nothappy
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 09:34:06 -0800
+location: nan

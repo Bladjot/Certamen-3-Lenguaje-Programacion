@@ -1,0 +1,7 @@
+569336493224955904
+US Airways
+@USAirways delayed in philly since 130, sitting onTarmac since 8pm flight 1881 plz contact donaldaroberts1@gmail.com
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 19:22:52 -0800
+location: Virginia Beach, Virginia

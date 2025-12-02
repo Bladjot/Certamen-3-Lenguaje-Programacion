@@ -1,0 +1,7 @@
+568931575980814336
+Delta
+@JetBlue I don't have enough hands to count the number of times something like this has delayed my flight with you guys. Very disappointed.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 16:33:52 -0800
+location: New York City

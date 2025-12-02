@@ -1,0 +1,7 @@
+569607114462793730
+Southwest
+@SouthwestAir check out our 1st grader's school science fair project. She loves flying on Southwest Airlines. http://t.co/BaYePZkMiz
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 13:18:13 -0800
+location: Hanover, Maryland

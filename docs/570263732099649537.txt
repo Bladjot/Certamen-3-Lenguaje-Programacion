@@ -1,0 +1,7 @@
+570263732099649537
+American
+@AmericanAir @dfwairport That's DFW!? OMG! Yeah cold, everywhere!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:47:23 -0800
+location: United States of America

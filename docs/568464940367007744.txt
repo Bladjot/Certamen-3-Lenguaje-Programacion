@@ -1,0 +1,7 @@
+568464940367007744
+Southwest
+@SouthwestAir AMAZING c/s today by SW thank you SO very much. This is the reason we fly you #southwest
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 09:39:38 -0800
+location: Barrie | Ontario | Canada

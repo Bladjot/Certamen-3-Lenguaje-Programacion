@@ -1,0 +1,7 @@
+569716148293349377
+United
+@united flight 435
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 20:31:29 -0800
+location: nan

@@ -1,0 +1,7 @@
+567867483622748160
+Delta
+“@JetBlue: @Analystdoc Unfortunately that's not an available option with our current system. Sorry guys. That's a certain #fail Fix it plz.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 18:05:33 -0800
+location: Greenwich, CT

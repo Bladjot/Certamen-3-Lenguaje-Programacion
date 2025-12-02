@@ -1,0 +1,7 @@
+570235413224427520
+American
+@AmericanAir Thank you for the quick customer service today. #RefundProcedureNotTooPainful I know that Winter Weather is not your fault.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 06:54:51 -0800
+location: nan

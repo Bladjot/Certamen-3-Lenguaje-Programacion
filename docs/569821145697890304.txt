@@ -1,0 +1,7 @@
+569821145697890304
+American
+@AmericanAir #worstcustservice you should have contingency plans for extra workers during bad weather. 4+ hours hold #ridiculous
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 03:28:42 -0800
+location: nan

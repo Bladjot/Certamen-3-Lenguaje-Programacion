@@ -1,0 +1,7 @@
+567774437673603073
+United
+@united no they were to busy taking to each other and I needed to get to an audition.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 11:55:49 -0800
+location: LA

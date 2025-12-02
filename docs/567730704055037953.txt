@@ -1,0 +1,7 @@
+567730704055037953
+Southwest
+@SouthwestAir Trying to get through by phone to confirm that funds from a Cancelled Flightled reservation can still be used in the future. Can u help?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 09:02:02 -0800
+location: Toronto

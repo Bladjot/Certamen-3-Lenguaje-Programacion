@@ -1,0 +1,7 @@
+568884675021635584
+Southwest
+@SouthwestAir doesn't care nor does SNA agent Jacquie Plitt, rude gal bad attitude! had 2 fly @USAirways 2 CABO thx http://t.co/VbUxfPCKfa
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 13:27:30 -0800
+location: Scottsdale, AZ

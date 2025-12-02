@@ -1,0 +1,7 @@
+570224015656284160
+American
+@AmericanAir Customer service provides no wiggle room to change flight without a $200 change fee. @southwest has always been accommodating.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 06:09:34 -0800
+location: Pittsburgh, PA

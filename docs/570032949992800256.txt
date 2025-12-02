@@ -1,0 +1,7 @@
+570032949992800256
+Southwest
+@SouthwestAir when I called I was told my bag had made it to PHL, but still has not been delivered or any call from the delivery service
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 17:30:20 -0800
+location: nan

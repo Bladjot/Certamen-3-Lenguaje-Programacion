@@ -1,0 +1,7 @@
+570258226819637248
+American
+@AmericanAir This is very true. Another reason why we stay South in the Winter months of travel http://t.co/fgJbex480D
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:25:30 -0800
+location: nan

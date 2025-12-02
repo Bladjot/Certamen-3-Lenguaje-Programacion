@@ -1,0 +1,7 @@
+570056984986300418
+US Airways
+@USAirways : Was on flight 2046 BOS-CLT on 2/22, awful experience, exit row seat was so narrow that I could not move my legs! Unacceptable.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 19:05:51 -0800
+location: Keene, NH

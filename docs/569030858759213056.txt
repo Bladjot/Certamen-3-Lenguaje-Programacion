@@ -1,0 +1,7 @@
+569030858759213056
+Southwest
+@SouthwestAir DAL is due for sleet Sun. eve-didn't see it listed for cities that can re-book?  Fly to DCA at 8:10
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 23:08:23 -0800
+location: nan

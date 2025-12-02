@@ -1,0 +1,7 @@
+570250989305004033
+US Airways
+@usairways is your clt departures delayed? Hoping I can make my connection after a lengthy take off delay and endless taxi-ing here at clt
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 07:56:45 -0800
+location: Minneapolis, MN

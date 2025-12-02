@@ -1,0 +1,7 @@
+570276196405125120
+American
+@AmericanAir Right. But more than two hours Late Flight, and it seems due to poor communication, which sounded like it was annoying on-plane staff
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 09:36:55 -0800
+location: Washington, DC

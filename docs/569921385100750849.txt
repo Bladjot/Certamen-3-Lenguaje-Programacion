@@ -1,0 +1,7 @@
+569921385100750849
+Delta
+@JetBlue Sure did go south after breakfast though! Delayed three hours. :( :( :(
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 10:07:01 -0800
+location: New York City

@@ -1,0 +1,7 @@
+569598544379817984
+American
+@AmericanAir I can't get ahold of aadvantage reservations.  I need to ticket a reservation that Cancelled Flights soon.  can you help?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:44:10 -0800
+location: nan

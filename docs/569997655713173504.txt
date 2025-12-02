@@ -1,0 +1,7 @@
+569997655713173504
+American
+@AmericanAir has the worst flight change policy. No mercy, no sympathy, such a bummer when you can't go to funerals or see friends bc of it.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 15:10:05 -0800
+location: New York, New York

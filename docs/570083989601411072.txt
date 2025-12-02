@@ -1,0 +1,7 @@
+570083989601411072
+Delta
+At the airport ready to get this @JetBlue red eye going.... Soooooo sleepy.  #NoPlaceLikeHome #eventhoughits2degreesathome
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 20:53:09 -0800
+location: New York City

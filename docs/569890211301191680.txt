@@ -1,0 +1,7 @@
+569890211301191680
+Southwest
+@SouthwestAir to start daily #B737-700 flights from #Columbus OH to #Oakland on 8AUG #avgeek
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 08:03:09 -0800
+location: Abu Dhabi

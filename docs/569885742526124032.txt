@@ -1,0 +1,7 @@
+569885742526124032
+American
+@AmericanAir they @cathaypacific @cathaypacificUS can't even tell me what country they are in 😥😥
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 07:45:23 -0800
+location: nan

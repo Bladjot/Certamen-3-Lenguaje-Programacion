@@ -1,0 +1,7 @@
+568825140898873344
+US Airways
+@USAirways Thanks. No DC yet, I see. I will keep that link and check back. Appreciate it!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 09:30:56 -0800
+location: nan

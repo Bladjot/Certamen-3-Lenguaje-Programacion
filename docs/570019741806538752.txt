@@ -1,0 +1,7 @@
+570019741806538752
+US Airways
+@USAirways what's going on with US Airways flight 805?   Why diverted to Charlotte?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 16:37:51 -0800
+location: South Jersey

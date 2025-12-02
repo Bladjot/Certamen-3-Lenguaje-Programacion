@@ -1,0 +1,7 @@
+568262694123339776
+United
+@united I was only trying to get my emails. What are you talking about? What most business people expect from airline wifi
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 20:15:58 -0800
+location: Mill Valley, CA

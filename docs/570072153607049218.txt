@@ -1,0 +1,7 @@
+570072153607049218
+American
+@AmericanAir any delays on tonight's flight from DFW to SAT? I have family members on board.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 20:06:07 -0800
+location: Washington, D.C.

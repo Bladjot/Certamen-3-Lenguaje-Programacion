@@ -1,0 +1,7 @@
+570283248301043712
+Southwest
+@SouthwestAir went to purchase a flight that I began processing not even 4 minutes earlier and the points had gone up - any help?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 10:04:56 -0800
+location: Midwest + Airplanes

@@ -1,0 +1,7 @@
+569179843247517698
+Southwest
+@SouthwestAir LOST Kay Chapman Designs art-luggage for important show. Won't help locate it. Terrible customer service.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 09:00:24 -0800
+location: nan

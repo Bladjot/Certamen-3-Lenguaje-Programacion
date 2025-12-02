@@ -1,0 +1,7 @@
+568084717481775104
+United
+@united perhaps you could fix this? https://t.co/72RMpkOGwu and this https://t.co/901HLNgBtX #answerthis
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 08:28:45 -0800
+location: Canada

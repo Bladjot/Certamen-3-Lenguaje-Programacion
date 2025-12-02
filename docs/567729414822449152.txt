@@ -1,0 +1,7 @@
+567729414822449152
+US Airways
+@USAirways no warm weather hubs means no Mexico for us.  And I can't go anywhere else since you lost my bags. I hope you attempt to rectify
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 08:56:55 -0800
+location: Ohio

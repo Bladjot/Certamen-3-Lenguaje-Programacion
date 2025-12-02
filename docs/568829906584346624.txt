@@ -1,0 +1,7 @@
+568829906584346624
+United
+@united how is it tripitPro has accurate delayed dept. times and 2hours Late Flightr I hear the same from you? Just curious
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 09:49:52 -0800
+location: nan

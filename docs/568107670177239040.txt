@@ -1,0 +1,7 @@
+568107670177239040
+Southwest
+@SouthwestAir so when do we find out who won the imagine dragons contest?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 09:59:58 -0800
+location: nan

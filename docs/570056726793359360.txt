@@ -1,0 +1,7 @@
+570056726793359360
+Delta
+@JetBlue not one of my four flights this trip has been on time. What the he'll is your companies problem?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 19:04:49 -0800
+location: Portland, Maine

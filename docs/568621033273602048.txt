@@ -1,0 +1,7 @@
+568621033273602048
+United
+@united  4 reFlight Booking Problemss in last 2 days and each time united wait time was &lt;5 seconds! Kudos to you for excellent customer service!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 19:59:53 -0800
+location: nan

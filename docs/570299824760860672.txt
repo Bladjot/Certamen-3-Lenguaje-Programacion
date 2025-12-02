@@ -1,0 +1,7 @@
+570299824760860672
+American
+@AmericanAir Great, thanks. Followed.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 11:10:48 -0800
+location: SF, CA

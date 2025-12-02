@@ -1,0 +1,7 @@
+568158427664527360
+US Airways
+@USAirways I've been waiting for desk for 45 and on hold 36min and counting...photo of desk agent on phone not flattering.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 13:21:39 -0800
+location: nan

@@ -1,0 +1,7 @@
+569950567663050752
+Delta
+@JetBlue *fights air*
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 12:02:59 -0800
+location: nan

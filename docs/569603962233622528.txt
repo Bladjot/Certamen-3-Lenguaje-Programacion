@@ -1,0 +1,7 @@
+569603962233622528
+American
+@AmericanAir thanks for forcing me to check -in my carry - on luggage. That is exactly why I spent extra money on "travel size" toiletries
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 13:05:41 -0800
+location: Brooklyn

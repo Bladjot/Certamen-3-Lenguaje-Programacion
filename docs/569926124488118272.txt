@@ -1,0 +1,7 @@
+569926124488118272
+United
+@united wow you even answered back!  Awesome! @AmericanAir @USAirways That's customer service!!! #usairwaysfail
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:25:51 -0800
+location: Pennsylvania

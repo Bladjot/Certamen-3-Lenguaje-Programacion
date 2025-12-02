@@ -1,0 +1,7 @@
+568458157703499776
+US Airways
+@USAirways Was just on hold with you all for TWO HOURS and then got hung up on. oh my god.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 09:12:40 -0800
+location: Iowa CIty

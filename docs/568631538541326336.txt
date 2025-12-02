@@ -1,0 +1,7 @@
+568631538541326336
+US Airways
+@USAirways worst experience ever with you guys…see my blog tomorrow on my experience. Maybe you can help make it better.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 20:41:38 -0800
+location: Arkansas, USA

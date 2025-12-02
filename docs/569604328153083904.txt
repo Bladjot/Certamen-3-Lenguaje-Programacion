@@ -1,0 +1,7 @@
+569604328153083904
+American
+@AmericanAir can you do anything to get #AA953 moving? Been almost 24 hrs and hundreds at jfk upset, tired and want to get to BA.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 13:07:09 -0800
+location: New York, NY

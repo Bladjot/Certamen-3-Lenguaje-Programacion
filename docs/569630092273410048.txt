@@ -1,0 +1,7 @@
+569630092273410048
+Virgin America
+@VirginAmerica Another delayed flight? #likingyoulessandless
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:49:31 -0800
+location: San Diego

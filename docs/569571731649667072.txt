@@ -1,0 +1,7 @@
+569571731649667072
+Delta
+@JetBlue our flight out no Tv. Now our flight back not seated together. B6 620. Maybe our fault still no fun.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 10:57:37 -0800
+location: nan

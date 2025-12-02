@@ -1,0 +1,7 @@
+570275970046775297
+American
+@AmericanAir I'm not sure what happened to my USAirways status when the merger took place.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 09:36:01 -0800
+location: nan

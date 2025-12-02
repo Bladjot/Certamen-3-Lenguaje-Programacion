@@ -1,0 +1,7 @@
+569947324316721152
+American
+@AmericanAir no standby line update online or on app either is troubling
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:50:05 -0800
+location: nan

@@ -1,0 +1,7 @@
+568152534507855872
+Delta
+@JetBlue incidentally, Sheila at JFK deserves a raise because she's awesome.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 12:58:14 -0800
+location: Inquiries: CAA  •  Miller PR

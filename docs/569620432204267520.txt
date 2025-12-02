@@ -1,0 +1,7 @@
+569620432204267520
+United
+@united I hope you lose the next govt contract
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 14:11:08 -0800
+location: nan

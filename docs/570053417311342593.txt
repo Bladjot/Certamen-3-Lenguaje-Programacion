@@ -1,0 +1,7 @@
+570053417311342593
+United
+@united UA63 from Madrid arrived no agent mass confusion we sent to and fro by 3 UA employees. MaryJo was rude and unhelpful.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 18:51:40 -0800
+location: Chicago, IL

@@ -1,0 +1,7 @@
+570023318251642883
+US Airways
+@USAirways I lost an ID on your plane and having trouble finding a contact for your lost and found in Cleveland Hopkins Airport. Please Help
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 16:52:04 -0800
+location: USA

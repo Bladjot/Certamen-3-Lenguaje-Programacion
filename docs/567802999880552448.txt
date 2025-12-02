@@ -1,0 +1,7 @@
+567802999880552448
+Southwest
+@SouthwestAir You officially have the worst customer service of any airline I've ever dealt with. #southwestairlines #poor
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 13:49:19 -0800
+location: Sunrise Beach, MO

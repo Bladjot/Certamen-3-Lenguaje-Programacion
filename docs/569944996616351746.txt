@@ -1,0 +1,7 @@
+569944996616351746
+US Airways
+@USAirways I spent an hour on the phone with them and got no where at all
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:40:50 -0800
+location: Wherever my breath takes me

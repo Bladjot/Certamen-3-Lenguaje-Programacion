@@ -1,0 +1,8 @@
+568834834040164352
+US Airways
+@USAirways Welcome to North Texas US Air / American Air employees. 
+Housing and Education are great opportunities in The GR8 State Of Texas
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 10:09:27 -0800
+location: Dallas Fort Worth

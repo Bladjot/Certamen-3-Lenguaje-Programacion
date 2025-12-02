@@ -1,0 +1,7 @@
+569330414193483776
+Southwest
+@SouthwestAir male flight attendant on flight 3913 from Orlando to Indy was AMAZING! He needs a raise 👍 Had the best experience with him
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 18:58:43 -0800
+location: nan

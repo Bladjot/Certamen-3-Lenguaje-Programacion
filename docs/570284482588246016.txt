@@ -1,0 +1,7 @@
+570284482588246016
+American
+@AmericanAir Would love to DM you, but my Twitter app says you're not following me and I can't.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 10:09:50 -0800
+location: NYC

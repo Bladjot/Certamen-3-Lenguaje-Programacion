@@ -1,0 +1,7 @@
+569161748286083073
+United
+@united you get a 2nd chance today as I fly to A'dam. Let's see if you can redeem yourself after that last horrendous trip to the states.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 07:48:29 -0800
+location: nan

@@ -1,0 +1,7 @@
+569833653871742976
+United
+@united just sent you a message on Facebook, how do I follow up a complaint re. Missing clothing out of checked baggage?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 04:18:24 -0800
+location: Chorley, Lancashire

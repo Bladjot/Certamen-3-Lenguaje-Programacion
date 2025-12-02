@@ -1,0 +1,7 @@
+567811776025468929
+Southwest
+@SouthwestAir done messed up now!!! I have planned a trip to #CostaRica for pennies!!! #VacaTime ✈️💺
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 14:24:11 -0800
+location: Baltimore, MD

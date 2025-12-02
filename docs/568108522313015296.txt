@@ -1,0 +1,7 @@
+568108522313015296
+US Airways
+@USAirways There isn't a ticket number...the transaction is still pending.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 10:03:21 -0800
+location: nan

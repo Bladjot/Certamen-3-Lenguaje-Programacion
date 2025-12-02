@@ -1,0 +1,7 @@
+569936252977451008
+Delta
+@JetBlue but Virgin has wifi 👀
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:06:06 -0800
+location: nan

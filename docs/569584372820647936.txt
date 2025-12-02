@@ -1,0 +1,7 @@
+569584372820647936
+Delta
+@JetBlue early last month via Expedia-there's an extra middle name and initial attached to my last name
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 11:47:51 -0800
+location: the burg nj

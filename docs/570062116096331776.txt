@@ -1,0 +1,7 @@
+570062116096331776
+Southwest
+@SouthwestAir Do you know the reason flight #336 from Dallas to Midland was diverted to Lubbock? Was suppose to be direct to Midland.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 19:26:14 -0800
+location: DFW

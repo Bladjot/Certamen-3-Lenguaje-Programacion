@@ -1,0 +1,7 @@
+569728440758181889
+American
+@AmericanAir Flight Cancelled Flightled, website refers to 1-800#, the 1-800# hangs up on me. Not auto-rebooked. Really? Horrible company.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 21:20:19 -0800
+location: nan

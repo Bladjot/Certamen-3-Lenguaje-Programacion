@@ -1,0 +1,7 @@
+569984785860464640
+United
+@united of course I did. The bag should be here by now :( #frustrated
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 14:18:57 -0800
+location: nan

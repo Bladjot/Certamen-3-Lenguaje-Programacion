@@ -1,0 +1,7 @@
+568183785558310914
+Delta
+@JetBlue Yes That's true but they are a bit pricey I will look into it further. Love you guys.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 15:02:25 -0800
+location: South Miami Heights, Florida

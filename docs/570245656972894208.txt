@@ -1,0 +1,7 @@
+570245656972894208
+Southwest
+@SouthwestAir is there a resource to check delays/Cancelled Flightlations out of Love Field? Flying out tomorrow am and stressed about weather! ❄️
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 07:35:33 -0800
+location: Dallas

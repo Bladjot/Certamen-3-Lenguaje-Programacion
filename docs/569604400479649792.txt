@@ -1,0 +1,7 @@
+569604400479649792
+American
+@AmericanAir how does one book a ticket online and put it on hold?  Does that require that I pay for the ticket?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 13:07:26 -0800
+location: The City of Big Shoulders

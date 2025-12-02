@@ -1,0 +1,7 @@
+570017101097934849
+American
+@AmericanAir two Cancelled Flightled LGA flights. Both by @Delta took off. Looks like I have a new carrier @Delta!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 16:27:21 -0800
+location: Manhattan

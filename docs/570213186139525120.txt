@@ -1,0 +1,7 @@
+570213186139525120
+American
+@AmericanAir  thanks for making the worst fly experience ever. Will never book again with your airline. Train your flight attendants better.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 05:26:32 -0800
+location: Newark NJ

@@ -1,0 +1,7 @@
+569220243123544065
+US Airways
+@USAirways thanks for getting us on ur plane. Awesome flight attendant who is making us smile after difficult travel. #customerservice
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 11:40:56 -0800
+location: nan

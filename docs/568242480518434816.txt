@@ -1,0 +1,7 @@
+568242480518434816
+Delta
+@JetBlue are you my friend?!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 18:55:39 -0800
+location: im 5sos af :)))

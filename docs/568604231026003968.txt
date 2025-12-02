@@ -1,0 +1,7 @@
+568604231026003968
+Southwest
+@SouthwestAir link doesn't work
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 18:53:07 -0800
+location: Lake Arrowhead, CA

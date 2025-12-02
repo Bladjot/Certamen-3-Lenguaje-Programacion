@@ -1,0 +1,7 @@
+568539689176530944
+Delta
+@JetBlue @TSA JetBlue never disappoints !
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 14:36:39 -0800
+location: San Francisco

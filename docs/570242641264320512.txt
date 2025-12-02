@@ -1,0 +1,7 @@
+570242641264320512
+Southwest
+@SouthwestAir: Tried for VIP Live in The Vineyard but yr site went down, by the time I got in 2 redeem pts those packages gone.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 07:23:34 -0800
+location: nan

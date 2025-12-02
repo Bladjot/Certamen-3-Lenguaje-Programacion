@@ -1,0 +1,7 @@
+568193347216474112
+Southwest
+@SouthwestAir doesn't even have gluten free peanuts. whyyy me??
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 15:40:25 -0800
+location: californyeah

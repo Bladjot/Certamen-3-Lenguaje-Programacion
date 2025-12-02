@@ -1,0 +1,7 @@
+568958770849705984
+Delta
+Made it to #Costa #Rica and back @JetBlue Missing it already!  #Pura #Vida!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 18:21:56 -0800
+location: The World

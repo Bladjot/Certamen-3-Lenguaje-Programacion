@@ -1,0 +1,7 @@
+569069311962132480
+Southwest
+@SouthwestAir were you handing out tickets while I was sleep ?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 01:41:11 -0800
+location: Henderson,NV

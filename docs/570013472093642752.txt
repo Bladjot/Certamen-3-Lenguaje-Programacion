@@ -1,0 +1,7 @@
+570013472093642752
+US Airways
+@USAirways please stop asking me each week to place my bag in the size check #ITFITS http://t.co/AUrn07pWD4
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 16:12:56 -0800
+location: nan

@@ -1,0 +1,7 @@
+570000760035024896
+US Airways
+@USAirways as far as being delayed goes… Looks like tailwinds are going to make up for it. Good news!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 15:22:25 -0800
+location: BTR/DCA/IAD/MSY - etc

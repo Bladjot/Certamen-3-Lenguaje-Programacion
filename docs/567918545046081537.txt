@@ -1,0 +1,7 @@
+567918545046081537
+United
+@united received my bag. I appreciate taking care of the matter and following up!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 21:28:27 -0800
+location: Salt Lake City, Utah

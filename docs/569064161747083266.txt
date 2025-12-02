@@ -1,0 +1,7 @@
+569064161747083266
+US Airways
+@USAirways Hey, my bag was damaged flying with you yesterday. What can I do?
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-21 01:20:43 -0800
+location: Raxacoricofallapatorius

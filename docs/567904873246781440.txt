@@ -1,0 +1,7 @@
+567904873246781440
+Delta
+@JetBlue She claimed that she did, but I was not happy with the way I was treated.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 20:34:07 -0800
+location: nan

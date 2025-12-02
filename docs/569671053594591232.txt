@@ -1,0 +1,7 @@
+569671053594591232
+American
+@AmericanAir been waiting on hold for more than an hour
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 17:32:17 -0800
+location: nan

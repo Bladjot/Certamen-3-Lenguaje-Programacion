@@ -1,0 +1,7 @@
+568908748732760064
+United
+“@united: @BattierCCIpuppy Your puppy is so cute. We look forward to having both of you on board. Thanks for the high five. ^EY” 👏👏
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 15:03:10 -0800
+location: Sacramento, CA

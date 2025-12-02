@@ -1,0 +1,7 @@
+569632618460753921
+American
+@AmericanAir as usual my next flight shows on time but it's suppose to leave in 5 minutes and hasn't boarded
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:59:34 -0800
+location: nan

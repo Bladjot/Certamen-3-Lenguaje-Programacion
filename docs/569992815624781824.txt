@@ -1,0 +1,7 @@
+569992815624781824
+American
+@AmericanAir My chariot tonight. From this angle it looks like a 787, no? http://t.co/3ZZKQWWbJz
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:50:51 -0800
+location: I'm everywhere.

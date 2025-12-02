@@ -1,0 +1,7 @@
+569974508435562496
+American
+@AmericanAir no. Booked seat in Dallas, live in Dallas. Real nice that your gate agent had exit row available told me they weren't available
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:38:07 -0800
+location: The Republic of Texas

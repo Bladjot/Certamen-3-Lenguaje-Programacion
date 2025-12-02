@@ -1,0 +1,7 @@
+569666838340210689
+Delta
+@JetBlue hey JetBlue.  Still waiting to hear where you lost my 9'8" surfboard between JFK and BQN airports.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 17:15:32 -0800
+location: nan

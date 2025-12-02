@@ -1,0 +1,7 @@
+569880599764140033
+American
+@AmericanAir I meant can you use the 50k bonus sign up mileage for Alaska flights or only American?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:24:57 -0800
+location: Renton, WA

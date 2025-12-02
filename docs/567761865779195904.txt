@@ -1,0 +1,7 @@
+567761865779195904
+United
+@united What is the policy behind changing passengers' seating assignments at the gate?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 11:05:51 -0800
+location: North Hollywood, CA

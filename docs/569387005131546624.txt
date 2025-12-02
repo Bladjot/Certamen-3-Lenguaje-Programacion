@@ -1,0 +1,7 @@
+569387005131546624
+US Airways
+@USAirways three hours on hold then disconnected. Conf EBHSET. Need to be home Sunday for interview
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 22:43:35 -0800
+location: nan

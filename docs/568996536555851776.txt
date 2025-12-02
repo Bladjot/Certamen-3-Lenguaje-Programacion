@@ -1,0 +1,7 @@
+568996536555851776
+US Airways
+@USAirways the kind gentleman at the gate tells me to "go left" to get my hotel voucher at the ticket gate. Took about 20min to get there
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 20:52:00 -0800
+location: Asheville, NC

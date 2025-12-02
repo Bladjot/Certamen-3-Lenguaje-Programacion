@@ -1,0 +1,7 @@
+568855071322198016
+United
+@united @bobwesson fair enough United. everybody is doing the best they can. Although that "slight delay" is turning into a Cancelled Flightlation.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 11:29:52 -0800
+location: nan

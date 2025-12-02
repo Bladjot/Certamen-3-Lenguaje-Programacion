@@ -1,0 +1,7 @@
+568828267660054528
+Southwest
+@SouthwestAir thanks for the info and the quick response!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 09:43:21 -0800
+location: Austin, TX

@@ -1,0 +1,7 @@
+568244094583107585
+US Airways
+@USAirways My flight finally arrived in Charlotte.  They booked my luggage thru to lga but no room on flight for me.  What a mess
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 19:02:04 -0800
+location: Queens, New York

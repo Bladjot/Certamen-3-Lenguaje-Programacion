@@ -1,0 +1,7 @@
+568964635103076354
+Delta
+@JetBlue can you share where it is coming from?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 18:45:14 -0800
+location: Boston, MA

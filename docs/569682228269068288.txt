@@ -1,0 +1,7 @@
+569682228269068288
+US Airways
+@USAirways - flights 4500 AND 403 delayed for "crew availability?"  What gives? I'm getting to TPA 2.5 hrs past my scheduled arrival.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:16:42 -0800
+location: Spring HIll, FL

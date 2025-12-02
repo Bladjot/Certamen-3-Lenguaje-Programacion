@@ -1,0 +1,7 @@
+567739357881040896
+United
+@united I was denied use of a rear facing car seat on UA5025, an ERJ145. Can you confirm the actual policy?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 09:36:25 -0800
+location: nan

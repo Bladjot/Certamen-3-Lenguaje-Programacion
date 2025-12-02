@@ -1,0 +1,7 @@
+569676204728389632
+Southwest
+@SouthwestAir Thank you SWA and Shannon G. @LASairport (C22) for being a miracle worker! #awesome
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:52:45 -0800
+location: nan

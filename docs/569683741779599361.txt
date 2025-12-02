@@ -1,0 +1,7 @@
+569683741779599361
+Southwest
+@SouthwestAir but to make us tru to find space in other flights.  This customer service is as bad as @SpiritAirlines.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:22:42 -0800
+location: nan

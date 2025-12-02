@@ -1,0 +1,7 @@
+568494910405517312
+US Airways
+@USAirways a $75 change is ok most of the time but if there r open seats on earlier flt and no chkd bag, why not let someone fly standby?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 11:38:43 -0800
+location: nan

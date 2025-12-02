@@ -1,0 +1,7 @@
+569677287551049729
+American
+@AmericanAir American Airlines.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:57:04 -0800
+location: Alexandria, VA

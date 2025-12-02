@@ -1,0 +1,7 @@
+568903773491306496
+United
+@united Lindsay and ??.  Darn.  Terrible memory on my part.  I know they are headed back to IAD and then PIT tonight.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 14:43:23 -0800
+location: #avgeek, United 1K

@@ -1,0 +1,7 @@
+569740409787658240
+American
+@AmericanAir Your agent sent our family on 3 diff planes to dfw that were as Late Flight due to delay as the Cancelled Flighted plane that started this #fail
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 22:07:53 -0800
+location: dallas, TX

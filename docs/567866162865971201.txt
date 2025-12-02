@@ -1,0 +1,7 @@
+567866162865971201
+US Airways
+@USAirways and no one has been at all helpful. I will never fly this airline again. #NeverAgain #spreadtheword
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 18:00:18 -0800
+location: Washington, D.C.

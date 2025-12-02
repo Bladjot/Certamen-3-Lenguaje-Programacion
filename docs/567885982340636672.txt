@@ -1,0 +1,7 @@
+567885982340636672
+Southwest
+@SouthwestAir thanks for your excellent response time and assistance! All set :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 19:19:03 -0800
+location: nan

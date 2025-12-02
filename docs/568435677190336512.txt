@@ -1,0 +1,7 @@
+568435677190336512
+Delta
+@JetBlue i am here - what is your resolution?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 07:43:21 -0800
+location: Washington, DC

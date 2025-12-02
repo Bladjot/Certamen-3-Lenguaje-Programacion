@@ -1,0 +1,7 @@
+568178151173562368
+Southwest
+@SouthwestAir lost my sunglasses &amp; case on a flight 3933 last night - is there a lost &amp; found?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 14:40:02 -0800
+location: Washington, DC

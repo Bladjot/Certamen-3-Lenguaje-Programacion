@@ -1,0 +1,7 @@
+567630296783155203
+United
+@united still waiting for a reply
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 02:23:03 -0800
+location: nan

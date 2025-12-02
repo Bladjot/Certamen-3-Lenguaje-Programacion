@@ -1,0 +1,7 @@
+568808340387536896
+Southwest
+@SouthwestAir how long does it take for points from RR Shopping to post to my account? Got email saying I've earned points but don't see em
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 08:24:10 -0800
+location: San Francisco

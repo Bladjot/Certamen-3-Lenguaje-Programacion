@@ -1,0 +1,7 @@
+567851387641597952
+US Airways
+@USAirways is the worst airline I’ve ever flown on. You guys have treated me like garbage today.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 17:01:35 -0800
+location: Neverland

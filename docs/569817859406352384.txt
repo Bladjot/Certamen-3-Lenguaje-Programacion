@@ -1,0 +1,7 @@
+569817859406352384
+US Airways
+@USAirways then she had to get her own hotel so ur agents did nothing to help and to top it off you sent her luggage on the wrong flight!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 03:15:39 -0800
+location: nan

@@ -1,0 +1,7 @@
+569650813070483457
+American
+@AmericanAir AA 1657 was also over an hour Late Flight to depart Ohare and now we have no luggage. Not happy standing in a long line at baggage svc
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:11:52 -0800
+location: Brookfield, WI

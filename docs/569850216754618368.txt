@@ -1,0 +1,7 @@
+569850216754618368
+United
+@united WHy is my KTN not showing on my boarding?  Why is TSA pre-check not applying to my boarding pass?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 05:24:13 -0800
+location: Collierville, TN USA

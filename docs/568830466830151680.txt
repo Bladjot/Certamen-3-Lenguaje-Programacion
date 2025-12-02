@@ -1,0 +1,7 @@
+568830466830151680
+Virgin America
+@VirginAmerica gives positive outlook, but sees increased competition - @Reuters http://t.co/jEu7Od3eYJ
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 09:52:06 -0800
+location: Global

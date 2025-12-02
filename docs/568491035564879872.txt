@@ -1,0 +1,7 @@
+568491035564879872
+US Airways
+@USAirways yes thanks I have never seen anything like this and I come to Yuma all the time, big disappointment. There are 40+ still waiting
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 11:23:19 -0800
+location: Monterey County, CA

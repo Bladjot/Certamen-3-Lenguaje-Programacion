@@ -1,0 +1,7 @@
+568605001666449408
+US Airways
+@USAirways Thank you, @USAirways!  Your fare to from DTW to DCA was much lower than @Delta and @SouthwestAir!  Thank you! You won me over!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 18:56:11 -0800
+location: Farmington Hills, MI

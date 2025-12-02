@@ -1,0 +1,7 @@
+569206152510226432
+Southwest
+@SouthwestAir  the agents werenot helpful told me I would have to pay 2chng even though I Tld them going2 bwi whch is part of trvl advsry
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 10:44:56 -0800
+location: nan

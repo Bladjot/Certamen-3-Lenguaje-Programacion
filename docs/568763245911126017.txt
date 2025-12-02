@@ -1,0 +1,7 @@
+568763245911126017
+Southwest
+@SouthwestAir Thank you! I can't wait either :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 05:24:59 -0800
+location: nan

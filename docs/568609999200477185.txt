@@ -1,0 +1,7 @@
+568609999200477185
+US Airways
+@USAirways - BOS -&gt; DCA delayed again. This needs to stop. I will be filing complaints with the FAA and Consumer Affairs
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 19:16:02 -0800
+location: nan

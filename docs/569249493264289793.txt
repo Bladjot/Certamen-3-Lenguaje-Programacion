@@ -1,0 +1,7 @@
+569249493264289793
+United
+@united this flight has been amazing. This is the best flight I have ever been on I am not kidding. Service is INCREDIBLE!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 13:37:09 -0800
+location: nan

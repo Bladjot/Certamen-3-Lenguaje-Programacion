@@ -1,0 +1,7 @@
+569959631256051712
+American
+@AmericanAir I had to purchase a ticket that I never would have had to buy had the flight not been Cancelled Flightled. Terrible customer service.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 12:39:00 -0800
+location: nan

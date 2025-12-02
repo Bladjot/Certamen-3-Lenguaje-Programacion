@@ -1,0 +1,7 @@
+569929134639611904
+US Airways
+@USAirways don't worry. Used own initiative and arriving much earlier than you planned for me
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 10:37:49 -0800
+location: nan

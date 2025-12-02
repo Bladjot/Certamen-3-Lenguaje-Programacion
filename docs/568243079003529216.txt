@@ -1,0 +1,7 @@
+568243079003529216
+US Airways
+@USAirways been on hold for over an hour, still don't know where my bags are, won't refund me my flight?!?! It wasn't weather!!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 18:58:02 -0800
+location: Phoenix, AZ

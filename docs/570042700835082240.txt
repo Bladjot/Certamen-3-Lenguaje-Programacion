@@ -1,0 +1,7 @@
+570042700835082240
+American
+@AmericanAir #customerservice. Sitting on my fourth plane today with a mechanical problem. No excuses for this. Tough to be loyal.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 18:09:05 -0800
+location: Chicago

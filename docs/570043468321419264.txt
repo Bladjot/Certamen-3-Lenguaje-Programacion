@@ -1,0 +1,7 @@
+570043468321419264
+Delta
+@JetBlue formally requests @LBAirport and @LongBeachCity to establish customs facilities for international flights http://t.co/jByVMsOd29
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 18:12:08 -0800
+location: Long Beach, California

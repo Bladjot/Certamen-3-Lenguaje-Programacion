@@ -1,0 +1,7 @@
+568884379600224258
+Delta
+@jetblue captain "takes as lot of muscles to frown but JUST A FEW TO SMILE. Y'all ready to go flyin?" I mean... Now I am!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 13:26:20 -0800
+location: San Francisco, CA

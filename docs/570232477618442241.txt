@@ -1,0 +1,7 @@
+570232477618442241
+United
+@united I see you guys are at it again. Amazing how one company continually makes mistakes yet fails to be held accountable for their error
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 06:43:11 -0800
+location: Global

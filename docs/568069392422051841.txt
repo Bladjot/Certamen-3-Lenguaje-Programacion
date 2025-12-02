@@ -1,0 +1,7 @@
+568069392422051841
+Delta
+@JetBlue spoken to 2 reps. Once I'm allowed to check my bag and through the TSA checkpoint, I guarantee I will be talking to someone.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 07:27:52 -0800
+location: NYC

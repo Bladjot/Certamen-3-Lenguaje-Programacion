@@ -1,0 +1,9 @@
+569939458965032963
+Delta
+@JetBlue Awww man...but I need to buy this ticket today and be home the 1st of March
+
+Where do I go for this...or can you assist me ?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:18:50 -0800
+location: nan

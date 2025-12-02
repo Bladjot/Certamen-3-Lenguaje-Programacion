@@ -1,0 +1,7 @@
+569614088390578176
+American
+@AmericanAir My flights tomorrow were Cancelled Flighted, can't do anything online, and can't get through on phone. Help?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 13:45:56 -0800
+location: Tucson, Arizona

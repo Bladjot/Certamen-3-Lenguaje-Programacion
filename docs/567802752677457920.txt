@@ -1,0 +1,7 @@
+567802752677457920
+Southwest
+@SouthwestAir had to rebook through Atlanta &amp; now drive to #Nashville. Had to pay ridiculous price difference. Bad weather good for business
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 13:48:20 -0800
+location: nan

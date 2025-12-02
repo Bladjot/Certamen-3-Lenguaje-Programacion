@@ -1,0 +1,7 @@
+568487439062441984
+Delta
+@JetBlue When I arrived at the airport, I was told my ticket had been refunded because my name had a fraud alert.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 11:09:02 -0800
+location: nan

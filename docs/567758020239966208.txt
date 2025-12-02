@@ -1,0 +1,7 @@
+567758020239966208
+Delta
+@JetBlue alittle more money to book our flights... we're 1/2 way there :)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 10:50:35 -0800
+location: nan

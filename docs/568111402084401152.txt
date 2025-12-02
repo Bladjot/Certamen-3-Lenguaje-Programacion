@@ -1,0 +1,7 @@
+568111402084401152
+US Airways
+@usairways I am sure you are sincere in your apology, its disappointing from a customer perspective when you want loyal customers #options
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 10:14:47 -0800
+location: Delaware

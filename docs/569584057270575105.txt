@@ -1,0 +1,7 @@
+569584057270575105
+US Airways
+@USAirways with this livery back in the day. http://t.co/EEqWVAMmiy
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 11:46:36 -0800
+location: Airports Around The World

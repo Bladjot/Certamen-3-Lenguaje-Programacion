@@ -1,0 +1,7 @@
+570225098189348864
+American
+@AmericanAir and is there a delay on our connection to pns?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 06:13:52 -0800
+location: Fort Myers

@@ -1,0 +1,7 @@
+570232122826493953
+American
+@AmericanAir I understand the need to drain the lavatory fearing freezing but why no policy on checking that before boarding? smh come on...
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 06:41:47 -0800
+location: nan

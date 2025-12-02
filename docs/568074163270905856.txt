@@ -1,0 +1,7 @@
+568074163270905856
+US Airways
+@USAirways Thank you, busy times.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 07:46:49 -0800
+location: nan

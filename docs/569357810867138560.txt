@@ -1,0 +1,7 @@
+569357810867138560
+US Airways
+@USAirways Delays due to faulty engine light. Great work guys. Coming up on 2 hrs sitting on the plane #WorstAirlineInAmerica
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 20:47:34 -0800
+location: 39.0708° N, 106.9886° W

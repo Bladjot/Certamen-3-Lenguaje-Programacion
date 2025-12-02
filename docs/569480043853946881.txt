@@ -1,0 +1,7 @@
+569480043853946881
+United
+@united I'm not sure it will have "next time"...
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 04:53:17 -0800
+location: Curitiba

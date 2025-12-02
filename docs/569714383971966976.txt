@@ -1,0 +1,7 @@
+569714383971966976
+American
+@AmericanAir By "answering as fast as they can", you mean hanging up on every call?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:24:28 -0800
+location: nan

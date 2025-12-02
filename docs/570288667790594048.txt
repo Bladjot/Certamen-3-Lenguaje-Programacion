@@ -1,0 +1,7 @@
+570288667790594048
+US Airways
+@USAirways after being assured by the pleasant woman at gate B11 in Albany, NY that life's not perfect, I'd heard enough.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 10:26:28 -0800
+location: Saratoga Springs

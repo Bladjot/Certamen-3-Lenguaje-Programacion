@@ -1,0 +1,7 @@
+569870075316064256
+American
+@AmericanAir I need to be back in Cleveland as early as possible tomorrow
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 06:43:08 -0800
+location: nan

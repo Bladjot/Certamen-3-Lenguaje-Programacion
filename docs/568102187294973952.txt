@@ -1,0 +1,7 @@
+568102187294973952
+Southwest
+@SouthwestAir it's the poor customer service that I have a problem with!!!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 09:38:10 -0800
+location: Nashville by way of New York

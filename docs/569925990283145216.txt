@@ -1,0 +1,7 @@
+569925990283145216
+American
+@AmericanAir I'd like to explore both options, and what the cost might be to change the date and destination.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:25:19 -0800
+location: Boston

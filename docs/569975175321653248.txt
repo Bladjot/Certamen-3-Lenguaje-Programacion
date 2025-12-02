@@ -1,0 +1,7 @@
+569975175321653248
+American
+@AmericanAir Hi. Get error msg when trying to check in on line. States: wrong pass#. Tickets rcvd from AA due to training in DFW. U know Y?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 13:40:46 -0800
+location: nan

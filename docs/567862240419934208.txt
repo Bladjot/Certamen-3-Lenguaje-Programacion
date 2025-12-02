@@ -1,0 +1,7 @@
+567862240419934208
+Southwest
+@SouthwestAir thanks for the drink tickets hook up! Can't wait for my first international flight with you to NAS! #pumped
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 17:44:43 -0800
+location: nan

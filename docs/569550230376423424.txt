@@ -1,0 +1,7 @@
+569550230376423424
+Delta
+@JetBlue Promo Watch Phone $33 at Amazon check http://t.co/leNaOwFyvU
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 09:32:11 -0800
+location: nan

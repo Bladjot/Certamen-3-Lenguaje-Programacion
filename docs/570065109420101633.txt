@@ -1,0 +1,7 @@
+570065109420101633
+United
+@united yes in Lusaka, Zambia. My guess is the bags never made the plane at IAD.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 19:38:08 -0800
+location: mentor, Ohio

@@ -1,0 +1,7 @@
+569200983173156864
+Delta
+@JetBlue yes, We have de baggage claim, I'm so sad for the baggage and how They treat Us 😞 please we need That baggage
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 10:24:24 -0800
+location: nan

@@ -1,0 +1,7 @@
+569475092582789120
+United
+@united is 4:30am and I am in the customer service line trying not to scream. #epicfailunited
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 04:33:37 -0800
+location: Atlantic Highlands, NJ

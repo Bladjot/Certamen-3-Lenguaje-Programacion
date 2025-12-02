@@ -1,0 +1,7 @@
+570180703746461696
+American
+@AmericanAir You should be apologizing for your rude sales reps and failure to offer anything other than trite, condescending platitudes....
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 03:17:27 -0800
+location: eating curly fries w/ the wife

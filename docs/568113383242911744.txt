@@ -1,0 +1,7 @@
+568113383242911744
+Southwest
+@SouthwestAir thanks for the follow up.  I appreciate it.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 10:22:40 -0800
+location: nan

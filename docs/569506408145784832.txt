@@ -1,0 +1,7 @@
+569506408145784832
+Delta
+@JetBlue ..... No crew at our gate.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 06:38:03 -0800
+location: New York City

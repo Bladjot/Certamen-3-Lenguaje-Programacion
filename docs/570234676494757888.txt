@@ -1,0 +1,7 @@
+570234676494757888
+American
+@AmericanAir the whole plane is the same. How old is this plane?  The seats leather is coming apart ay the seams.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 06:51:55 -0800
+location: nan

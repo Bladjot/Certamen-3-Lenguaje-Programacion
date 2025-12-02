@@ -1,0 +1,7 @@
+568834824410148864
+United
+@united Thank you for your offer! All sorted out :-)
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 10:09:25 -0800
+location: nan

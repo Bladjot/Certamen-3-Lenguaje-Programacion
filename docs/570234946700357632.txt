@@ -1,0 +1,7 @@
+570234946700357632
+American
+@AmericanAir drop me a follow I need help
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 06:53:00 -0800
+location: nan

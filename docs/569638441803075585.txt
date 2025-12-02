@@ -1,0 +1,7 @@
+569638441803075585
+American
+@AmericanAir can I DM you info?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:22:42 -0800
+location: Jeddah-Karachi X NYC

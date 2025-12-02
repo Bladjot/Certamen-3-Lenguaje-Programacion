@@ -1,0 +1,7 @@
+567920067364540416
+United
+@united are the miles going to be restructured? Help a silver status brotha out! I thought I was winning with you guys until today lol
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-17 21:34:30 -0800
+location: So Cal

@@ -1,0 +1,7 @@
+570172549910409217
+American
+.@AmericanAir (2/3) ...I sat on the runway for 4 MORE HRS b4 takeoff (10 hrs Late Flight, 4:30 AM). Pilot plainly stated it was a comp/mech issue.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 02:45:03 -0800
+location: Nashville/Space

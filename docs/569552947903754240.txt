@@ -1,0 +1,7 @@
+569552947903754240
+US Airways
+@USAirways NOW they're not even accepting calls AT ALL! Come on.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 09:42:59 -0800
+location: nan

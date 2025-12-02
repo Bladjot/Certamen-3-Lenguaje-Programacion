@@ -1,0 +1,7 @@
+569971374820884481
+US Airways
+@USAirways OFFERING to give up my bag which you usually have to force passengers to do. I am in a state of shock.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 13:25:39 -0800
+location: nan

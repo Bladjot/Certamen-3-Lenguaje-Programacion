@@ -1,0 +1,7 @@
+568925709189705728
+United
+@United What idiot designed your seats? Armrest TV remote &amp; resting elbows don't mix. Seatmate keeps changing channels &amp; blasting volume.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 16:10:33 -0800
+location: New York City

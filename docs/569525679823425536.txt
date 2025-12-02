@@ -1,0 +1,7 @@
+569525679823425536
+US Airways
+@USAirways I have a MAJOR complaint that I want to address w/you about my hand luggage courtesy check-in. What's the best way to do this?
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 07:54:38 -0800
+location: Arlington, VA

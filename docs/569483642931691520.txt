@@ -1,0 +1,7 @@
+569483642931691520
+Southwest
+@SouthwestAir do you ever reinstate Cancelled Flighted flights?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 05:07:35 -0800
+location: Nashville, TN

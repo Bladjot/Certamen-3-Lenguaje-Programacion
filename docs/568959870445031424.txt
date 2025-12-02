@@ -1,0 +1,7 @@
+568959870445031424
+US Airways
+@USAirways 13 years of Naval Service and I run the travel department for all my commands...
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 18:26:18 -0800
+location: McKinney TX

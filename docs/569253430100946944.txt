@@ -1,0 +1,7 @@
+569253430100946944
+US Airways
+@USAirways sitting on a plane in Philadelphia for over 20 minutes waiting just to get off the plane. Great service!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 13:52:48 -0800
+location: nan

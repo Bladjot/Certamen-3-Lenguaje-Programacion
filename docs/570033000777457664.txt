@@ -1,0 +1,7 @@
+570033000777457664
+American
+@AmericanAir are flights from Pensacola fl delayed flight 3670
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 17:30:32 -0800
+location: Minnesota

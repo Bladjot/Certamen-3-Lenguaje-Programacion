@@ -1,0 +1,7 @@
+569956658199134208
+American
+@AmericanAir is there a probability that flight 1330 from DFW to DTW will be delayed or Cancelled Flighted?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:27:11 -0800
+location: nan

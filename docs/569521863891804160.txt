@@ -1,0 +1,7 @@
+569521863891804160
+United
+@united I6EP18
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 07:39:28 -0800
+location: FL

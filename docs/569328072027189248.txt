@@ -1,0 +1,7 @@
+569328072027189248
+United
+@united My contact stuff is in the bag and I'm legally blind. This is so messed up.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 18:49:24 -0800
+location: Rhode Island

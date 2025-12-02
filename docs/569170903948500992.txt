@@ -1,0 +1,7 @@
+569170903948500992
+United
+@united I'm strongly considering taking my business elsewhere. #UnitedAirlines
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 08:24:52 -0800
+location: New York

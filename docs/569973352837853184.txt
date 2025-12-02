@@ -1,0 +1,7 @@
+569973352837853184
+American
+@AmericanAir about when can I see a new American Airlines credit card to replace my USAIRWAYS dividend MasterCard?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:33:31 -0800
+location: nan

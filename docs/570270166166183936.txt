@@ -1,0 +1,7 @@
+570270166166183936
+Southwest
+@SouthwestAir Any idea when the winter advisory will be posted for ATL for tomorrow (2/25)?? I'd rather get to PHL tonight.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:12:57 -0800
+location: Boston, Atlanta, or in-flight

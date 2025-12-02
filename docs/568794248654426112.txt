@@ -1,0 +1,7 @@
+568794248654426112
+Delta
+Thanks! Hope I don't look like a complainer, I've written of good experiences w/you in the past and am making do in terminal 5 :) @JetBlue
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 07:28:11 -0800
+location: New York

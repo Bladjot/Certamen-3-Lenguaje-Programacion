@@ -1,0 +1,7 @@
+568982253553844225
+United
+@united tell me something I don't know...not #keepingit100 #weaktea
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 19:55:15 -0800
+location: Denver, CO

@@ -1,0 +1,7 @@
+569612947833671680
+American
+@AmericanAir I get &amp; can appreciate that. I've just had so many problems in the last year flying with guys... Pretty aggravating.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 13:41:24 -0800
+location: Plano, TX

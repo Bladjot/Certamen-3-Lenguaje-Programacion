@@ -1,0 +1,7 @@
+568228761566642176
+Southwest
+@SouthwestAir, I really appreciate you all's #BHM commercial that aired today during @BET's #BookofNegroes
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 18:01:08 -0800
+location: The Bull City, NC

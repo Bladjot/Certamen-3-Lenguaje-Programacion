@@ -1,0 +1,7 @@
+569003837975089152
+Delta
+@JetBlue you're customer service is terrible. #NeverAgain #flywhonotblue
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 21:21:01 -0800
+location: Boston

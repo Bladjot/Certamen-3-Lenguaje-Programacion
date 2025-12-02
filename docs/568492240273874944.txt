@@ -1,0 +1,7 @@
+568492240273874944
+US Airways
+@USAirways worst airline ever....left without luggage for 7 days, submit $700 expenses and they offer a refund of $297? #badservice
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 11:28:06 -0800
+location: Manchester

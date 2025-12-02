@@ -1,0 +1,7 @@
+569699027782012930
+Delta
+@JetBlue didn't work. Fly-fi plus couldn't access ABC app. So I spent $19 and still missed Oscars. #disappointed
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 19:23:27 -0800
+location: nan

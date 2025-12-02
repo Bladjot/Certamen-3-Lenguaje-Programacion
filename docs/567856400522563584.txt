@@ -1,0 +1,7 @@
+567856400522563584
+Delta
+@JetBlue yes, well they are operating outside of your terminal and targeting vulnerable passengers. No better than thieves.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 17:21:30 -0800
+location: Dorado

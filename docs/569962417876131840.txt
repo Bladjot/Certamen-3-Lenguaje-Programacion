@@ -1,0 +1,7 @@
+569962417876131840
+Delta
+@JetBlue CEO battles to appease passengers, investors - Toledo Blade http://t.co/R4xJXQRX1z
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:50:04 -0800
+location: UK

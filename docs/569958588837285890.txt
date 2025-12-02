@@ -1,0 +1,7 @@
+569958588837285890
+Delta
+#Real RT @JetBlue: Our fleet's on fleek. http://t.co/ERzht75kqZ
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:34:51 -0800
+location: Bushmansted

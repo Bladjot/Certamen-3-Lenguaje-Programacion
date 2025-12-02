@@ -1,0 +1,7 @@
+568760866088337409
+US Airways
+@USAirways is the worst. 45 minute delay in Boston. Not weather reLate Flightd. Going to miss our connecting flight. Gassing up the plane issue.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 05:15:32 -0800
+location: nan

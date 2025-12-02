@@ -1,0 +1,7 @@
+569929653730840577
+United
+@united it was UA381 on 14 Feb. Point is, overselling flights= bad. Making people wait 1hr while you kick them off after boarding is worse
+sentiment: negative
+negativereason: longlines
+created: 2015-02-23 10:39:52 -0800
+location: Ottawa, Ontario

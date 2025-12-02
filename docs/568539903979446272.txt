@@ -1,0 +1,7 @@
+568539903979446272
+Southwest
+@SouthwestAir Problem is, I wasn't issued a position until today at the gate. And no option to upgrade. Not good when you're 6'4.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 14:37:30 -0800
+location: Austin, TX

@@ -1,0 +1,7 @@
+568385303267782656
+United
+@united Hi, booked a flight yesterday and received an email w/ confirmation number but today I got this error "no active flight segments"
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 04:23:11 -0800
+location: Paris

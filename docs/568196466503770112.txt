@@ -1,0 +1,7 @@
+568196466503770112
+Delta
+@JetBlue the big board says we aren't leaving until after 8:30 😩
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 15:52:48 -0800
+location: nan

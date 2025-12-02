@@ -1,0 +1,7 @@
+569504176306331649
+United
+@united Thank you for wasting my time &amp; money. Not only will I now arrive 5 hours Late Flight to my destination, but...
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 06:29:11 -0800
+location: 43206

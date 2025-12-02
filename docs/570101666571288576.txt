@@ -1,0 +1,7 @@
+570101666571288576
+American
+@AmericanAir - Reference number to this request: 1-3001408092
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 22:03:23 -0800
+location: Stamford, CT

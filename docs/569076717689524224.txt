@@ -1,0 +1,7 @@
+569076717689524224
+United
+@united UA 1706 delayed again - I get charged $600 if Late Flight by you - you say "oh well"
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 02:10:37 -0800
+location: Colorado

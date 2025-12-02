@@ -1,0 +1,7 @@
+569623211324735488
+US Airways
+@USAirways is really good at deferring responsibility.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:22:11 -0800
+location: nan

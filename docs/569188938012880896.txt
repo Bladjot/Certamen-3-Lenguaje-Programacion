@@ -1,0 +1,7 @@
+569188938012880896
+United
+@united Why do I still not have my bags? They arrived @10AM &amp;website says they're still at the airport..2 1/2 hours Late Flightr???!! #nothappy
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 09:36:32 -0800
+location: Atlanta

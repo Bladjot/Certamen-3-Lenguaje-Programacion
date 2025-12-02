@@ -1,0 +1,7 @@
+569218789834821632
+Southwest
+@SouthwestAir @ LAX is almost a mess. For some reason the express bag drop is slower than the full service line. http://t.co/ORY89eEGek
+sentiment: negative
+negativereason: longlines
+created: 2015-02-21 11:35:09 -0800
+location: Bay Area

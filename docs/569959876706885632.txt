@@ -1,0 +1,7 @@
+569959876706885632
+American
+@AmericanAir After being patient about my "delayed" bags for 5 weeks, I was told that it could take another 3 to 5 weeks. Unacceptable!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 12:39:58 -0800
+location: nan

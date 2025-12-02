@@ -1,0 +1,7 @@
+568002085888897025
+US Airways
+@USAirways after last night in Charlotte NC I'm seriously debating never flying you again. 50 minute on the Tarmac, connection leaves.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 03:00:24 -0800
+location: Milwaukee, WI

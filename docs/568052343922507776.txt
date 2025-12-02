@@ -1,0 +1,7 @@
+568052343922507776
+Southwest
+@SouthwestAir Thanks I just sent a DM with this info.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 06:20:07 -0800
+location: Seattle, WA

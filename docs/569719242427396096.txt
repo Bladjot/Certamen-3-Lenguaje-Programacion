@@ -1,0 +1,7 @@
+569719242427396096
+US Airways
+@USAirways not given option for new flight! Why can't we get a plane PHL-MIA? 20years as an #eventprof this is worst travel experience ever
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 20:43:46 -0800
+location: Pennsylvania

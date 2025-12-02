@@ -1,0 +1,7 @@
+570059874480091136
+American
+@AmericanAir seriously, all flights from Detroit to Dallas are Cancelled Flightled 2 days in a row. I want to get home &amp; see my wife &amp; kids.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 19:17:19 -0800
+location: Waco, TX

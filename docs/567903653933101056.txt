@@ -1,0 +1,7 @@
+567903653933101056
+Delta
+@JetBlue shout out to the crew on flight 89 headed back to the big apple, they kept my glass half full the whole flight! #jetbluejfk
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 20:29:16 -0800
+location: San Diego, CA

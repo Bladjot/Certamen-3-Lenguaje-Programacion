@@ -1,0 +1,7 @@
+569649297731399682
+US Airways
+@USAirways ...was Cancelled Flightled and now I need to locate my baggage
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 16:05:50 -0800
+location: nan

@@ -1,0 +1,7 @@
+569748491943038976
+United
+@united that's why I missed my flight. If the flight had been held for 5 minutes I would have made it. I watched it pull away from the gate
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 22:40:00 -0800
+location: Vancouver, CA

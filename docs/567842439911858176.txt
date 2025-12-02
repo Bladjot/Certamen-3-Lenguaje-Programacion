@@ -1,0 +1,7 @@
+567842439911858176
+US Airways
+@USAirways Stop reposting same autoresponse  That was return flight home #imateacher. Couldnt get to RSW  #neptune#waivethefee #notmyfault
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 16:26:02 -0800
+location: South Shore, MA

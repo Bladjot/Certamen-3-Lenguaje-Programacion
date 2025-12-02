@@ -1,0 +1,7 @@
+569571437389881344
+Southwest
+@SouthwestAir here's a first..both pilot and first officer in galley during flight...
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 10:56:27 -0800
+location: Indianapolis

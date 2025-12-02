@@ -1,0 +1,7 @@
+568423886762569728
+Delta
+@JetBlue just mine sadly.. But yea the fly fi is awesome
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 06:56:30 -0800
+location: nan

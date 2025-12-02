@@ -1,0 +1,7 @@
+568576763212619777
+United
+@united should contact me and the others on my flight who can't get their website to work. None of our info is valid! http://t.co/3zpJr7kWbk
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 17:03:58 -0800
+location: Jacksonville Beach, FL

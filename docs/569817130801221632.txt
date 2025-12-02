@@ -1,0 +1,7 @@
+569817130801221632
+American
+@AmericanAir just want to thank you guys for the 27 hour delay for flight AA106 from JFK due to staff shortage and not weather✈️
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 03:12:45 -0800
+location: my top secret gaming facility

@@ -1,0 +1,7 @@
+567790793197629440
+US Airways
+@USAirways Please staff your flights approproately. Our entire flight is delayed because FA isnt here. I shouldnt have left Delta...
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 13:00:48 -0800
+location: Boston

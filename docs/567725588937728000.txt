@@ -1,0 +1,7 @@
+567725588937728000
+US Airways
+@USAirways @AmericanAir you make Spirit look like the gem of air travel. You haven't handle this winter storm very well...
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 08:41:42 -0800
+location: MiamiHoustonDCHouston

@@ -1,0 +1,7 @@
+570233809129467905
+American
+@AmericanAir If the flight I selected online was what was ticketed I would not be missing my connection. I need help getting to DFW or IAH!!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 06:48:29 -0800
+location: nan

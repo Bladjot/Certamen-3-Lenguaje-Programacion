@@ -1,0 +1,7 @@
+568448300325605377
+Southwest
+@SouthwestAir Can someone rebook me? Please direct message me.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 08:33:30 -0800
+location: Gone West

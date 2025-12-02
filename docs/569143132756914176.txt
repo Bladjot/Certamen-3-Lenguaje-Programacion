@@ -1,0 +1,7 @@
+569143132756914176
+Southwest
+@SouthwestAir been on hold to rebook a flight to CMH for 1.5 hrs. Your rebook website is crashed.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 06:34:31 -0800
+location: Ohio

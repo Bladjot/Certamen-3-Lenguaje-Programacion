@@ -1,0 +1,7 @@
+569644694759714816
+US Airways
+@USAirways can I get a beer please. Flight #1715
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:47:33 -0800
+location: SC

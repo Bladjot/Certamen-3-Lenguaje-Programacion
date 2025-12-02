@@ -1,0 +1,7 @@
+568501367754661888
+US Airways
+@USAirways @garywerk poor excuse. I was towards front of plane, no sandwiches, we have to pay for them, should have more
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-19 12:04:22 -0800
+location: Home sweet Hollywood Home

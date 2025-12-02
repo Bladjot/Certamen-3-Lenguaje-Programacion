@@ -1,0 +1,7 @@
+569611721054162945
+American
+@AmericanAir #AmericanAirlines 1 1/2 hr wait for bags. If this is the a taste of the worlds largest airline, heaven help aviation
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:36:31 -0800
+location: Los Angeles, CA

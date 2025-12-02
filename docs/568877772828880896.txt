@@ -1,0 +1,7 @@
+568877772828880896
+Delta
+@JetBlue It was fabulous! Very pleased.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 13:00:04 -0800
+location: Hong Kong, SAR

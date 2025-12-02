@@ -1,0 +1,7 @@
+568046298080923649
+United
+@united I locked myself out of my account and needed access to book a flight.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 05:56:05 -0800
+location: Washington DC

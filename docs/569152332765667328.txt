@@ -1,0 +1,7 @@
+569152332765667328
+Delta
+@JetBlue while in Haiti Id do food distribution for hundreds of hungry kids in nearby villages. #flyingitforward http://t.co/lTf2quD3Xc
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 07:11:05 -0800
+location: boise, idaho

@@ -1,0 +1,7 @@
+569353354545008640
+US Airways
+@USAirways it was your fault the flight was delayed to begin with. I shouldn't have to check my bag if there's a bunch of space
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 20:29:52 -0800
+location: nan

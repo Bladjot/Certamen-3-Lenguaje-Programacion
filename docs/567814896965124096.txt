@@ -1,0 +1,7 @@
+567814896965124096
+Southwest
+@SouthwestAir yeah, all 4 are rebooked for tomorrow AM. Hoping the 3rd time is a charm for no Cancelled Flightled flights!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 14:36:35 -0800
+location: nashville, tn

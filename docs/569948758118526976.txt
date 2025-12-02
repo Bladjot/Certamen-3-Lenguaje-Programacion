@@ -1,0 +1,7 @@
+569948758118526976
+American
+@AmericanAir Thank you
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:55:47 -0800
+location: San Diego

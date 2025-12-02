@@ -1,0 +1,7 @@
+567852550512181248
+Delta
+@JetBlue where exactly can I leave a note
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 17:06:12 -0800
+location: Dorado

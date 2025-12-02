@@ -1,0 +1,7 @@
+568967381860503552
+United
+@United #767 taxing in at #ORD @fly2ohare @AirlineGeeks #avgeek http://t.co/uPocMmuLUN
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 18:56:09 -0800
+location: nan

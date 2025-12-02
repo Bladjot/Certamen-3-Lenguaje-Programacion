@@ -1,0 +1,7 @@
+569671173136637953
+Delta
+@JetBlue how do we watch the oscars though right now?! No abc on flight :( #missingtheoscars
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 17:32:46 -0800
+location: Boston, MA

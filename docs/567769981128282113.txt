@@ -1,0 +1,7 @@
+567769981128282113
+Virgin America
+@VirginAmerica so loyal that I'm driving to #NYC from #PA, to fly Virgin,  since you cut #Philly flights ;)
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 11:38:06 -0800
+location: next city

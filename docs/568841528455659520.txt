@@ -1,0 +1,7 @@
+568841528455659520
+United
+@united I looked on the email chain and there is not one
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 10:36:03 -0800
+location: Global

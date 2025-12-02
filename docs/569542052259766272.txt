@@ -1,0 +1,7 @@
+569542052259766272
+Delta
+@JetBlue this is ridiculous we are on 1.5 hours coming up of waiting to deplane, there are are newborns on board
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 08:59:41 -0800
+location: New York City, NY

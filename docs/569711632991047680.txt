@@ -1,0 +1,7 @@
+569711632991047680
+United
+@united yea they been booked on 10 next avalible flights since sat 7am. And when time comes no plane 2nd day of work missed #hotelliving
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 20:13:32 -0800
+location: nan

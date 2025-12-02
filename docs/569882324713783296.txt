@@ -1,0 +1,7 @@
+569882324713783296
+US Airways
+@USAirways Cancelled Flights flight Tampa to Philadelphia today due to runway conditions yet tonnes of USAirways flights landing there today, explain!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 07:31:48 -0800
+location: Sheffield

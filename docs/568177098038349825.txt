@@ -1,0 +1,7 @@
+568177098038349825
+Delta
+@JetBlue My #FlyingItForward affects just one small family of four, but it would make a huge difference in their life.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 14:35:51 -0800
+location: Washington, DC

@@ -1,0 +1,7 @@
+569989034501500928
+Virgin America
+@VirginAmerica I called a 3-4 weeks ago about adding 3 flights from 2014 to my Elevate...they still haven't shown up...help!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:35:50 -0800
+location: New York, NY

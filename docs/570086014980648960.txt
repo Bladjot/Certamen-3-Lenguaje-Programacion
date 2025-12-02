@@ -1,0 +1,7 @@
+570086014980648960
+American
+@AmericanAir I'm at the airport right now and your people didn't know how to react and help me with this situation. Very frustrated.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 21:01:12 -0800
+location: Argentina

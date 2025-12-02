@@ -1,0 +1,7 @@
+568238605036064768
+US Airways
+@USAirways yup 1:34 minutes was my limit of waiting on hold so thanks for nothing
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 18:40:15 -0800
+location: Wisconsin

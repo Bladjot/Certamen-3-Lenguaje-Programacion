@@ -1,0 +1,7 @@
+567834021293596672
+US Airways
+@USAirways flying high thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 15:52:35 -0800
+location: Wading River

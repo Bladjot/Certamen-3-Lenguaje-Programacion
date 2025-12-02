@@ -1,0 +1,7 @@
+570044138302808064
+American
+@AmericanAir Do you have any flights with lie flat seating from STL to PDX around the date of March 5?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 18:14:48 -0800
+location: nan

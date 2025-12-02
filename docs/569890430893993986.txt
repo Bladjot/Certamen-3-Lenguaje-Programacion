@@ -1,0 +1,7 @@
+569890430893993986
+US Airways
+@USAirways thanx but this isn't my first rodeo. Done &amp; done yesterday. No results or comm, unless u count status: bags lost &amp; claim filed.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 08:04:01 -0800
+location: Stillwater, MN

@@ -1,0 +1,7 @@
+568533330557186048
+United
+@united keeps delaying my flight, horrible customer service
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 14:11:23 -0800
+location: nan

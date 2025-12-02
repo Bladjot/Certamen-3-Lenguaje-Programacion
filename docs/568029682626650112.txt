@@ -1,0 +1,7 @@
+568029682626650112
+US Airways
+@USAirways You all work hard at making sure things flow smoothly. Keeping positive.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 04:50:04 -0800
+location: On a mountain in Eastern PA

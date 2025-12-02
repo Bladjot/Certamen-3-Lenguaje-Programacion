@@ -1,0 +1,7 @@
+568468715819266048
+Southwest
+@SouthwestAir yeehaw. You found us another plane.  Thx for listening to me vent.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 09:54:38 -0800
+location: nan

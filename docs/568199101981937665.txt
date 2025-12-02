@@ -1,0 +1,7 @@
+568199101981937665
+Delta
+@JetBlue They did not have any &amp; asked if I wanted tea. How do you have tea&amp;not coffee? I'm a gold on United &amp; coffee I nvr think 2x about
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 16:03:17 -0800
+location: Austin, TX

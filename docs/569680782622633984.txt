@@ -1,0 +1,7 @@
+569680782622633984
+US Airways
+@USAirways is holding my luggage hostage from flight 5182
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 18:10:57 -0800
+location: Earth

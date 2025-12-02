@@ -1,0 +1,7 @@
+570085132251598850
+US Airways
+@USAirways   My email gets me a canned response that it takes 10 days for mileage to get credited --- It's been three months and my miles
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 20:57:41 -0800
+location: nan

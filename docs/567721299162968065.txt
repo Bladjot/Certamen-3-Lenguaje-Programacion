@@ -1,0 +1,7 @@
+567721299162968065
+Southwest
+@SouthwestAir Cancelled Flightled my flight out of BNA today. Been on hold for an hour. 😠 #frustrated!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 08:24:40 -0800
+location: orlando

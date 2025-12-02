@@ -1,0 +1,7 @@
+569296784922578944
+United
+@united Flight has been delayed for another hour so only have 24 mins to transit at LAX... Extremely unlikely I will make it!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 16:45:05 -0800
+location: Sydney, Australia

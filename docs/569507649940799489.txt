@@ -1,0 +1,7 @@
+569507649940799489
+Southwest
+@SouthwestAir grouchy about this flight 636 #complimentarybeveragesneeded
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 06:42:59 -0800
+location: nan

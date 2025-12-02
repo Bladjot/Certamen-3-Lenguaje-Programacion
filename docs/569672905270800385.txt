@@ -1,0 +1,7 @@
+569672905270800385
+American
+@AmericanAir how can you not be taking calls? I need to change my flight!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:39:39 -0800
+location: nan

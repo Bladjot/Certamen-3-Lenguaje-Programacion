@@ -1,0 +1,7 @@
+569703480933408768
+United
+@united I did. It took about an hour and a half though
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 19:41:09 -0800
+location: Rockaway, NJ

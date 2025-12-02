@@ -1,0 +1,7 @@
+569700397884928000
+American
+@AmericanAir wow @AmericanAir still screw n stuff up
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 19:28:54 -0800
+location: Albuquerque,New Mexico

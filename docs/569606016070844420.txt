@@ -1,0 +1,7 @@
+569606016070844420
+United
+@united I'll try it. Mileage programs have historically been a lifeline for us world-hungry travelers of moderate means.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 13:13:51 -0800
+location: ÜT: 42.986193,-87.914855

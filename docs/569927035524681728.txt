@@ -1,0 +1,9 @@
+569927035524681728
+Delta
+“@JetBlue: Our fleet's on fleek. http://t.co/Lv9HwQDK9A”
+
+Can't fly you anymore, we had a good run ✌️
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 10:29:28 -0800
+location: New York City

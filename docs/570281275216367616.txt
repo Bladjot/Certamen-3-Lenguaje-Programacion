@@ -1,0 +1,7 @@
+570281275216367616
+Southwest
+@SouthwestAir @heavenlychc9 I'd at least enjoy a free cocktail...or two.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 09:57:05 -0800
+location: nan

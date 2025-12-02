@@ -1,0 +1,7 @@
+569124416891817984
+Southwest
+@SouthwestAir is my favorite airline!  I can't wait to book my flight to New Orleans for my trip in April!! :) :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 05:20:09 -0800
+location: Narragansett, Rhode Island

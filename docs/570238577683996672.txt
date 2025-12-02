@@ -1,0 +1,7 @@
+570238577683996672
+Southwest
+@SouthwestAir is the best airline hands down. Amazing customer service, bags free and affordable flights. #happycamper
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 07:07:26 -0800
+location: nan

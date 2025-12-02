@@ -1,0 +1,7 @@
+569930805688053761
+American
+@AmericanAir  terrible response! How about someone picking up the phone and calling me...It is now 49 Hours with no luggage
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:44:27 -0800
+location: Miami Beach

@@ -1,0 +1,7 @@
+570280800244994048
+Southwest
+@SouthwestAir I agree! RT @9NEWS: One airline is the fly-away favorite at DIA  #9NEWSBusiness http://t.co/o3WlaInImY
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 09:55:12 -0800
+location: Denver, CO

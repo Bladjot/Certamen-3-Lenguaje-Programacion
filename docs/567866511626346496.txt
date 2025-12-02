@@ -1,0 +1,7 @@
+567866511626346496
+Southwest
+@SouthwestAir not very helpful trying to get out of Nashville.Should waive change fee for 2/18.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 18:01:41 -0800
+location: Tampa

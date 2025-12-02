@@ -1,0 +1,7 @@
+568855933360607232
+Virgin America
+@VirginAmerica they told to check with the airline regulation first so that is why I contacted you.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 11:33:18 -0800
+location: Las Vegas, NV

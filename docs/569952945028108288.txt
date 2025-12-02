@@ -1,0 +1,7 @@
+569952945028108288
+American
+@AmericanAir hey ho its not me losing any money (only you) just next make sure you stick to the "flyers right's booklet"
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 12:12:25 -0800
+location: my top secret gaming facility

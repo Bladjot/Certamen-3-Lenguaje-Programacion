@@ -1,0 +1,7 @@
+568883664219537408
+United
+@united this is for a check-in luggage. Employee told me not to include wheels in the dimensions.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 13:23:29 -0800
+location: Southern California

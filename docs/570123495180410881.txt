@@ -1,0 +1,7 @@
+570123495180410881
+American
+@AmericanAir no no no, YOU DM me, I pay you money and you want to me to reach out to you for help? How about the other way around
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 23:30:08 -0800
+location: nan

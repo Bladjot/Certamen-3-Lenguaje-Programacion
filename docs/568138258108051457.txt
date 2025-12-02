@@ -1,0 +1,7 @@
+568138258108051457
+United
+@united my reservation were changed so that I can longer make my connecting flight. How can I change this without incurring a fee?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 12:01:30 -0800
+location: DC

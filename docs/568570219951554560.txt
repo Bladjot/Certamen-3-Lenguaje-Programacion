@@ -1,0 +1,7 @@
+568570219951554560
+Southwest
+@SouthwestAir do we have a time estimate for our luggage? we'll be sure to fill out your survey!!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 16:37:58 -0800
+location: nan

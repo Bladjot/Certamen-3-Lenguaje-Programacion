@@ -1,0 +1,7 @@
+569939301301153792
+US Airways
+@usairways really need help asap, so please make it quick. Thx.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:18:13 -0800
+location: nan

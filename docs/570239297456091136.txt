@@ -1,0 +1,7 @@
+570239297456091136
+Delta
+@JetBlue just leave certain things to the kids.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 07:10:17 -0800
+location: l be where l'm at

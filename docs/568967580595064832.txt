@@ -1,0 +1,7 @@
+568967580595064832
+Southwest
+@SouthwestAir not sure why we are still here in Dallas.  Plane has been at gate for 30 min.  No update at all.  Flight 1140, poor service.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 18:56:56 -0800
+location: Dallas, TX.

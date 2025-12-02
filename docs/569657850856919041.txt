@@ -1,0 +1,7 @@
+569657850856919041
+American
+@AmericanAir you put a sour taste on this customer’s vacation. it was joke watching those “we care thanks for choosing us” videos
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 16:39:50 -0800
+location: nan

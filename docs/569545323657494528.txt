@@ -1,0 +1,7 @@
+569545323657494528
+Delta
+@JetBlue nope. This 8:45am flight is now not leaving until almost 5pm. 5! I can't believe I paid money for this.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 09:12:41 -0800
+location: austin

@@ -1,0 +1,7 @@
+569894295953645568
+US Airways
+@USAirways Pilot pleads to let boarding begin for full flight #1937 while waiting for 4th flight attendant. Denied by mission control. Grrrr
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 08:19:22 -0800
+location: Wayland, MA USA

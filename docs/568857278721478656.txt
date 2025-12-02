@@ -1,0 +1,7 @@
+568857278721478656
+US Airways
+@USAirways #2066. Was on plane from PBI to CLT and knew about the frozen water. Also saw a plane to NYC take off at the gate next door!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 11:38:38 -0800
+location: Boston, MA

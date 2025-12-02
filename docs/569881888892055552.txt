@@ -1,0 +1,7 @@
+569881888892055552
+American
+@AmericanAir I've been calling your 1800 # all morning to change my name for an upcoming trip but am not able to get through. Please advise!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:30:04 -0800
+location: Brklyn by way of San Franciso

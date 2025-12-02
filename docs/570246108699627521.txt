@@ -1,0 +1,7 @@
+570246108699627521
+American
+@AmericanAir Thanks for the quick response - it's appreciated!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 07:37:21 -0800
+location: Wichita, KS

@@ -1,0 +1,7 @@
+569742876793372672
+American
+@AmericanAir now we are all stuck on the plane after landing because crew unable to figure it out
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 22:17:41 -0800
+location: Austin, TX

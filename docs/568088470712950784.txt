@@ -1,0 +1,7 @@
+568088470712950784
+United
+@united another week has passed and I hoped that I would have had a response by now
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 08:43:40 -0800
+location: Amsterdam

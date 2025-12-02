@@ -1,0 +1,7 @@
+567823510245236739
+United
+@united we showed up to our flight several hours early. Tried to call &amp; was on hold 15 min b/f call disconnected.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 15:10:49 -0800
+location: San Antonio

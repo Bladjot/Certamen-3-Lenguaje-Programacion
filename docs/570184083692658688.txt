@@ -1,0 +1,7 @@
+570184083692658688
+American
+@AmericanAir 3 months of straight travel ahead. Time to find new airline.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 03:30:53 -0800
+location: nan

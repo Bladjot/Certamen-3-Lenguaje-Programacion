@@ -1,0 +1,7 @@
+570303889754488832
+American
+@AmericanAir I purchased Main Cabin XT for f-1571AUS. Flight was Cancelled Flightled and I was rescheduled on 1600 with regular seats. Credit?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 11:26:57 -0800
+location: Puerto Rico

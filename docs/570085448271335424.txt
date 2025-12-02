@@ -1,0 +1,7 @@
+570085448271335424
+United
+@united Lost bags. Cancelled Flightled flights. Delhi call centers. Poor United staff spread thin and stressed. You name it.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 20:58:57 -0800
+location: San Francisco

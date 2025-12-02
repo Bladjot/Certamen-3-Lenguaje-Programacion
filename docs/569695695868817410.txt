@@ -1,0 +1,7 @@
+569695695868817410
+Southwest
+@SouthwestAir @fly2midway 45 minute wait for my bags. Just what I needed on a Sunday night.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 19:10:12 -0800
+location: nan

@@ -1,0 +1,7 @@
+569621351650209792
+Delta
+@JetBlue it seems almost inconceivable that sitting a 5 year old alone is considered okay. But this guy thinks so. http://t.co/q9n6NZYSpK
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 14:14:47 -0800
+location: nan

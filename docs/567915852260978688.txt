@@ -1,0 +1,7 @@
+567915852260978688
+US Airways
+@USAirways this day has been a disaster, rude employees, no help &amp; now no hotel. not flying with you again &amp; I fly ALOT! Dallas=raise=now!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 21:17:45 -0800
+location: salt lake city, utah

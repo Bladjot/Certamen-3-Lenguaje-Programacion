@@ -1,0 +1,7 @@
+569936251551232000
+American
+@AmericanAir  CXL flight. rebooked 2 PAX no problems. Thank you and everyone at AA for helping us all out!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 11:06:05 -0800
+location: Texas

@@ -1,0 +1,7 @@
+568108968867819520
+Delta
+@JetBlue's CEO #pilots among ardent fans, Wall Street - Poughkeepsie Journal http://t.co/FRhuXiB8II
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 10:05:07 -0800
+location: USA

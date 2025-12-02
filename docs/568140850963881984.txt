@@ -1,0 +1,7 @@
+568140850963881984
+United
+@united Thanks, but not so much the missing bag as the nonexistent staff at this apparent remote outpost (busy airport for city of ~1M).
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 12:11:49 -0800
+location: Edmonton, Alberta, Canada

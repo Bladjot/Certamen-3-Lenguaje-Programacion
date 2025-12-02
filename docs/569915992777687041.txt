@@ -1,0 +1,7 @@
+569915992777687041
+American
+@AmericanAir received an email requesting I call about a res. but I keep getting kicked off of your phone system. Help?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:45:35 -0800
+location: nan

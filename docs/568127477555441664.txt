@@ -1,0 +1,7 @@
+568127477555441664
+US Airways
+@USAirways I have sent letter after letter and get back nothing but form letters and half baked reply's #usairwaysssuck
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 11:18:40 -0800
+location: nan

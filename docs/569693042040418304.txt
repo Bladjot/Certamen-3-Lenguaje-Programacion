@@ -1,0 +1,7 @@
+569693042040418304
+US Airways
+@USAirways - just passed the 3 hour mark #onholdwith you for THIS call.  Gave up after 2.5 this morning.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:59:40 -0800
+location: nan

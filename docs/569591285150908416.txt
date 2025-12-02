@@ -1,0 +1,7 @@
+569591285150908416
+American
+@AmericanAir DMing you now! Big thanks.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 12:15:19 -0800
+location: Columbus, OH, USA

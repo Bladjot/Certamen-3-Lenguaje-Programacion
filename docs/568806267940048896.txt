@@ -1,0 +1,7 @@
+568806267940048896
+US Airways
+@USAirways Reservation agent on the phone did a great job.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 08:15:56 -0800
+location: Boston,MA

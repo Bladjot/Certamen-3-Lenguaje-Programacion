@@ -1,0 +1,7 @@
+569946372901707776
+Delta
+@JetBlue @TatianaKing @thewayoftheid I feel only a few free travel vouchers will assuage my indignation.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 11:46:19 -0800
+location: Los Angeles, CA

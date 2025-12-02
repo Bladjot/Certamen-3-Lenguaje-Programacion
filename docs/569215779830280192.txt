@@ -1,0 +1,7 @@
+569215779830280192
+United
+@united Just let the employees know that good service and a kind attitude towards customers is vital in this kind of business. Thanks
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 11:23:12 -0800
+location: nan

@@ -1,0 +1,7 @@
+570030083093729280
+US Airways
+@USAirways I can't wait to never fly with you again. Always delayed. Always lose my bag. Rudest people on the planet. Southwest is the best
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 17:18:57 -0800
+location: nan

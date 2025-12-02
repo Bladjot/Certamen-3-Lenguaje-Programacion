@@ -1,0 +1,7 @@
+569660648738697216
+American
+@AmericanAir is that something the crew on the current leg can request of the gate team on the next leg?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 16:50:57 -0800
+location: Lewes, DE, USA

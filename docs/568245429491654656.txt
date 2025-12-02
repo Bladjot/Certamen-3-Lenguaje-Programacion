@@ -1,0 +1,7 @@
+568245429491654656
+US Airways
+@USAirways : i have been trying to reach dividend miles  to extend my ticket for last 3 days , 20 + calls and i get a message to call back
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 19:07:22 -0800
+location: nan

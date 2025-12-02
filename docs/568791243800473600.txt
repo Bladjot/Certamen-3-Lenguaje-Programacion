@@ -1,0 +1,7 @@
+568791243800473600
+US Airways
+@USAirways I spoke with a customer service rep who was rude and curt and transferred me to eternal hold. Sad. #badservice #mergerdisaster
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 07:16:14 -0800
+location: Jamaica

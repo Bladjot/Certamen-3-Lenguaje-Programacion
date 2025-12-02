@@ -1,0 +1,7 @@
+569493018081947649
+US Airways
+@USAirways 23 min on hold... Drove 2.5 hours to get my delayed bag. I just want to pick it up at SJU.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 05:44:50 -0800
+location: nan

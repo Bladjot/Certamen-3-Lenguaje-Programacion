@@ -1,0 +1,7 @@
+567767201286205441
+Southwest
+@SouthwestAir chances of flight leaving BNA tomorrow at 6:20 am (to LGA)?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 11:27:04 -0800
+location: nyc/nashville/san diego

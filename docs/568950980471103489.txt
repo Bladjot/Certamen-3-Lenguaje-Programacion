@@ -1,0 +1,7 @@
+568950980471103489
+United
+@united Marcus helped me - good agent, couldn't fix it. Flight was listed on website, but "unavailable"to book. False advertising much?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 17:50:58 -0800
+location: Brooklyn, NY

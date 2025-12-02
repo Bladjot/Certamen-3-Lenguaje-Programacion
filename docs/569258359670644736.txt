@@ -1,0 +1,7 @@
+569258359670644736
+Southwest
+@SouthwestAir the ball has been dropped. My snowboard will not be making it to my destination. #totalfail #letdown
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 14:12:23 -0800
+location: Tallahassee, FL

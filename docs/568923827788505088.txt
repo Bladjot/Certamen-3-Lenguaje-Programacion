@@ -1,0 +1,7 @@
+568923827788505088
+Southwest
+@SouthwestAir here we go again. Delayed in Chicago why offer the 630 flight if you never intend to fly it
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 16:03:05 -0800
+location: nan

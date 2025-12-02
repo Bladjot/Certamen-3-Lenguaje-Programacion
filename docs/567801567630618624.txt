@@ -1,0 +1,7 @@
+567801567630618624
+Delta
+@JetBlue is bag check cut off 30 minutes before the original departure time or the estimated time shown online?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 13:43:37 -0800
+location: District of Columbia

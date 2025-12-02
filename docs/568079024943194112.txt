@@ -1,0 +1,7 @@
+568079024943194112
+US Airways
+@USAirways new tag line "but we got you there alive!"
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 08:06:08 -0800
+location: Richmond, Virginia

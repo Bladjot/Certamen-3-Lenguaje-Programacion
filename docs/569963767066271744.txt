@@ -1,0 +1,7 @@
+569963767066271744
+American
+@AmericanAir our flight AA 1338 is delayed out of Providenciales and will be missing our connection AA 1651 in Miami to SEA. Who do we call?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 12:55:26 -0800
+location: Vancouver

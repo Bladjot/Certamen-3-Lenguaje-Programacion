@@ -1,0 +1,7 @@
+569943857418399746
+US Airways
+@USAirways US 728 stated their issues as: no one around to close said door. More strange. Now we're not hearing from pilot for long periods.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:36:19 -0800
+location: nan

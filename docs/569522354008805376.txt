@@ -1,0 +1,7 @@
+569522354008805376
+United
+@united 50 min on hold trying to book award flight because site errors out.  Agents ask for my pin to see platinum availability??? badbadbad
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:41:25 -0800
+location: nan

@@ -1,0 +1,7 @@
+569623961224351744
+American
+@AmericanAir your message was delayed I just responded
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 14:25:10 -0800
+location: The Republic of Texas

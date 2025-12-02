@@ -1,0 +1,7 @@
+569230997650214913
+Delta
+@JetBlue can u see what's holding up flt 1002 bags? One bag came out nothing else for 10 minutes
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 12:23:40 -0800
+location: nan

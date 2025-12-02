@@ -1,0 +1,7 @@
+568235890205532160
+US Airways
+@USAirways please follow me so I can DM you about something
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 18:29:28 -0800
+location: nan

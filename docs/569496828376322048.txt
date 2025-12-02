@@ -1,0 +1,7 @@
+569496828376322048
+United
+@united I would understand if weather was the issue, but bc of airline maintenance I had to sleep on an airport floor and lose an entire day
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 05:59:59 -0800
+location: Rochester

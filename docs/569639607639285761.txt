@@ -1,0 +1,7 @@
+569639607639285761
+American
+@AmericanAir our flight was Cancelled Flightled and rebooked to United. You didn't give them accurate ticket number now we can't check in. #annoyed
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 15:27:20 -0800
+location: Philadelphia, PA

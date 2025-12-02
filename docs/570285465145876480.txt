@@ -1,0 +1,7 @@
+570285465145876480
+Southwest
+@SouthwestAir 20 minutes on hold waiting is ridiculous......
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 10:13:44 -0800
+location: 603 | 205

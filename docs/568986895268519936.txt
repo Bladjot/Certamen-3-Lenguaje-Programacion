@@ -1,0 +1,7 @@
+568986895268519936
+United
+@united y not? You're the reason we're in Houston and not NYC tonight. It took the plane an hour to take off - no explanations or sorry.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 20:13:41 -0800
+location: nan

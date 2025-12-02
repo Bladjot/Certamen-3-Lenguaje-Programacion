@@ -1,0 +1,7 @@
+568384147464568834
+US Airways
+@USAirways i hate you
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 04:18:35 -0800
+location: nan

@@ -1,0 +1,7 @@
+569920618843521024
+American
+@AmericanAir How clueless is AA. Been waiting to hear for 2.5 weeks about a refund from a Cancelled Flightled flight &amp; been on hold now for 1hr 49min
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:03:58 -0800
+location: nan

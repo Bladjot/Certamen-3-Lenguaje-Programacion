@@ -1,0 +1,7 @@
+570151698489954304
+United
+@united it was UA flight 1001! Now I'm currently stuck in Portland because I missed my ride because of the 3 hour delay. #GetMartyHome
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 01:22:12 -0800
+location: nan

@@ -1,0 +1,7 @@
+569920760522764288
+United
+@united u would not be able to rebook me to get home any sooner than a now 2hr delayed flight.  #linesforever #customerservice #fail #again
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 10:04:32 -0800
+location: nan

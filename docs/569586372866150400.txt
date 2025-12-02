@@ -1,0 +1,7 @@
+569586372866150400
+US Airways
+@USAirways according to @wtop DCA seems to be recovering nicely from yesterday's snow so why are you Cancelled Flightling flights out there?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 11:55:48 -0800
+location: Where you least need me to be

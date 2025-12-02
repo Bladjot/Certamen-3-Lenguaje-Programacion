@@ -1,0 +1,7 @@
+567825891209912320
+Delta
+@JetBlue tried again. Lovely customer service. Thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 15:20:16 -0800
+location: Boston, Massachusetts

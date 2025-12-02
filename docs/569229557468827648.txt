@@ -1,0 +1,7 @@
+569229557468827648
+US Airways
+@USAirways it's been three weeks since I was specifically told I would get a call back from your folks in AZ- should I keep being patient?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 12:17:56 -0800
+location: Flyover country

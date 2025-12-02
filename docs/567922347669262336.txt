@@ -1,0 +1,7 @@
+567922347669262336
+United
+@united Flight 512 had sime of the rudest flight attendants. I was run over by the drink card and had a flashlight dropped on me. #noapology
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 21:43:33 -0800
+location: nan

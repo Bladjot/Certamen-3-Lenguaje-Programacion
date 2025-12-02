@@ -1,0 +1,8 @@
+568162091175182336
+US Airways
+@USAirways us2118
+My wife in Boston says no snow right now.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 13:36:13 -0800
+location: ÜT: 42.798909,-71.542817

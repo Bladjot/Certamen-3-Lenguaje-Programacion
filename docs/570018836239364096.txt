@@ -1,0 +1,7 @@
+570018836239364096
+US Airways
+@USAirways what's up with flight 5545 no gate agent or plane at PHX B18?  Nice customer service.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 16:34:15 -0800
+location: nan

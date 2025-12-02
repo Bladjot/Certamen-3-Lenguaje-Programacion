@@ -1,0 +1,7 @@
+569895385851760640
+American
+@AmericanAir @united getting us to where we need to be. This is not acceptable. Not to mention, Cancelled Flighting meetings/interviews for my client
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 08:23:42 -0800
+location: nan

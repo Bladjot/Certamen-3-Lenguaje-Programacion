@@ -1,0 +1,7 @@
+567755402943930368
+Virgin America
+@VirginAmerica Can you give me Silver Status for 12 months?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 10:40:11 -0800
+location: nan

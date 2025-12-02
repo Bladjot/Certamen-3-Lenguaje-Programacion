@@ -1,0 +1,7 @@
+569885018358575104
+American
+@AmericanAir yes. Just sayin' that was a particularly poorly handled situation.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-23 07:42:30 -0800
+location: ÜT: 42.63352,-83.624194

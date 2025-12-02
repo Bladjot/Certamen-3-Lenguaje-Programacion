@@ -1,0 +1,7 @@
+567854782678982656
+United
+@United Bringing your "A" game with premium cabin dining. Nice! https://t.co/zgOQoxjBQY
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 17:15:05 -0800
+location: Pittsburgh

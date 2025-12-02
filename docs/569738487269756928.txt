@@ -1,0 +1,7 @@
+569738487269756928
+American
+@AmericanAir flight from PHL to Austin Cancelled Flighted, headed to Houston, delayed, now have to pay to rent a car and drive 3 hrs to Austin
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 22:00:15 -0800
+location: Austin, TX

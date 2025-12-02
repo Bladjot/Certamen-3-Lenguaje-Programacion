@@ -1,0 +1,7 @@
+569651277916999680
+United
+.@united in the future when delay causes 15 hour wait (slept night in airport) ensuring seating choice for replacement flight would be good.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:13:42 -0800
+location: Kingston, Canada

@@ -1,0 +1,7 @@
+569617332907212800
+US Airways
+@USAirways #usairways Raleigh NC; baggage carousel staff were aggressive towards people waiting 1 1/2 hrs for bags. Flight 699
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 13:58:49 -0800
+location: Los Angeles, CA

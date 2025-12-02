@@ -1,0 +1,7 @@
+570017458742030336
+US Airways
+@USAirways I’m still disappointed that it is apparently ok for a Flight Attendant who isn’t up on current policy to argue with a traveler.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 16:28:47 -0800
+location: BTR/DCA/IAD/MSY - etc

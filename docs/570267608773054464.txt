@@ -1,0 +1,7 @@
+570267608773054464
+American
+@AmericanAir I understand. But why is this the only flight of the day not going out? Twice?! I'm now out of extra meds and diapers for baby.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 09:02:47 -0800
+location: Dallas via NYC via the OC

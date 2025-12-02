@@ -1,0 +1,7 @@
+570272172679282688
+American
+@AmericanAir You Cancelled Flight my flight and there’s no way to rebook on the website or app? I have to wait 35 minutes on hold? #fail cc @Delta
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 09:20:55 -0800
+location: NYC

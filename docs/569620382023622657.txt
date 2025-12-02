@@ -1,0 +1,7 @@
+569620382023622657
+United
+@united lost my bags and there was a flight from Chi to Eri that landed over 1.5 hrs ago...yet still have zero updates?? #UnitedAirlinesSux
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 14:10:56 -0800
+location: nan

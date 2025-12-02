@@ -1,0 +1,7 @@
+569177868221202432
+Delta
+@JetBlue ok thank you for the quick response JetBlue still the best comp
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 08:52:33 -0800
+location: nan

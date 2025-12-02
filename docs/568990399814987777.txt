@@ -1,0 +1,7 @@
+568990399814987777
+United
+@united Stuck in this airport 12 hours in standbys cuz the pilot showed up Late Flight in PJs &amp; i missed my connectin flight. PJ's I TELL U! #NYFW
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 20:27:37 -0800
+location: Anywhere someone needs me

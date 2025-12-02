@@ -1,0 +1,7 @@
+569676933778292736
+United
+@united booked EWR-FLL in first for two on 3-8. Let's see how you compare to the garbage @AmericanAir first class has become
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:55:39 -0800
+location: nan

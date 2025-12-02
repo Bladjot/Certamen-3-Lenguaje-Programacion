@@ -1,0 +1,7 @@
+569521101736439809
+United
+@united completely unacceptable to seat 1st class passenger into middle seat in 38 (not even premium economy)
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:36:26 -0800
+location: New York City

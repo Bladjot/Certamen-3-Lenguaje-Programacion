@@ -1,0 +1,7 @@
+567801163581546496
+United
+@united worst service ever 😈
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 13:42:01 -0800
+location: san diego

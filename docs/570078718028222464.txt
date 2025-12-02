@@ -1,0 +1,7 @@
+570078718028222464
+United
+@united man I can't wait to book my ticket now! Thanks JP you're a life sabe
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 20:32:12 -0800
+location: Colorado

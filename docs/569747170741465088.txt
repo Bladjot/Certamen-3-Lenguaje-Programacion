@@ -1,0 +1,7 @@
+569747170741465088
+American
+@AmericanAir Why offer automated call back option when agent is available only to call me &amp; have me sit on hold? At 12:30am. #onholdfordays
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 22:34:45 -0800
+location: Indianapolis

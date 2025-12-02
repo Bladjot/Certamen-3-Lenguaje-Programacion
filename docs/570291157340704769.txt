@@ -1,0 +1,7 @@
+570291157340704769
+American
+@AmericanAir thanks so much!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 10:36:22 -0800
+location: Denver, Colorado

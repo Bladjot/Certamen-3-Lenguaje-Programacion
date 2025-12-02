@@ -1,0 +1,7 @@
+569660111976689664
+Delta
+@JetBlue Still no response from CEO. I guess he is at the Oscars.  I bet his flight was on time.  #JUSTWRONG
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:48:49 -0800
+location: Long Island - Arizona

@@ -1,0 +1,7 @@
+569915941192015872
+Virgin America
+@VirginAmerica "You down with RNP?" "Yeah you know me!"
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 09:45:23 -0800
+location: nan

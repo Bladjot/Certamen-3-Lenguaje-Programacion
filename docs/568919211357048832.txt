@@ -1,0 +1,7 @@
+568919211357048832
+Southwest
+@SouthwestAir OMG OMG OMG !!! I JUST DID!!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 15:44:44 -0800
+location: nan

@@ -1,0 +1,7 @@
+567875729045590017
+Southwest
+@SouthwestAir she made it standby after her flight was Cancelled Flighted for no reason. Almost 4hrs Late Flight.  Conf# FVF9YW  SWRR# 298033455
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 18:38:19 -0800
+location: Park City

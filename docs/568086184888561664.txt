@@ -1,0 +1,7 @@
+568086184888561664
+Southwest
+@SouthwestAir Service rep didn't say I was dumb just had the tone of voice like I should have known about it.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 08:34:35 -0800
+location: Tennessee

@@ -1,0 +1,7 @@
+570049923858567168
+United
+@united comically on the return flight from ASE there were two United flights boarding at adjacent gates and not clear which plane to board
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 18:37:47 -0800
+location: San Francisco

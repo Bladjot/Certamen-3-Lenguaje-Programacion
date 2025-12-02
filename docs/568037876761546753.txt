@@ -1,0 +1,7 @@
+568037876761546753
+US Airways
+@USAirways still not in the air for deicing of plane. I'll miss connect but customer service was helpful.I'm hoping to catch the next flight
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 05:22:38 -0800
+location: Any Martin Luther St.

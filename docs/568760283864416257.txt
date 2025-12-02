@@ -1,0 +1,7 @@
+568760283864416257
+Delta
+@JetBlue I knew the 3-4 hours sounded odd; missed a flight we hit JFK an hour early for and your gate  attendant told us 3-4 :(
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 05:13:13 -0800
+location: New York

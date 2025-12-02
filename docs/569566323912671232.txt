@@ -1,0 +1,7 @@
+569566323912671232
+US Airways
+@USAirways Look into better service.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 10:36:08 -0800
+location: nan

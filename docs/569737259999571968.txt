@@ -1,0 +1,7 @@
+569737259999571968
+Delta
+@JetBlue appreciate the response but already spoke to a MCO and their response was "There is nothing we can do" idk if that's what you mean
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 21:55:22 -0800
+location: NYC

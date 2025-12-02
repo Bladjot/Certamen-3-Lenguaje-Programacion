@@ -1,0 +1,7 @@
+569636003473793024
+American
+@AmericanAir fair enough. But they could have at least told us. Once again it's the lack of communication. Delays happen, just tell me
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:13:01 -0800
+location: dallas, tx

@@ -1,0 +1,7 @@
+568770125114929152
+US Airways
+@USAirways Plus a US Airways - you need to do something about this! I left Philly to thaw out!!!! http://t.co/pKy7ZhnNRH
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 05:52:19 -0800
+location: Haverford, PA & Wilton Manors

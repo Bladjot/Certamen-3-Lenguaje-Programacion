@@ -1,0 +1,7 @@
+569769633995104256
+American
+@AmericanAir highly disappointed in the baggage service with this merge with @USAirways you guys have lost our 1st bag and now missing items
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 00:04:01 -0800
+location: nan

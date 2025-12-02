@@ -1,0 +1,7 @@
+570289584061480960
+Virgin America
+@VirginAmerica This is such a great deal! Already thinking about my 2nd trip to @Australia &amp; I haven't even gone on my 1st trip yet! ;p
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 10:30:06 -0800
+location: NYC

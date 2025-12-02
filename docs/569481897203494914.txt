@@ -1,0 +1,7 @@
+569481897203494914
+United
+@united What does delayed due to Customer Service mean for UA761?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 05:00:39 -0800
+location: Huntington, WV

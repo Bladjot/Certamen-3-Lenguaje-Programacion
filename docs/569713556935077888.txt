@@ -1,0 +1,7 @@
+569713556935077888
+Southwest
+@SouthwestAir now I don't get the common courtesy of my phone call answered. Either policy is bad or people should be fired. #dissaponted
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:21:11 -0800
+location: Aurora, OH

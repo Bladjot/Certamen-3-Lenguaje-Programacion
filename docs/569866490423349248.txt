@@ -1,0 +1,7 @@
+569866490423349248
+United
+@united it wasn't a comment. It was a question. But thanks for your copy and paste response
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:28:53 -0800
+location: nan

@@ -1,0 +1,7 @@
+569616362223628289
+American
+@AmericanAir That's a complete cop out! U ask what the issues are, then do nothing about it. How are we supposed to sort the situation now?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:54:58 -0800
+location: nan

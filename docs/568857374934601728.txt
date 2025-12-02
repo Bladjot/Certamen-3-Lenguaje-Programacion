@@ -1,0 +1,7 @@
+568857374934601728
+United
+@united I think you should board from the back of the plane #whatstheholdup #CHItoCLE
+sentiment: negative
+negativereason: longlines
+created: 2015-02-20 11:39:01 -0800
+location: Cleveland, OH

@@ -1,0 +1,7 @@
+569708139517480960
+US Airways
+@USAirways I made a reservation online but I didn't receive any confirmation email. My bank said the transaction went through. Can u help?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:59:39 -0800
+location: nan

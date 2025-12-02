@@ -1,0 +1,7 @@
+568414700326797312
+US Airways
+@USAirways I do to as I have an afternoon Conference in Las Vegas and I would rather plan ahead than run thru the airport and then attempt
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 06:19:59 -0800
+location: nan

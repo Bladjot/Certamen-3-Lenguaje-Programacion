@@ -1,0 +1,7 @@
+569666501504073728
+US Airways
+@USAirways rant cont... To top it all off, rescheduled flight to TPA at 10:10 is already delayed. How can they be that bad?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:14:12 -0800
+location: stl

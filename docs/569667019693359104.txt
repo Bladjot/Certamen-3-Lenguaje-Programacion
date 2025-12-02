@@ -1,0 +1,7 @@
+569667019693359104
+Southwest
+@SouthwestAir ...and how does one obtain this companion pass?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:16:16 -0800
+location: Denver, CO

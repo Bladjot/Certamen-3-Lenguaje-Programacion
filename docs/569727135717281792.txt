@@ -1,0 +1,7 @@
+569727135717281792
+American
+@AmericanAir first flight is Cancelled Flightled. Been on hold for 4 hours. Need information and getting none. Help?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 21:15:08 -0800
+location: nan

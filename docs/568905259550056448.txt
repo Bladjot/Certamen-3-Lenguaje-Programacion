@@ -1,0 +1,7 @@
+568905259550056448
+Southwest
+@SouthwestAir Totally sucks that my flights were weathered out of existence, but Stacy in Tucson helped with an overnight in Vegas!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 14:49:18 -0800
+location: Kentucky

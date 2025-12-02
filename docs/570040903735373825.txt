@@ -1,0 +1,7 @@
+570040903735373825
+American
+@AmericanAir can I send you my trusted traveler ID to add to my reservation for tsa pre?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 18:01:56 -0800
+location: nan

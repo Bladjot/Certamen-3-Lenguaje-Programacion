@@ -1,0 +1,7 @@
+569525270907981825
+Delta
+@JetBlue Appreciate the heads up at 10:45 that my 11am flight was delayed bc the crew is stuck in Boston #communicationFAIL #dobetterJetBlue
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 07:53:00 -0800
+location: New York, NY

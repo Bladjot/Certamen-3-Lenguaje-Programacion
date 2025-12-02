@@ -1,0 +1,7 @@
+569554826616381440
+Southwest
+@SouthwestAir What's happened to your customer service? 2 Cancelled Flightled flights in 2 days &amp; an uninformed and unapologetic staff. #nolove #cali
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 09:50:27 -0800
+location: nan

@@ -1,0 +1,7 @@
+567939727023673344
+United
+@united how come I have no baggage updates.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 22:52:37 -0800
+location: All Over The World

@@ -1,0 +1,7 @@
+568847612503334912
+US Airways
+@USAirways it's vegas baby who doesn't have a good time in vegas lol
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 11:00:14 -0800
+location: johnson city tn

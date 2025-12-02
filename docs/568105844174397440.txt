@@ -1,0 +1,7 @@
+568105844174397440
+Southwest
+@SouthwestAir lemme come to #DestinationDragons 😭😭😭 this university student could use a break from all these books.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 09:52:42 -0800
+location: Ottawa,Canada

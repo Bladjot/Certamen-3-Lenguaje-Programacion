@@ -1,0 +1,7 @@
+567721738155622401
+Southwest
+“@SouthwestAir:Southwest mobile boarding passes now available in iOS Passbook! http://t.co/xmRvR4lGEg http://t.co/wJoc9f14SU”@tori_leggieri
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 08:26:24 -0800
+location: nan

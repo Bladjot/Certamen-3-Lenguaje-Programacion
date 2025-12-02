@@ -1,0 +1,7 @@
+569924772349538304
+American
+@AmericanAir I need some help. My record locator is bringing up TWO different flights in your system. One op by AA &amp; one from US Airways.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:20:29 -0800
+location: San Diego, CA

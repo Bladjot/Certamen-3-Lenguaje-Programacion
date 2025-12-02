@@ -1,0 +1,7 @@
+568954934084788224
+Southwest
+@SouthwestAir you guys held our flight #330!  Thank you!!!  About to take off from MDW now to Oakland.  Thanks
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 18:06:41 -0800
+location: nan

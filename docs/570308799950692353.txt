@@ -1,0 +1,7 @@
+570308799950692353
+US Airways
+@USAirways just hung up on me again.  Another waste of an hour of my time.  How am I supposed to book a one way award flight?  #badwebsite
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 11:46:28 -0800
+location: nan

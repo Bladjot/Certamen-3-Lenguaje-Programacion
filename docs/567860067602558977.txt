@@ -1,0 +1,7 @@
+567860067602558977
+Delta
+@JetBlue becomes first #airline to accept #Apple Pay - Future #Travel Experience http://t.co/czOr4nyh9n
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 17:36:05 -0800
+location: USA

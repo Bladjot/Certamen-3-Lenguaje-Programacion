@@ -1,0 +1,7 @@
+567826899776446464
+Southwest
+@SouthwestAir think flight 1945 from BNA to LAX will get off the ground tomorrow??? #please #snowbama
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 15:24:17 -0800
+location: nan

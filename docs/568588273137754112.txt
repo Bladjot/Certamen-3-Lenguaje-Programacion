@@ -1,0 +1,7 @@
+568588273137754112
+US Airways
+@USAirways unable to locate baggage, this is frustrating. All my sons clothes and needs in it. #zfv #yyz #usairways #baggagelost
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 17:49:42 -0800
+location: Canada

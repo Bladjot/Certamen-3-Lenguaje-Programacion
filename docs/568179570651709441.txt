@@ -1,0 +1,7 @@
+568179570651709441
+Southwest
+@SouthwestAir it took ages for one snapchat story to load. one. ONE. I will demolish you
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 14:45:40 -0800
+location: nan

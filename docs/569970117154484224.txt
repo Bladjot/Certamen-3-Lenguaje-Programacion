@@ -1,0 +1,7 @@
+569970117154484224
+US Airways
+@USAirways @united really know how to leave someone stranded after a funeral. Props to you guys. Really making this the perfect Monday.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 13:20:40 -0800
+location: Carmen SanDiego

@@ -1,0 +1,7 @@
+570295207763316736
+Delta
+@JetBlue but by Cancelled Flighting my flight and pushing me to the next day I'd lose $150 hotel which was why I was trying to get a same-day flight.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 10:52:27 -0800
+location: nan

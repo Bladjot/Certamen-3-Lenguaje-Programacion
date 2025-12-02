@@ -1,0 +1,7 @@
+568761600359993344
+US Airways
+@USAirways "Able"? Does that mean not having private conversations and not helping those w/ luggage that won't fit overhead?
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 05:18:27 -0800
+location: Washington, DC

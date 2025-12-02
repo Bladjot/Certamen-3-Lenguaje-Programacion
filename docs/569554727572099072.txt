@@ -1,0 +1,7 @@
+569554727572099072
+Delta
+@JetBlue I know, but I wanted to pass it along. Not good for the "T5 experience" esp for someone who flies 2-3 times a month.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 09:50:03 -0800
+location: New Orleans, LA

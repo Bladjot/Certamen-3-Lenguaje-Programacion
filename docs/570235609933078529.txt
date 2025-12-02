@@ -1,0 +1,7 @@
+570235609933078529
+US Airways
+@USAirways - Good to know that your phone customer service is still impaired due to "bad weather" that was over a week ago #jetblueanyone?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 06:55:38 -0800
+location: Tampa, Florida

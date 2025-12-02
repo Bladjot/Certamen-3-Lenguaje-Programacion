@@ -1,0 +1,7 @@
+568818229461721088
+Southwest
+@SouthwestAir I would.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 09:03:28 -0800
+location: Tempe, AZ & World Wide

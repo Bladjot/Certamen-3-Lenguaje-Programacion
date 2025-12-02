@@ -1,0 +1,7 @@
+568815354388078593
+United
+@united made to check in my carry on from Flight 1449 PBI to Newark. Plane luggage stow not full. U r costing me time, money &amp; aggravation!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 08:52:03 -0800
+location: NYC

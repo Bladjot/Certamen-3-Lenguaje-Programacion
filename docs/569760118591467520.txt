@@ -1,0 +1,7 @@
+569760118591467520
+American
+@AmericanAir I would like to be reimbursed for my shuttle from Denver after #1080 diversion 6+ hours sitting in plane and mech problems
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 23:26:12 -0800
+location: nan

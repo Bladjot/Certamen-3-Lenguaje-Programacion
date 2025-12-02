@@ -1,0 +1,7 @@
+569715552702345216
+United
+@united bull crap.  I spent $600 on a recent trip.  That's not small change. I got 10,000 AA miles.  Would have only been 6600 UA
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 20:29:07 -0800
+location: nan

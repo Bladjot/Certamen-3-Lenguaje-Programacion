@@ -1,0 +1,7 @@
+569939265154617344
+Delta
+@JetBlue which type plane is flt 1065 from bos to rsw?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 11:18:04 -0800
+location: nan

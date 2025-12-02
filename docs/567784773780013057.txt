@@ -1,0 +1,7 @@
+567784773780013057
+US Airways
+@USAirways nice touch with using my first name.  Very intimate.  I'll be filing a claim soon to be reimbursed. Have a us airways day!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 12:36:53 -0800
+location: nan

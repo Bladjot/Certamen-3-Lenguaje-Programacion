@@ -1,0 +1,7 @@
+569978119530029056
+American
+@AmericanAir are pets allowed in first class?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:52:28 -0800
+location: nan

@@ -1,0 +1,7 @@
+568434328943915009
+Southwest
+@SouthwestAir Hi Guys good morning how are you doing
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 07:37:59 -0800
+location: pittsburgh pa

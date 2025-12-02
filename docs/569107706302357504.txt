@@ -1,0 +1,7 @@
+569107706302357504
+US Airways
+@USAirways It's pretty hilarious that you want @SweetingR to finish his awful experience before doing something. Make it right, now.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 04:13:45 -0800
+location: Asheville, NC

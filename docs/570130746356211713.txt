@@ -1,0 +1,7 @@
+570130746356211713
+American
+@AmericanAir TY! But, their site says " Please note that we do not offer a print subscription service for American Way. ..."
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 23:58:57 -0800
+location: The 2nd star to the right

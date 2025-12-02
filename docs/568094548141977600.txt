@@ -1,0 +1,7 @@
+568094548141977600
+Delta
+@JetBlue its a wonderful thing!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 09:07:49 -0800
+location: iPhone: 33.761105,-118.193817

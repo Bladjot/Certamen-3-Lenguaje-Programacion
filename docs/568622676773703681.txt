@@ -1,0 +1,7 @@
+568622676773703681
+Southwest
+@SouthwestAir I WANNAA GO TO THE VEGAS SHOW SO BAD ID DOO ANYTHING #DestinationDragons
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 20:06:25 -0800
+location: nan

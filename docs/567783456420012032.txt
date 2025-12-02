@@ -1,0 +1,7 @@
+567783456420012032
+Delta
+@JetBlue Haha you're doing everything right! Don't change a thing! Slash this Twitter engagement just makes you even cooler! #bestairline
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 12:31:39 -0800
+location: nan

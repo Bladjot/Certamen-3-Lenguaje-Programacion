@@ -1,0 +1,7 @@
+567745016702181376
+United
+@united Miserable trip ... lost bag Sat... found Mon... lost again... shipping 2nd day ground Tues... might have it for return flight home
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 09:58:54 -0800
+location: nan

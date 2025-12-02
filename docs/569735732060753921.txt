@@ -1,0 +1,7 @@
+569735732060753921
+US Airways
+@USAirways got this message on your site to call about my flight - just gave up after being on hold for 3 HOURS! http://t.co/5cDX2ROAE6
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 21:49:18 -0800
+location: nan

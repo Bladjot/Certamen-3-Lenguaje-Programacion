@@ -1,0 +1,7 @@
+569631824101683200
+American
+@AmericanAir Where are your tickets offices in Boston? Impossible to book by phone or use vouchers on website, what a headache. PLEASE HELP!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 14:56:24 -0800
+location: Cambridge, MA

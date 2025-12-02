@@ -1,0 +1,7 @@
+569897005297709057
+American
+@AmericanAir I dmed
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 08:30:08 -0800
+location: nan

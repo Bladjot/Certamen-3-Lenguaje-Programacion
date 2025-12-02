@@ -1,0 +1,7 @@
+569294070129930240
+Delta
+@JetBlue on the plane now!  Hopefully no longer at the mercy of the playlist!  Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 16:34:17 -0800
+location: Boston

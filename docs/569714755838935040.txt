@@ -1,0 +1,7 @@
+569714755838935040
+Southwest
+@SouthwestAir nbd I was able to figure out a workaround. Just wanted to help. Got my bags less than 24 hours Late Flightr. Muchas grassy ass.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 20:25:57 -0800
+location: Seattle, WA

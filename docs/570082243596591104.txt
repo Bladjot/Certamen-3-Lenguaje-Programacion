@@ -1,0 +1,7 @@
+570082243596591104
+United
+@united @luke_mcintosh68 nah you wouldn't
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 20:46:13 -0800
+location: [Colorado]

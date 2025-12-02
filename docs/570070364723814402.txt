@@ -1,0 +1,7 @@
+570070364723814402
+American
+@AmericanAir Nope. Couldn't make changes online and after 90 mins on hold and time dealing w/ the rude rep, the 24 hour window has closed.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 19:59:01 -0800
+location: eating curly fries w/ the wife

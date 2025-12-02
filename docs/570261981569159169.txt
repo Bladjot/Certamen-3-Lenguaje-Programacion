@@ -1,0 +1,7 @@
+570261981569159169
+Southwest
+@SouthwestAir live in Atlanta but cant enroll in your Atlanta companion promotion. Error every time. Can you help? Also sent email. Thanks!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:40:26 -0800
+location: Atlanta, GA

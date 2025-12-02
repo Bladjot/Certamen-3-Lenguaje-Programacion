@@ -1,0 +1,7 @@
+568159685238329344
+United
+@united there was 20 min to departure, no one waiting. On being pressed ground staffer threatened "do you want to get to SF today" #fail
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 13:26:39 -0800
+location: DFW & SF

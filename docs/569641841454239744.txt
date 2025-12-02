@@ -1,0 +1,7 @@
+569641841454239744
+American
+@americanair never fails to disappoint. waiting at jfk an hour after scheduled take off and still no word on departure
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:36:13 -0800
+location: nan

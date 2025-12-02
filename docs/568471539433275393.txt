@@ -1,0 +1,7 @@
+568471539433275393
+US Airways
+@USAirways @AmericanAir no, don't leave me!!!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 10:05:51 -0800
+location: nan

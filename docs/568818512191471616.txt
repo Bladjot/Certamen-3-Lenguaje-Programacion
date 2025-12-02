@@ -1,0 +1,7 @@
+568818512191471616
+US Airways
+@USAirways Melinda in reservations in greensboro nc is an absolute jewel thank her for me she's amazing!!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 09:04:36 -0800
+location: south beach/ LA / NC

@@ -1,0 +1,7 @@
+567891481555382272
+United
+@united when will you offer real food in american clubs like the amazing food you offer in Heathrow?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 19:40:54 -0800
+location: New Orleans

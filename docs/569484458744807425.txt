@@ -1,0 +1,7 @@
+569484458744807425
+US Airways
+@USAirways I have LITERALLY been on hold since 3am est.PlatinumEventually hung up &amp; again back on hold. Understand weather, but ridiculous.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 05:10:50 -0800
+location: Belmar, NJ

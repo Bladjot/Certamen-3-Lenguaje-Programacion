@@ -1,0 +1,7 @@
+568384143379156993
+US Airways
+@USAirways it is the same passenger, just her maiden name ended up as last name through online Flight Booking Problems.  Yes, understand non transferable
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 04:18:34 -0800
+location: nan

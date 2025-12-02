@@ -1,0 +1,7 @@
+569168016136495104
+Southwest
+@SouthwestAir would love Tix for Velour show-entered every contest and still haven't won :(
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 08:13:24 -0800
+location: nan

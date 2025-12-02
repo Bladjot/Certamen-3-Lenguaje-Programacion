@@ -1,0 +1,7 @@
+568079810389549057
+Southwest
+@SouthwestAir is hiring for their Emerging Leader Development Program- Last day to apply is TODAY! Apply here: http://t.co/jLHM0x7UkB
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 08:09:15 -0800
+location: Florida, Arizona, Worldwide

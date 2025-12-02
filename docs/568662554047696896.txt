@@ -1,0 +1,7 @@
+568662554047696896
+Delta
+@JetBlue @cflanagian she's on to something
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 22:44:52 -0800
+location: nan

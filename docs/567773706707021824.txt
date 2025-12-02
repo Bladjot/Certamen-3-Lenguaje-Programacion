@@ -1,0 +1,7 @@
+567773706707021824
+United
+@united was never given one
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 11:52:55 -0800
+location: nan

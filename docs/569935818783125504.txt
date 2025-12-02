@@ -1,0 +1,7 @@
+569935818783125504
+US Airways
+@USAirways oh yay! Now gate agents decide not to deal with upgrade list and just bump up whoever is closest.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 11:04:22 -0800
+location: Arlington, VA

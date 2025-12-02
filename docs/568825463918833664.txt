@@ -1,0 +1,7 @@
+568825463918833664
+United
+@united I have those notifications yet the staff on board say that is not accurate and they have no departure time.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 09:32:13 -0800
+location: NY

@@ -1,0 +1,7 @@
+569998668775862272
+American
+@AmericanAir I had it until last night, but because "severe weather" I could make the needed changes and now fair goes up 150 each.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 15:14:07 -0800
+location: Lake County, Illinois

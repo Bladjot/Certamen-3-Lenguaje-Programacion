@@ -1,0 +1,7 @@
+568672467889176577
+United
+@united thanks, I'm booked. Just spent an extra 7 hrs in the TEN w/ no explanation. Now flying middle seat to CHAR instead of Memphis.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 23:24:16 -0800
+location: nan

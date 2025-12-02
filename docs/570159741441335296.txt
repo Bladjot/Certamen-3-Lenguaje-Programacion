@@ -1,0 +1,7 @@
+570159741441335296
+United
+@united terminal at MIA should have food open before 5am esp when there are flights at 6am. Two hours early like recommended. Can't eat.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 01:54:10 -0800
+location: New York

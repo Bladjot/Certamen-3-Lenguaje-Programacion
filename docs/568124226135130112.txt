@@ -1,0 +1,7 @@
+568124226135130112
+US Airways
+.@USAirways thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 11:05:45 -0800
+location: Greenville, SC

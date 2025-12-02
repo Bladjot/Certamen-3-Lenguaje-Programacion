@@ -1,0 +1,7 @@
+569636980612427776
+Delta
+@JetBlue I hope your customer service reps are as reliable/friendly as they usually are, so far you are not living up to your + rep/exper.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:16:54 -0800
+location: Chicago

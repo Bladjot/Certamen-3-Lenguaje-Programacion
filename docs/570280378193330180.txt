@@ -1,0 +1,7 @@
+570280378193330180
+American
+@AmericanAir AND they Cancelled Flighted my flight and left me with no help to find a hotel to stay in. I slept in an airport for a night-_-
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 09:53:32 -0800
+location: 513/lexingtonKY

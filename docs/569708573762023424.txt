@@ -1,0 +1,7 @@
+569708573762023424
+American
+@AmericanAir flight 1388 tomorrow 5:15 am, status please, thanks
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 20:01:23 -0800
+location: Dallas, Texas

@@ -1,0 +1,7 @@
+568238379847921665
+Southwest
+@SouthwestAir - Great flight from Phoenix to Dallas tonight!Great service and ON TIME! Makes @timieyancey very happy! http://t.co/TkVCMhbPim
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 18:39:21 -0800
+location: nan

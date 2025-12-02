@@ -1,0 +1,7 @@
+567769131663884290
+Delta
+@JetBlue Haha. I figured that. I was meaning there's no return flights out of Charlotte. It's like N/A for a week plus
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 11:34:44 -0800
+location: Portland, OR

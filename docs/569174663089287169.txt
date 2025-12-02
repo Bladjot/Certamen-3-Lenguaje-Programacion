@@ -1,0 +1,7 @@
+569174663089287169
+Southwest
+@SouthwestAir- I called @united and they solved the flight Cancelled Flightlation issue in 15minutes. May be ask them how to do it? #getmorehands
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 08:39:49 -0800
+location: Washington DC, New York

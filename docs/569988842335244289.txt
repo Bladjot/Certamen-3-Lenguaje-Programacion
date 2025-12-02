@@ -1,0 +1,7 @@
+569988842335244289
+Southwest
+@SouthwestAir Big kudos to your staff today at Dallas Love Field for lifting everyone's spirits today with all the delays and Cancelled Flightlations
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 14:35:04 -0800
+location: Indianapolis, Indiana; USA

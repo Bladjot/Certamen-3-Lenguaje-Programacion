@@ -1,0 +1,7 @@
+567767251383808000
+United
+@united I don't need to make any changes. I reserved my seats when I bought my tickets and there was an error &amp; now there are no comp seats
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-17 11:27:15 -0800
+location: The Lone Star State

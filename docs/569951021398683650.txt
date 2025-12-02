@@ -1,0 +1,7 @@
+569951021398683650
+US Airways
+@usairways im trying to get my dads wheelchair and no one is answering at Dulles.we have tried to call back on.multiple times
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 12:04:47 -0800
+location: nan

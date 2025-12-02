@@ -1,0 +1,7 @@
+568481405681999872
+United
+@united still waiting for a response on whether or not you allow use of a rear facing car seat on an ERJ145.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 10:45:03 -0800
+location: nan

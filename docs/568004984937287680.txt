@@ -1,0 +1,7 @@
+568004984937287680
+US Airways
+@USAirways lack of communication with other offices, the customer, &amp; yall never update ur systems. U guys are 2 established 4 this mess
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 03:11:56 -0800
+location: nan

@@ -1,0 +1,7 @@
+569600990430806017
+US Airways
+@usairways @BarclaycardUS 1 hr wait so far for customer service. yes bad weather but do air traffic controllers answer your phones?!??
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:53:53 -0800
+location: Philadelphia

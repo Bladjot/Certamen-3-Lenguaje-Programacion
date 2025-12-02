@@ -1,0 +1,7 @@
+570094749933289473
+American
+@AmericanAir - you broke my sick wife's luggage handle going from JFK to LAX...she had to drag her bag thru the airport! #customerservice
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-23 21:35:54 -0800
+location: Stamford, CT

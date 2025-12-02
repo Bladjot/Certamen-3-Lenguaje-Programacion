@@ -1,0 +1,7 @@
+569223862941929472
+Southwest
+@SouthwestAir y'all are fast we already have our 5 winners! Congrats!!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 11:55:19 -0800
+location: Dallas, Texas

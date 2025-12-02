@@ -1,0 +1,7 @@
+568615445596471296
+Delta
+@JetBlue we now have to get off of the plane and wait another 1-2 hours for someone at the @BuffaloAirport to read the temp. #tired
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 19:37:41 -0800
+location: Buffalo

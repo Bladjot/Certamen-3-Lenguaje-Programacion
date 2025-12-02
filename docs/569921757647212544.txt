@@ -1,0 +1,7 @@
+569921757647212544
+US Airways
+@USAirways And the number your agent gave me to call says you are not open? And the main number goes to a computer saying it is delivered?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:08:30 -0800
+location: nan

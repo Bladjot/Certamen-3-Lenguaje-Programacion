@@ -1,0 +1,7 @@
+569868115481395201
+American
+@AmericanAir how comes no one has answered my calls or emails?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:35:21 -0800
+location: Youtube | crackedchinacup

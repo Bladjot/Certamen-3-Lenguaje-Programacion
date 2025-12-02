@@ -1,0 +1,7 @@
+569921840904327168
+US Airways
+@USAirways I am in meetings in California and have no luggage!!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 10:08:50 -0800
+location: South

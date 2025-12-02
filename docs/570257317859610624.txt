@@ -1,0 +1,7 @@
+570257317859610624
+Southwest
+@SouthwestAir flight 1614 FLL to ATL. My wife traveling with infant. Line to check baggage 200 people long due to your computer system crash
+sentiment: negative
+negativereason: longlines
+created: 2015-02-24 08:21:54 -0800
+location: Fort Lauderdale

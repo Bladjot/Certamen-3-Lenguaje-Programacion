@@ -1,0 +1,7 @@
+569649222963871744
+American
+@AmericanAir flight 1019 I need 2 b on the first flight out frm MIA 2 TPA. I'm extremely irritated. I've been at this airport for 5.5 hrs.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:05:32 -0800
+location: nan

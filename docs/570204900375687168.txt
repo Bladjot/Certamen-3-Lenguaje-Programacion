@@ -1,0 +1,7 @@
+570204900375687168
+United
+@united I'm so frustrated and nervous because of this.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 04:53:36 -0800
+location: Seattle

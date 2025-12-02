@@ -1,0 +1,7 @@
+568457802059902976
+Southwest
+@SouthwestAir are there any flights from MSP to HRL in March? I'm looking at 3/19-3/23
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 09:11:16 -0800
+location: minneapolis, mn

@@ -1,0 +1,7 @@
+568431720707579904
+Southwest
+@SouthwestAir adds new direct flights from #Columbus to Oakland &amp; Boston starting August 2015 #cmh #oak #bos
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 07:27:37 -0800
+location: Columbus, Ohio

@@ -1,0 +1,7 @@
+570195444300718080
+American
+@AmericanAir oh I will, AA on speed dial
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 04:16:02 -0800
+location: Waynesville, OHIO

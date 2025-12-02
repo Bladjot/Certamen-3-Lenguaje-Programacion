@@ -1,0 +1,7 @@
+568020304510869504
+Delta
+@JetBlue it's okay...I'm actually a tea kinda guy anyway. Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 04:12:48 -0800
+location: Cambridge, MA

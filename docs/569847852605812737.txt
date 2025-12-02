@@ -1,0 +1,7 @@
+569847852605812737
+Delta
+@JetBlue shocker my flight delayed an hour. Thanks for reminding me why I switched to delta.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 05:14:49 -0800
+location: nan

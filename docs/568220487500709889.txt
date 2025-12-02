@@ -1,0 +1,7 @@
+568220487500709889
+Southwest
+@SouthwestAir could care more about their customer, if there is a reasonable request :(
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 17:28:15 -0800
+location: nan

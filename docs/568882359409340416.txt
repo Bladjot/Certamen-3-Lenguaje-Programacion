@@ -1,0 +1,7 @@
+568882359409340416
+Southwest
+@southwestAir SWA agent Jacquie Plitt @Orangecounty SNA rudely tells me You're not going 2 CABO today or manana back 2 PHX flew @USAirways
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 13:18:18 -0800
+location: Scottsdale, AZ

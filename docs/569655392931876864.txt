@@ -1,0 +1,7 @@
+569655392931876864
+American
+@AmericanAir Here you go https://t.co/oM1vIEg74a
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:30:04 -0800
+location: New York | Hong Kong

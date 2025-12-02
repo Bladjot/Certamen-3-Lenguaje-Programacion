@@ -1,0 +1,7 @@
+569838973490765824
+United
+@united Thanks. Got it straightend out last night.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 04:39:33 -0800
+location: New Jersey

@@ -1,0 +1,7 @@
+569900867324932096
+American
+@AmericanAir your staff at JFK airport are discussing the way we we're left stranded
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 08:45:29 -0800
+location: lydham shropshire uk

@@ -1,0 +1,7 @@
+568452051740413952
+Southwest
+@SouthwestAir That would be great. Thank you! I'll send it over when you follow.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 08:48:25 -0800
+location: Los Angeles, CA

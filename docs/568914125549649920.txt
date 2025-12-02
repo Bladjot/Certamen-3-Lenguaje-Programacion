@@ -1,0 +1,7 @@
+568914125549649920
+US Airways
+@USAirways - delayed 1851. Need an extra 5 min to make 1769. Would appreciate a little help again this week.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 15:24:32 -0800
+location: Independence, MO

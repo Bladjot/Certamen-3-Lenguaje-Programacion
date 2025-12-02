@@ -1,0 +1,7 @@
+569918035097731072
+US Airways
+@USAirways it was customer service like I have never seen before!  Kudos to your organization.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 09:53:42 -0800
+location: nan

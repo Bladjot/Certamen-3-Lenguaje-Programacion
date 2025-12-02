@@ -1,0 +1,7 @@
+570074601801318400
+American
+@AmericanAir What are Preferred Seats?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 20:15:51 -0800
+location: nan

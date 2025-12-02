@@ -1,0 +1,7 @@
+570288981847502850
+US Airways
+@USAirways - been standing at the gate for 45 min trying to go standby bc I will miss my connection. No help! Do NOT fly US AIRWAYS!
+sentiment: negative
+negativereason: longlines
+created: 2015-02-24 10:27:43 -0800
+location: nan

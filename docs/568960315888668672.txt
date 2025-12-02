@@ -1,0 +1,7 @@
+568960315888668672
+Delta
+@JetBlue April 6th. Anything specific I should know for my first flight?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 18:28:04 -0800
+location: Upstate New York

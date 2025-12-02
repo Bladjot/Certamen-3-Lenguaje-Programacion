@@ -1,0 +1,7 @@
+569884559380238336
+US Airways
+@USAirways @AmericanAir call the number listed? sure! by next Friday, I should get a real live person on the line http://t.co/8TJUuM22dD
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:40:41 -0800
+location: BK

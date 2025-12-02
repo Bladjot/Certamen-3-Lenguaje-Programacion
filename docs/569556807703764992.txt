@@ -1,0 +1,7 @@
+569556807703764992
+US Airways
+@USAirways is the @comcast of airlines #2hrs35minOnHold
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 09:58:19 -0800
+location: Newark, DE

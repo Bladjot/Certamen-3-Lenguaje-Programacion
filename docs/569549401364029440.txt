@@ -1,0 +1,7 @@
+569549401364029440
+US Airways
+@USAirways can you get me home to Syracuse? After 6 Cancelled Flightled flights, one re routing three of us are sitting in Charlotte
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 09:28:53 -0800
+location: Syracuse

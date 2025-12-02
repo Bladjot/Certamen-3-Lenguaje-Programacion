@@ -1,0 +1,7 @@
+569719741906075648
+US Airways
+@USAirways have been waiting in an airplane for a total of 3 hours to take off between 2 flights today...this usually doesn't happen...
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 20:45:46 -0800
+location: nan

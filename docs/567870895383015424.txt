@@ -1,0 +1,7 @@
+567870895383015424
+Southwest
+@SouthwestAir Hey yea I got thru...everything is good now (well, in 7-10 days when the voucher goes through)  Appreciate it!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 18:19:06 -0800
+location: Most likely Costco

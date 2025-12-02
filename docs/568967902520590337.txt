@@ -1,0 +1,7 @@
+568967902520590337
+Delta
+@JetBlue is that one on the picture http://t.co/lxwbsfxfj0
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 18:58:13 -0800
+location: new york

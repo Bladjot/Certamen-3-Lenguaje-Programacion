@@ -1,0 +1,7 @@
+569577696793006080
+US Airways
+@USAirways telling a man theres NO FLIGHTS for the next 10 hrs!!! NO standby! NOTHING! NO OPTIONS! trying to get to sick child! #FireVan!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 11:21:19 -0800
+location: PR: 1stlady@theimagecartel.com

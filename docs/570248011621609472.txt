@@ -1,0 +1,7 @@
+570248011621609472
+American
+@AmericanAir The pilot admitted to us that this delay is entirely because of AA incompetence and poor equip checks.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 07:44:55 -0800
+location: Toronto, Ontario, Canada

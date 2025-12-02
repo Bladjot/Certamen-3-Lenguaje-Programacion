@@ -1,0 +1,7 @@
+568417968230694912
+United
+@united - who can eat at an airport for $7? #areyounew? #incompetent #no800number #feeltheheat
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 06:32:58 -0800
+location: nan

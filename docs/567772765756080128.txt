@@ -1,0 +1,7 @@
+567772765756080128
+United
+@united Stuck in IAD going on 6 hours waiting for a ferry flight from Nashville that u can't tell when it will arrive?!! Ridiculous!!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 11:49:10 -0800
+location: Washington, DC

@@ -1,0 +1,7 @@
+568951922734055424
+United
+@united and now your rep just hung up on me after over 35 mins on hold because I asked for a supervisor. I'm furious right now.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 17:54:43 -0800
+location: Hoboken, NJ

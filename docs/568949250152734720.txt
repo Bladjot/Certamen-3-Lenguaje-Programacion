@@ -1,0 +1,7 @@
+568949250152734720
+US Airways
+@USAirways This is the last time I use your airline. I promise that!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 17:44:06 -0800
+location: McKinney TX

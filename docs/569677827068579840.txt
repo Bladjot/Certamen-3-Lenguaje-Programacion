@@ -1,0 +1,7 @@
+569677827068579840
+US Airways
+@USAirways thanks to the whole team for an on-time flight despite inclement weather http://t.co/eQePkkPSXM
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:59:12 -0800
+location: nan

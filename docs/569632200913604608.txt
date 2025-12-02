@@ -1,0 +1,7 @@
+569632200913604608
+United
+@United​ has Cancelled Flighted 1 arrival into SHV tonight &amp; the 1st departure flight on Mon, Feb 23rd. Check with your airline for flight status.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 14:57:54 -0800
+location: Shreveport, Louisiana

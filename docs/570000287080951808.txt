@@ -1,0 +1,7 @@
+570000287080951808
+United
+@united Exhausted &amp; frustrated! Link to a FB post abt my travel issue https://t.co/LaRKC8vc4s
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 15:20:33 -0800
+location: Houston, TX

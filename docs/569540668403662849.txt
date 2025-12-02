@@ -1,0 +1,7 @@
+569540668403662849
+US Airways
+@USAirways this travel day sucks but Malcome K at gate 39 rocks.  This guy is the brand you want to be. Replicate his approach and style.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 08:54:11 -0800
+location: Wash DC Metro

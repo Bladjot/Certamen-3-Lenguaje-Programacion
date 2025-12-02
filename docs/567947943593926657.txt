@@ -1,0 +1,7 @@
+567947943593926657
+United
+@united Checking tracing information. You got 2 numbers wrong in my phone number &amp; how did a turquoise duffle bag become a black laptop bag?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 23:25:16 -0800
+location: nan

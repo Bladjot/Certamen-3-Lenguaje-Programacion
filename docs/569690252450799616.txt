@@ -1,0 +1,7 @@
+569690252450799616
+American
+@AmericanAir Your logo looks like 3D glasses.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:48:35 -0800
+location: Jackson County, Oregon

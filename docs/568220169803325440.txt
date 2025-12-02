@@ -1,0 +1,7 @@
+568220169803325440
+Delta
+@JetBlue 1472, FLL to LGA. This is getting old. 4th @JetBlue flight in 2.5 weeks, 4th significant delay.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 17:27:00 -0800
+location: nan

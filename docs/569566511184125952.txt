@@ -1,0 +1,7 @@
+569566511184125952
+Delta
+@jetblue  Flight 1562 is still waiting for bags. Most of us checked in 12 hours ago. People are missing connections.  Please help!
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 10:36:52 -0800
+location: New York, New York

@@ -1,0 +1,7 @@
+570267535515324417
+Delta
+@JetBlue many thanks, as always your employees are professional and courteous. Whenever I have the option, you are my go-to airlines.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:02:30 -0800
+location: Inter/Outer-Continental U.S.

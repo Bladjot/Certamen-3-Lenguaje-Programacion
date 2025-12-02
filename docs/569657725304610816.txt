@@ -1,0 +1,7 @@
+569657725304610816
+Delta
+@JetBlue 4 hr delay on flight to JFK via Tampa &amp; worst customer service in San Juan airport. This after app not working all day.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:39:20 -0800
+location: Gotham

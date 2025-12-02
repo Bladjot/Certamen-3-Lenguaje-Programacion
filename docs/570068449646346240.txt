@@ -1,0 +1,7 @@
+570068449646346240
+American
+@AmericanAir @USAirways I need to Cancelled Flight a flight I booked earlier tonight. Are you able to do it over Twitter?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 19:51:24 -0800
+location: Los Angeles, CA

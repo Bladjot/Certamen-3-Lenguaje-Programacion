@@ -1,0 +1,7 @@
+569933901944066048
+American
+@AmericanAir just sad that even after spending so much on tickets all I wanted was for my wife to still go with her sister and no help
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 10:56:45 -0800
+location: Dallas

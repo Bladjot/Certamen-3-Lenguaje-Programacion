@@ -1,0 +1,7 @@
+569900699988860928
+Southwest
+@SouthwestAir thank you for great customer service. Trying to make it to San Antonio and your staff and alerts have been helpful. Boo ice!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 08:44:49 -0800
+location: Lone Star State

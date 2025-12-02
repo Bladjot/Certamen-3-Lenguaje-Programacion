@@ -1,0 +1,8 @@
+569934354241212417
+American
+@AmericanAir There was no one from #AA at the #woase2015 event @HelsinkiAirport
+Lots of info available of #winterops
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 10:58:33 -0800
+location: Helsinki Airport

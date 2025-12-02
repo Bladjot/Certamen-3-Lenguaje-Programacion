@@ -1,0 +1,7 @@
+568972783234912257
+Delta
+@JetBlue appreciate the response Worst part is losing the non refundable hotel in Orlando. Your crew blamed wind! Hoping for no more delays!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 19:17:37 -0800
+location: Central Perk

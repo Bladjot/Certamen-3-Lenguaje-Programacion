@@ -1,0 +1,7 @@
+569640193931612160
+Delta
+@JetBlue Flight 136 departs 2:14 AM  Finally!!!  Arrived JFK with no psgrs at 5:39 PM.  That's a long flight. AKA BUS http://t.co/KfKjF1ZtGi
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:29:40 -0800
+location: Long Island - Arizona

@@ -1,0 +1,7 @@
+569237783715422208
+US Airways
+@USAirways, can't control weather/flight attendant.Can control this-green ACU bag, 1.5 hrs &amp; counting! Yep that's me! http://t.co/0jUtCDRLjl
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 12:50:38 -0800
+location: Kokomo, IN

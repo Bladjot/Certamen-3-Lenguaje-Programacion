@@ -1,0 +1,7 @@
+568049201453469697
+Southwest
+@SouthwestAir I couldn't fly you today &amp; it made the trip harder + had to pay for my checked bag. #DevotedyYours but for today. :(
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 06:07:38 -0800
+location: Austin, TX

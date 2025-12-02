@@ -1,0 +1,7 @@
+569855205187190784
+American
+@AmericanAir cannot provide us alternative flight until 36 hours Late Flightr ruining our trip! #Cancelled Flightled #angry #problems #ruined.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 05:44:02 -0800
+location: nan

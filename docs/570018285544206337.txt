@@ -1,0 +1,7 @@
+570018285544206337
+American
+@AmericanAir misplaced my bag 36 hr ago and can't tell me where it is. I've lost $1000 of stuff :( #AmericanAirlines #unamericanairlines
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 16:32:04 -0800
+location: nan

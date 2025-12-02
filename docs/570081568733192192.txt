@@ -1,0 +1,7 @@
+570081568733192192
+United
+@united we needed them here asap. Will they make it on today's flight?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 20:43:32 -0800
+location: mentor, Ohio

@@ -1,0 +1,7 @@
+569918466821459968
+United
+@united Hopefully my baggage fees will be waived tomorrow when I actually get on a flight, as well as compensation for my hotel room
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 09:55:25 -0800
+location: nan

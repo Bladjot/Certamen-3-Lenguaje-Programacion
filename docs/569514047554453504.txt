@@ -1,0 +1,7 @@
+569514047554453504
+Southwest
+@SouthwestAir @AmericanAir y'all are better then @united
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 07:08:24 -0800
+location: nan

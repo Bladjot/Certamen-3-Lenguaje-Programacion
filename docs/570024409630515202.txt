@@ -1,0 +1,7 @@
+570024409630515202
+US Airways
+@USAirways I sent email to customer.relations@aa.com. Will this work?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 16:56:24 -0800
+location: Las Vegas, NV

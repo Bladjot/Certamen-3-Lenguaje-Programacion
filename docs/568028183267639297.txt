@@ -1,0 +1,7 @@
+568028183267639297
+Southwest
+@SouthwestAir de-icing is important!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 04:44:07 -0800
+location: Tennessee Original

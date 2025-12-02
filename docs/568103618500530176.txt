@@ -1,0 +1,7 @@
+568103618500530176
+United
+@united #sfo #ClearVision #TV4U @ United Terminal SFO Airport http://t.co/Q9bYn9pCTf
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 09:43:52 -0800
+location: nan

@@ -1,0 +1,7 @@
+570012789479055360
+US Airways
+@USAirways  has me on my toes whether I'm going to make my flight back to Boston tonight
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 16:10:13 -0800
+location: USA

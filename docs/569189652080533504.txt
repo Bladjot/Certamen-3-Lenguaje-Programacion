@@ -1,0 +1,7 @@
+569189652080533504
+Delta
+@JetBlue Even 5 years after the earthquake...Haiti still needs helps in rebuilding #flyingitforward
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 09:39:22 -0800
+location: Coming to a City Near You!

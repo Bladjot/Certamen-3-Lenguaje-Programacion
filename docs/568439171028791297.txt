@@ -1,0 +1,7 @@
+568439171028791297
+Southwest
+@SouthwestAir I paid for inflight wifi only for it not to work. Download speed was 0.21mbps &amp; I ended up watching the free TV instead.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 07:57:14 -0800
+location: Chicago

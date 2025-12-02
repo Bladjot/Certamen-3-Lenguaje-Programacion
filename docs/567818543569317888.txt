@@ -1,0 +1,7 @@
+567818543569317888
+Delta
+@JetBlue we are delayed, until he arrives
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 14:51:05 -0800
+location: New York, NY

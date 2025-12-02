@@ -1,0 +1,7 @@
+569678544869199872
+American
+@AmericanAir that's the number I called -it wouldn't let me speak to an agent because of the issues with weather today
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:02:03 -0800
+location: Toronto

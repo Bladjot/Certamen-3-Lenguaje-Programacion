@@ -1,0 +1,7 @@
+569817937131016192
+Southwest
+@SouthwestAir got an email confirmation of wifi purchase on a recent flight. Trouble is, I've never flown with you. Ever. #concerned #scam?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 03:15:57 -0800
+location: nan

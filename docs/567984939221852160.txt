@@ -1,0 +1,9 @@
+567984939221852160
+United
+@united it has now been 16 days since i applied for my compensation?
+
+Y have i had no correspondence
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 01:52:16 -0800
+location: bonkers in Yonkers

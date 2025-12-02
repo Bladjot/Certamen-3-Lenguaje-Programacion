@@ -1,0 +1,7 @@
+568212443433865217
+Southwest
+@SouthwestAir it keeps saying that mobile boarding passes are unavailable despite having checked in and everything
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 16:56:18 -0800
+location: they/them

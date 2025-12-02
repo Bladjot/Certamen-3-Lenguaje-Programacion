@@ -1,0 +1,7 @@
+568077090656002048
+US Airways
+@USAirways Is there a way to have someone contact me when you have an agent available? Need help Flight Booking Problems an award flight.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 07:58:27 -0800
+location: nan

@@ -1,0 +1,7 @@
+569876741092552704
+American
+@AmericanAir @Delta @VirginAtlantic I need a vacation from all this ice! http://t.co/45kTsSK18J
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:09:37 -0800
+location: usa

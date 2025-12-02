@@ -1,0 +1,7 @@
+568899252149035008
+United
+@United super lame that you charge $8 for tv on an international flight to the US. It isn’t 1997!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 14:25:26 -0800
+location: washington, dc

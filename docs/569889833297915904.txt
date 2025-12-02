@@ -1,0 +1,7 @@
+569889833297915904
+American
+@AmericanAir I can't!!!  No one can't get to "hold".  You can't get past the automated reply.  It hangs up on you.  #FRUSTRATED
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 08:01:38 -0800
+location: nan

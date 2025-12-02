@@ -1,0 +1,7 @@
+570139793608175616
+American
+@AmericanAir over the last year 50% of my flights have been delayed or Cancelled Flightled.  I'm done with you.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 00:34:54 -0800
+location: Edmond, Oklahoma

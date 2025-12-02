@@ -1,0 +1,7 @@
+567802111321444352
+United
+@united do you think there Will problems at Newark, NJ on Saturday due to expected snow?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 13:45:47 -0800
+location: Nederland

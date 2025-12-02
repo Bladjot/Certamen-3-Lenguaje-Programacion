@@ -1,0 +1,7 @@
+569938485844422656
+American
+@AmericanAir Thanks. Having issues checking in for flight, please check our DM convo for more info.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 11:14:58 -0800
+location: San Diego

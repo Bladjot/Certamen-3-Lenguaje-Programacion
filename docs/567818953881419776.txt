@@ -1,0 +1,7 @@
+567818953881419776
+United
+@united Elizabeth at Washington Dulles just hooked me up with a new connecting flight at my gate! I'm super pleased!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 14:52:42 -0800
+location: Hampton Roads, Virginia

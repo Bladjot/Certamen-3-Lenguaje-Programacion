@@ -1,0 +1,7 @@
+568432405482229760
+Delta
+@JetBlue you guys are lucky I love you
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 07:30:21 -0800
+location: Where the food at

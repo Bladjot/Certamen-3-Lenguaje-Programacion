@@ -1,0 +1,7 @@
+567750529620697088
+Southwest
+@SouthwestAir You need to be more accommodating to your loyal customers. Not happy now!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 10:20:49 -0800
+location: Tampa

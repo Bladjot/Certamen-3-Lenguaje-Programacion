@@ -1,0 +1,7 @@
+570013961808187393
+US Airways
+@USAirways i have and you have not been able to locate them, its insane. i trust you and PAY you to look after my things and you lost them.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 16:14:53 -0800
+location: nan

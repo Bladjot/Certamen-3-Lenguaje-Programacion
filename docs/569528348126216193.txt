@@ -1,0 +1,7 @@
+569528348126216193
+United
+@united any chance you could help rebook?? My flight Cancelled Flightled
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 08:05:14 -0800
+location: nan

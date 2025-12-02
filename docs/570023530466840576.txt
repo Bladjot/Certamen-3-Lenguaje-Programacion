@@ -1,0 +1,7 @@
+570023530466840576
+Delta
+@JetBlue Not trying to make you look bad, on your website it says: "Due to weather in the Charleston, NC" Its actually in SC, not NC
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 16:52:54 -0800
+location: Somerville, MA

@@ -1,0 +1,7 @@
+570067446712791040
+American
+@AmericanAir @louprice13 @aacustomerservice. Apology not good enough. 4 planes with mechanical and 9 hours delayed unacceptable.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 19:47:25 -0800
+location: Chicago

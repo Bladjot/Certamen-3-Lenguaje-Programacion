@@ -1,0 +1,7 @@
+570098489943666688
+American
+@AmericanAir @united @SpiritAirPR  @Fioretti2ndWard @ChicagosMayor @garcia4chicago BS that #Noise #Late Flight #NoRahm http://t.co/CFzdJmn0uI
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 21:50:46 -0800
+location: Chicago, IL

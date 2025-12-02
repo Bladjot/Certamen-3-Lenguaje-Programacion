@@ -1,0 +1,7 @@
+569710627649761282
+United
+@united your worker told us not to call because we'd be talking to someone in Thailand...
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 20:09:33 -0800
+location: GLP

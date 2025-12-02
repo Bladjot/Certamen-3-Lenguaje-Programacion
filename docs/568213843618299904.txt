@@ -1,0 +1,7 @@
+568213843618299904
+US Airways
+@USAirways Not a great experience for my first time flying US Airways. Going forward I'll probably be taking my business elsewhere.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 17:01:51 -0800
+location: Redmond, WA

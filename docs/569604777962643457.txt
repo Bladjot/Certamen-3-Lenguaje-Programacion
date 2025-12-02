@@ -1,0 +1,7 @@
+569604777962643457
+American
+@AmericanAir thanks for the response. I know it's not your fault... But Im in ORD in T5 and hungry if you want to stop by ✈️✌️
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 13:08:56 -0800
+location: London

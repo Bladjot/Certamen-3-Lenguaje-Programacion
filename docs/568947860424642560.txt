@@ -1,0 +1,7 @@
+568947860424642560
+US Airways
+@USAirways @AmericanAir I was supposed to get from fresno to pittsburgh by 10pm.  Instead I'm now not getting in until 4pm... tomorrow
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 17:38:35 -0800
+location: nan

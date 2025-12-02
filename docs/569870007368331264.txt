@@ -1,0 +1,7 @@
+569870007368331264
+US Airways
+@USAirways I am appalled. My departure with you was all messed up and now on return i am supposed to fly alone with two very sick kids
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 06:42:52 -0800
+location: nan

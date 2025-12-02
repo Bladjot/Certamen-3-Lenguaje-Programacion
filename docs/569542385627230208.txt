@@ -1,0 +1,7 @@
+569542385627230208
+Delta
+@JetBlue don't I always?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 09:01:00 -0800
+location: New York, New York

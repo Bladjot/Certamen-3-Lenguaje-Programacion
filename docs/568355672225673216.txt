@@ -1,0 +1,7 @@
+568355672225673216
+United
+@united that's fine. I'll take them.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 02:25:26 -0800
+location: Rhode Island

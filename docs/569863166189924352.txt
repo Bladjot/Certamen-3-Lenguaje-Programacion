@@ -1,0 +1,7 @@
+569863166189924352
+Delta
+@JetBlue @martysg you *know* how I love you, JB, but honestly, when you have complex feedback, those pull-down sub-option forms=maddening.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 06:15:41 -0800
+location: gathering just enough moss

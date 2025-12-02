@@ -1,0 +1,7 @@
+569895538910498817
+US Airways
+@USAirways they told me to call back Late Flightr
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 08:24:19 -0800
+location: nan

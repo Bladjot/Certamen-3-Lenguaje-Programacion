@@ -1,0 +1,7 @@
+568930822952103938
+Delta
+@JetBlue just called that number and left message. Are you at to pass along message to team too?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 16:30:53 -0800
+location: Boston, MA

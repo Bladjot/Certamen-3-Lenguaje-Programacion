@@ -1,0 +1,7 @@
+569701848476745728
+American
+@AmericanAir I already landed! But, if you still care it was 1891. Thanks for the help though!, do you k ow what caused the failure?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 19:34:39 -0800
+location: Jacksonville Beach, Florida

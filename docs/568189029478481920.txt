@@ -1,0 +1,7 @@
+568189029478481920
+Delta
+@JetBlue Left my coat on flight 453 this morning in overhead bin.  Reported seat 12A, but I was 11A.  Thx.  Ticket 2792125083854
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 15:23:15 -0800
+location: Forest Hills, NY

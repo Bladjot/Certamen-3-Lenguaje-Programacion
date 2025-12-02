@@ -1,0 +1,7 @@
+569692936880791552
+United
+@united, wife landed in DC 5hrs ago. luggage did not, was told it would B delivered/Hotel by 8pm. It's now 10pm, no luggage. #UA484
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 18:59:15 -0800
+location: nan

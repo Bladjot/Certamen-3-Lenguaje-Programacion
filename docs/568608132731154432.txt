@@ -1,0 +1,7 @@
+568608132731154432
+US Airways
+@USAirways the least you could do is make up for what you have caused. You are ruining people's memories! You should be ashamed!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 19:08:37 -0800
+location: nan

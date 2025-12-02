@@ -1,0 +1,7 @@
+569535236884664320
+Delta
+@JetBlue how much longer to JFK open's I am a diabetic and I need sugar plane don't have nothing
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 08:32:36 -0800
+location: nan

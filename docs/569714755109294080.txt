@@ -1,0 +1,7 @@
+569714755109294080
+American
+@AmericanAir no worries you're swamped I know just dmd back THANK U
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 20:25:57 -0800
+location: Chicago, IL

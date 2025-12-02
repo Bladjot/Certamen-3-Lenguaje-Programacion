@@ -1,0 +1,7 @@
+570220301465681921
+American
+@AmericanAir made it!  Thanks AA!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 05:54:48 -0800
+location: Texas

@@ -1,0 +1,7 @@
+567758180068130816
+Southwest
+@SouthwestAir @PaytonTaylor129 I love Southwest and Payton Taylor!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 10:51:13 -0800
+location: Nashville, TN

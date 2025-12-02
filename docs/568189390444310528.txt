@@ -1,0 +1,7 @@
+568189390444310528
+United
+@united sent
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 15:24:41 -0800
+location: Oahu, Hi

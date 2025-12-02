@@ -1,0 +1,7 @@
+569013921660731393
+US Airways
+@USAirways Can you help me update KTN on the profile?  Ticket book via AA &amp; that info didn't get pass on.  I've been on hold forever
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 22:01:05 -0800
+location: Seattle, WA

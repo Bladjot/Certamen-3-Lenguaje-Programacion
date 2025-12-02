@@ -1,0 +1,7 @@
+570301488192458752
+American
+.@AmericanAir can you connect me to a person without having to wait 2+ hours on hold? I still haven't been able to resolve the problem.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 11:17:25 -0800
+location: Boston, MA

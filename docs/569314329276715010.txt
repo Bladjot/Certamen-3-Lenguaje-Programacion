@@ -1,0 +1,7 @@
+569314329276715010
+United
+@united 1st u delay my flight for mechanical failure,then 2 hrs on the runway, &amp; 13 hrs Late Flightr I'm still here with a lost bag &amp; no resolution
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 17:54:48 -0800
+location: Columbus,Ohio

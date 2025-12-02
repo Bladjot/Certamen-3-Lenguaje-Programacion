@@ -1,0 +1,7 @@
+569761641211895808
+American
+@AmericanAir My connecting flight to DFW was Cancelled Flightled and need to get to IND tomorrow. Any way I can get this sorted out? Been holding 1h08
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 23:32:15 -0800
+location: New York City

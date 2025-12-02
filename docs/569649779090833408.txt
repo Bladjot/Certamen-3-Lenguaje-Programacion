@@ -1,0 +1,7 @@
+569649779090833408
+Southwest
+@SouthwestAir I'm gonna ignore the fasten seatbelt sign and I want to see if ur man enough to do anything about it!!!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 16:07:45 -0800
+location: nan

@@ -1,0 +1,7 @@
+569496793668591617
+Southwest
+@SouthwestAir no HUMAN contact for 2 mths from @AmericanAir cust relations or refund dept. If ever a problem do u have humans I can talk to?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 05:59:51 -0800
+location: nan

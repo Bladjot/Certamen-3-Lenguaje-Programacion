@@ -1,0 +1,7 @@
+568162673981943808
+US Airways
+@USAirways started trying to reach a real person over an hour ago still no luck
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 13:38:32 -0800
+location: nan

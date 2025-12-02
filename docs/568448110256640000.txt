@@ -1,0 +1,7 @@
+568448110256640000
+Delta
+@JetBlue thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 08:32:45 -0800
+location: Alexandria, VA

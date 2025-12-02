@@ -1,0 +1,7 @@
+569937673206534144
+American
+@AmericanAir My father loved working for you as well as PanAm
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 11:11:44 -0800
+location: Phoenix, AZ

@@ -1,0 +1,7 @@
+568894231651098624
+Delta
+@JetBlue do you know when the schedule for dec 2015 will be released?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 14:05:29 -0800
+location: Oregon

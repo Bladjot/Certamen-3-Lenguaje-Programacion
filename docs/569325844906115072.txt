@@ -1,0 +1,7 @@
+569325844906115072
+United
+@united Yeah, I tried that about 10 times for two different tickets, and it told me to "Try again Late Flightr".
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 18:40:33 -0800
+location: Austin, TX

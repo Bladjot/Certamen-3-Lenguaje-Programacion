@@ -1,0 +1,7 @@
+569961866224652288
+Virgin America
+@virginamerica Need to change reservation. Have Virgin credit card. Do I need to modify on phone to waive change fee? Or can I do online?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:47:52 -0800
+location: San Francisco, CA

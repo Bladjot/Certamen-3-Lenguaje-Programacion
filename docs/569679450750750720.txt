@@ -1,0 +1,7 @@
+569679450750750720
+US Airways
+I've been trying to set up my phone interview for days, and hoping the position won't be filled because the link doesn't work. @USAirways
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:05:39 -0800
+location: nan

@@ -1,0 +1,7 @@
+567862181208805376
+United
+@united and that plane was staying overnight at the next airport - ROC. U can make up 10 min in air but instead of waiting u leave EARLY
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 17:44:29 -0800
+location: Irvine

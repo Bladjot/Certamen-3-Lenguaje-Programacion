@@ -1,0 +1,7 @@
+569670402223562752
+Southwest
+@SouthwestAir YES please....How do we get that companion pass?
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:29:42 -0800
+location: nan

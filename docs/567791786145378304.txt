@@ -1,0 +1,7 @@
+567791786145378304
+United
+@united 3pm and my bags still not here. not even a courtesy toiletries kit. not the flight experience I was expecting, very disappointed.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 13:04:45 -0800
+location: Conway, AR

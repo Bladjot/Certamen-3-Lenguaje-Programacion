@@ -1,0 +1,7 @@
+569017194564096000
+Southwest
+@SouthwestAir I lost my luggage. My birthday wish is to find my luggage.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 22:14:05 -0800
+location: Iowa State University

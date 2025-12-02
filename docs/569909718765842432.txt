@@ -1,0 +1,7 @@
+569909718765842432
+Southwest
+@SouthwestAir I never got an email confirmation for my ticket, but the credit card was charged.  Phone wait time is crazy. Is there a chat?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:20:40 -0800
+location: Los Angeles

@@ -1,0 +1,7 @@
+568904155332354050
+Southwest
+@SouthwestAir are you guys alive? i've been on hold for 25 minutes and counting.....
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 14:44:55 -0800
+location: 310

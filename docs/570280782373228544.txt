@@ -1,0 +1,7 @@
+570280782373228544
+Delta
+@JetBlue Stop trying to make #fleek happen! #PointsMe
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:55:08 -0800
+location: nan

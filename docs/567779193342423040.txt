@@ -1,0 +1,7 @@
+567779193342423040
+US Airways
+@USAirways great job communicating to the passengers! Flight 1855 doesn't exist anymore? http://t.co/hLZaHXkdSn
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 12:14:43 -0800
+location: NC

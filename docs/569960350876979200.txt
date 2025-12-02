@@ -1,0 +1,7 @@
+569960350876979200
+Delta
+@JetBlue Indeed. It was not 😉.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:41:51 -0800
+location: Portland, OR

@@ -1,0 +1,7 @@
+569756967935148032
+United
+@united Missed UA1568 connection due 2 mechanical failure UA1543 ("uplink prob"). I will lose ~$400 in clients Mon. How can you compensate?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 23:13:41 -0800
+location: 176 Thomas Johnson Drive, #204

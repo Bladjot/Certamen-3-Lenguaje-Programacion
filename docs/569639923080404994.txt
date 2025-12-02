@@ -1,0 +1,7 @@
+569639923080404994
+American
+@AmericanAir My flt AA375 for 02/23 got cncled and i cant get hold of a CSR so i can get alternate arrangement. Plz help
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 15:28:35 -0800
+location: nan

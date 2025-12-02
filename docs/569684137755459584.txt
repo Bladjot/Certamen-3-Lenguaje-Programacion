@@ -1,0 +1,7 @@
+569684137755459584
+Southwest
+@SouthwestAir how long does it take for my Rapid Rewards points to be credited to my account?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:24:17 -0800
+location: New England

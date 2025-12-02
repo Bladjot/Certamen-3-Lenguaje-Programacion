@@ -1,0 +1,7 @@
+568269181394817024
+United
+@united Trying to change a flight booked just 6 hours ago but online system is charging me $200 fee per passenger... could you please help?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 20:41:45 -0800
+location: Washington, DC

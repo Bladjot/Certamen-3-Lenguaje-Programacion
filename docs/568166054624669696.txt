@@ -1,0 +1,7 @@
+568166054624669696
+United
+@united thanks for not letting me switch flights Bc I had a checked bag then Cancelled Flighting my flight forcing me to take another 3 hrs Late Flightr!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 13:51:58 -0800
+location: NJ

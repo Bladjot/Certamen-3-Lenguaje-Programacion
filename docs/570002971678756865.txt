@@ -1,0 +1,7 @@
+570002971678756865
+American
+@AmericanAir this is a big company should be happy to do something for a customer when now it's costing more for delays oh and did I mention
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 15:31:13 -0800
+location: new york city

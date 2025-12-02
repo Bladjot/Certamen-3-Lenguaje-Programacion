@@ -1,0 +1,7 @@
+569864437739495424
+Delta
+@JetBlue lol at your "estimated departure time." Plane hasn't even started boarding yet. You can't even get your delays right.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 06:20:44 -0800
+location: nan

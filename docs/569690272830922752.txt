@@ -1,0 +1,7 @@
+569690272830922752
+American
+@AmericanAir would have been nice if the agents were at the very least courteous since the delay was AA's fault
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:48:40 -0800
+location: Kitchen, office or on the road

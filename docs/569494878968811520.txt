@@ -1,0 +1,7 @@
+569494878968811520
+Southwest
+@SouthwestAir you have open seats on flight 4001 pvd to MCO @ 1215pm today?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 05:52:14 -0800
+location: nan

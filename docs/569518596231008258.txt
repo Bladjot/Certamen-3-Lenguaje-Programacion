@@ -1,0 +1,7 @@
+569518596231008258
+United
+@united Flight 1547 CMH to ORD just arrived at gate. Next segment to YVR already boarding. Will they hold it?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 07:26:29 -0800
+location: Columbus, Ohio, USA

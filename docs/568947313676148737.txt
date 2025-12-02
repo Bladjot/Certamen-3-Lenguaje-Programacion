@@ -1,0 +1,7 @@
+568947313676148737
+United
+@united yes but taking two days to get bag delivered. Missed a full day skiing because of this.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 17:36:24 -0800
+location: Omaha, NE

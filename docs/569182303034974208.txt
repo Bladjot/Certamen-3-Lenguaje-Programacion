@@ -1,0 +1,7 @@
+569182303034974208
+US Airways
+@USAirways what is with all the Cancelled Flightlations to PBI? We have pax at DCA that have been sent to 4 different lines between AAL and AWE. Help!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 09:10:10 -0800
+location: Bushwood

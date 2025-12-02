@@ -1,0 +1,7 @@
+569260276626956288
+US Airways
+@USAirways need seat assignments for one leg of family's return flight - can you please help via Twitter PM?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 14:20:00 -0800
+location: nan

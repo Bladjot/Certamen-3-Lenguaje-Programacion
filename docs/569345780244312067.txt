@@ -1,0 +1,9 @@
+569345780244312067
+US Airways
+@USAirways HELP! It says "the payment is denied" but my money has been taken out of my bank?  
+
+And it says I have no trips coming up??
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-21 19:59:46 -0800
+location: Blue Ridge High School

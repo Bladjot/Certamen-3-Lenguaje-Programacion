@@ -1,0 +1,7 @@
+567738375755415552
+Southwest
+@southwestair Thanks. Yes I got through. Biggest frustration is that I'm no longer able to check in online for my flight after 4 Cancelled Flights.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 09:32:31 -0800
+location: Brooklyn, NY

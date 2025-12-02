@@ -1,0 +1,7 @@
+569673764562010112
+American
+@AmericanAir Why can't you handle your customers needs? Cancelled Flightled flight, 800 number leads to a quick "Goodbye" Very Sad!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 17:43:04 -0800
+location: Madison, WI

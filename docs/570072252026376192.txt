@@ -1,0 +1,7 @@
+570072252026376192
+United
+@united Please help... I am in Ethiopia adopting a two year old child. Have an existing confirmation #. Need to add child to reservation.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 20:06:30 -0800
+location: nan

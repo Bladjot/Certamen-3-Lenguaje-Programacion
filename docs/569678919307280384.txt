@@ -1,0 +1,7 @@
+569678919307280384
+US Airways
+@USAirways do you have an email??
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:03:33 -0800
+location: nan

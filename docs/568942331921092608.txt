@@ -1,0 +1,7 @@
+568942331921092608
+Virgin America
+@VirginAmerica #wtf I paid for direct flight on purpose not to have to stop for fuel exhausted frequent flier and nothing for inconvenience!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 17:16:37 -0800
+location: San Francisco

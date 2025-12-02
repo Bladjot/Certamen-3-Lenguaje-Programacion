@@ -1,0 +1,7 @@
+569613272049012736
+United
+@United - In case you're reading this, UA230, right now, 7D. So many oversized carryons taking up too much room. Enforce your rules.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 13:42:41 -0800
+location: New York, NY

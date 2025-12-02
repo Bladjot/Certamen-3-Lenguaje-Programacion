@@ -1,0 +1,7 @@
+569338724787593216
+United
+@united we've been seating for 5hrs inside flight UA936 at #IAD delayed. We've only been offered water &amp; cookies in business class. #failed
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 19:31:44 -0800
+location: Washington-Vancouver-Medellín

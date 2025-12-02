@@ -1,0 +1,7 @@
+569277352129138688
+Virgin America
+@VirginAmerica You have any flights flying into Boston tomorrow? I need to be home and you Cancelled Flightled my flight and didn't do anything
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 15:27:52 -0800
+location: MA // Ashton in Wonderland

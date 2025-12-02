@@ -1,0 +1,7 @@
+569608307184242688
+American
+@AmericanAir after all, the plane didn’t land in identical or worse) conditions at GRK according to METARs.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 13:22:57 -0800
+location: College Station, TX

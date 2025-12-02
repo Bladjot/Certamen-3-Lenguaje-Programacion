@@ -1,0 +1,7 @@
+569209352730513409
+United
+@united I'm glad 1K means something, lol!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 10:57:39 -0800
+location: nan

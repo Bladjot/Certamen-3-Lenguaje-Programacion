@@ -1,0 +1,7 @@
+569608733321498627
+American
+@AmericanAir appreciate update. Have also appreciated our pilots effort to explain to us just now. Accurate, authoritative comms is vital.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 13:24:39 -0800
+location: UK / Canada / etc

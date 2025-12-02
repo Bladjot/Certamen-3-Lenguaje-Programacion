@@ -1,0 +1,7 @@
+568948323916255233
+United
+@united How can I file a claim when your agents won't let me speak to a supervisor? My claim number is expired because you WON'T find my bag
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 17:40:25 -0800
+location: New York City

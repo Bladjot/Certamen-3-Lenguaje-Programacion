@@ -1,0 +1,7 @@
+569880508181696513
+American
+@AmericanAir @USAirways outbound flight: 2 hour delay b/c air traffic &amp; 2 gate changes dividend miles member gets no email or text updates
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 07:24:35 -0800
+location: BK

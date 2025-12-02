@@ -1,0 +1,7 @@
+569470776576880640
+US Airways
+@USAirways @jtrexsocial i fell asleep from a call i placed midght.. guess what still on hold 7 am
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 04:16:28 -0800
+location: nan

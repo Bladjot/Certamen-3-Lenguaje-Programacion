@@ -1,0 +1,7 @@
+570234734942523393
+United
+@united Not sure what you are talking about. She is going on nonstop flights. SNA to SFO and then SFO to EWR.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 06:52:09 -0800
+location: Princeton, NJ

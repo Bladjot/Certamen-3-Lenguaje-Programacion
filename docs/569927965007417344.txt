@@ -1,0 +1,7 @@
+569927965007417344
+Southwest
+@SouthwestAir Thanks. I did go through these motions shortly after my flight yesterday. I wonder how quickly flight attendants are notified.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:33:10 -0800
+location: Royal Palm Beach, FL, USA

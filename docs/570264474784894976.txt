@@ -1,0 +1,7 @@
+570264474784894976
+Southwest
+@SouthwestAir SWA helps the hotel industry. I always book flights a day before I need to be somewhere as SWA consistent Cancelled Flights/delays.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 08:50:20 -0800
+location: nan

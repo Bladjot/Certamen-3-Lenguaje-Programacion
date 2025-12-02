@@ -1,0 +1,7 @@
+569026124484706304
+United
+@united flight 1136 from Chicago to Houston over 2 hours and no pretzels or peanuts?! Seriously about passed out.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 22:49:34 -0800
+location: nan

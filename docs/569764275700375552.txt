@@ -1,0 +1,7 @@
+569764275700375552
+American
+@AmericanAir has to be the worst airline in the world #yousuck #horrible #Oscars2015
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 23:42:43 -0800
+location: Scottsdale, AZ

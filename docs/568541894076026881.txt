@@ -1,0 +1,7 @@
+568541894076026881
+US Airways
+@USAirways any word on whether or not flight 1971 from Seattle to Charlotte will have connections held? Or...
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 14:45:25 -0800
+location: nan

@@ -1,0 +1,7 @@
+570084217301962752
+US Airways
+@USAirways No I was there 12 hrs early! Send me an email to share my experience You don't want this blasting here.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 20:54:03 -0800
+location: Pennsylvania

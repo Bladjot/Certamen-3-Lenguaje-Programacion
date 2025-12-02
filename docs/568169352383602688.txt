@@ -1,0 +1,7 @@
+568169352383602688
+Southwest
+@SouthwestAir is there a way to DM you?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 14:05:04 -0800
+location: Fort Worth, TX

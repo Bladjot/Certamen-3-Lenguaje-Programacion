@@ -1,0 +1,7 @@
+567870608152793088
+United
+@united which now has maintenance issues with an undetermined amount of time until the mechanics even arrive
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 18:17:58 -0800
+location: nan

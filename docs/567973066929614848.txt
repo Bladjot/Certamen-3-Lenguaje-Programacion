@@ -1,0 +1,7 @@
+567973066929614848
+Delta
+@JetBlue marks 15th birthday with 'Blumanity' paint job - @Dallas_News (blog) http://t.co/lFGR0Nifut
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 01:05:06 -0800
+location: USA

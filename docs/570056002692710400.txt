@@ -1,0 +1,7 @@
+570056002692710400
+American
+@AmericanAir  TPA - ORD!!! AA1679 Another successful journey, thanks for the hospitality!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 19:01:56 -0800
+location: Chicago

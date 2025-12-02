@@ -1,0 +1,7 @@
+570210970330669056
+United
+@united yep that's correct, I got an email at 12:30 am that the flight was Cancelled Flightled, doesn't matter now flight into atl is delayed, thx
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 05:17:43 -0800
+location: nan

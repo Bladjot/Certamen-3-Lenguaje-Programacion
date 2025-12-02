@@ -1,0 +1,7 @@
+569605699308818432
+American
+@AmericanAir i dont believe it, it has been impossible for your agents to get an update from the delivery company since yesterday at 11 am
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:12:36 -0800
+location: nan

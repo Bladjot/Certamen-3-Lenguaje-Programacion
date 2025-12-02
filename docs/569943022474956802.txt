@@ -1,0 +1,7 @@
+569943022474956802
+American
+@AmericanAir Still on hold. Way to suck.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:33:00 -0800
+location: Seattle, WA

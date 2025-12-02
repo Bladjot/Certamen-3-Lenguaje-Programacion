@@ -1,0 +1,7 @@
+568184857538498560
+United
+@united a report was filed with the airport police on 11th and 12th February-I have the police case number if required
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 15:06:41 -0800
+location: nan

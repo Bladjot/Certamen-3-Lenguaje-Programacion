@@ -1,0 +1,7 @@
+567808014725464064
+Delta
+@JetBlue the USA help line.  i accidentally booked a flight on a thursday instead of a wednesday and want to switch
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:09:14 -0800
+location: nan

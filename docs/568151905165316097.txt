@@ -1,0 +1,7 @@
+568151905165316097
+Southwest
+@SouthwestAir TSA Pre isn't showing up on my boarding passes and I've followed all of the steps. Please help.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 12:55:44 -0800
+location: D.C. Metro Area

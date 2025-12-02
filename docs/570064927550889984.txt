@@ -1,0 +1,7 @@
+570064927550889984
+American
+@AmericanAir airport and 2 extra nights for hotels and not once have I heard of anything from your embarrassing airline saying that you will
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 19:37:24 -0800
+location: Belleville

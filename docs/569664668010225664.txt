@@ -1,0 +1,7 @@
+569664668010225664
+American
+@AmericanAir 719. Looks like we are about to get going, finally!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:06:55 -0800
+location: Far From Home

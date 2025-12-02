@@ -1,0 +1,7 @@
+569674298924900352
+American
+@AmericanAir never got an update and we had the worst communication from u. Our flight delay was mechanical and not a word. #poorservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:45:11 -0800
+location: US

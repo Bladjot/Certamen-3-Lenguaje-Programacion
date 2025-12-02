@@ -1,0 +1,7 @@
+569575679722786816
+Virgin America
+@VirginAmerica is your website ever coming back online?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 11:13:18 -0800
+location: nan

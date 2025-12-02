@@ -1,0 +1,9 @@
+567782645975625729
+US Airways
+@usairways Yes. Works in Firefox. 
+
+Can do everything but finish purchase. Button turns gray, never submits. For a couple weeks now.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-17 12:28:26 -0800
+location: Mission, Kansas

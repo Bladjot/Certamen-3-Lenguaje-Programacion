@@ -1,0 +1,7 @@
+567892395867656193
+United
+@united Holiday of a lifetime to New York ruined because you lost my luggage and have failed to find it since Sunday! #wontflyagainwithyou
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 19:44:32 -0800
+location: nan

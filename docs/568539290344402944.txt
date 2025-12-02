@@ -1,0 +1,7 @@
+568539290344402944
+Southwest
+@SouthwestAir might be the worst airline ever
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 14:35:04 -0800
+location: On It

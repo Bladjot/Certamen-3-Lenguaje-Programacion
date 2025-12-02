@@ -1,0 +1,7 @@
+568885117373927425
+United
+@united why I won't check my carry on. Watched a handler throw this bag -- miss the conveyer belt -- sat there 10 min http://t.co/lyoocx5mSH
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-20 13:29:16 -0800
+location: Chicago

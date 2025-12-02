@@ -1,0 +1,7 @@
+569624909501984768
+United
+@united I'd rather spend two days in the back seat of a Volkswagen than two hours on your plane! #disgruntled #whatacluster
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 14:28:56 -0800
+location: Corpus Christi

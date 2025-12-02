@@ -1,0 +1,7 @@
+568467286333513728
+Delta
+@JetBlue what's up w flt 4? Brothers fiancé sitting on board for 30mins w tech  issues.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 09:48:57 -0800
+location: Metro Washington DC

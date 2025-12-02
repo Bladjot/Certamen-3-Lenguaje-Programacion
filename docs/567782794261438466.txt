@@ -1,0 +1,7 @@
+567782794261438466
+Southwest
+@SouthwestAir WiFi on yesterday's flight extremely slow a waste of $8 and lost the travel time for work.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 12:29:01 -0800
+location: US

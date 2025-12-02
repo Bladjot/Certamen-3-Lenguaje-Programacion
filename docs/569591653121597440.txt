@@ -1,0 +1,7 @@
+569591653121597440
+American
+@AmericanAir I used the "call back" feature with an operator regarding my flight, got a call 2 hours Late Flightr and got hung up on. #pleasehelp
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:16:47 -0800
+location: Chicago

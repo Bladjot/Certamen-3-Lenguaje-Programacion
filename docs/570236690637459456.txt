@@ -1,0 +1,7 @@
+570236690637459456
+American
+@AmericanAir simply amazing. Smiles for miles.Thank u for my upgrade tomorrow for ORD.We are spending a lot of time together next few weeks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 06:59:56 -0800
+location: World Wide.

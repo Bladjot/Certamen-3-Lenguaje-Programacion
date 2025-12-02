@@ -1,0 +1,7 @@
+569699455919726593
+American
+@AmericanAir @SouljaCoy what is AA going to do to fix their utterly embarrassing customer service? You won't even answer the dang phone!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:25:09 -0800
+location: nan

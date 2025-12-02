@@ -1,0 +1,7 @@
+569086048388538368
+Southwest
+@SouthwestAir Any plans to implement a call-back system on your reFlight Booking Problems line? Been on hold for over an hour now...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 02:47:41 -0800
+location: nan

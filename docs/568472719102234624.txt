@@ -1,0 +1,7 @@
+568472719102234624
+Virgin America
+@VirginAmerica Done, but I need the receipt ASAP. Could you please help? #150219-000114
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 10:10:32 -0800
+location: San Francisco, CA

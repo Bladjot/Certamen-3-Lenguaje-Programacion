@@ -1,0 +1,7 @@
+569959122331836416
+Delta
+@JetBlue you guys operate a world class company and for that I thank you
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 12:36:58 -0800
+location: nan

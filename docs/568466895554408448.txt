@@ -1,0 +1,7 @@
+568466895554408448
+United
+@united Death in the family cannot make flight tomorrow. Phone rep quoted $440 per person fee, which is almost the cost of ticket. Help?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 09:47:24 -0800
+location: Brooklyn

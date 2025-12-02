@@ -1,0 +1,7 @@
+569629692661268480
+United
+@united Thank y'all for being an amazing airline who knows how to treat their customers. you guys rock!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 14:47:56 -0800
+location: nan

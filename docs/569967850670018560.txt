@@ -1,0 +1,7 @@
+569967850670018560
+United
+@united Apparently they are asking 20 people to off board the plane--how can such a big miscalculation be made?!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 13:11:39 -0800
+location: San Francisco Bay Area

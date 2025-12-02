@@ -1,0 +1,7 @@
+569717605277130752
+American
+@AmericanAir thx for losing my bag. How hard is it to care for a bag w PRIORITY on it?why do u cont to not care for EP's?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 20:37:16 -0800
+location: nan

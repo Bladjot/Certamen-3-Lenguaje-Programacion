@@ -1,0 +1,7 @@
+570227149682155520
+United
+@united yes please! Trying to get to POP- in Newark now....
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 06:22:01 -0800
+location: btv

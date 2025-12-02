@@ -1,0 +1,7 @@
+569650182331084801
+American
+@AmericanAir - AA1344 Cancelled Flighted on 2.23 - rebooked on us air 623/544 on 2.24. Has to be a nonstop on 2.24 for us (2)?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 16:09:21 -0800
+location: nan

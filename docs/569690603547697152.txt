@@ -1,0 +1,7 @@
+569690603547697152
+American
+@AmericanAir i will be writing a very detailed letter to you all about this experience today. I have never experienced such awful cs ever
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:49:58 -0800
+location: NYCATL

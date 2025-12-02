@@ -1,0 +1,7 @@
+569703596914282496
+US Airways
+@USAirways truly dissapointed when our flight is delayed and going to miss connection that we are expected to rebook our own flight????????
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 19:41:36 -0800
+location: nan

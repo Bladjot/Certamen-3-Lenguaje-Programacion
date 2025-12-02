@@ -1,0 +1,7 @@
+569986246648442881
+American
+@AmericanAir why are customer svc reps unable to handle calls. Is there a 24hrs Cancelled Flightlation policy? Booked yesterday need to Cancelled Flight
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:24:45 -0800
+location: DMV

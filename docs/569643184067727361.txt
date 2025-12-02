@@ -1,0 +1,7 @@
+569643184067727361
+American
+@AmericanAir Cancelled Flight previous request. Will accept ticket number for document number
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 15:41:33 -0800
+location: nan

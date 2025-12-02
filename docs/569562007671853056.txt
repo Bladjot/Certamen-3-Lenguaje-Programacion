@@ -1,0 +1,7 @@
+569562007671853056
+US Airways
+@USAirways @MrRenevendez I've been trying to contact them for 24 hours already! Yesterday I waited 7 hours today 5+! http://t.co/gn30p75KqB
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 10:18:59 -0800
+location: nan

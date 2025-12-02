@@ -1,0 +1,7 @@
+569677848983801856
+American
+@AmericanAir DM sent. Answer me please
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:59:17 -0800
+location: Guatemala.

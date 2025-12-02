@@ -1,0 +1,7 @@
+568017916161085441
+Delta
+@JetBlue  no ... I am guessing I have to call someone
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 04:03:19 -0800
+location: Merrick

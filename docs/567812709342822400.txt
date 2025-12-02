@@ -1,0 +1,7 @@
+567812709342822400
+Southwest
+@SouthwestAir I was helped by a nice lady at PHX checkin. I spent 4 hours on hold in 24 hours, so might want to look at efficiency there.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 14:27:54 -0800
+location: nan

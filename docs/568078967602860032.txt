@@ -1,0 +1,7 @@
+568078967602860032
+United
+@united You please do not burn my dreams !!!  #burningman tickets sales today.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 08:05:54 -0800
+location: Warsaw

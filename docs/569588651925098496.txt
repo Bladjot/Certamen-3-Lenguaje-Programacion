@@ -1,0 +1,7 @@
+569588651925098496
+American
+Thank you. “@AmericanAir: @jlhalldc Customer Relations will review your concerns and contact you back directly, John.”
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 12:04:51 -0800
+location: Washington, DC

@@ -1,0 +1,7 @@
+569909224521641984
+Virgin America
+@VirginAmerica I can't check in or add a bag. Your website isn't working. I've tried both desktop and mobile http://t.co/AvyqdMpi1Y
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:18:42 -0800
+location: Austin, TX

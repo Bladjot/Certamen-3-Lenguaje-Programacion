@@ -1,0 +1,7 @@
+568221293914533889
+Southwest
+@SouthwestAir I had to travel to Savannah, GA, once again, on an airline I don't "Luv". When r u going to fly me to Savannah? Pleeeease!!!!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 17:31:28 -0800
+location: nan

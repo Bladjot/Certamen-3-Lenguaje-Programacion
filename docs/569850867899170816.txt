@@ -1,0 +1,7 @@
+569850867899170816
+United
+@united hahahahaha ya tried that already
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 05:26:48 -0800
+location: ÜT: 50.97861,-114.000116

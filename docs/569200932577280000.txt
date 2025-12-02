@@ -1,0 +1,7 @@
+569200932577280000
+Southwest
+@SouthwestAir I wrote to your customer support on Monday re: a Cancelled Flighted flight but haven't heard back. Any idea what's up? Thanks.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 10:24:12 -0800
+location: New York, NY

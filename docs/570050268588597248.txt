@@ -1,0 +1,7 @@
+570050268588597248
+United
+@united can you tell me how to file a claim for clothing that had to be purchased?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 18:39:09 -0800
+location: Global

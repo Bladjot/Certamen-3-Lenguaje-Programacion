@@ -1,0 +1,7 @@
+568271522332192768
+Southwest
+@SouthwestAir We've been sitting at the gate for two hours waiting for bags to be loaded... I'm telling Herb.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 20:51:03 -0800
+location: Los Angeles, CA

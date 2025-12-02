@@ -1,0 +1,7 @@
+569917729022586880
+Delta
+@JetBlue someone should screen what you play on your flights. http://t.co/tNY9uIpha5
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 09:52:29 -0800
+location: OP NY

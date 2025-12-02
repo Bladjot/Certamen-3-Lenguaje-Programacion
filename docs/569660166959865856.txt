@@ -1,0 +1,7 @@
+569660166959865856
+American
+@AmericanAir Why does your iPhone app not have any sort of notifications option?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:49:02 -0800
+location: Chicago, IL

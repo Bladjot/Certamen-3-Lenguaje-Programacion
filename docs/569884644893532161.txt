@@ -1,0 +1,7 @@
+569884644893532161
+American
+@AmericanAir Could have voided the ticket since it was &gt; 24hrs since Flight Booking Problems. Are you going to waive the fees? Still can't get through.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 07:41:01 -0800
+location: San Francisco

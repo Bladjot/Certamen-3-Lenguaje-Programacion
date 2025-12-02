@@ -1,0 +1,7 @@
+569705380282019841
+Delta
+@JetBlue that's ok! It just sure seemed like it when JetBlue tweeted us back and asked us to send selfies of us watching.. Haha
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 19:48:41 -0800
+location: Provincetown Ma

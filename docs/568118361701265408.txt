@@ -1,0 +1,7 @@
+568118361701265408
+US Airways
+@USAirways Big fail on not having curbside baggage in Pittsburgh and you charge 30 dollars a bag!!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 10:42:27 -0800
+location: US

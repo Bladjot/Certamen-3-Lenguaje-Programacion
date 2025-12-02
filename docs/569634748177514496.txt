@@ -1,0 +1,7 @@
+569634748177514496
+United
+@united no, we still have not heard anything from anyone at @united or the @ErieAirport
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 15:08:01 -0800
+location: nan

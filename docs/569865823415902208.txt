@@ -1,0 +1,7 @@
+569865823415902208
+US Airways
+@USAirways can you add my KTN to an existing reservation?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 06:26:14 -0800
+location: ATL | DTW | NRT

@@ -1,0 +1,7 @@
+568128387576762370
+United
+@united my plane sounds like  a DJ  scratching is this normal? If so, will this eventually be a new entertainment fee.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 11:22:17 -0800
+location: Las Vegas

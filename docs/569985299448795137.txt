@@ -1,0 +1,7 @@
+569985299448795137
+Delta
+@JetBlue what's good with a Miami terminal?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:20:59 -0800
+location: Long Island

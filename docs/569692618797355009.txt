@@ -1,0 +1,7 @@
+569692618797355009
+United
+@united on a flight at 11:30 tomorrow.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:57:59 -0800
+location: nan

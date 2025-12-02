@@ -1,0 +1,7 @@
+569618309357940737
+Delta
+@JetBlue the fact that #ChrisHasMadeUsBLUSH isn't trending is how you know I'm loyal ;)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 14:02:42 -0800
+location: Washington, D.C.

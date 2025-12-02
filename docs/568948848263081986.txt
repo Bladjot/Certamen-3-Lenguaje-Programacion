@@ -1,0 +1,7 @@
+568948848263081986
+Southwest
+@SouthwestAir thx for smooth landing today @fly2midway, we applauded! Now what can u do abt the weather? #takemeback http://t.co/OQZ7Wc4lLA
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 17:42:30 -0800
+location: Chicagoland

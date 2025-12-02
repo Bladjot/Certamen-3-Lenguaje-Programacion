@@ -1,0 +1,7 @@
+568993159419535360
+Delta
+@JetBlue 1242 now?! I may cry!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 20:38:35 -0800
+location: Central Perk

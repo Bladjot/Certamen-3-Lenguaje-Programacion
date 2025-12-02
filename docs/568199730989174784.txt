@@ -1,0 +1,7 @@
+568199730989174784
+Virgin America
+@VirginAmerica Really? Sprint? I thought you guys were 'kewl'! 0_0
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 16:05:47 -0800
+location: Southern California

@@ -1,0 +1,7 @@
+568107719737020417
+Southwest
+@SouthwestAir step 1: be less shot. Step 2: acknowledge customers other places than Twitter. Step 3: don't suck so much
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 10:00:09 -0800
+location: Rogue, USA

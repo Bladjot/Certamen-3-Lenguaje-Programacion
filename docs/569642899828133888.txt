@@ -1,0 +1,7 @@
+569642899828133888
+United
+@united but we are on All Nippon now (booked by United to replace the one we missed).
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 15:40:25 -0800
+location: Kingston, Canada

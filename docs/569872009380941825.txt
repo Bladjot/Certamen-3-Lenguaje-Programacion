@@ -1,0 +1,7 @@
+569872009380941825
+United
+@united Beyond frustrated  Sked change = no seats, earlier departure and double layover.  Of course only seats are $$++.  Cust svc no help
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:50:49 -0800
+location: Ashburn, VA

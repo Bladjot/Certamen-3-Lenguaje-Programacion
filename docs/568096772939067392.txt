@@ -1,0 +1,7 @@
+568096772939067392
+United
+@united it's amazing really.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 09:16:40 -0800
+location: columbus, oh

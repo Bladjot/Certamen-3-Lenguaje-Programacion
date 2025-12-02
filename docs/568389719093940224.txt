@@ -1,0 +1,7 @@
+568389719093940224
+Southwest
+@SouthwestAir my first flight ever and flight #4251 is already having technical issues. Faaaannntastic.😭
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 04:40:43 -0800
+location: nan

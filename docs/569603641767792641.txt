@@ -1,0 +1,7 @@
+569603641767792641
+Delta
+@JetBlue thank you guys! You are the best! 🙌✈️
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 13:04:25 -0800
+location: Miami, FL

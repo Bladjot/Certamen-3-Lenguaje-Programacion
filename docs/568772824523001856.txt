@@ -1,0 +1,7 @@
+568772824523001856
+US Airways
+@USAirways is moving the plane to the end of the runway for us to sit on it for an hour and a half. They didn't even let us off.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 06:03:03 -0800
+location: On a beach

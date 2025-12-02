@@ -1,0 +1,7 @@
+569143528397254656
+Delta
+@JetBlue Airways Stock Rating Lowered by Vetr Inc. (JBLU) - Dakota Financial News http://t.co/QW2eBEEMVg
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 06:36:06 -0800
+location: USA

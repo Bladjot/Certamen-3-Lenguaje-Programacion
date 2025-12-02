@@ -1,0 +1,7 @@
+568842357069770752
+United
+Thank you @united for your prompt assistance.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 10:39:21 -0800
+location: Toronto, ON

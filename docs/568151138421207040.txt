@@ -1,0 +1,7 @@
+568151138421207040
+US Airways
+@USAirways stop Cancelled Flighting flights over and over and not provide any real help to your customers. #strandedinnashville
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 12:52:41 -0800
+location: nan

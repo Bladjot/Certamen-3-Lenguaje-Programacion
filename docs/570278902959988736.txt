@@ -1,0 +1,7 @@
+570278902959988736
+US Airways
+@USAirways and now you can't even accommodate us by letting us fly in to another airport?! Horrible service for your fault!!!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:47:40 -0800
+location: nan

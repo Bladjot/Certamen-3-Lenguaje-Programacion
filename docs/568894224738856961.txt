@@ -1,0 +1,7 @@
+568894224738856961
+Southwest
+@SouthwestAir aren't you based in Chicago? Why are you doing a hunt in LA and not your home city????!! Please bring one home
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 14:05:27 -0800
+location: nan

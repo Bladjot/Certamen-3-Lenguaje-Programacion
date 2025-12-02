@@ -1,0 +1,7 @@
+568790164404899840
+Virgin America
+@virginamerica Looks like a broken link for your assets https://t.co/OArDjjGrrD
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 07:11:57 -0800
+location: Brooklyn, NY

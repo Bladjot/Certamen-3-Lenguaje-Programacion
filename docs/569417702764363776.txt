@@ -1,0 +1,7 @@
+569417702764363776
+US Airways
+@USAirways have been on hold for 58 minutes - need help USAIR - why won't you help?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 00:45:34 -0800
+location: Boston Area

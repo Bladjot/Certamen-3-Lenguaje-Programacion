@@ -1,0 +1,7 @@
+568929652003217409
+Southwest
+@SouthwestAir Great trip on 2672 yesterday - outstanding flight attendants
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 16:26:13 -0800
+location: Washington, D.C.

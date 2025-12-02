@@ -1,0 +1,7 @@
+568949970080018433
+United
+@united Yes I needed plenty of assistance but received none.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 17:46:58 -0800
+location: West Virginia

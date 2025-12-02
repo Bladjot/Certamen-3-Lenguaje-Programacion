@@ -1,0 +1,7 @@
+569502753694691328
+Southwest
+@SouthwestAir looks like you are up and running for the day. Still can't get through on the phone. Can you follow so I can dm you my info
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 06:23:31 -0800
+location: Houston, Texas

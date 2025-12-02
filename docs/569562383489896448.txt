@@ -1,0 +1,7 @@
+569562383489896448
+United
+@United why not charge for 2nd carryon instead of checked bag? Less jockeying for overhead space, happier passengers, more ontime departures
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 10:20:28 -0800
+location: Hingham, MA

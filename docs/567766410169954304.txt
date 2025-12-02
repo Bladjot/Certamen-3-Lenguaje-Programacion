@@ -1,0 +1,7 @@
+567766410169954304
+Delta
+@JetBlue just learning about your famous apology in social media marketing. Is Twitter an asset for Jet Blue now? @PhD_Mama_
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 11:23:55 -0800
+location: OH-LA-AZ-NY-AFG-IL-?

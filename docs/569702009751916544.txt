@@ -1,0 +1,7 @@
+569702009751916544
+US Airways
+@USAirways @PeterPiatetsky Ummmm I think US Air's computers@were@down for hours - my flight is 3 hours Late Flight.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 19:35:18 -0800
+location: nan

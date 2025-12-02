@@ -1,0 +1,7 @@
+567847966989508608
+US Airways
+@USAirways been delayed three times now finally boarded. Been waiting 20 minutes. Now being told the plan has to be completely powered down.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 16:48:00 -0800
+location: Washingon, DC

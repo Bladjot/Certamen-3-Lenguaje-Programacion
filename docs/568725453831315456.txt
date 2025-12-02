@@ -1,0 +1,7 @@
+568725453831315456
+United
+@united what is going on with baggage claim in Newark!#tiredandwanttogohome
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 02:54:49 -0800
+location: nan

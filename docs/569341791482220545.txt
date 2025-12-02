@@ -1,0 +1,7 @@
+569341791482220545
+Southwest
+@SouthwestAir Thanks for helping out! Class act, all the way... see you in the air!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 19:43:55 -0800
+location: N 30°23' 0'' / W 97°44' 0''

@@ -1,0 +1,7 @@
+568472783354773504
+US Airways
+@USAirways thanks for telling me my flight was on time when the plane was broken. You're an inferior airline.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 10:10:47 -0800
+location: Pittsburgh, PA

@@ -1,0 +1,7 @@
+569588473050611712
+American
+@AmericanAir Thanks! He is.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 12:04:09 -0800
+location: Chapel Hill, NC

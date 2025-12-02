@@ -1,0 +1,7 @@
+568788152955092992
+United
+@united so funny that my boarding pass said PRIORITY a because clearly I am not a priority to this airline
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 07:03:57 -0800
+location: NYC

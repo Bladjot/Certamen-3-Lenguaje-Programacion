@@ -1,0 +1,7 @@
+569790297875599361
+American
+@AmericanAir been calling 2 different offices already and still no sign of my baggage. First time on American Air.. (6)
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 01:26:07 -0800
+location: nan

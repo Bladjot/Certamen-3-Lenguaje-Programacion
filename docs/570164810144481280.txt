@@ -1,0 +1,7 @@
+570164810144481280
+United
+@united Okay thank you
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 02:14:18 -0800
+location: nan

@@ -1,0 +1,7 @@
+569535647704354816
+Delta
+@JetBlue really not acceptable. Just informed plane won't start. Chartering bus to take passengers to jfk.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 08:34:14 -0800
+location: New York, New York

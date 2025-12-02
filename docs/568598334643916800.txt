@@ -1,0 +1,7 @@
+568598334643916800
+US Airways
+@USAirways Seriously??? I have shared my concerns four times already, to NO avail!  Geeeeezzzzz! #frustrated flyer
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 18:29:41 -0800
+location: nan

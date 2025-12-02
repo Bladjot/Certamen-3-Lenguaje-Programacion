@@ -1,0 +1,7 @@
+570078894008594432
+United
+@united it's highly unprofessional for you to overbook a flight by 12 seats &amp;feel that I should rearrange my schedule for your mismanagement
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 20:32:54 -0800
+location: Texas

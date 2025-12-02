@@ -1,0 +1,7 @@
+569616883734974464
+Delta
+@JetBlue Thank you for the reply. Would've appreciated communication before checking in about the delay. JetBlue used to be my go-to
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 13:57:02 -0800
+location: nan

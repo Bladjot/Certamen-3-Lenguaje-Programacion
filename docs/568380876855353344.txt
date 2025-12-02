@@ -1,0 +1,7 @@
+568380876855353344
+Delta
+@JetBlue Why wasn't a $15 service credit voucher I received for tv not working accepted on my next flight for a pillow?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 04:05:35 -0800
+location: nan

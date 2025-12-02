@@ -1,0 +1,7 @@
+569628494214225922
+American
+@AmericanAir I need to change a ticket and my res can't be changed online.  I also can't get a call through due to high volume--can u help?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:43:10 -0800
+location: California

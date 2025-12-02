@@ -1,0 +1,7 @@
+568811069575204864
+Delta
+@JetBlue basically stole my glasses, and now I can't drive or see in my classes and they're not answering my phone calls. #thanksJetBlue
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 08:35:01 -0800
+location: nan

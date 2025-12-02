@@ -1,0 +1,7 @@
+570297070998974464
+American
+@AmericanAir got back eventually! Was a rollercoaster. Once I got to the airport &amp; got to speak to someone things got fixed very quick.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 10:59:51 -0800
+location: San Francisco

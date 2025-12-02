@@ -1,0 +1,7 @@
+569890715867750400
+American
+@AmericanAir Are there any travel advisories for Toronto, ON today? I can't access anything regarding international travel on your website--
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 08:05:09 -0800
+location: nan

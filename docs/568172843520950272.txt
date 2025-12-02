@@ -1,0 +1,7 @@
+568172843520950272
+Delta
+@JetBlue I like Marie Harf go to Iraiq find ISIS and spread good, and offer resume service to ISIS in order to find jobs @marieharf
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 14:18:56 -0800
+location: New York

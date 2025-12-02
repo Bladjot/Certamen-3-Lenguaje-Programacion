@@ -1,0 +1,7 @@
+570079755560595456
+American
+@AmericanAir My sister just received a call that her trip Wednesday (flts 2348/3499) was Cancelled Flightled and resched to next day. Why?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 20:36:19 -0800
+location: Tampa, Florida

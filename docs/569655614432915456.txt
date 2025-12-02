@@ -1,0 +1,7 @@
+569655614432915456
+Southwest
+@SouthwestAir Seriously? FOUR DELAYS? Only takes 42 minutes to get to Vegas from @flyLAXairport &amp; I have a connecting flight. #ridiculous
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:30:56 -0800
+location: nan

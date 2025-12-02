@@ -1,0 +1,7 @@
+567734584000135168
+US Airways
+@USAirways I was completely ripped of by US Airways today never fly this airline  I am contacting my local news
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 09:17:27 -0800
+location: nan

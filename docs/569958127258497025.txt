@@ -1,0 +1,7 @@
+569958127258497025
+Delta
+Sorry for unfollowing, @JetBlue
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 12:33:01 -0800
+location: nan

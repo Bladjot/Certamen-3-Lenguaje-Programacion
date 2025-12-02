@@ -1,0 +1,7 @@
+569487167191425024
+United
+@united you realize you've said this already. At least last time you asked if I needed "help"
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 05:21:35 -0800
+location: nan

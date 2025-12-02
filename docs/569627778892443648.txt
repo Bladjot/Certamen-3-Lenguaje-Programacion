@@ -1,0 +1,7 @@
+569627778892443648
+United
+@united went to Customer Service kiosk and they were able to help out! Still thanks for following up!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 14:40:20 -0800
+location: New York | Chicago

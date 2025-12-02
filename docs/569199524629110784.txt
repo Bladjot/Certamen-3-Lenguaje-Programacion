@@ -1,0 +1,7 @@
+569199524629110784
+United
+@united although, I am stranded in Chicago O'Hare for another 8 hours. Any chance your cracker-jack service team could provide a meal?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 10:18:36 -0800
+location: nan

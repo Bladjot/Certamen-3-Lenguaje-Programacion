@@ -1,0 +1,7 @@
+567743132180033536
+United
+@united I somehow think I'm going to be stuck paying for a hotel room in Denver without winter clothes on my dime.  I guess we'll see.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-17 09:51:25 -0800
+location: All Over The World

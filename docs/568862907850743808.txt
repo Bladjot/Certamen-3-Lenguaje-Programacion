@@ -1,0 +1,7 @@
+568862907850743808
+United
+@united your customer service is crap.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 12:01:00 -0800
+location: Massachusetts

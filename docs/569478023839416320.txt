@@ -1,0 +1,7 @@
+569478023839416320
+US Airways
+@USAirways now on hold for 2 hrs 20 min. This is ridiculous
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 04:45:15 -0800
+location: Rochester, NY

@@ -1,0 +1,7 @@
+569207235953307648
+Southwest
+@SouthwestAir, been on hold for an over an hour now - when can we expect some customer service? #disappointed
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 10:49:15 -0800
+location: Roxbury Crossing, MA

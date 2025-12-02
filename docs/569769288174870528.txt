@@ -1,0 +1,7 @@
+569769288174870528
+Southwest
+@SouthwestAir had to be stuck in the middle seat :( http://t.co/dzeGAPfqw1
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 00:02:38 -0800
+location: nan

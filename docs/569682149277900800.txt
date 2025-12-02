@@ -1,0 +1,7 @@
+569682149277900800
+US Airways
+@USAirways the entire flight crew on flight 738 from BOS to PHL is doing a wonderful job and making this experience not totally suck. 😊
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 18:16:23 -0800
+location: Boston

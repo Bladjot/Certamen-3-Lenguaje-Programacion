@@ -1,0 +1,7 @@
+568849994167529472
+Southwest
+@SouthwestAir Thanks Lindsey &amp; the Southwest twitter team for great service &amp; a speedy resolution #LuvAgent #swa
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 11:09:41 -0800
+location: nan

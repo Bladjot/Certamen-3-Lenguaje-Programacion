@@ -1,0 +1,7 @@
+570212129313316864
+Delta
+@JetBlue I believe that the website said I could receive credit for upcoming flights since I Cancelled Flighted my last one. Is this true?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 05:22:20 -0800
+location: New York, NY

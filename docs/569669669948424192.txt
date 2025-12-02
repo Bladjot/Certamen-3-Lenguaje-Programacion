@@ -1,0 +1,7 @@
+569669669948424192
+American
+@AmericanAir @superyan I did hear a last call for boarding of this flight when I was at JFK a few hours ago. good luck w/flights!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:26:47 -0800
+location: nan

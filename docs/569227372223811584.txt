@@ -1,0 +1,7 @@
+569227372223811584
+United
+.@united Thanks. Hopefully this is easily resolved.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 12:09:15 -0800
+location: Portland, Oregon

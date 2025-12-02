@@ -1,0 +1,7 @@
+568882606634369024
+Delta
+@JetBlue - loving Capt Joe on our flight from BOS to SFO #633. This should be fun!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 13:19:17 -0800
+location: Suburb of Boston, MA

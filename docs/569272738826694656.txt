@@ -1,0 +1,7 @@
+569272738826694656
+United
+@united you have a culture issue
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 15:09:32 -0800
+location: Pittsburgh

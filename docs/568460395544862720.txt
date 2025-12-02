@@ -1,0 +1,7 @@
+568460395544862720
+Southwest
+@SouthwestAir no flights to HRL :( is this a limited route?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 09:21:34 -0800
+location: minneapolis, mn

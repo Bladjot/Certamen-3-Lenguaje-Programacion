@@ -1,0 +1,7 @@
+568906176353554432
+Southwest
+@southwestair has posted flight schedule covering the date range of @_defcon_ 23
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 14:52:56 -0800
+location: Kansas City, MO, USA

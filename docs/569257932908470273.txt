@@ -1,0 +1,7 @@
+569257932908470273
+United
+@united yes, I've been waiting for four hours and no one has been able to help me.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 14:10:42 -0800
+location: just living the dream

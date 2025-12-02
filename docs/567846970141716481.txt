@@ -1,0 +1,7 @@
+567846970141716481
+Virgin America
+@VirginAmerica @JezzieGoldz would have been a rough trip but LUCKILY we were on a #virginamerica flight. #weather
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 16:44:02 -0800
+location: Dallas, Texas

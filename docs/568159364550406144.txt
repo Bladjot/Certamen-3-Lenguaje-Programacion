@@ -1,0 +1,7 @@
+568159364550406144
+United
+@united flying lax to Sfo and system won't let me check in. Your site tells me to do it through @AirCanada and they tell me through you.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 13:25:23 -0800
+location: Fredericton NB

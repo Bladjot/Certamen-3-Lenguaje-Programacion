@@ -1,0 +1,7 @@
+569611735696580611
+American
+@AmericanAir Somehow between DFW and MIA I got bumped from 12B all the way to 41G on 2312? What's up with that?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:36:35 -0800
+location: O.K.C.

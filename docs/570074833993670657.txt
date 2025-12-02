@@ -1,0 +1,7 @@
+570074833993670657
+United
+@united better train your support staff with appropriate decorum, consider revisiting your terrible "provide a death certificate' policy
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 20:16:46 -0800
+location: San Francisco, CA

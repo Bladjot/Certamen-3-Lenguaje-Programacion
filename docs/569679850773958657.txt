@@ -1,0 +1,7 @@
+569679850773958657
+Southwest
+@SouthwestAir I have a child traveling cross country...she's 11 will be turning 12 in march...and (cont) http://t.co/Enh1keUUTd
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:07:15 -0800
+location: Las Vegas, NV

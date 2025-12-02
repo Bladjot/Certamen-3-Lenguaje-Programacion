@@ -1,0 +1,7 @@
+569522820725788674
+US Airways
+@USAirways my friends are stuck at KPHL and not getting any help from anyone, can you guys contact them please?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:43:16 -0800
+location: A galaxy far far away

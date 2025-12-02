@@ -1,0 +1,7 @@
+569888762982850560
+US Airways
+@USAirways I understand that, and when I'm attempting to change the information so they are identical, it tells me to call a #
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:57:23 -0800
+location: NYC // LI

@@ -1,0 +1,7 @@
+569176746735632384
+Delta
+@JetBlue im in a session presented by one of your beloved travelers, @paulgordonbrown,I see why you love him so much http://t.co/vv8cFyhKVb
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 08:48:05 -0800
+location: Virginia Beach, VA

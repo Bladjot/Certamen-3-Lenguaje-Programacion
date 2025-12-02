@@ -1,0 +1,7 @@
+569655420962238465
+Delta
+@JetBlue just please get my luggage from #2070 onto carousel 5 / Logan Airport and I'll be able to go home!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 16:30:10 -0800
+location: Boston, MA

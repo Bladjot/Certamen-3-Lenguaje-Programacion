@@ -1,0 +1,7 @@
+570298411582394368
+United
+@united follow me please this airline is beautifull ♥
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 11:05:11 -0800
+location: Brooklin, New York

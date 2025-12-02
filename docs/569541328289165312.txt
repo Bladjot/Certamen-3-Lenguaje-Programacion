@@ -1,0 +1,7 @@
+569541328289165312
+Delta
+@JetBlue letting me down in San Fran. No Media rate? What's the deal? Looks like this is the last time I fly anywhere with you.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 08:56:48 -0800
+location: Boston

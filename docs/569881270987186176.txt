@@ -1,0 +1,7 @@
+569881270987186176
+American
+@AmericanAir  upon entering plane to 2 @USAirways stewardesses: "can I have some water?" "no we don't do that. please take your seat"
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 07:27:37 -0800
+location: BK

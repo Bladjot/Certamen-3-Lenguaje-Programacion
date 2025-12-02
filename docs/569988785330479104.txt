@@ -1,0 +1,7 @@
+569988785330479104
+United
+@united I need the phone number to baggage claim in LAX, my mom left her phone and someone called saying they would put it there but on
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:34:50 -0800
+location: lalaland

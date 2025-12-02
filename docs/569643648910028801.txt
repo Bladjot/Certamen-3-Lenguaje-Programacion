@@ -1,0 +1,7 @@
+569643648910028801
+US Airways
+@usairways the. Worst. Ever. #dca #customerservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:43:24 -0800
+location: St. Augustine, Florida

@@ -1,0 +1,7 @@
+570205088595058688
+Southwest
+@SouthwestAir give us some more clever advertising about #bagsflyfree is that because #badpolicy allows you to #cheatcustomers
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 04:54:21 -0800
+location: Kansas City MO

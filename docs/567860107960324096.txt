@@ -1,0 +1,7 @@
+567860107960324096
+US Airways
+@USAirways they call weather an act of God and refuse to help. I have my wife and 3 kids and they have no sympathy.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 17:36:14 -0800
+location: Lexington

@@ -1,0 +1,7 @@
+569902065247322112
+United
+@united and most frustratingly, all this delay happened either at the gate, or even onboard the aircraft! No heads up in advance!!!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 08:50:15 -0800
+location: nan

@@ -1,0 +1,7 @@
+568757775205056512
+Delta
+@JetBlue U said 15mins to Take Off and now we were told 1hr more delay &amp; possible Cancelled Flightlation. How do U plan to rectify this? #Frustrated
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 05:03:15 -0800
+location: The Eastside of the Far Side

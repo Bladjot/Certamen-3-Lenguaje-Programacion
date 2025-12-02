@@ -1,0 +1,7 @@
+569648534569361408
+US Airways
+@USAirways @AmericanAir 2hrs Late Flightr finally taking off😂😂😂
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 16:02:48 -0800
+location: nan

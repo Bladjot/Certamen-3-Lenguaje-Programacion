@@ -1,0 +1,7 @@
+569365692618661888
+United
+@united 25 min hold has now progressed to over an hour...919-675-0985
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 21:18:54 -0800
+location: Wake Forest, NC

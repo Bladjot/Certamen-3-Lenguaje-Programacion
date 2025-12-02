@@ -1,0 +1,7 @@
+569961185107431425
+Delta
+Noooo don't do it, please don't do it 😩RT @JetBlue: Our fleet's on fleek. http://t.co/lsxJI0oUvR”
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 12:45:10 -0800
+location: nan

@@ -1,0 +1,7 @@
+568946686896132096
+Southwest
+@SouthwestAir there's an hour wait here for reFlight Booking Problems in line at Omaha.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-20 17:33:55 -0800
+location: Omaha, NE

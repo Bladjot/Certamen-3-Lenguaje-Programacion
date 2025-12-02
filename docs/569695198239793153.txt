@@ -1,0 +1,7 @@
+569695198239793153
+United
+@united Can you tell me Jet Airways award availability?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 19:08:14 -0800
+location: Kansas City, Missouri

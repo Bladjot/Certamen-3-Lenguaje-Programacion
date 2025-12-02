@@ -1,0 +1,7 @@
+568925181848227840
+Delta
+@JetBlue seriously?? What is going on?! http://t.co/mTHM9waObu
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 16:08:28 -0800
+location: New York City

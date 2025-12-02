@@ -1,0 +1,7 @@
+569632685318115329
+US Airways
+@USAirways #flight2031 the flight to Hell
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 14:59:50 -0800
+location: nan

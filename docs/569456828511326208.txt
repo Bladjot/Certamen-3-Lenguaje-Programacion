@@ -1,0 +1,7 @@
+569456828511326208
+US Airways
+@USAirways @AmericanAir Suggestions , been on hold 2 hrs for flight that is now about to pass departure...Dealing w ny weather, need change
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 03:21:02 -0800
+location: Charlotte, NC

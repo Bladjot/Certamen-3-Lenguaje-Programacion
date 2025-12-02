@@ -1,0 +1,7 @@
+567820210264137729
+United
+@united if our already rescheduled flight is Cancelled Flightled is our hotel room paid for?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 14:57:42 -0800
+location: nan

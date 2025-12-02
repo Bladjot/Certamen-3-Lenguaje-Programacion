@@ -1,0 +1,7 @@
+568893453515378689
+Southwest
+@SouthwestAir Your wifi stinks. I'm not mad, but i wouldn't hate it if i got my money refunded.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 14:02:23 -0800
+location: nan

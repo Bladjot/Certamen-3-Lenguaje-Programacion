@@ -1,0 +1,7 @@
+568589740833939456
+Southwest
+@SouthwestAir It was the usually excellent SWA flight!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 17:55:32 -0800
+location: Kansas City, Missouri

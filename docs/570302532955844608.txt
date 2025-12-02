@@ -1,0 +1,7 @@
+570302532955844608
+Southwest
+@SouthwestAir love them! Always get the best deals!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 11:21:34 -0800
+location: nan

@@ -1,0 +1,7 @@
+570015408788414464
+Virgin America
+@VirginAmerica I have an unused ticket but moved to a new city where you don't fly. How can I fly with you before it expires? #travelhelp
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 16:20:38 -0800
+location: Georgia

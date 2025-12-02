@@ -1,0 +1,7 @@
+569967897600139264
+American
+@AmericanAir Hello, question, How many balloons do you think it will take to life up one of your planes?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 13:11:50 -0800
+location: Earth

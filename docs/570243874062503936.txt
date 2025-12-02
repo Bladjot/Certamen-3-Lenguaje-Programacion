@@ -1,0 +1,7 @@
+570243874062503936
+US Airways
+@USAirways HELLO!! Is anyone behind your twitter account? #badcustomerservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 07:28:28 -0800
+location: nan

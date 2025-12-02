@@ -1,0 +1,7 @@
+567996668320346112
+Southwest
+@SouthwestAir Today is going to be the day, I can feel it!  Thank y'all for your support throughout! We're coming home Nashville! #Octavia
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 02:38:53 -0800
+location: Nashville, TN

@@ -1,0 +1,7 @@
+569845438494457856
+American
+@AmericanAir from a service rep but that hasn't happened yet. I'm honestly fed up and sick of this. No notice when my flight got Cancelled Flighted
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 05:05:14 -0800
+location: nan

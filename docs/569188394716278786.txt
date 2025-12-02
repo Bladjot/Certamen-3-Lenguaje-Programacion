@@ -1,0 +1,7 @@
+569188394716278786
+Southwest
+@SouthwestAir  when you take my money and do not provide a service makes for a profitable venture for your company. #IsItTheGaryKellyWay?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 09:34:22 -0800
+location: nan

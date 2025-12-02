@@ -1,0 +1,7 @@
+567894427244589056
+US Airways
+@USAirways Dude named Shaquille at the desk in Charlotte was incredibly professional and helpful vs. some crazy angry people tonight
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 19:52:37 -0800
+location: nan

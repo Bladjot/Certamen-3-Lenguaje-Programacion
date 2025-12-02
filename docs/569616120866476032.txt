@@ -1,0 +1,7 @@
+569616120866476032
+American
+@AmericanAir so how do we get me a person?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 13:54:00 -0800
+location: Seattle, WA

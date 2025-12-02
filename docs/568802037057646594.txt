@@ -1,0 +1,7 @@
+568802037057646594
+Southwest
+@SouthwestAir @Vindictive_tK Larry David works for southwest?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 07:59:08 -0800
+location: Raleigh, NC

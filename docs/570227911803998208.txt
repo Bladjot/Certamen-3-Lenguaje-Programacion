@@ -1,0 +1,7 @@
+570227911803998208
+American
+@AmericanAir there is no local agent! There is no person to answer our questions and their phone service is terrible.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 06:25:03 -0800
+location: Fort Myers

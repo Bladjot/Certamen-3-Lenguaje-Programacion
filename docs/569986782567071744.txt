@@ -1,0 +1,7 @@
+569986782567071744
+Virgin America
+@VirginAmerica @LadyGaga @CarrieUnderwood Sorry, Mary Martin had it first!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:26:53 -0800
+location: Twin Cities, Minn.

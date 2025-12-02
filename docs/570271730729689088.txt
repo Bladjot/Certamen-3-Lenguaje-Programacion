@@ -1,0 +1,7 @@
+570271730729689088
+Southwest
+@SouthwestAir horrible experience, passenger of size was 1/3 in my seat, offered $50 voucher for this by Christine C http://t.co/1xzrK66wVQ
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 09:19:10 -0800
+location: nan

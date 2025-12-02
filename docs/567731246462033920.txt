@@ -1,0 +1,7 @@
+567731246462033920
+Southwest
+@SouthwestAir injured at check in yesterday. U told me to go to dr. on hold with SWA for over hour trying to talk with someone. suggestions?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 09:04:11 -0800
+location: nan

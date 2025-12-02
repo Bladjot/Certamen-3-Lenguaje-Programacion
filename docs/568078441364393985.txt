@@ -1,0 +1,7 @@
+568078441364393985
+United
+@united worst agents in US at Ft. Lauderdale Airport; passengers stand in line, getting status alerts &amp; still didn't make an announcement
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 08:03:49 -0800
+location: LA, NY, Chicago & St.Louis

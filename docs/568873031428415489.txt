@@ -1,0 +1,7 @@
+568873031428415489
+United
+.@united I appreciate you looking. Can you compensate me on anything for my troubles? Still haven't taken off for a 10:30 am flight
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 12:41:14 -0800
+location: New Jersey

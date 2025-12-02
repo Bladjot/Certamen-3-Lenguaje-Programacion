@@ -1,0 +1,7 @@
+568546414604750848
+Southwest
+@SouthwestAir I didn't say anything about patience, I said this is probably the last time I fly Southwest. I suggest others do the same.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 15:03:22 -0800
+location: Chicago, IL

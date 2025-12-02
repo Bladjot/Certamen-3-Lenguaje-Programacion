@@ -1,0 +1,7 @@
+567791019086065664
+US Airways
+@USAirways I would be on my way but   wether has delayed yet again.. Love the Charlotte ice storm!!  Good luck with mad customers
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 13:01:42 -0800
+location: nan

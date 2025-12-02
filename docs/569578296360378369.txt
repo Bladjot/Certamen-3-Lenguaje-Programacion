@@ -1,0 +1,7 @@
+569578296360378369
+Delta
+@JetBlue is blaming @TSA for flight 584 luggage debacle!  #luggagegate
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 11:23:42 -0800
+location: NYC

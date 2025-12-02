@@ -1,0 +1,7 @@
+569837686367744000
+American
+@AmericanAir Last thing I want to deal w/ before 8 on a Mon! I've already waited the suggested wait time, so I hope I get a call back ASAP.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 04:34:26 -0800
+location: Indianapolis

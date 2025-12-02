@@ -1,0 +1,7 @@
+569680829481406464
+US Airways
+@USAirways Can someone please answer my call. I have been waaaaaaiting!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:11:08 -0800
+location: nan

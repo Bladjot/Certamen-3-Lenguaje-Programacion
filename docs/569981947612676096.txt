@@ -1,0 +1,7 @@
+569981947612676096
+American
+@AmericanAir Flight for tomorrow was Cancelled Flightled. New one booked. Seats taken care of. Just a tweet to commend you all on the service. Thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 14:07:40 -0800
+location: birmingham, usa

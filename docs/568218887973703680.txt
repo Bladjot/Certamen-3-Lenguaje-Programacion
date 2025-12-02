@@ -1,0 +1,7 @@
+568218887973703680
+United
+@united can you get a gate for UA4727?  Turrible.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-18 17:21:54 -0800
+location: Chicago, IL

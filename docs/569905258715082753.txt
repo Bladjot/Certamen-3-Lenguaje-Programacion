@@ -1,0 +1,7 @@
+569905258715082753
+United
+@united Has it departed? I was awaiting an inbound plane yesterday for three hours and it never arrived. Had to stay overnight (again).
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 09:02:56 -0800
+location: New Haven, CT

@@ -1,0 +1,7 @@
+570006917927575552
+Delta
+@JetBlue does transferring trueblue points within family pooling members cost $? This is after having set up contribution-to-pool already.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 15:46:54 -0800
+location: nan

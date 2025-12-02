@@ -1,0 +1,7 @@
+570275536406253568
+American
+@AmericanAir origin/destination/dates are the same. Going from US Airways connecting flight to AA direct flight. Award is saver level.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:34:17 -0800
+location: Wellesley, MA

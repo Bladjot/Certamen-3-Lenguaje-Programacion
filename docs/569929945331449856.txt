@@ -1,0 +1,7 @@
+569929945331449856
+US Airways
+@USAirways usually "sorry" doesn't involve moving people to middle seats and removing them from upgrade lists. Guess that's a club perk.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 10:41:02 -0800
+location: Arlington, VA

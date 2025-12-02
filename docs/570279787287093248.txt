@@ -1,0 +1,7 @@
+570279787287093248
+Delta
+@JetBlue it's poop and barely works
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 09:51:11 -0800
+location: nan

@@ -1,0 +1,7 @@
+569844102239531008
+Delta
+@JetBlue no one yet but some, fl 8162
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 04:59:55 -0800
+location: Long Island, NY

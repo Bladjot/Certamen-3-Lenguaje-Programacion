@@ -1,0 +1,7 @@
+569646280214847488
+American
+@AmericanAir @Delta @JetBlue I am going to be stuck in Florida for 3 days because @SpiritAirlines wouldn't hold my connecting flight to LGA
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 15:53:51 -0800
+location: Global

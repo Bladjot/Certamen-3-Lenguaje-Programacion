@@ -1,0 +1,7 @@
+570024300905783296
+Southwest
+@SouthwestAir your flight attendants are really funny!! The sass is giving me life!!! 😂
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 16:55:58 -0800
+location: nan

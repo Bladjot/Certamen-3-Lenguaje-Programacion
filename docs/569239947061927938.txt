@@ -1,0 +1,7 @@
+569239947061927938
+Delta
+@JetBlue thanks so much for help Us, u r amazing!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 12:59:14 -0800
+location: nan

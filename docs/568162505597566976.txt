@@ -1,0 +1,7 @@
+568162505597566976
+Delta
+@JetBlue Any EMS window seats on 1099 tomorrow?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 13:37:51 -0800
+location: NY

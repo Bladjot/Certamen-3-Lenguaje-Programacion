@@ -1,0 +1,7 @@
+569962943980285952
+American
+@AmericanAir we did check before going to de airport and everything was fine. #fail
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 12:52:09 -0800
+location: Guadalajara, México

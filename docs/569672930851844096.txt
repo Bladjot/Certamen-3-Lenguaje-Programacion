@@ -1,0 +1,7 @@
+569672930851844096
+American
+@AmericanAir  flight from DFW to LIT tomorrow has been Cancelled Flightled.  What do I do next?  Pls advise.  #HELP
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 17:39:45 -0800
+location: Arkansas

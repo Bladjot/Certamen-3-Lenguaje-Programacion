@@ -1,0 +1,7 @@
+567790175813681153
+US Airways
+@USAirways  you Cancelled Flightled both my flights and refused to give a voucher despite no flights for 2days. @USAirways #neveragain
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 12:58:21 -0800
+location: nan

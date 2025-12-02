@@ -1,0 +1,7 @@
+569356387785900032
+Virgin America
+@VirginAmerica I'd love to know what your policy is for damaged luggage.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 20:41:55 -0800
+location: Las Vegas

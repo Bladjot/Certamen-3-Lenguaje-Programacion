@@ -1,0 +1,7 @@
+568755032138469376
+Southwest
+@Southwestair thanks for leaving me hanging here. #destinationdragons flights all fucked up now. No help?!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 04:52:21 -0800
+location: Missouri, unfortunately.

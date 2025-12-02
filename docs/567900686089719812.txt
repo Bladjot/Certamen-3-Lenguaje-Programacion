@@ -1,0 +1,7 @@
+567900686089719812
+United
+@united do you guys have any working planes?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 20:17:29 -0800
+location: the questions district

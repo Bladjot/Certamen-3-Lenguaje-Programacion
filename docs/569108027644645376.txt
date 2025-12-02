@@ -1,0 +1,8 @@
+569108027644645376
+US Airways
+@USAirways flight 705 FRA-CAT did some odd zig-zagging movements over Frankfurt...
+Is everything ok?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 04:15:01 -0800
+location: Nürnberg, Germany

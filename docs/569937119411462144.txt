@@ -1,0 +1,7 @@
+569937119411462144
+Southwest
+@SouthwestAir delayed twice now Cancelled Flighted...sent complaint email, yet no response.  Need an explanation pls. #notsatisfied #smh #unhappy
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 11:09:32 -0800
+location: Canada

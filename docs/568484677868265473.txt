@@ -1,0 +1,7 @@
+568484677868265473
+Southwest
+@SouthwestAir Thanks I get that. It looks like all BWI-SJD services stops after Aug 7. Is that the case? I cant find one date with flights.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 10:58:03 -0800
+location: nan

@@ -1,0 +1,7 @@
+567971836321009664
+Virgin America
+@VirginAmerica All of group E was told there was no more room in the bins. when I got on the plane, was room for at least 4 bags in my row!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 01:00:12 -0800
+location: nan

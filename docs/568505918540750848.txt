@@ -1,0 +1,7 @@
+568505918540750848
+US Airways
+@USAirways not moving we are in the tarmac delayed for some unknown reason. I'll keep you posted
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 12:22:27 -0800
+location: Monterey County, CA

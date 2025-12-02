@@ -1,0 +1,7 @@
+570058262743101440
+Delta
+@JetBlue I understand why ur doing it. But for someone who just traveled 2+ hours to get here early. Relax b4 flight etc. Adv notice maybe??
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 19:10:55 -0800
+location: nan

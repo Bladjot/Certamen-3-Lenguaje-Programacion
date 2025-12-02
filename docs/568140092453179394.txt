@@ -1,0 +1,7 @@
+568140092453179394
+Virgin America
+@VirginAmerica Giants and Virgin America. A match made in heaven.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 12:08:48 -0800
+location: California, San Francisco

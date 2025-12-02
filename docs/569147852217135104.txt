@@ -1,0 +1,7 @@
+569147852217135104
+United
+@united I was, just very surprised it took over 15 mins. Never experienced anything like that on 1K number
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 06:53:16 -0800
+location: nan

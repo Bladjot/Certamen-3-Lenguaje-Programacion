@@ -1,0 +1,7 @@
+569364648576872448
+Delta
+@JetBlue thank you thank you!  I finally set up the jetblue app!  Yay!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 21:14:45 -0800
+location: NY

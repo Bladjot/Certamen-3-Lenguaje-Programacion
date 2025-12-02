@@ -1,0 +1,7 @@
+568875674552807425
+Southwest
+@SouthwestAir can one use a companion pass w/ a points Flight Booking Problems or is it only cash fares? Thx!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 12:51:44 -0800
+location: San Francisco

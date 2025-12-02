@@ -1,0 +1,7 @@
+568433431471886336
+United
+@united I'm not booked on a 1:30 return flight..
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 07:34:25 -0800
+location: nan

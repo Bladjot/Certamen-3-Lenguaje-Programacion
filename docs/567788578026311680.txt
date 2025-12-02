@@ -1,0 +1,7 @@
+567788578026311680
+US Airways
+@USAirways that's why u guys are my #1 choice.
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 12:52:00 -0800
+location: nan

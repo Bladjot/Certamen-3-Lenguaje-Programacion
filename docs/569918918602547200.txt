@@ -1,0 +1,7 @@
+569918918602547200
+United
+@united #unitedairlines so is it 6:20 pm or 12:20?   ORD ABQ 3709.   I can't even take a walk without missing a change.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 09:57:13 -0800
+location: North Suburbs, IL  (Chicago)

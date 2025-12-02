@@ -1,0 +1,7 @@
+569735142564102145
+Southwest
+@SouthwestAir loved it!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 21:46:57 -0800
+location: Washington, DC

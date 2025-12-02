@@ -1,0 +1,7 @@
+570021301223604224
+US Airways
+@USAirways Hi-i have a travel question. Could you please follow me so i can dm you?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 16:44:03 -0800
+location: nan

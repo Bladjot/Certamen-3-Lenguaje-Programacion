@@ -1,0 +1,7 @@
+569277733416513536
+United
+@united After an hour+ wait, my issue is resolved. I did contact customer service to comment on the wait time. Thanks for contacting me.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 15:29:22 -0800
+location: A Californian in London

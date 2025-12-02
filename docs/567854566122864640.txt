@@ -1,0 +1,7 @@
+567854566122864640
+US Airways
+@USAirways thanks for your help! I left a message for DCA lost and found. Fingers crossed we find it!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 17:14:13 -0800
+location: nan

@@ -1,0 +1,7 @@
+569936273227427840
+United
+@United of urgency, but this is ridiculous. Your ceo claims to be customer focused, yet when delays happen, planes sit and customers are
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 11:06:11 -0800
+location: Fort Wayne, Indiana

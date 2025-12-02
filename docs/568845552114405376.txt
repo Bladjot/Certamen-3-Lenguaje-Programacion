@@ -1,0 +1,7 @@
+568845552114405376
+US Airways
+@USAirways see? No response? Obviously you think this "service" is acceptable. #customerservicefail
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 10:52:02 -0800
+location: nan

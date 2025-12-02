@@ -1,0 +1,7 @@
+567735943424397312
+US Airways
+@USAirways I need someone from management to contact me I was flying to a funeral won't make it now to add to my pain they want me 2 pay
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 09:22:51 -0800
+location: nan

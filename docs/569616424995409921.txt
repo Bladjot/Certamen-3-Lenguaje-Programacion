@@ -1,0 +1,7 @@
+569616424995409921
+United
+@united on line baggage system complete rubbish. bag missing 2 days. No meaningful information.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 13:55:13 -0800
+location: Solent - Hamble, Lymington

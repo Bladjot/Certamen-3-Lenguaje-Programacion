@@ -1,0 +1,7 @@
+569943647103406080
+Southwest
+@SouthwestAir @HDsportsguy yes I did. I hope for an update soon, need those clothes for a meeting tomorrow.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 11:35:29 -0800
+location: nan

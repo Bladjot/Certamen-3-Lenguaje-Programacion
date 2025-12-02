@@ -1,0 +1,7 @@
+567763837055954944
+US Airways
+@USAirways Thank you so much its been a very stressful day
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 11:13:41 -0800
+location: nan

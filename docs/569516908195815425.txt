@@ -1,0 +1,7 @@
+569516908195815425
+Delta
+@JetBlue well, the last update was in the right direction, at least! I'll keep my fingers crossed.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 07:19:46 -0800
+location: Malden, MA

@@ -1,0 +1,7 @@
+570305098557091840
+Delta
+@JetBlue update on Flight 462 would be appreciated when you have time, thanks
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:31:45 -0800
+location: nan

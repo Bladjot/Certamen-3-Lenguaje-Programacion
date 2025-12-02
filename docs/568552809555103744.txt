@@ -1,0 +1,7 @@
+568552809555103744
+Southwest
+@SouthwestAir to the rescue. Sundown in Chicago. Next stop San Antonio! http://t.co/rQBpmwETtq
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 15:28:47 -0800
+location: Uvalde, TX

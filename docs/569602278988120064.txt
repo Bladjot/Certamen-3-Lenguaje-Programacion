@@ -1,0 +1,7 @@
+569602278988120064
+Southwest
+@SouthwestAir I was trying to find airfare for my family.  Your prices are ridiculous!  Almost $1000 more than @USAirways. #notmadeofmoney
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:59:00 -0800
+location: nan

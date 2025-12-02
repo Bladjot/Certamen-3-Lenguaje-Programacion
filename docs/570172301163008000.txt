@@ -1,0 +1,7 @@
+570172301163008000
+American
+@AmericanAir Flight 1679 (N76200) prepares for flight at @FlyTPA before departing for @fly2ohare http://t.co/XbKvcraOKn
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 02:44:04 -0800
+location: Englewood, Florida

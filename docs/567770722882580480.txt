@@ -1,0 +1,7 @@
+567770722882580480
+Southwest
+@SouthwestAir missing out on over 6,000 points in one account. They're now spread over four assuming I create accounts for them
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-17 11:41:03 -0800
+location: Michigan

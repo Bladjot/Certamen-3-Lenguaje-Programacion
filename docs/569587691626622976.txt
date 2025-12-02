@@ -1,0 +1,7 @@
+569587691626622976
+American
+@AmericanAir right on cue with the delays👌
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 12:01:02 -0800
+location: nan

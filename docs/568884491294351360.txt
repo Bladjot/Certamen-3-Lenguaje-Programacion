@@ -1,0 +1,7 @@
+568884491294351360
+United
+@united why? So I can waste more of time on this airline to get an automated message? Disappointing as always.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 13:26:46 -0800
+location: Salt Lake City, UT

@@ -1,0 +1,7 @@
+568129947752992768
+United
+@united UA1740 just admit you have no clue when flight will leave Denver. #unfriendlyskies
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 11:28:29 -0800
+location: Jersey City, NJ

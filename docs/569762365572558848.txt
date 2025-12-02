@@ -1,0 +1,7 @@
+569762365572558848
+United
+BUT @united just re-booked to BOS; UGGH!! now 3 hour bus to WMASS home. Could have flown to BDL &amp; back to DC in same time. #unitedairlines
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 23:35:08 -0800
+location: Western Massachusetts, USA

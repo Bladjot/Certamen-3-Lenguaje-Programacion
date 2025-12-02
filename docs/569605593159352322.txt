@@ -1,0 +1,7 @@
+569605593159352322
+Delta
+@JetBlue thanks. We are ticketed on stand by for flight 1970. I hope we make it out. Fingers crossed
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 13:12:10 -0800
+location: nan

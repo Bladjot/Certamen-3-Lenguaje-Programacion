@@ -1,0 +1,7 @@
+569885185170223105
+United
+@united my PQMs and PQDs are no longer showing up correctly in my MileagePlus acct. How can I get this fixed?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 07:43:10 -0800
+location: nan

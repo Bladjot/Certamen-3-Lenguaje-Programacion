@@ -1,0 +1,7 @@
+570291473528320001
+Delta
+@JetBlue upset with the lack of communication we've received for our "on time" flight 1170 out of MCO
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 10:37:37 -0800
+location: nan

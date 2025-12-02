@@ -1,0 +1,7 @@
+568625749214642176
+United
+@united she was at the service desk at gate 21, and helped us find a flight to get us to our dest. on time when our flight got Cancelled Flightled
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 20:18:37 -0800
+location: nan

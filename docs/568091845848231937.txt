@@ -1,0 +1,7 @@
+568091845848231937
+Delta
+@JetBlue Flight Booking Problems flights for a DC visit for Easter weekend started difficult but ended well with you guys! Big fan here. :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 08:57:05 -0800
+location: Boston

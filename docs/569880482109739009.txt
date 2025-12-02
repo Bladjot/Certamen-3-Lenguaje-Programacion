@@ -1,0 +1,7 @@
+569880482109739009
+American
+@AmericanAir record locator oaaret got email we couldn't be rebooked but got no notification flight was Cancelled Flightled
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 07:24:29 -0800
+location: New England

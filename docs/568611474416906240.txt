@@ -1,0 +1,7 @@
+568611474416906240
+Delta
+@JetBlue I appreciate the quick response but how can no one go outside to check temp so we can leave in BUF #currentlysittingontarmac
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 19:21:54 -0800
+location: Buffalo

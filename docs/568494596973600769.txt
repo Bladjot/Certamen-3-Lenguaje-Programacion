@@ -1,0 +1,7 @@
+568494596973600769
+Southwest
+@SouthwestAir wow! Some things are better forgotten!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 11:37:28 -0800
+location: Pennsylvania

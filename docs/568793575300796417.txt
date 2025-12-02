@@ -1,0 +1,7 @@
+568793575300796417
+US Airways
+@USAirways 5223 out of Gainesville, FL
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 07:25:30 -0800
+location: nan

@@ -1,0 +1,7 @@
+569519860994203648
+Delta
+@JetBlue your app needs updating. Says my flight is on time when we are well past boarding time with 2hr delay http://t.co/BTvpxTZJu0
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 07:31:30 -0800
+location: Brooklyn, NY

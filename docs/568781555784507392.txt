@@ -1,0 +1,7 @@
+568781555784507392
+Southwest
+@SouthwestAir  Longer flights with 300 series no wifi? Will be great when you retire them.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 06:37:45 -0800
+location: Grand Rapids, MI

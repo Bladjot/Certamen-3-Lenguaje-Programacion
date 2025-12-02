@@ -1,0 +1,7 @@
+567951109677027328
+Southwest
+@SouthwestAir will you please tell me if I'll make my flight out of here tomorrow 8am? I've been tryin for 3 days now to leave
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 23:37:51 -0800
+location: nan

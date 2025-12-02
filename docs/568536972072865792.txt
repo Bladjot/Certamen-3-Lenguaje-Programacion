@@ -1,0 +1,7 @@
+568536972072865792
+United
+@united why do you bother surveying me!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 14:25:51 -0800
+location: nan

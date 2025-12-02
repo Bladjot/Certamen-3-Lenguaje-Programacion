@@ -1,0 +1,7 @@
+569814339785338880
+Virgin America
+@VirginAmerica is the best airline I have flown on.Easy to change your reservation,helpful representatives &amp; a comfortable flying experience
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 03:01:39 -0800
+location: Halifax, Nova Scotia, Canada

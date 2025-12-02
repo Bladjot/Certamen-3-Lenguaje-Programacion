@@ -1,0 +1,7 @@
+568994696980238336
+US Airways
+@USAirways @stephenrodrick Your team needs to build capacity
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 20:44:41 -0800
+location: Boston, MA

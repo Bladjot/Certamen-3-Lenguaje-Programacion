@@ -1,0 +1,7 @@
+569192778468626432
+Virgin America
+@VirginAmerica the CSS on your site is a 404 right now, please fix. Site unusable.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 09:51:48 -0800
+location: Cambridge, MA, USA, Earth

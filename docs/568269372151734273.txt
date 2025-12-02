@@ -1,0 +1,7 @@
+568269372151734273
+Delta
+@JetBlue Every crew member I dealt with in Orlando was incredibly rude. I'm actually pretty disgusted with JetBlue right now.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 20:42:30 -0800
+location: Boston, MA

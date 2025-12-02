@@ -1,0 +1,7 @@
+570276681551732736
+US Airways
+@USAirways I don't want your sympathy I want someone to make an effort to find my bag
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 09:38:50 -0800
+location: nan

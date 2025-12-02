@@ -1,0 +1,7 @@
+568904804451409920
+US Airways
+@USAirways thank you
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 14:47:29 -0800
+location: nan

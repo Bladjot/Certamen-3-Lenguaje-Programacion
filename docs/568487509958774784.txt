@@ -1,0 +1,7 @@
+568487509958774784
+United
+@united MR, she's on her way now, but thought id detail the extravaganza for you... #dobetter #please http://t.co/V8PVpHMtZc
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 11:09:19 -0800
+location: Portland, OR

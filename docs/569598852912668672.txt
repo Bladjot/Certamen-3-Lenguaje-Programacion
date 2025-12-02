@@ -1,0 +1,7 @@
+569598852912668672
+US Airways
+@USAirways you should update your passbook passes with any gate changes.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:45:23 -0800
+location: Los Angeles

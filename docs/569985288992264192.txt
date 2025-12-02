@@ -1,0 +1,7 @@
+569985288992264192
+US Airways
+@USAirways PLANS CHANGED! IS THAT WHAT U CALL NOT BEIN ABLE 2 PARK ON TIME PLANES W A 2 HR LAYOVER N B ABLE 2 MAKE UR CONNECTION! #seriously
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:20:57 -0800
+location: Does it really matter

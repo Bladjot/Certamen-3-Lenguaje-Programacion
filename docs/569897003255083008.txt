@@ -1,0 +1,7 @@
+569897003255083008
+United
+@united you are the worst airline in the world! From your crap website to your worthless app to your Late Flight flight. You SUCK! Just shut down.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 08:30:08 -0800
+location: Mountlake Terrace, WA

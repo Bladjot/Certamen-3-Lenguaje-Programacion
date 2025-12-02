@@ -1,0 +1,7 @@
+568261172610220033
+United
+@united what you did was illegal and a breach of contract. I will be in touch but not through your "customer feedback"
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 20:09:55 -0800
+location: nan

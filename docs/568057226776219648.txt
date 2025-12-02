@@ -1,0 +1,7 @@
+568057226776219648
+United
+@united 1627 to Montego Bay going back to gate bc 1person was Late Flight? Awful service for all of who came on time!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 06:39:31 -0800
+location: nan

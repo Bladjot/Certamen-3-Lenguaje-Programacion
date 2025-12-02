@@ -1,0 +1,7 @@
+569199676282564609
+Delta
+@JetBlue my mom's baggage is lost, in fly 1557 fort lauderdale-Bogotá today, Colombian employees treated us badly , need help please
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 10:19:12 -0800
+location: nan

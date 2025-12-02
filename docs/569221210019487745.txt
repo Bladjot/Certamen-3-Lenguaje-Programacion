@@ -1,0 +1,7 @@
+569221210019487745
+United
+@united I will. Thanks.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 11:44:46 -0800
+location: Beautiful Stockton, CA

@@ -1,0 +1,7 @@
+568531409209421826
+Delta
+@jetblue How long ago can a trip have taken place for me to still get credit if I didn't apply my TrueBlue # when I booked?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 14:03:45 -0800
+location: nan

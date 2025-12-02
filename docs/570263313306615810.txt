@@ -1,0 +1,7 @@
+570263313306615810
+American
+@AmericanAir When Flight Booking Problems an int'l flight online, do I have to provide a passport number when Flight Booking Problems or just when I arrive at airport?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:45:43 -0800
+location: nan

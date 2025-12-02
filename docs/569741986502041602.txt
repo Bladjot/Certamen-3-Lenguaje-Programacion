@@ -1,0 +1,7 @@
+569741986502041602
+United
+@united why do you want me to be loyal  if don't let me carry on my bag that easily fits in overhead
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 22:14:09 -0800
+location: Boston, MA

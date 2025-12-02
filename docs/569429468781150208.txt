@@ -1,0 +1,7 @@
+569429468781150208
+US Airways
+@USAirways on hold for 2 hours now have been calling since Monday! I have a flight today need help now!!! #worst #NoExcusesAccepted
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 01:32:19 -0800
+location: nan

@@ -1,0 +1,7 @@
+569950766389182464
+Delta
+but why RT @JetBlue: Our fleet's on fleek. http://t.co/W0HOAewhwS
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 12:03:46 -0800
+location: new york

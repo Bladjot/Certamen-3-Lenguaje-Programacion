@@ -1,0 +1,7 @@
+567847344307347456
+US Airways
+thanks to @USAirways my trip is all screwed up. Ive had to move meetings and a dinner and im STILL not out of nyc yet
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 16:45:31 -0800
+location: Global

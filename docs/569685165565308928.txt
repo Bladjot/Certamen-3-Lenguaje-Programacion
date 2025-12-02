@@ -1,0 +1,7 @@
+569685165565308928
+American
+@AmericanAir I fortunately was not on that flight - just in the same waiting area / impressed w how he handled the stressful situation
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 18:28:22 -0800
+location: New York, NY

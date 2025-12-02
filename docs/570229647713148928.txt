@@ -1,0 +1,7 @@
+570229647713148928
+US Airways
+@USAirways still ignoring my question. #USAirways consistently providing poor customer service.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 06:31:57 -0800
+location: DC

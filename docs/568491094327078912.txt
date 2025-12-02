@@ -1,0 +1,7 @@
+568491094327078912
+United
+@united When will you have special promotions for flights departing Newark, NJ to St. John's, Antigua?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 11:23:33 -0800
+location: Greater New York Area

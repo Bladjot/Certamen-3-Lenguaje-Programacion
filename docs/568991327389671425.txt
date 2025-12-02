@@ -1,0 +1,7 @@
+568991327389671425
+US Airways
+@USAirways I'm dumping this dividend miles card and forgetting your airline exists #ridiculous #theworstairlineever
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 20:31:18 -0800
+location: nan

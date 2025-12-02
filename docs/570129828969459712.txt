@@ -1,0 +1,7 @@
+570129828969459712
+United
+@united completed form but doubt it's any use. UA doesn't care. 6 day vacation will now be 5. Sure UA won't feel responsibility for that...
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 23:55:18 -0800
+location: nan

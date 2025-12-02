@@ -1,0 +1,7 @@
+568118177537744897
+Southwest
+@SouthwestAir go south everyone
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 10:41:43 -0800
+location: Miami

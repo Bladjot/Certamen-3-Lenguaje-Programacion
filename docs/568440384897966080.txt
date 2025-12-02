@@ -1,0 +1,7 @@
+568440384897966080
+Southwest
+@SouthwestAir listening center is open seating just like on their planes. #RaganDisney
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 08:02:03 -0800
+location: nan

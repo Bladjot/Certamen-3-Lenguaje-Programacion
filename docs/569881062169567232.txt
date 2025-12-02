@@ -1,0 +1,7 @@
+569881062169567232
+US Airways
+@USAirways no my flight plans have been delayed until tuesday due to your computer crash
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 07:26:47 -0800
+location: nan

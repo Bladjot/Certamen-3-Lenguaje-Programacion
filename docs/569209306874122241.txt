@@ -1,0 +1,7 @@
+569209306874122241
+Southwest
+@SouthwestAir can you follow me so I can send the DM?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 10:57:28 -0800
+location: Littleton, CO

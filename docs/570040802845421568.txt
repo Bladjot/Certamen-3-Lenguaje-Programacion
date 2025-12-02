@@ -1,0 +1,7 @@
+570040802845421568
+American
+@AmericanAir thanks, but I had to hire a car in Chicago and drive to MKE. Does that mean I have to go to the airport?????
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 18:01:32 -0800
+location: 'Straya'

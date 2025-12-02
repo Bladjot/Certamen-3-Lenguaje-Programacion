@@ -1,0 +1,7 @@
+569843488969371649
+American
+@AmericanAir is flight 1318 Cancelled Flighted or not? No word from the ground staff.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 04:57:29 -0800
+location: Tokyo, Japan

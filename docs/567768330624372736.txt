@@ -1,0 +1,7 @@
+567768330624372736
+Delta
+@JetBlue Thank you that it is not just a livery; it is a culture that 16,000+ crewmembers embody daily #thanksDave http://t.co/iNNP0Kkyby
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 11:31:33 -0800
+location: nan

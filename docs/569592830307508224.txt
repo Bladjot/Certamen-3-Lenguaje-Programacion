@@ -1,0 +1,7 @@
+569592830307508224
+American
+@AmericanAir .....and they waited 5 hours in a stuffy plane until they could get off then 7 more hrs to get their luggage  #AmericanAirlines
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 12:21:27 -0800
+location: London

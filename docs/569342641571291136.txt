@@ -1,0 +1,7 @@
+569342641571291136
+Delta
+@JetBlue Why did you interupt the Staduim Series on @NHLonNBCSports. I dont need to see your stupid commercials or Emergency. Info.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 19:47:18 -0800
+location: nan

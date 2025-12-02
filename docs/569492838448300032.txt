@@ -1,0 +1,7 @@
+569492838448300032
+US Airways
+@USAirways I’ve been on hold for 36 minutes now, any time you want to answer the phone that would be great.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 05:44:08 -0800
+location: 20001

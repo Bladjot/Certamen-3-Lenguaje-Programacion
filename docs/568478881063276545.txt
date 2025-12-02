@@ -1,0 +1,7 @@
+568478881063276545
+Southwest
+@SouthwestAir A-List Pref credit card holder called exclusive # and hung up after on hold for 14 min. What gives???
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 10:35:01 -0800
+location: Las Vegas

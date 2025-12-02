@@ -1,0 +1,7 @@
+567725170367148034
+US Airways
+Yes, I filed a report in Atlanta. My bags are in Charlotte, NC. 24 hours Late Flightr and still can't find my luggage ... @USAirways
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 08:40:03 -0800
+location: Atlanta, Georgia

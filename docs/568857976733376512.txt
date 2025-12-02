@@ -1,0 +1,7 @@
+568857976733376512
+Delta
+@JetBlue Thanks for the reminder of a few older flights I'd taken and the easy access to add points to my new JB account! Awesome service.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 11:41:25 -0800
+location: Brooklyn, NY

@@ -1,0 +1,7 @@
+568800974632050688
+United
+@united is the worst http://t.co/27aitZl6nd
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 07:54:54 -0800
+location: New York, NY

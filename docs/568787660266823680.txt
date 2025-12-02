@@ -1,0 +1,7 @@
+568787660266823680
+Southwest
+@SouthwestAir After flying Delta this week, GoGo was so good. The tweet I sent you didn't even send until we landed - that's how bad it was
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 07:02:00 -0800
+location: 10 Miles South of Nowhere

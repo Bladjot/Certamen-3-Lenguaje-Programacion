@@ -1,0 +1,7 @@
+570234996562112512
+United
+@united Everyone around us is sitting with their friends and family members. They booked their tickets in October and December. We bought
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 06:53:12 -0800
+location: Seattle

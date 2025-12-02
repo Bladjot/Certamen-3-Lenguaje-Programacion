@@ -1,0 +1,7 @@
+569865022031015937
+American
+@AmericanAir it would be awfully nice if you could send an alert when my flight is Cancelled Flighted. No text, no email, no love...
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 06:23:03 -0800
+location: Memphis

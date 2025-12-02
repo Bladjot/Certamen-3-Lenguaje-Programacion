@@ -1,0 +1,7 @@
+570278644918194176
+American
+@AmericanAir flight 65 delayed over 4 hours on 2/22, had no GF meals despite my early request, attendant seat fell on my leg #badservice
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 09:46:38 -0800
+location: NY (Globetrotter.ExBonaerense)

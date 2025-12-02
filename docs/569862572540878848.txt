@@ -1,0 +1,7 @@
+569862572540878848
+US Airways
+@USAirways Your CLT baggage crew deserves a #kudos. I had to run to make my connection. And my bags still made it! #CustomerService
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 06:13:19 -0800
+location: Mobile, Alabama, US

@@ -1,0 +1,7 @@
+567711860938772480
+United
+@united how much does it cost to check in an additional bag? Traveling from newark to glasgow. Thank you :)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 07:47:09 -0800
+location: Glasgow

@@ -1,0 +1,7 @@
+569143946930196483
+Southwest
+@SouthwestAir thanks for the Cancelled Flightation today. Only airline that's Cancelled Flighted. Lost a customer today.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 06:37:45 -0800
+location: Columbus, Ohio

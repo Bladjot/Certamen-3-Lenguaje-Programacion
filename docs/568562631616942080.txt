@@ -1,0 +1,7 @@
+568562631616942080
+Southwest
+@SouthwestAir the crew of 4649 has been great to us today. Traveling from Ft. Lauderdale to Louisville with 2 kids 7 and under. Thanks!✈️✈️
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 16:07:49 -0800
+location: nan

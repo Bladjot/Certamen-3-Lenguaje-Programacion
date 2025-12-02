@@ -1,0 +1,7 @@
+569974705811107840
+American
+@AmericanAir it was 639
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:38:54 -0800
+location: Gilbert, AZ

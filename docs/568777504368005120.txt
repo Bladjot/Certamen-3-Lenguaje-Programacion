@@ -1,0 +1,7 @@
+568777504368005120
+US Airways
+@USAirways I appreciate your prompt response.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 06:21:39 -0800
+location: Wendell, NC

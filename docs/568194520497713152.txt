@@ -1,0 +1,7 @@
+568194520497713152
+US Airways
+@USAirways  sitting on Tarmac in #PIT for 30 min. No announcement. Just sitting.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 15:45:04 -0800
+location: nan

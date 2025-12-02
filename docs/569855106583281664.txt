@@ -1,0 +1,7 @@
+569855106583281664
+Southwest
+@SouthwestAir almost at the gate for 1156 to SF. Please wait 60 more seconds.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 05:43:39 -0800
+location: nan

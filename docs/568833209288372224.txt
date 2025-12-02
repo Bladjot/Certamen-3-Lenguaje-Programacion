@@ -1,0 +1,7 @@
+568833209288372224
+United
+@united Flight 395. Rolling delay of 1 hour 42 minutes
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 10:03:00 -0800
+location: PDX / LGA / TXL / ✈

@@ -1,0 +1,7 @@
+569677636613439488
+United
+@united Why did you load us in this flying sardine can if you knew the pilots were 2 hours Late Flight?? #incompetent beyond belief
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:58:27 -0800
+location: Los Angeles, CA

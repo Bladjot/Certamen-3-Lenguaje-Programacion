@@ -1,0 +1,7 @@
+568160713170149376
+US Airways
+@USAirways thanks for giving away my seat. Another fine job! http://t.co/r7ibqr4CYd
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 13:30:44 -0800
+location: Winston Salem, NC

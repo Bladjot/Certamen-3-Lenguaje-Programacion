@@ -1,0 +1,7 @@
+569995730951147523
+Southwest
+@SouthwestAir been all up and down the area where the pic was taken and don't see any albums.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 15:02:26 -0800
+location: nan

@@ -1,0 +1,7 @@
+569342670184648704
+United
+@united I see two flights with two seats in the morning can we get on those
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 19:47:25 -0800
+location: nan

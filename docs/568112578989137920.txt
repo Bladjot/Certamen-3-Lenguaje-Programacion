@@ -1,0 +1,7 @@
+568112578989137920
+Southwest
+@SouthwestAir #JamesAsworth has the worst corporate account manager #22 Brent. I will now take my 70plus flights to @Delta thank you
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 10:19:28 -0800
+location: ATL

@@ -1,0 +1,7 @@
+569666470482804737
+Southwest
+@SouthwestAir wifi is the worst $8 investment I have ever made.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 17:14:05 -0800
+location: The happiest place on Earth!

@@ -1,0 +1,7 @@
+569992708447711232
+American
+@AmericanAir no I will be calling corporate!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 14:50:26 -0800
+location: nan

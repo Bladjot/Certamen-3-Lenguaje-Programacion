@@ -1,0 +1,7 @@
+570246839225745408
+American
+@AmericanAir Oh that seems to have undone the seat selections in MCE. We only wanted the CX card on there to select the free seats
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 07:40:15 -0800
+location: nan

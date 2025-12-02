@@ -1,0 +1,7 @@
+570235387009839104
+United
+@united It's an incredibly easy fix, but you would rather stay in your comfort zone, while I get forced out of mine.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 06:54:45 -0800
+location: Seattle

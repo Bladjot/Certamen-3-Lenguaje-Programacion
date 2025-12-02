@@ -1,0 +1,7 @@
+568773939754889216
+Delta
+@JetBlue no. Did not catch his name. I am sure Jason will know.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 06:07:29 -0800
+location: nan

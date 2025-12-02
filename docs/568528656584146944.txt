@@ -1,0 +1,7 @@
+568528656584146944
+United
+@united I will thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 13:52:49 -0800
+location: Tulsa, OK

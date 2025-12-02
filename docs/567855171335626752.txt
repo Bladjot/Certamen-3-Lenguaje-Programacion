@@ -1,0 +1,7 @@
+567855171335626752
+Virgin America
+@VirginAmerica save some for 871 tomorrow AM!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 17:16:37 -0800
+location: Dallas, TX

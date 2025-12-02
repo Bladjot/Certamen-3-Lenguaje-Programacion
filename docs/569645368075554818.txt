@@ -1,0 +1,7 @@
+569645368075554818
+United
+@united 100. % failure in 2015 #UnitedAirlines
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 15:50:13 -0800
+location: earth

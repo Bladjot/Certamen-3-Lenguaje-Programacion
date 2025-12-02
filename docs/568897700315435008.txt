@@ -1,0 +1,7 @@
+568897700315435008
+US Airways
+@USAirways How do I redeem my pass to the admirals club? I have 1 free visit with my barclay card membership. And can I bring a companion?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 14:19:16 -0800
+location: nan

@@ -1,0 +1,7 @@
+569604674715693057
+American
+@AmericanAir cut it. Put me on a flt tomorrow.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 13:08:31 -0800
+location: ÜT: 40.881241,-73.107717

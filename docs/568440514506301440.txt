@@ -1,0 +1,7 @@
+568440514506301440
+Southwest
+@southwestair has 22 employees on Social Care Team, 4 staff the Listening Ctr. at any time-rest of spots filled by other areas. #RaganDisney
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 08:02:34 -0800
+location: San Antonio, Texas

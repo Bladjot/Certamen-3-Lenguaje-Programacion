@@ -1,0 +1,7 @@
+570009228867293185
+American
+@AmericanAir What are we going to do about the nightmare you guys out me through yesterday? Zero response from the tweet you last sent me.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 15:56:05 -0800
+location: PDX JFK SFO BDL

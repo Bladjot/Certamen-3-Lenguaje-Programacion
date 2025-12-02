@@ -1,0 +1,7 @@
+569652631938985984
+US Airways
+@USAirways your IVR hung up on me because of high call volume? I need help. Call me
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:19:05 -0800
+location: O-H

@@ -1,0 +1,7 @@
+568976617453658113
+Delta
+@JetBlue thanks!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 19:32:51 -0800
+location: Bushwood

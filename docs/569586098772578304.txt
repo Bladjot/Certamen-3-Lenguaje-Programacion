@@ -1,0 +1,7 @@
+569586098772578304
+Southwest
+@SouthwestAir Boooo!!!!!!   Don't be like the other airlines!!  http://t.co/WHAGPknnLF
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 11:54:43 -0800
+location: Two Guns, Arizona

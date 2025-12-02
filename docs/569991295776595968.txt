@@ -1,0 +1,7 @@
+569991295776595968
+US Airways
+@USAirways I am good. I just did not understand the terminology.  but the merger brings new verbiage
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:44:49 -0800
+location: Miami, Florida, USA

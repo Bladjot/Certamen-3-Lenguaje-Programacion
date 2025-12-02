@@ -1,0 +1,7 @@
+568572344056180737
+Virgin America
+@VirginAmerica is my new go to airline
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 16:46:25 -0800
+location: Bay Area

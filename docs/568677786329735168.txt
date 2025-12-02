@@ -1,0 +1,7 @@
+568677786329735168
+United
+@united accordingly? U dont respond at all
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 23:45:24 -0800
+location: bonkers in Yonkers

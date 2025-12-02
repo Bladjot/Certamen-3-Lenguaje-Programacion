@@ -1,0 +1,7 @@
+570050603851710464
+Delta
+@JetBlue I can't find a good photo of it... You got one? #goodnight
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 18:40:29 -0800
+location: Logan International Airport

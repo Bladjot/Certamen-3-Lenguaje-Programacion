@@ -1,0 +1,7 @@
+569916606064828416
+American
+@AmericanAir back in UK now no thanks to your staff that wouldn't me or the other passengers stranded. Just laughed at us
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 09:48:02 -0800
+location: lydham shropshire uk

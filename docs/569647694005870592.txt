@@ -1,0 +1,7 @@
+569647694005870592
+United
+@united, there is no good word for describing how angry and pissed off of a customer you have made me.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:59:28 -0800
+location: San Francisco, CA

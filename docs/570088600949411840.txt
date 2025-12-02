@@ -1,0 +1,7 @@
+570088600949411840
+American
+@AmericanAir #2298. Everyone else  was outstanding.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 21:11:28 -0800
+location: Harrison, New York

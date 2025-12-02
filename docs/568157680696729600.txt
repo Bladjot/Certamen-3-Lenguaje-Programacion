@@ -1,0 +1,7 @@
+568157680696729600
+Virgin America
+@VirginAmerica your website sucks donkey dicks. Just thought you should know. All best.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 13:18:41 -0800
+location: Staten Island, NY

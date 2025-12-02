@@ -1,0 +1,7 @@
+569321739093614592
+United
+@united Pay for my hotel.... I'm a broke student #help
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 18:24:14 -0800
+location: nan

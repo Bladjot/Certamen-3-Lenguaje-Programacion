@@ -1,0 +1,7 @@
+568509343047352322
+Delta
+@JetBlue Airways Receives New Coverage from Analysts at Bank of America (JBLU) - The Legacy http://t.co/dORuxBqla1
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 12:36:04 -0800
+location: USA

@@ -1,0 +1,7 @@
+570083021099032576
+US Airways
+@USAirways Houston hub Aa T. Employee the bag is not here, It made it to Pa before me! Oops not your problem http://t.co/Uld0hWFkfo
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 20:49:18 -0800
+location: Pennsylvania

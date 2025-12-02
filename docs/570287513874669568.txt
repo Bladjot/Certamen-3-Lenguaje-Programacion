@@ -1,0 +1,7 @@
+570287513874669568
+Southwest
+@SouthwestAir thx but I'll be expecting a credit for this leg.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 10:21:53 -0800
+location: Chicago

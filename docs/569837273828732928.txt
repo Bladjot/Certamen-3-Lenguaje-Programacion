@@ -1,0 +1,7 @@
+569837273828732928
+United
+@united no they did not want to deliver at my house. Had to go to sombrons else house
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 04:32:47 -0800
+location: Brossard

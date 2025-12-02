@@ -1,0 +1,7 @@
+568817637754593280
+United
+@united Without baggage for 5 days and can't get an update from Houston airport since Monday. Worst service ever!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 09:01:07 -0800
+location: nan

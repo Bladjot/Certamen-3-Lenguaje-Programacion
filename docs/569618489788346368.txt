@@ -1,0 +1,7 @@
+569618489788346368
+Delta
+@JetBlue thanks for NOT! Sending me an update that our flight was delayed 3 hours. Unbelievable!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:03:25 -0800
+location: nan

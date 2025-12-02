@@ -1,0 +1,7 @@
+568845421390344192
+US Airways
+“@USAirways: We're sincerely sorry, Sean. Reservations is working hard to answer everyone's call and we appreciate your patience.” #false
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 10:51:31 -0800
+location: Burbank

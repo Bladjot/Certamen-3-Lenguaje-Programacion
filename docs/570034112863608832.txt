@@ -1,0 +1,7 @@
+570034112863608832
+American
+@AmericanAir would you like any additional details of my issue? Airport, flight, agent name? Or are you happy w/ this automated lip service?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 17:34:57 -0800
+location: nan

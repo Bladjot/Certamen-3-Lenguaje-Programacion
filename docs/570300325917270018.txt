@@ -1,0 +1,7 @@
+570300325917270018
+US Airways
+@USAirways I cant get anyone on the phone to help with award travel.Purchased extra miles and 10 minutes Late Flightr the miles needed was raised.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 11:12:48 -0800
+location: nan

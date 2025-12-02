@@ -1,0 +1,7 @@
+569541127340040192
+Virgin America
+@VirginAmerica is the website down?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 08:56:00 -0800
+location: Los Angeles

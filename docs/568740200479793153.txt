@@ -1,0 +1,7 @@
+568740200479793153
+United
+@United why is it so impossible to actually get a passenger AND their luggage to their final destination?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-20 03:53:25 -0800
+location: nan

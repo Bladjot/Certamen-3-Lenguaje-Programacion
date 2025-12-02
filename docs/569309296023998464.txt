@@ -1,0 +1,7 @@
+569309296023998464
+United
+@united instead of be told when we board, we have to wait for the emails telling us about the delays.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-21 17:34:48 -0800
+location: Chicago, IL

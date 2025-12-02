@@ -1,0 +1,7 @@
+569906532277731328
+American
+@AmericanAir She could even see that I had tried to make the transaction but wouldn't offer me the price I'd tried to purchase it at.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 09:08:00 -0800
+location: New York

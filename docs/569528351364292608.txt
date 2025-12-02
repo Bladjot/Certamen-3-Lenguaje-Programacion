@@ -1,0 +1,7 @@
+569528351364292608
+Delta
+@JetBlue after applying my new tag, she left my bag on the ground rather than loading on the conveyer belt..I had to walk back 50 yards
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 08:05:14 -0800
+location: Naples, FL, Boston, MA

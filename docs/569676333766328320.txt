@@ -1,0 +1,7 @@
+569676333766328320
+American
+@AmericanAir so we have a Cancelled Flightled flight in about twelve hours. Maybe we'll have heard from an AA rep at that point.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 17:53:16 -0800
+location: Arlington, VA

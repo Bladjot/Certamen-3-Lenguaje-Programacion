@@ -1,0 +1,7 @@
+569668818253053952
+Delta
+@JetBlue. A bunch of flights are delayed from FFL to Northeast destinations. No announcements at the gate. What's going on?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:23:24 -0800
+location: New York

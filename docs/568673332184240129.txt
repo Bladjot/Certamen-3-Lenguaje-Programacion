@@ -1,0 +1,7 @@
+568673332184240129
+United
+@united has happened on other airlines and they've given out flight vouchers and been more transparent about the problems.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 23:27:42 -0800
+location: nan

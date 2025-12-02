@@ -1,0 +1,7 @@
+569801089022734336
+American
+@AmericanAir we have been rebooked due to weather, but need to change our reservation and fly on the 24th, instead of the 23rd.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 02:09:00 -0800
+location: nan

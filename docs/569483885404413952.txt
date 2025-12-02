@@ -1,0 +1,7 @@
+569483885404413952
+US Airways
+@USAirways you can't control the weather but you CAN control your systems, processes, people and attitudes. #anotherfail
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 05:08:33 -0800
+location: Doylestown, PA

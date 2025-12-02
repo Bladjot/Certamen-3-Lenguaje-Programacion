@@ -1,0 +1,7 @@
+570279220502511617
+American
+@AmericanAir my flight 386 from Jacksonville fl to Dallas is showing Cancelled Flightled. What is going on?  Am I rebooked on another flight?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 09:48:56 -0800
+location: nan

@@ -1,0 +1,7 @@
+568475497275002880
+United
+@united you do realize my wife is waiting on a delayed flight at this very moment.  I'm not sure I understand your tweet.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 10:21:34 -0800
+location: nan

@@ -1,0 +1,7 @@
+568061931761864704
+United
+@united Can I add miles from my January Air China flight to my MileagePlus account?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 06:58:13 -0800
+location: nan

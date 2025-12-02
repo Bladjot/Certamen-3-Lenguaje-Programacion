@@ -1,0 +1,7 @@
+567840815331991552
+US Airways
+@USAirways My Flight Booking Problems C68LD9 just times out when I select it under Manage My Flight Booking Problems for months now. I have emailed but no response. Help?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 16:19:35 -0800
+location: Sydney, Australia

@@ -1,0 +1,7 @@
+569532711787892736
+US Airways
+@USAirways with a glass of wine once we hit altitude?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 08:22:34 -0800
+location: Minnesota, USA

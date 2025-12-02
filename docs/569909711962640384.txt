@@ -1,0 +1,7 @@
+569909711962640384
+American
+@AmericanAir dmed the name
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 09:20:38 -0800
+location: nan

@@ -1,0 +1,7 @@
+569892297329913856
+American
+@AmericanAir ok thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 08:11:26 -0800
+location: Renton, WA

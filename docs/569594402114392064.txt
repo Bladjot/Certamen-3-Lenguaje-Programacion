@@ -1,0 +1,7 @@
+569594402114392064
+American
+@AmericanAir what are my chances of making a connection to El Paso (AA504) with DFW from SAT (AA200) delayed 30 minutes?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 12:27:42 -0800
+location: nan

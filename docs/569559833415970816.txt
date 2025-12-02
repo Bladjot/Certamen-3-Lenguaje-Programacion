@@ -1,0 +1,7 @@
+569559833415970816
+Delta
+@JetBlue According to your ground staff, it hasn't even been taken off the plane yet!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 10:10:20 -0800
+location: New York, New York

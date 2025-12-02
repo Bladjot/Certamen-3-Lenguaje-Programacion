@@ -1,0 +1,7 @@
+569617259548708864
+Delta
+@JetBlue @amybruni No wifi on this flight so we can't tweet you our Oscar party pics at 37,000ft. #bluecarpet :-( SEA✈️BOS
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 13:58:32 -0800
+location: Provincetown Ma

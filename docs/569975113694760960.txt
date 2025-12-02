@@ -1,0 +1,7 @@
+569975113694760960
+American
+@AmericanAir thanks... I finally got through this afternoon.  :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 13:40:31 -0800
+location: nan

@@ -1,0 +1,7 @@
+569702549491752960
+American
+@AmericanAir have been waiting for a call back for over two hours jan to die tomorrow at 6am Cancelled Flightled what are my options?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 19:37:27 -0800
+location: nan

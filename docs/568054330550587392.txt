@@ -1,0 +1,7 @@
+568054330550587392
+Southwest
+@SouthwestAir I am completely displeased with the service I received on yesterday flying from LGA to ATL.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 06:28:00 -0800
+location: Somewhere over the rainbow.

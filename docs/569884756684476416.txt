@@ -1,0 +1,7 @@
+569884756684476416
+American
+@AmericanAir - And @AirSouthwest  had a flight from Chicago to Buffalo about an hour before our flight -- do they not care about safety?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 07:41:28 -0800
+location: St. Catharines

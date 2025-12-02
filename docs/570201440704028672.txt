@@ -1,0 +1,7 @@
+570201440704028672
+United
+@united So what does someone with severe anxiety do when the one person who can help him isn't next to him?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 04:39:51 -0800
+location: Seattle

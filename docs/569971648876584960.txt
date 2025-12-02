@@ -1,0 +1,7 @@
+569971648876584960
+United
+@united  found a group of people who actually hates people more than ISIS, thats right United Airlines.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 13:26:45 -0800
+location: san diego

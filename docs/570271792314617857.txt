@@ -1,0 +1,7 @@
+570271792314617857
+United
+@united ZCC82U Cancelled Flight flight 16h in advance??? Need connect flight reschedule so the link isn't helping. Help!? Gf waited months to see me.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 09:19:25 -0800
+location: nan

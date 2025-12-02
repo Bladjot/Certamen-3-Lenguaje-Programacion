@@ -1,0 +1,7 @@
+568899587424931840
+United
+@united so we fly into SFO and Honululu gets pushed back 3.5 hours and now it looks like more delays.  I beg of you plz sort this out soon!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 14:26:45 -0800
+location: nan

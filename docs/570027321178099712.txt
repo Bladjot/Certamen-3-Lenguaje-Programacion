@@ -1,0 +1,7 @@
+570027321178099712
+United
+@united how is Mexico not international from the us?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 17:07:58 -0800
+location: Chicago, IL

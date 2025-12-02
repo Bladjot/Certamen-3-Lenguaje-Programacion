@@ -1,0 +1,7 @@
+568783455338819584
+US Airways
+@USAirways now siting on Tarmac in philly for another 15 minutes. This is so lame. Sorry doesn't help. This is terrible.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 06:45:17 -0800
+location: nan

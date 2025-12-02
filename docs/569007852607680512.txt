@@ -1,0 +1,7 @@
+569007852607680512
+US Airways
+@USAirways How the heck does one get the Internet desk to authorize a waiver? Would that involved being on hold for another hour?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 21:36:58 -0800
+location: nan

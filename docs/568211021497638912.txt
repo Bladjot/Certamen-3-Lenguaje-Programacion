@@ -1,0 +1,7 @@
+568211021497638912
+US Airways
+@USAirways Oh certainly. And now I have two $275 pending transactions on my bank account. Really happy that I was charged double.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 16:50:39 -0800
+location: Redmond, WA

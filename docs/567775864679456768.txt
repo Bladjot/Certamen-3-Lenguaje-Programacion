@@ -1,0 +1,7 @@
+567775864679456768
+Delta
+@JetBlue do they have to depart from Washington, D.C.??
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 12:01:29 -0800
+location: iPhone: 60.495510,-151.064590

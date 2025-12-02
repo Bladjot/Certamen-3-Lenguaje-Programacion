@@ -1,0 +1,7 @@
+569694350831161344
+US Airways
+@USAirways @PHLAirport always nice when a customer service manager threatens customers standing in his understaffed lines for the last hour
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:04:52 -0800
+location: Does it really matter

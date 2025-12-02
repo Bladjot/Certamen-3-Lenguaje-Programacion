@@ -1,0 +1,7 @@
+568585421518544897
+United
+@united this is nuts they said a flight was on the ground now it's still in Albany and they won't have a plane.  Someone is compensating me
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 17:38:22 -0800
+location: Pursuit of Happiness

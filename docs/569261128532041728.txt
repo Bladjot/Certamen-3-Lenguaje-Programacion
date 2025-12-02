@@ -1,0 +1,7 @@
+569261128532041728
+Virgin America
+@VirginAmerica nervous about my flight from DC to LAX getting Cancelled Flightled tomorrow! Just sent you a DM to help me!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 14:23:24 -0800
+location: Los Angeles, California

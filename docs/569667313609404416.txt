@@ -1,0 +1,7 @@
+569667313609404416
+Southwest
+@SouthwestAir How about auto check in for CP holders? Come on.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 17:17:26 -0800
+location: nan

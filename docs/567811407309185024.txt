@@ -1,0 +1,7 @@
+567811407309185024
+Southwest
+@SouthwestAir On flight 771 tomorrow (Wed 2/18) DEN-BNA. Will we be delayed or Cancelled Flightled?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:22:43 -0800
+location: Boulder

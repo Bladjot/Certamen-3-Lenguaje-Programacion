@@ -1,0 +1,7 @@
+568533394402861056
+US Airways
+@USAirways can I bring a copy or photo of my baby's birth certificate for the flight? I feel uncomfortable traveling with the real thing.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 14:11:38 -0800
+location: Phoenix, AZ, USA

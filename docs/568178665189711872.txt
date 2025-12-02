@@ -1,0 +1,7 @@
+568178665189711872
+United
+@united idea: if u don't want us to be frustrated don't Cancelled Flight flights because your crew overflowed a toilet. Get a plumber
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 14:42:04 -0800
+location: NJ

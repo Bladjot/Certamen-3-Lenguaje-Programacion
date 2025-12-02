@@ -1,0 +1,7 @@
+568446450700558336
+Southwest
+@SouthwestAir SW rocks, thanks for the reply and the follow. Rebooked earlier flight!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 08:26:09 -0800
+location: CT

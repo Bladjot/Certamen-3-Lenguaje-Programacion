@@ -1,0 +1,7 @@
+570042186399657984
+Southwest
+@SouthwestAir crew on flight 206 is awesome! Tell them I sent this tweet and maybe they will give me free wifi... #canthurtasking
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 18:07:02 -0800
+location: Washington D.C. / Northern VA

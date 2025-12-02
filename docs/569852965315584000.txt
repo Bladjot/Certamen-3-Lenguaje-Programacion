@@ -1,0 +1,7 @@
+569852965315584000
+American
+@AmericanAir haha I did. They said it wasn't their fault somehow? You guys r a joke
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-23 05:35:08 -0800
+location: nan

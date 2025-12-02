@@ -1,0 +1,7 @@
+570143097809707008
+United
+@united Could you update me on the suitcase please? The online and phone tracking told me nothing. I was told I'd have it back yesterday!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 00:48:01 -0800
+location: nan

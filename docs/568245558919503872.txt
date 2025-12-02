@@ -1,0 +1,7 @@
+568245558919503872
+US Airways
+@USAirways : its just a very bad customer service experience// can you help
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 19:07:53 -0800
+location: nan

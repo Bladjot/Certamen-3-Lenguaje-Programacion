@@ -1,0 +1,7 @@
+568388846125223936
+US Airways
+@USAirways 'preciate it but cant get off plane to speak w agent / wont come on plane 5015 knoxville...?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 04:37:15 -0800
+location: Scruffyville

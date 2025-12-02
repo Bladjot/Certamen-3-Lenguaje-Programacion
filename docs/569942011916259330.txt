@@ -1,0 +1,7 @@
+569942011916259330
+American
+@AmericanAir really appreciate the great customer service... One of your service agents just hung up on me when asking legitimate questions
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 11:28:59 -0800
+location: Brooklyn

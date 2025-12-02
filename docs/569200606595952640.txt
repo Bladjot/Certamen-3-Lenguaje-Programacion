@@ -1,0 +1,7 @@
+569200606595952640
+Virgin America
+@VirginAmerica What is the reason  for the delay of the departure of VX 413 from JFK this afternoon?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 10:22:54 -0800
+location: nan

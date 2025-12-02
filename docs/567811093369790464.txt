@@ -1,0 +1,7 @@
+567811093369790464
+Southwest
+@SouthwestAir we're flying out tomorrow! PLEASE DONT Cancelled Flight!! Lol 😜✈️
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 14:21:28 -0800
+location: murfreesboro

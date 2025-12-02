@@ -1,0 +1,7 @@
+569919319821434880
+US Airways
+@USAirways Bag policy says stroller OR car seat.  We need to bring 2 car seats and 1 stroller.  Should I just call for details?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 09:58:49 -0800
+location: nan

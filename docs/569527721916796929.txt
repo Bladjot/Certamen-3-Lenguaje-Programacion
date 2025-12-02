@@ -1,0 +1,7 @@
+569527721916796929
+US Airways
+@USAirways horrible customer service, flying from Miami to Philadelphia, sent to Charlotte, now can't get out of Charlotte!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 08:02:44 -0800
+location: nan

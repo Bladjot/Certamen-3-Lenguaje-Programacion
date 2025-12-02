@@ -1,0 +1,7 @@
+568249421877653505
+United
+@united was such a better airline when you were Continental. $75 service fee + $75 Flight Booking Problems fee + $25 talk to a human fee: FU!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 19:23:14 -0800
+location: East Hanover, NJ

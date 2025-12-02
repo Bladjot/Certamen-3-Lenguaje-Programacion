@@ -1,0 +1,7 @@
+568192024026996736
+United
+@united I just sent a long note with some suggestions. Thanks for getting back to me.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 15:35:09 -0800
+location: nan

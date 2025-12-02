@@ -1,0 +1,7 @@
+569625210070175744
+American
+@AmericanAir I let a crew member know every time this happens.  Which is most of the time.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 14:30:07 -0800
+location: nan

@@ -1,0 +1,7 @@
+569703641096933377
+American
+@AmericanAir is the new @SpiritAirlines, and both are worse than taking the @GreyhoundBus #americanairlines #nocustomerservice #fail
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:41:47 -0800
+location: West Palm Beach

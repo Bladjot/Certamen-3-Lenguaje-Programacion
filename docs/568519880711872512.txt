@@ -1,0 +1,7 @@
+568519880711872512
+United
+@united Thank you.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 13:17:56 -0800
+location: Brighton, UK

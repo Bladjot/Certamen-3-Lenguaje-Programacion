@@ -1,0 +1,7 @@
+570066166930145280
+Delta
+@JetBlue - Definitely no note from whoever stole from me.
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-23 19:42:20 -0800
+location: nan

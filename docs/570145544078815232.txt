@@ -1,0 +1,7 @@
+570145544078815232
+American
+@AmericanAir I was rebooked on a flight that was too Late Flight for my connection!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 00:57:45 -0800
+location: nan

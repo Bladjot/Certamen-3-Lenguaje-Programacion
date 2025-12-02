@@ -1,0 +1,7 @@
+569459716906229760
+United
+Sorry, @united. I accidentally popuLate Flightd with you instead of @USAirways. Can't wait 'til "U" are the only "U" in the sky. #NewAmericanStinks
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 03:32:31 -0800
+location: Raleigh, North Carolina, USA

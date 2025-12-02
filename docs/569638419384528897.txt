@@ -1,0 +1,7 @@
+569638419384528897
+United
+@united that's what you have said for years, you are losing customers!!!!!!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 15:22:37 -0800
+location: Chicago

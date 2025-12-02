@@ -1,0 +1,7 @@
+568759027775225856
+US Airways
+@USAirways I have been trying to book a flight using my miles for 3 straight days. 210 min on phone - still haven't talked to a human.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 05:08:13 -0800
+location: Alexandria, VA

@@ -1,0 +1,7 @@
+568990617394647040
+US Airways
+@USAirways How dirty does the damn plane have to be to take an hour to get the plane cleaned??? Refund me my miles😡. #wasteoftime #theworst
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 20:28:29 -0800
+location: nan

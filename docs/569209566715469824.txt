@@ -1,0 +1,7 @@
+569209566715469824
+Virgin America
+@VirginAmerica You have the best flight attendant ever!!! http://t.co/PxdEL1nq3l
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 10:58:30 -0800
+location: Los Angeles, CA

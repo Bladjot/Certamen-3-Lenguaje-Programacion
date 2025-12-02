@@ -1,0 +1,7 @@
+568663431433187328
+United
+@united thank you so much. How will you be able to contact me?
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 22:48:21 -0800
+location: Kaizen 改善

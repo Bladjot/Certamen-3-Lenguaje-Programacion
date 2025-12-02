@@ -1,0 +1,7 @@
+569757651539660801
+US Airways
+@USAirways I can legitimately say that I would have rather driven cross country than flown on US Airways.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 23:16:24 -0800
+location: Washington, D.C.

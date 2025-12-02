@@ -1,0 +1,7 @@
+569660363794468864
+American
+@AmericanAir how hard is it to have catering ready to go?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:49:49 -0800
+location: NYCATL

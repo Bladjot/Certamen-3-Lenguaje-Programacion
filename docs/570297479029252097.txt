@@ -1,0 +1,7 @@
+570297479029252097
+American
+“@AmericanAir: @Andrew_Wasila We're sorry you were uncomfortable, Andrew. What can we do for you?” SMA
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 11:01:29 -0800
+location: nan

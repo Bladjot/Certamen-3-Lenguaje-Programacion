@@ -1,0 +1,7 @@
+567785191901376512
+Virgin America
+@VirginAmerica Grouping Virgin in with the others now. BOS weather has exposed their actual Cus Serv model. Never Flight Booking Problems with Virgin again!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 12:38:33 -0800
+location: nan

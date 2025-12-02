@@ -1,0 +1,7 @@
+568217863611404288
+United
+@united is the worst airline. Lost my luggage delayed my flights and has been very unaccomidating
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 17:17:50 -0800
+location: nan

@@ -1,0 +1,7 @@
+569615736387325952
+Southwest
+@SouthwestAir baggage delivery at BWI very delayed and unnecessarily chaotic. Disappointing after a long trip! From a frequent traveler
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 13:52:29 -0800
+location: Washington, DC

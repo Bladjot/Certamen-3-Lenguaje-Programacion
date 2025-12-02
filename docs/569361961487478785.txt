@@ -1,0 +1,7 @@
+569361961487478785
+US Airways
+@USAirways actually it landed in BWI 30 minutes ago. She is stranded but I have friends to help. You FAILED big time on this one.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 21:04:04 -0800
+location: Ocean View, Hawaii

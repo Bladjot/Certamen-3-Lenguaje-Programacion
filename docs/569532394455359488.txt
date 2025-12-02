@@ -1,0 +1,7 @@
+569532394455359488
+US Airways
+@USAirways this is the worst customer service I have ever had. Rebooked to tues but seat available on mon. Wtf. Contact me.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 08:21:18 -0800
+location: kansas city, mo

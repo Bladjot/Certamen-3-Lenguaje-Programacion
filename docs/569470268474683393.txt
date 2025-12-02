@@ -1,0 +1,7 @@
+569470268474683393
+US Airways
+@USAirways 8 hrs of wait time is unbelieavle unaccpetable biggest airline in the world should have failback call centers
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 04:14:26 -0800
+location: nan

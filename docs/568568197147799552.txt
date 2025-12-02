@@ -1,0 +1,7 @@
+568568197147799552
+United
+@united now sitting on the tarmac for a half hour after landing because your jetway is broken. #2daysofunitedfailures #1thingafteranother
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 16:29:56 -0800
+location: nan

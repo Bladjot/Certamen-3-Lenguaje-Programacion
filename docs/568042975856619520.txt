@@ -1,0 +1,7 @@
+568042975856619520
+Delta
+@JetBlue waited for 15 min then got disconnect
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 05:42:53 -0800
+location: Merrick

@@ -1,0 +1,7 @@
+570204649363341312
+United
+@united I'm not a child. I'm someone who has an issue with flying and prepares ahead of time to reduce the distress caused by planes. You
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 04:52:36 -0800
+location: Seattle

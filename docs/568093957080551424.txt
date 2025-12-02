@@ -1,0 +1,7 @@
+568093957080551424
+Virgin America
+@VirginAmerica OMG FINALLY
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 09:05:28 -0800
+location: nan

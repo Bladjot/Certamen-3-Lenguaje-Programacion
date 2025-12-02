@@ -1,0 +1,7 @@
+569597885446270976
+American
+@AmericanAir I really hope it departs. They said is because the catering service wasnt available but we can see it next to plane doing nthin
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:41:33 -0800
+location: Buenos Aires, Argentina

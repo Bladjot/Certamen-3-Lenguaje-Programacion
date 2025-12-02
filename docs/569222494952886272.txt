@@ -1,0 +1,7 @@
+569222494952886272
+Virgin America
+@VirginAmerica when are you putting some great deals from PDX to LAS or from LAS to PDX show me your love! http://t.co/enIQg0buzj
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 11:49:53 -0800
+location: nan

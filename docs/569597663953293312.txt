@@ -1,0 +1,7 @@
+569597663953293312
+United
+@united has terrible customer service &amp; doesn't feel the need to notify its customers when their flights are delayed
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:40:40 -0800
+location: nan

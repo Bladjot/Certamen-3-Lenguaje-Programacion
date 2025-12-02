@@ -1,0 +1,7 @@
+568165339290169344
+United
+@united Midland couldn't get our bags to connect on our Intl flight to Sydney, so have to get em in LA &amp; check em in there.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 13:49:07 -0800
+location: Brisbane, Australiaaa!

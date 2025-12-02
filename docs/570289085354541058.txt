@@ -1,0 +1,7 @@
+570289085354541058
+American
+@AmericanAir - Please find my bag!! In Singapore for three days already without my bag. Last known destination LAX Tag: 580815 Please help.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 10:28:08 -0800
+location: Bangkok, Thailand

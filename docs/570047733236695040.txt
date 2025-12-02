@@ -1,0 +1,7 @@
+570047733236695040
+US Airways
+@USAirways @AmericanAir now this is beyond ridiculous. Some steering problem delays us again. #neveragain  it's no wonder you had to sell
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 18:29:05 -0800
+location: Bedford, NH

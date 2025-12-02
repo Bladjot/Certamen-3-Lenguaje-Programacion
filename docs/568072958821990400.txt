@@ -1,0 +1,7 @@
+568072958821990400
+Southwest
+@SouthwestAir pleasantly surprised to be boarding my flight on time this morning at @Fly_Nashville. Good job!
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 07:42:02 -0800
+location: Nashville, tn

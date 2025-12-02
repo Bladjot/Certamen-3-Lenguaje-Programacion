@@ -1,0 +1,7 @@
+569654428636049408
+United
+@united no thanks
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:26:14 -0800
+location: michigan

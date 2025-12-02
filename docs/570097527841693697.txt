@@ -1,0 +1,7 @@
+570097527841693697
+American
+@AmericanAir btw you guys should consider making a lounge at Austin Intl. airport! Very popuLate Flightd area! Will help the company for sure👌
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 21:46:57 -0800
+location: nan

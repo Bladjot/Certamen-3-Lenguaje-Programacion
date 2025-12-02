@@ -1,0 +1,7 @@
+568592809344819200
+Southwest
+@southwestair after 4 hours of delays you did make a nice offer for rescheduling me the next day... but...
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 18:07:44 -0800
+location: camas, wa

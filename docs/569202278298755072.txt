@@ -1,0 +1,7 @@
+569202278298755072
+Southwest
+@SouthwestAir I love you guys, but even Comcast has a better phone help system. A simple callback system would fix most of the problem...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 10:29:33 -0800
+location: nan

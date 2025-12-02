@@ -1,0 +1,7 @@
+568871340498821120
+United
+@united Hi, we are flying into IAD tomorrow evening. Do you expect delays or Cancelled Flightlations with the snow storm?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 12:34:31 -0800
+location: nan

@@ -1,0 +1,7 @@
+570033429816999936
+American
+@AmericanAir @USAirways - I'm pregnant with twins and you're going to abandon me overnight in an airport? No hotel? When it's your fault?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 17:32:15 -0800
+location: Kansas City, MO

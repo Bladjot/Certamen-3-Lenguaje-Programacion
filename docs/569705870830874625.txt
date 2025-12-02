@@ -1,0 +1,7 @@
+569705870830874625
+United
+@united Why have airlines always told us they can't open a cabin door once it has been closed?  This plane has done it 3 times tonight.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 19:50:38 -0800
+location: nan

@@ -1,0 +1,7 @@
+569753036014247936
+American
+@AmericanAir-everyone: its been weeks&amp;those dickheads @ AA hadn't contacted me...they lost my checked bag &amp; carryon and haven't offer to pay
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 22:58:03 -0800
+location: nan

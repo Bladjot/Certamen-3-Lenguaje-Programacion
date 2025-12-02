@@ -1,0 +1,7 @@
+569883376041250816
+US Airways
+@USAirways 8 hour delay pho-mia, your airline is bad and getting worse, Foolish for american to merge.  You treat your customers like crap
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 07:35:59 -0800
+location: nan

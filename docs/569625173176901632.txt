@@ -1,0 +1,7 @@
+569625173176901632
+United
+@united has an United flight ever been on time. #americanisbetter
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:29:59 -0800
+location: Corpus Christi

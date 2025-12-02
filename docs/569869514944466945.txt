@@ -1,0 +1,7 @@
+569869514944466945
+American
+@AmericanAir I fail to see how telling a caller that a bag may take "18 hours" to get from JFK to Brooklyn is "the best we can"
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 06:40:54 -0800
+location: SR2

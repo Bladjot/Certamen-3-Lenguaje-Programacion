@@ -1,0 +1,7 @@
+569230515833856000
+Delta
+@JetBlue thanks for update http://t.co/K7uBOTMr1r
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 12:21:45 -0800
+location: NYC✈️MIA

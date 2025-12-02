@@ -1,0 +1,7 @@
+569139808804605953
+US Airways
+@USAirways Saying my friend missed her flight when she clearly sat next to me on the plane &amp; now you're Cancelled Flighting her flight home.. WTF!?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 06:21:19 -0800
+location: nan

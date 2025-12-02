@@ -1,0 +1,7 @@
+568468372524023808
+Southwest
+@SouthwestAir there is a good chance myself nor anyone else in this airport will ever be Flight Booking Problems southwest again..
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 09:53:16 -0800
+location: CT

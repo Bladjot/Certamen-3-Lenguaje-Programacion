@@ -1,0 +1,7 @@
+569592447455465472
+American
+@AmericanAir trying to book a flight on hold- can't get through to a representative on the phone- Advice?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 12:19:56 -0800
+location: Naperville, IL

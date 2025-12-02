@@ -1,0 +1,7 @@
+569628242044428288
+US Airways
+@USAirways 799 from AMS to PHL today- 3 of 4 flight attendants were downright rude and hostile and made the 8+ hour flight even worse.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 14:42:10 -0800
+location: nan

@@ -1,0 +1,7 @@
+569606901325017090
+United
+@united united flight UA3774 after two delays just Cancelled Flightled no explanation &amp; no more flights to Norfolk that aren't booked. Renting a car.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 13:17:22 -0800
+location: nan

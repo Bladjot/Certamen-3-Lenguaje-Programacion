@@ -1,0 +1,7 @@
+568845545986400256
+Delta
+@JetBlue Now ur asking for the heavy guns! You know #IWouldDoAnythingForLove https://t.co/Yx1DQJn8nL #BrandMance #LoveSongFriday
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 10:52:01 -0800
+location: New York, NY

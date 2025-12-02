@@ -1,0 +1,7 @@
+569720366198759424
+American
+@AmericanAir DFW GATE 16 to BMI agent seriously is beyond incompetent.  Never flying AA again if can be avoided #fail #pathetic
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:48:14 -0800
+location: Bloomington, IL

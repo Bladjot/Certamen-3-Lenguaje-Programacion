@@ -1,0 +1,7 @@
+567737267095994368
+Delta
+@JetBlue's CEO Battles to Appease Passengers and Wall Street - http://t.co/frrfxCCw7Z http://t.co/nKlW9SsVRQ
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:28:07 -0800
+location: UK

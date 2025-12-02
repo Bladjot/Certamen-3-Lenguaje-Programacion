@@ -1,0 +1,7 @@
+568535405361913857
+Delta
+@JetBlue Hi. How do I claim points on a 1800-flowers order after I purchased? I totally forgot to put in the promo code.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 14:19:38 -0800
+location: New Jet City

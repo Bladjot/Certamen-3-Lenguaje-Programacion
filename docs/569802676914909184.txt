@@ -1,0 +1,7 @@
+569802676914909184
+US Airways
+@USAirways merging with American will negatively affect your quality and integrity. I will no longer fly with you because of it.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 02:15:19 -0800
+location: Edmonton

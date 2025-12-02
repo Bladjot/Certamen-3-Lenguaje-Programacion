@@ -1,0 +1,7 @@
+569578942543372288
+United
+@united I am appalled at your lack of communication during our awful journey on 2/21 EWR to BOS. 4 hr delays need to be explained better.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 11:26:16 -0800
+location: Boston, MA

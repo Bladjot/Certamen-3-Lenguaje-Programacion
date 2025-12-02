@@ -1,0 +1,7 @@
+568964732981530624
+Southwest
+@SouthwestAir All's well. I got comped with multiple other bags which just made my day! http://t.co/1AAVvoREpH
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 18:45:37 -0800
+location: Raleigh

@@ -1,0 +1,7 @@
+570304873620746240
+Delta
+@JetBlue check DM please :)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:30:52 -0800
+location: Logan International Airport

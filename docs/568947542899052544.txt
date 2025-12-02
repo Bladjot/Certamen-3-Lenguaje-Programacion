@@ -1,0 +1,7 @@
+568947542899052544
+United
+@united I just received notification of in-flight Wi-Fi for UA863 from @flySFO to @SydneyAirport. Amazing!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 17:37:19 -0800
+location: sf - austin - sydney

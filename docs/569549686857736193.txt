@@ -1,0 +1,7 @@
+569549686857736193
+Southwest
+@SouthwestAir I tried for 5hrs to contact SW! Twitter, fb, phone, email w/ no reply. 24hrs Late Flightr u respond, what could you do at this point?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 09:30:01 -0800
+location: nan

@@ -1,0 +1,7 @@
+569857396899606528
+Southwest
+@SouthwestAir kids on a mission trip from Lasalle stranded in orlando area,  they can't get back to Bos or PVD till WEDNESDAY?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 05:52:45 -0800
+location: RI

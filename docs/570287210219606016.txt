@@ -1,0 +1,7 @@
+570287210219606016
+Delta
+@JetBlue I had to call back five times to get someone on the phone who knew what they were doing. By that time my getaway went up by $200.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 10:20:40 -0800
+location: nan

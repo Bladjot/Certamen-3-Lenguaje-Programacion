@@ -1,0 +1,7 @@
+567790177063608320
+United
+@united plus you horrible seating and poor customer service everywhere I've flown. now you take away the mileage program..horrible
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 12:58:21 -0800
+location: Brentwood, CA

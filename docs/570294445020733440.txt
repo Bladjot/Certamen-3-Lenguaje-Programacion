@@ -1,0 +1,7 @@
+570294445020733440
+United
+@united yes, a paper voucher that I got on January 26th 2015
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:49:25 -0800
+location: USA

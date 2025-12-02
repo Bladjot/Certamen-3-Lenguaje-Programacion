@@ -1,0 +1,7 @@
+569512656274468864
+US Airways
+@USAirways Hmmm. Did the flight even really exist or did they just create it last night to get people off their backs? #usairsucks
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 07:02:52 -0800
+location: nan

@@ -1,0 +1,7 @@
+567759774016868352
+Delta
+@JetBlue Well, I try! See you soon!! @JayVig
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 10:57:33 -0800
+location: New York City

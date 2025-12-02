@@ -1,0 +1,7 @@
+569883743223050241
+American
+@AmericanAir you're almost as bad as @united
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 07:37:26 -0800
+location: nan

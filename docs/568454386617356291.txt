@@ -1,0 +1,7 @@
+568454386617356291
+United
+@united Flight delayed 40 minutes in ORD because plane didn’t have all the food. That should be fixed in the future. It’s a dumb delay.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 08:57:41 -0800
+location: nan

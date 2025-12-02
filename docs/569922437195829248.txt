@@ -1,0 +1,7 @@
+569922437195829248
+American
+Yessir RT “@AmericanAir: @yourlocalnyer Good morning, Rob. We're showing the flight to sunny Mexico just pushed off the gate.”
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:11:12 -0800
+location: Dallas, TX

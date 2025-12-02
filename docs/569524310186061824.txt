@@ -1,0 +1,7 @@
+569524310186061824
+Delta
+@JetBlue seriously? System down? No IT?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 07:49:11 -0800
+location: nan

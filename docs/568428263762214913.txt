@@ -1,0 +1,7 @@
+568428263762214913
+US Airways
+@USAirways our hold up now is the captain that was Late Flight...his bag doesn't fit.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 07:13:53 -0800
+location: 757

@@ -1,0 +1,7 @@
+569907031693520896
+United
+@united Thanks for the update.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 09:09:59 -0800
+location: New Haven, CT

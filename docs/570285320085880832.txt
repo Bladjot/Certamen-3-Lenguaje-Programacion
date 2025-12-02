@@ -1,0 +1,7 @@
+570285320085880832
+US Airways
+@usairways RT @Dmoukdarath: Nice, another delay with @usair second one this trip. Left engine leaking...what's next?? #USAIR #nothappy
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 10:13:10 -0800
+location: Triad

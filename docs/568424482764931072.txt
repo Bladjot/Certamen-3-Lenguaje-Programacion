@@ -1,0 +1,7 @@
+568424482764931072
+United
+@united message sent. Thank you!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 06:58:52 -0800
+location: nan

@@ -1,0 +1,7 @@
+569333553705693184
+Southwest
+@SouthwestAir i sure hope you are able to get my bag to Memphis for tomorrow.would be nice to have some clean clothes for work.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 19:11:11 -0800
+location: RI when home.

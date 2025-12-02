@@ -1,0 +1,7 @@
+570219379696148480
+American
+@AmericanAir @USAirways #Boo! Wack ass terminal 6 @flyLAXairport. No food. No lounge. No Bueno!! Never again!!!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 05:51:08 -0800
+location: nan

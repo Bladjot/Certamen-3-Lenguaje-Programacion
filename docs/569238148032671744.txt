@@ -1,0 +1,7 @@
+569238148032671744
+United
+@united correct?  What's correct?  Sorry I'm lost
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 12:52:05 -0800
+location: nan

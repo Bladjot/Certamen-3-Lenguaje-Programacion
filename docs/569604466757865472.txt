@@ -1,0 +1,7 @@
+569604466757865472
+American
+@AmericanAir I have no transportation to and going to some other city and getting to NY sometime on Wed?! I'm sorry that's not gonna cut
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 13:07:42 -0800
+location: ÜT: 40.881241,-73.107717

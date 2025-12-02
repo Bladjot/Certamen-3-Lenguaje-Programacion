@@ -1,0 +1,7 @@
+568835134603931649
+United
+@united thanks. That means I have 30 minutes to make my international connection to HKG
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 10:10:39 -0800
+location: PDX / LGA / TXL / ✈

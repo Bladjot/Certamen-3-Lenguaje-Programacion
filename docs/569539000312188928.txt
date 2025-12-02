@@ -1,0 +1,7 @@
+569539000312188928
+United
+@united who authors this fiction? I just heard on radio we don't even have a jetway secured yet #UA5037 #CMH http://t.co/T78k7aBtWF
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 08:47:33 -0800
+location: San Diego, CA

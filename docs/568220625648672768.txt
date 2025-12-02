@@ -1,0 +1,7 @@
+568220625648672768
+US Airways
+@USAirways you have most likely lost my business. Terrible experience! Too many times stuck on Tarmac and last min Cancelled Flightled flights. #Done
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 17:28:48 -0800
+location: Clemson, SC

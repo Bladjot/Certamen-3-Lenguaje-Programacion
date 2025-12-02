@@ -1,0 +1,7 @@
+569244957698969602
+US Airways
+@USAirways Your Baggage system has hung up on me twice because you have too many callers. I NEED TO FIND MY HUSBAND'S (@SweetingR) BAGS.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 13:19:08 -0800
+location: Asheville, NC

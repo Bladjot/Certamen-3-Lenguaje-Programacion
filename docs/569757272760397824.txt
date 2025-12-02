@@ -1,0 +1,7 @@
+569757272760397824
+American
+@AmericanAir Thanks for the champagne  AA153 ORD-NRT to celebrate my #TokyoMarathon2015 finish! http://t.co/Ij4xL01tKX
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 23:14:54 -0800
+location: Boston, MA

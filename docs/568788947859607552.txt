@@ -1,0 +1,7 @@
+568788947859607552
+United
+.@united thanks for the reply. I saw that but it's not particularly helpful to a hungry vegetarian not flying those specific flights. SHRUG.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 07:07:07 -0800
+location: Boston, MA

@@ -1,0 +1,7 @@
+569595745126494208
+US Airways
+@USAirways is absolute crap this week!!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 12:33:02 -0800
+location: On a beach

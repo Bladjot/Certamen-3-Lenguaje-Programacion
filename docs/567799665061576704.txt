@@ -1,0 +1,7 @@
+567799665061576704
+Delta
+@JetBlue Airways Adds New Charter #Flight to Cuba - #Travel Wires (blog) http://t.co/Swb1gR57Cc
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 13:36:04 -0800
+location: USA

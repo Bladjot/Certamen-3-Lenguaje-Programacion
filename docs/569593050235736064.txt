@@ -1,0 +1,7 @@
+569593050235736064
+American
+@AmericanAir can you guys help me please?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:22:20 -0800
+location: KY

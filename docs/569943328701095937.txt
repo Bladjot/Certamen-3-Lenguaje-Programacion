@@ -1,0 +1,7 @@
+569943328701095937
+US Airways
+@USAirways my flight is delayed so I missed my connecting flight. Stuck in Philadelphia over night and no hotel voucher? Thanks for nothing
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 11:34:13 -0800
+location: nan

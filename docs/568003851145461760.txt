@@ -1,0 +1,8 @@
+568003851145461760
+US Airways
+@USAirways @AmericanAir @SVLLINDIA provides you the best logistics experience for people all over India.
+#Mumbai #Surat #NaviMumbai
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 03:07:25 -0800
+location: Mumbai

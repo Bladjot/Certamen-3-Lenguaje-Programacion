@@ -1,0 +1,7 @@
+569918453722656768
+Delta
+@JetBlue Thanks. Used phone instead of computer and it worked!! Thx again!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 09:55:22 -0800
+location: Boston, Austin, Kansas City

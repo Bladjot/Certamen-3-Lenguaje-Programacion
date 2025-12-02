@@ -1,0 +1,7 @@
+570168203470446592
+Delta
+@JetBlue here we go again, 2nd round trip to CA in a week #TrueBlue
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 02:27:47 -0800
+location: New York

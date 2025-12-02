@@ -1,0 +1,7 @@
+568148009722073089
+Southwest
+@SouthwestAir Denver to Phoenix, I think we're finally getting ready to take off.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 12:40:15 -0800
+location: nan

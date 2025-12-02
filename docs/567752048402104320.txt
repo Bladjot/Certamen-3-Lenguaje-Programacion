@@ -1,0 +1,7 @@
+567752048402104320
+Southwest
+@SouthwestAir there really should not be guidance to call via phone if you are that back logged. I could have done it online in 3 minutes.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 10:26:51 -0800
+location: Washington DC

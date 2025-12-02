@@ -1,0 +1,7 @@
+568491765910659072
+Southwest
+@SouthwestAir for your loyal A-list customers it should be easier to get help and bring resolution to issues with your rewards program.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 11:26:13 -0800
+location: West Coast

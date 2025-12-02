@@ -1,0 +1,7 @@
+569609326253502465
+American
+@AmericanAir Can't get thru by phone to use a credit that's about to expire! #frustrated #aa.com
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:27:00 -0800
+location: nan

@@ -1,0 +1,7 @@
+567761193138671616
+US Airways
+@USAirways Flight Booking Problems a flight using credit from a previously Cancelled Flightled flight. Can't get thru on the phone and can't book online. Help please.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-17 11:03:11 -0800
+location: Charlottesville, Virginia

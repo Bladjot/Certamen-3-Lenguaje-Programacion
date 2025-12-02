@@ -1,0 +1,7 @@
+567807269707206657
+Delta
+@JetBlue pls find my bag, I need 2 get home! Very frustrating. Hope my bag is somewhere in @NY_NJairports. Leaving the #jfk w/o my luggage.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 14:06:17 -0800
+location: ÜT: 40.96513,-73.872957

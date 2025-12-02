@@ -1,0 +1,7 @@
+569945085158264832
+US Airways
+@USAirways US 728 returned to gate to get "MEL" sticker. Oh, look. We heard from pilot! No clue what an MEL sticker is. Anyone?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 11:41:12 -0800
+location: nan

@@ -1,0 +1,7 @@
+569665260375793664
+American
+@AmericanAir this is awful customer service.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:09:16 -0800
+location: New York, NY

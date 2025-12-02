@@ -1,0 +1,7 @@
+570066634976555008
+United
+@United an idea: monitor mileage members travel patterns enough to know when they change jobs/lose status...and make the transition easier.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 19:44:11 -0800
+location: Pacific Northwest

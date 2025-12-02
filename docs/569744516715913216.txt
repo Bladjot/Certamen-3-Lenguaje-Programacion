@@ -1,0 +1,7 @@
+569744516715913216
+American
+@AmericanAir this has happens so many times. It's just upsetting to see how poorly an airline treats their customers
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 22:24:12 -0800
+location: nan

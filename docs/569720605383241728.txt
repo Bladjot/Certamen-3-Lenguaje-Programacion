@@ -1,0 +1,7 @@
+569720605383241728
+American
+@AmericanAir I have "continued contacting" your phone reps for 7 hours and am still unable to get through. That's absurd and I am livid.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:49:11 -0800
+location: Cathedral Heights

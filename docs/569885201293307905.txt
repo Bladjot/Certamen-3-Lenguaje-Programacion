@@ -1,0 +1,7 @@
+569885201293307905
+American
+@AmericanAir awesome flight this morning on AA3230! Awesome crew and even landed early!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 07:43:14 -0800
+location: nan

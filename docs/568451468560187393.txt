@@ -1,0 +1,7 @@
+568451468560187393
+Virgin America
+@VirginAmerica  Flight Booking Problems last second flight for next week from SFO- to SAN any chance you want to gift me a promo code since I love you guys
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 08:46:06 -0800
+location: San Francisco

@@ -1,0 +1,7 @@
+568829465788350464
+US Airways
+@USAirways @AmericanAir How do I merge my miles accounts? Your sites tell me my info don't match even though I can't find a difference.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 09:48:07 -0800
+location: L.A.

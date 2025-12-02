@@ -1,0 +1,7 @@
+568634780264374272
+Delta
+@JetBlue #poorservice #poorcommunication #waitingsince 10:51 for bags frm flight 424!!! #jetblue
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 20:54:30 -0800
+location: nan

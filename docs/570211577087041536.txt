@@ -1,0 +1,7 @@
+570211577087041536
+Southwest
+@SouthwestAir no need, I know the status, you Cancelled Flightled instead of delaying the flight.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 05:20:08 -0800
+location: Minneapolis, MN

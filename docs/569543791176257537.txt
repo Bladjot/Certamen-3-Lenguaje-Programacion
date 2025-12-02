@@ -1,0 +1,7 @@
+569543791176257537
+United
+@united it's boarding time for ua3882 but no crewe
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 09:06:36 -0800
+location: earth

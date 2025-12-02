@@ -1,0 +1,7 @@
+570260984704700417
+United
+@united silly I'm flying delta today. Your united club staff and attendants are surly and unhelpful and always seem bothered by pesky folk
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 08:36:28 -0800
+location: Louisville

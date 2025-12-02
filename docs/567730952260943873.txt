@@ -1,0 +1,7 @@
+567730952260943873
+United
+@united actually we did not consider she might have made a mistake. She did not complain beyond that she indicated it on her reservation.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 09:03:01 -0800
+location: Bhutan

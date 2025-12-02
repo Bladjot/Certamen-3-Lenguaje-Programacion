@@ -1,0 +1,7 @@
+568208027775569920
+US Airways
+@USAirways I wish we were on our way. Now there's a problem w/de-icing.Three &amp; 1/2 hour delay so far &amp; sill not sure if we'll be taking off.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 16:38:45 -0800
+location: Queens, New York

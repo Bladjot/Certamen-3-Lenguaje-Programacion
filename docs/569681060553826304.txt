@@ -1,0 +1,7 @@
+569681060553826304
+United
+@united lol too little too Late Flight
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:12:03 -0800
+location: Iowa City, IA

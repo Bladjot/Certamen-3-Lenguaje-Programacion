@@ -1,0 +1,7 @@
+569914848991010816
+American
+@AmericanAir you have said the same thing to me over and over again but phrased differently. How about some actual help?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:41:03 -0800
+location: nan

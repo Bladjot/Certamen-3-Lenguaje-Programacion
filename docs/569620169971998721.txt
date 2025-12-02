@@ -1,0 +1,7 @@
+569620169971998721
+American
+@AmericanAir  flight to dca I need to change asap help can't get through
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:10:06 -0800
+location: Hawaii/Dallas/Tucson/LA

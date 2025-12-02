@@ -1,0 +1,7 @@
+569926945535860736
+Delta
+@JetBlue Very excited, for the first time this Sunday, March 1 I get to fly #JetBlue flight 123 #Mint from JFK. Looking forward :-)
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 10:29:07 -0800
+location: Wall Street • Manhattan • NYC

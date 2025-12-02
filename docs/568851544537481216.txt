@@ -1,0 +1,7 @@
+568851544537481216
+United
+@united why would a person take hours and hours of wait time just to tell a lie
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 11:15:51 -0800
+location: Baltimore, MD

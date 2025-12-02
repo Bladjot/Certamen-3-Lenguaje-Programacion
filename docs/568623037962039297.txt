@@ -1,0 +1,7 @@
+568623037962039297
+US Airways
+@USAirways They don't stand alone for me, I bought tix based on USAir confirmed flight. What good is confirmation if you change it anyway?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-19 20:07:51 -0800
+location: Caywood

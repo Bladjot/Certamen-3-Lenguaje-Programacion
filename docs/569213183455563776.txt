@@ -1,0 +1,7 @@
+569213183455563776
+Delta
+@JetBlue thanks so much for your condolences and quick response. It is very much appreciated
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 11:12:53 -0800
+location: CONCRETE JUNGLE

@@ -1,0 +1,7 @@
+568077686507229184
+US Airways
+@USAirways just realized my @AmericanAir advantage number wasn't used for my flight.  How do I get my ff miles?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 08:00:49 -0800
+location: Washington, DC

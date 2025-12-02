@@ -1,0 +1,7 @@
+569779173461336065
+Southwest
+@SouthwestAir you got me home over an hour and a half Late Flight but at least my baggage was delivered soaking wet
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 00:41:55 -0800
+location: Tucson, AZ

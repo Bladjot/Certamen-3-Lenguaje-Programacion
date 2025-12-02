@@ -1,0 +1,7 @@
+569727223357427712
+US Airways
+@USAirways this says it was estimated to leave an hour ago (it hasn't left yet) so thanks for this useful information. #TheWorstAirline
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 21:15:29 -0800
+location: Philly Yo

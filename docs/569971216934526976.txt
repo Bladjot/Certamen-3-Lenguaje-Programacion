@@ -1,0 +1,7 @@
+569971216934526976
+American
+@AmericanAir What's with your baggage handlers calling out at DFW today? No luggage onboard the planes.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:25:02 -0800
+location: The Specific Ocean

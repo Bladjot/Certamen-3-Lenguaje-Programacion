@@ -1,0 +1,7 @@
+567856355907760128
+Southwest
+@SouthwestAir it's not letting me DM you !!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 17:21:20 -0800
+location: nan

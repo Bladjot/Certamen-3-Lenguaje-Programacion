@@ -1,0 +1,7 @@
+569978298765344769
+American
+@AmericanAir for tomorrow some sites show flight 1642 from ewr Cancelled Flightled, is it?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 13:53:10 -0800
+location: NYC

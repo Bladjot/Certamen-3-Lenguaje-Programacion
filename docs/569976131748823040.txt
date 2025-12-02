@@ -1,0 +1,7 @@
+569976131748823040
+United
+@united how can your app show arriving aircraft is early but departing flight is delayed due to Late Flight arriving aircraft? @unfriendly
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 13:44:34 -0800
+location: nan

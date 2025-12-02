@@ -1,0 +1,7 @@
+568463093568835584
+Southwest
+@SouthwestAir yes can do
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 09:32:17 -0800
+location: San Francisco

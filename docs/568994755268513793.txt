@@ -1,0 +1,7 @@
+568994755268513793
+US Airways
+@USAirways Can you tell me why I waited 90 mins and then was charged the $25 phone change fee even tho I wasn't allow to make change online?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 20:44:55 -0800
+location: nan

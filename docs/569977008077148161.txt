@@ -1,0 +1,7 @@
+569977008077148161
+Delta
+@JetBlue received a voucher but if you want to improve relations be up front with passengers.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:48:03 -0800
+location: Brooklyn, NY

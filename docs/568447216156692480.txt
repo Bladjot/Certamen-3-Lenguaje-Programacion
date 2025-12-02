@@ -1,0 +1,7 @@
+568447216156692480
+Virgin America
+@VirginAmerica Comenity Bank is a joke!  Please change.  Nothing but constant problems with this bank
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 08:29:12 -0800
+location: S F

@@ -1,0 +1,7 @@
+567761297879646208
+Southwest
+@SouthwestAir Ive had on an airline. Everyone else has been great but she soured the whole experience for me. Hope she's not there next time
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 11:03:36 -0800
+location: Memphis, TN

@@ -1,0 +1,7 @@
+567895533664120832
+Southwest
+@southwestair,  Your male flight attendants must being playing a game called Who can be the Bigger Dick to People. Flight 952 to CHI-MID
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 19:57:00 -0800
+location: nan

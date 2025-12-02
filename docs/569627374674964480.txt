@@ -1,0 +1,7 @@
+569627374674964480
+Delta
+@JetBlue you're lucky we're still flying you after today's landing gear failure. Get your act together and help us sit with our kids!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 14:38:43 -0800
+location: nan

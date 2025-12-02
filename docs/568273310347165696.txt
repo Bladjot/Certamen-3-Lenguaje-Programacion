@@ -1,0 +1,7 @@
+568273310347165696
+US Airways
+@USAirways Will do :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 20:58:09 -0800
+location: Memphis, Tennessee

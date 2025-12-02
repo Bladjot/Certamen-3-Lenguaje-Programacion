@@ -1,0 +1,7 @@
+568995277580996609
+US Airways
+@USAirways -doing best??? Think not. Lousy way to run an airline. Why no online way to connect? You be on hold for 2hrs &amp; then zip
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 20:47:00 -0800
+location: Birmingham, AL

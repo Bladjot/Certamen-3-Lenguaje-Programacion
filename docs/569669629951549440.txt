@@ -1,0 +1,7 @@
+569669629951549440
+Southwest
+@SouthwestAir flights still going to DAL?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:26:38 -0800
+location: Belton, Tx

@@ -1,0 +1,7 @@
+568559216912416768
+Southwest
+@SouthwestAir you're going to compensate us for the two plane changes in Atlanta right?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 15:54:15 -0800
+location: nan

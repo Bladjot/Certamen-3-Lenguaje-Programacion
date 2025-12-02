@@ -1,0 +1,7 @@
+569726059937185793
+United
+@united was a sponsor of the oscars? No wonder it was a half hour delayed. #Oscars
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 21:10:52 -0800
+location: Buffalo, Ny

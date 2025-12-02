@@ -1,0 +1,7 @@
+569711436781322241
+American
+@AmericanAir  my fly is 1579  if do you have some news
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 20:12:45 -0800
+location: Leon. De los aldamas

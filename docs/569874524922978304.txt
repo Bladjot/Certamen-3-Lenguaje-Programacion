@@ -1,0 +1,7 @@
+569874524922978304
+Southwest
+@SouthwestAir is there a link to a site that displays any delays or Cancelled Flightations of flights to and from @DallasLoveField?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 07:00:49 -0800
+location: Grand Island, Nebraska, USA

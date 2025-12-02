@@ -1,0 +1,7 @@
+569151367702401025
+US Airways
+@USAirways on hold for 1hr, 30min. Not willing to hang in there as long as @franchise02. @AmericanAir answered in 7 min. U are not 1 yet.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 07:07:15 -0800
+location: Texas

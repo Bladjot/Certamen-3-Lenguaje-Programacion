@@ -1,0 +1,7 @@
+568043126775943168
+United
+@united @annricord January 15th.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 05:43:29 -0800
+location: Canmore

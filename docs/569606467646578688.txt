@@ -1,0 +1,7 @@
+569606467646578688
+American
+@AmericanAir hey! Tried calling customer service and was told there's a 2 hour wait. This has been for the past 4 hours. Thanks! You suck!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:15:39 -0800
+location: New Jersey

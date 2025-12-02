@@ -1,0 +1,7 @@
+569220232293720066
+Virgin America
+@VirginAmerica it’s just a bug report, guys
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 11:40:53 -0800
+location: San Francisco

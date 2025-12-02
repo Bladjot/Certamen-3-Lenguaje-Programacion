@@ -1,0 +1,7 @@
+568911315026063361
+United
+@united 5.5 hours Late Flightr I've been in transit for a total of twelve hours...please just change the plane on flight 600 this is ridiculous SFO
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 15:13:22 -0800
+location: Boston

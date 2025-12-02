@@ -1,0 +1,7 @@
+567688325276770306
+Southwest
+@SouthwestAir Guys, we've got to do something about the inability to check in online for international  flight that has... (1/2)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 06:13:38 -0800
+location: Downtown Dallas, Texas

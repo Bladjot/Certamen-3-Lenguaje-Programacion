@@ -1,0 +1,7 @@
+567750589040181248
+Southwest
+@SouthwestAir Almost 2 hours on hold now. I just need to Cancelled Flight a flight and get a refund. Other airlines are operating!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 10:21:03 -0800
+location: iPhone: 36.205651,-86.695243

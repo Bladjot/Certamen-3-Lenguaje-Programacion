@@ -1,0 +1,7 @@
+569594386066984960
+Virgin America
+.@VirginAmerica does that mean you don't have a policy for destroyed luggage?
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-22 12:27:38 -0800
+location: Las Vegas

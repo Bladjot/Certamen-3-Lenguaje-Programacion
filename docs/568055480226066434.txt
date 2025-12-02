@@ -1,0 +1,7 @@
+568055480226066434
+Southwest
+@SouthwestAir So today I call into Customer Service &amp; speak with Wendell Holton in the Dallas office &amp; I am told there is nothing he can do
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 06:32:35 -0800
+location: Somewhere over the rainbow.

@@ -1,0 +1,7 @@
+569451523878420480
+US Airways
+@USAirways checked into my flight yesterday and have been bumped to a Tuesday flight! Unacceptable and no agents to speak to!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 02:59:57 -0800
+location: Robesonia, PA

@@ -1,0 +1,7 @@
+568995447768899584
+United
+@united DM sent.  Thanks.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 20:47:40 -0800
+location: Omaha, Nebraska

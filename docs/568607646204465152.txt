@@ -1,0 +1,7 @@
+568607646204465152
+United
+@united landed at 9:40pm and have been standing waiting for bags that were loaded plane side..why isn't the crew here#tiredcustomer
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 19:06:41 -0800
+location: New York

@@ -1,0 +1,7 @@
+568602701623218177
+Delta
+@JetBlue how come you're responding to everyone else and not me #wtf
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 18:47:02 -0800
+location: New York

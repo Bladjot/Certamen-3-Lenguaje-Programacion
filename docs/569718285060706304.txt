@@ -1,0 +1,7 @@
+569718285060706304
+American
+@AmericanAir @USAirways cost me a day of vacation ($350 hotel stay), day of dog boarding, and a day of airport parking.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 20:39:58 -0800
+location: Philadelphia, PA

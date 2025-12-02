@@ -1,0 +1,7 @@
+569997215453855744
+American
+@AmericanAir basically u right now http://t.co/IN24Bpb7dw
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 15:08:20 -0800
+location: NYC - Miami - Chicago

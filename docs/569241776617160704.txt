@@ -1,0 +1,7 @@
+569241776617160704
+Delta
+@JetBlue Phew!! Did it!! (Pant. Wheeze) http://t.co/ZPZ78POeON
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 13:06:30 -0800
+location: 40.741909,-73.997189

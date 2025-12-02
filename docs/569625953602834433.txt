@@ -1,0 +1,7 @@
+569625953602834433
+United
+@united the most frustrating flying experience. One continuous "I dunno what time you will leave today. ". Dunno?! That's code for ...?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:33:05 -0800
+location: Richmond Virginia

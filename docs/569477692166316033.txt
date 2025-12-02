@@ -1,0 +1,7 @@
+569477692166316033
+Virgin America
+@VirginAmerica Is it normal to receive no reply from Central Baggage #baggageissues #smh
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 04:43:56 -0800
+location: Tokyo

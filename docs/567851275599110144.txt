@@ -1,0 +1,7 @@
+567851275599110144
+US Airways
+@USAirways Only water on flight 763 to DCA? This is the first time I've ever seen this happen. #ExecutivePlatinumMeansNothing #IWantCoffee
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 17:01:08 -0800
+location: nan

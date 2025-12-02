@@ -1,0 +1,7 @@
+570007324380631040
+American
+@AmericanAir Is there a way I can get a record of all the flights I've taken with you?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 15:48:31 -0800
+location: Kansas City, Missouri

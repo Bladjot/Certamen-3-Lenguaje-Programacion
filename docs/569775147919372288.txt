@@ -1,0 +1,7 @@
+569775147919372288
+US Airways
+@USAirways 4469, thank you for asking.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 00:25:55 -0800
+location: Washington DC

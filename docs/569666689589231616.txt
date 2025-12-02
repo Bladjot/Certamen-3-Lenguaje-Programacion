@@ -1,0 +1,7 @@
+569666689589231616
+American
+@AmericanAir @manuel_c "here for you" as in, yeah, we'll tweet platitudes at you so you'll think our Twitter bot cares? Or....
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:14:57 -0800
+location: Pekin

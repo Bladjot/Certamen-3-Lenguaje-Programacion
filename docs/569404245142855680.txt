@@ -1,0 +1,7 @@
+569404245142855680
+United
+@united after 443min of avoidable non-weather delays that #Appreciation link better be giving out #GoldenTickets
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 23:52:05 -0800
+location: Raleigh, NC

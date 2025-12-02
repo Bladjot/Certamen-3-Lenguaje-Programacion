@@ -1,0 +1,7 @@
+568214147025870848
+Delta
+@JetBlue I would go anywhere JetBlue goes.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 17:03:04 -0800
+location: nan

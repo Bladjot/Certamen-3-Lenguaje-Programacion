@@ -1,0 +1,7 @@
+570257377460514816
+United
+@united what's the point of asking for details about a #servicedog when you book if your flight crew doesn't read them? (Continued)
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 08:22:08 -0800
+location: nan

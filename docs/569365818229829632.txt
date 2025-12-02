@@ -1,0 +1,7 @@
+569365818229829632
+Delta
+@JetBlue I'm curious to know how do you compensate for passengers missing engagements due to a two hour wait on the tar-mat to get to a gate
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 21:19:24 -0800
+location: BB PIN:28AF78F4

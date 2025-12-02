@@ -1,0 +1,7 @@
+569962905493315585
+American
+@AmericanAir attached original ticket. flight number was 1672. isn't the experience I thought I would have. Terrible! http://t.co/5SdlyN9MSS
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 12:52:00 -0800
+location: nan

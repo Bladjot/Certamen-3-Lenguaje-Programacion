@@ -1,0 +1,7 @@
+568157856576475136
+US Airways
+@USAirways thanks.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 13:19:23 -0800
+location: Charlotte, NC

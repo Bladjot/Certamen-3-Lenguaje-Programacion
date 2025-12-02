@@ -1,0 +1,7 @@
+567904438834167809
+US Airways
+@USAirways my sister was supposed to leave at 10 am to go back to AL. She's only getting to NC now. Are you kidding me #NeverflyUSairways 👿
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 20:32:24 -0800
+location: nan

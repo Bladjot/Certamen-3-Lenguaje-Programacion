@@ -1,0 +1,7 @@
+570059116066017280
+Delta
+@jetblue you just directed me to your mobile website. Where is the direct link? GET IT TOGETHER!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 19:14:19 -0800
+location: Portland, Maine

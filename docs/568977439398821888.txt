@@ -1,0 +1,7 @@
+568977439398821888
+Virgin America
+@VirginAmerica any plans to start flying direct from DAL to LAS?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 19:36:07 -0800
+location: Texas

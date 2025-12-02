@@ -1,0 +1,7 @@
+568974681115459584
+Delta
+@JetBlue Traveling with two kids tomorrow (ages 7 and 4) domestic, do they need birth certificates to check in at airport?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 19:25:09 -0800
+location: Bushwood

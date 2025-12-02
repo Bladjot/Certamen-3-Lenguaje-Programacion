@@ -1,0 +1,7 @@
+569558156512088064
+US Airways
+@USAirways on delayed flight from Phil to stt and looks like we'll miss the car ferry to at john where our lodging is. Help with housing?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 10:03:41 -0800
+location: Madbury, NH

@@ -1,0 +1,7 @@
+569916731595972608
+United
+@united How do I get reimbursed for hotel and taxis for the Cancelled Flightation?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 09:48:32 -0800
+location: Bay Area, CA

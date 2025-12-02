@@ -1,0 +1,7 @@
+569631041356320768
+United
+@united I trust you enough to put my coat in my checked bag!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 14:53:18 -0800
+location: Chicagoland

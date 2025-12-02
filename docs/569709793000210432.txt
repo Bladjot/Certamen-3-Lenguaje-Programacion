@@ -1,0 +1,7 @@
+569709793000210432
+American
+@AmericanAir Nope, I have not been rebooked.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 20:06:14 -0800
+location: Wherevers not gonna get me hit

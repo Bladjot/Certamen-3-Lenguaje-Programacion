@@ -1,0 +1,7 @@
+569533098402009088
+Delta
+@JetBlue thanks for the info. Already doing it now before we board! Looking forward to the future upgrades! #JetBlue http://t.co/5Db9eSBNzG
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 08:24:06 -0800
+location: Florham Park, NJ

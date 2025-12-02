@@ -1,0 +1,7 @@
+568871143022731265
+United
+@united If a business decision is made that inconveniences and possibly causes lost customers, is it a good business decision? #Cranky
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 12:33:44 -0800
+location: New York State

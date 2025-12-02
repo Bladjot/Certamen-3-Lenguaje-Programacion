@@ -1,0 +1,7 @@
+569905298481274880
+American
+@AmericanAir By the time the 2 hrs passed before I got a call back, the ticket was more $$. It wasn't my fault yet I had to pay extra
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:03:06 -0800
+location: New York

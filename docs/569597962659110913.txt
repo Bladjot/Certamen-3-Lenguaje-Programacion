@@ -1,0 +1,7 @@
+569597962659110913
+American
+@AmericanAir I am trying to switch my flight to AA 1359 I am currently on AA 2401 at 6:50am MONDAY morn then AA 2586! Help Me!!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:41:51 -0800
+location: nan

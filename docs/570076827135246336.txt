@@ -1,0 +1,7 @@
+570076827135246336
+US Airways
+@USAirways is the worst. I have to pay $200 just to NOT take my first flight in a round trip! Otherwise they'll Cancelled Flight my whole flight.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 20:24:41 -0800
+location: Los Angeles, CA

@@ -1,0 +1,7 @@
+569297850456109056
+Delta
+@JetBlue your employee Charles cave at the gate at MSY went above and beyond to help try to help me find my glasses. Thought u should know
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 16:49:19 -0800
+location: Brooklyn

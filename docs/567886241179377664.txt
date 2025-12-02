@@ -1,0 +1,7 @@
+567886241179377664
+United
+@united hard to believe since your staff @ SFO checked them under someone by the name of #ritacomo who flew to EWR the same day.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 19:20:05 -0800
+location: San Francisco

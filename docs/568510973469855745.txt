@@ -1,0 +1,7 @@
+568510973469855745
+Delta
+.@JetBlue Wish you would make Austin, TX a hub. Missing you as my “only” airline for all my biz travel since I moved from BOS. :(
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 12:42:33 -0800
+location: ÜT: 48.837756,2.320214

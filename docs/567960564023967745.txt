@@ -1,0 +1,7 @@
+567960564023967745
+United
+@united You delayed a connection for customer service today now I'll be able to pay my final respects to a dear family member. Thank you :)
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 00:15:25 -0800
+location: nan

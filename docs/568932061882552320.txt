@@ -1,0 +1,7 @@
+568932061882552320
+US Airways
+@USAirways worst customer service experience ever today. Get it together.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 16:35:48 -0800
+location: nan

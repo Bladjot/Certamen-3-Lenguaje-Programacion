@@ -1,0 +1,7 @@
+567962289460137984
+United
+@united Hi, I read there are weather warnings on the East Coast of the US. Would a flight from LHR to SFO be affected?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 00:22:16 -0800
+location: London, UK

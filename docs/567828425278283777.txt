@@ -1,0 +1,7 @@
+567828425278283777
+Delta
+@jetblue is there no way to switch to earlier flight to JFK even if I checked a bag?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 15:30:20 -0800
+location: NYC

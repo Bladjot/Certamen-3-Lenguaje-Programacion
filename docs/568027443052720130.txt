@@ -1,0 +1,7 @@
+568027443052720130
+Delta
+@JetBlue gorgeous day, hope the flight back tomorrow AM is just as pleasant! Thanks
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 04:41:10 -0800
+location: London

@@ -1,0 +1,7 @@
+569651818453708800
+American
+@AmericanAir Flight's Cancelled Flightled. Website says to call phone number.Phone says to check online.  How am I supposed to get some help?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 16:15:51 -0800
+location: nan

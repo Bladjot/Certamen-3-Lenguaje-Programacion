@@ -1,0 +1,7 @@
+568431356037996545
+Delta
+@JetBlue customer service was so bad updating my points, once I use my next points, I won't be flying you. Point system is almost a sham.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 07:26:10 -0800
+location: New York, NY

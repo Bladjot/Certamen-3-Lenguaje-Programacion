@@ -1,0 +1,7 @@
+569894983265710081
+US Airways
+@USAirways thank you, but it says the website is down
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 08:22:06 -0800
+location: Dallas, TX

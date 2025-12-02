@@ -1,0 +1,7 @@
+570304178314190848
+Southwest
+@SouthwestAir my wife had been in group A in prev. flight but got bumped for some reason.  Alone with two kids. At least put her in group A
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 11:28:06 -0800
+location: Chappaqua NY

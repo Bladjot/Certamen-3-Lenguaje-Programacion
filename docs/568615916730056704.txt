@@ -1,0 +1,7 @@
+568615916730056704
+United
+@united it is cool. Your customer told me they didn't care either. It is expected
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-19 19:39:33 -0800
+location: Chicago, Illinois.

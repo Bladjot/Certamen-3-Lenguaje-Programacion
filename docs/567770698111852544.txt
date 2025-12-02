@@ -1,0 +1,7 @@
+567770698111852544
+Delta
+@JetBlue Is there something going on with your alerts? Flight's been delayed several times for my parents and i'm not receiving any alerts.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 11:40:57 -0800
+location: New York City

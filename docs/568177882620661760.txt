@@ -1,0 +1,7 @@
+568177882620661760
+Delta
+@JetBlue U say our safety is our highest priority but that doesn't extend 2 our property? This is totally nuts. http://t.co/xZY7pHKFGR
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-18 14:38:58 -0800
+location: ÜT: 40.96513,-73.872957

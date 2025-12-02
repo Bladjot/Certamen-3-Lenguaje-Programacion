@@ -1,0 +1,7 @@
+568423029371334656
+Virgin America
+@VirginAmerica, I submitted a status match request a while back and still haven’t heard! I’m flying on Monday. Can you look / accelerate?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 06:53:05 -0800
+location: San Francisco, CA

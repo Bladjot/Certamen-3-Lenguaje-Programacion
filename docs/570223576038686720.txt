@@ -1,0 +1,7 @@
+570223576038686720
+American
+@AmericanAir my flight number is 3M 50
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 06:07:49 -0800
+location: Fort Myers

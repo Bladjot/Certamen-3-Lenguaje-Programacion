@@ -1,0 +1,7 @@
+569211529880576001
+Delta
+@jetblue @viraltech creates institutional quality machine driven JetBlue Revenue predictive analytics and forecasts using public Big Data ;)
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 11:06:18 -0800
+location: nan

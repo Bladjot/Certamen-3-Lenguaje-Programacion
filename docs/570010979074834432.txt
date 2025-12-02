@@ -1,0 +1,7 @@
+570010979074834432
+US Airways
+@USAirways  I need to email customer service for help and a question, can you please provide the email address?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 16:03:02 -0800
+location: nan

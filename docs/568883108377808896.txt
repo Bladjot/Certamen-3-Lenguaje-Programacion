@@ -1,0 +1,7 @@
+568883108377808896
+United
+@united if I had a ticket refunded which I purchased, for my brother to fly...could I then used the refunded credit for me to fly? Respond
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 13:21:17 -0800
+location: nan

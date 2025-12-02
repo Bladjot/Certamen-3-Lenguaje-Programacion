@@ -1,0 +1,7 @@
+568912678917271552
+US Airways
+@USAirways you suck and you ruined my day. And my vacation isn't even until June.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 15:18:47 -0800
+location: philadelphia

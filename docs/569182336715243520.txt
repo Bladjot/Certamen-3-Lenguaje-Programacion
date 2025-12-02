@@ -1,0 +1,7 @@
+569182336715243520
+Virgin America
+@VirginAmerica We're on flight 910 Vegas to Boston today, checked in online but our bag count didn't register. Can I fix that somehow?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 09:10:18 -0800
+location: Somewhere outside of Fenway

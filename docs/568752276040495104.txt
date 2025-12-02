@@ -1,0 +1,7 @@
+568752276040495104
+Southwest
+@SouthwestAir If a travel advisory is posted for DEN, can I then make changes to my ticket? Anything I need to know before I call?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 04:41:24 -0800
+location: Denver

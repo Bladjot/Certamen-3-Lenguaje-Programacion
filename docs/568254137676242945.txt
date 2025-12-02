@@ -1,0 +1,7 @@
+568254137676242945
+Delta
+@JetBlue Found someone to ask. No answers. Landed almost 40 minutes ago.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 19:41:58 -0800
+location: Boston, MA

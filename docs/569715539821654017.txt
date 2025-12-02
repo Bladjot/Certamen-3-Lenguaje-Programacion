@@ -1,0 +1,7 @@
+569715539821654017
+American
+@AmericanAir You should really help @Cowboycerrone out, you are getting a TON of bad publicity right now #WillNeverFlyWithYou
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 20:29:04 -0800
+location: nan

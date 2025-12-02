@@ -1,0 +1,7 @@
+568722339833126912
+United
+@united 2.5 hour delay, misplaced bag, poor communication, and the worse: unsympathetic, confrontational gate agent. Not cool!!!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 02:42:26 -0800
+location: nan

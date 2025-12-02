@@ -1,0 +1,7 @@
+569749507623120897
+American
+@AmericanAir we will not be flying with you or US air again. The changes and Cancelled Flightations leading up to today's big finale is unacceptable.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 22:44:02 -0800
+location: nan

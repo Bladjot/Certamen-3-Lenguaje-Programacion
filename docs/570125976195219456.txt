@@ -1,0 +1,7 @@
+570125976195219456
+US Airways
+@USAirways thank you for reaching out to me. Hopefully my request will be fixed and I can remain a loyal customer.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 23:39:59 -0800
+location: DC

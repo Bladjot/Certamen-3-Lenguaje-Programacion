@@ -1,0 +1,7 @@
+569675527662874624
+American
+@AmericanAir checking into a flight on your website is about as easy as asking a bear to shit in a toilet #justsaying
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:50:04 -0800
+location: Redwood City, CA

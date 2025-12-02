@@ -1,0 +1,7 @@
+569249769421295616
+United
+@united is probably the least satisfactory airline I've ever been on. Never fails to disappoint.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 13:38:15 -0800
+location: just living the dream

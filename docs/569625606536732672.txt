@@ -1,0 +1,7 @@
+569625606536732672
+Delta
+@JetBlue flight 1025 JFK to TPA 8:05am on Saturday! One way ticket!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 14:31:42 -0800
+location: nan

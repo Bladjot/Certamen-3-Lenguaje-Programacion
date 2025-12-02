@@ -1,0 +1,7 @@
+567776714303238144
+US Airways
+@USAirways your customer service stinks. Trying to book a flight for hours now and keep getting hung up on. #usairwayssucks
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 12:04:52 -0800
+location: Portland, ME

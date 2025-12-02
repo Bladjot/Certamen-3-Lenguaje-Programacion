@@ -1,0 +1,7 @@
+567764953289875456
+Southwest
+@SouthwestAir just did, thank you
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 11:18:08 -0800
+location: 212 by way of the 504.

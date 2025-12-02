@@ -1,0 +1,7 @@
+569679296572170240
+American
+@AmericanAir you set a schedule try and keep it !!! #AAALWAYSLate Flight
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 18:05:03 -0800
+location: nan

@@ -1,0 +1,7 @@
+569620355783925760
+US Airways
+@USAirways made it to the Bahamas for work but my luggage didn't. I know #travel happens but is there anyway I can get more help/info?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 14:10:50 -0800
+location: Stillwater, MN

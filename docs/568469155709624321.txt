@@ -1,0 +1,7 @@
+568469155709624321
+Southwest
+@SouthwestAir if this flight is Cancelled Flighted or delayed any further I expect full compensation for my park ticket, hotel &amp; flight..
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 09:56:23 -0800
+location: CT

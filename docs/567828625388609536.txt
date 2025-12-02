@@ -1,0 +1,7 @@
+567828625388609536
+Southwest
+@SouthwestAir @poisonpill76 im in same boat.. 8am flight to Jacksonville... Get me out of here!!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 15:31:08 -0800
+location: Nashville,TN

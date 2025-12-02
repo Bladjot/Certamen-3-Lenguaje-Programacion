@@ -1,0 +1,7 @@
+569622678228705280
+United
+@united flight from san fransico to jfk was evacuated why?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:20:04 -0800
+location: WASHINGTON HEIGHTS, NYC

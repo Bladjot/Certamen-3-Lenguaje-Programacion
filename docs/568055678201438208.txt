@@ -1,0 +1,7 @@
+568055678201438208
+US Airways
+@USAirways Credit to my bank account for the two days of work that I've missed because of these Cancelled Flightlations.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-18 06:33:22 -0800
+location: where you want to be.

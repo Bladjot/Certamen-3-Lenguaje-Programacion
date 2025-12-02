@@ -1,0 +1,7 @@
+568633098474299392
+Delta
+@JetBlue what is going on? We arrived at 10:51pm Not One Bag Has Been Unloaded!! Flight 424
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 20:47:50 -0800
+location: nan

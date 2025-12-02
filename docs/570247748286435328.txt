@@ -1,0 +1,7 @@
+570247748286435328
+American
+@AmericanAir How are you going to compensate all of whose days/plans have been ruined because of the AA3490 delay/pending Cancelled Flightlation?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 07:43:52 -0800
+location: Toronto, Ontario, Canada

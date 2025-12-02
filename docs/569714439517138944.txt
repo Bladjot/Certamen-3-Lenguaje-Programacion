@@ -1,0 +1,7 @@
+569714439517138944
+American
+@AmericanAir we made it so no worries... You guys did good tonight and even put @ESPN_CoachMack on my flight #firstclass
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 20:24:41 -0800
+location: Buda Texas

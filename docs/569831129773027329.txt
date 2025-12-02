@@ -1,0 +1,7 @@
+569831129773027329
+United
+@united why do I check in online if I still have to wait in line for an hour to "check in" at counter? #fuckinlame  @naia_miaa
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 04:08:22 -0800
+location: nan

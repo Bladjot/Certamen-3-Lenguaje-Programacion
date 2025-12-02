@@ -1,0 +1,7 @@
+568036804542275584
+US Airways
+@usairways Trying to go Nashville to London and just have no idea when would be a good time to fly out of Nashville right now. @AmericanAir
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 05:18:22 -0800
+location: London

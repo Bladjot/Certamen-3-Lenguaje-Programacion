@@ -1,0 +1,7 @@
+568831166976884736
+Southwest
+@SouthwestAir delay is understandable but look at the time of the the flight and boarding time. Weird!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 09:54:53 -0800
+location: nan

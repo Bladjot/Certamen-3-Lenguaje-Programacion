@@ -1,0 +1,7 @@
+568130367900798976
+Southwest
+@SouthwestAir App Updated With #Passbook Support http://t.co/WrWqrUblPs via @ubergizmo
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 11:30:09 -0800
+location: Global

@@ -1,0 +1,7 @@
+569702495926267905
+US Airways
+@USAirways nightmare trying to get to Costa Rica from PHL today. Stuck in Miami and no one answers at 800 number.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:37:14 -0800
+location: New Jersey

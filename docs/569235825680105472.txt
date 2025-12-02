@@ -1,0 +1,7 @@
+569235825680105472
+Delta
+@JetBlue Can I bring a compact folding chair like this in a checked bag? http://t.co/9nivw9ftZw
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 12:42:51 -0800
+location: Louie's in the Bronx

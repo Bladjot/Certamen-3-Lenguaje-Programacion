@@ -1,0 +1,7 @@
+569972039844438016
+United
+@united During the same round trip, my NON-English speaking friend was stranded TWICE for 12+ hours each time! Most staff members were rude.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-23 13:28:18 -0800
+location: nan

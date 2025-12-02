@@ -1,0 +1,7 @@
+569621840844464128
+Delta
+@JetBlue never had an airline refuse to help sit parents with tiny kids. But this guy is willing to do it. #JetBlue http://t.co/MzZfGqfHu2
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 14:16:44 -0800
+location: nan

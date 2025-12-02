@@ -1,0 +1,7 @@
+568230023251042304
+US Airways
+@USAirways delays to the max
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 18:06:09 -0800
+location: Murfreesboro- Memphis

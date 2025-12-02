@@ -1,0 +1,7 @@
+569600927394631680
+American
+@AmericanAir @sweetmel If weather is bad, wouldn't your folks try extra hard to communicate...or load bags onto flight 1320...or...anything?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:53:38 -0800
+location: Pekin

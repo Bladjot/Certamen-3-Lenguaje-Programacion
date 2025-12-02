@@ -1,0 +1,7 @@
+568473686178717696
+Delta
+@JetBlue Sent my suggestion and comments via the link provided..
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 10:14:23 -0800
+location: nan

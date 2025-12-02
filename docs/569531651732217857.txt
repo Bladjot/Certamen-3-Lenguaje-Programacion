@@ -1,0 +1,7 @@
+569531651732217857
+Delta
+@JetBlue any idea when the flight will actually take off?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 08:18:21 -0800
+location: nan

@@ -1,0 +1,7 @@
+568440587411726336
+Southwest
+@SouthwestAir Every flight flown by me personally(about two round trips per month) is FULL. Still hard to believe. Fly 8 hours thru ATL?NO
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 08:02:51 -0800
+location: florida

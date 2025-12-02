@@ -1,0 +1,7 @@
+568200934507057152
+Delta
+@JetBlue Thx for the pointer, but Im good with the big monitor.  Any advice on who I should pick to come our of the Western Conf (NBA)?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 16:10:34 -0800
+location: nan

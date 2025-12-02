@@ -1,0 +1,7 @@
+570029442514333698
+American
+@AmericanAir yep as I saidi feel sorry for you that you have to run their account how embarrassing for you
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 17:16:24 -0800
+location: North Hollywood

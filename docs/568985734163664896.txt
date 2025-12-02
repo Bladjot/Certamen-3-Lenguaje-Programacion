@@ -1,0 +1,7 @@
+568985734163664896
+US Airways
+@USAirways worst customer service I've ever experienced. I'll never fly your airline ever again. I have to pay to sleep in Philly. Fuck you.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 20:09:04 -0800
+location: Been inside your mum since '92

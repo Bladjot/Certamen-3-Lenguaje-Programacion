@@ -1,0 +1,7 @@
+569597857013084160
+US Airways
+@USAirways -- I've been on hold 40 mins to Cancelled Flight my reservation for this afternoon. Is there another way? Web tells me to call.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:41:26 -0800
+location: The Wilming Town

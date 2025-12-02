@@ -1,0 +1,7 @@
+570255853296746496
+American
+@AmericanAir if I've booked an AA award on USAir metal, and space opens up on AA metal, can I change to the AA flight without fees?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 08:16:04 -0800
+location: Wellesley, MA

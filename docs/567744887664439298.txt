@@ -1,0 +1,7 @@
+567744887664439298
+United
+@united costumer service sucks! Waiting for a week for a response
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 09:58:24 -0800
+location: nan

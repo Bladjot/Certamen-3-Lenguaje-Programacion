@@ -1,0 +1,7 @@
+569992414653362176
+US Airways
+@USAirways Your "moveup" policy really sucks. United has a 24 hour policy for this with status. I was wanting to move up from 5am to 7am...
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 14:49:16 -0800
+location: Philadelphia, PA

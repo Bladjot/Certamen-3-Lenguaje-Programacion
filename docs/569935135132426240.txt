@@ -1,0 +1,7 @@
+569935135132426240
+United
+@united since bulkhead seats cannot have bags on floor, why don't u reserve o/head space above those seats? In 1B on UA246 - not impressed
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 11:01:39 -0800
+location: Vancouver BC

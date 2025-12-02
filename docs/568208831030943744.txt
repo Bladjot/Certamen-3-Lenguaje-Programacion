@@ -1,0 +1,7 @@
+568208831030943744
+Delta
+@JetBlue third JetBlue flight in less than a week. All Late Flight not for weather.  Reliability going downhill.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 16:41:56 -0800
+location: nan

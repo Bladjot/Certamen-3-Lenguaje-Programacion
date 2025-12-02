@@ -1,0 +1,7 @@
+568937741037088768
+US Airways
+@USAirways Now the next plane had a broken seat!  My row!  Another hour delay!  #mad
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 16:58:22 -0800
+location: nan

@@ -1,0 +1,7 @@
+569524116769914882
+Delta
+@JetBlue yup we know, not your fault, just not ideal sittin for over an hour but as always your staff is great!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 07:48:25 -0800
+location: Southbury, CT

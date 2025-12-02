@@ -1,0 +1,7 @@
+570300248553349120
+Virgin America
+@VirginAmerica Really missed a prime opportunity for Men Without Hats parody, there. https://t.co/mWpG7grEZP
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:12:29 -0800
+location: Los Angeles

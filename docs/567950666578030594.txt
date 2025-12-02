@@ -1,0 +1,7 @@
+567950666578030594
+Delta
+@JetBlue Change in the Air for Travelers, Investors - @BloombergNews http://t.co/6redD3vC73
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 23:36:05 -0800
+location: USA

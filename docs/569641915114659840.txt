@@ -1,0 +1,7 @@
+569641915114659840
+American
+@AmericanAir while I'm aggravated - shouldn't baggage fees disappear now that gas prices have dropped?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 15:36:30 -0800
+location: Boston, MA

@@ -1,0 +1,7 @@
+569900147343265792
+Southwest
+@SouthwestAir open seating is like an open marriage, there's so much love for strangers!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 08:42:38 -0800
+location: nan

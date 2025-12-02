@@ -1,0 +1,7 @@
+569621047353450496
+Delta
+@JetBlue Third straight time that my flight has been delayed flying with you guys. This will be my last trip with you.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:13:35 -0800
+location: nan

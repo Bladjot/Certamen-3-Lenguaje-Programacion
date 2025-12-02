@@ -1,0 +1,7 @@
+568033591973847040
+US Airways
+@USAirways @BohnJai they lost my bag @PHL baggage handlers broke open my bag and stole my camera
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 05:05:36 -0800
+location: nan

@@ -1,0 +1,7 @@
+569300435091251200
+US Airways
+@USAirways So you Cancelled Flightled my flight AGAIN? are you paying for my hotel?!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 16:59:35 -0800
+location: nan

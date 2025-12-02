@@ -1,0 +1,7 @@
+568051218477654016
+Southwest
+@SouthwestAir FS4VE7 when I corrected the attendants error she gave me attitude made a rude show of taking back nuts&amp; said "well i was Late Flight"
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 06:15:39 -0800
+location: Central Jersey

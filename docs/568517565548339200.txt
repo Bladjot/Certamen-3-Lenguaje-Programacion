@@ -1,0 +1,8 @@
+568517565548339200
+Virgin America
+@VirginAmerica
+wjere is our luggage #so slow at lax
+sentiment: negative
+negativereason: longlines
+created: 2015-02-19 13:08:44 -0800
+location: nan

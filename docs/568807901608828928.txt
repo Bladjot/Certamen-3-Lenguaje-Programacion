@@ -1,0 +1,7 @@
+568807901608828928
+US Airways
+@USAirways We've been sitting on this plane for almost an hour, waiting for it to be fueled. Shouldn't that have been done b4 we got on????
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 08:22:26 -0800
+location: Pittsburgh, PA

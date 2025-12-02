@@ -1,0 +1,7 @@
+567831160748916736
+Southwest
+@SouthwestAir thanks! I expected a wait... Just not that long. :)
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 15:41:13 -0800
+location: Franklin, TN

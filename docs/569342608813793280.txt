@@ -1,0 +1,7 @@
+569342608813793280
+Southwest
+@SouthwestAir been on hold over an hr to rebook a Cancelled Flighted flight. Do you have anyone working???
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 19:47:10 -0800
+location: nan

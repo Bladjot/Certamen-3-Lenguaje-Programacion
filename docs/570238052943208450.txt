@@ -1,0 +1,7 @@
+570238052943208450
+American
+@AmericanAir Just got a call from baggage dept. "...still looking for your property". It's went missing 1/28. PRERECORDED NO HUMAN SERVICE!!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 07:05:20 -0800
+location: nan

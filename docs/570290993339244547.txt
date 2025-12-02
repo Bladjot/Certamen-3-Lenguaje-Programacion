@@ -1,0 +1,7 @@
+570290993339244547
+United
+@united I sure did.   I had to drive a total of 3 hours to get my own bag.  I'd like to explain that debacle but no one wants to talk to me.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 10:35:42 -0800
+location: Parkersburg, WV

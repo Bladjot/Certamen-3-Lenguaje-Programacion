@@ -1,0 +1,7 @@
+570196895383080960
+American
+@AmericanAir having trouble Flight Booking Problems a seat on US84 11 March, operated by AA. Neither airline's website will allow seat selection?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 04:21:48 -0800
+location: Glasgow via Cork

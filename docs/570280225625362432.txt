@@ -1,0 +1,7 @@
+570280225625362432
+American
+@AmericanAir flight 1181 out of Vegas to DFW. Cancelled Flightled Sunday and Monday, no whammie today!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 09:52:55 -0800
+location: nan

@@ -1,0 +1,7 @@
+568587181264146432
+United
+@united 3 Gate changes in 30 minutes for flight to Roanoke and flight to sous falls in O'hare... Painful
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 17:45:22 -0800
+location: Los Angeles

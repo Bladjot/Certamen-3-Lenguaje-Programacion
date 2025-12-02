@@ -1,0 +1,7 @@
+569989551051177984
+American
+@AmericanAir check on what? Our broken tablet! See attached picture. #media #filmcrew #nbc #cnn http://t.co/Uq2ooPjPwg
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-23 14:37:53 -0800
+location: Orlando, FL

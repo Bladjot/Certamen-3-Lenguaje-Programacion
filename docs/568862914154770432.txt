@@ -1,0 +1,7 @@
+568862914154770432
+United
+@united MIA-EWR #384 😄😄😄 excellent crew. EWR-IAD #3589 😡😡😡 No crew to load bags - waiting w/ door open freezing. 20 mins past departure.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-20 12:01:02 -0800
+location: nan

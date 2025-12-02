@@ -1,0 +1,7 @@
+569695553644322816
+United
+@united can we get an explanation on why UA978 from São Paulo to Houston has been delayed? Now we're hearing from crew about Cancelled Flightlations.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 19:09:39 -0800
+location: San Francisco, California

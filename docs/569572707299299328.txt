@@ -1,0 +1,7 @@
+569572707299299328
+Delta
+@JetBlue thanks for making my trip home #MintyFresh next #brandmance flight I'll take more selfies! #LOVE #travel #business
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 11:01:30 -0800
+location: New York, NY

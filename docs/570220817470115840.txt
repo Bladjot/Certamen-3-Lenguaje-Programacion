@@ -1,0 +1,7 @@
+570220817470115840
+Southwest
+@SouthwestAir Thank you for the tip!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 05:56:51 -0800
+location: Manchester, NH

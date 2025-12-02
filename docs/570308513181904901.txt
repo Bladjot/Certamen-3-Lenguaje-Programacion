@@ -1,0 +1,7 @@
+570308513181904901
+Delta
+@JetBlue flight 1041 to Savannah, GA
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:45:20 -0800
+location: Georgia

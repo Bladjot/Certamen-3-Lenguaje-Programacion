@@ -1,0 +1,7 @@
+569604041141039104
+US Airways
+@USAirways  Mad love http://t.co/4ojrSDWPkK NYC-
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 13:06:00 -0800
+location: everywhere, all the time.

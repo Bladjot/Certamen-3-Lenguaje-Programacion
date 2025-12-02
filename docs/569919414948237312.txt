@@ -1,0 +1,7 @@
+569919414948237312
+American
+.@AmericanAir @TyWinter it's really the small things--the details--that make an excellent experience or a really irritating one.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 09:59:11 -0800
+location: KFAR

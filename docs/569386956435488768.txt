@@ -1,0 +1,7 @@
+569386956435488768
+Delta
+@JetBlue great flight on a brand new jet. Great seating. Beautiful plane. Big fan of this airline.
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 22:43:23 -0800
+location: New York City

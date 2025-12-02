@@ -1,0 +1,7 @@
+568652355346022400
+United
+@United agent did help me. My point: there's a problem &amp; I don't want it to mess up somebody else's plans. Can u flow this to tech team pls?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 22:04:21 -0800
+location: Los Angeles, California

@@ -1,0 +1,7 @@
+568433610765815808
+United
+@united the Premier desk was able to rebook me with our friends at @AmericanAir. Only problem is now I have to pay for a checked bag :/
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 07:35:08 -0800
+location: Connecticut

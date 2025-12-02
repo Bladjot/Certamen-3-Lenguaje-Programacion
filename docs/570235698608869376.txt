@@ -1,0 +1,7 @@
+570235698608869376
+United
+@united This isn't a one time thing either! It's a shocking pattern of repeated neglect and disrespect.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 06:55:59 -0800
+location: Seattle

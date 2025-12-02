@@ -1,0 +1,7 @@
+568793221809250304
+US Airways
+@USAirways I already let them know and sent 4 complaints.  Got a call back finally when I was asleep and there is no return call back #
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 07:24:06 -0800
+location: nan

@@ -1,0 +1,7 @@
+570030173300658176
+US Airways
+@USAirways changed our flight 6 times in 1 trip. Bumped to @Delta now &amp; having great experience. Never. Flying. US Air again. Never.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 17:19:18 -0800
+location: Rochester, NY

@@ -1,0 +1,7 @@
+568276805972570112
+United
+@united I can't tell/purchase through the website because they put us on a Lufthansa flight for the first leg.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 21:12:03 -0800
+location: Washington D.C.

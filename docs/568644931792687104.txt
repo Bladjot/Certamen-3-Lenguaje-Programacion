@@ -1,0 +1,7 @@
+568644931792687104
+US Airways
+@USAirways we will...sunday! Just a few days away
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 21:34:51 -0800
+location: New York, New York

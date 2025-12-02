@@ -1,0 +1,7 @@
+569658686999818241
+American
+@AmericanAir My baggage is lost, my flight Cancelled Flightled and i get no accommodations? Not even to another airline. At least one free hotel?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 16:43:09 -0800
+location: KY

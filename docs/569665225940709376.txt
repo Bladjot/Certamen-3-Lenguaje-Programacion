@@ -1,0 +1,7 @@
+569665225940709376
+American
+@AmericanAir everything's good now brothaaaaaa
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 17:09:08 -0800
+location: nan

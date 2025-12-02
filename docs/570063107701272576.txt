@@ -1,0 +1,7 @@
+570063107701272576
+American
+@AmericanAir This is getting out of hand. I called Reservations to reserve the seats that it won't let me select online and there's a fee...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 19:30:10 -0800
+location: nan

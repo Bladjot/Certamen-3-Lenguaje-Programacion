@@ -1,0 +1,7 @@
+568085705479618560
+Southwest
+@SouthwestAir Customer relations line had busy signal too, called the normal line and the service rep thought I was dumb for not knowing.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 08:32:41 -0800
+location: Tennessee

@@ -1,0 +1,7 @@
+569804677472251904
+United
+@united Morning! 4603 has been delayed by 7 hours. Can you get me to Newark for my 10am meeting?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 02:23:16 -0800
+location: nan

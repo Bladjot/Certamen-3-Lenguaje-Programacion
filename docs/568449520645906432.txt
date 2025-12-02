@@ -1,0 +1,7 @@
+568449520645906432
+US Airways
+@USAirways on the DL, send Ethan some new pants and some "white revive" laundry tabs. He's a great guy, good crew, he's just, err, single.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 08:38:21 -0800
+location: Old City Philly

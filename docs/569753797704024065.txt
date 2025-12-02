@@ -1,0 +1,7 @@
+569753797704024065
+United
+@united Yes I did.  We headed out to de-ice 5 minutes after I sent it to you.  Made it to Austin, but am now waiting for the luggage.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 23:01:05 -0800
+location: nan

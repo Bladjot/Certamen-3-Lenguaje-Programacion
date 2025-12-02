@@ -1,0 +1,7 @@
+567843415716732928
+US Airways
+@USAirways I was told there is no record of my refund.  Can someone please help me. This has been a long day
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 16:29:54 -0800
+location: nan

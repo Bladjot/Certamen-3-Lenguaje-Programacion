@@ -1,0 +1,7 @@
+569925511394119680
+Delta
+“@JetBlue: Our fleet's on fleek. http://t.co/3Ltx7JKBo9” is fleek dead yet now?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:23:25 -0800
+location: OAKLAND CALIFORNIA

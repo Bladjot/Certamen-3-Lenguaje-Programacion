@@ -1,0 +1,7 @@
+567821839784939520
+Delta
+@JetBlue @ProfessorpaUL15 Always happy to help!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 15:04:10 -0800
+location: Washington, D.C.

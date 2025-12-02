@@ -1,0 +1,7 @@
+569638063825154049
+Southwest
+@SouthwestAir Thanks. 436. Only a minor delay so not a big deal. :)Appreciate the concern though. Boarding now. You do have amazing service!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 15:21:12 -0800
+location: nan

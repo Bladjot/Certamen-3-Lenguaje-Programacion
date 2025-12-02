@@ -1,0 +1,7 @@
+568848795733069824
+Southwest
+@SouthwestAir how oh how do we get tickets! ?!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 11:04:56 -0800
+location: Beaverton, OR

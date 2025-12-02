@@ -1,0 +1,7 @@
+569524497377861632
+US Airways
+@USAirways On re-accommodation number Lisa (Liza?) in Raleigh was very helpful
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 07:49:56 -0800
+location: Thicktown, Thickania

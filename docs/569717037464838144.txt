@@ -1,0 +1,7 @@
+569717037464838144
+American
+@AmericanAir ok no worries. Thanks for the straight story. It's appreciated.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 20:35:01 -0800
+location: Lewes, DE, USA

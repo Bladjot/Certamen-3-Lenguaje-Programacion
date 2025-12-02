@@ -1,0 +1,7 @@
+568085082746933248
+Southwest
+@SouthwestAir @love_dragonss AHHHH YES LAUREN
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 08:30:12 -0800
+location: Texas

@@ -1,0 +1,7 @@
+570210502955155456
+Southwest
+@SouthwestAir weather where? And at what time Cancelled Flighted? No I can't because meeting was today.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 05:15:52 -0800
+location: Minneapolis, MN

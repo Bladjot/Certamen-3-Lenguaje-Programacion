@@ -1,0 +1,7 @@
+569615215144226816
+United
+@united thx off the response, finally got through the 45 min wait and talked to someone.
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 13:50:24 -0800
+location: San Francisco Bay Area

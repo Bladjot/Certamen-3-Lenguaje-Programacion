@@ -1,0 +1,7 @@
+570203218686423041
+United
+@united how does it get Cancelled Flightled 10 hours before take off?
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 04:46:55 -0800
+location: nan

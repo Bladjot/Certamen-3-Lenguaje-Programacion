@@ -1,0 +1,7 @@
+569615753885970432
+Delta
+@JetBlue You also promised to change my wife's name on the account and it is also not done.  WTF?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 13:52:33 -0800
+location: Providence, RI

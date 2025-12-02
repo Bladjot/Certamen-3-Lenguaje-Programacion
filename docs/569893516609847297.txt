@@ -1,0 +1,7 @@
+569893516609847297
+American
+@AmericanAir as of now, will do my best to never fly w/ #AmericanAirlines ever again. Y'all have made this a day to remember.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 08:16:17 -0800
+location: Memphis, TN

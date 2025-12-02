@@ -1,0 +1,7 @@
+568644388001337344
+Delta
+@JetBlue 108 to Portland Maine
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 21:32:41 -0800
+location: Maine

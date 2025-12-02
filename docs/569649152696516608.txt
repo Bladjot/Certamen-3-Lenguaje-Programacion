@@ -1,0 +1,7 @@
+569649152696516608
+American
+@AmericanAir many trips coming up!  I will see you soon 😃
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 16:05:16 -0800
+location: Santa Monica, CA

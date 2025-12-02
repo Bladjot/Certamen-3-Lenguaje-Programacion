@@ -1,0 +1,7 @@
+569284887955558401
+Delta
+@JetBlue will I be charged a fee to do so?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 15:57:48 -0800
+location: nan

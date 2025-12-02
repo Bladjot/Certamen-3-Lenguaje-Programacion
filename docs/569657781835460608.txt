@@ -1,0 +1,7 @@
+569657781835460608
+United
+@united If an award is no longer showing available could it possible become available again?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 16:39:33 -0800
+location: nan

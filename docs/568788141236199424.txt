@@ -1,0 +1,7 @@
+568788141236199424
+US Airways
+@USAirways No. Just felt that you could do better in making the emails feel a little less of “We don’t care. We’re automated."
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 07:03:55 -0800
+location: 42.635976,-71.164046

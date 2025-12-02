@@ -1,0 +1,7 @@
+569664250521763840
+United
+@united can I get on a stand by list from ASE to ORD? I'm the only poor person in Aspen, that's why I'm asking for standby on twitter.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:05:15 -0800
+location: Chicago, IL

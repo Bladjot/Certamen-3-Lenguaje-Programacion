@@ -1,0 +1,7 @@
+569676535973744640
+United
+@united good try but @SouthwestAir got her here safer and sooner
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:54:04 -0800
+location: nan

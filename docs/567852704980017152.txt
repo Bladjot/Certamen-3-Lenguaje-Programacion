@@ -1,0 +1,7 @@
+567852704980017152
+United
+@united you guys suck. You delay flights but can't hold the connectors 10 minutes??? #WorstAirlineEver
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 17:06:49 -0800
+location: Napa

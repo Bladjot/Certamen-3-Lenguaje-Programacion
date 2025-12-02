@@ -1,0 +1,7 @@
+570203916643766273
+Southwest
+@SouthwestAir customer service you shouldn't use those words wasted my time and took my money #BadBussiness #Theft http://t.co/63zaQ2lt8f
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 04:49:42 -0800
+location: nan

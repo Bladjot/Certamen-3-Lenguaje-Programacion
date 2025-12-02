@@ -1,0 +1,7 @@
+569895723208040448
+American
+@AmericanAir @united contact me, or do something to alleviate this terrible, terrible service. But no, your 22 year old social media guru
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 08:25:03 -0800
+location: nan

@@ -1,0 +1,7 @@
+568911350656675841
+Virgin America
+@VirginAmerica your inflight team makes the experience #amazing!
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 15:13:30 -0800
+location: Boca Raton FL 33434

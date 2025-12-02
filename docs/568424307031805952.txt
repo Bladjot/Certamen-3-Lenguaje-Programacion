@@ -1,0 +1,7 @@
+568424307031805952
+United
+@united that's what I have been told. But refund doesn't really makeup for the inconvenience caused and the missed meeting... Does it?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 06:58:10 -0800
+location: Bangalore

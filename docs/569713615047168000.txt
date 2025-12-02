@@ -1,0 +1,7 @@
+569713615047168000
+American
+@AmericanAir why don't you take care of @Cowboycerrone flight screw ups
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 20:21:25 -0800
+location: Sarasota, FL

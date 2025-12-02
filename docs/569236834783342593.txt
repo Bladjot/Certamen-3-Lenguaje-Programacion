@@ -1,0 +1,7 @@
+569236834783342593
+United
+@united flight just Cancelled Flightled. This is ridiculous
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 12:46:51 -0800
+location: Chicago, IL

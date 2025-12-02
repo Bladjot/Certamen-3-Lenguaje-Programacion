@@ -1,0 +1,7 @@
+567799932897210368
+Southwest
+@SouthwestAir too Late Flight now
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 13:37:07 -0800
+location: Palo Alto, California

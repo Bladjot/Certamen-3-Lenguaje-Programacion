@@ -1,0 +1,7 @@
+569273230579478529
+Southwest
+@SouthwestAir Great #BlackHistoryMonth commercial! Thx! #ATL #singer #musician #life #BlackLivesMatter
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 15:11:29 -0800
+location: Atlanta

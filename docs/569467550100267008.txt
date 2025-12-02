@@ -1,0 +1,7 @@
+569467550100267008
+US Airways
+@USAirways OK, I guess the weather has been rough but I have been trying to sort out missing air-miles for days. Any suggestions?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 04:03:38 -0800
+location: nan

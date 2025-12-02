@@ -1,0 +1,7 @@
+570301929580048385
+American
+@AmericanAir I did
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 11:19:10 -0800
+location: Cincinnati, Ohio

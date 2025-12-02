@@ -1,0 +1,7 @@
+568559580717805568
+Delta
+@JetBlue Well, I fly into Huntsville, AL. But I'd take either Nashville or Birmingham too!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 15:55:42 -0800
+location: NYC

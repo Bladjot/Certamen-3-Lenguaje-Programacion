@@ -1,0 +1,7 @@
+567751134476259328
+US Airways
+@USAirways @AmericanAir what a joke of a company today reminded me why I never book with you
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 10:23:13 -0800
+location: CT to Queens

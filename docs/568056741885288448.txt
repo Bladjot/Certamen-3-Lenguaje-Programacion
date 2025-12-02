@@ -1,0 +1,7 @@
+568056741885288448
+Southwest
+@SouthwestAir Therefore, since I've received no recourse through phone I have submitted an email complaint &amp; a letter via mail will follow.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 06:37:35 -0800
+location: Somewhere over the rainbow.
