@@ -1,0 +1,7 @@
+570265300685488129
+American
+@AmericanAir your definition and mine of 10 min is vastly different. I understand the need to get off the plane for maint, but be honest.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 08:53:37 -0800
+location: nan

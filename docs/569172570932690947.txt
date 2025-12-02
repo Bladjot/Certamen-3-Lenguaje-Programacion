@@ -1,0 +1,7 @@
+569172570932690947
+Southwest
+@SouthwestAir 2 hours on hold trying to reschedule Cancelled Flightled flight. Hold music stopped, but no one's answering. How can I reach a rep?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 08:31:30 -0800
+location: Columbus, Ohio

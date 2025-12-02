@@ -1,0 +1,7 @@
+567938175634702336
+United
+@United @UnitedAirlines and the hits keep on coming. http://t.co/44ZHmfDIW6 #unitedfail #unitedwithivy
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 22:46:27 -0800
+location: Ventura, California

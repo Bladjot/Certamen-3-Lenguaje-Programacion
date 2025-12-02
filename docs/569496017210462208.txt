@@ -1,0 +1,7 @@
+569496017210462208
+US Airways
+@USAirways passengers sitting on plane for two hours flight #4663 from CMH!!!  All other flights have left #usairwaysfail #worstairlineever
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 05:56:45 -0800
+location: Columbus, OH

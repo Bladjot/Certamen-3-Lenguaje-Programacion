@@ -1,0 +1,7 @@
+568920810947272704
+Delta
+.@JetBlue i'm sorry.  Boarding chaos is underway.  Please query again post scrum.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-20 15:51:06 -0800
+location: planet earth

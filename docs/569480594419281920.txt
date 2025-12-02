@@ -1,0 +1,7 @@
+569480594419281920
+US Airways
+@USAirways @AmericanAir working for me. Tight cx @Mia so they're delaying our flight. Twice. In 20 secs @jabevan221 http://t.co/G3Uy6w28QH
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 04:55:28 -0800
+location: Old City Philly

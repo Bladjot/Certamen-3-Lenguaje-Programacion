@@ -1,0 +1,7 @@
+568288672627318784
+United
+@united unavailable leg that registered hours after being sold out. Only option to offer after 45min was +$400/ticket or Travelocity (2of2)
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 21:59:12 -0800
+location: Austin, TX

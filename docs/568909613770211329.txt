@@ -1,0 +1,7 @@
+568909613770211329
+United
+@united Yes but unbelievable.  Should have a free fare lock
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 15:06:36 -0800
+location: Radford HS

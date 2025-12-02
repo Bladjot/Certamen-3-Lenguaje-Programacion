@@ -1,0 +1,7 @@
+569380122194636800
+United
+@united I'm a first time solo female traveller and it's pretty scary being in a foreign place not knowing where your belongings are...
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 22:16:14 -0800
+location: ☁️

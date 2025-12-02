@@ -1,0 +1,7 @@
+568702964623216643
+United
+Thank you United! “@united: @dan_roam That's a beautiful place to stay a day longer. Have you been re-booked? If not, let me know. ^MN”
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 01:25:27 -0800
+location: nan

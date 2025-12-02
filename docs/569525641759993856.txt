@@ -1,0 +1,7 @@
+569525641759993856
+Delta
+@JetBlue whatever your lil #mint heart desires! http://t.co/WmX12F33ZC
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 07:54:28 -0800
+location: New York, NY

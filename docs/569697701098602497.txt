@@ -1,0 +1,7 @@
+569697701098602497
+American
+@AmericanAir I was worried when my bag went SAN to DCA 24 hours before me. But our reunion was an organized  breeze! http://t.co/uOARyQ98PU
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 19:18:11 -0800
+location: Carlsbad, So Cal from Hawaii

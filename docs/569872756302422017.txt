@@ -1,0 +1,7 @@
+569872756302422017
+American
+@AmericanAir are you anticipating weather-reLate Flightd Cancelled Flightations for afternoon departures out of AUS today?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 06:53:47 -0800
+location: nan

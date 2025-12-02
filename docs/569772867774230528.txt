@@ -1,0 +1,7 @@
+569772867774230528
+US Airways
+@USAirways three hour wait and counting waiting for reservations on the phone. Are you serious!?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 00:16:52 -0800
+location: Blackwood, NJ

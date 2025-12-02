@@ -1,0 +1,7 @@
+568526847320784896
+Virgin America
+@VirginAmerica Sent a couple messages to the email you provided but to no avail. Will try again next year. Cheers.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 13:45:37 -0800
+location: Telluride, CO

@@ -1,0 +1,7 @@
+568437285605257216
+Delta
+@JetBlue Cancelled Flightling tickets for 3 best friends going on vacation and never told us #jetblue #fixthis #ripoff @ZKatcher @bretharold
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-19 07:49:44 -0800
+location: nan

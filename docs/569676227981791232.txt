@@ -1,0 +1,7 @@
+569676227981791232
+American
+@AmericanAir @CineDrones I just wish that a team member would pick up the phone at this point, let alone be courteous or helpful 😳
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 17:52:51 -0800
+location: London, England

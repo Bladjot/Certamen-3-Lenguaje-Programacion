@@ -1,0 +1,7 @@
+568807451249627136
+Southwest
+@SouthwestAir THANK YOU SO MUCH YOURE AMAZING IM GOING TO CRY OMG
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 08:20:38 -0800
+location: nan

@@ -1,0 +1,7 @@
+569829233423360000
+American
+@AmericanAir , CHECK DM PLEASE!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 04:00:50 -0800
+location: nan

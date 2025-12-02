@@ -1,0 +1,7 @@
+568824637267685377
+Virgin America
+@VirginAmerica Do you guys know your check-in links from emails are broken? http://t.co/2npXB6oBMr
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 09:28:56 -0800
+location: San Francisco

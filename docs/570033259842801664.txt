@@ -1,0 +1,7 @@
+570033259842801664
+American
+@AmericanAir has no idea what they're doing. Delay 1 flight from 5pm to 7:40pm then delay another TO THE SAME DESTINATION  @ THE SAME TIME.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 17:31:34 -0800
+location: Menomonee Falls, WI, USA

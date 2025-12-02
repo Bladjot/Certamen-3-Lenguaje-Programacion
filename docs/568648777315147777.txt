@@ -1,0 +1,7 @@
+568648777315147777
+Delta
+@JetBlue - Yes. Best case scenario I get my gear Late Flight Friday, early Saturday. Camp starts at 6AM tomorrow #toolittletooLate Flight
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-19 21:50:08 -0800
+location: nan

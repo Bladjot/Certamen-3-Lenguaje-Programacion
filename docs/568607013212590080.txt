@@ -1,0 +1,7 @@
+568607013212590080
+United
+@united I was rebooked, however it would have been nice not to have to wait an extra 90 min at the airport.  How will you make this right?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 19:04:10 -0800
+location: nan

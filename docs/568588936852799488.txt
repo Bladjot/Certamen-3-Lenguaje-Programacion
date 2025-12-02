@@ -1,0 +1,7 @@
+568588936852799488
+Delta
+@JetBlue yes thankfully! Catering just got here and now they are loading, but very frustrated. I was supposed to be there by 10-10:30
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 17:52:21 -0800
+location: ✈️FL/NJ/NYC

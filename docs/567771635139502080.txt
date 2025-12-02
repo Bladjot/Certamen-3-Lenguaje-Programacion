@@ -1,0 +1,7 @@
+567771635139502080
+US Airways
+@USAirways on hold for 2 hours. You know what just keep my money
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 11:44:41 -0800
+location: CT to Queens

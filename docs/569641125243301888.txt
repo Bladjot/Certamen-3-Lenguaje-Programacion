@@ -1,0 +1,7 @@
+569641125243301888
+United
+.@united Really? Was bumped down from Gold status, asked to pay $$ to keep it, and get fewer miles... How is that worth it?
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 15:33:22 -0800
+location: nan

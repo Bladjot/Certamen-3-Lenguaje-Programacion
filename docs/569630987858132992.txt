@@ -1,0 +1,7 @@
+569630987858132992
+United
+@united of course. But interesting how United doesn't seem to have a good sense on what's happening with flight
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 14:53:05 -0800
+location: Toronto

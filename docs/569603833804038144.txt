@@ -1,0 +1,7 @@
+569603833804038144
+US Airways
+@USAirways more like USDELAY-ways. Another long 'paperwork' reLate Flightd delay - Friday in Charlotte. Today in Philly. #letsgoalready
+sentiment: negative
+negativereason: longlines
+created: 2015-02-22 13:05:11 -0800
+location: Chicago, IL

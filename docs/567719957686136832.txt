@@ -1,0 +1,7 @@
+567719957686136832
+Delta
+@JetBlue please provide me your direct email for me to explain.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 08:19:20 -0800
+location: nan

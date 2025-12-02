@@ -1,0 +1,7 @@
+567983341405745152
+Southwest
+@SouthwestAir I love and appreciate the fact that you guys rarely Cancelled Flight flights and are on time, but I need a Cancelled Flightlation this time. 🙏
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 01:45:55 -0800
+location: Nashville, Tn

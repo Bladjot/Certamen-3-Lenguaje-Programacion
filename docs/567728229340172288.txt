@@ -1,0 +1,7 @@
+567728229340172288
+Southwest
+@SouthwestAir kudos to the #RSW CS crew for re-routing PAX to alleviate Over sale due to down graded EQP 800 now 500
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 08:52:12 -0800
+location: nan

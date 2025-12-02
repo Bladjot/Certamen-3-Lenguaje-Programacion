@@ -1,0 +1,7 @@
+568552050797068290
+US Airways
+@UsAirways  your person taking tickets is rude and now we are delayed 4-50 minutes because you overfilled fuel on the plane #500.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-19 15:25:46 -0800
+location: Shenanigan Central

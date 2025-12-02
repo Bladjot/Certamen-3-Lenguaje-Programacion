@@ -1,0 +1,7 @@
+569219080080658432
+Southwest
+@SouthwestAir flight 3899 HOU to MDW aboard a Boeing 73, boarded for an on-time 2PM departure. #WheelsUp #fb
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 11:36:18 -0800
+location: Spring, TX, Chicago and others

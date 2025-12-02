@@ -1,0 +1,7 @@
+569208067243401217
+United
+@united I was able to get a seat on earlier flight sfo to ind.  Can you add me to 6pm ord to IND?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 10:52:33 -0800
+location: nan

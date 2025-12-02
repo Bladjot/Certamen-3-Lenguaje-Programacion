@@ -1,0 +1,7 @@
+570223582380494848
+American
+@AmericanAir Yes, thank you. Just not how I wanted to start my vacation!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 06:07:50 -0800
+location: Charlotte, NC

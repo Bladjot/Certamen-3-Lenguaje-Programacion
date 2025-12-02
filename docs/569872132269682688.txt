@@ -1,0 +1,7 @@
+569872132269682688
+American
+@AmericanAir You moved us onto 6.55pm but there is availability on 1.50 and 3.30.   No answer on your phone. Have young children.  HELP!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 06:51:18 -0800
+location: nan

@@ -1,0 +1,7 @@
+570115302991777792
+United
+@united   It's too bad UA has had another unforeseeable operational issue on my return flight.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 22:57:35 -0800
+location: nan

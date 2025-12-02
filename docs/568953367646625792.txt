@@ -1,0 +1,7 @@
+568953367646625792
+United
+@united Both flights went great and improved my view of your airline, cheers! Flight attendents on UA1022 deserve a raise
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 18:00:28 -0800
+location: Boston, Massachusetts

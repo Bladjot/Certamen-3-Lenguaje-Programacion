@@ -1,0 +1,7 @@
+568918820632403969
+United
+@united I think problem resolution should be decided on your end. Especially if you'd like me to continue flying your airline.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 15:43:11 -0800
+location: Austin, Texas

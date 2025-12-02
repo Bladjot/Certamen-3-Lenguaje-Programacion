@@ -1,0 +1,7 @@
+570065109961322496
+Delta
+@JetBlue but the 4 hour policy- when I called and they said I didn't report it soon enough. What would have changed if I had noticed sooner?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 19:38:08 -0800
+location: nan

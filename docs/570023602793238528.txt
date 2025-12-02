@@ -1,0 +1,7 @@
+570023602793238528
+US Airways
+@USAirways It's very difficult to work with Baggage claims when they don't answer the phone
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 16:53:12 -0800
+location: nan

@@ -1,0 +1,7 @@
+567731810910498816
+United
+@united +what took me aback was the response by the flight attendant, who put the responsibility squarely back on passenger's shoulders. +
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 09:06:26 -0800
+location: Bhutan

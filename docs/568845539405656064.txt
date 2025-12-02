@@ -1,0 +1,7 @@
+568845539405656064
+United
+@united thanks for prompt response.  Another hour to enjoy vacation! Perhaps a bug in the app as it still shows 2:55.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 10:51:59 -0800
+location: Tri State NY area...

@@ -1,0 +1,7 @@
+569705220088795136
+United
+@united that's not good enough for all of us affected by the awful organization and timing and have now been set back
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 19:48:03 -0800
+location: Medford, MA

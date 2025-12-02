@@ -1,0 +1,7 @@
+569279670048452608
+Delta
+@JetBlue no, we are at a hotel.  Also, Jetblue lost my daughters luggage.  How do you lose luggage if the plane never actually left!!!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 15:37:04 -0800
+location: nan

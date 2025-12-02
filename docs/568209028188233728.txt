@@ -1,0 +1,7 @@
+568209028188233728
+Virgin America
+.@VirginAmerica If only you guys were starting those flights at the end of the month! Guess I’m still road tripping on Feb 27…
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 16:42:43 -0800
+location: nan

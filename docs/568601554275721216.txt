@@ -1,0 +1,7 @@
+568601554275721216
+Delta
+@JetBlue @NinaDavuluri 😃cool
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 18:42:29 -0800
+location: Manchester,CT

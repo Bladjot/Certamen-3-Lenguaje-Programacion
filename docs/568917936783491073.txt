@@ -1,0 +1,7 @@
+568917936783491073
+United
+@united already Flight Booking Problems next week's trip on @AmericanAir  thanks for making the choice so easy #disunited #unfriendlyskies #servicefail
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 15:39:40 -0800
+location: New York, NY

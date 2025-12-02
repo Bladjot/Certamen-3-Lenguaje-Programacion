@@ -1,0 +1,7 @@
+570035876845084672
+Virgin America
+@VirginAmerica Your chat support is not working on your site: http://t.co/vhp2GtDWPk
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 17:41:58 -0800
+location: San Francisco, CA

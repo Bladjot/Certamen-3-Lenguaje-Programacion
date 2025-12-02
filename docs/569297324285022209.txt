@@ -1,0 +1,7 @@
+569297324285022209
+US Airways
+@USAirways I'm flying with you this Summer. Will I be able to leave Miami Airport during my 12 hour stopover there?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 16:47:13 -0800
+location: Leeds, West Yorkshire

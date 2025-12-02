@@ -1,0 +1,7 @@
+568874399652306944
+US Airways
+@USAirways That's not the question. Question is: how do I get past the computer fastest if we both know that the computer can't help me?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 12:46:40 -0800
+location: nan

@@ -1,0 +1,7 @@
+568059129601724416
+Virgin America
+@VirginAmerica love it, taking @SouthwestAir on in their backyard! Consumers win when biz competes.
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 06:47:05 -0800
+location: San Diego, CA

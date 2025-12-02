@@ -1,0 +1,7 @@
+568885498464374785
+United
+@united I'm fully aware, it's just that your rules are harsh toward the client. Especially since you're going to resell my seat for more $.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 13:30:46 -0800
+location: San Diego, CA

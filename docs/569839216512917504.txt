@@ -1,0 +1,7 @@
+569839216512917504
+American
+@AmericanAir.If I miss saying goodbye to my friend cause of your crappy service I swear you will never hear the end of it.#AmericanAirlines
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 04:40:30 -0800
+location: Brooklyn, NY

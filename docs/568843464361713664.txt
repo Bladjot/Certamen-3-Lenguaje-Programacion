@@ -1,0 +1,7 @@
+568843464361713664
+Delta
+@JetBlue well mine sure aren't anything to write home about!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 10:43:45 -0800
+location: so cal

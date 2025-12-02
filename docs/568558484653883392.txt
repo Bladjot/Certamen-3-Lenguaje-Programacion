@@ -1,0 +1,7 @@
+568558484653883392
+Delta
+@JetBlue Been a member since 2007. Looking to travel next week 2/24-2/27. Couldn't book right away due to all the snow; I'm in BOS.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 15:51:20 -0800
+location: nan

@@ -1,0 +1,7 @@
+567812369902133248
+US Airways
+@USAirways @AmericanAir Your staff members are looking at me like I have two heads. Check your own websites!!! http://t.co/8Hh0c63TIe
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 14:26:33 -0800
+location: nan

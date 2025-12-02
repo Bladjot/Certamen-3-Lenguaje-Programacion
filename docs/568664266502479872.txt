@@ -1,0 +1,7 @@
+568664266502479872
+Southwest
+@SouthwestAir was fantastic! That's the best flight service I've ever had.
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 22:51:41 -0800
+location: Orlando Florida. (Winter Park)

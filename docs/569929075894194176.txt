@@ -1,0 +1,7 @@
+569929075894194176
+Delta
+“@JetBlue: Our fleet's on fleek. http://t.co/8o3SCR5EFW” smh yall expect me to trust a childish airline with my life? #Nah
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 10:37:35 -0800
+location: nan

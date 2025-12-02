@@ -1,0 +1,7 @@
+569630885450002432
+American
+@AmericanAir TY Can you confirm or deny if AA953 left JFK? I want to figure out if more delays are in store. Internet giving different info.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:52:40 -0800
+location: nan

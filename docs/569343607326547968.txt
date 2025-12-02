@@ -1,0 +1,7 @@
+569343607326547968
+Delta
+@JetBlue  thanks for response! Crew has been VERY patient with us, but they are also frustrated. Wouldn't be so bad but airport is closed!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-21 19:51:08 -0800
+location: new york

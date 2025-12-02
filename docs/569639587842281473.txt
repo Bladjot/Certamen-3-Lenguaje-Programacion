@@ -1,0 +1,7 @@
+569639587842281473
+Southwest
+@SouthwestAir Two delayed flights in a row. Neither one of them explained
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:27:15 -0800
+location: ATX/LA

@@ -1,0 +1,7 @@
+570008179280646146
+American
+@AmericanAir I took the day off from work and drove 9 hours round trip to rescue my daughter and 3 other students from LaGuardia. Thanks!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 15:51:54 -0800
+location: nan

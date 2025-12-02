@@ -1,0 +1,7 @@
+569876427270701056
+Delta
+@JetBlue I tried! Had me running from curb-side to self-check &amp; wasting even more time. Ended up Flight Booking Problems United for $$$, am so upset
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-23 07:08:22 -0800
+location: Boston, MA

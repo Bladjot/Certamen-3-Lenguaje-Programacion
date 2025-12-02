@@ -1,0 +1,7 @@
+568451244009742336
+Southwest
+@SouthwestAir, real sincere apology! Makes my day! Glad to know flying mail is more important than me. Never flying SW again! #badservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 08:45:12 -0800
+location: nan

@@ -1,0 +1,7 @@
+569303931916038144
+Virgin America
+@VirginAmerica you suck!
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 17:13:29 -0800
+location: nan

@@ -1,0 +1,7 @@
+570016517829623808
+American
+@AmericanAir Can you provide guidance on how I should work with them to resolve the issue
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 16:25:02 -0800
+location: nan

@@ -1,0 +1,7 @@
+569559370104639488
+Delta
+.@JetBlue thanks for making an effort. Credit where credit is due: flight 795 delayed 5 hours instead of 8 hours. #fwiw #loweredexpectations
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 10:08:30 -0800
+location: nan

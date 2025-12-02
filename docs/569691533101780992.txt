@@ -1,0 +1,7 @@
+569691533101780992
+American
+@AmericanAir ok. Pilots are looking for agents  - they jumped out / FLT 5350 #DFW / this is crazy
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 18:53:40 -0800
+location: New York, NY

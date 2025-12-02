@@ -1,0 +1,7 @@
+567969619849265153
+US Airways
+@USAirways I appreciate the hard work. Still, I gave up after &gt;hour. @dsearls
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 00:51:24 -0800
+location: SBA, BOS, JFK, EWR, SFO, LHR

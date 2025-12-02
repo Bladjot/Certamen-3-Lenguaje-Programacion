@@ -1,0 +1,7 @@
+569503983623999488
+Delta
+@JetBlue you want me to talk to the wall?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 06:28:25 -0800
+location: nan

@@ -1,0 +1,7 @@
+568652138915766272
+US Airways
+@USAirways it was 1838, almost 5 hours Late Flight due  to mechanical.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 22:03:29 -0800
+location: nan

@@ -1,0 +1,7 @@
+569595015518793730
+US Airways
+@USAirways on the phone over an hour waiting for customer service  got wrong fight information cost us 6 hours from trip. Frustrating!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 12:30:08 -0800
+location: Orange, CA

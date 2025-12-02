@@ -1,0 +1,7 @@
+567918161540046848
+US Airways
+@USAirways thanks. We did see an agent. Unhelpful. Some got vouchers others did not for unexplained reasons.
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-17 21:26:55 -0800
+location: Boston, MA

@@ -1,0 +1,7 @@
+569178210325430272
+Delta
+@JetBlue my wife and I booked last minute flights for a funeral separately, but we would like seats 2gether, can you do this if we DM conf#s
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 08:53:54 -0800
+location: New York

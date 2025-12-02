@@ -1,0 +1,7 @@
+569699694454001664
+US Airways
+@USAirways The fact we did not get notified hindered our ability to look for alternate flights before they were snapped up.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:26:06 -0800
+location: Southeastern Pennsylvania USA

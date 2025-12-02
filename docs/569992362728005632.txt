@@ -1,0 +1,7 @@
+569992362728005632
+US Airways
+Great management of @USAirways twitter account. Thank you.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 14:49:03 -0800
+location: Philadelphia, PA USA

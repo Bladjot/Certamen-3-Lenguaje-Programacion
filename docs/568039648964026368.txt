@@ -1,0 +1,7 @@
+568039648964026368
+US Airways
+@USAirways tell reservations to rebook me from 5080 to 5129
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 05:29:40 -0800
+location: nan

@@ -1,0 +1,7 @@
+569906446881697793
+American
+@AmericanAir @USAirways "ma'am if you have a complaint you should visit our customer service desk" {sees line ~45 people deep}
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 09:07:39 -0800
+location: BK

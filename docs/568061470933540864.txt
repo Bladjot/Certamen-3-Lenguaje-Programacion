@@ -1,0 +1,7 @@
+568061470933540864
+US Airways
+@USAirways we might need a plane to get somewhere but just remember that you aren't the only choice #makeovertime#customerserviceplease
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 06:56:23 -0800
+location: Houston Texas

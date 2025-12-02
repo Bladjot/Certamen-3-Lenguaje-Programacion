@@ -1,0 +1,7 @@
+567833247242264577
+Southwest
+@SouthwestAir no, thanks. I think we have it straight!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 15:49:30 -0800
+location: Midlothian, Virginia

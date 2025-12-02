@@ -1,0 +1,7 @@
+569977492720779264
+United
+@United gate announcement states delay due to maintenance yet app says Late Flight arriving aircraft  tell the truth! @unfriendly
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 13:49:58 -0800
+location: nan

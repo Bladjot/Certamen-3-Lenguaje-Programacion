@@ -1,0 +1,7 @@
+569693808914522113
+American
+@AmericanAir my understanding is they were able and did for many other flights but chose not to for this one.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 19:02:43 -0800
+location: New York, NY

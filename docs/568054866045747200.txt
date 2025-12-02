@@ -1,0 +1,7 @@
+568054866045747200
+Southwest
+@SouthwestAir Next once we arrived to Atlanta, we waited a full HOUR before our luggage was placed on a carousel. One hour!
+sentiment: negative
+negativereason: longlines
+created: 2015-02-18 06:30:08 -0800
+location: Somewhere over the rainbow.

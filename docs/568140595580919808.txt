@@ -1,0 +1,7 @@
+568140595580919808
+United
+@united my friend lost luggage on flight 1547. What to do?
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-18 12:10:48 -0800
+location: San Francisco

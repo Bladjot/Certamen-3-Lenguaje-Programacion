@@ -1,0 +1,7 @@
+569642742852268032
+American
+@AmericanAir they could be seen if your horrible customer service group would actually update the information! Never fly American again!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 15:39:48 -0800
+location: Atl

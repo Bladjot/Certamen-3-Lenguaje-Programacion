@@ -1,0 +1,7 @@
+569512447717085185
+Delta
+@JetBlue I hear you and safety is #1! I think we can get to JFK though now so let's help the pilots, passengers &amp; crew get there safely!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 07:02:03 -0800
+location: Larchmont, New York

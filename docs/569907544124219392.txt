@@ -1,0 +1,7 @@
+569907544124219392
+American
+@AmericanAir thanks! a response is better than nothing at all {ahem, @USAirways}
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 09:12:01 -0800
+location: BK

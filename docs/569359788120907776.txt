@@ -1,0 +1,7 @@
+569359788120907776
+Delta
+@JetBlue Thanks for taking me back home today despite Pandora's best efforts to Cancelled Flight the flight. #jetblue #backhome #noplacelikehome
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 20:55:26 -0800
+location: nan

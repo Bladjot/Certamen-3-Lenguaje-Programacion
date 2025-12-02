@@ -1,0 +1,7 @@
+568391382496378880
+Southwest
+@SouthwestAir I'm getting leathery from the heat on 4251 before I even get to Vegas....
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-19 04:47:20 -0800
+location: nan

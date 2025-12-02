@@ -1,0 +1,7 @@
+569993437690245120
+Southwest
+@SouthwestAir I knew I was correct! http://t.co/9eueYxAwcv
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 14:53:20 -0800
+location: nan

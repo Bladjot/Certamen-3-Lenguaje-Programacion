@@ -1,0 +1,7 @@
+568489967808327682
+United
+@united Just saying the truth. You don't even an email! #2015
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 11:19:05 -0800
+location: nan

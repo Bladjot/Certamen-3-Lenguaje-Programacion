@@ -1,0 +1,7 @@
+570114451120074752
+American
+@AmericanAir nothing to do with Mother Nature, more like poor commutation.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 22:54:12 -0800
+location: Moore, OK & Woodway, TX

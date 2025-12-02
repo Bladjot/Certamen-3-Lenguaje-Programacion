@@ -1,0 +1,7 @@
+569180623165915137
+Virgin America
+@VirginAmerica classiq, luv Virgin America. Greetingz
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 09:03:30 -0800
+location: Abuja

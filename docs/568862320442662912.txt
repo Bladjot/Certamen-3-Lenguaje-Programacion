@@ -1,0 +1,7 @@
+568862320442662912
+US Airways
+@USAirways right, can you use a shuttle ticket from LGA to BOS for any shuttle flight? Probably gonna miss the 4pm.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 11:58:40 -0800
+location: Boston, MA

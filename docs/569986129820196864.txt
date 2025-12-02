@@ -1,0 +1,7 @@
+569986129820196864
+American
+@AmericanAir Bad weather is understandable but your own pilot said that over 160 people called out and that ZERO bags are on the plane.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 14:24:17 -0800
+location: The Specific Ocean

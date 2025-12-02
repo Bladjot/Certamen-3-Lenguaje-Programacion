@@ -1,0 +1,7 @@
+568840724700995584
+Virgin America
+@VirginAmerica Funny story, your website is broken, you have missing javascript and stylesheets on the checkin process. I dislike this!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 10:32:51 -0800
+location: Portland, Maine

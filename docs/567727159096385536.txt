@@ -1,0 +1,7 @@
+567727159096385536
+US Airways
+@USAirways  thanks I hope I get to my destination
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 08:47:57 -0800
+location: New York

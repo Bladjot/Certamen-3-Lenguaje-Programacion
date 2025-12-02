@@ -1,0 +1,7 @@
+569964162979221504
+American
+@AmericanAir I need to complain to AA, but the email form field doesn't allow enough characters for my complaint. Have a real email address?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 12:57:00 -0800
+location: Los Angeles, CA

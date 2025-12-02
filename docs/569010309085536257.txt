@@ -1,0 +1,7 @@
+569010309085536257
+United
+@united waiting 12 mins and counting to get through to Global Services....something going on?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 21:46:44 -0800
+location: nan

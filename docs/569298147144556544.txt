@@ -1,0 +1,7 @@
+569298147144556544
+United
+@united I was on UA3782 and it was Cancelled Flightled. I'm waiting at customer service.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 16:50:29 -0800
+location: New Haven, CT

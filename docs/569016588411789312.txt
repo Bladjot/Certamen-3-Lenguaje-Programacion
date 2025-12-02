@@ -1,0 +1,7 @@
+569016588411789312
+US Airways
+@USAirways So when was I supposed to call the Internet Desk? Especially since my reservation told me to directly call the main 1-800 number?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 22:11:41 -0800
+location: nan

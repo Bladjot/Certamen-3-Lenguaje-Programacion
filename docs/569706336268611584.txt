@@ -1,0 +1,7 @@
+569706336268611584
+United
+@united-rebooked to OMA - 180 miles from my destination. Spotty customer service. I get staff stressors but come on, this is your business.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:52:29 -0800
+location: nan

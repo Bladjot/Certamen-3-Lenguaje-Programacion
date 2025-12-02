@@ -1,0 +1,7 @@
+568611024837849088
+Delta
+@JetBlue after 40 mins they tell us they can't check temperature for at least 2 more hours. So it's back to the gate to wait. #mosiacfail
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 19:20:07 -0800
+location: Buffalo

@@ -1,0 +1,7 @@
+569986783024431105
+Southwest
+@SouthwestAir thinks that a $100 voucher makes up for spending 4 hrs on a plane and landing at the same airport we took off from. Really?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 14:26:53 -0800
+location: Kensington, MD

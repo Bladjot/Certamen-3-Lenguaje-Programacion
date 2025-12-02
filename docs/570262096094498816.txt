@@ -1,0 +1,7 @@
+570262096094498816
+American
+@AmericanAir  we are going to the police dept due to the sexual assult that your stewardess allowed to occur and your lack of concern
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-24 08:40:53 -0800
+location: Belle MO

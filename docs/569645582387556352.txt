@@ -1,0 +1,7 @@
+569645582387556352
+United
+@united Never had a flight delayed an hour due to an unbalanced load. And more delays at @flyLAXairport. Great job idiots.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:51:05 -0800
+location: nan

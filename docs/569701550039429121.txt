@@ -1,0 +1,7 @@
+569701550039429121
+American
+@AmericanAir and even worse, by the time you responded to my tweets I took two flights over five hours. And that was the quickest response!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 19:33:28 -0800
+location: New York City

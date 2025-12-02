@@ -1,0 +1,7 @@
+567735409724366848
+Southwest
+@SouthwestAir I need to reschedule a flight and I've been on hold for almost an hour. This is ridiculous. Is there a best number to call?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 09:20:44 -0800
+location: nan

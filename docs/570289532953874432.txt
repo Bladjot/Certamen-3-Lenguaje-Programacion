@@ -1,0 +1,7 @@
+570289532953874432
+US Airways
+@USAirways If I know I left something on my last flight (as I literally had to run to make my connection), how can I retrieve it please?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 10:29:54 -0800
+location: Wherever Travel Team C sent me

@@ -1,0 +1,7 @@
+567859338615865344
+Southwest
+@SouthwestAir No. We were in a large group. Majority of the 30+ bags were soaked.
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-17 17:33:11 -0800
+location: Oklahoma City

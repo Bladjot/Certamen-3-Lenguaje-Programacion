@@ -1,0 +1,7 @@
+568751415390285824
+United
+@united can you help me with a delayed flight as im going to miss my connection?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 04:37:58 -0800
+location: Charlottesville, VA

@@ -1,0 +1,7 @@
+569970829322260481
+American
+.@AmericanAir after 50 minutes on hold, and another 30 minutes on the call yes. Going to be pushing it to get to the airport on time now
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 13:23:29 -0800
+location: PNW

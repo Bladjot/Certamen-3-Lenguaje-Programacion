@@ -1,0 +1,7 @@
+569293965448458240
+United
+@united 15-hr flight w/broken #Dreamliner media system. Witness #mental #breakdown as we bounce off walls. Remind me why I'm 1K.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 16:33:52 -0800
+location: Buffalo, NY

@@ -1,0 +1,7 @@
+569729663351832576
+US Airways
+@USAirways Thank you. I'll do that next time!
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 21:25:11 -0800
+location: RDU

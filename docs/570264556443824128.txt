@@ -1,0 +1,7 @@
+570264556443824128
+United
+@united another fail for the United ticket agents in OKC. LESS than helpful and could care less about our problems. American here we come.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-24 08:50:39 -0800
+location: nan

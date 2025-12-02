@@ -1,0 +1,7 @@
+568148149610483712
+United
+@united, I booked our flights w/ @WestJet. I saw the same prices each time I searched. It wasn't the least bit frustrating. #customerservice
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 12:40:49 -0800
+location: nan

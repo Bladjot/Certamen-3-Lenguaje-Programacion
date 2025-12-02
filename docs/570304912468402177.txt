@@ -1,0 +1,7 @@
+570304912468402177
+United
+@united you think you boarded flight AU1066 too early? I think so.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 11:31:01 -0800
+location: New York

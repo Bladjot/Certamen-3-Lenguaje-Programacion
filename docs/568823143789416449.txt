@@ -1,0 +1,7 @@
+568823143789416449
+US Airways
+@USAirways was on hold for about 45 minutes after speaking 2 lady at the airport counter. Gave up
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 09:23:00 -0800
+location: nan

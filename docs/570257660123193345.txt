@@ -1,0 +1,7 @@
+570257660123193345
+American
+@AmericanAir Any reason why my 1463 flight to Chicago is boarding and I still don't have a seat assignment? Seriously?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 08:23:15 -0800
+location: nan

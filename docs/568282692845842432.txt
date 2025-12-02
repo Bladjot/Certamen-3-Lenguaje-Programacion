@@ -1,0 +1,7 @@
+568282692845842432
+United
+@united  very disappointed by the service starting from gate operator at BOS , who was  rude in stopping a carry-on bag...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 21:35:26 -0800
+location: nan

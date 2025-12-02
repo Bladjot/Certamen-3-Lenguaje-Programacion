@@ -1,0 +1,7 @@
+567852264099999744
+Delta
+@JetBlue Accepting #Apple Pay - Mobile Enterprise http://t.co/Ci5cfrlqBe
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 17:05:04 -0800
+location: USA

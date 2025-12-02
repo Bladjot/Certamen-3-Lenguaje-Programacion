@@ -1,0 +1,7 @@
+569570444027822081
+United
+@united I bought a ticket yesterday and received a confirmation. Tried to check in and they said I hadn't paid for it. So I called was on
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 10:52:30 -0800
+location: Nueva York

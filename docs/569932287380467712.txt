@@ -1,0 +1,7 @@
+569932287380467712
+US Airways
+@USAirways now on hold with customer care.  Wonder if someone will pick up the phone before 5pm.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 10:50:20 -0800
+location: Washington D.C.

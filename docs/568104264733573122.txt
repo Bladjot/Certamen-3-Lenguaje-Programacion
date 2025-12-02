@@ -1,0 +1,7 @@
+568104264733573122
+Virgin America
+@VirginAmerica sad to learn you no longer fly SFO &gt; PHL. Hope it returns!
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 09:46:26 -0800
+location: San Francisco, CA

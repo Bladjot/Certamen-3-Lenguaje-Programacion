@@ -1,0 +1,7 @@
+569976751205584896
+American
+@AmericanAir Am I upgraded on my next flight?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 13:47:01 -0800
+location: Las Vegas, NV

@@ -1,0 +1,7 @@
+567815252881977344
+Southwest
+@SouthwestAir thanks for taking such good care of my luggage... http://t.co/PIvxean3jY
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-17 14:38:00 -0800
+location: Los Angeles, New Orleans!

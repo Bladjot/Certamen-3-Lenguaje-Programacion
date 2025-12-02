@@ -1,0 +1,7 @@
+570234625848696833
+American
+@AmericanAir yes I do I am traveling to Marsh Harbor
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 06:51:43 -0800
+location: Boston, MA

@@ -1,0 +1,7 @@
+568607755042484224
+US Airways
+@USAirways 1st a Late Flight plane, then missing flight crew, then maintenance problems, gates switched 4 times. You call this customer service??
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 19:07:07 -0800
+location: nan

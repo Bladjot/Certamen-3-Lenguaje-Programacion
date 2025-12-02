@@ -1,0 +1,7 @@
+569176777056079874
+Virgin America
+@VirginAmerica Thanks for your great customer service today &amp; for helping me get all my travel sorted out!
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 08:48:13 -0800
+location: Los Angeles, CA

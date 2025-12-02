@@ -1,0 +1,7 @@
+570181406787301378
+American
+@AmericanAir I shared my experience several times (AA Ref#1-2990176298), but AA's response is senseless, weather was not the cause!!!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 03:20:15 -0800
+location: nan

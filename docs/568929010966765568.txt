@@ -1,0 +1,7 @@
+568929010966765568
+US Airways
+@USAirways your team was just terrifyingly rude to a young mother &amp; her baby trying to check in to a flight from PHX to JWA. Help her out.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 16:23:41 -0800
+location: San Francisco & Scottsdale

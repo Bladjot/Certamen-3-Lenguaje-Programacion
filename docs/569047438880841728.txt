@@ -1,0 +1,7 @@
+569047438880841728
+American
+@AmericanAir you need to work harder on the disconnect between your intention and the reality your passengers face
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 00:14:16 -0800
+location: nan

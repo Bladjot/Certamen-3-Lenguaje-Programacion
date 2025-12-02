@@ -1,0 +1,7 @@
+567771077359570944
+Delta
+@JetBlue i'm getting info from the website, but needing to check it and the alerts would be much more beneficial.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 11:42:28 -0800
+location: New York City

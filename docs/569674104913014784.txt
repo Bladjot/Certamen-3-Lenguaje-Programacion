@@ -1,0 +1,7 @@
+569674104913014784
+Delta
+Keep Waiting, time does not cost anything for @JetBlue hundreds people how payed thousand dollars with no feedback http://t.co/Ji2pg4gom9
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:44:25 -0800
+location: ÜT: 18.463449,-70.003608

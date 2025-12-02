@@ -1,0 +1,7 @@
+569805235255783424
+American
+@AmericanAir @nickcunningham1 Except now there is no wait time, the phone system just hangs up on you. So continuing to hold won't help.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 02:25:29 -0800
+location: San Diego

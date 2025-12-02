@@ -1,0 +1,7 @@
+569730716692393984
+United
+@united Why announce it is for rollers at all? If I want to put a coat in there isn't that my choice?  How about all gate checked? Thx
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 21:29:22 -0800
+location: nan

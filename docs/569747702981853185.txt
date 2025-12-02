@@ -1,0 +1,7 @@
+569747702981853185
+United
+@united after 2 days - 1 flight Cancelled Flightled, another delay for 8 hours- united gave me a $7 food voucher. That's how much they value my time??
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 22:36:52 -0800
+location: nan

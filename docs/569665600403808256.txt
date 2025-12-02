@@ -1,0 +1,7 @@
+569665600403808256
+United
+@united this is it... Last time I fly #UnitedAirlines  you screw up every trip now will be stuck in ord and miss work.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 17:10:37 -0800
+location: Toronto Canada

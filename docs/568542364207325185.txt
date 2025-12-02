@@ -1,0 +1,7 @@
+568542364207325185
+Southwest
+@SouthwestAir :( Thanks for the opportunity...
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 14:47:17 -0800
+location: indiana

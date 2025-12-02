@@ -1,0 +1,7 @@
+568078069568839680
+Southwest
+@SouthwestAir your app repeatedly crashed and failed to display my name when checking in. Was unable to use app. http://t.co/0kN7PjelZL
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-18 08:02:20 -0800
+location: Baltimore, MD/Wash. DC area

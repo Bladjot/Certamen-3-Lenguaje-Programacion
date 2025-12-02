@@ -1,0 +1,7 @@
+569497995445559298
+United
+@united is your check-in system down? I'm having trouble checking in for a flight that departs in less than 24 hrs.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 06:04:37 -0800
+location: fort worth, tx

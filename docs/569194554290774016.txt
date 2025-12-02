@@ -1,0 +1,7 @@
+569194554290774016
+Southwest
+@SouthwestAir is the best. Case and point. https://t.co/ucVnilMb4x @ryand2285 #HappyBirthday
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 09:58:51 -0800
+location: Louisville, KY

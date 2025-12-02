@@ -1,0 +1,7 @@
+569693767831146497
+American
+@AmericanAir Hey so I'm very disappointed with my time traveling with you! I've had the worst experience and both times the flight delayed!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 19:02:33 -0800
+location: nan

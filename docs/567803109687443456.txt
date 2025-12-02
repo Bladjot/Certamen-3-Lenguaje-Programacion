@@ -1,0 +1,7 @@
+567803109687443456
+Delta
+@JetBlue don't worry, I'm gonna share with my row! 😁
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 13:49:45 -0800
+location: San Diego, CA

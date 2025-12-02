@@ -1,0 +1,7 @@
+569353033915584513
+Delta
+@JetBlue @Maddie_Flood Your airline sounds outstanding and your Twitter feed is clearly extremely useful. Keep up the great work 😊
+sentiment: positive
+negativereason: nan
+created: 2015-02-21 20:28:36 -0800
+location: From the South to 'THE' South

@@ -1,0 +1,7 @@
+569979612865925120
+American
+@AmericanAir yes, it says it should be deliver within 6 hours after pick up line.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 13:58:24 -0800
+location: ☀️SoFla☀️

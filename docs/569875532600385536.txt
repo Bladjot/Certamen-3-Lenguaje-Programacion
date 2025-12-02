@@ -1,0 +1,7 @@
+569875532600385536
+Southwest
+@SouthwestAir bag in possession but no clothes in bag??
+sentiment: negative
+negativereason: Damaged Luggage
+created: 2015-02-23 07:04:49 -0800
+location: nan

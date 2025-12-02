@@ -1,0 +1,7 @@
+569246786440830977
+United
+@united great job losing one of my six bags on a direct flight.  Don't know how you manage to do it.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-21 13:26:24 -0800
+location: nan

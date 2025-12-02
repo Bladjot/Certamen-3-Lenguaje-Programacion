@@ -1,0 +1,7 @@
+568057812322021376
+Southwest
+@SouthwestAir Flight 2078 to Balt hit turbulence, babies cried, kids vomited. Chaos. Flight attendant Caroline was a superhero.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-18 06:41:51 -0800
+location: Most States in US

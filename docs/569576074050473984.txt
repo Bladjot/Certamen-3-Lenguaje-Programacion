@@ -1,0 +1,7 @@
+569576074050473984
+Delta
+@JetBlue I only fly Jet Blue
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 11:14:52 -0800
+location: San Francisco

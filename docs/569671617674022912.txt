@@ -1,0 +1,7 @@
+569671617674022912
+United
+@united I need to get from Albuquerque, NM, USA, to Cebu, Philippines. I'm providing educational help for 800 kids. Can you help me?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:34:32 -0800
+location: Albuquerque, New Mexico

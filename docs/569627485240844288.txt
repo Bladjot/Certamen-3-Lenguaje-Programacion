@@ -1,0 +1,7 @@
+569627485240844288
+American
+@AmericanAir Reservation Line won't let me speak to a representative because they are too busy. They literally disconnect you. Why bother?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:39:10 -0800
+location: Phoenix, AZ

@@ -1,0 +1,7 @@
+568011684067078144
+United
+@united why haven't you updated that flight 4411 is delayed? Super frustrating
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 03:38:33 -0800
+location: New York, New York

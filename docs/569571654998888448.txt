@@ -1,0 +1,7 @@
+569571654998888448
+US Airways
+@USAirways 30 min delay for mechanics to replace rivets. 30 mins Late Flightr, turns out mechanics had wrong size rivets. 35 more mins. Pathetic
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 10:57:19 -0800
+location: Boston

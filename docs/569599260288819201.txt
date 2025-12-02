@@ -1,0 +1,7 @@
+569599260288819201
+US Airways
+@USAirways yesterday we were delayed for SIX hours w/lil to NO explanation we paid LOTS of $$ 2 fly w/u &amp; this is how u treat ur customers?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 12:47:00 -0800
+location: nan

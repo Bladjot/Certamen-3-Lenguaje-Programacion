@@ -1,0 +1,7 @@
+569817051482726400
+US Airways
+@USAirways so she has to take a Late Flightr flight booked by her corporate (Disney) travel dept, as your agent offered little help
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 03:12:26 -0800
+location: nan

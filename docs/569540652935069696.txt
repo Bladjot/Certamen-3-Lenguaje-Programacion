@@ -1,0 +1,7 @@
+569540652935069696
+US Airways
+@USAirways Cancelled Flightled my flight then put me on a flight the next day.I need help from somebody other than a robot. PLEASE!!! Much appreciated
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 08:54:07 -0800
+location: nan

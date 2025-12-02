@@ -1,0 +1,7 @@
+570033719609827328
+US Airways
+@USAirways #NoService good luck trying to reach a human!  Twice sat on hold for over 50 mins...  #neveragain
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 17:33:24 -0800
+location: Crofton, Maryland

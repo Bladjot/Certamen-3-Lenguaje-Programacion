@@ -1,0 +1,7 @@
+569459269394956288
+US Airways
+@USAirways worst experience with you. Cancelled Flightled flight, no voucher and no luggage because "ramp was broken." No other ramps in Charlotte??
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 03:30:44 -0800
+location: West Virginia

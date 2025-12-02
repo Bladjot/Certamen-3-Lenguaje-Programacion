@@ -1,0 +1,7 @@
+570284862122233856
+American
+@AmericanAir Aww cool! It's nice to know they are still up above my head then. One of my faves.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 10:11:21 -0800
+location: United States

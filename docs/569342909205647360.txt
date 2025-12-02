@@ -1,0 +1,7 @@
+569342909205647360
+Southwest
+@SouthwestAir flight Cancelled Flightled, stuck for 3 days. Paid for "A" boarding. Refused to honor it with rescheduled flight
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 19:48:22 -0800
+location: Havertown, Pa.

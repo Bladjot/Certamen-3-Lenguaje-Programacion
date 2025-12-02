@@ -1,0 +1,7 @@
+568352134422511616
+United
+@united ...she could not access seat map so she said she would note the upgrade in my itinerary and to call back Late Flightr...
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 02:11:22 -0800
+location: Rhode Island

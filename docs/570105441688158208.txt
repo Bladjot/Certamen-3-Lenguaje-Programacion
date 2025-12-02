@@ -1,0 +1,7 @@
+570105441688158208
+United
+@united But they are not... lady one phone says its in tel aviv. Tel Aviv united says its in Newark. No one knows and I have nothing...
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 22:18:24 -0800
+location: San Francisco, CA

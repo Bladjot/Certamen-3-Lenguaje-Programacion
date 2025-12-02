@@ -1,0 +1,7 @@
+569658953828732928
+American
+@AmericanAir trying to check in for flight. On line not working &amp; agents too busy to take my call.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 16:44:13 -0800
+location: The Hague

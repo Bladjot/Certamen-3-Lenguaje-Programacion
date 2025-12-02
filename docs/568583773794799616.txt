@@ -1,0 +1,7 @@
+568583773794799616
+United
+.@united just curious why you'd board a flight without a pilot. Seems crucial to the flight process, no?
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-19 17:31:50 -0800
+location: Arlington, VA

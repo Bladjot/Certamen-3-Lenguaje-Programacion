@@ -1,0 +1,7 @@
+568105722413649920
+Southwest
+@SouthwestAir I'm sorry for straying and going with @AmericanAir I've learned my lesson. These attendants need some SW happiness!
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-18 09:52:13 -0800
+location: Oklahoma

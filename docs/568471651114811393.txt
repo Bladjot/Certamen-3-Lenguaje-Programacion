@@ -1,0 +1,7 @@
+568471651114811393
+United
+@united Case ID 8544484
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 10:06:17 -0800
+location: Los Angeles

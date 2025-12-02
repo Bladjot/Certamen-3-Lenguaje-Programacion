@@ -1,0 +1,8 @@
+568828543423123456
+United
+@united I can tell you. Your airline has lost mine and my families business. 
+This day and age message through Twitter travels fast.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-20 09:44:27 -0800
+location: Louisville, KY

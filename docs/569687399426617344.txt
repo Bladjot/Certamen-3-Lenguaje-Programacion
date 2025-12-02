@@ -1,0 +1,7 @@
+569687399426617344
+American
+@AmericanAir ya but u weren't sitting on the plane.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 18:37:14 -0800
+location: nan

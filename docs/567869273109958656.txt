@@ -1,0 +1,7 @@
+567869273109958656
+Southwest
+@SouthwestAir who should I contact about a missing Rapid Rewards credit?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 18:12:39 -0800
+location: Los Angeles, CA

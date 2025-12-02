@@ -1,0 +1,7 @@
+568895164577685504
+Southwest
+@SouthwestAir LACMA on Fairfax.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-20 14:09:11 -0800
+location: nan

@@ -1,0 +1,7 @@
+568100090390425600
+Virgin America
+@VirginAmerica Now, when will we see VirginAmerica come to Philadelphia (PHL).
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 09:29:50 -0800
+location: nan

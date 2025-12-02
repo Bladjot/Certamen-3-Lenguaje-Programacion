@@ -1,0 +1,7 @@
+569504330551861248
+United
+@united If United loses your baggage they will get it to the airport in the country your in and then it disappears!
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 06:29:47 -0800
+location: nan

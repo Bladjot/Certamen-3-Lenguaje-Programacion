@@ -1,0 +1,7 @@
+567591480085463040
+United
+@united yes. We waited in line for almost an hour to do so. Some passengers just left not wanting to wait past 1am.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-16 23:48:48 -0800
+location: Washington, DC

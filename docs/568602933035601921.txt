@@ -1,0 +1,7 @@
+568602933035601921
+Delta
+@JetBlue I LOVE JET BLUE!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 18:47:58 -0800
+location: 10 ring

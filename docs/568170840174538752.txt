@@ -1,0 +1,7 @@
+568170840174538752
+United
+“@united: @qlyss8 We don't want our customers to be frustrated. Thank you for your patience. ^JT” A lovely sentiment, but not a $180 one.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 14:10:59 -0800
+location: Texas, USA

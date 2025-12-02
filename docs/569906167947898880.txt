@@ -1,0 +1,7 @@
+569906167947898880
+US Airways
+@USAirways @AmericanAir hey since you    f*%#ed my wknd can I have day pass to admirals club or meal coupon or free coke? {blank stare}
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 09:06:33 -0800
+location: BK

@@ -1,0 +1,7 @@
+570296572375900160
+American
+@AmericanAir yes yes yes,so glad to be headed home!
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 10:57:53 -0800
+location: nan

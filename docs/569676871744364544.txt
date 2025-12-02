@@ -1,0 +1,7 @@
+569676871744364544
+United
+@united your seats are god awful.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 17:55:24 -0800
+location: nan

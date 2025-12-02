@@ -1,0 +1,7 @@
+569900832616943616
+United
+@united  #UnitedAirlines  how long will1531 be delayed.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 08:45:21 -0800
+location: Colorado

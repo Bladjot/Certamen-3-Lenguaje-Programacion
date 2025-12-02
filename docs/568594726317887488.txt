@@ -1,0 +1,7 @@
+568594726317887488
+US Airways
+@USAirways Seriously, flight delay Cinci to Philly due to new ground staff, miss connection to MAN UK and now have to argue for hotel. WTF
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 18:15:21 -0800
+location: Sydney boy in Sheffield

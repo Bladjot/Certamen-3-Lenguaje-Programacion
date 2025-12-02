@@ -1,0 +1,7 @@
+568479680229208064
+US Airways
+@USAirways there has been NO one at the Yuma ticket counter for 30 minutes and there are about 30 people in line. Terrible service!!!
+sentiment: negative
+negativereason: longlines
+created: 2015-02-19 10:38:12 -0800
+location: Monterey County, CA

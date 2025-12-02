@@ -1,0 +1,7 @@
+569630593924911104
+American
+@AmericanAir I changed my own flight to tonight. Why couldn't AA do that on my behalf instead of a flight tomorrow? Poor effort all around.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:51:31 -0800
+location: nan

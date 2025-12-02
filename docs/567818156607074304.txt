@@ -1,0 +1,7 @@
+567818156607074304
+Delta
+@JetBlue @EllaHenderson the highlight of being delayed #freeconcert
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 14:49:32 -0800
+location: ❤

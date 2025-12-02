@@ -1,0 +1,7 @@
+569259333197930498
+Southwest
+@SouthwestAir did anyone come into work today? u should have all the pilots and flight attendants answer phones if no one is flying
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 14:16:16 -0800
+location: New Orleans

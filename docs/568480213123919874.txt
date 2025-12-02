@@ -1,0 +1,7 @@
+568480213123919874
+US Airways
+@USAirways @americanair I feel sorry for AA
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-19 10:40:19 -0800
+location: Semiahmoo, WA Soonerland

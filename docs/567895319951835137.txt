@@ -1,0 +1,7 @@
+567895319951835137
+United
+@united Yes. It was the airport person who told me the bag was still in Nashville, when I filed the claim. (1/2)
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-17 19:56:09 -0800
+location: Nashville, TN

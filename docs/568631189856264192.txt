@@ -1,0 +1,7 @@
+568631189856264192
+Delta
+@JetBlue Great Thank you, lets hope so! Could you please notify me if flight 2302 leaves JFK? Thank you again
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 20:40:14 -0800
+location: nan

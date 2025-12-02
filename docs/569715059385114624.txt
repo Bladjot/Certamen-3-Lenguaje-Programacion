@@ -1,0 +1,7 @@
+569715059385114624
+American
+@AmericanAir at the gate when I get off the plane?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 20:27:09 -0800
+location: Boston

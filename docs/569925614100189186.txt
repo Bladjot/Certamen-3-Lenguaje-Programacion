@@ -1,0 +1,7 @@
+569925614100189186
+United
+@united. It's not my first time flying to the US. I have medical info. Looking for practical like my adapted seat cushion allowed on?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 10:23:49 -0800
+location: Scotland

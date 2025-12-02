@@ -1,0 +1,7 @@
+568067065388642304
+United
+@united Thanks to supervisor Miriam who provided me with great customer service. #finally
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 07:18:37 -0800
+location: New York, NY

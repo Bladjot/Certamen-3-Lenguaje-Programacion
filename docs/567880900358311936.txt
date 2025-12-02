@@ -1,0 +1,7 @@
+567880900358311936
+Delta
+@JetBlue @Leopolds_IC  No but my friend in the picture - Phillip Heller (JFK IFC) did and he said it was delicious!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 18:58:52 -0800
+location: nan

@@ -1,0 +1,7 @@
+568419991030087681
+Delta
+@JetBlue ready to go to Disneyworld!  For the @runDisney #PrincessHalf http://t.co/sTQY9V8256
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 06:41:01 -0800
+location: Queens, NY

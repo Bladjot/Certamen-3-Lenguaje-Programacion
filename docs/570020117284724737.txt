@@ -1,0 +1,7 @@
+570020117284724737
+American
+@AmericanAir keep up the good work.  Got me to my destination safe and on time today
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 16:39:21 -0800
+location: nan

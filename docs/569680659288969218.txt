@@ -1,0 +1,7 @@
+569680659288969218
+American
+@AmericanAir you have the poorest trained employees at these desks. I haven't even started to discuss the #lostluggage yet
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 18:10:27 -0800
+location: NY

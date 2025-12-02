@@ -1,0 +1,7 @@
+569219701001179138
+United
+@united But it's doubtful he'll fly United again and he will be traveling a lot as a sales manager covering all of North America
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 11:38:46 -0800
+location: Beautiful Stockton, CA

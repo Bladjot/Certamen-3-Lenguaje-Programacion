@@ -1,0 +1,7 @@
+570098159076171776
+US Airways
+@USAirways thanks very much! I got thru on the phone &amp; everything is fine. Just love the website &amp; app ! Thanks for working on it!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 21:49:27 -0800
+location: nan

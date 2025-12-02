@@ -1,0 +1,7 @@
+568604366690627584
+Delta
+@JetBlue we are bringing 2 guitars. can we bring them as carry on?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 18:53:39 -0800
+location: Hollywood

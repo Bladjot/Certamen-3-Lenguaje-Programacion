@@ -1,0 +1,7 @@
+569613661045690368
+American
+@AmericanAir @karabuxthomps Yeah, I have a lot of questions, number one: how dare you
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 13:44:14 -0800
+location: New York City

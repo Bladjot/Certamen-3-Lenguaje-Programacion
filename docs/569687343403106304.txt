@@ -1,0 +1,7 @@
+569687343403106304
+American
+@AmericanAir I know you can't control weather but you can control how you treat customers..#shafted
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 18:37:01 -0800
+location: nan

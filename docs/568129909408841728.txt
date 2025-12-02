@@ -1,0 +1,7 @@
+568129909408841728
+United
+@united yep, after long waiting on the phone we managed to rebook it. Hope it will be a pleasent one. Thanks for ur help.
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-18 11:28:20 -0800
+location: nan

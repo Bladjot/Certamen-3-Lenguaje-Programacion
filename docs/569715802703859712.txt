@@ -1,0 +1,7 @@
+569715802703859712
+American
+@AmericanAir cost me 1 day of #vacation ($350) and all I got was a rude woman tell me to go to another country and figure out how to get...
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-22 20:30:06 -0800
+location: Philadelphia, PA

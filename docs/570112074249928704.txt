@@ -1,0 +1,7 @@
+570112074249928704
+American
+@AmericanAir is the worst airline in the entire world. I only flew them because I had to and it was the nightmare I knew it would be.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 22:44:45 -0800
+location: nan

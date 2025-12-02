@@ -1,0 +1,7 @@
+569865540098871298
+United
+@united We were supposed to board at 605. They just brought the plane from the hanger! WTF did they not know there was a flight?1153 Lax-EWR
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 06:25:07 -0800
+location: New Jersey

@@ -1,0 +1,7 @@
+569484400594952192
+Delta
+@JetBlue suck and their customer services are the worst  whats the point of having a loyalty scheme that they don't honor #badairline
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 05:10:36 -0800
+location: London/NYC

@@ -1,0 +1,7 @@
+568392783922372608
+Virgin America
+@VirginAmerica that doesn't look to fat to me! It looks yummy!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 04:52:54 -0800
+location: Birmingham, Michigan

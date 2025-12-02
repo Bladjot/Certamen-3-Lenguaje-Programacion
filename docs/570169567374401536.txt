@@ -1,0 +1,7 @@
+570169567374401536
+United
+@united according to your DMs, I'm not owed a refund. please may I be provided with a contact number before I go to my bank to file claim
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 02:33:12 -0800
+location: Nottingham

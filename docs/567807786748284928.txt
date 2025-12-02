@@ -1,0 +1,7 @@
+567807786748284928
+US Airways
+@USAirways stranded @Ernie_Vigil Phoenix w/ broken foot.  Both my flights f'd, Sunday for "sickcrew".  Cancelled Flighted my mechanics flight today.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-17 14:08:20 -0800
+location: nan

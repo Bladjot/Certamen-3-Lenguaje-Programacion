@@ -1,0 +1,7 @@
+570272714205863936
+Southwest
+@SouthwestAir I was told by customer service that only customer relations can extend the expiration date of my unused travel funds.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 09:23:04 -0800
+location: Around...

@@ -1,0 +1,7 @@
+569946472751476737
+US Airways
+@USAirways US 728. Nope, not getting off. 3 hours in the plane. 4 pilot announcements. One water run of the planet's smallest water bottles.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 11:46:42 -0800
+location: nan

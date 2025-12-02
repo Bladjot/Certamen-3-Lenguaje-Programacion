@@ -1,0 +1,7 @@
+568845012777111552
+Southwest
+@SouthwestAir flights from sunny SFO delayed for hours and others Cancelled Flightled left and right with little updates. Any help @SouthwestAir?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 10:49:54 -0800
+location: SF by way of NY and UNC.

@@ -1,0 +1,7 @@
+569754550187352064
+American
+@AmericanAir my mom’s flight tomorrow Cancelled Flighted w/ no notice. Phone system said callback in 2 hours and it’s been 4. I need to go to bed!
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 23:04:04 -0800
+location: San Francisco, CA

@@ -1,0 +1,7 @@
+568807823187976193
+Delta
+@JetBlue I'm #MakingLoveOutofNothingAtAll on my #brandloveaffair to #LAX https://t.co/kdHRUF54sW
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 08:22:07 -0800
+location: New York, NY

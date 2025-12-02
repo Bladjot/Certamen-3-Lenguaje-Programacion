@@ -1,0 +1,7 @@
+569633357451153408
+US Airways
+@usairways I don't understand why I can't get my missing miles? I was on the flight, it was in my Dividend Miles Account… #help
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-22 15:02:30 -0800
+location: Bavaria, Germany

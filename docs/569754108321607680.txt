@@ -1,0 +1,7 @@
+569754108321607680
+American
+@AmericanAir I'm trying to reach the advantage department to add my number to a recent flight
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 23:02:19 -0800
+location: Los Angeles

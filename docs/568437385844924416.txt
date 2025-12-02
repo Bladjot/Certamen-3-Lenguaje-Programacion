@@ -1,0 +1,7 @@
+568437385844924416
+Southwest
+@SouthwestAir is there any chance I could get tickets to the #DestinationDragons show in Vegas? Ive been a huge fan for years! Pretty please
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 07:50:08 -0800
+location: Boston

@@ -1,0 +1,7 @@
+570214789487693824
+American
+@AmericanAir when will there be wifi on the DCA-STL route?  2 hour flight, could use some love!
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-24 05:32:54 -0800
+location: Arlington, VA

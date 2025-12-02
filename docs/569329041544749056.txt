@@ -1,0 +1,7 @@
+569329041544749056
+US Airways
+@USAirways can I get an update on flight 680 to DCA?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 18:53:15 -0800
+location: nan

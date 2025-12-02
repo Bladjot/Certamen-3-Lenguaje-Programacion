@@ -1,0 +1,7 @@
+569624713414250496
+American
+@AmericanAir man we have been sitting in #UA4753 on the tarmac for 30 mins...rescue us please!
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:28:09 -0800
+location: Teh internets

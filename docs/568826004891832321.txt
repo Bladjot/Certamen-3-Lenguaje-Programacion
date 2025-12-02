@@ -1,0 +1,7 @@
+568826004891832321
+US Airways
+@USAirways Not happy with start of trip!  Cancelled Flightled flight #poor customerservice
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-20 09:34:22 -0800
+location: nan

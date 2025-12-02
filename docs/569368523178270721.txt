@@ -1,0 +1,7 @@
+569368523178270721
+United
+@united look at the people tryn to sleep in the airport due to your shitty company not comping rooms after cxl flight http://t.co/o1u96Xc3bo
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 21:30:08 -0800
+location: nan

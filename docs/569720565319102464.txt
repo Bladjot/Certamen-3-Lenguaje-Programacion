@@ -1,0 +1,7 @@
+569720565319102464
+United
+@united A very disappointing experience - plane mech. delay and next one didn't wait. No sincere apology, just told me to complain online
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 20:49:02 -0800
+location: nan

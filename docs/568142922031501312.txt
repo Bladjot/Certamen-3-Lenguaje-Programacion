@@ -1,0 +1,7 @@
+568142922031501312
+US Airways
+@USAirways Can't get ahold of anyone to speak to about missing miles. It's been over a month since travel &amp; I've submitted twice online
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 12:20:02 -0800
+location: Birmingham, AL

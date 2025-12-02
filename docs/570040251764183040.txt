@@ -1,0 +1,7 @@
+570040251764183040
+United
+@united 3 days Late Flightr and my bag has not left IAD, United is not helping at all. Everyone tells me a different story
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 17:59:21 -0800
+location: Lees Summit

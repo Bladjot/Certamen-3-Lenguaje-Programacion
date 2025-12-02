@@ -1,0 +1,7 @@
+567784566614540289
+Delta
+@JetBlue's new CEO Robin Hayes battles to appease passengers and Wall Street - Business In Savannah http://t.co/KKAY8XaPs1
+sentiment: neutral
+negativereason: nan
+created: 2015-02-17 12:36:04 -0800
+location: USA

@@ -1,0 +1,7 @@
+568521960088449025
+Delta
+@JetBlue I can't. I don't have acces to a phone rn. My iPhone broke. :/ would rather change it now then Late Flightr.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 13:26:12 -0800
+location: Logan International Airport

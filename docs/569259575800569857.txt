@@ -1,0 +1,7 @@
+569259575800569857
+United
+@united no bag tagging, led to many people backing up the aisle to front with bags
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-21 14:17:13 -0800
+location: nan

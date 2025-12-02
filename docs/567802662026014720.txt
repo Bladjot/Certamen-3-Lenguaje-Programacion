@@ -1,0 +1,7 @@
+567802662026014720
+United
+@united thank you! I wish the lady in Little Rock had told me that in the morning when I asked her
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 13:47:58 -0800
+location: Conway, AR

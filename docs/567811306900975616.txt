@@ -1,0 +1,7 @@
+567811306900975616
+United
+@united I'll be sending/posting complete details of the circumstances surrounding this matter.  United airlines should be ashamed.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 14:22:19 -0800
+location: New Canaan, Ct

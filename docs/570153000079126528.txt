@@ -1,0 +1,7 @@
+570153000079126528
+American
+@AmericanAir thanks for the canned reply.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-24 01:27:22 -0800
+location: Manhattan

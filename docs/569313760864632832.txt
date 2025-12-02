@@ -1,0 +1,7 @@
+569313760864632832
+Southwest
+@SouthwestAir How do I retroactively add previous flights/miles/points to current rapid rewards balance?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 17:52:32 -0800
+location: Austin, TX

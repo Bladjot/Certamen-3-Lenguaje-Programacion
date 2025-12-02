@@ -1,0 +1,7 @@
+568161997935607808
+US Airways
+@USAirways you see now that is a lie.  They auto respond with insulting email. #sucks
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 13:35:50 -0800
+location: nan

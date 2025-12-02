@@ -1,0 +1,7 @@
+569310635986546688
+Virgin America
+@VirginAmerica  for all my flight stuff wrong and did nothing about it. Had #worst #flight ever
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-21 17:40:07 -0800
+location: Las Vegas, NV

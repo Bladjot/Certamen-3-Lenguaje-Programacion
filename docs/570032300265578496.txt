@@ -1,0 +1,7 @@
+570032300265578496
+Southwest
+@SouthwestAir Looks like brooding skies out of ONT this evening. http://t.co/X9BLwgWA68
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 17:27:45 -0800
+location: Vancouver, WA

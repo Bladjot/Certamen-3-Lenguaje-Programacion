@@ -1,0 +1,7 @@
+569625607476158465
+American
+.@AmericanAir: the best the agent could do is put me on a flight arriving tomorrow afternoon, with a six hour layover.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 14:31:42 -0800
+location: New York, NY

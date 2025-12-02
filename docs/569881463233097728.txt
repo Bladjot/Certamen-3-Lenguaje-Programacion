@@ -1,0 +1,7 @@
+569881463233097728
+American
+@AmericanAir dm me your email address,  I will tell you my ordeal, then you tell me what you think is fair
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 07:28:23 -0800
+location: nan

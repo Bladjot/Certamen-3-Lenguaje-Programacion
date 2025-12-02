@@ -1,0 +1,7 @@
+570078379421990912
+US Airways
+@USAirways done it! Process initiated Saturday morning.  Can't get info with website issues &amp; inadequate phone coverage.  How 2 get update??
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 20:30:51 -0800
+location: Knoxville

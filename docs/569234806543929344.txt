@@ -1,0 +1,7 @@
+569234806543929344
+US Airways
+@USAirways  And now your half assed plane is falling apart. Some one tell my family I love them! #DoBetter http://t.co/UA6doUA34l
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-21 12:38:48 -0800
+location: CT, USA

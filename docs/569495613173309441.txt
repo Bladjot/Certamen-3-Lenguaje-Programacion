@@ -1,0 +1,7 @@
+569495613173309441
+US Airways
+@USAirways Never heard back, but this would help: Any chance I could bump up my flight time closer to 3pm today? I'm on flight 3960.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 05:55:09 -0800
+location: ÜT: 43.182918,-77.651224

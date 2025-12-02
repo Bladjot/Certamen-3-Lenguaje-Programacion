@@ -1,0 +1,7 @@
+567812402764374016
+Virgin America
+@VirginAmerica thanks for the free birthday points! y'all are ALL RIGHT with me!
+sentiment: positive
+negativereason: nan
+created: 2015-02-17 14:26:40 -0800
+location: Oakland, CA

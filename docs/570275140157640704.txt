@@ -1,0 +1,7 @@
+570275140157640704
+United
+@United  My bag is still in Colo Springs. I am disabled and have to search an unfamiliar airport and look for my bag. Not a good outcome
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 09:32:43 -0800
+location: Jacksonville, FL

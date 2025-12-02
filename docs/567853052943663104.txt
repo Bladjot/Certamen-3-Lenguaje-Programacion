@@ -1,0 +1,7 @@
+567853052943663104
+United
+@united they held the flight for our group of nearly 20 people.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 17:08:12 -0800
+location: Hilo, HI

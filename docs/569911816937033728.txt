@@ -1,0 +1,7 @@
+569911816937033728
+Virgin America
+@VirginAmerica I like the TV and interesting video . Just disappointed in Cancelled Flightled flight when other flights went out to jfk on Saturday .
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 09:29:00 -0800
+location: nan

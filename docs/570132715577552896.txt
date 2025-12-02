@@ -1,0 +1,7 @@
+570132715577552896
+American
+@AmericanAir I did twice.got a letter back saying that your company "doesn't issue refunds for phone bills" help!phone will be shut off
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 00:06:46 -0800
+location: san francisco califorania

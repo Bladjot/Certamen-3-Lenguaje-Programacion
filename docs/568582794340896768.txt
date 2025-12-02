@@ -1,0 +1,7 @@
+568582794340896768
+Southwest
+@SouthwestAir  I look forward to those direct flights to California to see my family more often. Thank you @MichaelBColeman #byebyeusairline
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 17:27:56 -0800
+location: nan

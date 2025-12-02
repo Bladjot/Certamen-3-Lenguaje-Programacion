@@ -1,0 +1,7 @@
+569981034110050305
+United
+@united first time flying with United. Also last time. #terrible back to @VirginAtlantic for me. #branson #virginatlantic #UnitedAirlines
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 14:04:02 -0800
+location: nan

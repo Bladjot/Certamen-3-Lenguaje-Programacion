@@ -1,0 +1,7 @@
+569254331725139968
+Southwest
+@SouthwestAir hey southwest! Can I see @Imaginedragons in Atlanta? My friend has never been there, loves them, and he is from Taiwan!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-21 13:56:23 -0800
+location: City of Angels

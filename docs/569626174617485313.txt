@@ -1,0 +1,7 @@
+569626174617485313
+American
+@AmericanAir  Dear American, when did 2 hour hold times become the industry standard?  Have you heard of additional staffing during weather?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 14:33:57 -0800
+location: Tampa, Fl

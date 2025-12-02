@@ -1,0 +1,7 @@
+568643040073506816
+Virgin America
+@VirginAmerica How about some free drinks on the flight back for the free promo?
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 21:27:20 -0800
+location: Dallas, TX

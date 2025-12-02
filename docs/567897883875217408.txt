@@ -1,0 +1,7 @@
+567897883875217408
+US Airways
+@USAirways 5 hr flight delay and a delay when we land . Is that even real life ? Get me off this plane , I wanna go home 👠👠👠 (3 heel clicks)
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-17 20:06:21 -0800
+location: nan

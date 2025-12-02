@@ -1,0 +1,7 @@
+568262481698803712
+United
+@united we finally just arrive to Bogota, good but long flight!!
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 20:15:08 -0800
+location: Colombia

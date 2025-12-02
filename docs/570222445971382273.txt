@@ -1,0 +1,7 @@
+570222445971382273
+American
+@AmericanAir I know this is probably a no but is there a way to get a cheaper airfare ticket if the flight is leaving in a few hours? 🙏
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 06:03:19 -0800
+location: nan

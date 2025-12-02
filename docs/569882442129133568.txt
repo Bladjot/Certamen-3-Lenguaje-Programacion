@@ -1,0 +1,7 @@
+569882442129133568
+US Airways
+@USAirways here's to sitting on hold for 4 hrs flight Cancelled Flighted and they disconnect twice. #fend4urself #stranded #diverted
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-23 07:32:16 -0800
+location: Stafford VA

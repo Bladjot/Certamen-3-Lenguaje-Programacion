@@ -1,0 +1,7 @@
+570273880486629377
+US Airways
+@USAirways not going as planned is an understatement. My flight was just changed AGAIN. If it weren't for a family emergency, I'd Cancelled Flight.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-24 09:27:42 -0800
+location: Saratoga Springs

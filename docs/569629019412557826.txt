@@ -1,0 +1,7 @@
+569629019412557826
+United
+@united - Plane came in with broken seat.  Rather than fix it they put a broken sign on it and separated me from my kids.
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-22 14:45:16 -0800
+location: New York

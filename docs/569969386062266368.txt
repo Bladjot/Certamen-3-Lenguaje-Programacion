@@ -1,0 +1,7 @@
+569969386062266368
+US Airways
+@USAirways owes Tammy from the Winston-Salem call center for keeping me as a customer!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 13:17:45 -0800
+location: nan

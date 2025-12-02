@@ -1,0 +1,7 @@
+567753872967528448
+US Airways
+.@USAirways we r rebooked. got conflicting info abt baggage. Y no extra plane batteries on hand? Y no comped admirals club for 9 hr wait?
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-17 10:34:06 -0800
+location: Albany, NY

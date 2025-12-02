@@ -1,0 +1,7 @@
+568549003626811392
+US Airways
+@USAirways flight 437 PHX&gt;ORD.  Lead FA Bill is the most professional FA I have seen in 9 years of flying USAir. I have no AB cards. :-(
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 15:13:40 -0800
+location: nan

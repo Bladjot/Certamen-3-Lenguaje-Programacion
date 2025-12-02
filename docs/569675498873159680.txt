@@ -1,0 +1,7 @@
+569675498873159680
+Delta
+@JetBlue the amount of money I spent on hotels for a WEEK bc of flight Cancelled Flightlation, another flight doesn't make up for the money lost.
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-22 17:49:57 -0800
+location: LA/NY

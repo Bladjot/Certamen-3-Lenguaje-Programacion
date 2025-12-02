@@ -1,0 +1,7 @@
+568391639158226944
+United
+@united spends 20 minutes beating up a lady about her bag fees.  Random stranger comes up and pays the fee.  #Randomactsofcorporategreed
+sentiment: negative
+negativereason: Flight Attendant Complaints
+created: 2015-02-19 04:48:21 -0800
+location: nan

@@ -1,0 +1,7 @@
+570240625536323585
+American
+@AmericanAir Yes, talked to them. FLL says is at central. Central says is at FLL and here we go again. I'm betting this will go 6 mths
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-24 07:15:34 -0800
+location: nan

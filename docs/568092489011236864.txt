@@ -1,0 +1,7 @@
+568092489011236864
+Southwest
+@SouthwestAir - Apology accepted! #customerserviceWIN #itravelalot http://t.co/z5znfwkKWP
+sentiment: positive
+negativereason: nan
+created: 2015-02-18 08:59:38 -0800
+location: los angeles, ca

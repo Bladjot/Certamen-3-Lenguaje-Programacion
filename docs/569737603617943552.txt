@@ -1,0 +1,7 @@
+569737603617943552
+Virgin America
+@VirginAmerica I like the customer service but a 40 min delay just for connecting passengers seems too long. VA370
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-22 21:56:44 -0800
+location: nan

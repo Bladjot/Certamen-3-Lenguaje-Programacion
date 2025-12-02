@@ -1,0 +1,7 @@
+568061922265804802
+Virgin America
+@VirginAmerica I miss the #nerdbird in San Jose
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 06:58:11 -0800
+location: San Jose, California

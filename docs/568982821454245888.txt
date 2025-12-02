@@ -1,0 +1,7 @@
+568982821454245888
+US Airways
+@USAirways us air should be ashamed of this service - on hold for hours? No help from any representative just to reschedule due to weather ?
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-20 19:57:30 -0800
+location: nan

@@ -1,0 +1,7 @@
+568112237765722113
+United
+@united. Thanks United for the no running water and Late Flight flight from Grand Rapids to Denver
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-18 10:18:07 -0800
+location: nan

@@ -1,0 +1,7 @@
+570033624306708481
+American
+@AmericanAir Absolutely!
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 17:33:01 -0800
+location: Houston

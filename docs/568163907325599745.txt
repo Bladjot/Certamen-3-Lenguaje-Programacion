@@ -1,0 +1,7 @@
+568163907325599745
+US Airways
+@USAirways Looking forward to some friends and family time in Arizona.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 13:43:26 -0800
+location: DC

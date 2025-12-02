@@ -1,0 +1,7 @@
+568431007654924288
+United
+@united I know I can see that too but now estimated time of dep. is 10am. I don't understand why there wasn't a better estimate 3 hrs ago
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-19 07:24:47 -0800
+location: Los Angeles, CA

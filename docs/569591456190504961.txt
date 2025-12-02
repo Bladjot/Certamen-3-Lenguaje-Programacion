@@ -1,0 +1,7 @@
+569591456190504961
+United
+@united You must follow me in order for me to send you a direct message if that is what you meant.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 12:16:00 -0800
+location: nan

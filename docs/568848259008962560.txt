@@ -1,0 +1,7 @@
+568848259008962560
+United
+@united Flight is awful only one lavatory functioning, and people lining up, bumping, etc. because can't use 1st class bathroom. Ridiculous
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-20 11:02:48 -0800
+location: Santa Barbara CA

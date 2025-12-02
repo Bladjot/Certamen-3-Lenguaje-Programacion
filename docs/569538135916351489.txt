@@ -1,0 +1,7 @@
+569538135916351489
+Delta
+“@JetBlue: @2littlebirds Beautiful shot.. Thanks for sharing. Using #FlyFi to post? ;)” Your welcome! Not on this flight. It was a quickie;)
+sentiment: positive
+negativereason: nan
+created: 2015-02-22 08:44:07 -0800
+location: LA CA USA

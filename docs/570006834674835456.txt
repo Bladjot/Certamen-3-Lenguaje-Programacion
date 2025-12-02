@@ -1,0 +1,7 @@
+570006834674835456
+American
+@AmericanAir Thank you for the response, we got it resolved at the counter.
+sentiment: positive
+negativereason: nan
+created: 2015-02-23 15:46:34 -0800
+location: Chicago, IL

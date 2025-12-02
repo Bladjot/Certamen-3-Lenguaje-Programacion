@@ -1,0 +1,7 @@
+570075716861206528
+American
+@AmericanAir do you guys have wifi on international flights?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 20:20:17 -0800
+location: The gym, having a pizza.

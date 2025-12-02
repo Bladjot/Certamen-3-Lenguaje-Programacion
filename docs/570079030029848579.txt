@@ -1,0 +1,7 @@
+570079030029848579
+American
+@AmericanAir 2hr and 20 min delayed...still waiting...you need to do something to improve... http://t.co/1m36NTPTR8
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 20:33:26 -0800
+location: nan

@@ -1,0 +1,7 @@
+569254571622727682
+Delta
+@JetBlue Tell me at what point will u realize u can't fly into DCA tonight- u Cancelled Flightled the 1pm when will u Cancelled Flight the 5:26
+sentiment: negative
+negativereason: Cancelled Flight
+created: 2015-02-21 13:57:20 -0800
+location: Washington, DC

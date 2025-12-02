@@ -1,0 +1,7 @@
+569850912451072000
+American
+@AmericanAir stiiiil waiting. Please respond as my flight leaves in 2 1/2 hrs
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 05:26:59 -0800
+location: nan

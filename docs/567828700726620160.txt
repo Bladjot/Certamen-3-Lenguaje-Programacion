@@ -1,0 +1,7 @@
+567828700726620160
+United
+@united once again your customer service rep was rude!   I asked a question and in turn got attitude.  Jane was no help.  Disgusted again!
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 15:31:26 -0800
+location: nan

@@ -1,0 +1,7 @@
+568906503358259200
+Delta
+@JetBlue Jan 5? That's not summer http://t.co/TpzhjX7Hbt
+sentiment: negative
+negativereason: Flight Booking Problems
+created: 2015-02-20 14:54:14 -0800
+location: SJ-BOS-SJ

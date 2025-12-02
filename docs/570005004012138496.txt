@@ -1,0 +1,7 @@
+570005004012138496
+US Airways
+@usairways &amp; @AmericanAir planes in #grandcayman http://t.co/GX7QbtckBr
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 15:39:17 -0800
+location: Washington, DC

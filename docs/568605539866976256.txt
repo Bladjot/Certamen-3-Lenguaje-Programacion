@@ -1,0 +1,7 @@
+568605539866976256
+US Airways
+@USAirways We're having 2 grandbabies in 2 weeks -- will travel to DC for the births. Thank you for the reasonable fares!  See you Saturday!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 18:58:19 -0800
+location: Farmington Hills, MI

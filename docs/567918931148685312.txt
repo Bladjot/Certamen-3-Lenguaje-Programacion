@@ -1,0 +1,7 @@
+567918931148685312
+Delta
+@JetBlue not to mention the fact that we paid extra just to fly jetblue thinking it was the most reliable..
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-17 21:29:59 -0800
+location: BOSTON

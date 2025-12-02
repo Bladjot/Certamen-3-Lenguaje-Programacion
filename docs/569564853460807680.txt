@@ -1,0 +1,7 @@
+569564853460807680
+Virgin America
+@VirginAmerica got a flight (we were told) for 4:50 today..,checked my email and its for 4;50 TOMORROW. This is unacceptable.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 10:30:17 -0800
+location: Brooklyn

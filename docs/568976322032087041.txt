@@ -1,0 +1,7 @@
+568976322032087041
+Southwest
+@SouthwestAir sucks. Passengers leaving the plane to make room luggage, checking luggage and getting back on. Delayed flights to same city.
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-20 19:31:40 -0800
+location: San Francisco, CA

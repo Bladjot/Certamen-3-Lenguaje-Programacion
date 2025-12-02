@@ -1,0 +1,7 @@
+569580648505020416
+United
+@united - tick, tock, tick, tock, it is rapidly approaching the next dream departure of 1:45pm. When is the next fantasy departure time??
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 11:33:03 -0800
+location: nan

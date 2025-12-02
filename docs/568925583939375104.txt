@@ -1,0 +1,7 @@
+568925583939375104
+United
+@united You can bump me up to Group 3 so I won't be forced to check my bag and wait 30+ minutes at LGA.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-20 16:10:03 -0800
+location: New York

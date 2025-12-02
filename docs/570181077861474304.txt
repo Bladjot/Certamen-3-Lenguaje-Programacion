@@ -1,0 +1,7 @@
+570181077861474304
+American
+@AmericanAir record number is BPDFPP.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 03:18:57 -0800
+location: nan

@@ -1,0 +1,7 @@
+570071999780933634
+United
+@united question:are there onboad 110 volt outlets in all planes? If so, where?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 20:05:30 -0800
+location: Alphen aan den Rijn

@@ -1,0 +1,7 @@
+570010973047795713
+US Airways
+@USAirways @VincesViews  there are significant number of folks on 686 connecting to 599 a few minutes hold would make many happy
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 16:03:00 -0800
+location: San Jose, Ca

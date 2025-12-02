@@ -1,0 +1,8 @@
+570191286667513856
+American
+@AmericanAir there's a lot of talks and no doing. 
+MIA-SFO on a 20+ year old plane #nonewplanes #old #shame http://t.co/TwETPXUpPN
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-24 03:59:31 -0800
+location: Miami

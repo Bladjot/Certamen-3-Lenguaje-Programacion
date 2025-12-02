@@ -1,0 +1,7 @@
+568269180153274368
+Southwest
+@SouthwestAir my PR class would luv to know who's in charge of your Twitter. How many people write your tweets? #gracias
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 20:41:45 -0800
+location: Omaha, NE

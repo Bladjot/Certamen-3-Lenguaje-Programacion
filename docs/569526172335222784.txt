@@ -1,0 +1,7 @@
+569526172335222784
+United
+@united same day flights
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 07:56:35 -0800
+location: Atlanta, GA

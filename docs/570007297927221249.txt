@@ -1,0 +1,7 @@
+570007297927221249
+US Airways
+@USAirways 4 hours on tarmac in Charleston and still can't get a response after a week. Unacceptable
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-23 15:48:24 -0800
+location: Las Vegas, NV

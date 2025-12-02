@@ -1,0 +1,7 @@
+569839807787958273
+American
+@AmericanAir why is there only one checkpoint open at JFK terminal 8? Ridiculous.
+sentiment: negative
+negativereason: longlines
+created: 2015-02-23 04:42:51 -0800
+location: LA via NY via SP

@@ -1,0 +1,7 @@
+569890651107491840
+American
+@AmericanAir two were non revs, right?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 08:04:53 -0800
+location: Portland, Oregon

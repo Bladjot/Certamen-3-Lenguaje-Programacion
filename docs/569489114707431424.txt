@@ -1,0 +1,7 @@
+569489114707431424
+Delta
+@JetBlue I travel for business twice a week and after the @AmericanAir fiasco, I'll be flying blue more often. Thanks.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 05:29:20 -0800
+location: nan

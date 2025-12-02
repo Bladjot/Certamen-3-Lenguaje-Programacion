@@ -1,0 +1,7 @@
+569747280552538112
+American
+@AmericanAir The word failure means: an act or instance of failing or proving unsuccessful; lack of success nonperformance of something due.
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-22 22:35:11 -0800
+location: El Paso, TX

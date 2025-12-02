@@ -1,0 +1,7 @@
+568319110779514880
+Southwest
+@SouthwestAir Thx Ops Agt Rich Westagard n Flight Att. Nancy @ DEN Airport.Held flight 1027 n even saved seat 4 Bus Select #CustomersFirst!
+sentiment: positive
+negativereason: nan
+created: 2015-02-19 00:00:09 -0800
+location: Indianapolis, USA

@@ -1,0 +1,7 @@
+568450413365571584
+United
+@united I have already emailed but I didn't know if it was more expedient to contact you here. Please advise. Thanks.
+sentiment: neutral
+negativereason: nan
+created: 2015-02-19 08:41:54 -0800
+location: Los Angeles, CA

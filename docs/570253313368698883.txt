@@ -1,0 +1,7 @@
+570253313368698883
+Southwest
+@SouthwestAir LA always has traffic, but this is INSANE. I can't be the only one with this issue on flight 1625
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-24 08:05:59 -0800
+location: San Juan, Brooklyn, LA

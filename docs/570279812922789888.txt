@@ -1,0 +1,7 @@
+570279812922789888
+Southwest
+@SouthwestAir my flight at BWI is delayed and I will miss my flight in Denver, is there a way to find out if they will hold the plane?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-24 09:51:17 -0800
+location: nan

@@ -1,0 +1,7 @@
+570040888321318912
+Delta
+@JetBlue Are all of your flights out of Charleston tomorrow on-time or is there a possibility for delays/Cancelled Flightlations?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-23 18:01:53 -0800
+location: Olympia, WA  ✈ Charleston, SC

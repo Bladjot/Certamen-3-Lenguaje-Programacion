@@ -1,0 +1,7 @@
+568154805362950146
+United
+@united Can someone assist me with my DM's? Waiting 1 hour on phone, 2 hours on Twitter.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 13:07:16 -0800
+location: New York, NY

@@ -1,0 +1,7 @@
+569676450552537088
+American
+@AmericanAir why is it most first class passengers now request the sand which from coach ?
+sentiment: neutral
+negativereason: nan
+created: 2015-02-22 17:53:44 -0800
+location: nan

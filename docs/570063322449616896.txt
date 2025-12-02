@@ -1,0 +1,7 @@
+570063322449616896
+Delta
+@JetBlue - Hopefully that will help someone in the future. Would there have been a different procedure if I had discovered the theft sooner?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 19:31:01 -0800
+location: nan

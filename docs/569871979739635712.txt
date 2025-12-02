@@ -1,0 +1,7 @@
+569871979739635712
+American
+@AmericanAir It's our honeymoon,I paid extra business. I was sitting next to my bride, you bumped me because of status. Disgusted
+sentiment: negative
+negativereason: Bad Flight
+created: 2015-02-23 06:50:42 -0800
+location: Tampa, Florida

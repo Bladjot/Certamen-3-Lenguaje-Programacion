@@ -1,0 +1,7 @@
+567883485542658048
+United
+@united My wife has been on the phone several times for past 3 days, with no result.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-17 19:09:08 -0800
+location: San Francisco

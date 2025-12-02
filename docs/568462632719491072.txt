@@ -1,0 +1,7 @@
+568462632719491072
+United
+@united unfortunately, that doesn't help. Just an automated computer.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 09:30:27 -0800
+location: nan

@@ -1,0 +1,7 @@
+569742305499828224
+American
+@AmericanAir Yes and without my bags. 2 first class tickets to Tahiti would be nice. Just saying
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 22:15:25 -0800
+location: Natchitoches, LA

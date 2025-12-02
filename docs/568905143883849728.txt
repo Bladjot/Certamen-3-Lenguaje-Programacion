@@ -1,0 +1,7 @@
+568905143883849728
+Delta
+@JetBlue - looking forward to it when we finally take off.
+sentiment: positive
+negativereason: nan
+created: 2015-02-20 14:48:50 -0800
+location: Suburb of Boston, MA

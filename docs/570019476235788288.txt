@@ -1,0 +1,7 @@
+570019476235788288
+United
+@united the proper response: sorry for your wait, what flight # were you on so we can look into the issue. That's how @Delta would handle.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-23 16:36:48 -0800
+location: nan

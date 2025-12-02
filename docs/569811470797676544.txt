@@ -1,0 +1,7 @@
+569811470797676544
+American
+@AmericanAir 953 our  fligth Somthing to talk  about this?
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-23 02:50:15 -0800
+location: Buenos Aires

@@ -1,0 +1,7 @@
+568111503812870144
+United
+@united KN: not allowing me to bypass the receipt # on the refund request form. Never received receipt email. charged http://t.co/Cju102xP2k
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 10:15:12 -0800
+location: Austin, TX

@@ -1,0 +1,7 @@
+569842452716236800
+United
+@united @ShowExpert what is going on with United's Mileage Program? You pay $500 for a ticket and get a fraction of that as PQD credit?
+sentiment: negative
+negativereason: Can't Tell
+created: 2015-02-23 04:53:22 -0800
+location: Boulder, Colorado

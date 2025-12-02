@@ -1,0 +1,7 @@
+568067622698291200
+United
+@united 6344,6373, Sfo-Dfw also 1576 SFO-ORD
+sentiment: neutral
+negativereason: nan
+created: 2015-02-18 07:20:50 -0800
+location: nan

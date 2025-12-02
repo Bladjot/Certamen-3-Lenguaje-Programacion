@@ -1,0 +1,7 @@
+569638751598563328
+Southwest
+@SouthwestAir been sleeping on the floor like I'm homeless and now delayed flights because the equipment isn't working! I have a job to get2
+sentiment: negative
+negativereason: Late Flight
+created: 2015-02-22 15:23:56 -0800
+location: nan

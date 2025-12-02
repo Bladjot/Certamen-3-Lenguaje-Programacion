@@ -1,0 +1,7 @@
+570142263290011649
+United
+@united thank you. Been trying for two days to set this up.
+sentiment: positive
+negativereason: nan
+created: 2015-02-24 00:44:42 -0800
+location: nan

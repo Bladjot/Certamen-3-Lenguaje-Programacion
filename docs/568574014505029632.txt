@@ -1,0 +1,7 @@
+568574014505029632
+United
+@united I'm confused. After your @Dulles_Airport agents directed us to go to your website after DELAYS nothing works! http://t.co/cypRHe5GOK
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-19 16:53:03 -0800
+location: Jacksonville Beach, FL

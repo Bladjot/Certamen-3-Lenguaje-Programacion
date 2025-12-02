@@ -1,0 +1,7 @@
+569555413450027011
+US Airways
+@USAirways are the bags off Flight 1898 CLT to JFK? We landed last night just before midnight.
+sentiment: negative
+negativereason: Lost Luggage
+created: 2015-02-22 09:52:47 -0800
+location: New York City

@@ -1,0 +1,7 @@
+568058084846911488
+Southwest
+@SouthwestAir Lastly, for a company that's trying to put the love in flying it would be nice to have someone personally address my concerns.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-18 06:42:56 -0800
+location: Somewhere over the rainbow.

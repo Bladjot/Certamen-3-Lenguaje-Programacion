@@ -1,0 +1,7 @@
+569076249487925248
+Southwest
+@SouthwestAir I need your help but no one will pick up the phone.
+sentiment: negative
+negativereason: Customer Service Issue
+created: 2015-02-21 02:08:45 -0800
+location: St. Louis, MO
